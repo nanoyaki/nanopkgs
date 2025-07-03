@@ -13,7 +13,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `drop2beets` -> `6bda199`
 - `lidarr` -> `2.13.0.4664`
 - `meow` -> `2.1.4`
-- `midnight-theme` -> `a27e909`
+- `midnight-theme` -> `0a080c1`
 - `nvchecker` -> `2.18`
 - `openrgb` -> `6793d4a`
 - `osu-lazer-bin` -> `2025.607.1`
@@ -27,7 +27,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shoko-webui` -> `2.3.0-dev.3`
 - `shokofin` -> `5.0.3-dev.10`
 - `startvrc`
-- `suwayomi-server` -> `2.0.1820`
-- `suwayomi-webui` -> `21671f3`
+- `suwayomi-server` -> `2.0.1827`
+- `suwayomi-webui` -> `b69b0d4`
 - `whisparr` -> `3.0.0.1149`
 - `writeSystemdToggle`
