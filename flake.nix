@@ -31,6 +31,7 @@
         ./update.nix
         ./treefmt.nix
         ./dev.nix
+        ./template.nix
       ];
 
       perSystem =

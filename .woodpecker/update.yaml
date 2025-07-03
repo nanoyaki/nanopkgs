@@ -44,6 +44,9 @@ steps:
       - git remote set-url origin git@github.com:nanoyaki/nanopkgs.git
 
       - nix run .#update -- ~/.secrets/keys.toml
+      - nix run .#update-readme
+      - git add README.md
+      - git commit --amend --no-edit
 
       - (git diff --quiet HEAD $CI_COMMIT_SHA && exit 0) || echo "Updates found, pushing
         commit."
