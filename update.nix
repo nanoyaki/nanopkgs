@@ -3,7 +3,13 @@
 # SPDX-License-Identifier: MIT
 {
   perSystem =
-    { pkgs, self', ... }:
+    {
+      lib,
+      pkgs,
+      self',
+      ...
+    }:
+
     {
       apps.update = {
         type = "app";
@@ -20,12 +26,47 @@
               gawk
               findutils
             ])
-            ++ [
-              self'.packages.nvchecker
-            ];
+            ++ (with self'.packages; [
+              nvchecker
+            ]);
           text =
             let
+              inherit (lib)
+                importTOML
+                attrNames
+                remove
+                map
+                concatMapStrings
+                concatStringsSep
+                filter
+                hasPrefix
+                ;
+              inherit (lib.lists) findFirstIndex;
+
               nvchecker = ''nvchecker -c source.toml -k "''${1:-/run/secrets/keys.toml}" -l debug --failures -e'';
+
+              packages = attrNames (importTOML ./nvfetcher.toml);
+              additionalVersions = remove "__config__" (attrNames (importTOML ./source.toml));
+
+              conditionalUpdates =
+                concatMapStrings
+                  (
+                    package:
+                    "\ngrep -q \"${package}:\" /tmp/nvfetcher_changelog \\\n"
+                    + (concatStringsSep " \\\n" (
+                      map (additionalVersion: "\ \ && ${nvchecker} \"${additionalVersion}\"") (
+                        filter (additionalVersion: hasPrefix "${package}." additionalVersion) additionalVersions
+                      )
+                    ))
+                  )
+                  (
+                    filter (
+                      package:
+                      (findFirstIndex (additionalVersion: hasPrefix "${package}." additionalVersion) (
+                        -1
+                      ) additionalVersions) > -1
+                    ) packages
+                  );
             in
             ''
               set -e
@@ -34,23 +75,7 @@
 
               nix flake update
               nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-/run/secrets/keys.toml}"
-
-              grep -q "suwayomi-webui" /tmp/nvfetcher_changelog \
-                && ${nvchecker} "suwayomi-webui.revision" \
-                && ${nvchecker} "suwayomi-webui.yarnHash"
-
-              grep -q "suwayomi-server" /tmp/nvfetcher_changelog \
-                && ${nvchecker} "suwayomi-server.gradleDepsHash" \
-                && ${nvchecker} "suwayomi-server.version"
-
-              grep -q "shoko:" /tmp/nvfetcher_changelog \
-                && ${nvchecker} "shoko.nugetDepsHash"
-
-              grep -q "shoko-webui" /tmp/nvfetcher_changelog \
-                && ${nvchecker} "shoko-webui.pnpmHash"
-
-              grep -q "shokofin" /tmp/nvfetcher_changelog \
-                && ${nvchecker} "shokofin.nugetDepsHash"
+              ${conditionalUpdates}
 
               nvcmp -c source.toml | sed 's|->|→|g' > /tmp/nvchecker_changelog
 
@@ -67,7 +92,7 @@
         };
 
         meta.description = ''
-          Update pkgs/{_sources,_versions} and flake.lock
+          Update pkgs
         '';
       };
 
