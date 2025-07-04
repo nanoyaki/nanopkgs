@@ -30,7 +30,8 @@ steps:
       - echo "$GITHUB_KEY" > ~/.ssh/id_ed25519
       - |
         echo \
-        "github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl" > \
+        "github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl
+        git.theless.one ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPkogFEPPOMfkRsBgyuHDQeWQMetWCZbkTpnfajTbu7t" > \
         ~/.ssh/known_hosts
       - |
         echo "[keys]
@@ -42,6 +43,7 @@ steps:
       - git config user.name "nanoyaki (autoupdate)"
       - git config core.sshCommand "ssh -i ~/.ssh/id_ed25519"
       - git remote set-url origin git@github.com:nanoyaki/nanopkgs.git
+      - git remote set-url --add origin git@git.theless.one:nanoyaki/nanopkgs.git
 
       - nix run .#update -- ~/.secrets/keys.toml
       - nix run .#update-readme
