@@ -23,11 +23,11 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `python-modernize` -> `f06b20a`
 - `python3` -> `3.13.4`
 - `rofi-themes` -> `adfcc07`
-- `shoko` -> `5.1.0-dev.93`
+- `shoko` -> `5.1.0-dev.94`
 - `shoko-webui` -> `2.3.0-dev.3`
 - `shokofin` -> `5.0.3-dev.10`
 - `startvrc`
-- `suwayomi-server` -> `2.0.1827`
-- `suwayomi-webui` -> `b69b0d4`
+- `suwayomi-server` -> `2.0.1833`
+- `suwayomi-webui` -> `85cec6f`
 - `whisparr` -> `3.0.0.1149`
 - `writeSystemdToggle`
