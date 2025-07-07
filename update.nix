@@ -43,10 +43,10 @@
                 ;
               inherit (lib.lists) findFirstIndex;
 
-              nvchecker = ''nvchecker -c source.toml -k "''${1:-/run/secrets/keys.toml}" -l debug --failures -e'';
+              nvchecker = ''nvchecker -c nvchecker.toml -k "''${1:-/run/secrets/keys.toml}" -l debug --failures -e'';
 
               packages = attrNames (importTOML ./nvfetcher.toml);
-              additionalVersions = remove "__config__" (attrNames (importTOML ./source.toml));
+              additionalVersions = remove "__config__" (attrNames (importTOML ./nvchecker.toml));
 
               conditionalUpdates =
                 concatMapStrings
@@ -77,7 +77,8 @@
               nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-/run/secrets/keys.toml}"
               ${conditionalUpdates}
 
-              nvcmp -c source.toml | sed 's|->|→|g' > /tmp/nvchecker_changelog
+              nvcmp -c nvchecker.toml | sed 's|->|→|g' > /tmp/nvchecker_changelog
+              nvtake -c nvchecker.toml --all && rm '_versions/old_versions.json~'
 
               git add _sources _versions pkgs/**/deps.json flake.lock update*
               git commit -m "chore: Update $(date +"%d.%m.%y")

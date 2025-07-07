@@ -18,8 +18,7 @@ let
     ;
   inherit (builtins) readDir;
 
-  # Converts the nvchecker format into the keys defined
-  # in the nvchecker source.toml
+  # Converts the nvchecker format into the keys defined in nvchecker.toml
   versionData = (importJSON ../_versions/new_versions.json).data;
   _versions = foldr (
     name: attrs:
