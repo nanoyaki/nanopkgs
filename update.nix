@@ -78,7 +78,7 @@
               ${conditionalUpdates}
 
               nvcmp -c nvchecker.toml | sed 's|->|→|g' > /tmp/nvchecker_changelog
-              nvtake -c nvchecker.toml --all && rm '_versions/old_versions.json~'
+              nvtake -c nvchecker.toml --all && rm '_versions/old_versions.json~' || :
 
               git add _sources _versions pkgs/**/deps.json flake.lock update*
               git commit -m "chore: Update $(date +"%d.%m.%y")
