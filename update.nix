@@ -104,13 +104,130 @@
           runtimeInputs = [ pkgs.coreutils ];
           text = ''
             nix-shell "${pkgs.path}/maintainers/scripts/update.nix" \
-              --arg include-overlays "[ (import $(pwd) { }).overlays.default ]" \
+              --arg include-overlays "[ (import $(pwd)).overlays.default ]" \
               --argstr path "$1"
           '';
         };
 
         meta.description = ''
           Run nixpkgs update scripts for overlayed packages
+        '';
+      };
+
+      apps.update-dotnet = {
+        type = "app";
+        program = pkgs.writeShellApplication {
+          name = "update-dotnet";
+          runtimeInputs = with pkgs; [
+            gnused
+            gawk
+            coreutils-full
+            nix
+          ];
+          checkPhase = "";
+          text = ''
+            debug="''${DEBUG_NVCHECKER:-}"
+
+            package="$1"
+            dir="$2"
+
+            log="./update_$package.log"
+            outLink="$(mktemp ./XXXXXX_out_link -u)"
+            updateScript="$(mktemp ./XXXXXX_update_script.sh -u)"
+
+            bash -c "$(cat << EOF
+            set -xe
+
+            nix build .#"''${package}".fetch-deps --out-link $outLink
+            sed 's|/nix/store/[^/]*-source/'"''${dir}"'/'"''${package}"'/deps\.json|'"''${dir}"'/'"''${package}"'/deps.json|g' \
+                "\$(readlink -f $outLink)" \
+                > $updateScript
+            sed 's|/nix/store/[^/]*-source/pkgs/by-name/'"''${package:0:2}"'/'"$package"'|'"$(pwd)/''${dir}"'/'"''${package}"'|g' $updateScript \
+                > $updateScript.tmp \
+                && mv $updateScript.tmp $updateScript
+            chmod +x $updateScript
+            $updateScript
+
+            rm $outLink $updateScript
+            EOF)" &> "$log"
+            if [ -z "$debug" ]; then rm "$log"; fi
+
+            nix hash convert --hash-algo sha256 --to sri "$(sha256sum "$dir/$package/deps.json" | awk '{ print $1 }')"
+          '';
+        };
+
+        meta.description = ''
+          Update dotnet package and output the deps' sha256 hash
+        '';
+      };
+
+      apps.update-gradle = {
+        type = "app";
+        program = pkgs.writeShellApplication {
+          name = "update-gradle";
+          runtimeInputs = with pkgs; [
+            gnused
+            gawk
+            nix
+          ];
+          checkPhase = "";
+          text = ''
+            debug="''${DEBUG_NVCHECKER:-}"
+
+            package="$1"
+            dir="$2"
+
+            log="./update_$package.log"
+            outLink="$(mktemp ./XXXXXX_out_link -u)"
+            updateScript="$(mktemp ./XXXXXX_update_script.sh -u)"
+
+            bash -c "$(cat << EOF
+            set -xe
+
+            nix build .#"''${package}".mitmCache.updateScript --out-link $outLink
+            sed 's|/nix/store/[^/]*-source/'"''${dir}"'/'"''${package}"'/deps\.json|'"''${dir}"'/'"''${package}"'/deps.json|g' \
+                "\$(readlink -f $outLink)" \
+                > $updateScript
+            sed 's|useBwrap="''${USE_BWRAP:-1}"|useBwrap=""|g' $updateScript \
+                > $updateScript.tmp \
+                && mv $updateScript.tmp $updateScript
+            sed 's|/nix/store/[^/]*-source/pkgs/by-name/'"''${package:0:2}"'/'"$package"'|'"$(pwd)/''${dir}"'/'"''${package}"'|g' $updateScript \
+                > $updateScript.tmp \
+                && mv $updateScript.tmp $updateScript
+            chmod +x $updateScript
+            $updateScript
+
+            rm $outLink $updateScript
+            EOF)" &> "$log"
+            if [ -z "$debug" ]; then rm "$log"; fi
+
+            nix hash convert --hash-algo sha256 --to sri $(sha256sum "$dir/$package/deps.json" | awk '{ print $1 }')
+          '';
+        };
+
+        meta.description = ''
+          Update gradle package and output the deps' sha256 hash
+        '';
+      };
+
+      apps.prefetch-yarn = {
+        type = "app";
+        program = pkgs.writeShellApplication {
+          name = "prefetch-yarn";
+          runtimeInputs = with pkgs; [
+            prefetch-yarn-deps
+            nix
+          ];
+          text = ''
+            package="$1"
+
+            hash="$(prefetch-yarn-deps "$(nix eval --raw .\#"$package.src.outPath")/yarn.lock")"
+            nix hash convert --hash-algo sha256 --to sri "$hash"
+          '';
+        };
+
+        meta.description = ''
+          Generate sri-hash for yarn deps of package
         '';
       };
     };

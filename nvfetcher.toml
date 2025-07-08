@@ -26,9 +26,8 @@ src.github_tag = "ppy/osu"
 src.include_regex = "202\\d\\.\\d{1,4}\\.\\d"
 
 [prowlarr]
-fetch.url = "https://prowlarr.servarr.com/v1/update/develop/updatefile?version=$ver&os=linux&runtime=netcore&arch=x64"
-src.cmd = "curl -L 'https://prowlarr.servarr.com/v1/update/develop/changes' --fail | jq -r '.[0].version'"
-url.name = "prowlarr-src-$ver.tar.gz"
+fetch.git = "https://github.com/Prowlarr/Prowlarr.git"
+src.github_tag = "Prowlarr/Prowlarr"
 
 [pyon]
 fetch.git = "https://github.com/nanoyaki/pyon.git"

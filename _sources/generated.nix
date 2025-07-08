@@ -62,11 +62,15 @@
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "2.0.0.5094";
-    src = fetchurl {
-      url = "https://prowlarr.servarr.com/v1/update/develop/updatefile?version=2.0.0.5094&os=linux&runtime=netcore&arch=x64";
-      name = "prowlarr-src-2.0.0.5094.tar.gz";
-      sha256 = "sha256-JiKCR4OEzJCcOeTg05DtC4EddkDu+nDHvhz+lMFrumk=";
+    version = "v2.0.0.5094";
+    src = fetchgit {
+      url = "https://github.com/Prowlarr/Prowlarr.git";
+      rev = "v2.0.0.5094";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-JiSBCTtf6ABoQqZEE19HO9111qfm+L4yJdF/lWc0rdM=";
     };
   };
   pyon = {
