@@ -62,15 +62,15 @@
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "v2.0.0.5094";
+    version = "v2.0.1.5101";
     src = fetchgit {
       url = "https://github.com/Prowlarr/Prowlarr.git";
-      rev = "v2.0.0.5094";
+      rev = "v2.0.1.5101";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-JiSBCTtf6ABoQqZEE19HO9111qfm+L4yJdF/lWc0rdM=";
+      sha256 = "sha256-YPDBrhehXH4mBiGODBa72khGzpxVkjEtc9VLl9y90o0=";
     };
   };
   pyon = {
@@ -141,31 +141,31 @@
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "0ef6d745149a400747c06da7e611802c660ce185";
+    version = "8323ef5f4180f0bb9040757c216f98b4116e50c8";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "0ef6d745149a400747c06da7e611802c660ce185";
+      rev = "8323ef5f4180f0bb9040757c216f98b4116e50c8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-P8H0mMdlRnEOyLvwSt4lRrzO5labBZ7aIV4MZlFccEE=";
+      sha256 = "sha256-5AnoZfCZpI46OWQ0hYQHRC+Fy6CZCr2XK6+Z0HPjfsQ=";
     };
-    date = "2025-07-06";
+    date = "2025-07-08";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "85cec6fd8d62036df56a7d6b44c48404dd19050d";
+    version = "74f0fec02d76ebf84db13ceaf43d14bc0aa6c42a";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "85cec6fd8d62036df56a7d6b44c48404dd19050d";
+      rev = "74f0fec02d76ebf84db13ceaf43d14bc0aa6c42a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-4DpNGGhyrQiRpAr3+fVvkhFQKDjGXveErZ9h4eB1ikQ=";
+      sha256 = "sha256-nW7rboujqai5oUuXzPeWY65+2a3khUmED+Ixc/x47ME=";
     };
-    date = "2025-07-05";
+    date = "2025-07-09";
   };
   whisparr = {
     pname = "whisparr";

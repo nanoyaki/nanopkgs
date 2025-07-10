@@ -54,7 +54,7 @@ final: prev: {
 
         yarnOfflineCache = final.fetchYarnDeps {
           yarnLock = "${finalAttrs.src}/yarn.lock";
-          hash = final._versions.prowlarr.yarnHash;
+          hash = final._versions.prowlarr._yarnHash;
         };
       }
       finalAttrs
