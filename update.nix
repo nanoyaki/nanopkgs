@@ -24,7 +24,9 @@
               jq
               gnused
               gawk
+              gnugrep
               findutils
+              coreutils-full
             ])
             ++ (with self'.packages; [
               nvchecker
@@ -90,6 +92,7 @@
 
               exit 0
             '';
+          inheritPath = false;
         };
 
         meta.description = ''
@@ -126,34 +129,27 @@
           ];
           checkPhase = "";
           text = ''
-            debug="''${DEBUG_NVCHECKER:-}"
-
             package="$1"
             dir="$2"
 
-            log="./update_$package.log"
             outLink="$(mktemp ./XXXXXX_out_link -u)"
             updateScript="$(mktemp ./XXXXXX_update_script.sh -u)"
 
-            bash -c "$(cat << EOF
-            set -xe
-
-            nix build .#"''${package}".fetch-deps --out-link $outLink
+            nix build .#"''${package}".fetch-deps --out-link $outLink &> /dev/null
             sed 's|/nix/store/[^/]*-source/'"''${dir}"'/'"''${package}"'/deps\.json|'"''${dir}"'/'"''${package}"'/deps.json|g' \
-                "\$(readlink -f $outLink)" \
+                "$(readlink -f $outLink)" \
                 > $updateScript
             sed 's|/nix/store/[^/]*-source/pkgs/by-name/'"''${package:0:2}"'/'"$package"'|'"$(pwd)/''${dir}"'/'"''${package}"'|g' $updateScript \
                 > $updateScript.tmp \
                 && mv $updateScript.tmp $updateScript
             chmod +x $updateScript
-            $updateScript
+            $updateScript &> /dev/null
 
             rm $outLink $updateScript
-            EOF)" &> "$log"
-            if [ -z "$debug" ]; then rm "$log"; fi
 
             nix hash convert --hash-algo sha256 --to sri "$(sha256sum "$dir/$package/deps.json" | awk '{ print $1 }')"
           '';
+          inheritPath = false;
         };
 
         meta.description = ''
@@ -168,25 +164,20 @@
           runtimeInputs = with pkgs; [
             gnused
             gawk
+            coreutils-full
             nix
           ];
           checkPhase = "";
           text = ''
-            debug="''${DEBUG_NVCHECKER:-}"
-
             package="$1"
             dir="$2"
 
-            log="./update_$package.log"
             outLink="$(mktemp ./XXXXXX_out_link -u)"
             updateScript="$(mktemp ./XXXXXX_update_script.sh -u)"
 
-            bash -c "$(cat << EOF
-            set -xe
-
-            nix build .#"''${package}".mitmCache.updateScript --out-link $outLink
+            nix build .#"''${package}".mitmCache.updateScript --out-link $outLink &> /dev/null
             sed 's|/nix/store/[^/]*-source/'"''${dir}"'/'"''${package}"'/deps\.json|'"''${dir}"'/'"''${package}"'/deps.json|g' \
-                "\$(readlink -f $outLink)" \
+                "$(readlink -f $outLink)" \
                 > $updateScript
             sed 's|useBwrap="''${USE_BWRAP:-1}"|useBwrap=""|g' $updateScript \
                 > $updateScript.tmp \
@@ -195,14 +186,13 @@
                 > $updateScript.tmp \
                 && mv $updateScript.tmp $updateScript
             chmod +x $updateScript
-            $updateScript
+            $updateScript &> /dev/null
 
             rm $outLink $updateScript
-            EOF)" &> "$log"
-            if [ -z "$debug" ]; then rm "$log"; fi
 
             nix hash convert --hash-algo sha256 --to sri $(sha256sum "$dir/$package/deps.json" | awk '{ print $1 }')
           '';
+          inheritPath = false;
         };
 
         meta.description = ''
@@ -224,6 +214,7 @@
             hash="$(prefetch-yarn-deps "$(nix eval --raw .\#"$package.src.outPath")/yarn.lock")"
             nix hash convert --hash-algo sha256 --to sri "$hash"
           '';
+          inheritPath = false;
         };
 
         meta.description = ''
