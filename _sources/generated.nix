@@ -117,10 +117,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.94";
+    version = "5.1.0-dev.95";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.94.tar.gz";
-      sha256 = "sha256-0BR3VEi1yWIZTjkTBpUIdepoKNDblGo8tOy3J/y1P6k=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.95.tar.gz";
+      sha256 = "sha256-aZGPQC+mSsWGGsrRgZH9QhdwieM7PRWPMXe0JHk6M2M=";
     };
   };
   shoko-webui = {
@@ -133,10 +133,10 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.3-dev.10";
+    version = "5.0.3-dev.11";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.10.tar.gz";
-      sha256 = "sha256-eujJvjPf3qFrqJ6BBmX6RwT2hqevttKDq9JPfF4i/Ec=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.11.tar.gz";
+      sha256 = "sha256-L0AuRNCXs+e2i+c/89TdGvCKgg5eqZJDve2ggqlGStY=";
     };
   };
   suwayomi-server = {

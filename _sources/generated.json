@@ -177,11 +177,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-0BR3VEi1yWIZTjkTBpUIdepoKNDblGo8tOy3J/y1P6k=",
+            "sha256": "sha256-aZGPQC+mSsWGGsrRgZH9QhdwieM7PRWPMXe0JHk6M2M=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.94.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.95.tar.gz"
         },
-        "version": "5.1.0-dev.94"
+        "version": "5.1.0-dev.95"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -205,11 +205,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-eujJvjPf3qFrqJ6BBmX6RwT2hqevttKDq9JPfF4i/Ec=",
+            "sha256": "sha256-L0AuRNCXs+e2i+c/89TdGvCKgg5eqZJDve2ggqlGStY=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.10.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.11.tar.gz"
         },
-        "version": "5.0.3-dev.10"
+        "version": "5.0.3-dev.11"
     },
     "suwayomi-server": {
         "cargoLocks": null,
