@@ -177,11 +177,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-aZGPQC+mSsWGGsrRgZH9QhdwieM7PRWPMXe0JHk6M2M=",
+            "sha256": "sha256-l87PHIYNjujJUU+63tZpo7tqyJUwxVQSVXPK1R+fTYI=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.95.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.96.tar.gz"
         },
-        "version": "5.1.0-dev.95"
+        "version": "5.1.0-dev.96"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -233,7 +233,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-07-09",
+        "date": "2025-07-12",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -243,13 +243,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "74f0fec02d76ebf84db13ceaf43d14bc0aa6c42a",
-            "sha256": "sha256-nW7rboujqai5oUuXzPeWY65+2a3khUmED+Ixc/x47ME=",
+            "rev": "a77a587e597b5d1c68a0b48575bff5f5eb9caacf",
+            "sha256": "sha256-Xkr1LyRInC/9rWKM/u0Y7RLp0ph4WXeKNCLX1NRjnSY=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "74f0fec02d76ebf84db13ceaf43d14bc0aa6c42a"
+        "version": "a77a587e597b5d1c68a0b48575bff5f5eb9caacf"
     },
     "whisparr": {
         "cargoLocks": null,
