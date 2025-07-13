@@ -34,6 +34,26 @@
         },
         "version": "2.13.0.4664"
     },
+    "luarenamer": {
+        "cargoLocks": null,
+        "date": null,
+        "extract": null,
+        "name": "luarenamer",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "v5.6.0",
+            "sha256": "sha256-Ljbu/3Cdv2zhX0/6+dmIhh78W5JfDl322PqvWsH57fc=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/Mik1ll/LuaRenamer.git"
+        },
+        "version": "v5.6.0"
+    },
     "midnight-theme": {
         "cargoLocks": null,
         "date": "2025-06-30",

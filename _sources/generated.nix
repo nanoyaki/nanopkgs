@@ -24,6 +24,19 @@
       sha256 = "sha256-ODIPtlpzZcZWZxTBXt5r5xpJ4ZWbpGnJ2Na7QVEvrlw=";
     };
   };
+  luarenamer = {
+    pname = "luarenamer";
+    version = "v5.6.0";
+    src = fetchgit {
+      url = "https://github.com/Mik1ll/LuaRenamer.git";
+      rev = "v5.6.0";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-Ljbu/3Cdv2zhX0/6+dmIhh78W5JfDl322PqvWsH57fc=";
+    };
+  };
   midnight-theme = {
     pname = "midnight-theme";
     version = "0a080c1b62898a8776c1cb117989b02660e32ac7";

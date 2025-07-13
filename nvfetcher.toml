@@ -11,6 +11,10 @@ fetch.url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=$ve
 src.cmd = "curl -L 'https://lidarr.servarr.com/v1/update/develop/changes' --fail | jq -r '.[0].version'"
 url.name = "lidarr-src-$ver.tar.gz"
 
+[luarenamer]
+fetch.git = "https://github.com/Mik1ll/LuaRenamer.git"
+src.github_tag = "Mik1ll/LuaRenamer"
+
 [midnight-theme]
 fetch.git = "https://github.com/refact0r/midnight-discord.git"
 src.git = "https://github.com/refact0r/midnight-discord.git"
