@@ -23,7 +23,7 @@ buildDotnetModule (finalAttrs: {
 
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
-  dotnetBuildFlags = "/p:InformationalVersion=\"channel=stable\"";
+  dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev\"";
 
   executables = [ "Shoko.CLI" ];
   makeWrapperArgs = [
