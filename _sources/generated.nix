@@ -130,18 +130,18 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.100";
+    version = "5.1.0-dev.101";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.100.tar.gz";
-      sha256 = "sha256-ziQWH7tKUyyw+N2XYS/udHye+wz2jJKj3S/Oo/l8DLA=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.101.tar.gz";
+      sha256 = "sha256-6aZ2hawAZliIHUPtWOm4dK3ARB+r9zr2muNAWVW+93I=";
     };
   };
   shoko-webui = {
     pname = "shoko-webui";
-    version = "2.3.0-dev.3";
+    version = "2.3.0-dev.4";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.3.tar.gz";
-      sha256 = "sha256-JW2qxwtPjbif1PFQKJMW97CfT2ACrKEnURd25kfKXwo=";
+      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.4.tar.gz";
+      sha256 = "sha256-ujJ+YKscDwTSckfOQZH0ynSw55fLDPZ0AO9K/KG1zm8=";
     };
   };
   shokofin = {
@@ -154,31 +154,31 @@
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "8323ef5f4180f0bb9040757c216f98b4116e50c8";
+    version = "7c506a42aecd122dd7fdb44a6559b39b0c6e878b";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "8323ef5f4180f0bb9040757c216f98b4116e50c8";
+      rev = "7c506a42aecd122dd7fdb44a6559b39b0c6e878b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-5AnoZfCZpI46OWQ0hYQHRC+Fy6CZCr2XK6+Z0HPjfsQ=";
+      sha256 = "sha256-aZKCAuOFOBxrhECbk7LrgUyXJ98LwVFrly+gyyY8ggM=";
     };
-    date = "2025-07-08";
+    date = "2025-07-14";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "73f8c722049543047cc9318063d004a13d885cf9";
+    version = "4d573174c6df37f3a6b4b16821fc06289fdb4dc9";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "73f8c722049543047cc9318063d004a13d885cf9";
+      rev = "4d573174c6df37f3a6b4b16821fc06289fdb4dc9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-1f9K8XBumylnqqQjfTYzUY9FNdu9LfkGrNaUmezL8tU=";
+      sha256 = "sha256-Yv+Y5jJ4AEGt2cW9aSiaOX7oWMR5cqSJq/F2Gc9kU4E=";
     };
-    date = "2025-07-12";
+    date = "2025-07-15";
   };
   whisparr = {
     pname = "whisparr";
