@@ -24,7 +24,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `python-modernize` -> `f06b20a`
 - `python3` -> `3.13.5`
 - `rofi-themes` -> `d6ae472`
-- `shoko` -> `5.1.0-dev.103`
+- `shoko` -> `5.1.0-dev.105`
 - `shoko-webui` -> `2.3.0-dev.4`
 - `shokofin` -> `5.0.3-dev.11`
 - `startvrc`

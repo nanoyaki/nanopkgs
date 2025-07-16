@@ -130,10 +130,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.103";
+    version = "5.1.0-dev.105";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.103.tar.gz";
-      sha256 = "sha256-0TWGQTPsGNRxN1SGV4w6HJOs6R7rnDAzwIkFbbUrKYQ=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.105.tar.gz";
+      sha256 = "sha256-uMb2QizKxi4V2ldn3Ov/jc/yiXdi+quv90FwafVlnD0=";
     };
   };
   shoko-webui = {
