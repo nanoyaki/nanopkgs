@@ -28,7 +28,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shoko-webui` -> `2.3.0-dev.4`
 - `shokofin` -> `5.0.3-dev.11`
 - `startvrc`
-- `suwayomi-server` -> `2.0.1851`
+- `suwayomi-server` -> `2.0.1854`
 - `suwayomi-webui` -> `4d57317`
 - `whisparr` -> `3.0.0.1163`
 - `writeSystemdToggle`
