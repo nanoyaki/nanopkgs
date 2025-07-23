@@ -75,15 +75,15 @@
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "v2.0.1.5101";
+    version = "v2.0.2.5116";
     src = fetchgit {
       url = "https://github.com/Prowlarr/Prowlarr.git";
-      rev = "v2.0.1.5101";
+      rev = "v2.0.2.5116";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-YPDBrhehXH4mBiGODBa72khGzpxVkjEtc9VLl9y90o0=";
+      sha256 = "sha256-ouJg2FevCnJ0vjYkBL7Dh0QK2/SIH+pPfO6xD2m839M=";
     };
   };
   pyon = {
@@ -146,10 +146,10 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.3-dev.11";
+    version = "5.0.3-dev.12";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.11.tar.gz";
-      sha256 = "sha256-L0AuRNCXs+e2i+c/89TdGvCKgg5eqZJDve2ggqlGStY=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.12.tar.gz";
+      sha256 = "sha256-GCJ3rFy6ll0orpqbaeueYDqBvikfnv0euKySgkwUN3c=";
     };
   };
   suwayomi-server = {

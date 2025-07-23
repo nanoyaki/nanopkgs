@@ -121,13 +121,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v2.0.1.5101",
-            "sha256": "sha256-YPDBrhehXH4mBiGODBa72khGzpxVkjEtc9VLl9y90o0=",
+            "rev": "v2.0.2.5116",
+            "sha256": "sha256-ouJg2FevCnJ0vjYkBL7Dh0QK2/SIH+pPfO6xD2m839M=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Prowlarr/Prowlarr.git"
         },
-        "version": "v2.0.1.5101"
+        "version": "v2.0.2.5116"
     },
     "pyon": {
         "cargoLocks": null,
@@ -225,11 +225,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-L0AuRNCXs+e2i+c/89TdGvCKgg5eqZJDve2ggqlGStY=",
+            "sha256": "sha256-GCJ3rFy6ll0orpqbaeueYDqBvikfnv0euKySgkwUN3c=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.11.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.12.tar.gz"
         },
-        "version": "5.0.3-dev.11"
+        "version": "5.0.3-dev.12"
     },
     "suwayomi-server": {
         "cargoLocks": null,
