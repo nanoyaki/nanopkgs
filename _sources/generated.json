@@ -46,13 +46,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v5.6.0",
-            "sha256": "sha256-Ljbu/3Cdv2zhX0/6+dmIhh78W5JfDl322PqvWsH57fc=",
+            "rev": "v5.7.0",
+            "sha256": "sha256-pslhO6Kt9QqAE1jCFaIa0pzhGLfY4cTQhC+sh2lQYPk=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Mik1ll/LuaRenamer.git"
         },
-        "version": "v5.6.0"
+        "version": "v5.7.0"
     },
     "midnight-theme": {
         "cargoLocks": null,
@@ -225,11 +225,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-GCJ3rFy6ll0orpqbaeueYDqBvikfnv0euKySgkwUN3c=",
+            "sha256": "sha256-YrJ1iGRxYBs7OWV3sAKzNVJNdECf/FaI1jqU2B1AJ8Y=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.3-dev.12.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.1.tar.gz"
         },
-        "version": "5.0.3-dev.12"
+        "version": "5.0.4-dev.1"
     },
     "suwayomi-server": {
         "cargoLocks": null,
@@ -253,7 +253,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-07-20",
+        "date": "2025-07-23",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -263,13 +263,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bbb2da52f46da4ff8883e65ad47828ea2c03d649",
-            "sha256": "sha256-PPk64Gym475mKiK1fgBBNImF6Fc3WPDwUZ6hGFRVcwo=",
+            "rev": "9a9dbab7df9c00fd7a9c66a86174f53e98c5e548",
+            "sha256": "sha256-jDP70Du8XgfHmehEF5VU/RLyByXbmtVdiEKS0NIY2RU=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "bbb2da52f46da4ff8883e65ad47828ea2c03d649"
+        "version": "9a9dbab7df9c00fd7a9c66a86174f53e98c5e548"
     },
     "whisparr": {
         "cargoLocks": null,
