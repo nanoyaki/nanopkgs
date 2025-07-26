@@ -47,6 +47,14 @@ let
       data = ./deps.json;
     };
     gradleBuildTask = "shadowJar";
+    gradleFlags = [
+      "-Dorg.gradle.java.home=${jdk}"
+      "-Dorg.gradle.daemon=false"
+      "-Dorg.gradle.jvmargs=-Xmx5120m"
+
+      "-Dkotlin.incremental=false"
+      "-Dkotlin.compiler.execution.strategy=in-process"
+    ];
 
     installPhase = ''
       runHook preInstall
