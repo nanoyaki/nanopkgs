@@ -26,9 +26,9 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `rofi-themes` -> `d6ae472`
 - `shoko` -> `5.1.0-dev.108`
 - `shoko-webui` -> `2.3.0-dev.4`
-- `shokofin` -> `5.0.4-dev.1`
+- `shokofin` -> `5.0.4-dev.10`
 - `startvrc`
-- `suwayomi-server` -> `2.0.1862`
-- `suwayomi-webui` -> `9a9dbab`
+- `suwayomi-server` -> `2.0.1864`
+- `suwayomi-webui` -> `20ca6d6`
 - `whisparr` -> `3.0.0.1163`
 - `writeSystemdToggle`
