@@ -8,6 +8,10 @@ newver = "_versions/new_versions.json"
 keyfile = "/run/secrets/keys.toml"
 max_concurrency = 3
 
+["luarenamer.nugetDepsHash"]
+source = "cmd"
+cmd = "nix run .#update-dotnet -- luarenamer pkgs/by-name/lu 2> /dev/null"
+
 ["prowlarr._yarnHash"]
 source = "cmd"
 cmd = "nix run .#prefetch-yarn -- prowlarr 2> /dev/null"
