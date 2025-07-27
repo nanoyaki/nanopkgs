@@ -225,11 +225,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-i9SM2KlCnmC8itoD/pg38dzfrWS1wW0wVfToxAoCQ/Y=",
+            "sha256": "sha256-vnRDEN772UdkAUKOoswUlXhK4kGjAc3kKNFOffSHpro=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.10.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.11.tar.gz"
         },
-        "version": "5.0.4-dev.10"
+        "version": "5.0.4-dev.11"
     },
     "suwayomi-server": {
         "cargoLocks": null,
@@ -253,7 +253,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-07-26",
+        "date": "2025-07-28",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -263,13 +263,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "20ca6d6cda4d2b1d61753bad94ec4d24752b5f23",
-            "sha256": "sha256-SuyRwcyIBeeCC0Um+7R5VWNLaTStzbdCc/Y0gam1OMc=",
+            "rev": "fb00f511075b26b9b9c1093c722da5bb30a00bf2",
+            "sha256": "sha256-3oGBP9s8ZTmEDwjuzzxpKHa2+x0el1xZP7OeqWoE0UA=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "20ca6d6cda4d2b1d61753bad94ec4d24752b5f23"
+        "version": "fb00f511075b26b9b9c1093c722da5bb30a00bf2"
     },
     "whisparr": {
         "cargoLocks": null,
@@ -279,11 +279,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.0.1163.tar.gz",
-            "sha256": "sha256-WcrqrQIZbs4U9lmtVUIJmrtkfpyusWI5Wcyd4PbUeBA=",
+            "name": "whisparr-src-3.0.0.1180.tar.gz",
+            "sha256": "sha256-d5QTsz0W9yDXOQGw6j10wuzM2cr3Y9/2LYa4NPcMDLs=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1163&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1180&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.0.1163"
+        "version": "3.0.0.1180"
     }
 }
