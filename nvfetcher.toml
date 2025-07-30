@@ -14,6 +14,10 @@ src.github_tag = "mcbeet/bolt"
 fetch.git = "https://github.com/martinkirch/drop2beets.git"
 src.git = "https://github.com/martinkirch/drop2beets.git"
 
+[jmc]
+fetch.git = "https://github.com/WingedSeal/jmc.git"
+src.github_tag = "WingedSeal/jmc"
+
 [lidarr]
 fetch.url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=$ver&os=linux&runtime=netcore&arch=x64"
 src.cmd = "curl -L 'https://lidarr.servarr.com/v1/update/develop/changes' --fail | jq -r '.[0].version'"

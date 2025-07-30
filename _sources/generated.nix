@@ -41,6 +41,19 @@
     };
     date = "2024-04-21";
   };
+  jmc = {
+    pname = "jmc";
+    version = "v1.2.19-alpha.1";
+    src = fetchgit {
+      url = "https://github.com/WingedSeal/jmc.git";
+      rev = "v1.2.19-alpha.1";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-zGGNYxAsO9uHrFuh8VnLnnLFJ5UPxcBOP8pU/yDYs/g=";
+    };
+  };
   lidarr = {
     pname = "lidarr";
     version = "2.13.0.4664";

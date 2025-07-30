@@ -59,6 +59,26 @@
         },
         "version": "6bda199a8f5710b2265ce66cff8f2d3c6f09f6dc"
     },
+    "jmc": {
+        "cargoLocks": null,
+        "date": null,
+        "extract": null,
+        "name": "jmc",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "v1.2.19-alpha.1",
+            "sha256": "sha256-zGGNYxAsO9uHrFuh8VnLnnLFJ5UPxcBOP8pU/yDYs/g=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/WingedSeal/jmc.git"
+        },
+        "version": "v1.2.19-alpha.1"
+    },
     "lidarr": {
         "cargoLocks": null,
         "date": null,
