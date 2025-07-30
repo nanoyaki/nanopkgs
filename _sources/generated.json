@@ -1,4 +1,44 @@
 {
+    "beet": {
+        "cargoLocks": null,
+        "date": null,
+        "extract": null,
+        "name": "beet",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "v0.111.0",
+            "sha256": "sha256-cZG5HKHVAUh+oTb+ULPBWyqXrdgvTTbYTyqewYGcxWQ=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/mcbeet/beet.git"
+        },
+        "version": "v0.111.0"
+    },
+    "bolt": {
+        "cargoLocks": null,
+        "date": null,
+        "extract": null,
+        "name": "bolt",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "v0.49.2",
+            "sha256": "sha256-kJgZVwMZ1Z50KSYFA16SF3zMpGgYbX3ryFgYTso+JUM=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/mcbeet/bolt.git"
+        },
+        "version": "v0.49.2"
+    },
     "drop2beets": {
         "cargoLocks": null,
         "date": "2024-04-21",
@@ -53,6 +93,26 @@
             "url": "https://github.com/Mik1ll/LuaRenamer.git"
         },
         "version": "v5.7.0"
+    },
+    "mecha": {
+        "cargoLocks": null,
+        "date": null,
+        "extract": null,
+        "name": "mecha",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "v0.99.0",
+            "sha256": "sha256-DbpLkKzva+PmHig50qjmuS7v3uk1e8i9a0IF/qPHkh4=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/mcbeet/mecha.git"
+        },
+        "version": "v0.99.0"
     },
     "midnight-theme": {
         "cargoLocks": null,
@@ -270,6 +330,26 @@
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
         "version": "ca938a6438f14e8a1541026800eb1b674e30d599"
+    },
+    "tokenstream": {
+        "cargoLocks": null,
+        "date": null,
+        "extract": null,
+        "name": "tokenstream",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "v1.7.0",
+            "sha256": "sha256-idTgTVaZkF6M9ly5HzqmHtUUc7Bp5VrR2EioDSHmThM=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/vberlier/tokenstream.git"
+        },
+        "version": "v1.7.0"
     },
     "whisparr": {
         "cargoLocks": null,

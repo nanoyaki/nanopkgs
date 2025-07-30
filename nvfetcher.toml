@@ -2,6 +2,14 @@
 #
 # SPDX-License-Identifier: MIT
 
+[beet]
+fetch.git = "https://github.com/mcbeet/beet.git"
+src.github_tag = "mcbeet/beet"
+
+[bolt]
+fetch.git = "https://github.com/mcbeet/bolt.git"
+src.github_tag = "mcbeet/bolt"
+
 [drop2beets]
 fetch.git = "https://github.com/martinkirch/drop2beets.git"
 src.git = "https://github.com/martinkirch/drop2beets.git"
@@ -14,6 +22,10 @@ url.name = "lidarr-src-$ver.tar.gz"
 [luarenamer]
 fetch.git = "https://github.com/Mik1ll/LuaRenamer.git"
 src.github_tag = "Mik1ll/LuaRenamer"
+
+[mecha]
+fetch.git = "https://github.com/mcbeet/mecha.git"
+src.github_tag = "mcbeet/mecha"
 
 [midnight-theme]
 fetch.git = "https://github.com/refact0r/midnight-discord.git"
@@ -70,6 +82,10 @@ src.git = "https://github.com/Suwayomi/Suwayomi-Server.git"
 [suwayomi-webui]
 fetch.git = "https://github.com/Suwayomi/Suwayomi-WebUI.git"
 src.git = "https://github.com/Suwayomi/Suwayomi-WebUI.git"
+
+[tokenstream]
+fetch.git = "https://github.com/vberlier/tokenstream.git"
+src.github_tag = "vberlier/tokenstream"
 
 [whisparr]
 fetch.url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=$ver&os=linux&runtime=netcore&arch=x64"
