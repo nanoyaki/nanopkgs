@@ -291,11 +291,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-ujJ+YKscDwTSckfOQZH0ynSw55fLDPZ0AO9K/KG1zm8=",
+            "sha256": "sha256-gbmQfMq8qpvUJZSQ8w5L3brpaJnYU8PsgASGpPC1ND0=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.4.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.5.tar.gz"
         },
-        "version": "2.3.0-dev.4"
+        "version": "2.3.0-dev.5"
     },
     "shokofin": {
         "cargoLocks": null,
@@ -305,15 +305,15 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-eMJoDkWyURcoge1yKhHDOyF31CHD1HHyTp4jg250Fxg=",
+            "sha256": "sha256-ztQKYnKlNwSBmwagpoRuOtF9iSzW3jd89reMr4mYlTs=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.13.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.14.tar.gz"
         },
-        "version": "5.0.4-dev.13"
+        "version": "5.0.4-dev.14"
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-07-29",
+        "date": "2025-07-31",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -323,13 +323,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "02c4398e48c95c23f61d13f9619e88a67caa88e5",
-            "sha256": "sha256-SB56/cZt72/zI9ZwTs4SgyFQjN5CGEl9wLTACwSkvPM=",
+            "rev": "7e211ee9a1319233461b71a48765c70bd6e96582",
+            "sha256": "sha256-ppDkh7ALLi6U6uS7b0H4DYvB7l4/EHTj1eLV7nYOceI=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "02c4398e48c95c23f61d13f9619e88a67caa88e5"
+        "version": "7e211ee9a1319233461b71a48765c70bd6e96582"
     },
     "suwayomi-webui": {
         "cargoLocks": null,

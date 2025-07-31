@@ -10,7 +10,9 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 
 ## Available packages
 
+- `beet` -> `0.111.0`
 - `drop2beets` -> `6bda199`
+- `jmc` -> `1.2.19-alpha.1`
 - `lidarr` -> `2.13.0.4664`
 - `luarenamer` -> `5.7.0`
 - `meow` -> `2.1.4`
@@ -25,8 +27,8 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `python3` -> `3.13.5`
 - `rofi-themes` -> `093c1a7`
 - `shoko` -> `5.1.0-dev.108`
-- `shoko-webui` -> `2.3.0-dev.4`
-- `shokofin` -> `5.0.4-dev.13`
+- `shoko-webui` -> `2.3.0-dev.5`
+- `shokofin` -> `5.0.4-dev.14`
 - `startvrc`
 - `suwayomi-server` -> `2.0.1865`
 - `suwayomi-webui` -> `ca938a6`
