@@ -91,15 +91,15 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "a452ae90b284b53b0ab0743080819a630468d404";
+    version = "9287e825c03f15379d26dfb00039c19d5c4de210";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "a452ae90b284b53b0ab0743080819a630468d404";
+      rev = "9287e825c03f15379d26dfb00039c19d5c4de210";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-z/pef9peg7jlgaylYiLyhBWX6GLy6x1AI9H77QKo1Jw=";
+      sha256 = "sha256-we2wY5n2zvlpeuq2o2JVyj39+pDLj6Iv/Bm81OtuvDU=";
     };
     date = "2025-07-31";
   };
@@ -206,17 +206,17 @@
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "7e211ee9a1319233461b71a48765c70bd6e96582";
+    version = "664d5fe637559151ba0d735dd4ee613ee36b343e";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "7e211ee9a1319233461b71a48765c70bd6e96582";
+      rev = "664d5fe637559151ba0d735dd4ee613ee36b343e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-ppDkh7ALLi6U6uS7b0H4DYvB7l4/EHTj1eLV7nYOceI=";
+      sha256 = "sha256-Ylh6TiU8ZeFn9i9xwwdUK2zFK40Sr9DsLMQ1DpqW2dY=";
     };
-    date = "2025-07-31";
+    date = "2025-08-01";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
