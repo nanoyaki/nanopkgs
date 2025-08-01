@@ -35,31 +35,32 @@ cmd = "nix run .#update-dotnet -- shoko pkgs/by-name/sh 2> /dev/null"
 source = "cmd"
 cmd = "nix run .#update-dotnet -- shokofin pkgs/by-name/sh 2> /dev/null"
 
+["suwayomi-server.currentVersion"]
+source = "jq"
+url = 'https://api.github.com/repos/Suwayomi/Suwayomi-Server/tags'
+filter = '.[0].name'
+prefix = "v"
+
 ["suwayomi-server.gradleDepsHash"]
 source = "cmd"
 cmd = "nix run .#update-gradle -- suwayomi-server pkgs/overrides 2> /dev/null"
 
-["suwayomi-server.version"]
-source = "cmd"
-cmd = '''
-    prefix="$(curl \
-        --fail \
-        -L \
-        -H "Authorization: Bearer $(cat $HOME/.secrets/githubToken)" \
-        "https://api.github.com/repos/Suwayomi/Suwayomi-Server/tags" \
-        | jq -r '.[0].name' \
-        | grep -oP 'v\K\d.\d.')"
+["suwayomi-server.previousVersion"]
+source = "jq"
+url = 'https://api.github.com/repos/Suwayomi/Suwayomi-Server/tags'
+filter = '.[1].name'
+prefix = "v"
 
-    revision="$(curl \
-        --fail \
-        -I \
-        -L \
-        -H "Authorization: Bearer $(cat $HOME/.secrets/githubToken)" \
-        'https://api.github.com/repos/Suwayomi/Suwayomi-Server/commits?sha=master&per_page=1&page=1' \
-        | grep -oP 'page=\K\d{2,5}')"
+["suwayomi-server.revision"]
+source = "httpheader"
+url = "https://api.github.com/repos/Suwayomi/Suwayomi-Server/commits?sha=master&per_page=1&page=1"
+header = "link"
+regex = '(?<=page=)\d{2,5}'
 
-    echo "$prefix$revision"
-'''
+["suwayomi-server.webuiRevision"]
+source = "regex"
+url = 'https://raw.githubusercontent.com/Suwayomi/Suwayomi-Server/master/buildSrc/src/main/kotlin/Constants.kt'
+regex = 'webUIRevisionTag\s*=\s*"r(\d+)'
 
 ["suwayomi-webui.revision"]
 source = "httpheader"

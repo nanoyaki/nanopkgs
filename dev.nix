@@ -55,6 +55,7 @@
           ++ (with pkgs; [
             git
             nvfetcher
+            jq
           ])
           ++ [ self'.packages.nvchecker ];
       });

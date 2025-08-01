@@ -24,12 +24,21 @@
 let
   self = stdenvNoCC.mkDerivation (finalAttrs: {
     inherit (_sources.suwayomi-server) pname src;
-    inherit (_versions.suwayomi-server) version;
+    version =
+      (lib.concatStringsSep "." (
+        lib.take 2 (lib.splitString "." _versions.suwayomi-server.currentVersion)
+      ))
+      + ".${_versions.suwayomi-server.revision}";
 
     patches = [
       (replaceVars ./version.patch {
-        inherit (_versions.suwayomi-server) version;
-        inherit (webui) revision;
+        majorMinor = lib.concatStringsSep "." (
+          lib.take 2 (lib.splitString "." _versions.suwayomi-server.currentVersion)
+        );
+        inherit (finalAttrs) version;
+        previousWebuiRevision = _versions.suwayomi-server.webuiRevision;
+        webuiRevision = webui.revision;
+        inherit (_versions.suwayomi-server) revision;
       })
     ];
 
@@ -80,7 +89,7 @@ let
     '';
 
     passthru = {
-      updateScript = nix-update-script { extraFlags = [ "--subpackage mitmCache" ]; };
+      updateScript = nix-update-script { extraArgs = [ "--subpackage mitmCache" ]; };
       tests = {
         suwayomi-server-with-auth = nixosTests.suwayomi-server.with-auth;
         suwayomi-server-without-auth = nixosTests.suwayomi-server.without-auth;

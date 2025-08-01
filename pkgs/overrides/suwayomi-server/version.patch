@@ -1,16 +1,23 @@
 diff --git a/buildSrc/src/main/kotlin/Constants.kt b/buildSrc/src/main/kotlin/Constants.kt
-index b13789d9..b46b1ba6 100644
+index 3e821a5b..8bb0455e 100644
 --- a/buildSrc/src/main/kotlin/Constants.kt
 +++ b/buildSrc/src/main/kotlin/Constants.kt
 @@ -10,9 +10,9 @@ import java.io.BufferedReader
  const val MainClass = "suwayomi.tachidesk.MainKt"
  
  // should be bumped with each stable release
--val getTachideskVersion = { "v2.0.${getCommitCount()}" }
+-val getTachideskVersion = { "v@majorMinor@.${getCommitCount()}" }
 +val getTachideskVersion = { "v@version@" }
  
--val webUIRevisionTag = "r2467"
-+val webUIRevisionTag = "r@revision@"
+-val webUIRevisionTag = "r@previousWebuiRevision@"
++val webUIRevisionTag = "r@webuiRevision@"
  
  private val getCommitCount = {
      runCatching {
+@@ -31,5 +31,5 @@ private val getCommitCount = {
+ }
+ 
+ // counts commits on the current checked out branch
+-val getTachideskRevision = { "r${getCommitCount()}" }
++val getTachideskRevision = { "r@revision@" }
+ 
