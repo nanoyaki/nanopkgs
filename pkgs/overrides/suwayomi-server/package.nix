@@ -5,7 +5,6 @@
 {
   lib,
   stdenvNoCC,
-  replaceVars,
   makeWrapper,
   gradle_8,
   jdk21_headless,
@@ -25,24 +24,16 @@ let
   self = stdenvNoCC.mkDerivation (finalAttrs: {
     inherit (_sources.suwayomi-server) pname src;
     version =
-      (lib.concatStringsSep "." (
-        lib.take 2 (lib.splitString "." _versions.suwayomi-server.currentVersion)
-      ))
+      (lib.concatStringsSep "." (lib.take 2 (lib.splitString "." _versions.suwayomi-server.version)))
       + ".${_versions.suwayomi-server.revision}";
 
-    patches = [
-      (replaceVars ./version.patch {
-        majorMinor = lib.concatStringsSep "." (
-          lib.take 2 (lib.splitString "." _versions.suwayomi-server.currentVersion)
-        );
-        inherit (finalAttrs) version;
-        previousWebuiRevision = _versions.suwayomi-server.webuiRevision;
-        webuiRevision = webui.revision;
-        inherit (_versions.suwayomi-server) revision;
-      })
-    ];
-
     postPatch = ''
+      sed -i -E \
+        -e 's/v[0-9]\.[0-9]{1,2}\.\$\{getCommitCount\(\)\}/v${finalAttrs.version}/g' \
+        -e 's/r[0-9]{4,5}/r${webui.revision}/g' \
+        -e 's/r\$\{getCommitCount\(\)\}/r${_versions.suwayomi-server.revision}/g' \
+        buildSrc/src/main/kotlin/Constants.kt
+
       install -m644 ${webui}/share/WebUI.zip server/src/main/resources
     '';
 

@@ -35,21 +35,9 @@ cmd = "nix run .#update-dotnet -- shoko pkgs/by-name/sh 2> /dev/null"
 source = "cmd"
 cmd = "nix run .#update-dotnet -- shokofin pkgs/by-name/sh 2> /dev/null"
 
-["suwayomi-server.currentVersion"]
-source = "jq"
-url = 'https://api.github.com/repos/Suwayomi/Suwayomi-Server/tags'
-filter = '.[0].name'
-prefix = "v"
-
 ["suwayomi-server.gradleDepsHash"]
 source = "cmd"
 cmd = "nix run .#update-gradle -- suwayomi-server pkgs/overrides 2> /dev/null"
-
-["suwayomi-server.previousVersion"]
-source = "jq"
-url = 'https://api.github.com/repos/Suwayomi/Suwayomi-Server/tags'
-filter = '.[1].name'
-prefix = "v"
 
 ["suwayomi-server.revision"]
 source = "httpheader"
@@ -57,10 +45,11 @@ url = "https://api.github.com/repos/Suwayomi/Suwayomi-Server/commits?sha=master&
 header = "link"
 regex = '(?<=page=)\d{2,5}'
 
-["suwayomi-server.webuiRevision"]
-source = "regex"
-url = 'https://raw.githubusercontent.com/Suwayomi/Suwayomi-Server/master/buildSrc/src/main/kotlin/Constants.kt'
-regex = 'webUIRevisionTag\s*=\s*"r(\d+)'
+["suwayomi-server.version"]
+source = "github"
+github = "Suwayomi/Suwayomi-Server"
+use_max_tag = true
+prefix = "v"
 
 ["suwayomi-webui.revision"]
 source = "httpheader"
