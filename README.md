@@ -16,7 +16,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `lidarr` -> `2.13.0.4664`
 - `luarenamer` -> `5.7.0`
 - `meow` -> `2.1.4`
-- `midnight-theme` -> `a452ae9`
+- `midnight-theme` -> `9287e82`
 - `nvchecker` -> `2.18`
 - `openrgb` -> `f76dbb0`
 - `osu-lazer-bin` -> `2025.607.1`
@@ -26,11 +26,11 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `python-modernize` -> `f06b20a`
 - `python3` -> `3.13.5`
 - `rofi-themes` -> `093c1a7`
-- `shoko` -> `5.1.0-dev.108`
+- `shoko` -> `5.1.0-dev.109`
 - `shoko-webui` -> `2.3.0-dev.5`
-- `shokofin` -> `5.0.4-dev.14`
+- `shokofin` -> `5.0.4-dev.15`
 - `startvrc`
-- `suwayomi-server` -> `2.0.1865`
-- `suwayomi-webui` -> `cd04be7`
+- `suwayomi-server` -> `2.1.1875`
+- `suwayomi-webui` -> `4d6e1be`
 - `whisparr` -> `3.0.0.1180`
 - `writeSystemdToggle`
