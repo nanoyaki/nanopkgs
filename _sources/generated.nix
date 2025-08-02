@@ -198,10 +198,10 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.4-dev.15";
+    version = "5.0.4-dev.16";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.15.tar.gz";
-      sha256 = "sha256-FqEKTL02CO7TjZ+kgwFawpdH8/PTm7lD7YH09JoB214=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.16.tar.gz";
+      sha256 = "sha256-uHFNMm7O+rKxC4Oj0P67VpRrJpaiG+0IXzUVZwXVxGw=";
     };
   };
   suwayomi-server = {
