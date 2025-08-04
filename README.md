@@ -13,8 +13,8 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `beet` -> `0.111.0`
 - `drop2beets` -> `6bda199`
 - `jmc` -> `1.2.19-alpha.1`
-- `lidarr` -> `2.13.0.4664`
-- `luarenamer` -> `5.7.0`
+- `lidarr` -> `2.13.1.4681`
+- `luarenamer` -> `5.8.0`
 - `meow` -> `2.1.4`
 - `midnight-theme` -> `9287e82`
 - `nvchecker` -> `2.18`
@@ -28,9 +28,9 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `rofi-themes` -> `093c1a7`
 - `shoko` -> `5.1.0-dev.109`
 - `shoko-webui` -> `2.3.0-dev.5`
-- `shokofin` -> `5.0.4-dev.16`
+- `shokofin` -> `5.0.4-dev.18`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1875`
 - `suwayomi-webui` -> `4d6e1be`
-- `whisparr` -> `3.0.0.1180`
+- `whisparr` -> `3.0.0.1209`
 - `writeSystemdToggle`

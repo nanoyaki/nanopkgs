@@ -56,24 +56,24 @@
   };
   lidarr = {
     pname = "lidarr";
-    version = "2.13.0.4664";
+    version = "2.13.1.4681";
     src = fetchurl {
-      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.13.0.4664&os=linux&runtime=netcore&arch=x64";
-      name = "lidarr-src-2.13.0.4664.tar.gz";
-      sha256 = "sha256-ODIPtlpzZcZWZxTBXt5r5xpJ4ZWbpGnJ2Na7QVEvrlw=";
+      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.13.1.4681&os=linux&runtime=netcore&arch=x64";
+      name = "lidarr-src-2.13.1.4681.tar.gz";
+      sha256 = "sha256-sUr4RzLpxCn6J1sRkGrU7bdmCbhtudC1zTLIBq8Wbww=";
     };
   };
   luarenamer = {
     pname = "luarenamer";
-    version = "v5.7.0";
+    version = "v5.8.0";
     src = fetchgit {
       url = "https://github.com/Mik1ll/LuaRenamer.git";
-      rev = "v5.7.0";
+      rev = "v5.8.0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-pslhO6Kt9QqAE1jCFaIa0pzhGLfY4cTQhC+sh2lQYPk=";
+      sha256 = "sha256-Ksqt0cuhvQycoANbFdx31HvsORhErolfp4XTeEOe+Gc=";
     };
   };
   mecha = {
@@ -198,10 +198,10 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.4-dev.16";
+    version = "5.0.4-dev.18";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.16.tar.gz";
-      sha256 = "sha256-uHFNMm7O+rKxC4Oj0P67VpRrJpaiG+0IXzUVZwXVxGw=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.18.tar.gz";
+      sha256 = "sha256-ThtfEP0cvQOkI3+DWfeL/TuDohdEy7U+TmCd9cluG/I=";
     };
   };
   suwayomi-server = {
@@ -247,11 +247,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.0.1180";
+    version = "3.0.0.1209";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1180&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.0.1180.tar.gz";
-      sha256 = "sha256-d5QTsz0W9yDXOQGw6j10wuzM2cr3Y9/2LYa4NPcMDLs=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1209&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.0.1209.tar.gz";
+      sha256 = "sha256-6m+oP3WhmEbOZh3P7qO77ipX/sBMpiEJr2QxMR239/8=";
     };
   };
 }
