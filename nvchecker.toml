@@ -5,7 +5,7 @@
 [__config__]
 oldver = "_versions/old_versions.json"
 newver = "_versions/new_versions.json"
-keyfile = "/run/secrets/keys.toml"
+keyfile = "./keys.toml"
 max_concurrency = 3
 
 ["luarenamer.nugetDepsHash"]

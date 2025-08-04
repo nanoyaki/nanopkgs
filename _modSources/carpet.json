@@ -1,0 +1,532 @@
+{
+  "fabric": {
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/RXcxPvgC/fabric-carpet-1.21.7-1.4.177%2Bv250630.jar",
+      "sha512": "f03f80017538fd051a162feca58c1fa344d45d34b70cde27c10d465c371f9a11ddc80229e159b3439901cc8a6084f6672b62e5441f8d921fc2850ffd7e41e9c1"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/NXZ9k9lc/fabric-carpet-1.21.6-1.4.176%2Bv250617.jar",
+      "sha512": "2d71e3a6453bbbad1c36ac50f1ff0e387ff1f44b53c5ed877c02ff7495b193a3babccb778f59cbf5941a8bdd4331b61972175d57fe19ba21548cbf2fa44fe8b9"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/oXn7up6k/fabric-carpet-1.21.5-1.4.169%2Bv250325.jar",
+      "sha512": "a3d7c95b76720a4fbc7525b0c63ddb447b0b66793289724d77bc06610f86c0cce9d9914a35f78d6c9d7303c5b9a84fef8f64a8e71608125d2d88c0de889910ba"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qOSLmnqf/fabric-carpet-24w46a-1.4.160%2Bv241113.jar",
+      "sha512": "8c6b4bc4a964021f1485bda08c31c1e26f98d4e36ee06de4bf93af4c57b71a395de712184adf8ecf05d62c1929512fbe4c3a3df6442f04236d29d6af9023276b"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/ZF8ufR9V/fabric-carpet-1.21.2-1.4.158%2Bv241022.jar",
+      "sha512": "5face4e6a6db80910f19badbdb35fde4ce25f06fcd4e2dece7005ced4ca06a106053a02fd58ea6a40ab281eb8d15ef47b5fa9487b3aba35f31748ddc3728d235"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/ZF8ufR9V/fabric-carpet-1.21.2-1.4.158%2Bv241022.jar",
+      "sha512": "5face4e6a6db80910f19badbdb35fde4ce25f06fcd4e2dece7005ced4ca06a106053a02fd58ea6a40ab281eb8d15ef47b5fa9487b3aba35f31748ddc3728d235"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar",
+      "sha512": "e6f33d13406796a34e7598d997113f25f7bea3e55f9d334b73842adda52b2c5d0a86b7b12ac812d7e758861e3f468bf201c6c710c40162bb79d6818938204151"
+    },
+    "1.21.2-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/4GjHbqwI/fabric-carpet-1.21.2-pre1-1.4.156%2Bv241008.jar",
+      "sha512": "09d6a29a6382957d403b9d7a7dc237ed67111fca20ca6d57e4e183f3acde737700983bd63bb852a1c728e0ae5e602b60c9525886f4f8d1c690061b719bf10adb"
+    },
+    "1.21.2-rc1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/2og1ueRg/fabric-carpet-1.21.2-pre3-1.4.157%2Bv241014.jar",
+      "sha512": "8ee594b676a6872da6ff677d4418d36d22d1a0e883ffe14c6e6da98188db4da1df3b94b6d8d4178ad23011e05669c066ca3e2fe3d80d3bf5426899f802b573cb"
+    },
+    "1.21.2-pre5": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/2og1ueRg/fabric-carpet-1.21.2-pre3-1.4.157%2Bv241014.jar",
+      "sha512": "8ee594b676a6872da6ff677d4418d36d22d1a0e883ffe14c6e6da98188db4da1df3b94b6d8d4178ad23011e05669c066ca3e2fe3d80d3bf5426899f802b573cb"
+    },
+    "1.21.2-pre4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/2og1ueRg/fabric-carpet-1.21.2-pre3-1.4.157%2Bv241014.jar",
+      "sha512": "8ee594b676a6872da6ff677d4418d36d22d1a0e883ffe14c6e6da98188db4da1df3b94b6d8d4178ad23011e05669c066ca3e2fe3d80d3bf5426899f802b573cb"
+    },
+    "1.21.2-pre3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/2og1ueRg/fabric-carpet-1.21.2-pre3-1.4.157%2Bv241014.jar",
+      "sha512": "8ee594b676a6872da6ff677d4418d36d22d1a0e883ffe14c6e6da98188db4da1df3b94b6d8d4178ad23011e05669c066ca3e2fe3d80d3bf5426899f802b573cb"
+    },
+    "1.21.2-pre2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/2og1ueRg/fabric-carpet-1.21.2-pre3-1.4.157%2Bv241014.jar",
+      "sha512": "8ee594b676a6872da6ff677d4418d36d22d1a0e883ffe14c6e6da98188db4da1df3b94b6d8d4178ad23011e05669c066ca3e2fe3d80d3bf5426899f802b573cb"
+    },
+    "1.21.4-rc1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qOSLmnqf/fabric-carpet-24w46a-1.4.160%2Bv241113.jar",
+      "sha512": "8c6b4bc4a964021f1485bda08c31c1e26f98d4e36ee06de4bf93af4c57b71a395de712184adf8ecf05d62c1929512fbe4c3a3df6442f04236d29d6af9023276b"
+    },
+    "1.21.4-pre3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qOSLmnqf/fabric-carpet-24w46a-1.4.160%2Bv241113.jar",
+      "sha512": "8c6b4bc4a964021f1485bda08c31c1e26f98d4e36ee06de4bf93af4c57b71a395de712184adf8ecf05d62c1929512fbe4c3a3df6442f04236d29d6af9023276b"
+    },
+    "1.21.4-pre2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qOSLmnqf/fabric-carpet-24w46a-1.4.160%2Bv241113.jar",
+      "sha512": "8c6b4bc4a964021f1485bda08c31c1e26f98d4e36ee06de4bf93af4c57b71a395de712184adf8ecf05d62c1929512fbe4c3a3df6442f04236d29d6af9023276b"
+    },
+    "1.21.4-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qOSLmnqf/fabric-carpet-24w46a-1.4.160%2Bv241113.jar",
+      "sha512": "8c6b4bc4a964021f1485bda08c31c1e26f98d4e36ee06de4bf93af4c57b71a395de712184adf8ecf05d62c1929512fbe4c3a3df6442f04236d29d6af9023276b"
+    },
+    "1.21.5-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/CJn60Mes/fabric-carpet-25w09a-1.4.168%2Bv250226.jar",
+      "sha512": "ea9b441218a8e8133f15a31e58716d4c4e8b2ee29678e7f84d77c55331bd04ba16288cdfc4dbc22b47f6da346dc721fa49047c70b01c452597cbb971f593ccb8"
+    },
+    "1.21.6-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/yEV5JtZn/fabric-carpet-1.21.6-pre1-1.4.175%2Bv250528.jar",
+      "sha512": "624d00d99cc8afb02d600be961a0e13adbdb0c9024356571284e5fa8ca06371103c1654d8c006cb7df014cd7f19fe29038f61a8a612eb246b6644e7fa9c379dc"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar",
+      "sha512": "e6f33d13406796a34e7598d997113f25f7bea3e55f9d334b73842adda52b2c5d0a86b7b12ac812d7e758861e3f468bf201c6c710c40162bb79d6818938204151"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/iImwtlTX/fabric-carpet-1.20.6-1.4.141%2Bv240429.jar",
+      "sha512": "c79bf0d6cbdbc5e0e34162ce79d6daa736d93b3559ec7d3c7a2dc0f9f5f0a95fd29d4fed85659d30faa4106cf0398ffaaa238dfbdbab02da0699a9a8eba819be"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/xjxZEiKl/fabric-carpet-1.20.5-1.4.140%2Bv240423.jar",
+      "sha512": "7358c60b9d190bef22d494cd1c4c37c6843b8cdcafa2bcd8c3464b13b0562a31249b6b394b3a199b04349b3a8fc66ad671a686207e32263072d640f70e552c53"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/yYzR60Xd/fabric-carpet-1.20.3-1.4.128%2Bv231205.jar",
+      "sha512": "6ca0bd328a76b7c3c10eb0253cb57eba8791087775467fbe2217c7f938c0064700bdca4cbf358e7f2f3427ae50a6d63f520f2b1a549cb36da1cc718812f86375"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/yYzR60Xd/fabric-carpet-1.20.3-1.4.128%2Bv231205.jar",
+      "sha512": "6ca0bd328a76b7c3c10eb0253cb57eba8791087775467fbe2217c7f938c0064700bdca4cbf358e7f2f3427ae50a6d63f520f2b1a549cb36da1cc718812f86375"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/EaEZ1k5B/fabric-carpet-1.20.2-1.4.118%2Bv230921.jar",
+      "sha512": "224d99f08963321649fe2103f91a8e623a9faafa7d0177989a495baf53b99e77bebbcf3264c7f9f1d5e7d10bbb2ddcf92271bbd013deef9a49d65bf3e14b7149"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/K0Wj117C/fabric-carpet-1.20-1.4.112%2Bv230608.jar",
+      "sha512": "bf9060e6b1d30d676d9efd30369ccb5baef164fc2d87aad7c7a19d2d9265b5d1d328428a308bdd15960a26bfe46dcd823a236c39f4e26474847354337b043c51"
+    },
+    "1.20.2-pre2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/e3g0dZaQ/fabric-carpet-1.20.2-pre1-1.4.116%2Bv230905.jar",
+      "sha512": "5edb2ab50b1adb150362e02f4dfabe52d0be0214d034d45aafc1b69214a3ed22d40fea2bf0f418e751a0e16b99ed804c78bdf18a5cd2dc3bac157c61c1065b97"
+    },
+    "1.20.2-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/e3g0dZaQ/fabric-carpet-1.20.2-pre1-1.4.116%2Bv230905.jar",
+      "sha512": "5edb2ab50b1adb150362e02f4dfabe52d0be0214d034d45aafc1b69214a3ed22d40fea2bf0f418e751a0e16b99ed804c78bdf18a5cd2dc3bac157c61c1065b97"
+    },
+    "1.20.2-rc1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/ClLhGp2e/fabric-carpet-1.20.2-pre4-1.4.117%2Bv230914.jar",
+      "sha512": "3a1b9af8d07096e7e653784c047907e038bcb040342af9f2efee98e526952a6b0f767c5d7f1278c2150867aadcf7cd527bd89b6f778f46d7d654fdcb25f4e4b9"
+    },
+    "1.20.2-pre4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/ClLhGp2e/fabric-carpet-1.20.2-pre4-1.4.117%2Bv230914.jar",
+      "sha512": "3a1b9af8d07096e7e653784c047907e038bcb040342af9f2efee98e526952a6b0f767c5d7f1278c2150867aadcf7cd527bd89b6f778f46d7d654fdcb25f4e4b9"
+    },
+    "1.20.3-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/d2Zjs48v/fabric-carpet-23w46a-1.4.126%2Bv231116.jar",
+      "sha512": "3fa92d027555be3a97f5e55b3e2bb01e00e87e32419d8ab0dd0673afae36ce7df979c8ab714f45f6c67cf74ed7133d514fc05afa0be4e5ed5d55163c275a143a"
+    },
+    "1.20.3-pre3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/OOJoc9kE/fabric-carpet-1.20.3-pre2-1.4.127%2Bv231122.jar",
+      "sha512": "6e182e4c4336fa36b160df4043e0da6704f2abc46b5ff635dc2e9fe48a7469f6cc851a484d4e24e96accbfccc19e271be8a1bb63569cfa6d10933acd3a129cdb"
+    },
+    "1.20.3-pre2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/OOJoc9kE/fabric-carpet-1.20.3-pre2-1.4.127%2Bv231122.jar",
+      "sha512": "6e182e4c4336fa36b160df4043e0da6704f2abc46b5ff635dc2e9fe48a7469f6cc851a484d4e24e96accbfccc19e271be8a1bb63569cfa6d10933acd3a129cdb"
+    },
+    "1.20.5-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/8Uh1TOZF/fabric-carpet-1.20.5-pre1-1.4.138%2Bv240410.jar",
+      "sha512": "89c49bcfe1d0e0ca9d06c954cff6c65ce12c8c491611b05ac35198ff9fa5bad56952f0071121dca60a62487ad09c96f93ab3095aa29df5e3d4d29c92bef491a8"
+    },
+    "1.20.5-pre2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/Oep3HDfE/fabric-carpet-1.20.5-pre2-1.4.139%2Bv240415.jar",
+      "sha512": "dea96fb1b8f6f3e2cdf2da4e5b0e66231b94a5703fcc0ec004f67fb989a9a2f690fa8dbf85b869baa8a770b63715db3dc69f9f0ac8daf46b7bd1c0ebe92eb38d"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/K0Wj117C/fabric-carpet-1.20-1.4.112%2Bv230608.jar",
+      "sha512": "bf9060e6b1d30d676d9efd30369ccb5baef164fc2d87aad7c7a19d2d9265b5d1d328428a308bdd15960a26bfe46dcd823a236c39f4e26474847354337b043c51"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/PPDW5VS3/fabric-carpet-1.19.4-1.4.100%2Bv230314.jar",
+      "sha512": "fee8baf19ca1032cd20bcb04a14ef6935d8815691be23217dccc622f72ea94f02ea16c2a176d2c1f180f457c5a71149d19b9ebb6204c7714bbd82306c2297aa2"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/Tf6oYaBi/fabric-carpet-1.19.3-1.4.91%2Bv221229.jar",
+      "sha512": "3c5357d557373063e7aa0ffb8c29044a2204ec162d1f697d33ebab67c805f694f92ac7bbf60120bcbe528fd21d3465d25a2c92b1c18e83116f4d5f27da7acec6"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/SaOHo2Ac/fabric-carpet-1.19.2-1.4.84%2Bv221018.jar",
+      "sha512": "f9c0c6c96811d9b832ff0b141feec861df465a5e8c1dbe3eb78590cdd6c7f4791caf7e20e6d6e27fb985655af70c5c1f063aaff9b57bdef4d906f895cd7425ba"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/SaOHo2Ac/fabric-carpet-1.19.2-1.4.84%2Bv221018.jar",
+      "sha512": "f9c0c6c96811d9b832ff0b141feec861df465a5e8c1dbe3eb78590cdd6c7f4791caf7e20e6d6e27fb985655af70c5c1f063aaff9b57bdef4d906f895cd7425ba"
+    },
+    "1.19.4-rc2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/thiwdAPM/fabric-carpet-1.19.4-pre1-1.4.99%2Bv230222.jar",
+      "sha512": "c8ea42f8da53f79ba8a00571b5a774f0e1313d30c8375bf0e7faa27c6714dd78fcdd8c9a02983200fa28d400feeff81098401a9ee168744ef33edf0ad8ab350f"
+    },
+    "1.19.4-rc1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/thiwdAPM/fabric-carpet-1.19.4-pre1-1.4.99%2Bv230222.jar",
+      "sha512": "c8ea42f8da53f79ba8a00571b5a774f0e1313d30c8375bf0e7faa27c6714dd78fcdd8c9a02983200fa28d400feeff81098401a9ee168744ef33edf0ad8ab350f"
+    },
+    "1.19.4-pre4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/thiwdAPM/fabric-carpet-1.19.4-pre1-1.4.99%2Bv230222.jar",
+      "sha512": "c8ea42f8da53f79ba8a00571b5a774f0e1313d30c8375bf0e7faa27c6714dd78fcdd8c9a02983200fa28d400feeff81098401a9ee168744ef33edf0ad8ab350f"
+    },
+    "1.19.4-pre3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/thiwdAPM/fabric-carpet-1.19.4-pre1-1.4.99%2Bv230222.jar",
+      "sha512": "c8ea42f8da53f79ba8a00571b5a774f0e1313d30c8375bf0e7faa27c6714dd78fcdd8c9a02983200fa28d400feeff81098401a9ee168744ef33edf0ad8ab350f"
+    },
+    "1.19.4-pre2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/thiwdAPM/fabric-carpet-1.19.4-pre1-1.4.99%2Bv230222.jar",
+      "sha512": "c8ea42f8da53f79ba8a00571b5a774f0e1313d30c8375bf0e7faa27c6714dd78fcdd8c9a02983200fa28d400feeff81098401a9ee168744ef33edf0ad8ab350f"
+    },
+    "1.19.4-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/thiwdAPM/fabric-carpet-1.19.4-pre1-1.4.99%2Bv230222.jar",
+      "sha512": "c8ea42f8da53f79ba8a00571b5a774f0e1313d30c8375bf0e7faa27c6714dd78fcdd8c9a02983200fa28d400feeff81098401a9ee168744ef33edf0ad8ab350f"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/TlRTHOcb/fabric-carpet-1.19-1.4.79%2Bv220607.jar",
+      "sha512": "d15ce0709fb58076b71339c23d21edae88f8497f16c1e77de33d1d9f94a590e67faf8233cc37bb9bebaf77747aa303a88955036104b3fecf8b521b80c312c1e2"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/Gt4ohwGH/fabric-carpet-1.18.2-1.4.69%2Bv220331.jar",
+      "sha512": "ed70d36680e2f1f1928f7ca994eb97d702c410afc760582bba0cf6cd483c6857718ff186ee7df94fc0c35fbe9c0b311af0efd46fad160111c3b8384aa27344e9"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/M2G5yWMw/fabric-carpet-1.18.1-1.4.57%2Bv220119.jar",
+      "sha512": "14e885f71ee8e82de3a6864fed7027383be66991fd165abb1869bae67695cf2cd102732e46fa74d07444aca9e273b81ea333854a7f2ceac0747888cc108d5d38"
+    },
+    "1.18": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/M2G5yWMw/fabric-carpet-1.18.1-1.4.57%2Bv220119.jar",
+      "sha512": "14e885f71ee8e82de3a6864fed7027383be66991fd165abb1869bae67695cf2cd102732e46fa74d07444aca9e273b81ea333854a7f2ceac0747888cc108d5d38"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/LXR8CUeL/fabric-carpet-1.17.1-1.4.57%2Bv220119.jar",
+      "sha512": "e9bc8cab4ab9d2418e1ff18a0f3067ab80733e801e47a109b5e95b9b450d9170748dcd8f40602ff88632c596506a72704ef7a0ad3f5694cf72c7af07c0c79edb"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/WwXcEAQl/fabric-carpet-1.16.5-1.4.44%2Bv210714.jar",
+      "sha512": "03fe11e0928222db49bb0339397ec06205f1dff64cafa72d0fd17bc26377a5cdebb881476d0cc2b70b81069e85948055947be0f9ce9026b36bf141fb0f1080ab"
+    },
+    "1.16.4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/WwXcEAQl/fabric-carpet-1.16.5-1.4.44%2Bv210714.jar",
+      "sha512": "03fe11e0928222db49bb0339397ec06205f1dff64cafa72d0fd17bc26377a5cdebb881476d0cc2b70b81069e85948055947be0f9ce9026b36bf141fb0f1080ab"
+    },
+    "1.16.3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/WwXcEAQl/fabric-carpet-1.16.5-1.4.44%2Bv210714.jar",
+      "sha512": "03fe11e0928222db49bb0339397ec06205f1dff64cafa72d0fd17bc26377a5cdebb881476d0cc2b70b81069e85948055947be0f9ce9026b36bf141fb0f1080ab"
+    },
+    "1.16.2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/WwXcEAQl/fabric-carpet-1.16.5-1.4.44%2Bv210714.jar",
+      "sha512": "03fe11e0928222db49bb0339397ec06205f1dff64cafa72d0fd17bc26377a5cdebb881476d0cc2b70b81069e85948055947be0f9ce9026b36bf141fb0f1080ab"
+    },
+    "1.16.1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/cI14KY8A/fabric-carpet-1.16.1-1.4.0%2Bv200623_build2.jar",
+      "sha512": "26ced41d2be1ac5d915974acbc90cade5a6859afeb1136e91f342d583603a9c83d8b0b3f4c70a9f4da17604f88705e47053c7b75b396c3f9fe5c4f0dd6371ae5"
+    },
+    "1.16": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/cI14KY8A/fabric-carpet-1.16.1-1.4.0%2Bv200623_build2.jar",
+      "sha512": "26ced41d2be1ac5d915974acbc90cade5a6859afeb1136e91f342d583603a9c83d8b0b3f4c70a9f4da17604f88705e47053c7b75b396c3f9fe5c4f0dd6371ae5"
+    },
+    "1.15.2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/AL0o28FC/fabric-carpet-1.15.2-1.4.8%2Bv200811.jar",
+      "sha512": "6778ddb9f1f146155ca45986b82b2f448cbc8ccc919cf1a52f892425a4d32ff7de651c9b43b7860114c6c15eae6bd926fdc79a4f37a06c4f0a8dfb174e8d4baf"
+    },
+    "1.15.1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/AL0o28FC/fabric-carpet-1.15.2-1.4.8%2Bv200811.jar",
+      "sha512": "6778ddb9f1f146155ca45986b82b2f448cbc8ccc919cf1a52f892425a4d32ff7de651c9b43b7860114c6c15eae6bd926fdc79a4f37a06c4f0a8dfb174e8d4baf"
+    },
+    "1.15": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/AL0o28FC/fabric-carpet-1.15.2-1.4.8%2Bv200811.jar",
+      "sha512": "6778ddb9f1f146155ca45986b82b2f448cbc8ccc919cf1a52f892425a4d32ff7de651c9b43b7860114c6c15eae6bd926fdc79a4f37a06c4f0a8dfb174e8d4baf"
+    },
+    "1.14.4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/jzERAhet/fabric-carpet-1.14.4-1.1.3%2Bv191016.jar",
+      "sha512": "8bac61a9cf8b0062767528536fa7506c440006dba3c94a118defd0f3747d6f84c00e2a8a0b64479a49da4d37346cf26c04deaf6194048ce107eb709cf3214215"
+    },
+    "1.20-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/R8IFoYpy/fabric-carpet-1.20-pre1-1.4.108%2Bv230510.jar",
+      "sha512": "3ef05bc9c262b390b3e58f0b84dac45d6626fef39937001dbb35b1777521ce6e504b5c1dfddd250471a6fbc3a0607a3667ffacb54a3fa19218ca3e9380a2cb26"
+    },
+    "1.20-pre4": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/STWBUPMa/fabric-carpet-1.20-pre2-1.4.109%2Bv230516.jar",
+      "sha512": "f4801e787c2d94bb2384386691d46c506bcc01e9f5480fc7e70423973a5337c1dc59ee33c8c5b94bb3e2e2cc30315eb819eb379f3d3b7c469ee2e3cd3f0823c7"
+    },
+    "1.20-pre3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/STWBUPMa/fabric-carpet-1.20-pre2-1.4.109%2Bv230516.jar",
+      "sha512": "f4801e787c2d94bb2384386691d46c506bcc01e9f5480fc7e70423973a5337c1dc59ee33c8c5b94bb3e2e2cc30315eb819eb379f3d3b7c469ee2e3cd3f0823c7"
+    },
+    "1.20-pre2": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/STWBUPMa/fabric-carpet-1.20-pre2-1.4.109%2Bv230516.jar",
+      "sha512": "f4801e787c2d94bb2384386691d46c506bcc01e9f5480fc7e70423973a5337c1dc59ee33c8c5b94bb3e2e2cc30315eb819eb379f3d3b7c469ee2e3cd3f0823c7"
+    },
+    "1.20-rc1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/Yp901hy2/fabric-carpet-1.20-pre6-1.4.111%2Bv230525.jar",
+      "sha512": "2d3ac9b242145f1d1336bdabc756593022427c510ce807882c753f5b7d197591bd329090c8df06531af616f54dd15e2f76fb838344e560d6eddc0c6179caefda"
+    },
+    "1.20-pre7": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/Yp901hy2/fabric-carpet-1.20-pre6-1.4.111%2Bv230525.jar",
+      "sha512": "2d3ac9b242145f1d1336bdabc756593022427c510ce807882c753f5b7d197591bd329090c8df06531af616f54dd15e2f76fb838344e560d6eddc0c6179caefda"
+    },
+    "1.20-pre6": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/Yp901hy2/fabric-carpet-1.20-pre6-1.4.111%2Bv230525.jar",
+      "sha512": "2d3ac9b242145f1d1336bdabc756593022427c510ce807882c753f5b7d197591bd329090c8df06531af616f54dd15e2f76fb838344e560d6eddc0c6179caefda"
+    },
+    "1.20-pre5": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/KSLc7SV6/fabric-carpet-1.20-pre5-1.4.110%2Bv230523.jar",
+      "sha512": "6d1293af25cc82c2e7750b99c2c5ac63544287bc9351de2abedcd1851eadbede6b34ebbe798793b4b3ba67ad0eec2ea84fa8ab87ce745b6e0078426046b6ff9c"
+    },
+    "1.21-pre1": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/MupImyPh/fabric-carpet-1.21-pre1-1.4.145%2Bv240529.jar",
+      "sha512": "ccd6268196da5bbfeb8755f114ec161e3c0f368fe8cf99b46913df6e2ef3c7022c3f5d491eb5a4dfe4e94b3174c42fd7875f96432cfb28ca5faf7e91fd713570"
+    },
+    "1.21-pre3": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/6ivtLxOA/fabric-carpet-1.21-pre3-1.4.146%2Bv240605.jar",
+      "sha512": "69c66be4b2570ffc97d1047f29a8cd42825a24644a2789b91371deb54ec799c1845e8dd7d99a72bb6e74ba3a3c4656afa796a292e8f1947a1b485cc0bb8c3db4"
+    },
+    "23w03a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/ETN6NJeX/fabric-carpet-23w03a-1.4.94%2Bv230118.jar",
+      "sha512": "5de785085f62a48fa63160c66715b64386f414a319dccccc2bca691bcb6ecf10bc2de2365f3f9c91ca7e9779b44cac5a805fc53a00bfc155d00b033da382129e"
+    },
+    "23w05a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/TztzKSn1/fabric-carpet-23w05a-1.4.96%2Bv230201.jar",
+      "sha512": "ad5cec308111d219d789dcbd3eb62687e2b5ebbd473c1ee531d875a5ddc5fe15643194d517c15d9063f6ab66cb71b8176184642eaf8de24da480b817b859b886"
+    },
+    "23w04a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/bbLp1MTl/fabric-carpet-23w04a-1.4.95%2Bv230124.jar",
+      "sha512": "1bf741428a6b0c0dc57fad35aefc897b4dc7f294ca5ed92d7606d43b800c0f34824dc3532cc97d270d4a69645b87c6b5f683dfadf0392f32ad36a84d21179d47"
+    },
+    "23w06a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/851myNB3/fabric-carpet-23w06a-1.4.97%2Bv230208.jar",
+      "sha512": "6d9d2aa39e6676d1aaf0be8ac11c60fb974e92ef48809168d928c0f13c03fe7e2b21939d9e0daf9533b2a397bb98e6e7bf85cbc5b9b4b9ba511f4ce054b8a047"
+    },
+    "23w12a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/w5MuY9RY/fabric-carpet-23w12a-1.4.102%2Bv230322.jar",
+      "sha512": "946ee0b6921c2a932e7076713c08fb70840f75f1b9ba8a9d59bc9db30e2a8f3e5db310900ba2fed23075941752ef7676fed46022294d5abffdef4ddfee10d844"
+    },
+    "23w13a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/epPEOe1L/fabric-carpet-23w13a-1.4.103%2Bv230329.jar",
+      "sha512": "8d2960d8da18090bbae8f2f636da005714d9c1bb97d62e5445f494d2f7d9a2a7217ec47c3d070dbfd8bae2ad2e08d11e2b84080f841c8d27236ba8a0091822ee"
+    },
+    "23w14a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/jaoOesfu/fabric-carpet-23w14a-1.4.104%2Bv230405.jar",
+      "sha512": "b3379cc2de75ccfa7c7d4930f6e5046debc737c0f35ec9ea80a0b14dd63537d0b879c2fb6e3669d4340bfaeaf677fe8b53188a080c2712783944cde8193c48fa"
+    },
+    "23w16a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/JFhFYCx9/fabric-carpet-23w16a-1.4.105%2Bv230420.jar",
+      "sha512": "9e31cdf9768c95c1b9990e2eb38a23ab94db08826092c373e2ac89d06f44df009e8d538c8e305688a13a74881d0a9042c22d731eae2b3353fe992e0cc27e3aa6"
+    },
+    "23w17a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/6Cw5YqjL/fabric-carpet-23w17a-1.4.106%2Bv230426.jar",
+      "sha512": "97b0cc4b59dfee32a896478f94fd3246eaffd90e202633ea7b63002233bc63c9c7ae030030067e9f96bd406e1ee7878759e6f479bdc5d0937e88df14019dc368"
+    },
+    "23w18a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/vF0L9Oob/fabric-carpet-23w18a-1.4.107%2Bv230503.jar",
+      "sha512": "6a571686f34da96fe7015a77bb6567a7fe9b6118de55f830aefe8a191620d70b55671db851af7fb60415f5247d8cb48b0a31d7153c4889671fd83a71ec8984e2"
+    },
+    "23w31a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/xPMYyPpv/fabric-carpet-23w31a-1.4.113%2Bv230803.jar",
+      "sha512": "6ca1533a4702dadb1a584c77dffd94b02e799562d82fe4fc31d1150da3a6ce36199d5fbca0dd89d9fe6e34e60be8a1f267424a96cb6cd598a693841d4edaf82e"
+    },
+    "23w32a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/h7fUaFkO/fabric-carpet-23w32a-1.4.114%2Bv230809.jar",
+      "sha512": "ca3ed92c10128150e6c7d908fdbc41f42893fc3048257d1aee37d41e9cbf93c57bc35664a907fa0b2428534715a5140ba5ff92528a3bb21e6c961dfaa9c8df85"
+    },
+    "23w35a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/k22XCRmM/fabric-carpet-23w35a-1.4.115%2Bv230830.jar",
+      "sha512": "96ce1981940db7b817f3d3a93c47de8abb879bb9b659e2b4ca0e7d041b7e613829af1108535563f8d4fa72406352ec7ed1841b5f9eb5115a3874a76350b792a1"
+    },
+    "23w40a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/DgeakR6i/fabric-carpet-23w40a-1.4.120%2Bv231004.jar",
+      "sha512": "963cccfa91c5cd93ef22e127e6fcbbfa9e268ebd2503785afb1168f9b3ab054afc7e92d05d3df98b082378ebd3129e6c6e5185b503c977bec6149e47b46b87ca"
+    },
+    "23w42a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/OFDrMIaP/fabric-carpet-23w42a-1.4.122%2Bv231018.jar",
+      "sha512": "a96aab99ad132f9852f975c92d9b1fef0a5ec17fea2cbe98aef8fd2c9527831faf7e10529124ad12c3c75c1ab39f35db090e3e761868a9f28b708604be57f892"
+    },
+    "23w43b": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/jXLHzvDW/fabric-carpet-23w43a-1.4.123%2Bv231025.jar",
+      "sha512": "96ad6d5ef9f67cc5412700be7c7c2d151cd235c5bcaacf868dd8e1f06c232ee821331e648426e8b350cc45c14d248c5d49d067810a26c5d425814559f64f31ed"
+    },
+    "23w43a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/jXLHzvDW/fabric-carpet-23w43a-1.4.123%2Bv231025.jar",
+      "sha512": "96ad6d5ef9f67cc5412700be7c7c2d151cd235c5bcaacf868dd8e1f06c232ee821331e648426e8b350cc45c14d248c5d49d067810a26c5d425814559f64f31ed"
+    },
+    "23w44a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/nyNboWdx/fabric-carpet-23w44a-1.4.124%2Bv231101.jar",
+      "sha512": "be0262f7a58fb6ca945498180034ff4d5d6992f14f865e22f70467ae87b15d72719ed82e813f499c903a414c8b6474e5ba04a4eb9eb12283b977f4f8116d07ea"
+    },
+    "23w45a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/nALrnxky/fabric-carpet-23w45a-1.4.125%2Bv231108.jar",
+      "sha512": "776467fbc1ef95a88f97d6caa55a4b814d555c0c0f594229596d12b5d95fedd3106d615869791ea2589c53e901eb60e82f0a59b6135ffb6fd0464697d7175316"
+    },
+    "23w46a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/d2Zjs48v/fabric-carpet-23w46a-1.4.126%2Bv231116.jar",
+      "sha512": "3fa92d027555be3a97f5e55b3e2bb01e00e87e32419d8ab0dd0673afae36ce7df979c8ab714f45f6c67cf74ed7133d514fc05afa0be4e5ed5d55163c275a143a"
+    },
+    "23w51b": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/JfuWaP6v/fabric-carpet-23w51b-1.4.129%2Bv231218.jar",
+      "sha512": "2fa71ef5a39a2be54f86418e9c9fa7896a88df18e449c4a9e2327549a2c148f627f700e3d74a8686f091d2bb06d2c82c37c420ce31f5fa0263ed43b002463254"
+    },
+    "24w03a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/44Y21h86/fabric-carpet-24w03a-1.4.130%2Bv240118.jar",
+      "sha512": "782b7546363c246da8e91c1f56b46e726eba09055bd19d7a30fee98bfc3f1f36a9c9329cc67cc880e55749dd35bb502b1f778c200901bad2471efc9bc104247d"
+    },
+    "24w04a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/1o9MBJh6/fabric-carpet-24w04a-1.4.131%2Bv240124.jar",
+      "sha512": "82d10a56b5a68db9cc4e13e5205965a65409b2797444ee2da321dd0bd5fe4ea74599b4b772779272416f79ff505e90d31df6e3c8dbe3cc99fd55de9bbe383559"
+    },
+    "24w05a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/BkPMA8Z5/fabric-carpet-24w05a-1.4.132%2Bv240201.jar",
+      "sha512": "c19a2b0011077617b11a095ca1efde621b857a6600482f1387bc3a5b50bd29d8cc8f82bfdbdfdc3661e4436218147d3f6404ead9838aa1d1ab2b84b7a2e41276"
+    },
+    "24w07a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/LsfkSsBk/fabric-carpet-24w06a-1.4.133%2Bv240207.jar",
+      "sha512": "6b0204ff324d8064a726b3134889cc315f6406529ad743d18d94832f80fa2e14d2c8e2c81ec39d474bbf8c061b6b29129755af4060e6344cd00e62002dd2cfb2"
+    },
+    "24w06a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/LsfkSsBk/fabric-carpet-24w06a-1.4.133%2Bv240207.jar",
+      "sha512": "6b0204ff324d8064a726b3134889cc315f6406529ad743d18d94832f80fa2e14d2c8e2c81ec39d474bbf8c061b6b29129755af4060e6344cd00e62002dd2cfb2"
+    },
+    "24w11a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/FjeNPBbC/fabric-carpet-24w09a-1.4.134%2Bv240229.jar",
+      "sha512": "679aae4556cb6065c5c48e8cd1dbdeec137d772d662183975f64f81ea75dbafd64bf522c4933fc5b8a679132197a8fc46fd0440ab60df1b03afeb08c65001663"
+    },
+    "24w10a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/FjeNPBbC/fabric-carpet-24w09a-1.4.134%2Bv240229.jar",
+      "sha512": "679aae4556cb6065c5c48e8cd1dbdeec137d772d662183975f64f81ea75dbafd64bf522c4933fc5b8a679132197a8fc46fd0440ab60df1b03afeb08c65001663"
+    },
+    "24w09a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/FjeNPBbC/fabric-carpet-24w09a-1.4.134%2Bv240229.jar",
+      "sha512": "679aae4556cb6065c5c48e8cd1dbdeec137d772d662183975f64f81ea75dbafd64bf522c4933fc5b8a679132197a8fc46fd0440ab60df1b03afeb08c65001663"
+    },
+    "24w12a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/SheltrYH/fabric-carpet-24w12a-1.4.135%2Bv240320.jar",
+      "sha512": "fb93e029b3e979192a8c8ecebe63b5095d4ceb774e9e4f5cab2cd293e1d65db4c2904712492b7bce9b70b4c5baa88944eaf08d2c762ac7e0e0b57d5f75c3d41f"
+    },
+    "24w13a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/VtZ6ndC0/fabric-carpet-24w13a-1.4.136%2Bv240327.jar",
+      "sha512": "c81c2261f885ddd77606afd15ddf92a44dfc552065a0f45b6d2509beef002a70d536dd81f31990c19419ef076f44144420bc1c123873c07ffb051d69f802b917"
+    },
+    "24w18a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/xrQg4ml6/fabric-carpet-24w18a-1.4.142%2Bv240503.jar",
+      "sha512": "1ebb1f0bb1b20c0f26e97767b327f7acb0eb7f376e79362a9f165e6b5d36c0f2c0c1f63cec643db3d25b947209be6108183582aa61023846b3262453b621c759"
+    },
+    "24w20a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/fdlwhWT6/fabric-carpet-24w20a-1.4.143%2Bv240515.jar",
+      "sha512": "a495722653da3fda84ae6d1cf5656c5f1ac2d1f3e008c97ea082a3bdc8bdafaf188906bc77fddd82e0fa8e4b50914089bbdbd36051027ec12ee9393219e1df34"
+    },
+    "24w21a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/IhEAlTmp/fabric-carpet-24w21a-1.4.144%2Bv240522.jar",
+      "sha512": "18b7bf61133fcd5d8c8e85878467afb2325e1d53704f07eef769380e05c3ea265b79535c9ea488ea293194ae65b20f5e413ec8975b8c7c5dc8579743f7139264"
+    },
+    "24w33a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/96i4d2eG/fabric-carpet-24w33a-1.4.148%2Bv240818.jar",
+      "sha512": "c9cc193b3d40156808af70035f7ed67c18db1a15bcc977507ce117faac8b59aecb321a1c72656c5da5b216cafd0e107d1e8b6ae72a7c3f487b8ce7837cedf996"
+    },
+    "24w34a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/GOqlpSwl/fabric-carpet-24w34a-1.4.149%2Bv240821.jar",
+      "sha512": "84ee17c41b70d17f039b67ca5ca744ca7ed60a2a1a1588e8e042a45fccfab570ba8db73e9f953ba9c1dd4d763fc8edd02e71528241e94731c29721a06983044b"
+    },
+    "24w35a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qC4PqL5F/fabric-carpet-24w35a-1.4.150%2Bv240828.jar",
+      "sha512": "d084174fdb435f18666150851505681cb8f8c5b93aadbd83b2c2d4aed15a21382c635428df8377a469f8918e37d55baeb941611b5f04f5098199d2b26b088f27"
+    },
+    "24w36a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/3U5joqXl/fabric-carpet-24w36a-1.4.151%2Bv240904.jar",
+      "sha512": "933272d0cdcb1a07ae25a5a12411e4b262bb6841ea4836b1cdeabbf8504403afaef225d7b8a706d96e527c889aef301a21d0e0e71ad76693faeeecae8c6099a7"
+    },
+    "24w37a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/ycs2nrOF/fabric-carpet-24w37a-1.4.152%2Bv240911.jar",
+      "sha512": "55663bac927adf47c116a8f58b8f9fac261583feac221059ec98720800550a26ff398eba83356793da760be6b25aa8276f2c52718a62465ef8ead6bc53339f37"
+    },
+    "24w38a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/3VfZIjXn/fabric-carpet-24w38a-1.4.153%2Bv240918.jar",
+      "sha512": "5e182a59c2623136dbec2b9306b6e7cec7cf106ae23bfd74b61a7acc9fc84a60e0f160861076773f9721b2e1f94b54e69b5e5ac1db15c863fb7ecbc5c4c99315"
+    },
+    "24w40a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qh9RAhUL/fabric-carpet-24w40a-1.4.155%2Bv241004.jar",
+      "sha512": "f83371bb31387e5b58e056fb257c604fdf5c74d8350ea54fde2ffa89add465635bcb6da28ff45fa1ec02ada737a6547033fe50abb789a32d22308e533556dcce"
+    },
+    "24w45a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/AxmOgWQe/fabric-carpet-24w44a-1.4.159%2Bv241030.jar",
+      "sha512": "36620c61244260da7a3c31cbf79c30b3559166fec5179a85fccdb0e24d0dc9c515feac908da6ea840815fd149a216d2e2ec8327317db298839732a24537aab92"
+    },
+    "24w44a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/AxmOgWQe/fabric-carpet-24w44a-1.4.159%2Bv241030.jar",
+      "sha512": "36620c61244260da7a3c31cbf79c30b3559166fec5179a85fccdb0e24d0dc9c515feac908da6ea840815fd149a216d2e2ec8327317db298839732a24537aab92"
+    },
+    "24w46a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/qOSLmnqf/fabric-carpet-24w46a-1.4.160%2Bv241113.jar",
+      "sha512": "8c6b4bc4a964021f1485bda08c31c1e26f98d4e36ee06de4bf93af4c57b71a395de712184adf8ecf05d62c1929512fbe4c3a3df6442f04236d29d6af9023276b"
+    },
+    "25w02a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/PdC55gKk/fabric-carpet-25w02a-1.4.162%2Bv250109.jar",
+      "sha512": "1d57a7c9023263e758e894c4ce5daef309c46361ca6974afa48e2b2d88a7283ea3a7dbdb4fb9458135345017513237ddc62b9354d44e946d29d7b12697ea672d"
+    },
+    "25w03a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/L40GDAYI/fabric-carpet-25w03a-1.4.163%2Bv250116.jar",
+      "sha512": "1db879379c109c3f9d1dda13c5d138b85307d712ccb9a447818cbd95d797b235765f06cf130afd5c2d6401b5ed3666e590d5b78569a044320824ee1fcb2b5487"
+    },
+    "25w04a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/vmcWN6HD/fabric-carpet-25w04a-1.4.164%2Bv250122.jar",
+      "sha512": "786313bae55534c7c495d181e9b16016fed7cce20472b13d0d40fc5e1ce591a7fd4b3a08580c4f671a82ac1e86a873e78044c54cd4452c1e3864d30572ccb984"
+    },
+    "25w05a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/IRAR0lWa/fabric-carpet-25w05a-1.4.165%2Bv250130.jar",
+      "sha512": "73443ba8020652ae01bde0a194803cb0ddbde54f0f0f05fa40163aa7e4151dcedfe722cbf2463d99702628e1434c3dc4caf9a0cce799469f20e1ec26f13c49cb"
+    },
+    "25w06a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/8tQ3T6ku/fabric-carpet-25w06a-1.4.166%2Bv250205.jar",
+      "sha512": "91e1168b4fd4bb1904b25377253becae4f39dcf330c4a1210f57fa94c1693b3d9162ccf746f200cd71292c226d999c249621bd45d5c8695a44be9238115a9d0e"
+    },
+    "25w08a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/VN6LpS9W/fabric-carpet-25w07a-1.4.167%2Bv250213.jar",
+      "sha512": "2fc0b39adb4c91a72c7c3fa43db3fb26bb95d87bb71b98e324a9f90e4fd51efe61d7f329f53ea5ba328d310fcd028afdaaefd7604430240e6a86ae5dbaad54f8"
+    },
+    "25w07a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/VN6LpS9W/fabric-carpet-25w07a-1.4.167%2Bv250213.jar",
+      "sha512": "2fc0b39adb4c91a72c7c3fa43db3fb26bb95d87bb71b98e324a9f90e4fd51efe61d7f329f53ea5ba328d310fcd028afdaaefd7604430240e6a86ae5dbaad54f8"
+    },
+    "25w10a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/CJn60Mes/fabric-carpet-25w09a-1.4.168%2Bv250226.jar",
+      "sha512": "ea9b441218a8e8133f15a31e58716d4c4e8b2ee29678e7f84d77c55331bd04ba16288cdfc4dbc22b47f6da346dc721fa49047c70b01c452597cbb971f593ccb8"
+    },
+    "25w09b": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/CJn60Mes/fabric-carpet-25w09a-1.4.168%2Bv250226.jar",
+      "sha512": "ea9b441218a8e8133f15a31e58716d4c4e8b2ee29678e7f84d77c55331bd04ba16288cdfc4dbc22b47f6da346dc721fa49047c70b01c452597cbb971f593ccb8"
+    },
+    "25w09a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/CJn60Mes/fabric-carpet-25w09a-1.4.168%2Bv250226.jar",
+      "sha512": "ea9b441218a8e8133f15a31e58716d4c4e8b2ee29678e7f84d77c55331bd04ba16288cdfc4dbc22b47f6da346dc721fa49047c70b01c452597cbb971f593ccb8"
+    },
+    "25w15a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/Y6BHWQyF/fabric-carpet-25w15a-1.4.170%2Bv250408.jar",
+      "sha512": "b29b2f589e1d212ea445f639f9e4c7006410e139923b9769186ce288d9ca068eb95f15f96b824ec26181696506df8cdffa7d5b1075a872ba8ac2ef7a34556f75"
+    },
+    "25w17a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/U7ttqayj/fabric-carpet-25w16a-1.4.171%2Bv250416.jar",
+      "sha512": "3d08414b3cc7ac10daca2e05cdb78d065b325e33a282956da2eca8c95d46e6bab406d9d5c6db15d81d72b285af1e59f5c5d1add809dabc6082f08191ca0581fb"
+    },
+    "25w16a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/U7ttqayj/fabric-carpet-25w16a-1.4.171%2Bv250416.jar",
+      "sha512": "3d08414b3cc7ac10daca2e05cdb78d065b325e33a282956da2eca8c95d46e6bab406d9d5c6db15d81d72b285af1e59f5c5d1add809dabc6082f08191ca0581fb"
+    },
+    "25w18a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/U2Oef4Vn/fabric-carpet-25w18a-1.4.172%2Bv250430.jar",
+      "sha512": "764657c9030612f9cd52fc37e21d7a97e93b4490336f8d3066868b69ee3cfe923331b564b55be5ee8a8ae2c516ad26587b2379cae12636a455464990922bb114"
+    },
+    "25w19a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/2egxp8jm/fabric-carpet-25w19a-1.4.173%2Bv250507.jar",
+      "sha512": "92fc12ce5145a61d7bf58551bc0136af30892be7055c2d206544dd43a2521980d364b7329512f072e3ec58c5c042f5d4650862b7eb03a0f9e983d74d56688e1b"
+    },
+    "25w21a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/CMbdSBjO/fabric-carpet-25w20a-1.4.174%2Bv250513.jar",
+      "sha512": "7de4582b31632f83b8e6c3d69ae58169fdeb9b468ea924e238f821889ef127f60bade854537c6950ae1caa661dfdd5938a6562afa38bd87d3bd3c1df814c7785"
+    },
+    "25w20a": {
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/CMbdSBjO/fabric-carpet-25w20a-1.4.174%2Bv250513.jar",
+      "sha512": "7de4582b31632f83b8e6c3d69ae58169fdeb9b468ea924e238f821889ef127f60bade854537c6950ae1caa661dfdd5938a6562afa38bd87d3bd3c1df814c7785"
+    }
+  }
+}

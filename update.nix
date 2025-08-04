@@ -1,6 +1,8 @@
 # SPDX-FileCopyrightText: 2025 Hana Kretzer <hanakretzer@gmail.com>
 #
 # SPDX-License-Identifier: MIT
+{ self, ... }:
+
 {
   perSystem =
     {
@@ -42,10 +44,11 @@
                 concatStringsSep
                 filter
                 hasPrefix
+                importJSON
                 ;
               inherit (lib.lists) findFirstIndex;
 
-              nvchecker = ''nvchecker -c nvchecker.toml -k "''${1:-/run/secrets/keys.toml}" -l debug --failures -e'';
+              nvchecker = ''nvchecker -c nvchecker.toml -k "''${1:-./keys.toml}" -l debug --failures -e'';
 
               packages = attrNames (importTOML ./nvfetcher.toml);
               additionalVersions = remove "__config__" (attrNames (importTOML ./nvchecker.toml));
@@ -69,6 +72,10 @@
                       ) additionalVersions) > -1
                     ) packages
                   );
+
+              modrinthUpdates = concatMapStrings (
+                project: ''nix run ${self}#mod-source -- "${project}"''
+              ) (importJSON ./_modSources/_projects.json);
             in
             ''
               set -e
@@ -76,11 +83,12 @@
               git stash
 
               nix flake update
-              nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-/run/secrets/keys.toml}"
+              nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-./keys.toml}"
               ${conditionalUpdates}
 
               nvcmp -c nvchecker.toml | sed 's|->|→|g' > /tmp/nvchecker_changelog
               nvtake -c nvchecker.toml --all && (rm '_versions/old_versions.json~' || :)
+              ${modrinthUpdates}
 
               git add _sources _versions pkgs/**/deps.json flake.lock update*
               git commit -m "chore: Update $(date +"%d.%m.%y")
@@ -219,6 +227,43 @@
 
         meta.description = ''
           Generate sri-hash for yarn deps of package
+        '';
+      };
+
+      apps.mod-source = {
+        type = "app";
+        program = pkgs.writeShellApplication {
+          name = "mod-source";
+          runtimeInputs = with pkgs; [
+            curl
+            jq
+          ];
+          text = ''
+            project="$1"
+            # shellcheck disable=SC2016
+            jq_query='
+              reduce .[] as $version ({};
+                .[$version.loaders[0]] += (
+                  $version.game_versions | reduce .[] as $game_version ({};
+                    .[$game_version] = (
+                      $version.files[0] | {url, sha512: .hashes.sha512}
+                      // ($version.files | map({url, sha512: .hashes.sha512}))
+                    )
+                  )
+                )
+              ) | map_values(
+                to_entries | sort_by(.key | split(".") | map(tonumber? // 0)) | reverse | from_entries
+              )
+            '
+
+            curl 'https://api.modrinth.com/v2/project/'"$project"'/version' \
+              | jq -r "$jq_query" > "_modSources/$project.json"
+          '';
+          inheritPath = false;
+        };
+
+        meta.description = ''
+          Convert a project versions query from modrinth into a mod source
         '';
       };
     };

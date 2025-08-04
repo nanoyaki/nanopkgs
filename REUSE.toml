@@ -9,7 +9,15 @@ SPDX-PackageDownloadLocation = "https://github.com/nanoyaki/nanopkgs"
 SPDX-License-Identifier = "MIT"
 
 [[annotations]]
-path = ["_sources/**", "_versions/*", ".envrc", ".gitignore", "**/*.patch", "**/deps.json"]
+path = [
+  "_sources/*",
+  "_versions/*",
+  "_modSources/*",
+  ".envrc",
+  ".gitignore",
+  "**/*.patch",
+  "**/deps.json"
+]
 precedence = "override"
 SPDX-FileCopyrightText = "2025 Hana Kretzer <hanakretzer@gmail.com>"
 SPDX-License-Identifier = "CC0-1.0"

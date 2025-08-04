@@ -1,0 +1,336 @@
+{
+  "neoforge": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/L9u1QLTx/architectury-17.0.8-neoforge.jar",
+      "sha512": "089f10acd12634791817362a50c7eae6383c26ac648f785b0e4faa1e387acd6a552d2ef39ef8be59fb26d31badcfaaa886c0f8bf6d37ce218d14530ba354c5bc"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/KFBGyMei/architectury-17.0.6-neoforge.jar",
+      "sha512": "c64f75d901f0e61f1aef46547142cccef16ce524664a425540b8804d969325afe1d80d77adc4ccb7ee521ac64cf895a5f7eb7181463496eb0005c88b25115eea"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/GiZRM7tY/architectury-17.0.4-neoforge.jar",
+      "sha512": "720a771002f387b2dfd131c8d57ebb2c6b5639800641bb067737640652b9d5c1c7831cb2858b685bfe80374acced87ffc76f65818a58c15633c4f6801b39fbb4"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/I8JLUnUt/architectury-16.0.3-neoforge.jar",
+      "sha512": "4dd7cb18027cd6798c1d2bfe61ca25a18e4161c09487eb3abd4bd7b102324ce8c3aea7fff3c2367a864bf63df2e4a23137fe104b39f010a37b530ca44a44ca20"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/QfeCC2G6/architectury-15.0.1-neoforge.jar",
+      "sha512": "b91e5d206ac5073530413be95f6e4c91e9a3f283b8b6572484aca3aca0e8f289ed8c35daad94d9ad646e1b82eddcd48eef75065b646343288993a0a799167df0"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/avlNAUxs/architectury-14.0.4-neoforge.jar",
+      "sha512": "cb19d97cf0be6124530cebc88d3cef5eefa38f787195175a018bf8cca702aa41dd9b2c426ed8a5e1684b82635e4641172e864018c18cbb629bfa39dc0c988109"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/yOLUTj3S/architectury-14.0.3-neoforge.jar",
+      "sha512": "e5999bbd6f40f9b5ef58954367d4d811eb43034a0757d0f730ce39011f7b2ff8cef27bf125fd1175edfe1195daa493b7cfa3d216e0ed9ffe30040debad04b411"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/zQZVt59v/architectury-13.0.6-neoforge.jar",
+      "sha512": "6c95a0d97323fc0465fc3d2022e1f673ab55fea2523919a09ca4eff1f130afd30f077f30a99f9d79938b3206e1edc116dab436a6f0b1293888556aa7f44305a2"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/SbPQPVBq/architectury-13.0.1-neoforge.jar",
+      "sha512": "c24561612330d3b3b025705f57163494ae3c15607bb63eaf19e4226fd7d3f6b5b4bf82bff5c62d2658c19343a84800dc62ccf90184391150ef8a11f6c3fe3c47"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/SC8yTYVZ/architectury-12.0.27-neoforge.jar",
+      "sha512": "eca0f3059e8dfd8f56d6615085bdd38d3e1cc4e1b4071e52c191c056200a70cacaa525c973b3ad4959db860c90bcc9bcf9d38139f0146efb3296f57149aafc60"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WdiKTPMg/architectury-12.0.26-neoforge.jar",
+      "sha512": "b79967151b0c187503b1e78904baa0ddb61b68103d8250ebff3f93bb9ad5f879660072228b799c961ad2cbfaf96f916160661787e4d446cb09fc9eaeff11a5fd"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3TLU8vWO/architectury-11.0.7-neoforge.jar",
+      "sha512": "93a1164112bc29aff33a5caf48faf97c15d86b012287b5eb74c36008c859b13eadf2f5cea30bb898772735d55ddb0f22b583a13e19088229ddf06139c558251f"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/JJjGdSFd/architectury-10.0.11-neoforge.jar",
+      "sha512": "1ed6e961be8dfbcc33e82731892fac6ce754aa608373b85afe7ac9494ec1f04b9636ccf3d9d74c96da627907898c52e809581d67813e516e1732847c68f24372"
+    }
+  },
+  "fabric": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/XcJm5LH4/architectury-17.0.8-fabric.jar",
+      "sha512": "7965ed7140c9f50cfcf8cf9b415de90497ae44ea4fb6dfe21704c6eba4210d0a34a4a0b0b6baf8b3e9d3b1cb70d0df79ef1ba93d04b5557f09a754959ac9c8b0"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/VxCkJjz7/architectury-17.0.6-fabric.jar",
+      "sha512": "5abc7591f6f4c538b8f52c4b9fceab057d84d24d3044efa6aa6455a061689c9be39439c260b62231f1b963156dd8f4447c147bb2eea45e16b4f8266a4bde988b"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/tbI4E9il/architectury-17.0.4-fabric.jar",
+      "sha512": "68128ba857e31444adced0c70246aeadb6e206585ec818d0d1b516b052bf4858bed2791b1b6155f754ddd01bb47489ee4cb62c93c0ebb9e1cd4c1b3f4f2e991a"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/8qVhRqMz/architectury-16.0.3-fabric.jar",
+      "sha512": "98c604361660212b46e95bb3f595c1394a9d477eac073ca2de722c0d48ccee7310396b4dcf32bbe7e92f9157c3ad97c176cccf31507208149517b86e1b0e026c"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/XRwibvvn/architectury-15.0.1-fabric.jar",
+      "sha512": "df0e163a560439c1911c584821a643c665b13bbd541db9a9f318cdf33db0aee4573e3c901e4a3aad585e10013de1b4dc62143dce0855a2c915fcd0b35ee28263"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/i3y5Sm14/architectury-14.0.4-fabric.jar",
+      "sha512": "81e4d80ee4cca362b795ad2b0e673a663d4370c9ff8a5a8eddb2e15775cff4b609ba7b48a165dd0b2f3193ee3ffc64e2b7db1353ec3dee7696d10c526f1f65f3"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/7Pu945E0/architectury-14.0.3-fabric.jar",
+      "sha512": "957bd8d5ea629366a7a4b29c0b360959d3955a0c57f04d8743332fad6cdb03f8904363231b3e857afb0d8992a49ccb552910e30ee1d0673a51ebaa431504cdab"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/afBcyXjI/architectury-13.0.6-fabric.jar",
+      "sha512": "e1b2aeeb5ce17fe05314814274cc116c8f2aba325f5edc766caaf52445c69c79fd0f3235842d24df11346b3505a5befa5782a95b1992266097e558dd394d715b"
+    },
+    "1.21.5-pre2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/mR6RgLud/architectury-16.0.1-fabric.jar",
+      "sha512": "123b1f2bbafa59157c38e9303efceef574e8b4cadd5e86789f7be8e9b554a0005bf85e078557739551d10c9d6c3a2af2ad91e56bd4e7db78f42d37edd341b101"
+    },
+    "1.21.5-rc1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/s8y6Py15/architectury-16.0.2-fabric.jar",
+      "sha512": "a881d3d3f10c9d0cce253cf2db046b35a25569f7f381c427f3f046258f0315864f7b215429b82b5ac8be0365ce1c3add53fb1dbe1054248efb387b27f4644f5f"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4JZAlpn7/architectury-13.0.1-fabric.jar",
+      "sha512": "165b4dc86cbf22853795104711c4236dfceb92aac1afb9dc57aa4b9618685ce3eb9326cb518cc6f7ba7bbae921682f676ba6762fb708958c8b2ea6028f82e81b"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/M57oafqk/architectury-12.0.27-fabric.jar",
+      "sha512": "e66fe9fcac1f85cdb541f07241e091e16b427900f237c5bb78f10813956cb4e1a912794f727836df42c4d69bcc5357efda83d11724559aa6a5ec87c8573352f6"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/N6v35Fhx/architectury-12.0.26-fabric.jar",
+      "sha512": "4640d4cf1d8cd6afc40e4c8a834d975c43560ca72b06bfb031791155d27fa79c2a36633df544a2a63e2a0e3adfc7b3a1dda611031c934a670ebf9e8482ea4939"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/S8ah9mAL/architectury-11.0.7-fabric.jar",
+      "sha512": "7e1e600afa116bca035dc24cf10787ed86802ff2e817bff8beaec3d6778ce92abcb6107595b141b02a97777eae943c3a39a2dbc6a822f935bfb93d71d2f10a7e"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/tN1jacer/architectury-10.0.7-fabric.jar",
+      "sha512": "8dfb28641db61977b42f055264e44090671bc4107736dd403147db10402576edfd85672accd11d07715a3bd00364423d3dd264b11f03f9c02360966739f4f506"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/TWylwR7P/architectury-9.0.8-fabric.jar",
+      "sha512": "cc82014a7d6987b6ec253954e5730e312e27d626fea5ebed1b3ed49e3aed47b9e542c6dd9cfa68550f1369890ccd48d7d92c54bd78917d4826d123f388ce651e"
+    },
+    "1.20.2-pre1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/cSMWX5mK/architectury-10.0.5-fabric.jar",
+      "sha512": "5a1c5a5c56af2112b60fa37d964370444536ce949f0ad61e991a9576efdf978d82a725cd6537afbe098b0dccc9b88ebec96fc5bc98c7b2f9dc2e6e333ec4757e"
+    },
+    "1.20.2-pre2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/msOhmxZv/architectury-10.0.6-fabric.jar",
+      "sha512": "421c7a097af20266dc9b3920464acd2c2bcd5b91ce4600b3c49e8fcf23e9358805b137327493a3be2011353292a1afed403f4386453c61cc648774620a701f92"
+    },
+    "1.20.2-pre4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/tN1jacer/architectury-10.0.7-fabric.jar",
+      "sha512": "8dfb28641db61977b42f055264e44090671bc4107736dd403147db10402576edfd85672accd11d07715a3bd00364423d3dd264b11f03f9c02360966739f4f506"
+    },
+    "1.20.3-pre1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4P2tDXB8/architectury-11.0.5-fabric.jar",
+      "sha512": "af0b582e0c4041006d62c5424c6907f897f96d8bfc055e0eba602089bdde49a20a96c5c06aebd4a55cdfc7eb2d30eff8e8b5e46d9bcfd9a94c6c9888a4fb5cac"
+    },
+    "1.20.5-pre1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/K1mZCldi/architectury-12.0.25-beta-fabric.jar",
+      "sha512": "ba5412e3faad03aa1c85559808dc50d420574b73a2e71b6f59219a7facedf7b3be9e376cd2cd639ddc5ef1b5f82ebd9a93806f1b74faafbac182a36b1e4a1a71"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/7zJ2DJuN/architectury-9.0.6-fabric.jar",
+      "sha512": "cb4b97f3968cf31418d7ebc50d4ce1194110d1b3368ae06fb70412366dfb1b1adfaba51dfe2ba6b4c84d326a9c3e4e65f1b97bba7c381a14f34efa9ae98d23b3"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/9VVWBhOe/architectury-8.1.73-fabric.jar",
+      "sha512": "be3ecbac12229366b76820f1a4bf1ba9b782ebcc1ca43ccc21a4d2eef6061feff2c5a5197e75aef5d01af1a0f4dad605b332ebe451266c974ffe9792852696af"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/wkQeBjBR/architectury-7.0.63-fabric.jar",
+      "sha512": "4dcbc256617867bb8b43a75e7befeb06d69e9c76b44d213543d5aa098581a7c6d357b8cc17fd6d3f82773a60ad23bd661693c3f929eb9db87394e7bd926177a9"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.0.37%2Bfabric/architectury-6.0.37-fabric.jar",
+      "sha512": "0257c99eea90473fd1ccfc72f1b9b3f4460de6663eeb565efe060d87bacd1d92fdc61527785bc29821788b507cd993c6d53b49cbb1333b889280921f041488f8"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.0.34%2Bfabric/architectury-6.0.34-fabric.jar",
+      "sha512": "b4348b07130487de9cd4f8abf211b604555817dc3bfe2afdd332bdc2ed4bacc262cba76a3aa5fdfe10d0861fdd2c410c388ebecdb848af3a4c21e6005957d8e2"
+    },
+    "1.19.3-pre2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/umK9Amrq/architectury-7.0.59-fabric.jar",
+      "sha512": "a60b2b85b78a7cdd3c1745af0819409ab1c02e3c0233c1c2ac4e56561c30a1b1efead03dbad0c3fcd95a45a7b7d2094429765982b5776437b85130fae0e7ca56"
+    },
+    "1.19.4-pre3": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/sGPVpzLh/architectury-8.1.72-fabric.jar",
+      "sha512": "1ca8c408a6b1eafd02136a5b0cf30d55ebb7aa4718d4b42ba2180f3d271edadc0af29c614ff9a51fba224bce84ca73e5cbb169899984255cd46561201b1545c7"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.5.16%2Bfabric/architectury-5.5.16.jar",
+      "sha512": "793c4f389daba2c25cac12fc79b40d934be3174601ee2b57511f6414fbe1136881f4768cc906a341d3ed41006afed87b9bf2fe55354dfb0685e48a806dbe82f2"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.61%2Bfabric/architectury-4.4.61.jar",
+      "sha512": "fe91a196fd8a857dce022404dee89fa45895f01790d8d2c30fd6af97f1fe1e9782982909a20f37ec159bda835034491a6fb92f2fa9b2fda018eb309b0d2dece8"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3.9.62%2Bfabric/architectury-3.9.62.jar",
+      "sha512": "fa7ec81accf6c9b6613055e4b22f76a85bae0a14c44d0decac6aaed0e7ed8d925a7c44880b04300d614de47a2796f09f109855172142700c001de83adf4e680e"
+    },
+    "1.18": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3.9.62%2Bfabric/architectury-3.9.62.jar",
+      "sha512": "fa7ec81accf6c9b6613055e4b22f76a85bae0a14c44d0decac6aaed0e7ed8d925a7c44880b04300d614de47a2796f09f109855172142700c001de83adf4e680e"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/2.10.10%2Bfabric/architectury-2.10.10.jar",
+      "sha512": "636ea734cc35747007727497e99d38dee89545e58c88661e648823d105d2f5078f028af46783ee03a80fd0007c0ba2060fd7f6b3c19014b22d6fc0ac54815f2a"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1.32.63%2Bfabric/architectury-1.32.63.jar",
+      "sha512": "ef5af78358d80d68fd88700835db64403dabb90aa3cad62237ba2f7282dd638c02c3864e47c872d79ccb39735dd9c9c3b39cebc7a148349a47a7e3e16d707a0d"
+    },
+    "1.19-pre1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.4.13%2Bfabric/architectury-5.4.13.jar",
+      "sha512": "8606232fa894071de878c22f571303812f7790f0bb560d336630741dd6424e02c9943eb853336e651a228fd9398014e55e5b9edc5df0482fd88c53628d50a354"
+    },
+    "1.20-pre1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/H3InwdRP/architectury-9.0.4-fabric.jar",
+      "sha512": "c70c1bcd4c73aafee05dff58b9a73364b95669856a70e0e039823ece35bc866bfeafef2be4aaf748641de88865388914d9983f05520065bda49ed5f308143176"
+    },
+    "1.20-pre5": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/aQu6FcPv/architectury-9.0.5-fabric.jar",
+      "sha512": "f87fdc04a4bb24bdbdc5d04ef46fe034fc4135266ec4caa1fa47b7ff920090789fd32eed7bd8f149facd09d4afc1578b4e174d9cc623ae3f9e5663b3db9c1619"
+    },
+    "22w42a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/MSHtHE4s/architectury-7.0.51-fabric.jar",
+      "sha512": "2081d6dc5804e0ad70f72e1e513e81b0370c8f68ba5e222e003e036a50345d238d8a9525864bbede58e8eec1a094395ff5846fd0a4cc962394258088e3b6be01"
+    },
+    "22w43a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/iIYfuRMT/architectury-7.0.52-fabric.jar",
+      "sha512": "775656d250c856c327c5f878e0a459acc542077bff83b3de798b1edaa315862676e32cb285a708917c222e837cf356fe80cb1d4974d3c48ad23c407709da3d09"
+    },
+    "22w44a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/i6EVpCCY/architectury-7.0.54-fabric.jar",
+      "sha512": "4c263ba7d136cbd00137e4388f29fde2e42b827b24084f8037dde605b772eb9d52bded1fb35351aae6d2e34583e09330ff86a873ab33f9cb57325da35652a494"
+    },
+    "23w03a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/41RubmTw/architectury-8.0.67-fabric.jar",
+      "sha512": "29f8ad070af6979069b41783d04f3c92ffdfd357b54931071916d2a692b649410eae06681c56097cefc75b262a0db12113a4b0a32b9bed8aa891a27880f2bf04"
+    },
+    "23w13a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/I0TW1RGi/architectury-9.0.1-fabric.jar",
+      "sha512": "0104b4a339b816805880c3e8b443100c051c50d37ec67154efab65dac77e785ddeafc3ad00f0dd278c63d18703d7352ba479ed9aa196b1ef18613a83a667230b"
+    },
+    "23w13a_or_b": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/BmkZHo8Y/architectury-9.0.2-fabric.jar",
+      "sha512": "fedbb41da7143aee9240e441e57a48df03e35e3bcb1e8b13bbabc6ed9f49efda97ee0f2fa29a4b70f24a18e45b7862a9cfd38e86086fe6f40a58309657b5dce0"
+    },
+    "23w18a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/DIw2YTZ2/architectury-9.0.3-fabric.jar",
+      "sha512": "3c0d65e93fb608708c276201e804eb8ddcc9d34434792f419a7667affb950a21f3ae9acb6ad0972d25a2fc37ccb6b5a35c05a2dbdc7190828eb8c94c47707035"
+    },
+    "23w31a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Ock52JGW/architectury-10.0.1-fabric.jar",
+      "sha512": "95d20eab0e2c26a6959f0b078e90f2f77fa959b500190462b4144145fcc4d1ae3505c1dcdb7e1d94fbf4e7a69cafae95705832c24c10bf927fb712239c616f5c"
+    },
+    "23w32a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/94pDo4Mg/architectury-10.0.2-fabric.jar",
+      "sha512": "daccb49e1818f92b79a78469d17c579ba2277899acf6bd0aac9634fdf0fd2ef57e0e06a4ee64c5cc726fe30e067c6065a9f73f3186b4bafb111d4676d0b5f2c0"
+    },
+    "23w33a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/NyIvjlpf/architectury-10.0.3-fabric.jar",
+      "sha512": "42e2818af569209d12975364447f8a4ed7b70eaec8fe93e18eb728b2070a4ec5d3329fed941fd297387285d07d34159db3534104cad3ffb39f77d63126bcc7e7"
+    },
+    "23w35a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/UWacXu6I/architectury-10.0.4-fabric.jar",
+      "sha512": "48b3f3c4f5be24634b5e864f08739ac241ae70941f5887bb4a9e24bc430cd64be9dc2e7e83982da59d22e66f41f70847fad2861a78f09f0ba38be47716fa5246"
+    },
+    "23w40a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WtGJ04th/architectury-11.0.1-fabric.jar",
+      "sha512": "75f6d1b1b8f5e968eba7f8b25e186430dba1bb6c3b0c0ee387c3512daea9658fa7c3422acffd41df076f3b33d8d1837d258a855dbde7e80888d15362a4d3e987"
+    },
+    "23w41a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/g64rcqrh/architectury-11.0.2-fabric.jar",
+      "sha512": "cbea080fb43dfb4671e5dbf17efe8b5e7804efc5b95f646e8e42c3e2712b622bb157deecbae8d9c4cd72ecc1db3d2fdcf37dbaa4c0fa66b66ec99c03d8d8f1a7"
+    },
+    "24w09a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/QMCCyxa5/architectury-12.0.14-fabric.jar",
+      "sha512": "2f7403ad426b398b50aeb470aa8e21383b0c95a335901ea6a378aefc7178c1146c5a3dce9e9c5fb6585e771ddeb3b551d8b55e035c78eec8986db39f9a6478bb"
+    },
+    "24w12a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/vEEP0bOY/architectury-12.0.18-fabric.jar",
+      "sha512": "4cbbf3dc93531172688b6f122afe1f67050486ffa6019c5d49beca5fd01a30a7fade9d790adb7d9d27e59dd9516d3cbee7a6704d1e58e461ae81ec500e3c084f"
+    },
+    "24w14potato": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/TiDPj2Uz/architectury-12.0.19-fabric.jar",
+      "sha512": "7ce56817f521ace34270c0f8546e596f1e6ebfd97524d8d7ecbc7d173e9eab1ad1a543dea5374447d713f87292016deeb0f25a3be9de1b81a02dbd806f0770cb"
+    },
+    "24w14a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/814k8fLR/architectury-12.0.24-beta-fabric.jar",
+      "sha512": "997fe5afd68ee888a5337a03df721610b684dad35ecc2915e66ba57786edff77ee73c0934d17e92f138667f531de1cff4732bd882e861ed84109f2a337496bb2"
+    },
+    "24w40a": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/M7ETXdSr/architectury-14.0.1-fabric.jar",
+      "sha512": "169ac14610481ccf9dd93bbc1299c028ae58d782f229e385d1e70c372e38d66ebd71c2c8a466cba8f5b608c4890cb60da712a9f113b04c89becd89a504e94360"
+    }
+  },
+  "forge": {
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/m1ZNYMdO/architectury-11.0.7-minecraftforge.jar",
+      "sha512": "d38c554f5142289cdac72113ac861e714c7f6520b101f447fb5eb8658d95243f0923826215c3d32c059e2e083a48d4d33fc23953da823e6848d5066c29f6364f"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/RbSwgJzj/architectury-10.0.8-forge.jar",
+      "sha512": "05a27caff1a4940f2b20a500c3db7cf233c36ee1445d34218efa648b5f96cb9fd2a324cd021706d5c529a5d90c50b429806a28ae481bab0d194854ebcd47f0f1"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ON7CwM6M/architectury-9.0.8-forge.jar",
+      "sha512": "9f9a975e0acc2f95bdb9fc84405c8529fa0c0ca16951822027a58de011a721bc02de5e819a88e8cf50aff08dce6ae0d565813e20f781d2ef7e5073307a14c91b"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/jSGDiM9H/architectury-9.0.6-forge.jar",
+      "sha512": "584da5a4c82764ad09b2fabf1bf3121aeeff0188e4e113c349761ba9d7514415491ea255b137c12ac3415f763949208d65e68f67adb4aa3568d0c0c838ae0220"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/YiYBpQpv/architectury-8.1.73-forge.jar",
+      "sha512": "6a6906c1d7f8e03c2245390634bc2324ada4e297d9d547d9a7a8fe657d96b8deb83b874964be987b7b933c3fe22ac1b35f47f01eb3f2413b65a3837c8c717fd9"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/dcM46wLr/architectury-7.0.63-forge.jar",
+      "sha512": "48348e7289ea1dc6ae39c1e5bc77f4668b24763e417b6d8cd391b3ad2cef40fe3fe7645f62359a5f75e921f69b2f4a8259a49b4db7bd83e5a88e7b5c982ba511"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.0.37%2Bforge/architectury-6.0.37-forge.jar",
+      "sha512": "51e79ccb5e286fbcc9285c524c981154d698e576c4f08d13d6946759768d0171a1d6e6aea16b1e54cae2ea5b44793c499c49cbe028549ace507c2e5a975ea6ba"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/6.0.34%2Bforge/architectury-6.0.34-forge.jar",
+      "sha512": "6b190951a9a7e709ed79f6deb6955ce490b86f9f269204cca4ee2ab4213404ceb447c08552252c5ef7f5ace6066fa676e27151bcf82b5443756a44a257eec959"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.5.16%2Bforge/architectury-5.5.16.jar",
+      "sha512": "d25827f8b442cab257fb60f5ebec93ef18bdc76e1d5596c8a8ab37cd22c3e024095a5ad79327b797bb6fca26d7a475ccec8b6cae1c2d93c4112b2be0587f5690"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.4.61%2Bforge/architectury-4.4.61.jar",
+      "sha512": "130de974a8adf635b955a2bcf51cb06c127de7ccbe81eb0ade89578420be147c58ead80ee7f14628be3590bae4b24a019dbbba2348627b361cc8053c29c3fe01"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3.9.62%2Bforge/architectury-3.9.62.jar",
+      "sha512": "86cee1eae8fd02b9ef86ad48aee21d4f69c403c556acc6bb29386ddd232fc1683c52bac72b5dd306dcf4f6b615f1e184afdc9c7b930c4936890191ee658897da"
+    },
+    "1.18": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/3.9.62%2Bforge/architectury-3.9.62.jar",
+      "sha512": "86cee1eae8fd02b9ef86ad48aee21d4f69c403c556acc6bb29386ddd232fc1683c52bac72b5dd306dcf4f6b615f1e184afdc9c7b930c4936890191ee658897da"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/2.10.10%2Bforge/architectury-2.10.10.jar",
+      "sha512": "581e20ef081e4811337e7c1bedd4a8bdf593972090b026c3b83198c1cf500c0bea62b3d0c61ceb1c611bc99a5752edb5666f4aae8aa4682a5c03f86ad38bd521"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1.32.63%2Bforge/architectury-1.32.63.jar",
+      "sha512": "c6b1ebad4ad6f5f54ebd86005c37ca9f45e06190e1b6529a11d15d3dc38e9522c5b4a3c91c051ac21e0cd4274a43153c14a3862d82ad9d05463b971b6d09d672"
+    }
+  }
+}

@@ -1,0 +1,1336 @@
+{
+  "fabric": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yp2VrKIT/voicechat-fabric-1.21.8-2.5.34.jar",
+      "sha512": "348ae0b0cd6f855dadac3eb77c87e4611545267b0a46839b0735d311eaa91488734e2df71d502642bd7bc21a25e75d45b97ecab65662207067a72134f1bf6778"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/9iBKDGlo/voicechat-fabric-1.21.7-2.5.32.jar",
+      "sha512": "3cac9a3d2f9b45ff1559b22cb28d3267ff239d26cd5f573e218cf6b87dbd0c3f438758063d877ba2e9b77162a27ef77080a77f545e1f2b61bf06005d79d2d338"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pG8PLA08/voicechat-fabric-1.21.6-2.5.30.jar",
+      "sha512": "917ea307782b0fb141aa35efa2462e0c148bd3ff3aeec978ba49d0b593374cb20dd2ad5d021c6c11a9e8262056d7553df025593d79b27a33e5e7bec816ab6756"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Ik3Z7Zyz/voicechat-fabric-1.21.5-2.5.28.jar",
+      "sha512": "040c586381128b89e82b365b7559ebe096d4e7869e9ed4d2afe35b029d408888e22795bd5577b0c4df203b635adf45958871a653d0c99308b37969bb75ead7fc"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar",
+      "sha512": "c262302256a708d5ecb3e2d61de74bfb600b8892a5ef2780a309fff296f4e0123f6b95e10fd9823b5b2e4c532d0f013d94c87be0ddaba3423a5296ba1a7ed119"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/8fV9zH9o/voicechat-fabric-1.21.3-2.5.24.jar",
+      "sha512": "e37c7017088b907ee753a9feb2eb2fb2c581af90b7632e7ff4f6d9fe5529fbd11f46b806121f87b7e47edadaeb115fab7563a0f4d17925a9fd86bcf8b711c52e"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/LHAf4qig/voicechat-fabric-1.21.2-2.5.24.jar",
+      "sha512": "9a92bd43307ad5bcd8dec1908a38522dad44b4a05d7aaeb44662417c46baa5b31a800f2086f329ebd457c4a2b0ff0af5086d8e8200c853b175eafc956fb0a2ff"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/9CqJCuZ6/voicechat-fabric-1.21.1-rc1-2.5.20.jar",
+      "sha512": "b8011df44d5d164e6282340fb43781cc6157c787901bf1f55de0edbd5dd6f72f3d69e69e2f4f04035ab3101c40a74a8111204c63625486d13364342f3e1485a1"
+    },
+    "1.21.1-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/9CqJCuZ6/voicechat-fabric-1.21.1-rc1-2.5.20.jar",
+      "sha512": "b8011df44d5d164e6282340fb43781cc6157c787901bf1f55de0edbd5dd6f72f3d69e69e2f4f04035ab3101c40a74a8111204c63625486d13364342f3e1485a1"
+    },
+    "1.21.2-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/giqYZPVK/voicechat-fabric-1.21.2-pre1-2.5.24.jar",
+      "sha512": "c7156efb00b976338b26d3455df6c493fccf59d646853055d6777507bf371f43c27685c33541aad6e3555bf6319370b8a820813717463713030418c763523fb1"
+    },
+    "1.21.2-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/BDcdGCMB/voicechat-fabric-1.21.2-pre2-2.5.24.jar",
+      "sha512": "f79f62700f6d71450b9c12af7b40a4aa48d3d07314b6c8ecc27ab3921c59350ec7119e9b1f23a60ffdf5d602b1fe0558615d4833e5e28ae8645bdbc944e8e4e0"
+    },
+    "1.21.2-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/3NPf3HRg/voicechat-fabric-1.21.2-pre3-2.5.24.jar",
+      "sha512": "9b772054b1e8d454df74d391cf923964bb8823598689d982da793373cfc63bb98f833a920bb1edbc0357b80e5c294dc84d7f6d09bdbd466aa0e4953d376ebc44"
+    },
+    "1.21.2-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/NeeqALLw/voicechat-fabric-1.21.2-pre4-2.5.24.jar",
+      "sha512": "e6c98758aa163ac174805e7198814380f5870eff51e8499366494bf17b7f126fe6e55ebc6ae9f8d71cfd8a3ddc50e35c39cfd1f8611d5dc3cc90e1cbe589194b"
+    },
+    "1.21.2-pre5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Vk68AGaS/voicechat-fabric-1.21.2-pre5-2.5.24.jar",
+      "sha512": "bacd268d90fa41523a329530365926e53cd557053d11223ca159e339a6359136c0f78ff975fca79526c8f2eaa095953add783ba8995b40829c25eabc0bb4d53b"
+    },
+    "1.21.2-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ZIUjfwwq/voicechat-fabric-1.21.2-rc1-2.5.24.jar",
+      "sha512": "778d1ba35a2479dd038a2d54570aed14eec640f0eda254db62dcec8671c9ded829fd7f90c9653c7c2f1fa36f907608d2fbe75e2d88b115b6b2ccea9ac22e623c"
+    },
+    "1.21.2-rc2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/RlYDoEvc/voicechat-fabric-1.21.2-rc2-2.5.24.jar",
+      "sha512": "45091a2414054aa2ddeb33eb37641a64d31846120e6cdab83e155475b64776d08cefb2acc3089affa00f93106073aa566c91583569c3098769221c38794b987c"
+    },
+    "1.21.4-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/cRzDHVtJ/voicechat-fabric-1.21.4-pre1-2.5.26.jar",
+      "sha512": "6b8556814b4505d6609c0e2ef8d282ded61df4842043e1643f68137114416f7865c507f9507fbff3c05d3c41ad61a9ea7882a2a3b2042b081e57657130c10aa9"
+    },
+    "1.21.4-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/914cFtKV/voicechat-fabric-1.21.4-pre2-2.5.26.jar",
+      "sha512": "8e6d429b339fbd65730517cb404e542b1afde1b560c17c5839774453558f3370fcafcb17e2ea6b39628fb04591d481dd387386d9a464e5c4055a990aed4afb75"
+    },
+    "1.21.4-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ujvM4aOi/voicechat-fabric-1.21.4-pre3-2.5.26.jar",
+      "sha512": "d603be7045f6294a5c23fd95af87ac767de234f3aa95b951fcb1fd20200d33c6d13cd270d65bcbdc60b9253550340e1ce559c2419d5c1f0eb49eb07301ea28df"
+    },
+    "1.21.4-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/j4gywDRJ/voicechat-fabric-1.21.4-rc1-2.5.26.jar",
+      "sha512": "543748ebe7ebb05383472da02661cb098428c45eefd5f4037b913c17b1f4f2dbd0172c493ee784ba4bc47cd547ad054e3941e76e34a355ca5ce9f712e36d5a9e"
+    },
+    "1.21.4-rc3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/la9zcfkD/voicechat-fabric-1.21.4-rc3-2.5.26.jar",
+      "sha512": "797594e513f6d7d7ea7b2f6812d15d7504d7451cb9414c143d530f61d7bd9546cbc2ef3e271e12f54d22489327397599a70bc8c6ac182b61d4f84e9b578fb8ff"
+    },
+    "1.21.5-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ca8MXtVq/voicechat-fabric-1.21.5-pre1-2.5.28.jar",
+      "sha512": "7e64234125f0ed757f92f02707a7eabd1ce93c8b9c9f2ab7609add2b55dd34db6665b2314fbe8e5230d86a52b75172e52e747378f263020c157192685bb21c85"
+    },
+    "1.21.5-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/jV77ZfWf/voicechat-fabric-1.21.5-pre2-2.5.28.jar",
+      "sha512": "956277532db2deaab3e5a272d64b5f5c43fc0b6fee411d5449ec8f01e49aa6fec499f42189be1ee4ac48e734021be951d1d10969b2f9e99c858f7d55a7624ca9"
+    },
+    "1.21.5-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/l7GE5byZ/voicechat-fabric-1.21.5-pre3-2.5.28.jar",
+      "sha512": "400260f1d273db9cf6843eadbc97ddddf952e5eb31c4773286412f4c4a46cbedf9a5ce6c58fc7eadc266b70d77742f0c8f8d7900691a1b26061a8e5a71fcc23f"
+    },
+    "1.21.5-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/myxMQb5J/voicechat-fabric-1.21.5-rc1-2.5.28.jar",
+      "sha512": "6cc48ce9a94fad64c597fd981837626c304922fe846122ebdfa296624c0723c327c9526739bff0ee54116a3f4e3d144236aa57f323ac3cd17b337360470bd3a2"
+    },
+    "1.21.5-rc2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/RChUVEbV/voicechat-fabric-1.21.5-rc2-2.5.28.jar",
+      "sha512": "aecff675fe1654a4971a97f4d0eba045186bd1865136b93ae2cec847ba7092d279ad3bdfa9425464f4c642c1b45069d56b2a0df994a1446b6161fcb7f3bd8142"
+    },
+    "1.21.6-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/jv5uc46e/voicechat-fabric-1.21.6-pre1-2.5.30.jar",
+      "sha512": "7c6b179090b23c881e4da5ca490e1bd01e21802da31f36f52c62d8377a9dc975e1fc8f60af90e312dcf208fb025269ebc7ff2663218e45062d28f5674c93b95f"
+    },
+    "1.21.6-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/XLVOhX35/voicechat-fabric-1.21.6-pre2-2.5.30.jar",
+      "sha512": "4bb308b755271b1a10b64c95c47cc41d6c6f0c592bd0bc723a8b0cddb3e703f3f5df1f6e4e7692b0af12c70c5d19ce7957b4d71c55e4a8627391305c0ef946b9"
+    },
+    "1.21.6-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ePU5Cjhf/voicechat-fabric-1.21.6-pre3-2.5.30.jar",
+      "sha512": "61145806cc455e4a1ac00d8d278ae071253647c84988cbc95c0e4ef6b780aaf8094285f56363d3eb0c5c8dbf0a5da602787a9629ac805bd603c2745607b13dc1"
+    },
+    "1.21.6-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/djgY4flb/voicechat-fabric-1.21.6-pre4-2.5.30.jar",
+      "sha512": "a2215d73d77a4f51d6d8faab3f847f3ca44b01bfb92e3d4d949ca1f07093fa3376ab88d07a2b3f5803e9ba7dcb96152f801b7e58e4fba15292281a85155f5735"
+    },
+    "1.21.6-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Uv2NjJ0j/voicechat-fabric-1.21.6-rc1-2.5.30.jar",
+      "sha512": "c7b137091d5c4219163f9e84fc23ce42e789857584d1e932f944e345e0c915e08d71fc24e5cdf44c2a29d7a5fbebf6d8bd7f3573a95734d5753499a0c74719d1"
+    },
+    "1.21.7-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/JKzyVafM/voicechat-fabric-1.21.7-rc1-2.5.31.jar",
+      "sha512": "36c4a492acc5e34ae7589efff4aec3673a5b50a8e4402c500e2dd6711a70c53ff26b463c5c9fb4fab2a3e5e8420cdc0b6f22e67af149b1ce139b89643ead6e3b"
+    },
+    "1.21.7-rc2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bFvOqlBL/voicechat-fabric-1.21.7-rc2-2.5.32.jar",
+      "sha512": "bd28a61e2e1a97391e7f15d1e39067e8597e91ab4bddab0c7c4bccece47f4f1f086d9224756f5703eae33e45b481d84e494513d04f627569dd99c45188c154c7"
+    },
+    "1.21.8-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Cf6x0qCC/voicechat-fabric-1.21.8-rc1-2.5.34.jar",
+      "sha512": "5aee593fba22fc5a854fe8c0b2e8a494d7bbb0c5b0464fde5cdcb474bb09256c1281ee723dd1a454154ab7bb14aa91a95166da1c9fa28faa9ab8b2204657fa61"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/95BK1U8I/voicechat-fabric-1.21-2.5.15.jar",
+      "sha512": "228358fa22daffe65935593d920db35cdc1ce97909f1d35e9618f311561776eda5b3adff852c417faf43eb1890dc21d6a7367e80029e7182cb3fe2d6ff68d38c"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qZTABTbH/voicechat-fabric-1.20.6-2.5.12.jar",
+      "sha512": "4c9ffaee61902010290a27ffd0365d8161a909f76ff6866a52f500dc9f1781b874c728fb22eb5a25e76a8987dd3b3ec55c6908f8ec4cd2068ea6e9c72b8b6874"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/3hmRkXML/voicechat-fabric-1.20.5-2.5.12.jar",
+      "sha512": "1d24179ba247be52c7c825e214a2da1b221264a8a6cb7ea7a797f9c7a3c0e15b1db22573a5bd20d078820c7fc360ed9ced2e6ac070fbb426a548ac5268a7869d"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wcEAPH1l/voicechat-fabric-1.20.4-2.4.29.jar",
+      "sha512": "ff62bfd6f47cc2843adcf6e233123f1c350ebadc567a678a96d9afd51b97b691c7eeb5e1eb97ac0b66272ef594154cd441298b892173bff1b3b929cf43aca2b4"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/jmIhCqSK/voicechat-fabric-1.20.3-2.4.29.jar",
+      "sha512": "c73a0c54dd964a4f2926b700a86aa8268176019587a352844639e1441f2a82614106e8792bb4069a2565c47874b303979d70419155d6217bbd5cfc158111468a"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1qN4Fsha/voicechat-fabric-1.20.2-2.4.24.jar",
+      "sha512": "a92d6a026df6ce4638cdba68cfd526240c02accaf861a84e45eb827895775a959fcde7df51a5c375538519baa037c55335821b86b434c39a2694f3cc14e7225c"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/h176XxBD/voicechat-fabric-1.20.1-2.4.9.jar",
+      "sha512": "664e4f04b9b2d7de7ff13e1bfa1f2c2f9359aee6f7c77774f95ecc7da5d4d87c0493986ebc0789a1f70fa0739cdb12e62809d7bc61d676e41ab9fcf08762ebe1"
+    },
+    "1.20.1-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/FNESHgGq/voicechat-fabric-1.20.1-rc1-2.4.9.jar",
+      "sha512": "c2f70f366922454754dc2edb12b9c1c28367f63765ea96d43af96fec502cac74fd20d6ed8aa494a5e49b1b676f381f66c3ee66f5c43044917685f0cf4feeead3"
+    },
+    "1.20.2-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/AYzguATT/voicechat-fabric-1.20.2-pre1-2.4.24.jar",
+      "sha512": "873f12211bee29df57de45b79069032be0301d059741d9d8628e4b767a28e2842a61f1671275d6e63369f267034dc878654c344913ec5319166d1460edc323aa"
+    },
+    "1.20.2-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/uEwx8qHX/voicechat-fabric-1.20.2-pre2-2.4.24.jar",
+      "sha512": "cafdc4eeab17f26f48ad66973f0f3eb6f09f0c2d3ca20f01e2ff2c1af32bed29b84f897dae0828650036ba97ad6c5dcb496e404661ba860bb1854c092be4e29b"
+    },
+    "1.20.2-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1MMZMWd1/voicechat-fabric-1.20.2-pre3-2.4.24.jar",
+      "sha512": "4a4c8146e96b37dff0ce1f29a32e2442aa081156d31e104e6dfb1ee8d1ab8dbda3be7238edf8a41484dac19e8cd51f915b9573e0013ff517495b41599096296c"
+    },
+    "1.20.2-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/uoLRkZMU/voicechat-fabric-1.20.2-pre4-2.4.24.jar",
+      "sha512": "30fda06d6f7a4dab50decfb502218dfe16af3ddaef113f1d5ad237f4a1379ef2860a9d1bd5f59c0cf95d394ad9c8bb138336709c3c672117970a7ec852320b81"
+    },
+    "1.20.2-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CtR6D6ZY/voicechat-fabric-1.20.2-rc1-2.4.24.jar",
+      "sha512": "1403a58e12e85fb39a949673a8ab80e9ee9d3a1e60da715dcec32231ba969ccb9f2eb10168ddc35756b2fc1f975312bafb5efa36bfce99beda45d0938487de26"
+    },
+    "1.20.2-rc2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qdU0n4ez/voicechat-fabric-1.20.2-rc2-2.4.24.jar",
+      "sha512": "6651ac51d4f4e1791dbac797f2cc0d82ea64295c5e2b52f2e7e0a00bca0b2f1ef783af725f1e1002bc6fb6855a7483ba6dd9f34790bd331dc37aa14820aa664d"
+    },
+    "1.20.3-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GKybZIz6/voicechat-fabric-1.20.3-pre1-2.4.28.jar",
+      "sha512": "1acf74cb021122ae539bda3ab3d7d2788146537b96e16db392a5d30e5317312bde9c139840075058268e76cdd46dbd9f5cd2772ea47e418a877df1de442a6f9c"
+    },
+    "1.20.3-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/TeXITA75/voicechat-fabric-1.20.3-pre2-2.4.28.jar",
+      "sha512": "c75cae557f1207efe6c4c7b21db70ad53d8bd1ec148bb1232eacb9d90c28dee554a1fd58c48fe6e4d6778a9249551e12716297bbf1e8b94fae6c315ca1a8613f"
+    },
+    "1.20.3-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lxQXYTWl/voicechat-fabric-1.20.3-pre3-2.4.28.jar",
+      "sha512": "f57ba66a838d0c83f2bd7452c247d6e30564f090f278aa53c165b49653fa5469eeb8862ea2c2c3a7bb103ce533bfcb97e912d85b5c6518d8f8bfd57b19fedf28"
+    },
+    "1.20.3-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/zUIQEMX3/voicechat-fabric-1.20.3-pre4-2.4.29.jar",
+      "sha512": "73ae480a0c7b33f6282a339029c24969b4028407e512b8c29bd5b4c87cbb5a590d12ca805d27285eed3e7b677634323f0434127ca609c0011c8662f8729a6812"
+    },
+    "1.20.3-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/sC7dUVTs/voicechat-fabric-1.20.3-rc1-2.4.29.jar",
+      "sha512": "766a05f72fcb4af366edb939df54921d62735a808f9faf2ae0f2cce090235e4190f6f01d966668f1ed0ea9bba69cd7d958fa0fb36d81de6cb973023fcbc63774"
+    },
+    "1.20.4-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/I1tZTDqP/voicechat-fabric-1.20.4-rc1-2.4.29.jar",
+      "sha512": "f1a1448beef39d9b5ec057cd9d64385770883bc3ce6bef1ba1c64db19c003df7715ea6d70d29f21d488a939f02aaed5bc7d39c3c686beca340e07a59ba65d0d1"
+    },
+    "1.20.5-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/kc2ZXmyO/voicechat-fabric-1.20.5-pre1-2.5.12.jar",
+      "sha512": "ba699cd19b9acecb12a148b63d31721f6cc9bcf89635114a13b3664b44a49c72fa7dc2f3101ce0aa25190bde7c76f4c199969d9327a8709870b0005b77315dc4"
+    },
+    "1.20.5-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Q3ovdtAk/voicechat-fabric-1.20.5-pre2-2.5.12.jar",
+      "sha512": "65c2adc3b281a80db861ba491b362d800324c3af116ed92a1049bfa00452fc9609b4acec72cbeb83e018dd4d155deb3f4d2dc13827005a7588c9f7606427108a"
+    },
+    "1.20.5-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/v8xIDPCb/voicechat-fabric-1.20.5-pre3-2.5.12.jar",
+      "sha512": "5d0e67d2ce43d8b322427ae320d492f8db9d46ec95207fcfc8be806710c89fea6debe69662b69d04041701c89c8b3da16fa06954cc957bd06e17bc48ba91e479"
+    },
+    "1.20.5-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/dhQH5nEk/voicechat-fabric-1.20.5-pre4-2.5.12.jar",
+      "sha512": "3cc5543584f5181071e29f9701373b1f37fcb788a96686ae0708a7f896dc82f59a76ed9497ad5ca850cb17264aca1f560033e9daf125daef2a5eece5dd201e11"
+    },
+    "1.20.5-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/hBBJOu8y/voicechat-fabric-1.20.5-rc1-2.5.12.jar",
+      "sha512": "8f486750e868d45028203c36f40a824f162cad654e3655f2f39d274db166a688a50549ae878f2ab35d98acb7afba3ec01df5d937294043065a5163169f83a94d"
+    },
+    "1.20.5-rc2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lCbsEisc/voicechat-fabric-1.20.5-rc2-2.5.12.jar",
+      "sha512": "6b8806651a856765f85a47a0653bb688ff4d268ec8a975bce23db3e9b01a2d694291f80629bdbcb7056af8dbfa85c290d71e59121902da07ac4079d768b52b1a"
+    },
+    "1.20.5-rc3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Heqhryey/voicechat-fabric-1.20.5-rc3-2.5.12.jar",
+      "sha512": "3092086a17522c610ca9cf86b30a59ca7ab76de1360078b17c8b336775810712e9d5651235a08bd41a01a1ff15018c77e68320086a6f80b6a10d0a385240d845"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/haux9k7x/voicechat-fabric-1.20-2.4.8.jar",
+      "sha512": "db4a7a49857278d1916db4fb7f3636c03710c7f117fcddcd65ba0bdcdca25f49d87f379b63d9ef425e3435aea1ae38e328dcd20e9409b8bc1b02ec3a00d5cd8a"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pBGz0fqU/voicechat-fabric-1.19.4-2.3.28.jar",
+      "sha512": "fe2c57f29a6bd119940fb61056e33a459c831e9d6ee8c84375c0bf003c33642b066a6d8143c282b23360f6accad16deac1db578b5318b751f11ae133352c49b6"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Uvz4QEyH/voicechat-fabric-1.19.3-2.3.18.jar",
+      "sha512": "019540c768329f68604ca123ddc01686b0e239b6a5dd0644c50c16563eb45661a84dc002d3786db48fcc0b6f7a741b98f48488e43f938e73093abe64479fcf2c"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.19.2-2.3.1/voicechat-fabric-1.19.2-2.3.1.jar",
+      "sha512": "a954de7ceec4cc2dd35476b80138eb2516121680d320eeaf5e5436b7278ee52b8db8e00eec245d9fc19d112b90439f98d6625e1510f9c91ce5b4b1a6658c6893"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.19.1-2.2.52/voicechat-fabric-1.19.1-2.2.52.jar",
+      "sha512": "9e5bd823d6ac2ab418ab4e2ac7d57fa3d8e44ae747b4de5707f2581cab93c096a9f5b9b4f7321cce9fa29e423cdb4c73aa1e7bdfd02897227d3674e787eab3ad"
+    },
+    "1.19.3-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/EviEHIbm/voicechat-fabric-1.19.3-pre1-2.3.16.jar",
+      "sha512": "ce7e088bc6ff1afa1da1ea9a310bffaffb87822cedc3a0ebb79f6f2cc660e85d8dba245499c3c4d3f8dd28eac2461227f4d035d6a6578e192917bab047fc4831"
+    },
+    "1.19.3-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/sfpdoozI/voicechat-fabric-1.19.3-pre2-2.3.16.jar",
+      "sha512": "6261030c504bede746a08ec01c649a55a3deeffe0789dc585e02dd6a41af9ca8cb1232a54fc749e40e496b47357fd17ce1ce1a8f48e33df5738c0538c706fd75"
+    },
+    "1.19.3-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qkyAwUvq/voicechat-fabric-1.19.3-pre3-2.3.16.jar",
+      "sha512": "51ce7b416a4d3a600b8e15427cedc9bc3bb389b6f3ba5e087e697c4575b745e52041944a053ceab11f0c4de3b8a9de7a51d5b68218ca21e97b08fc36a0307919"
+    },
+    "1.19.3-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/UFMaQn3E/voicechat-fabric-1.19.3-rc1-2.3.17.jar",
+      "sha512": "41a8568e2bb528608a51fd6424758b40be969313611e43ac75a5733f11f4566decbc0622b52716358d6cb83408eb82bdbd392c5ce36578fa9cbc1e87fed6b24a"
+    },
+    "1.19.3-rc2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/sISiDZrg/voicechat-fabric-1.19.3-rc2-2.3.18.jar",
+      "sha512": "f55e6244223b2c1978d8575ca2e3b69f225faf6f5c8c462684599cfea0d83fdc6fe7b3bed49814d95bf0a2881b05f3fe00ef3be0d68429cb4bdb914bc6ff5698"
+    },
+    "1.19.3-rc3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/IKy08zNO/voicechat-fabric-1.19.3-rc3-2.3.18.jar",
+      "sha512": "3c8776168ce0ea7eb1e7683e6467514d2d00a48f3eda76663bec1abcc5aefd6bb05637596ca7270719a53b980cae9c357f554ab21b92d219dd326670e928a30a"
+    },
+    "1.19.4-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Cc42yGJW/voicechat-fabric-1.19.4-pre1-2.3.28.jar",
+      "sha512": "e25a610630a5bfe5a191f77e365de9748b18114f5e2d9dd1ff2548d10c2bb92198a0023efafb98da806e18140f2e2bde63e2aed03b367638b296c3a9003905f0"
+    },
+    "1.19.4-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bnWaNTxJ/voicechat-fabric-1.19.4-pre2-2.3.28.jar",
+      "sha512": "02437e317220cba16665b1060d6091638791ecc3f3dfe0975d125d4a00519a464f3b740bbf02f862210480e52d80caac346199ce8705a7ec58eec6db5804fd2a"
+    },
+    "1.19.4-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/f27HCJfc/voicechat-fabric-1.19.4-pre3-2.3.28.jar",
+      "sha512": "5c7a7beff630aa57a8b0308e5d947048e1b6e7625116c82492d3ccc66288a221ef0b06dba8b26acdfff92218ab416448ae27cc90de760cc0e79de66c7811b95c"
+    },
+    "1.19.4-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/z6cYGtZ8/voicechat-fabric-1.19.4-pre4-2.3.28.jar",
+      "sha512": "efc62da90a67a57d4bfba298a7cebacd7869d1b824921c1a34dcd220fc189088e790539dd0a6497fa1b31a58991e8c17730db7d4e492cec045fadc6d337dd6b2"
+    },
+    "1.19.4-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Io5bEHIb/voicechat-fabric-1.19.4-rc1-2.3.28.jar",
+      "sha512": "6dcd8497dcfba214a734b63bd836ade5fbc89012d7afb3f0be2013f99b998c53f05cfd1a1d9374de957a9612bce04ad1c7096127fb1693a81da2ea3871b69167"
+    },
+    "1.19.4-rc2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/hqwxeAU3/voicechat-fabric-1.19.4-rc2-2.3.28.jar",
+      "sha512": "86d8cfaee780272a8a80c35d025aa3f7a5380e7b9d8314276054130f1adb35192582b246572fafe2042e7ad5ac3f38a61499bf294a24f2e0e4af4acca921428b"
+    },
+    "1.19.4-rc3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/6kP3jszz/voicechat-fabric-1.19.4-rc3-2.3.28.jar",
+      "sha512": "3d8024cde1781851a138bcc021f1fce66f0970fcc79d02102b7679cc38d4d3326b8d9822b5df4a8210974dc68b0013cb2e354c0178a648224d3d0b2cee8d85ca"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.19-2.2.44/voicechat-fabric-1.19-2.2.44.jar",
+      "sha512": "2a3503d579166f2ee2266b77ddee8df862f4dcc97796ee8fa85b0f31c5433196ae68a7cdd6c52624868d53cebaefc8f7ec4e67035c292a5603f9634d339108a1"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.24/voicechat-fabric-1.18.2-2.2.24.jar",
+      "sha512": "7e98157610f4e35b0be4558f6ef9edcb0983a0c0bee5526da549f10f3b2938083abf444f9906ccde9b59274a7c9d5cb6089472de8534f87944cd4e22d373da3b"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.1-2.2.16/voicechat-fabric-1.18.1-2.2.16.jar",
+      "sha512": "fede56a37d1bffd3fa136b812ab70bce5483ddab5b61e31b1f23cbbb7452b8a9e8aa8f1948316f1e21309a9a18c2649eadeb60372b408c2747456db82c141dd5"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.17.1-2.2.16/voicechat-fabric-1.17.1-2.2.16.jar",
+      "sha512": "d7590140e3ff57b18415fa062554398fb06d4cb629abafed9a3cba2eba39d344aed0ad52748b8aff11313fd980bac94360e5b76fb94deb0f083803b3277cf965"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/QagkQI5X/voicechat-fabric-1.16.5-2.4.4.jar",
+      "sha512": "d5cc237f3accdc474187f9ebc10fe93a5f70f539b6b7741cc60e52e0390fba621badc806f602d09b160904c083309146c057867ebb34d813a07d6a8d7e46cb39"
+    },
+    "1.20-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/D4coGZJq/voicechat-fabric-1.20-pre1-2.4.7.jar",
+      "sha512": "46ed14e54438e9b93573a88449d6a35bb6d028dd6490ff3f2243916923e3930ab4cfea75e497e50993a723b2735e502c6fa17ed0fc822f2c5b42ac5562cb1e7f"
+    },
+    "1.20-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/jNEmhqH7/voicechat-fabric-1.20-pre2-2.4.7.jar",
+      "sha512": "db1ee09591bd5a938087ac9348686e4870709bde699f954b353651ff3a12686efb3c40d6d5945374912e021098c9f3be38b1789ab6572ff33c30c7c00e2650ea"
+    },
+    "1.20-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/WmmTP1kb/voicechat-fabric-1.20-pre4-2.4.8.jar",
+      "sha512": "d60e17c5c7c33b693fe29f474a6a3a68028f5bed0d5b6c684da74ea0f07cf4cf4261e9348dfae54c079c77a779d0c121f937756cf18a8c31298a5707bd5483a1"
+    },
+    "1.20-pre5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Pv469h8Z/voicechat-fabric-1.20-pre5-2.4.8.jar",
+      "sha512": "01a78ae4cf07cd65fe0f8ea4f00725012115516dd955e3fc4924a0778a06c3aff274f9f4ba9ac32802860f703e8b635e3308459c0843768ca0a82af4a6714a1b"
+    },
+    "1.20-pre6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/3F6tiGg8/voicechat-fabric-1.20-pre6-2.4.8.jar",
+      "sha512": "c05bebe1f5425de6916c3f905590d6812e390ea05cd693b6a9d1518fd8b926076d3129504184600b8a2be0424c413c823005f0e737d9820d0e62a6a128f27f84"
+    },
+    "1.20-pre7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/NOKiOW4q/voicechat-fabric-1.20-pre7-2.4.8.jar",
+      "sha512": "3934d95c307a34ebafa78a028873e40d2e3ce20304632c1d6c816ffce6100fb7e3f1984bd49e6cc2fe8efb2c68c3d41afff950944aab2cc949df6106f04e24d5"
+    },
+    "1.20-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/hc2m1WQ6/voicechat-fabric-1.20-rc1-2.4.8.jar",
+      "sha512": "56039b57e270ee480f31fc29b4f50836a050dcd9766d82edaf50237385fb63bf7d269dc9e3e69e5d1e98ccbf7355c2662e673f0a5bf6a6c425acd3b0f586c1ef"
+    },
+    "1.21-pre1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/odBZWFNd/voicechat-fabric-1.21-pre1-2.5.15.jar",
+      "sha512": "423e3be7d9d9b303548ac5f969723effd0bdbc21ad355c7ab374bca4c324cc9441b612504608a449ede4bd31c4e20e60920762d468ea9c88fffa3c23bc42229b"
+    },
+    "1.21-pre2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GRaDSWvU/voicechat-fabric-1.21-pre2-2.5.15.jar",
+      "sha512": "eccc24d6379f91ce1d5e6de1ed9cb8440d91c1ae8474174a4779039f7f951478bee7d2216d2a866549f9c806331f1d81ca7f8aa264ebfb73b369483ea6b8baaf"
+    },
+    "1.21-pre3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Ce7T2B4h/voicechat-fabric-1.21-pre3-2.5.15.jar",
+      "sha512": "f1af731fc083822ec5bdb19613cd8ab23cafc096efcd7c1990051b7c7aea27e3958f78ffbef7b6371725f239f5ddeb6b63a69d7c93baad0ec76034fcd38bf1e0"
+    },
+    "1.21-pre4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/NAORpT2X/voicechat-fabric-1.21-pre4-2.5.15.jar",
+      "sha512": "edceb98ef6c5a8f0fcd6ca0a7b328cc506b1e3927e62b10819d3f9249fef5554495136d28fd4e0ed7f7a4bdfef76346ef74541fa74d09680ebd68c3c96a88f00"
+    },
+    "1.21-rc1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/oRdsUSH7/voicechat-fabric-1.21-rc1-2.5.15.jar",
+      "sha512": "e463877920a7c00f649603f9e0cc4ff94a5e14b1b317398d832f2cb7c5b2dd625f72234d5254d80e1f515e31ed0bf659f9814876b9fec09de81b3736a82a5e49"
+    },
+    "22w42a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/KVaxwhTC/voicechat-fabric-22w42a-2.3.10.jar",
+      "sha512": "3e8ff525fe082ba77576ad44aae9be745a9cf31e0d4ddfbfa9e54263e955837dba5193cb896e419a5527f940d71c9a7f934f244581a839a5f8310c978da84ea0"
+    },
+    "22w43a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ySymCfib/voicechat-fabric-22w43a-2.3.12.jar",
+      "sha512": "3281a24cf0c64c1c6252a6491bb8310b5e1d9a91fdea683e0addb2fa9d2d174ab51e01bbc387acfe50f38a7bbb13a43e978ea685fa59525ecc533bf2dc0ac86e"
+    },
+    "22w44a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/euRdXW5s/voicechat-fabric-22w44a-2.3.12.jar",
+      "sha512": "5e453dcea98d9ea8bc30650086d6d3018f1d70ce9dd66fe3962ff421d55191c5c86af4663f290be98494694b792bd7af209b641062cb095974019c5a6663f615"
+    },
+    "22w45a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/76xU6eJC/voicechat-fabric-22w45a-2.3.13.jar",
+      "sha512": "5abe428e64173c0f7e7b9de2c76b2760268601e2e7dd957d3f24025c612da1941a08e094e4c6a28b585db666022fc83da2ccdabef34b971669014ac4cc360894"
+    },
+    "22w46a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vK65MH8C/voicechat-fabric-22w46a-2.3.15.jar",
+      "sha512": "c823211de693f014f68647137e9ca761b9cc4afed6785624397d968df356d7a8d0f0918929a33ce13ef27c29908659e864749d2570321b08ed73ce9f94242a14"
+    },
+    "23w03a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/5IjR1VjG/voicechat-fabric-23w03a-2.3.27.jar",
+      "sha512": "42e1a55d3bc898988e55b14d11eeb5b4bd66715f7a3b984b57f95a76c7456c11d179c8aa557091f8d91df1e289f9246181c30de293ca31987138ae5e995f6125"
+    },
+    "23w04a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/YbSh78z5/voicechat-fabric-23w04a-2.3.27.jar",
+      "sha512": "e147853ac50d5c15874f296c7504c0c88fb5beccf955254a9a4c2a6a504934ea24725bb7f1e49c88651890c6535744a4ba470aa5f0aa33c943d8d209691998eb"
+    },
+    "23w05a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fLUfwENW/voicechat-fabric-23w05a-2.3.28.jar",
+      "sha512": "7f3257081d3e45266819efc7a72d0a0b76bc90d34ab91b0df9e200546f77b64bc9b88586717f54454625ac55f96edd6becc96c6a8947ea9ab599126690f2e1c8"
+    },
+    "23w06a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/D3Y1LHUW/voicechat-fabric-23w06a-2.3.28.jar",
+      "sha512": "01a10b6cce85a4125275bfbd51aa477c50e2804239ab0deb07f41fe4577ea05d45dcd2a9db478a203aa0730a6b75321b0f0eca2ae85ebe9216cc54fd611817f8"
+    },
+    "23w07a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/IkbruGCS/voicechat-fabric-23w07a-2.3.28.jar",
+      "sha512": "3f3a18d2477da7d0c5200f7fed8f1f2931c4c96b321cb483f26404a9debbb549c0055abc10627672a0ff2b4a01773e9ed2924c377051215cb948d1ab50f1446c"
+    },
+    "23w12a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Xyw6PHf6/voicechat-fabric-23w12a-2.3.28.jar",
+      "sha512": "a9073c2ded2f8b03b2200c9517fe716dab38f99812aa55bb9f356ed5ed96abc807f169c7206cef846a8fc97f698fae8cf9319fd49297cdb098f68e39fb9173be"
+    },
+    "23w13a_or_b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/oDridzfo/voicechat-fabric-23w13a_or_b-2.4.0.jar",
+      "sha512": "144463fb1ea45c9c1970295d65a199693de2f3c253768b2c70e2e9ca85b793bd6ea6ea428e70e388294b2ed3ccb66820349cc77d80abf0bc066a14b4432014c6"
+    },
+    "23w13a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/iWH7JeNb/voicechat-fabric-23w12a-2.3.28.jar",
+      "sha512": "81c98b6f0b7cb6865bc3a2ebdfdeeba353d2c8b2cd7602fc822958d3816352addd3fa2d79416121d9fbcfe46e6bc717eea704592956eff67f28b3781bb87a9b1"
+    },
+    "23w14a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/YLxyHdWT/voicechat-fabric-23w14a-2.4.3.jar",
+      "sha512": "32adbf10ac0f8b93406dcfb84ecee7b2fee577bd2ae4240b977edacd957dd02f9cbcfb9d580b3a261bc3432b43ebc36615eb346b4a8cf1703ed74fbcd22835d5"
+    },
+    "23w16a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/7ZW8m1a6/voicechat-fabric-23w16a-2.4.4.jar",
+      "sha512": "0ba0086001939505eaf598d43715d98e4ef87aa0bd6db561f197a0c22909131aaee88518211a900b4333d230b8da0a21591f1e0248802de9fc779a000f46b759"
+    },
+    "23w17a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/KDmDQlQG/voicechat-fabric-23w17a-2.4.5.jar",
+      "sha512": "171375a8b9d6f5dc78cd00f5f0d5a177b8dc3a40da0725364f5dcc494f114e218db9141cdd11bd86c0d0c07e11d817293d5589262922fac16fbe28f703c92643"
+    },
+    "23w18a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/oruiCHvC/voicechat-fabric-23w18a-2.4.5.jar",
+      "sha512": "daaf5c6b7452cea5efd77e1dacb885d5b911377a9df148f8d17b472533089ec10f7ae618e1576827e730be636f690a90e9daf703d6e3a211d3813bebc817c7df"
+    },
+    "23w31a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ITZFwWkY/voicechat-fabric-23w31a-2.4.17.jar",
+      "sha512": "a2a0b775aefcef1864004b92836ef5cecef39a72b207cec1486a695a34d5556c7d8953253392eaae72bcbfcde126a7929844e65b201d56025078248f58a24ff4"
+    },
+    "23w32a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/JP18P49o/voicechat-fabric-23w32a-2.4.18.jar",
+      "sha512": "52385d26f15f3c352d8d286d06b97f905b61427b4786e2fe65de9c2b00592ebc0312f694563caafb9603348fa5bf3a02d97c7df2d9de0e16cc60e0b49bf74d03"
+    },
+    "23w33a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Yd7Eth2O/voicechat-fabric-23w33a-2.4.20.jar",
+      "sha512": "d9cb394c4d9d1d60207f9019988e8a6e3ea99807233b1c316d9cc4732189bddee6da2b1cf6c082a21784610ca5ed87b27d42325b5441c0098354140d49bf7282"
+    },
+    "23w35a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vZwHaHMz/voicechat-fabric-23w35a-2.4.24.jar",
+      "sha512": "cdb5a1b6e95f28b0df7b100eb72ca528117960effae605c99fe542717449131900bd59e993d2e2e979ac9f6b5f69aefbb6ddd56e3f69a23dbc177b75fcfc588c"
+    },
+    "23w40a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lLYWNKrm/voicechat-fabric-23w40a-2.4.26.jar",
+      "sha512": "15def4a530bd9179778de6a07aa8a94973197e5b3bebd07e68310b3f4c97419b75f6db8b70031da014bef1356d9b293ea6a0674d9c072c2f4321cee091448608"
+    },
+    "23w41a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Mi2DlQ4V/voicechat-fabric-23w41a-2.4.26.jar",
+      "sha512": "95003eafa37d0c263e2c0b31cf6201d95ed7e6713fbc1ca4484ac09955b6d33dbf95f488271529bbca6123c8704cafc7ec4388224583c19f91633ae261e6ede9"
+    },
+    "23w42a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eGKnnUD4/voicechat-fabric-23w42a-2.4.27.jar",
+      "sha512": "66e9ae667589b64eed3c89d02f117fcf00709b46525014be11681c0f5e5b91239e82341c89b7122454e9263e2a4680bb5b8702bedfaa5695fff726f2494007d0"
+    },
+    "23w43a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/kXz0BKVV/voicechat-fabric-23w43a-2.4.27.jar",
+      "sha512": "b2f7b46753aef760cfc9c2abb46cd44f1e798a11b12fa17869c3c5592fd675caca5cf97b7dce010eea8243a428d4559dbf58b9a531993e950386a98f1d000858"
+    },
+    "23w43b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/YV4EGkM6/voicechat-fabric-23w43b-2.4.27.jar",
+      "sha512": "a68bf619a5363c6f03077979a83f83325697daa9fa35a47e492a172aa71ed0d4e70061c1e88f21c778191355679e38f004dee6df683b86f22b5c5825c6db68c7"
+    },
+    "23w44a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/5GnDxhaf/voicechat-fabric-23w44a-2.4.27.jar",
+      "sha512": "293cea3f068863593d019097861a9cf35adeac770c7eba4227667d8f24d0a01a2982a7f67ef72ba163a889422baa4cfac3145d3d9e200c7b1f5fd045005b6ffe"
+    },
+    "23w45a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ypNkXUkZ/voicechat-fabric-23w45a-2.4.28.jar",
+      "sha512": "4798cd10521e5d9d575d4d1e0a7cc7d2c7cb206cc714131430e3b60d0ab2f7906ea668030bfbe90d462c18383000810c6a60ac06f627a8b01cfe590b3b7ed042"
+    },
+    "23w46a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/w5iaagez/voicechat-fabric-23w46a-2.4.28.jar",
+      "sha512": "06d085f171b5a13cc14093b7d207484fb5588ab9109785a158fe0355827db2301aaf72399b4ebdcab8dbd14a957c685cbf63eba35c1f7a33b82012376c09f677"
+    },
+    "23w51a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/frFAJnA0/voicechat-fabric-23w51a-2.4.32.jar",
+      "sha512": "ee9068336b572ddd63a714073602bf5f9823a1a08aee0cbb0851f2a5897b5e289f8e097fd00b48353bdc4c1786f596e3bcf8c1b0ec6886333f4a130fcbbbd975"
+    },
+    "23w51b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lK266Xsj/voicechat-fabric-23w51b-2.4.32.jar",
+      "sha512": "b5514d20e26461b4829f14cc921a00ef0f1ac745c69ed97786a56a3e6156f686e8f1515f3750c58fdfd5e5c49fa1d52e3f4375623f8a91a25bd1b82e2c9a3220"
+    },
+    "24w03b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/zDyJSB9T/voicechat-fabric-24w03b-2.4.32.jar",
+      "sha512": "f66af0623c038aee57c6657ade20a3fbace1f412b09c0dfcdf71321dafe59f2b272227f810a416da452c240e5f53bb7038fbfe1fc03d2572ce02d9ea07841dac"
+    },
+    "24w04a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/KBMrxm4p/voicechat-fabric-24w04a-2.4.32.jar",
+      "sha512": "be1831441393946b9af23ff368d7bf26cebc6c116e7e89894abfb5240b9597571b4082f52c441716863a7c53236d97f4875924c65189e46fc3b04b99d6490004"
+    },
+    "24w05a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wkSFm3sD/voicechat-fabric-24w05a-2.5.1.jar",
+      "sha512": "be840ff5d9b469b3cab6e6045557c0eff90d3258830cd616002f980e4fa1fb25c75d9bc01df7c537b1d1f3a52df339e8c6c15cb604fa9fb039f131a602cf0ca3"
+    },
+    "24w05b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/4FcXhbLt/voicechat-fabric-24w05b-2.5.1.jar",
+      "sha512": "b7dd88e9955e7d1861ec7d73e8726f6e9741a94c375fad5de98b003bdca7eeabd5a7e0aa28073f31279c2f0375b04554fa01f1df11f8688659037519324aeac9"
+    },
+    "24w06a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/oKaysNua/voicechat-fabric-24w06a-2.5.1.jar",
+      "sha512": "8c79de9c761fe5b42fab48d30fd8e1791c7845d121224aa6a2636d79beb662b8e1b7da4cc1d5667a9e5967459f6e4c9a41ae296f9e7cb365ee1ffee58e61b4fc"
+    },
+    "24w07a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wFEQaxMo/voicechat-fabric-24w07a-2.5.3.jar",
+      "sha512": "ccd0882b4f40171efb59093a37f7839962019a5b77556e0c3a10455708319e0fc6261049cad91b5f6c15f8ff6b26e1c7c38fd22eb43231b6f9ef0065c98e1e95"
+    },
+    "24w09a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/sz557DLn/voicechat-fabric-24w09a-2.5.6.jar",
+      "sha512": "529feba7fb94547f9d16535f8aaf4b10aad4d4fb96845700bcd749420d0b7b3ead116f2eeab0be0a2213fe722af4ba6d4d7edc77c837d045246bf0fe168cc268"
+    },
+    "24w10a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/YCXlXq2p/voicechat-fabric-24w10a-2.5.7.jar",
+      "sha512": "94e41056f10d5e9cfaa10b5c30be5b8a8a60bbb4b7eb9d01a6b5ab5073d8c0e0dbc2413e01ce6b097dca2afa9514c410c28c9e2d556678bb15c20b503200295e"
+    },
+    "24w11a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/rdDwZNt3/voicechat-fabric-24w11a-2.5.8.jar",
+      "sha512": "f2bc2f139ce884f83cf065ce34b1e1045135f899b03d0a1ac13e817ed1b218293379cb527afd9cbc7e30bcc06378f84df0ec27f9444268188c86909b70ee81d3"
+    },
+    "24w12a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Z7A2hLbK/voicechat-fabric-24w12a-2.5.9.jar",
+      "sha512": "bc88849ceb0d6b76a0dc787494dadaa7bd65a8e4a009156c4ce3915c48e2319cf5f4afbf7ff4f454864227a25dc71ad45c86babb0f12a4a540d6a9b9abb62e7f"
+    },
+    "24w13a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qbPQm4v5/voicechat-fabric-24w13a-2.5.10.jar",
+      "sha512": "8b202b2ec65b9500beeed653c89256c881b12089dd7f81a0c5dab47ef60aa2e87f7e74bf0c2314f628a11dff7e274d40f1e43cdadc62db4c6735c238593bb156"
+    },
+    "24w14potato": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GUR7Bc33/voicechat-fabric-24w14potato-2.5.11.jar",
+      "sha512": "e848b70d5f949ed56a59fe5bd45e6f1e18887d492f529aa37ea5deaf4982216f3310921e7604978732e0ada44ea158e64aa15da942b0b4688e92311724aac426"
+    },
+    "24w14a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/BOrjh7NT/voicechat-fabric-24w14a-2.5.11.jar",
+      "sha512": "b30517ca989092f716511d5cfb307242c9d93b84944026b6b91fcf75323ff3378b7392ca07794d6861d598da9fc1f8090917fe532507dff1b867801384a2112d"
+    },
+    "24w18a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/BXErBPYA/voicechat-fabric-24w18a-2.5.13.jar",
+      "sha512": "1be862608080437230d52d17aac549889efc0cbda164bc00d754bf3cd5c82d2d29f2b818e76564f57c7c939ca4959fd0a575b597a391f065a66b1d370d41c3fd"
+    },
+    "24w19b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eKBZCDKz/voicechat-fabric-24w19b-2.5.14.jar",
+      "sha512": "48228dd2bed57c6497483876aa426880010fa4ac8afd0fec25133e34e66df7a91098c7660884893ab0964a16531d60117c16e88be6211754bb4126e26bebf026"
+    },
+    "24w20a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pJRdoaX9/voicechat-fabric-24w20a-2.5.14.jar",
+      "sha512": "8ce94575dda8f71a7de9c5d8d2bb8c130eb2c1897625dfbfbd78357b65da5c0f1194a8f39c2250082f6e3b6eb939491658e6930bbc3bff8ac8df3fbb0a20bb70"
+    },
+    "24w21b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/JGvJHtXk/voicechat-fabric-24w21b-2.5.15.jar",
+      "sha512": "39afbcd7f087f789ef0fff657d20e7ab0298d4d1b0b8e185b644006865e6eef6ca67ae6a2d3b3c11c176ddffd64a75ded2b29dd3373a66f2345aae37543b99b5"
+    },
+    "24w33a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/8XFrcf4W/voicechat-fabric-24w33a-2.5.20.jar",
+      "sha512": "78d07211492a1b950e90deaafdeb13f33be3c8acd3851adc890d997e55ae046ad8549e002c0117df6660292622289b83ce361c8e6372a9d674f910bde5a47876"
+    },
+    "24w34a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VOQyKZyK/voicechat-fabric-24w34a-2.5.20.jar",
+      "sha512": "a3b798a222e7aefd336fb6d60398eae364a030b189b1ed4aff0f2b1086e3f0c223c305fca85d1ada040f59ba005b62232d0c4fd688b7777b36fab1b5d9705b79"
+    },
+    "24w35a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/5dcTk5P3/voicechat-fabric-24w35a-2.5.20.jar",
+      "sha512": "f2128c67382eaf8cd651b11f23ad07b1e90d95543d961c5446091a603d5c58d116a4b7f9e60b41e239fc84ba65d42a6d83795370dd460a752be685c8a3c6d346"
+    },
+    "24w36a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yvMwlK8r/voicechat-fabric-24w36a-2.5.21.jar",
+      "sha512": "34c02e570ddffbd6d3284398e6c2c359ff99f077c52755675dbf93b44be25ba008b97d35bcdcbfdf3e01f0005a8db8687a0aa7467e69864ae98f2067b9d44a8d"
+    },
+    "24w37a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lYMVuH3L/voicechat-fabric-24w37a-2.5.21.jar",
+      "sha512": "aa1c123ff1094d2583950695604cf2f69a102538031a483ab3b81ff73ab737048da74147548460fd53451dfe0a4eeaebece8e1ea976e49c0f72acd79cda82fe4"
+    },
+    "24w38a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/J8K4uV6G/voicechat-fabric-24w38a-2.5.22.jar",
+      "sha512": "dd5837628d14cd8da4f72d089abcbb116af59acb50f820a40956cedb62d6376221a8f0e214bab39a72fb7f6ec9282caa290db86495dc18279c176f250eb9dae1"
+    },
+    "24w39a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/fbqZ2xqz/voicechat-fabric-24w39a-2.5.22.jar",
+      "sha512": "70aae46e7f7562b7b0dd8f8400c02a544aa5952a426c6a658acbbfdf40423940ea56eb5d89bb45a688cbff9da445bdb6bf6399d4eb5873541f9e5d1a2c96f6ad"
+    },
+    "24w40a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/XcCVbOBB/voicechat-fabric-24w40a-2.5.22.jar",
+      "sha512": "6c86edb4840da687eb34dce0274e4de1b44cb77e281a3369b39cbbb1655a89d50bfeb4a26b88cc0d653159bc09a742f61803ab90b2fe53af6cb5f2ec32438234"
+    },
+    "24w44a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CHGXgFsq/voicechat-fabric-24w44a-2.5.25.jar",
+      "sha512": "08d89186d17f50ecaa8a0ec40597e7cc28ecefa5cc98e974d1ee20676e39795d11a2d3a9adb14263e033c8a6e2bc7127643fc5c315a2725fc429510cf048c18f"
+    },
+    "24w45a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eaxTXtlG/voicechat-fabric-24w45a-2.5.25.jar",
+      "sha512": "961b650f20df3a3930b141320d79721f186314ea610df5aa15e7b919c894ed6b538b9cc8a212809e996f2ec11109938ae44c5d333e7176c22b18acf3ff234c33"
+    },
+    "24w46a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VOrI9mth/voicechat-fabric-24w46a-2.5.25.jar",
+      "sha512": "f752d39de02cb6a399c7d1117b61c4931ffb781e472aa0a8c5c8f3ec40ec5a0d6f160e08d7731c830b1f745aaa5fd85b190ced7bddd04dcf769ad2ec4de02f3f"
+    },
+    "25w02a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/kZTo4SiD/voicechat-fabric-25w02a-2.5.27.jar",
+      "sha512": "42186477b2ebf1203aad37f2d32ce14db72188cfbe92d99e6ed4e485d94a5e027bf47113e4ea656e39a52506b403483020baa450d7cfaf5bcf1044419bf91821"
+    },
+    "25w03a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2dApSNFw/voicechat-fabric-25w03a-2.5.27.jar",
+      "sha512": "17a681cbc96d12938424e918a139ea6a49357e6f0ca40ebd184dfe41bf5589c331491edd90112104c8d2ca809582c9cfe80588d7c90a19cc1fc2f119b3535ced"
+    },
+    "25w04a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/zcv7sjWG/voicechat-fabric-25w04a-2.5.27.jar",
+      "sha512": "2e71ab283e5b542a8226ddf1226e72c69b2c670f5479922d0a8398555c3a38b80bc7050b339daaeaa61f53d4766c7d060500570a3c6a47ca1fffbf29bca9276f"
+    },
+    "25w05a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ThWhzZdm/voicechat-fabric-25w05a-2.5.27.jar",
+      "sha512": "6e2860fd20f2f8dbe6a16527ab21a378a6ca76cc0d345191695b16f50de945cacbf02a7db5303bbffe9b8390df7abb0f4f8a00d27ae3077f1e3a9ecd5848f95a"
+    },
+    "25w06a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/d3f8zUIb/voicechat-fabric-25w06a-2.5.27.jar",
+      "sha512": "cb7f31d36dff608bb6faff16f7f07c69f740a3a17fa8130ade5dfb113da69c38391780e88f738f6103fd442a4f7342743397b3e6a1dc2606a9623cc95afc4c36"
+    },
+    "25w07a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/HdEfwEC2/voicechat-fabric-25w07a-2.5.27.jar",
+      "sha512": "1adb1c3f64dd132020c1853f4fe99c16f10dd676d5dc1046b3a0120cdbee180a742dfdb1d2981ebb24835860783074462c6d46f9676b1473d43cc9f9be477aed"
+    },
+    "25w08a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Rg2mUXYG/voicechat-fabric-25w08a-2.5.27.jar",
+      "sha512": "d967b792bee96394becf94a1e19e4eb4557da7e5724cbced42ba07a9e668fa50dbf7b220a94c0a7bc7ee4722ab5c040da42ebfbbea35bc19c552431fc94f3628"
+    },
+    "25w09b": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/dyM3HztV/voicechat-fabric-25w09b-2.5.28.jar",
+      "sha512": "aca6f6391a93427d5a40daed0889b70778a749554817dc65255d785ce32395f6b5608ae16db784c34f7c6e14aed08e5a179ea3a8b59dbb0b30a883b4e32230f1"
+    },
+    "25w10a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ga2EPayc/voicechat-fabric-25w10a-2.5.28.jar",
+      "sha512": "6b7a6cbbbf7e456e75fa4f32bab678219e2c4141e49e0031a7291ad4c5a1164a1ca5aca72fd41f31174a1b6ec2c819155ee8def029e604906a4aac1084beff4c"
+    },
+    "25w14craftmine": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Txnf6JCW/voicechat-fabric-25w14craftmine-2.5.29.jar",
+      "sha512": "74f5a4e507ab138c592a9615289628e37e45e8ac6e244d00ffae2981160c48cb30d854fef909625c27e47a4770cfa76b293edbe7100c4960ab502e7a3b908e1b"
+    },
+    "25w15a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/DjDi4XlE/voicechat-fabric-25w15a-2.5.29.jar",
+      "sha512": "35a81bfe8435eea5256f84e615ff3c7c4e78839f5851fded6a9f130aae166b9226ed96aae8272197075dbc49fd17df857e9f685d19f22aa284d2d081fbcedfb5"
+    },
+    "25w16a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/sKaEfWRc/voicechat-fabric-25w16a-2.5.29.jar",
+      "sha512": "9f380cde4f832c4202cd8de30a37d2e34a6a3c569f3f715e21557e13ed4b85aa0a6af39a1d1bff96fa72325056588641cb4cf6c55c7fc3dabdb7071fc5ceac85"
+    },
+    "25w17a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wwXj7DpW/voicechat-fabric-25w17a-2.5.30.jar",
+      "sha512": "46671489869f1f28afd5b4e05fac75695dcff65ae8e8f2698667210845580b51da7793906fd67e19731737661510861a7ea6aef5994d4404f6d098b3cbe43e72"
+    },
+    "25w18a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eo6PTu4k/voicechat-fabric-25w18a-2.5.30.jar",
+      "sha512": "78a7db99e07fd1b5555a213ca4273f971a35f5217d348c5307e83004a59f0b740ee41b4912b4fa2ee1aa6d0d0811e8d7ac9a6b5371cc54e53c3fa01385d756e9"
+    },
+    "25w19a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Bf80tv4z/voicechat-fabric-25w19a-2.5.30.jar",
+      "sha512": "84b58817047d73378fb4da9c6654ae349143a6d19a94b766d5a721841c1e7da2322da03778cec84bd351c1c20bde90b340e7ed29386dd051f5d214f3640c2e38"
+    },
+    "25w20a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/dxai9G8f/voicechat-fabric-25w20a-2.5.30.jar",
+      "sha512": "8f9e4b422b01dd1bd5516639be58d70f3946c99a3446b7f493e8c95321df80e61bb5cdef5320c974d0293c558cd8fa643eee5fcd3b431da9aaf42b1f129dce1b"
+    },
+    "25w21a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qHKTwoHH/voicechat-fabric-25w21a-2.5.30.jar",
+      "sha512": "2fb48cd4653d5daf32d70d84baa734d649113d24b948ee331969633e9282e85a40e78c2131cbaae1281b612c1939df6da321f75599b6d123ad724ec86f5c3531"
+    },
+    "25w31a": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1UGDxzQL/voicechat-fabric-25w31a-2.5.35.jar",
+      "sha512": "fb2078f35526f4287455e9f4842dc2b7fc4aae3397b492db9c368bfa36961fa6364351c6d2b1d7058667e4a2aa9cdf17037303f5683c999dccba7201192e9dc7"
+    }
+  },
+  "neoforge": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vgPtGAs4/voicechat-neoforge-1.21.8-2.5.34.jar",
+      "sha512": "4d5a6938b992d0650b506d410b91233f6fb88b8679105580828c5d94b0cb33ecf6968f1ac6d504c02301881405a7c026035595d8ea711afdd2cc2cc83431d4b5"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nubS57sD/voicechat-neoforge-1.21.7-2.5.32.jar",
+      "sha512": "2e901bf6ddf9e447eb470dd8928a9f5ecc600a85d527ed4a0925712b32d0122933eaae0257f0d972af1f5a8be5fe12f6d8d2663d5f51f36b1de2eb740b48d1da"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vH6RZccC/voicechat-neoforge-1.21.6-2.5.30.jar",
+      "sha512": "b758facf60d0d6c15616b39a92ad2922c726bdd7d9a742cc04829f0936aed57647102690e180c1f8c33f05e0c97f10f50198b0ea58f1dc92a92aa5b0f53e0955"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/JNcBBbin/voicechat-neoforge-1.21.5-2.5.28.jar",
+      "sha512": "febd809c93cb2131a1e7826e88a64e5c56219a902e5e24295aaf54f7f454854e752d860556863cdd807a772693235f243663cab6c00822728c0c5a6d691768df"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2ewrdHIB/voicechat-neoforge-1.21.4-2.5.26.jar",
+      "sha512": "9ef868d227afba1a03834f66a5d628d19d3d714d49700a5fa07344811cf7434a1b2edbdadcb9b231db2fdae14beba553674bfbdf541ec747b4440c3f7b53a321"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1mjALWQq/voicechat-neoforge-1.21.3-2.5.24.jar",
+      "sha512": "716c063d7d95512a5a589593ecb3381edd64a8fc0d676075edcee185294cec5c3e83e0cf166137117d83d1b5e2022eb7bd153b210009aae450d9da263b24658f"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGe4lsmp/voicechat-neoforge-1.21.2-2.5.24.jar",
+      "sha512": "cf1841b098109a15e3743c1029bb3a9ec25d0e95e864cf3a8bb207074db3f17221544ade5d4a8e30c9fe276f669c5115e49fc2ad9177802e721435575826e41a"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yb1rtk9P/voicechat-neoforge-1.21-2.5.20.jar",
+      "sha512": "d37a5bef0af96f6598d721515d7e0bbca71db30563b37b841bad447e80aec274e9af9edefcb8d74f65f88c263f6c3d42ee18bcde52167c03e44aa22ced4f84a7"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SSHueDQM/voicechat-neoforge-1.21-2.5.15.jar",
+      "sha512": "a5c8a26d420387c626a11265e1b346b4407934f856e7dcde2f064bc6e71d68f2d367ce9f90b800e61b98f4dd5048e526194fbce9a852b5d6a7d8d2a7b039b7cd"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2W2al2G/voicechat-neoforge-1.20.6-2.5.12.jar",
+      "sha512": "bfeea0d763712345ae5c490a1fa327cff5b119de3604125c5baa66a60d0ae73b7f9e4ba452c19085fbc19ea9c025d1a3ad5689bf28fc1732bee9577597eae4da"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/icTN3dw7/voicechat-neoforge-1.20.5-2.5.12.jar",
+      "sha512": "ef27f2f4fdafc661d5793a5afd04781aeee5690a2b5f8635b3d4090342f266d026e098f0d1113f264e8b45805b9d23d5b7336b954f81c5d71817a44e3c24043f"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CPb7xxUz/voicechat-neoforge-1.20.4-2.4.29.jar",
+      "sha512": "09c1078eebe8faf924d933bb5979f37504cde2a4d18dbbe5deb909e66d3bcd9be24989ef16453241648c40b879d1b1e80dc0910434b1c6bc7c125163b9786c56"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/cCuuyck5/voicechat-neoforge-1.20.3-2.4.29.jar",
+      "sha512": "d2d7f4bde20cf43b81e88e729b81bb2bc82af9946b983d71e3f480d03d26a5ad828db79317fc3f26fa7c2290ed7acbe5c7a750474815cafa088a68b5e557f4f8"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/MFIKyqIP/voicechat-neoforge-1.20.2-2.4.28.jar",
+      "sha512": "14e6132f62e99984b7317a2004d03ca69b148b74fc8988c10a13a1b9156f04248f410e24fd08b0c33931fea709a1a405e33e1ed81bec800fc47cd7ef647f1276"
+    }
+  },
+  "forge": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bjJRzYo0/voicechat-forge-1.21.8-2.5.34.jar",
+      "sha512": "f41f2c3a4ac2f3d2e6822cef32808dfc4eed56790532f65d9058c326db7d0114b51cba76525a2b7374568edee9d7bab2644b8c947d02fcdbd39cb74b5d7cb323"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wJe2JxzM/voicechat-forge-1.21.7-2.5.32.jar",
+      "sha512": "4a3c0969f6bbb76fb7016170b9b6e8b79ee8abd9679268862ad32796719e270defe0040e02d7ccf788723c839a9f1acfa0795249aa21f8a0d6329f73c4f4c68c"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/rLk5ril5/voicechat-forge-1.21.6-2.5.30.jar",
+      "sha512": "e79af6ee98a13a5eee30a1ab78cb3955a4c3819778af612dcab2fa8f02a0e4b4ee8d78b2a0ed03b1301bc80214059f78eacea0be151253f6b3183c6662fb37c2"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/Q7BUgEHN/voicechat-forge-1.21.5-2.5.28.jar",
+      "sha512": "4614afec520f305f0a1f3ec295cb25b87736181fe5388cd3c086f3cac0409ec81d590018edeafd717a162f31365c345a151f97410d21599d63bbd82b03beba2e"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/AmglLJPj/voicechat-forge-1.21.4-2.5.26.jar",
+      "sha512": "5ba18eb4a9fbe68e4ca4b0d0622e581fd959514b54496339ea6952bf4cdab413766d7eae7b7e4157243560636a3476497dddf93682741ec1489863e429ac9ce4"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/qRcMLhUx/voicechat-forge-1.21.3-2.5.24.jar",
+      "sha512": "f9015f44227f7c000a6c92ab982f857626f8ac1d6541cd04079b98b7fb76110d370dbec3d1551bd4d776225383bb1500e60551fd2c6c8635dd07bbbce140da23"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/RfRez3bK/voicechat-forge-1.21-2.5.20.jar",
+      "sha512": "fd617bce6f2b2ba3fa4ad2543461b5520073710e81373d8252a3cc7e2f8881f6c1ce680d4b3934503a01a81d457d5624e5e0d081af2661af4322e84cb55ecad8"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/cgbvyJgZ/voicechat-forge-1.21-2.5.15.jar",
+      "sha512": "d7cf8d8f7feda2f4cd75f4b9d9b8828491cc1b40218ed622500ad51fff29b02cb874339e05c3baa43e952cf625fa78cf879d48b39eb25b05fb72d14d1e163115"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/EGmsMnGA/voicechat-forge-1.20.6-2.5.12.jar",
+      "sha512": "13fc7d444586061109a916bcbc589338314289a4d35531bf83c75a76ba9756b1448d18ab2c6467f2e6c91974f248283601dd2f9d170c6998b5791e7beb72c98d"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/QPsreClG/voicechat-forge-1.20.4-2.4.29.jar",
+      "sha512": "bb8a48b130387d601a2e44ec2d1e00897f2f8a4ed9e80eca83fe23dcdc1ea8ff6f8691b7c5680f8c54bbb134be64d381c52f85a0f6f0cf58a818238cf6737012"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yo7QZZxX/voicechat-forge-1.20.2-2.4.24.jar",
+      "sha512": "9df424530e272d87894a662dc2f503942f02d11877ca29ae7b97bf24860a5eb07d7f74cc907eaacb8715ac81032305ed3d192671e9a411e0cd1c2f1a9e4ffb51"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/9x9tcJS4/voicechat-forge-1.20.1-2.4.9.jar",
+      "sha512": "bb8a02c186deb4767462e911d35f1c40913f0951af0ee6643e5c0609922c9bb4ba73c252af6ee53acc12ffe6bbaafe74d4f8cf32e3176ab9f40a9184b352298b"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2j5ph3Pz/voicechat-forge-1.20-2.4.8.jar",
+      "sha512": "86d865375b2e8fe96822566c7b83be57d920f2c21ad9f31247f58811aae3e97fb6d96a5e5e0c2f7d9838080d3df30924444c33814094cf05406b08ec4577174b"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/DBfQn0Oj/voicechat-forge-1.19.4-2.3.28.jar",
+      "sha512": "b99a202242e644fe19117cb98c344053c979471549c57d3dd6410eff7a737714d85072cc6a69c38db7c4a870acd6589f59305212927b5dcab633d09e5944e343"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tYfD3g3o/voicechat-forge-1.19.3-2.3.19.jar",
+      "sha512": "3236ff53a874867642139b105e90083bd53e5132bde1e11c73363253361fe634ddb328f278aefb714d210e8e9672ccff96ae99407f11d9ea9cd8ee432fe47005"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/forge-1.19.2-2.3.1/voicechat-forge-1.19.2-2.3.1.jar",
+      "sha512": "d782e77f26e8f3ade3411e2022d82f34981dfc68b8acd00f02eb46a463fecfa632d377f5f0c48980e6f13c167a4049c587a51117141663792147079cd8ad2472"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/forge-1.19.1-2.2.52/voicechat-forge-1.19.1-2.2.52.jar",
+      "sha512": "f6f7afe651615773fcc7b002f69b835811eecd2ea3c5b4eb50665bd9a094231a66d4ffda19e30e7a04e01c838527be12d5aca8bec423dbabdd441415344f4f83"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/forge-1.19-2.2.44/voicechat-forge-1.19-2.2.44.jar",
+      "sha512": "4fa3ab1897f71efbe46a11da461c02f71b6e20eeff18925bbe434bd3e256bb214605a306ed75bcb25cd11ef39e1d047e49dd750116c7a5ed142b80c69f4bed55"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/forge-1.18.2-2.2.24/voicechat-forge-1.18.2-2.2.24.jar",
+      "sha512": "7734313ed684408347ae3189477d8787d66c0ffbcffb072cc3af089a5f8f4bf4c354761f85a02e93db286ec08139adaac29fa81e45f905af8c75f039e2bcb0e9"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/forge-1.18.1-2.2.16/voicechat-forge-1.18.1-2.2.16.jar",
+      "sha512": "3fc32c1d72e6c8c411d810e3db4ad5718b42273612ffe79f779c29214488f1883f966bdb06b0312f378b21e5eb107508ab23d4271928761d629c8de97ab76124"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/forge-1.17.1-2.2.16/voicechat-forge-1.17.1-2.2.16.jar",
+      "sha512": "73d51d254bf576483b1375f631e2f7a80249656c50c55db9bcd0a9723cc30434a1c8d7e8269b5629d571c593cc714b09c9fa176aed16f1885ed473a08d9d8dd9"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/forge-1.16.5-2.2.22/voicechat-forge-1.16.5-2.2.22.jar",
+      "sha512": "ab952c00bba1261b60d328b2179eee92dd07da5fc76d23021fd0f6561fd2727dc1888950219cfd40af2f1e3b1814505e06cc43fb5e6816846c357efe62bc82bf"
+    },
+    "1.12.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/H008xHjt/voicechat-forge-1.12.2-2.3.21.jar",
+      "sha512": "76eebe19412d6b87b01a3dceee8e9b59e2223a4fe4b5d57ff09037f815f6ad8e3e943c35d71d60fd9921f98b72575fb1fd1b4786b80db744a05d3d5dc9d55c43"
+    }
+  },
+  "bukkit": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bNX2205a/voicechat-bukkit-2.5.35.jar",
+      "sha512": "8950b01f6aaf42e988738d4662ca8172321b19bc4411af424edf282c09c42e28549a025b01bf1051c368f17d8b76ef5459971895c06b6f0db2e9aa467dc11c49"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/iBtR6RGV/voicechat-bukkit-2.5.32.jar",
+      "sha512": "b43f8ca028593a0211cd39931f5618716082ef095c19fc5757dafca358d8ee10cf1890ab2efdda113d7c0b7acc4094f4b8a173f316686919d6be40c27c60ae27"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/uwKXRmMY/voicechat-bukkit-2.5.30.jar",
+      "sha512": "2ba87f081c9dcf838ea25af56c4c15bcba177d3ff907d457940a4d29309f7eeaa0c68760fe17d4eafa43a53d672ca2e5e0b5f99a13ab2a9201ff5e6fd9ce7bb6"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/YKiScjys/voicechat-bukkit-2.5.29.jar",
+      "sha512": "9facbf78d1f7991aa351aef588fd8ded5c599bae26a2d3fdda6d1c5954b473aa5f8409b48e4b02a850cf8c47cd808740dd561eb11d7f2201d867d4dc6229c54d"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/KuMfGuTv/voicechat-bukkit-2.5.26.jar",
+      "sha512": "c75650060ec08a0180371d74538f8d4bd6e1f8ee860614f0fa7c941a04051639552bff3c7158562cf98672d7c965313610797a34cc4557d2c1c835dbe3d11795"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tA5pALYl/voicechat-bukkit-2.5.25.jar",
+      "sha512": "b01ac4d92ebe8d4ff848bdea8d4afcff9d600350d9ba86313e715499d4a339aafdf3d1b62261e4cfd7a397f4832c597c54e4b283c48c16e69cf622028d93a96b"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tA5pALYl/voicechat-bukkit-2.5.25.jar",
+      "sha512": "b01ac4d92ebe8d4ff848bdea8d4afcff9d600350d9ba86313e715499d4a339aafdf3d1b62261e4cfd7a397f4832c597c54e4b283c48c16e69cf622028d93a96b"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nS19YToN/voicechat-bukkit-2.5.20.jar",
+      "sha512": "c62814171e0d896353d0fa89dd81cefb071f36a5063a37c0ef9fa5c9c412546e0e42d5bf5f6966eb39f7294012f264dc63337ecc444cf9e8d7497f43b39e17d8"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/9yRemfrE/voicechat-bukkit-2.5.16.jar",
+      "sha512": "06ccef6d934e2b8feab5bcc0bb796c1ff6f49a66ef96df74af0043d66a6300498917f5ed7c4186da3052b0a06d891b4b1bb80fa22f98172a9712e866954681b3"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/je8CoE57/voicechat-bukkit-2.5.13.jar",
+      "sha512": "35a10a3de4a4f173820938484e62d486c9597c5bc4541e88df9bd08d55d059033018903aa4edc4d91333c022615ff10e914a38e6380007c8c0b7ab21b59e9b7b"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/chucfyEL/voicechat-bukkit-2.5.12.jar",
+      "sha512": "577ecf4f8e1718b3855e727f83a01f94ab7c432fd788ccd387a8ea08d8857dbd77af53e6babbbf04fd47b9b6b96c5b50d3c31edf158de2d88b2c6f95de751fd1"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/IQgI9Q8E/voicechat-bukkit-2.4.30.jar",
+      "sha512": "4dc0e8b7d7305e82f0a95e617140af0200c7dddcd035854f0ba26fa02da7f31f7846639f23531cd9cfcfc52a6b385b610ad1c92359d51e9b069f67bd470a5a7b"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/u0AIndld/voicechat-bukkit-2.4.29.jar",
+      "sha512": "29c3b2a85abaf4ed3bba47bbb5a07abe0dd1591ee6fdc1706c59f3324dcafdfc5270c39ffbc9867f829506c4232584dc9ef24b9fc7917a6d052931a485cac2fa"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/7zIB5LVU/voicechat-bukkit-2.4.25.jar",
+      "sha512": "c69098e99df9c74fa7e4ffdc11f10bcbd323a67c5617288790321e80f94a92e3229e5b348867d922cd3aa9e9648ebe556857b69ec957ee2d12b0b755ee5822db"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/FodMeJBb/voicechat-bukkit-2.4.10.jar",
+      "sha512": "8bfb9e90cbfc8267a14653e93c4389ace36adf3afed2154c7bb8af726e9fe61102c56dd32455fa698e70c6a42f46ecf5c02825c474158543968930fda1e76eb6"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ZI8OBIBy/voicechat-bukkit-2.4.9.jar",
+      "sha512": "131bc6bd13542917e811b4f29f34ffc715e1efd99bac2fa75fe241a0b2af5e57713a9b1f9041391917e998c87fa43157ae83c10f8e5476b4055f5be6a45031d2"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/a0ysguQP/voicechat-bukkit-1.19.4-2.3.28.jar",
+      "sha512": "b19b32dc42a93d8c0958fc94bca4165b583917195b8cb4445e643dc4cf19e0b6490d11724848ca6c909e18d036635f06689a8dec880b71c4b1e4ebfc88a3ea6b"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/7BULlG3T/voicechat-bukkit-1.19.3-2.3.17.jar",
+      "sha512": "0fbc9c2615acf82fc929601ea600975d37ff9786739e29f0df4c6acd2c0ee4f048f263ab4049720d3a15246fb2327576c51bc66dde17fd1fe1e048ae539cc59f"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bukkit-1.19.2-2.3.3/voicechat-bukkit-1.19.2-2.3.3.jar",
+      "sha512": "cf75931abd0f7c7a41970581bc59b70afb5ceb05e1bd9fec6fae1b169a8d7155f3248c808d0c5efeb6002bdfd9147517acc241675e03c2713271111ca4eaa8c9"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bukkit-1.19.1-2.3.3/voicechat-bukkit-1.19.1-2.3.3.jar",
+      "sha512": "bb058b0f945bc7109250d71d839f966208538e2c7ca761e896defc5bc56bb77c1b73c252705ecee0b37d383d19826eeb4926b27829deb6bbed8e3fb7d5bb21e0"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bukkit-1.19-2.3.3/voicechat-bukkit-1.19-2.3.3.jar",
+      "sha512": "6ca79c9efa33c014d9c661673b029bc095194625687193663a58a7936e565ab9a1bc61eb2f8a561a642a3134f8f2a5c3527d5fce9f206c40044b3a4e244a6780"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bukkit-1.18.2-2.3.3/voicechat-bukkit-1.18.2-2.3.3.jar",
+      "sha512": "9e11c895b75927f034762fbe5c1dccdcf8bcfa6e8e491905ebfa32acbb8fb2c6998205a0dfdaa3e0405c51886371338d3a13efd55f8b82124b5cc778f102345f"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.18": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bukkit-1.17.1-2.3.3/voicechat-bukkit-1.17.1-2.3.3.jar",
+      "sha512": "b27eb28f291d705fcebe3724ac75a52965123f46c8da1d8f0eb564c454a56e8a533487226a518ec6b8aa0011639871f9b665ec965547f61e617f14374ab805cc"
+    },
+    "1.17": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bukkit-1.16.5-2.3.3/voicechat-bukkit-1.16.5-2.3.3.jar",
+      "sha512": "544517945e72b9c4ee2f3dabccf79eb3e1e17bdb9c5eedaaf3af670f408f699620d413ede1122a49cfa9d9d24d60d5eac5db5d109527c911abf5220cbdc350b8"
+    },
+    "1.16.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.16.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.16.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.16.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.16": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.12.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/3ROXtbhz/voicechat-bukkit-1.12.2-2.3.21.jar",
+      "sha512": "a3054ec84f76cdf2f7337fd89370f4d0d4aa175d92c84f0985b363fef017612efaaea1630abf514fbf8123a10483a4ebb74bc5ad6334ed3cda5df7d9cfc69651"
+    },
+    "1.12.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.12": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2WaF9K8/voicechat-bukkit-2.4.4.jar",
+      "sha512": "66612dcabf8e6e0ef801390edb6216796918b7cb7e67e1336e061b673e8f00549d9b3d908bf32117772b231f58305d1bcc72551f0aa51e12416b092396d481ec"
+    },
+    "1.8.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/uBJPw66b/voicechat-bukkit-2.4.15.jar",
+      "sha512": "92a23edff97a0f8af242fddea025611ffe27b1d13a9498eac88d2be18a204960b85697eb9c0987cce9a1d6b4315b3eb864985501a5e8b78bf849596cf23ce6bd"
+    }
+  },
+  "quilt": {
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1ThqXrq0/voicechat-quilt-1.21.1-2.5.33.jar",
+      "sha512": "a661c5f9958d6065985625af0b8e109bc8689dcd8023491858b3863c56dc36cf84f492cf56f1b52eb9db82ab8210d5e188f6f50dc160774955d7f3efc47bc455"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1ThqXrq0/voicechat-quilt-1.21.1-2.5.33.jar",
+      "sha512": "a661c5f9958d6065985625af0b8e109bc8689dcd8023491858b3863c56dc36cf84f492cf56f1b52eb9db82ab8210d5e188f6f50dc160774955d7f3efc47bc455"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/H435e2Jp/voicechat-quilt-1.20.4-2.5.11.jar",
+      "sha512": "9d87895882b521761525d067af942e2633c174057c584111b422a18ad6b5b1da680d723c3045204d8c17a7da1ca94feaf709ad7200cef6bf7a5f367a9c5dd96b"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/QqaG3SkF/voicechat-quilt-1.20.2-2.5.1.jar",
+      "sha512": "0863589520f66de4b66fcacae4e7bfd99b6118a53136b6017dff3f8ea60af8d1c5bc73b017ce2aa454f73e0d03e00cac71db5cca9d2b8efe4b135aa01e84e042"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/4hE7XyBa/voicechat-quilt-1.20.1-2.4.9.jar",
+      "sha512": "7451f46bdab766d1b08033816939e51d9d30e47a292f8d2b6eea25de219394042ee6912007a76e709b5c09683b1c2cf6301f3a244184c7d0a6c3f35750533680"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nT77HxXK/voicechat-quilt-1.20-2.4.8.jar",
+      "sha512": "e1782f09ff8e3d403b3a4d3233d320bd446c263a670f321b675bd3bc0db8cd3babffa41092c537939ae65d16b3e5d8e0a59a817ee2fa9eef18d9f7bede72dab7"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/hPR4sv1C/voicechat-quilt-1.19.4-2.3.28.jar",
+      "sha512": "ebe379cb56125d578000b6d7e3f83b6d33ff4a0f7ff51e623fbbc798478c2fc94dbe49b4c43090f5d5b2aa24fa9efe9fa79bc6fcf318f23726e44646a2425607"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ySvcLNyJ/voicechat-quilt-1.19.3-2.3.18.jar",
+      "sha512": "864cf56531af87ea5dc9bebc414cc3b4d96ae2487e40a0e467b29fe0e3a625dd8b62bf96383d64a03622adb43bf4edec868c5002562fb4288128a6fe91395c80"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19.2-2.3.1/voicechat-quilt-1.19.2-2.3.1.jar",
+      "sha512": "aaea8b731064774dd66f9289de1229add2dd4991126d701742b3bf893ac514c7f4f41eb99ea1d40307fdb0c2ac7cce70f613e99375b0434268f1922aab2c89f8"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19.1-2.2.52/voicechat-quilt-1.19.1-2.2.52.jar",
+      "sha512": "b2a1b32eea40438b5e8ae03c9003ce6cb4d0762e2610c6ba7939e1d6d2c7bd374f3e37d6651140cf38ee4901016dbedc99a15d346aa33cfea21daedd58532416"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19-2.2.45/voicechat-quilt-1.19-2.2.45.jar",
+      "sha512": "e883417de940af10a7bd876401a81355cc903a468bc4fd5ebae1719cb8c778e3c50b67f9b1871bf4becadf4eaab7548bf256d75a03a7db4e1aab4bf2553438e3"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.18.2-2.2.35/voicechat-quilt-1.18.2-2.2.35.jar",
+      "sha512": "9e66b8366e79c221f1b087388d961b71646aa6ab110d5009202929a1eeeadc8e376adb3894dd664db44325b51d57c0867016ab344752166fb4238ab43bc0aa54"
+    }
+  },
+  "velocity": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tFPLv7Jr/voicechat-velocity-2.5.33.jar",
+      "sha512": "298572cc28e5fa388bd4a0aeb20cacb31ce98beb5ebbf9735dc7962a332e60574351fa312cb2995dacb13c779845e7d10030409755d718692fcaf11efac7a06a"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/loOQbeg0/voicechat-velocity-2.5.31.jar",
+      "sha512": "1616422a2a6e5d8e00374f863bb8f05c50b641f3627d63c351809230b15f8d3881deeca8a57332bc3452394959ebd24a1967787a7dbf6db4c2b3ab9276ec5371"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/gN7gtGyZ/voicechat-velocity-2.5.30.jar",
+      "sha512": "7150bf0270b087ff3e83b87edb6b39bb1be1d3ca2306cb41967d23ef5fed16eb58abdae96c956cbccedce9895fe6f97a6c29443ccb539bc695329bf8bd0ac369"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/NeIJv4rE/voicechat-velocity-2.5.28.jar",
+      "sha512": "71ae489e9b8f84ecb45e634f0ac168937a7b5cc88da1d559d958d34c256c2be592eac19e76c264384248ba4c2ca0916b5b971fbe5d8fd1fcbdd3a362a259b756"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGTasgG4/voicechat-velocity-2.5.24.jar",
+      "sha512": "6c9433567c61c6d203518911983918ec5c658d29fde4d055c969e16e4217a4e56821c1ccf38cd2fadbf1dc75817b2b49b67fbc40d54bd4cb1b4567b56288166c"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGTasgG4/voicechat-velocity-2.5.24.jar",
+      "sha512": "6c9433567c61c6d203518911983918ec5c658d29fde4d055c969e16e4217a4e56821c1ccf38cd2fadbf1dc75817b2b49b67fbc40d54bd4cb1b4567b56288166c"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGTasgG4/voicechat-velocity-2.5.24.jar",
+      "sha512": "6c9433567c61c6d203518911983918ec5c658d29fde4d055c969e16e4217a4e56821c1ccf38cd2fadbf1dc75817b2b49b67fbc40d54bd4cb1b4567b56288166c"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/svvcJhgC/voicechat-velocity-2.5.20.jar",
+      "sha512": "38ba22d3c879ac2c537fb989bb9654e9e083eee6a37297e41b1dae0d0c96367482a188e15bd2fcdca310a539607c6d847f0569d1d125a1c4638b14b7a2b1040b"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/4AHJHiOi/voicechat-velocity-2.5.15.jar",
+      "sha512": "bf01f6cc1640b54f93fab33dd3880d3ae4200685c0d485b8c353ff265fa5fa9034647e98b8dae61bed027c85631903a382d02894964cc91046a7401e27d15a1f"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/XQFDPd0H/voicechat-velocity-2.5.12.jar",
+      "sha512": "c4321af16c3f589f13c903e67526fe3b9fcf7e3d8b3bc8cd79739be03c7c3d3dee4e8384276c85131e5b758dd39c0d48d1237757f2078fac0532c50952aabe6b"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/XQFDPd0H/voicechat-velocity-2.5.12.jar",
+      "sha512": "c4321af16c3f589f13c903e67526fe3b9fcf7e3d8b3bc8cd79739be03c7c3d3dee4e8384276c85131e5b758dd39c0d48d1237757f2078fac0532c50952aabe6b"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.18": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.17": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.16.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.16.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.16.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.16.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.16": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.12.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.12.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.12": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    },
+    "1.8.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/PiiCjCEr/voicechat-velocity-2.5.9.jar",
+      "sha512": "b8d8658b41918f8a6314ab7e5aba1fd42723f8149319c89acc43ce4361695fe9a681cfe10b54099918d613323c3bbda18a4158792dfae3564abb4690e05692ea"
+    }
+  },
+  "bungeecord": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ZyGAuT2T/voicechat-bungeecord-2.5.33.jar",
+      "sha512": "302d771b2724d02a5e9885115781bb7a662f3aa471fed18f62d2b2091367cf3172dbcc1aa2ba3a7eed4d1fb5f93e011aaf67467b49ce705defc84c7381a847e2"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/s2u5r2rk/voicechat-bungeecord-2.5.31.jar",
+      "sha512": "e9a6c325a42c5de34c439ec54678c927f3ccfc605f4f027e1403b825f4743c0a88466b453b305c885f7a2485d924398028fe174bfe6ddfee3c4d5ebff5f7722f"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ztVF6GFZ/voicechat-bungeecord-2.5.30.jar",
+      "sha512": "88182a1762ca33bb547d212b1c500f1d16354ee17ae9c6597028c282b9876e2809bab998f893245f5330ec9f88bb11e08f35fc5282d7c169316d93a1bb99bc23"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GT55PxHn/voicechat-bungeecord-2.5.28.jar",
+      "sha512": "d4608a215b3ef15fb9b119b75497d9541bf8570dc052a08bf53a3db0179fd19017904fcfc743dcde610176226e37087e5d8cdc1c476845536eb1cbc45b5d312a"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/TXo6Hncx/voicechat-bungeecord-2.5.24.jar",
+      "sha512": "335b47d1598378dbec11681eb738e727f364335123d878b5a4df6e8b3b90e3f6316f560291722a59cb2b844a69e1f8456c460ecc2be572d3b0263a7af60f3c6a"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/TXo6Hncx/voicechat-bungeecord-2.5.24.jar",
+      "sha512": "335b47d1598378dbec11681eb738e727f364335123d878b5a4df6e8b3b90e3f6316f560291722a59cb2b844a69e1f8456c460ecc2be572d3b0263a7af60f3c6a"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/TXo6Hncx/voicechat-bungeecord-2.5.24.jar",
+      "sha512": "335b47d1598378dbec11681eb738e727f364335123d878b5a4df6e8b3b90e3f6316f560291722a59cb2b844a69e1f8456c460ecc2be572d3b0263a7af60f3c6a"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/cM3eDw1o/voicechat-bungeecord-2.5.20.jar",
+      "sha512": "5c0fb39232182e3ca19e43274090049d08eb37212cd8ea4103ae207057d04e442d6c39e2270fb3e7d2139693aed3f900157597cf146fdb96edd4c026e3108522"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/m73ZTirr/voicechat-bungeecord-2.5.15.jar",
+      "sha512": "32ee90005d2eff6cf00ed8a751d8fa21a48dfd7289922b92c94bdec4cda9273d22d641c101013e047cd29e860d6926f162a62a77dee751482608eabdf09cd928"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2EaifQSs/voicechat-bungeecord-2.5.12.jar",
+      "sha512": "063ca82eaeaca35f1433c26db66f7fb6903e98f119289404ed05d9ce2cf9815646b5b58e853e87cc6854e0936a280aa0e259eb3f36d72a610bef492ebd61911e"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2EaifQSs/voicechat-bungeecord-2.5.12.jar",
+      "sha512": "063ca82eaeaca35f1433c26db66f7fb6903e98f119289404ed05d9ce2cf9815646b5b58e853e87cc6854e0936a280aa0e259eb3f36d72a610bef492ebd61911e"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.18": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.17": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.16.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.16.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.16.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.16.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.16": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.12.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.12.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.12": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    },
+    "1.8.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
+      "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646"
+    }
+  }
+}
