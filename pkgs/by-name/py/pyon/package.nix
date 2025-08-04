@@ -12,7 +12,6 @@
 rustPlatform.buildRustPackage {
   inherit (_sources.pyon) pname version src;
 
-  useFetchCargoVendor = true;
   cargoHash = "sha256-uOY5vRzQ2MVLdgdpDkbLdMTScWxVyzq57v3WQJGFQAM=";
 
   passthru.updateScript = nix-update-script { };
