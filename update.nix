@@ -74,7 +74,7 @@
                   );
 
               modrinthUpdates = concatMapStrings (
-                project: ''nix run ${self}#mod-source -- "${project}"''
+                project: "nix run ${self}#mod-source -- \"${project}\"\n"
               ) (importJSON ./_modSources/_projects.json);
             in
             ''
