@@ -90,7 +90,7 @@
               nvtake -c nvchecker.toml --all && (rm '_versions/old_versions.json~' || :)
               ${modrinthUpdates}
 
-              git add _sources _versions pkgs/**/deps.json flake.lock update*
+              git add _modSources _sources _versions pkgs/**/deps.json flake.lock update*
               git commit -m "chore: Update $(date +"%d.%m.%y")
 
               $(cat /tmp/nvfetcher_changelog)
