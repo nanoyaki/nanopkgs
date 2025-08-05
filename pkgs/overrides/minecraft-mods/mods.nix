@@ -7,4 +7,11 @@
   fetchurl,
 }:
 
-lib.recurseIntoAttrs (lib.mapAttrs (_: mods: lib.mapAttrs (_: fetchurl) mods) modset)
+lib.recurseIntoAttrs (
+  lib.mapAttrs (
+    _: mods:
+    lib.mapAttrs (
+      _: fetchable: fetchurl (fetchable // { name = lib.replaceStrings [ " " ] [ "_" ] fetchable.name; })
+    ) mods
+  ) modset
+)
