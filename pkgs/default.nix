@@ -31,6 +31,8 @@
     in
 
     {
+      legacyPackages = scope;
+
       packages = filterAttrs (
         _: pkg: (isDerivation pkg && lib.meta.availableOn pkgs.stdenv.hostPlatform pkg)
       ) scope;
