@@ -73,9 +73,10 @@
                     ) packages
                   );
 
-              modrinthUpdates = concatMapStrings (
-                project: "nix run ${self}#mod-source -- \"${project}\"\n"
-              ) (importJSON ./_modSources/_projects.json);
+              modrinthUpdates = concatMapStrings (project: ''
+                nix run ${self}#mod-source -- "${project}"
+                sleep 0.01
+              '') (importJSON ./_modSources/_projects.json);
             in
             ''
               set -e
@@ -245,10 +246,13 @@
               reduce .[] as $version ({};
                 .[$version.loaders[0]] += (
                   $version.game_versions | reduce .[] as $game_version ({};
-                    .[$game_version] = (
-                      $version.files[0] | {url, sha512: .hashes.sha512}
-                      // ($version.files | map({url, sha512: .hashes.sha512}))
-                    )
+                    if $game_version | test("^\\d\\.\\d{1,2}(\\.\\d{1,2})?$") then
+                      .[$game_version] = (
+                        $version.files[0] | {url, sha512: .hashes.sha512, name: .filename}
+                      )
+                    else
+                      .
+                    end
                   )
                 )
               ) | map_values(
