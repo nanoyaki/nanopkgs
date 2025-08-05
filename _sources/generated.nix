@@ -65,15 +65,15 @@
   };
   luarenamer = {
     pname = "luarenamer";
-    version = "v5.8.0";
+    version = "v5.8.1";
     src = fetchgit {
       url = "https://github.com/Mik1ll/LuaRenamer.git";
-      rev = "v5.8.0";
+      rev = "v5.8.1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Ksqt0cuhvQycoANbFdx31HvsORhErolfp4XTeEOe+Gc=";
+      sha256 = "sha256-7ekuMiM5ivZ1+i6zNw8+zaxuMg6HU4PVFQTqOP29DIc=";
     };
   };
   mecha = {

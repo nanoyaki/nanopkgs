@@ -14,7 +14,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `drop2beets` -> `6bda199`
 - `jmc` -> `1.2.19-alpha.1`
 - `lidarr` -> `2.13.1.4681`
-- `luarenamer` -> `5.8.0`
+- `luarenamer` -> `5.8.1`
 - `meow` -> `2.1.4`
 - `midnight-theme` -> `9287e82`
 - `nvchecker` -> `2.18`
