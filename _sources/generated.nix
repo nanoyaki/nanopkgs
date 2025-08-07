@@ -41,6 +41,20 @@
     };
     date = "2024-04-21";
   };
+  fireshare = {
+    pname = "fireshare";
+    version = "570ab5286cc606bee74d443bba9954b9a6b2f055";
+    src = fetchgit {
+      url = "https://github.com/ShaneIsrael/fireshare.git";
+      rev = "570ab5286cc606bee74d443bba9954b9a6b2f055";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-+4IR/lsfiyrY0wwsp8/yu2DpawS9pkbqUyIwE6AP39o=";
+    };
+    date = "2025-08-04";
+  };
   jmc = {
     pname = "jmc";
     version = "v1.2.19-alpha.1";

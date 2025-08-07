@@ -59,6 +59,26 @@
         },
         "version": "6bda199a8f5710b2265ce66cff8f2d3c6f09f6dc"
     },
+    "fireshare": {
+        "cargoLocks": null,
+        "date": "2025-08-04",
+        "extract": null,
+        "name": "fireshare",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "570ab5286cc606bee74d443bba9954b9a6b2f055",
+            "sha256": "sha256-+4IR/lsfiyrY0wwsp8/yu2DpawS9pkbqUyIwE6AP39o=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/ShaneIsrael/fireshare.git"
+        },
+        "version": "570ab5286cc606bee74d443bba9954b9a6b2f055"
+    },
     "jmc": {
         "cargoLocks": null,
         "date": null,
