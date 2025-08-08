@@ -104,6 +104,11 @@ python312Packages.buildPythonApplication rec {
     openssl
   ];
 
+  postPatch = ''
+    substituteInPlace fireshare/main.py \
+      --replace-fail "before_app_first_request" "before_app_request"
+  '';
+
   postInstall = ''
     cd ../..
 
