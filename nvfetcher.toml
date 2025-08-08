@@ -16,7 +16,7 @@ src.git = "https://github.com/martinkirch/drop2beets.git"
 
 [fireshare]
 fetch.git = "https://github.com/ShaneIsrael/fireshare.git"
-src.git = "https://github.com/ShaneIsrael/fireshare.git"
+src.github_tag = "ShaneIsrael/fireshare"
 
 [jmc]
 fetch.git = "https://github.com/WingedSeal/jmc.git"

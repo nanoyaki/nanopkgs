@@ -61,7 +61,7 @@
     },
     "fireshare": {
         "cargoLocks": null,
-        "date": "2025-08-04",
+        "date": null,
         "extract": null,
         "name": "fireshare",
         "passthru": null,
@@ -71,13 +71,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "570ab5286cc606bee74d443bba9954b9a6b2f055",
+            "rev": "v1.2.27",
             "sha256": "sha256-+4IR/lsfiyrY0wwsp8/yu2DpawS9pkbqUyIwE6AP39o=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/ShaneIsrael/fireshare.git"
         },
-        "version": "570ab5286cc606bee74d443bba9954b9a6b2f055"
+        "version": "v1.2.27"
     },
     "jmc": {
         "cargoLocks": null,

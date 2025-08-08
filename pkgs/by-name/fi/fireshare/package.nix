@@ -18,7 +18,8 @@
 }:
 
 python312Packages.buildPythonApplication rec {
-  inherit (_sources.fireshare) pname version;
+  inherit (_sources.fireshare) pname;
+  version = lib.removePrefix "v" _sources.fireshare.version;
   pyproject = true;
 
   unpatchedSrc = _sources.fireshare.src;
