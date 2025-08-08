@@ -119,16 +119,24 @@ python312Packages.buildPythonApplication rec {
     ln -sf ${frontend} $out/share/fireshare/client
     cp -ar app/server $out/share/fireshare/server
     mv $out/bin/fireshare $out/bin/fireshare-cli
+    cp -ar migrations $out/share/fireshare/migrations
 
     makeWrapper ${lib.getExe python312Packages.gunicorn} $out/bin/fireshare-server \
       --add-flags "--chdir \"$out/share/fireshare/server\"" \
       --add-flags '"fireshare:create_app(init_schedule=True)"'
+
+    makeWrapper ${lib.getExe python312Packages.flask} $out/bin/fireshare-upgrade \
+      --add-flags "db upgrade -d \"$out/share/fireshare/migrations\""
 
     cd app/server
   '';
 
   postFixup = ''
     wrapProgram "$out/bin/fireshare-server" \
+      --prefix PATH : "$program_PATH" \
+      --prefix PYTHONPATH : "$program_PYTHONPATH"
+
+    wrapProgram "$out/bin/fireshare-upgrade" \
       --prefix PATH : "$program_PATH" \
       --prefix PYTHONPATH : "$program_PYTHONPATH"
   '';
