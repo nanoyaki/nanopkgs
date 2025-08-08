@@ -297,11 +297,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-lUK1LPF7Kx/hdT5AoqzAlB1FDBMJndQMg5ciBccczvc=",
+            "sha256": "sha256-TClU3gQMVm2Aq5JwxOYYukxuoRfX6Zv7/qb3cBNukI8=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.109.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.110.tar.gz"
         },
-        "version": "5.1.0-dev.109"
+        "version": "5.1.0-dev.110"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -325,11 +325,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-ThtfEP0cvQOkI3+DWfeL/TuDohdEy7U+TmCd9cluG/I=",
+            "sha256": "sha256-vkbmkEmGw1brnpctT8I5A0noDt/YKrea+vCvWtFaMFI=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.18.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.24.tar.gz"
         },
-        "version": "5.0.4-dev.18"
+        "version": "5.0.4-dev.24"
     },
     "suwayomi-server": {
         "cargoLocks": null,
@@ -399,11 +399,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.0.1209.tar.gz",
-            "sha256": "sha256-6m+oP3WhmEbOZh3P7qO77ipX/sBMpiEJr2QxMR239/8=",
+            "name": "whisparr-src-3.0.0.1224.tar.gz",
+            "sha256": "sha256-UKPNm4cXyYCwbkwqvv/XgXVfaPQdFqwdcVB4xHypbP8=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1209&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1224&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.0.1209"
+        "version": "3.0.0.1224"
     }
 }
