@@ -109,6 +109,9 @@ python312Packages.buildPythonApplication rec {
   postPatch = ''
     substituteInPlace fireshare/main.py \
       --replace-fail "before_app_first_request" "before_app_request"
+
+    substituteInPlace fireshare/__init__.py \
+      --replace-fail "sqlite:///jobs.sqlite" 'sqlite:///{app.config["DATA_DIRECTORY"]}/jobs.sqlite'
   '';
 
   postInstall = ''
