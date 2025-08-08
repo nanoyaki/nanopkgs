@@ -12,6 +12,7 @@
   cyrus_sasl,
   openssl,
   makeWrapper,
+  sqlite,
 
   _sources,
 }:
@@ -102,6 +103,7 @@ python312Packages.buildPythonApplication rec {
     openldap
     cyrus_sasl
     openssl
+    sqlite
   ];
 
   postPatch = ''
