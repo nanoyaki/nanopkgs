@@ -122,7 +122,6 @@ python312Packages.buildPythonApplication rec {
     cp app/nginx/prod.conf $out/share/nginx/nginx.conf
     ln -sf ${frontend} $out/share/fireshare/client
     cp -ar app/server $out/share/fireshare/server
-    mv $out/bin/fireshare $out/bin/fireshare-cli
     cp -ar migrations $out/share/fireshare/migrations
 
     makeWrapper ${lib.getExe python312Packages.gunicorn} $out/bin/fireshare-server \
@@ -154,6 +153,6 @@ python312Packages.buildPythonApplication rec {
     license = lib.licenses.gpl3;
     maintainers = with lib.maintainers; [ nanoyaki ];
     platforms = lib.platforms.linux;
-    mainProgram = "fireshare-cli";
+    mainProgram = "fireshare";
   };
 }
