@@ -66,36 +66,39 @@ python312Packages.buildPythonApplication rec {
 
   nativeBuildInputs = [ makeWrapper ];
 
-  dependencies = with python312Packages; [
-    click
-    ffmpeg-python
-    flask
-    flask-cors
-    flask-login
-    flask-migrate
-    flask-sqlalchemy
-    flask-wtf
-    future
-    greenlet
-    gunicorn
-    importlib-metadata
-    itsdangerous
-    jinja2
-    markupsafe
-    six
-    sqlalchemy
-    werkzeug
-    wtforms
-    zipp
-    xxhash
-    apscheduler
-    python-ldap
-    requests
-  ];
+  dependencies =
+    (with python312Packages; [
+      click
+      ffmpeg-python
+      flask
+      flask-cors
+      flask-login
+      flask-migrate
+      flask-sqlalchemy
+      flask-wtf
+      future
+      greenlet
+      gunicorn
+      importlib-metadata
+      itsdangerous
+      jinja2
+      markupsafe
+      six
+      sqlalchemy
+      werkzeug
+      wtforms
+      zipp
+      xxhash
+      apscheduler
+      python-ldap
+      requests
+    ])
+    ++ [
+      ffmpeg
+    ];
 
   buildInputs = [
     libffi
-    ffmpeg
     openldap
     cyrus_sasl
     openssl
