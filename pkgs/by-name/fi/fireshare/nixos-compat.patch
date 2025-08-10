@@ -11,11 +11,37 @@ index 93768f5..4c679d6 100644
      app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
      app.config['INIT_SCHEDULE'] = init_schedule
      app.config['MINUTES_BETWEEN_VIDEO_SCANS'] = int(os.getenv('MINUTES_BETWEEN_VIDEO_SCANS', '5'))
+diff --git a/app/server/fireshare/auth.py b/app/server/fireshare/auth.py
+index 0b010dd..f2ed276 100644
+--- a/app/server/fireshare/auth.py
++++ b/app/server/fireshare/auth.py
+@@ -108,7 +108,7 @@ def signup():
+     if user:
+         return Response(response="User already exists.", status=400)
+ 
+-    new_user = User(username=username, password=generate_password_hash(password, method='sha256'))
++    new_user = User(username=username, password=generate_password_hash(password, method='pbkdf2:sha256'))
+     db.session.add(new_user)
+     db.session.commit()
+ 
+diff --git a/app/server/fireshare/cli.py b/app/server/fireshare/cli.py
+index 5250bfe..ed6e717 100755
+--- a/app/server/fireshare/cli.py
++++ b/app/server/fireshare/cli.py
+@@ -56,7 +56,7 @@ def init_db():
+ @click.option("--password", "-p", help="Password", prompt=True, hide_input=True)
+ def add_user(username, password):
+     with create_app().app_context():
+-        new_user = User(username=username, password=generate_password_hash(password, method='sha256'))
++        new_user = User(username=username, password=generate_password_hash(password, method='pbkdf2:sha256'))
+         db.session.add(new_user)
+         db.session.commit()
+         click.echo(f"Created user {username}")
 diff --git a/app/server/fireshare/main.py b/app/server/fireshare/main.py
-index b86727c..b36fa19 100644
+index b86727c..d7d9f7b 100644
 --- a/app/server/fireshare/main.py
 +++ b/app/server/fireshare/main.py
-@@ -12,7 +12,7 @@ main = Blueprint('main', __name__, template_folder=templates_path)
+@@ -12,19 +12,19 @@ main = Blueprint('main', __name__, template_folder=templates_path)
  
  CORS(main, supports_credentials=True)
  
@@ -24,7 +50,12 @@ index b86727c..b36fa19 100644
  def before_first_request():
      # Create the admin user if it doesn't already exist
      admin = User.query.filter_by(admin=True, ldap=False).first()
-@@ -24,7 +24,7 @@ def before_first_request():
+     
+     if not admin and not current_app.config['DISABLE_ADMINCREATE']:
+         username = current_app.config['ADMIN_USERNAME'] or 'admin'
+-        admin_user = User(username=username, password=generate_password_hash(current_app.config['ADMIN_PASSWORD'] or 'admin', method='sha256'), admin=True)
++        admin_user = User(username=username, password=generate_password_hash(current_app.config['ADMIN_PASSWORD'] or 'admin', method='pbkdf2:sha256'), admin=True)
+         db.session.add(admin_user)
          db.session.commit()
      if admin and not check_password_hash(admin.password, current_app.config['ADMIN_PASSWORD']):
          row = db.session.query(User).filter_by(admin=True, ldap=False).first()
