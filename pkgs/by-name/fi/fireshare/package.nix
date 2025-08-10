@@ -28,12 +28,7 @@ python312Packages.buildPythonApplication rec {
     inherit version;
 
     src = unpatchedSrc;
-
-    postPatch = ''
-      substituteInPlace app/server/requirements.txt \
-        --replace-fail "Flask-Cors==3.0.10" "Flask-Cors" \
-        --replace-fail "==" ">="
-    '';
+    patches = [ ./nixos-compat.patch ];
 
     installPhase = ''
       runHook preInstall
@@ -106,14 +101,6 @@ python312Packages.buildPythonApplication rec {
     openssl
     sqlite
   ];
-
-  postPatch = ''
-    substituteInPlace fireshare/main.py \
-      --replace-fail "before_app_first_request" "before_app_request"
-
-    substituteInPlace fireshare/__init__.py \
-      --replace-fail "sqlite:///jobs.sqlite" 'sqlite:///{app.config["DATA_DIRECTORY"]}/jobs.sqlite'
-  '';
 
   postInstall = ''
     cd ../..
