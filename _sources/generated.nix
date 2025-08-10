@@ -260,11 +260,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.0.1238";
+    version = "3.0.0.1241";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1238&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.0.1238.tar.gz";
-      sha256 = "sha256-Dzcn6/BJ6b3nkr5zA88ot9GKKvriNYRatrTAdWVGrrM=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1241&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.0.1241.tar.gz";
+      sha256 = "sha256-/s0MaFiEh6JRDp7RVZy5v4+gTob5hB7RfhMcSZb6KFs=";
     };
   };
 }
