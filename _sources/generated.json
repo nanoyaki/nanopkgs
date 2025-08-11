@@ -126,13 +126,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v5.8.1",
-            "sha256": "sha256-7ekuMiM5ivZ1+i6zNw8+zaxuMg6HU4PVFQTqOP29DIc=",
+            "rev": "v5.9.0",
+            "sha256": "sha256-aFhgPmacMyfOChCKQr3CUtbjvPP7II816DWYk3Uk6NE=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Mik1ll/LuaRenamer.git"
         },
-        "version": "v5.8.1"
+        "version": "v5.9.0"
     },
     "mecha": {
         "cargoLocks": null,
@@ -221,13 +221,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v2.0.2.5116",
-            "sha256": "sha256-ouJg2FevCnJ0vjYkBL7Dh0QK2/SIH+pPfO6xD2m839M=",
+            "rev": "v2.0.3.5130",
+            "sha256": "sha256-Z/67Ob/g0a6TXi3Eg8YqYharnSamj254FXOWoEIkOgs=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Prowlarr/Prowlarr.git"
         },
-        "version": "v2.0.2.5116"
+        "version": "v2.0.3.5130"
     },
     "pyon": {
         "cargoLocks": null,
@@ -297,11 +297,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-qln1zH0CnBZJKOTSioMM0uFsgtrycoqXa9VAI5spu+Y=",
+            "sha256": "sha256-/PKpNGRzmyt4CJuN6ysf2aplSlys+F6BCRDa0bT+5i0=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.113.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.115.tar.gz"
         },
-        "version": "5.1.0-dev.113"
+        "version": "5.1.0-dev.115"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -399,11 +399,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.0.1241.tar.gz",
-            "sha256": "sha256-/s0MaFiEh6JRDp7RVZy5v4+gTob5hB7RfhMcSZb6KFs=",
+            "name": "whisparr-src-3.0.0.1247.tar.gz",
+            "sha256": "sha256-ZA5lCIwIlNjbm2NrwIVBnxSmgGE34WDPbSOAgu0Q/nI=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1241&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1247&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.0.1241"
+        "version": "3.0.0.1247"
     }
 }

@@ -56,6 +56,7 @@
             git
             nvfetcher
             jq
+            prefetch-yarn-deps
           ])
           ++ [ self'.packages.nvchecker ];
       });
