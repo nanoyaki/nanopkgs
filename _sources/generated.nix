@@ -78,15 +78,15 @@
   };
   luarenamer = {
     pname = "luarenamer";
-    version = "v5.8.1";
+    version = "v5.9.0";
     src = fetchgit {
       url = "https://github.com/Mik1ll/LuaRenamer.git";
-      rev = "v5.8.1";
+      rev = "v5.9.0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-7ekuMiM5ivZ1+i6zNw8+zaxuMg6HU4PVFQTqOP29DIc=";
+      sha256 = "sha256-aFhgPmacMyfOChCKQr3CUtbjvPP7II816DWYk3Uk6NE=";
     };
   };
   mecha = {
@@ -140,15 +140,15 @@
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "v2.0.2.5116";
+    version = "v2.0.3.5130";
     src = fetchgit {
       url = "https://github.com/Prowlarr/Prowlarr.git";
-      rev = "v2.0.2.5116";
+      rev = "v2.0.3.5130";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-ouJg2FevCnJ0vjYkBL7Dh0QK2/SIH+pPfO6xD2m839M=";
+      sha256 = "sha256-Z/67Ob/g0a6TXi3Eg8YqYharnSamj254FXOWoEIkOgs=";
     };
   };
   pyon = {
@@ -195,10 +195,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.113";
+    version = "5.1.0-dev.115";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.113.tar.gz";
-      sha256 = "sha256-qln1zH0CnBZJKOTSioMM0uFsgtrycoqXa9VAI5spu+Y=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.115.tar.gz";
+      sha256 = "sha256-/PKpNGRzmyt4CJuN6ysf2aplSlys+F6BCRDa0bT+5i0=";
     };
   };
   shoko-webui = {
@@ -260,11 +260,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.0.1241";
+    version = "3.0.0.1247";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1241&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.0.1241.tar.gz";
-      sha256 = "sha256-/s0MaFiEh6JRDp7RVZy5v4+gTob5hB7RfhMcSZb6KFs=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1247&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.0.1247.tar.gz";
+      sha256 = "sha256-ZA5lCIwIlNjbm2NrwIVBnxSmgGE34WDPbSOAgu0Q/nI=";
     };
   };
 }
