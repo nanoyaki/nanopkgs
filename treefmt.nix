@@ -30,6 +30,7 @@
         };
 
         settings.global.excludes = [
+          "_modSources/**"
           "_sources/**"
           "_versions/**"
           "LICENSES/*"

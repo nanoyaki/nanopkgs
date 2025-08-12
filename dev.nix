@@ -43,6 +43,7 @@
           };
 
           excludes = [
+            "_modSources.*"
             "_sources.*"
             ''.*\.patch''
           ];
