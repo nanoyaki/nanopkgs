@@ -54,6 +54,19 @@
       sha256 = "sha256-+4IR/lsfiyrY0wwsp8/yu2DpawS9pkbqUyIwE6AP39o=";
     };
   };
+  flaresolverr = {
+    pname = "flaresolverr";
+    version = "v3.3.25";
+    src = fetchgit {
+      url = "https://github.com/FlareSolverr/FlareSolverr.git";
+      rev = "v3.3.25";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-AGRqJOIIePaJH0j0eyMFJ6Kddul3yXF6uw6dPMnskmY=";
+    };
+  };
   jmc = {
     pname = "jmc";
     version = "v1.2.19-alpha.1";

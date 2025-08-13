@@ -18,6 +18,10 @@ src.git = "https://github.com/martinkirch/drop2beets.git"
 fetch.git = "https://github.com/ShaneIsrael/fireshare.git"
 src.github_tag = "ShaneIsrael/fireshare"
 
+[flaresolverr]
+fetch.git = "https://github.com/FlareSolverr/FlareSolverr.git"
+src.github_tag = "FlareSolverr/FlareSolverr"
+
 [jmc]
 fetch.git = "https://github.com/WingedSeal/jmc.git"
 src.github_tag = "WingedSeal/jmc"
