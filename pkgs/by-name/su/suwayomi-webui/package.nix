@@ -12,6 +12,8 @@
   nodejs_22,
   zip,
   nix-update-script,
+  husky,
+  tsx,
 
   _sources,
   _versions,
@@ -40,9 +42,19 @@ stdenvNoCC.mkDerivation (finalAttrs: {
 
     nodejs_22
     zip
+    husky
+    tsx
   ];
 
+  postPatch = ''
+    substituteInPlace package.json \
+      --replace-fail " && vite build" ""
+  '';
+
   postBuild = ''
+    patchShebangs node_modules/vite/bin/vite.js
+    node_modules/vite/bin/vite.js build
+
     yarn --offline build-md5
     yarn --offline build-zip
   '';
