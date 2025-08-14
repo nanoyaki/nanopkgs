@@ -28,8 +28,8 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     runHook preInstall
 
     mkdir -p $out/scrapers/${finalAttrs.pname}
-    cp -r scrapers/${finalAttrs.pname} $out/scrapers/${finalAttrs.pname}
-    cp -r scrapers/py_common $out/scrapers/${finalAttrs.pname}/py_common
+    cp -a scrapers/${finalAttrs.pname} $out/scrapers/${finalAttrs.pname}
+    cp -a scrapers/py_common $out/scrapers/${finalAttrs.pname}/py_common
     cp -f ${
       replaceVars ./config.py.template { path = configJSON; }
     } $out/scrapers/${finalAttrs.pname}/config.py

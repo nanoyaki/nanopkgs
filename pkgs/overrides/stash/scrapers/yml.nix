@@ -15,7 +15,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   pythonDeps = [ ];
 
   installPhase = ''
-    mkdir -p $out/scrapers
-    cp -f $src/scrapers/${finalAttrs.pname}.yml $out/scrapers/${finalAttrs.pname}.yml
+    mkdir -p $out/scrapers/${finalAttrs.pname}
+    cp -f $src/scrapers/${finalAttrs.pname}.yml $out/scrapers/${finalAttrs.pname}/${finalAttrs.pname}.yml
   '';
 })
