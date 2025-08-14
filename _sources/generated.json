@@ -351,6 +351,26 @@
         },
         "version": "5.0.4-dev.26"
     },
+    "stash-scrapers": {
+        "cargoLocks": null,
+        "date": "2025-08-13",
+        "extract": null,
+        "name": "stash-scrapers",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "a9ff4f8915d11e77ca74255a60fa4069a2745a2a",
+            "sha256": "sha256-oZse5zMyOpCBByWGu59HXu+Id+vSwOuqs4MgTFvVTGA=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/stashapp/CommunityScrapers.git"
+        },
+        "version": "a9ff4f8915d11e77ca74255a60fa4069a2745a2a"
+    },
     "suwayomi-server": {
         "cargoLocks": null,
         "date": "2025-08-09",

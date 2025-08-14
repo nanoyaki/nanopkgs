@@ -230,6 +230,20 @@
       sha256 = "sha256-+7ch1dHjYhBjq7xQm+NDLboxGRkFnhjXVZluOB923Do=";
     };
   };
+  stash-scrapers = {
+    pname = "stash-scrapers";
+    version = "a9ff4f8915d11e77ca74255a60fa4069a2745a2a";
+    src = fetchgit {
+      url = "https://github.com/stashapp/CommunityScrapers.git";
+      rev = "a9ff4f8915d11e77ca74255a60fa4069a2745a2a";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-oZse5zMyOpCBByWGu59HXu+Id+vSwOuqs4MgTFvVTGA=";
+    };
+    date = "2025-08-13";
+  };
   suwayomi-server = {
     pname = "suwayomi-server";
     version = "9049b4a090b0d0399ee5977a0346b8cab25bf2b3";

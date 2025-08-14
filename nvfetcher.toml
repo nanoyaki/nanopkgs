@@ -87,6 +87,10 @@ src.github_tag = "ShokoAnime/Shokofin"
 src.include_regex = '.*-dev\..*'
 src.prefix = "v"
 
+[stash-scrapers]
+fetch.git = "https://github.com/stashapp/CommunityScrapers.git"
+src.git = "https://github.com/stashapp/CommunityScrapers.git"
+
 [suwayomi-server]
 fetch.git = "https://github.com/Suwayomi/Suwayomi-Server.git"
 src.git = "https://github.com/Suwayomi/Suwayomi-Server.git"
