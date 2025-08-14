@@ -6,11 +6,12 @@
   python313Packages,
   replaceVars,
   configJSON ? ./default.json,
+  stashDataDir ? "/var/lib/stash",
 
   _sources,
 }:
 
-stdenvNoCC.mkDerivation {
+stdenvNoCC.mkDerivation (finalAttrs: {
   pname = "ShokoAPI";
   inherit (_sources.stash-scrapers) src version;
 
@@ -18,10 +19,21 @@ stdenvNoCC.mkDerivation {
     python313Packages.requests
   ];
 
-  installPhase = ''
-    mkdir -p $out/scrapers/ShokoAPI
-    cp -r $src/scrapers/ShokoAPI $out/scrapers/ShokoAPI
-    cp -r $src/scrapers/py_common $out/scrapers/ShokoAPI/py_common
-    cp -f ${replaceVars ./config.py.template { path = configJSON; }} $out/scrapers/ShokoAPI/config.py
+  postPatch = ''
+    substituteInPlace scrapers/py_common/config.py \
+      --replace-fail 'configs[0]' 'Path("${stashDataDir}/${finalAttrs.pname}-config.ini").absolute()'
   '';
-}
+
+  installPhase = ''
+    runHook preInstall
+
+    mkdir -p $out/scrapers/${finalAttrs.pname}
+    cp -r scrapers/${finalAttrs.pname} $out/scrapers/${finalAttrs.pname}
+    cp -r scrapers/py_common $out/scrapers/${finalAttrs.pname}/py_common
+    cp -f ${
+      replaceVars ./config.py.template { path = configJSON; }
+    } $out/scrapers/${finalAttrs.pname}/config.py
+
+    runHook postInstall
+  '';
+})
