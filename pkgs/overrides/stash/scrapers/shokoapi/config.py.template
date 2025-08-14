@@ -1,0 +1,5 @@
+import json
+
+out_of_store_file = open('@path@', 'r').read()
+
+SHOKO = json.loads(out_of_store_file)

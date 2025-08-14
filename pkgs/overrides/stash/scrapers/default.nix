@@ -7,7 +7,7 @@
 }:
 
 lib.recurseIntoAttrs {
-  shokoApi = callPackage ./shokoapi.nix { };
+  shokoApi = callPackage ./shokoapi { };
   aniDb = callPackage ./yml.nix { name = "AniDB"; };
   hanime = callPackage ./yml.nix { name = "hanime"; };
 }
