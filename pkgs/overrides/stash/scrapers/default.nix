@@ -8,6 +8,7 @@
 
 lib.recurseIntoAttrs {
   shokoApi = callPackage ./shokoapi { };
+  py-common = callPackage ./py-common.nix { };
   aniDb = callPackage ./yml.nix { name = "AniDB"; };
   hanime = callPackage ./yml.nix { name = "hanime"; };
 }
