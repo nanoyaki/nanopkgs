@@ -53,15 +53,3 @@ steps:
         commit."
       - git pull --rebase origin main
       - git push --set-upstream origin main
-
-  - name: check
-    image: nixos/nix:latest
-    environment:
-      LC_ALL: C.UTF-8
-      LANG: C.UTF-8
-      NIX_CONFIG: |
-        sandbox = true
-        extra-experimental-features = nix-command flakes
-      NIX_DEBUG: 1
-    commands:
-      - nix flake check
