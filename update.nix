@@ -87,6 +87,8 @@
               nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-./keys.toml}"
               ${conditionalUpdates}
 
+              ${nvchecker} "in-player-episode-preview.version"
+
               nvcmp -c nvchecker.toml | sed 's|->|→|g' > /tmp/nvchecker_changelog
               nvtake -c nvchecker.toml --all && (rm '_versions/old_versions.json~' || :)
               ${modrinthUpdates}

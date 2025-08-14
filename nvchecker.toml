@@ -8,6 +8,12 @@ newver = "_versions/new_versions.json"
 keyfile = "./keys.toml"
 max_concurrency = 3
 
+["inPlayerEpisodePreview.version"]
+source = "github"
+github = "Namo2/InPlayerEpisodePreview"
+use_max_tag = true
+prefix = "v"
+
 ["luarenamer.nugetDepsHash"]
 source = "cmd"
 cmd = "nix run .#update-dotnet -- luarenamer pkgs/by-name/lu 2> /dev/null"
