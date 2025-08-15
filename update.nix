@@ -57,12 +57,13 @@
                 concatMapStrings
                   (
                     package:
-                    "\ngrep -q \"${package}:\" /tmp/nvfetcher_changelog \\\n"
+                    "\ngrep -q \"${package}:\" /tmp/nvfetcher_changelog && (\\\n"
                     + (concatStringsSep " \\\n" (
-                      map (additionalVersion: "\ \ && ${nvchecker} \"${additionalVersion}\"") (
+                      map (additionalVersion: "${nvchecker} \"${additionalVersion}\";") (
                         filter (additionalVersion: hasPrefix "${package}." additionalVersion) additionalVersions
                       )
                     ))
+                    + ")"
                   )
                   (
                     filter (
@@ -79,15 +80,14 @@
               '') (importJSON ./_modSources/_projects.json);
             in
             ''
-              set -e
+              set -ex
 
               git stash
 
               nix flake update
               nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-./keys.toml}"
               ${conditionalUpdates}
-
-              ${nvchecker} "in-player-episode-preview.version"
+              ${nvchecker} "inPlayerEpisodePreview.version"
 
               nvcmp -c nvchecker.toml | sed 's|->|→|g' > /tmp/nvchecker_changelog
               nvtake -c nvchecker.toml --all && (rm '_versions/old_versions.json~' || :)
