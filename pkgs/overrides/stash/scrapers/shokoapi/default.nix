@@ -6,6 +6,7 @@
   python313Packages,
   replaceVars,
   configJSON ? ./default.json,
+  stashScrapers,
 
   _sources,
 }:
@@ -22,6 +23,7 @@ stdenvNoCC.mkDerivation {
     runHook preInstall
 
     mkdir -p $out/scrapers
+    cp -a ${stashScrapers.py-common}/scrapers/py_common $out/scrapers
     cp -a scrapers/ShokoAPI $out/scrapers
     cp -f ${replaceVars ./config.py.template { path = configJSON; }} $out/scrapers/ShokoAPI/config.py
 
