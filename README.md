@@ -14,6 +14,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `drop2beets` -> `6bda199`
 - `fireshare` -> `1.2.27`
 - `flaresolverr` -> `3.3.25`
+- `jellyfin-web-with-plugins`
 - `jmc` -> `1.2.19-alpha.1`
 - `lidarr` -> `2.13.1.4681`
 - `luarenamer` -> `5.9.0`
@@ -28,8 +29,8 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `python-modernize` -> `f06b20a`
 - `python3` -> `3.13.5`
 - `rofi-themes` -> `093c1a7`
-- `shoko` -> `5.1.0-dev.118`
-- `shoko-webui` -> `2.3.0-dev.5`
+- `shoko` -> `5.1.0-dev.121`
+- `shoko-webui` -> `2.3.0-dev.6`
 - `shokofin` -> `5.0.4-dev.26`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1877`
