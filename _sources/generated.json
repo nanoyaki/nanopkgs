@@ -317,11 +317,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-YlIiD0RX+d07y0q5dOER0RnJbe9n3qIHBKUzw9EqMvA=",
+            "sha256": "sha256-VZszygJGnTjwmyDTCxePZPdkCoKNXSlabzE1GHJfMmA=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.118.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.119.tar.gz"
         },
-        "version": "5.1.0-dev.118"
+        "version": "5.1.0-dev.119"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -353,7 +353,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-08-13",
+        "date": "2025-08-14",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -363,13 +363,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f82d776b6a3956ed23f554db65a15441e8fb0067",
-            "sha256": "sha256-7g4Wg/Inbfahj6tS0HjDYFHJNfHbBWRlDG/Psvo33t8=",
+            "rev": "4f4c568049ed396fd49ad304f5fda13f6bb1dea0",
+            "sha256": "sha256-nagoNFTLhuqk8QVvy4aNMb8L/3Xf99TP28RjJOOhlJI=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "f82d776b6a3956ed23f554db65a15441e8fb0067"
+        "version": "4f4c568049ed396fd49ad304f5fda13f6bb1dea0"
     },
     "suwayomi-server": {
         "cargoLocks": null,
