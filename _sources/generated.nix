@@ -208,10 +208,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.121";
+    version = "5.1.0-dev.122";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.121.tar.gz";
-      sha256 = "sha256-lefYsSEnXBTvD//T5lbnVOef+uqxNxLYrQn3I1Xoxw4=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.122.tar.gz";
+      sha256 = "sha256-S4fzPCYjEaZqcMj/6TwpY0X/yl3s1tloN+LP4xEDcEg=";
     };
   };
   shoko-webui = {
@@ -232,17 +232,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "5a936457d79c50f4fec4feae3cc6139e450daeaf";
+    version = "702137704ffc0197240fcde26fc2baaf658d8ad5";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "5a936457d79c50f4fec4feae3cc6139e450daeaf";
+      rev = "702137704ffc0197240fcde26fc2baaf658d8ad5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-haug0c9aPVjMMybMTo0JvDWzDf/i3zEl5vNWIx+8jQ0=";
+      sha256 = "sha256-vU/YvjGqglB6egz/Icf4EeU7zSiakyVnVeOqcawYKx4=";
     };
-    date = "2025-08-15";
+    date = "2025-08-16";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
@@ -260,17 +260,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "c4663d9e2385d533bd4da73b4551dbe6d5378494";
+    version = "7b9cce765ed0c69604bd1be23d85716720fc8bd4";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "c4663d9e2385d533bd4da73b4551dbe6d5378494";
+      rev = "7b9cce765ed0c69604bd1be23d85716720fc8bd4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-L9uUgtPnTL6Qh0cVFZLZYuCl9UkEvxLv+3y3ThHDnBM=";
+      sha256 = "sha256-wkioIk3+p4Rk59VJXvkWXsmO+zPvJc4K/aINB4qNghY=";
     };
-    date = "2025-08-13";
+    date = "2025-08-16";
   };
   tokenstream = {
     pname = "tokenstream";
