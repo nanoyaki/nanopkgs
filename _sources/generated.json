@@ -127,12 +127,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "lidarr-src-2.13.1.4681.tar.gz",
-            "sha256": "sha256-sUr4RzLpxCn6J1sRkGrU7bdmCbhtudC1zTLIBq8Wbww=",
+            "name": "lidarr-src-2.13.2.4685.tar.gz",
+            "sha256": "sha256-VzTypCJ0VE40cWj3gLAj7Z0qO/bbvc/stAUrjgY8l3o=",
             "type": "url",
-            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.13.1.4681&os=linux&runtime=netcore&arch=x64"
+            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.13.2.4685&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "2.13.1.4681"
+        "version": "2.13.2.4685"
     },
     "luarenamer": {
         "cargoLocks": null,
@@ -241,13 +241,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v2.0.3.5130",
-            "sha256": "sha256-Z/67Ob/g0a6TXi3Eg8YqYharnSamj254FXOWoEIkOgs=",
+            "rev": "v2.0.4.5138",
+            "sha256": "sha256-9grEFfDZP+h5H9IcD+AAYeKH8cF4b2j2sBWjxX/woew=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Prowlarr/Prowlarr.git"
         },
-        "version": "v2.0.3.5130"
+        "version": "v2.0.4.5138"
     },
     "pyon": {
         "cargoLocks": null,
@@ -345,15 +345,15 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-+7ch1dHjYhBjq7xQm+NDLboxGRkFnhjXVZluOB923Do=",
+            "sha256": "sha256-+Bv/JEMev6gUN3uuwLM3ja2OaDErxycabpmzKBMGILY=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.26.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.28.tar.gz"
         },
-        "version": "5.0.4-dev.26"
+        "version": "5.0.4-dev.28"
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-08-16",
+        "date": "2025-08-17",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -363,13 +363,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "702137704ffc0197240fcde26fc2baaf658d8ad5",
-            "sha256": "sha256-vU/YvjGqglB6egz/Icf4EeU7zSiakyVnVeOqcawYKx4=",
+            "rev": "0944c6f3e7a214e5b49442b59ccfa8148bd617b0",
+            "sha256": "sha256-G33s2JNtQXZH5GnHnCD4Z0TMUMOh6ftTcSA1ryssmto=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "702137704ffc0197240fcde26fc2baaf658d8ad5"
+        "version": "0944c6f3e7a214e5b49442b59ccfa8148bd617b0"
     },
     "suwayomi-server": {
         "cargoLocks": null,
