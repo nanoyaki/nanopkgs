@@ -224,6 +224,7 @@
           text = ''
             package="$1"
 
+            nix build .\#"$package.src" &> /dev/null || :
             hash="$(prefetch-yarn-deps "$(nix eval --raw .\#"$package.src.outPath")/yarn.lock")"
             nix hash convert --hash-algo sha256 --to sri "$hash"
           '';
