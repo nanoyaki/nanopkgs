@@ -84,7 +84,8 @@ jobs:
             -H "Authorization: token $FORGE_TOKEN" \
             -H "Content-Type: application/json" \
             -d '{
-              "Do": "auto",
+              "Do": "merge",
+              "delete_branch_after_merge": true,
               "merge_when_checks_succeed": true
             }' \
-            "${FORGEJO_API_URL}/repos/${FORGEJO_REPOSITORY}/pulls/${PR_NUMBER}/automerge"
+            "${FORGEJO_API_URL}/repos/${FORGEJO_REPOSITORY}/pulls/${PR_NUMBER}/merge"
