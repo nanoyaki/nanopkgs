@@ -6,6 +6,7 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 
+# Not implemented yet, keep for the future
 permissions:
   pull-requests: write
 
@@ -54,10 +55,11 @@ jobs:
       - name: Create Forgejo Pull Request
         id: create-pr
         env:
-          FORGEJO_LOGIN: forgejo-actions
+          FORGEJO_LOGIN: nanoyaki
+          FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
         run: |
           tea login delete "$FORGEJO_LOGIN" || true
-          tea login add --name "$FORGEJO_LOGIN" --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN" || true
+          tea login add --name "$FORGEJO_LOGIN" --url "$FORGEJO_SERVER_URL" --token "$FORGE_TOKEN" || true
 
           git push -u origin chore/auto-update -f
           PR_NUMBER="$(
@@ -74,14 +76,15 @@ jobs:
 
       - name: Enable Auto-Merge
         env:
+          FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
           PR_NUMBER: ${{ steps.create-pr.outputs.pr }}
           FORGEJO_API_URL: ${{ forge.api_url }}
-        run: >-
-          curl -X POST
-            -H "Authorization: token $FORGEJO_TOKEN"
-            -H "Content-Type: application/json"
+        run: |-
+          curl -X POST \
+            -H "Authorization: token $FORGE_TOKEN" \
+            -H "Content-Type: application/json" \
             -d '{
               "Do": "auto",
               "merge_when_checks_succeed": true
-            }'
+            }' \
             "${FORGEJO_API_URL}/repos/${FORGEJO_REPOSITORY}/pulls/${PR_NUMBER}/automerge"
