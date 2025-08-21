@@ -51,15 +51,15 @@ jobs:
       - name: Create Forgejo Pull Request
         id: create-pr
         run: |
-          tea login add --name "forgejo-actions" --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN"
+          tea login add --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN"
 
           PR_NUMBER="$(
             tea pr create \
               -t 'chore: update locks' \
               -d 'Automated pull request to update locks for maintained programs' \
-              -R "$FORGEJO_REPOSITORY" \
+              -r "$FORGEJO_REPOSITORY" \
               | tail \
-              | grep -oP "/\K\d+"
+              | grep -oP '/\K\d+'
           )"
 
           echo "pr=${PR_NUMBER}" >> $FORGEJO_OUTPUT
