@@ -27,10 +27,20 @@ jobs:
           git config --local user.email "hanakretzer+forgejo-actions@gmail.com"
           git checkout -b chore/auto-update
 
+      - name: Setup keys
+        env:
+          HUBGIT_TOKEN: ${{ secrets.HUBGIT_TOKEN }}
+        run: |
+          echo \
+            "[keys]
+            github = \"$HUBGIT_TOKEN\"
+            " > keys.toml
+          chmod 400 ./keys.toml
+
       - name: Update packages
         env:
           LANG: C.UTF-8
-        run: nix run .#update
+        run: nix run .#update -- ./keys.toml
 
       - name: Update readme
         run: |
@@ -40,15 +50,15 @@ jobs:
 
       - name: Create Forgejo Pull Request
         id: create-pr
-        run: >
-          tea login add --name forgejo --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN"
+        run: |
+          tea login add --name "forgejo-actions" --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN"
 
           PR_NUMBER="$(
-            tea pr create
-              -t 'chore: update locks'
-              -d 'Automated pull request to update locks for maintained programs'
-              -R "$FORGEJO_REPOSITORY"
-              | tail
+            tea pr create \
+              -t 'chore: update locks' \
+              -d 'Automated pull request to update locks for maintained programs' \
+              -R "$FORGEJO_REPOSITORY" \
+              | tail \
               | grep -oP "/\K\d+"
           )"
 
