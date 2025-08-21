@@ -50,12 +50,15 @@ jobs:
 
       - name: Create Forgejo Pull Request
         id: create-pr
+        env:
+          FORGEJO_LOGIN: forgejo-actions
         run: |
-          tea login add --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN"
+          tea login delete "$FORGEJO_LOGIN" || true
+          tea login add --name "$FORGEJO_LOGIN" --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN" || true
 
           PR_NUMBER="$(
             tea pr create \
-              -l "git.theless.one"
+              -l "$FORGEJO_LOGIN" \
               -t 'chore: update locks' \
               -d 'Automated pull request to update locks for maintained programs' \
               -r "$FORGEJO_REPOSITORY" \
