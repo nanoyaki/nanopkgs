@@ -55,6 +55,7 @@ jobs:
 
           PR_NUMBER="$(
             tea pr create \
+              -l "git.theless.one"
               -t 'chore: update locks' \
               -d 'Automated pull request to update locks for maintained programs' \
               -r "$FORGEJO_REPOSITORY" \
