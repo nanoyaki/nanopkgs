@@ -6,6 +6,9 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 
+permissions:
+  pull-requests: write
+
 jobs:
   check-branch:
     runs-on: native
@@ -56,7 +59,7 @@ jobs:
           tea login delete "$FORGEJO_LOGIN" || true
           tea login add --name "$FORGEJO_LOGIN" --url "$FORGEJO_SERVER_URL" --token "$FORGEJO_TOKEN" || true
 
-          git push -u origin chore/auto-update
+          git push -u origin chore/auto-update -f
           PR_NUMBER="$(
             tea pr create \
               -l "$FORGEJO_LOGIN" \
@@ -72,6 +75,7 @@ jobs:
       - name: Enable Auto-Merge
         env:
           PR_NUMBER: ${{ steps.create-pr.outputs.pr }}
+          FORGEJO_API_URL: ${{ forge.api_url }}
         run: >-
           curl -X POST
             -H "Authorization: token $FORGEJO_TOKEN"
@@ -80,4 +84,4 @@ jobs:
               "Do": "auto",
               "merge_when_checks_succeed": true
             }'
-            "${FORGEJO_SERVER_URL}/api/v1/repos/${FORGEJO_REPOSITORY}/pulls/${PR_NUMBER}/automerge"
+            "${FORGEJO_API_URL}/repos/${FORGEJO_REPOSITORY}/pulls/${PR_NUMBER}/automerge"
