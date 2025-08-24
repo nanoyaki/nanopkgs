@@ -24,13 +24,13 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `openrgb` -> `f76dbb0`
 - `osu-lazer-bin` -> `2025.607.1`
 - `prefetch`
-- `prowlarr` -> `2.0.4.5138`
+- `prowlarr` -> `2.0.5.5160`
 - `pyon` -> `06a076e`
 - `python-modernize` -> `f06b20a`
 - `python3` -> `3.13.5`
 - `rofi-themes` -> `093c1a7`
 - `shoko` -> `5.1.0-dev.123`
-- `shoko-webui` -> `2.3.0-dev.6`
+- `shoko-webui` -> `2.3.0-dev.7`
 - `shokofin` -> `5.0.4-dev.30`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1898`

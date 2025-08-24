@@ -153,15 +153,15 @@
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "v2.0.4.5138";
+    version = "v2.0.5.5160";
     src = fetchgit {
       url = "https://github.com/Prowlarr/Prowlarr.git";
-      rev = "v2.0.4.5138";
+      rev = "v2.0.5.5160";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-9grEFfDZP+h5H9IcD+AAYeKH8cF4b2j2sBWjxX/woew=";
+      sha256 = "sha256-xSAEDcBaItA+retaSKtEI6wlwj5Knfi4RwUN6GGYms0=";
     };
   };
   pyon = {
@@ -216,10 +216,10 @@
   };
   shoko-webui = {
     pname = "shoko-webui";
-    version = "2.3.0-dev.6";
+    version = "2.3.0-dev.7";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.6.tar.gz";
-      sha256 = "sha256-W16L77eBa3WmTtiXZ68Kyk5Mlqk4dJAkKLxv3kdE29s=";
+      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.7.tar.gz";
+      sha256 = "sha256-j6Q+YjhQEgAuNW0FxIM2k7OAFsZLI0UtKD9wqq2eZbc=";
     };
   };
   shokofin = {
