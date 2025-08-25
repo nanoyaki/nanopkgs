@@ -232,45 +232,45 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "75d3a85710b88bd7d86018c41a26ac793b8281d0";
+    version = "970fdb79f760297002f12116ad5dd39d5b8eac2c";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "75d3a85710b88bd7d86018c41a26ac793b8281d0";
+      rev = "970fdb79f760297002f12116ad5dd39d5b8eac2c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-FLHIl3cr/ki62L1Pa8RTWImxjUna68XIRuTvNkSVF34=";
+      sha256 = "sha256-MSntL9lFFKn1nMSy06KCi49HD2POSRFpqwuATD54+Pk=";
     };
-    date = "2025-08-21";
+    date = "2025-08-24";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "4482b325d7fdabfc2f1fdb22c35705759b8e3358";
+    version = "46e2ef125a6b5c02a5fed314e99aaebee73b5633";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "4482b325d7fdabfc2f1fdb22c35705759b8e3358";
+      rev = "46e2ef125a6b5c02a5fed314e99aaebee73b5633";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-DMM7XU96nz9ssDfqyNz71uXVaXl/0Dw1n/qG4mJDUEY=";
+      sha256 = "sha256-io5IozNNogCseh5D7ZSl3XwEY4dGFdkMg50c9mgPEy4=";
     };
-    date = "2025-08-21";
+    date = "2025-08-24";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "870174632b500208e9b3f87b631d9e8b4689cb3f";
+    version = "0f8c6496f89f8a1a912757ea7a483254577e4c82";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "870174632b500208e9b3f87b631d9e8b4689cb3f";
+      rev = "0f8c6496f89f8a1a912757ea7a483254577e4c82";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Oy4wDeTBPZnOFtV/CCrS7NrBvI6okOo2QuAbCUhvT0Q=";
+      sha256 = "sha256-/6IymUnJN5hYTc53GHs07FhkAcjAjHJgG57LaeeAIZA=";
     };
-    date = "2025-08-18";
+    date = "2025-08-24";
   };
   tokenstream = {
     pname = "tokenstream";
