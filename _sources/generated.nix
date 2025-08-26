@@ -43,28 +43,28 @@
   };
   fireshare = {
     pname = "fireshare";
-    version = "v1.2.27";
+    version = "v1.2.28";
     src = fetchgit {
       url = "https://github.com/ShaneIsrael/fireshare.git";
-      rev = "v1.2.27";
+      rev = "v1.2.28";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-+4IR/lsfiyrY0wwsp8/yu2DpawS9pkbqUyIwE6AP39o=";
+      sha256 = "sha256-Ag1mU9d4SsptDica/Jsk8mXXW9DID7XaicOKaep2VjM=";
     };
   };
   flaresolverr = {
     pname = "flaresolverr";
-    version = "v3.3.25";
+    version = "v3.4.0";
     src = fetchgit {
       url = "https://github.com/FlareSolverr/FlareSolverr.git";
-      rev = "v3.3.25";
+      rev = "v3.4.0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-AGRqJOIIePaJH0j0eyMFJ6Kddul3yXF6uw6dPMnskmY=";
+      sha256 = "sha256-iPhPwtidIeWzKeqs/efCFa8vs4uJaNNHlpdw9mVtwHw=";
     };
   };
   jmc = {
@@ -224,39 +224,39 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.4-dev.30";
+    version = "5.0.4-dev.31";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.30.tar.gz";
-      sha256 = "sha256-iik4dVpozPFE4unOm07liS7sfOH5+ITHVQRVtMjy5P4=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.31.tar.gz";
+      sha256 = "sha256-Et2J0VLGHhf1xEC1fANMEvlLwcuv0/9oM/brNO4M9Fk=";
     };
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "970fdb79f760297002f12116ad5dd39d5b8eac2c";
+    version = "442116148375c1ff54ca31e087ec7e19846504b1";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "970fdb79f760297002f12116ad5dd39d5b8eac2c";
+      rev = "442116148375c1ff54ca31e087ec7e19846504b1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-MSntL9lFFKn1nMSy06KCi49HD2POSRFpqwuATD54+Pk=";
+      sha256 = "sha256-FpgXqqxGeqazhx+7Izoe1liMWqsOwqrkm25X2byTZfw=";
     };
-    date = "2025-08-24";
+    date = "2025-08-25";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "46e2ef125a6b5c02a5fed314e99aaebee73b5633";
+    version = "04ad0033d7d5fdb63a05c72ca00f709f65d26e8e";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "46e2ef125a6b5c02a5fed314e99aaebee73b5633";
+      rev = "04ad0033d7d5fdb63a05c72ca00f709f65d26e8e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-io5IozNNogCseh5D7ZSl3XwEY4dGFdkMg50c9mgPEy4=";
+      sha256 = "sha256-Tc4W10n3RgRrjlRDg1cH0hAzy7Me98igGv66Ovyr4mE=";
     };
-    date = "2025-08-24";
+    date = "2025-08-25";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
