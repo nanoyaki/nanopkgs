@@ -82,11 +82,11 @@
   };
   lidarr = {
     pname = "lidarr";
-    version = "2.13.2.4685";
+    version = "2.14.0.4694";
     src = fetchurl {
-      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.13.2.4685&os=linux&runtime=netcore&arch=x64";
-      name = "lidarr-src-2.13.2.4685.tar.gz";
-      sha256 = "sha256-VzTypCJ0VE40cWj3gLAj7Z0qO/bbvc/stAUrjgY8l3o=";
+      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.0.4694&os=linux&runtime=netcore&arch=x64";
+      name = "lidarr-src-2.14.0.4694.tar.gz";
+      sha256 = "sha256-/xeIG72UxuZmbw/V4StZ8bpeCvFEVU0bIiMnMH1pjdc=";
     };
   };
   luarenamer = {
@@ -216,10 +216,10 @@
   };
   shoko-webui = {
     pname = "shoko-webui";
-    version = "2.3.0-dev.7";
+    version = "2.3.0-dev.8";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.7.tar.gz";
-      sha256 = "sha256-j6Q+YjhQEgAuNW0FxIM2k7OAFsZLI0UtKD9wqq2eZbc=";
+      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.8.tar.gz";
+      sha256 = "sha256-1rpLc1oIleUk8IiC5I5q3FdU6SxILfhleWid5g13qUg=";
     };
   };
   shokofin = {
@@ -260,17 +260,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "0f8c6496f89f8a1a912757ea7a483254577e4c82";
+    version = "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "0f8c6496f89f8a1a912757ea7a483254577e4c82";
+      rev = "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-/6IymUnJN5hYTc53GHs07FhkAcjAjHJgG57LaeeAIZA=";
+      sha256 = "sha256-8FCnRclt67r5c+QKOpWLUxfArwM3+aQ0m/E8XZWLCRI=";
     };
-    date = "2025-08-24";
+    date = "2025-08-27";
   };
   tokenstream = {
     pname = "tokenstream";
