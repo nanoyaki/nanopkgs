@@ -127,12 +127,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "lidarr-src-2.13.2.4685.tar.gz",
-            "sha256": "sha256-VzTypCJ0VE40cWj3gLAj7Z0qO/bbvc/stAUrjgY8l3o=",
+            "name": "lidarr-src-2.14.0.4694.tar.gz",
+            "sha256": "sha256-/xeIG72UxuZmbw/V4StZ8bpeCvFEVU0bIiMnMH1pjdc=",
             "type": "url",
-            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.13.2.4685&os=linux&runtime=netcore&arch=x64"
+            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.0.4694&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "2.13.2.4685"
+        "version": "2.14.0.4694"
     },
     "luarenamer": {
         "cargoLocks": null,
@@ -331,11 +331,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-j6Q+YjhQEgAuNW0FxIM2k7OAFsZLI0UtKD9wqq2eZbc=",
+            "sha256": "sha256-1rpLc1oIleUk8IiC5I5q3FdU6SxILfhleWid5g13qUg=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.7.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.8.tar.gz"
         },
-        "version": "2.3.0-dev.7"
+        "version": "2.3.0-dev.8"
     },
     "shokofin": {
         "cargoLocks": null,
@@ -393,7 +393,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-08-24",
+        "date": "2025-08-27",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -403,13 +403,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0f8c6496f89f8a1a912757ea7a483254577e4c82",
-            "sha256": "sha256-/6IymUnJN5hYTc53GHs07FhkAcjAjHJgG57LaeeAIZA=",
+            "rev": "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f",
+            "sha256": "sha256-8FCnRclt67r5c+QKOpWLUxfArwM3+aQ0m/E8XZWLCRI=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "0f8c6496f89f8a1a912757ea7a483254577e4c82"
+        "version": "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f"
     },
     "tokenstream": {
         "cargoLocks": null,
