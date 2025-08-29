@@ -3,8 +3,11 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
+  buildPythonPackage,
+  poetry-core,
+
   beetsPackages,
-  python3Packages,
+  watchdog,
 
   _sources,
 }:
@@ -13,7 +16,7 @@ let
   inherit (beetsPackages) beets-minimal;
 in
 
-python3Packages.buildPythonPackage {
+buildPythonPackage {
   inherit (_sources.drop2beets) pname version src;
   pyproject = true;
 
@@ -23,9 +26,9 @@ python3Packages.buildPythonPackage {
 
   nativeBuildInputs = [
     beets-minimal
-    python3Packages.poetry-core
+    poetry-core
   ];
-  dependencies = [ python3Packages.watchdog ];
+  dependencies = [ watchdog ];
 
   meta = {
     description = "Beets plug-in that imports singles as soon as they are dropped in a folder.";

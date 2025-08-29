@@ -3,21 +3,26 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
-  python3Packages,
+  buildPythonPackage,
+  setuptools,
+
+  nuitka,
+  zstandard,
+  ordered-set,
 
   _sources,
 }:
 
-python3Packages.buildPythonPackage {
+buildPythonPackage {
   inherit (_sources.jmc) pname src;
   version = lib.removePrefix "v" _sources.jmc.version;
   pyproject = true;
 
   sourceRoot = "${_sources.jmc.src.name}/src";
 
-  build-system = with python3Packages; [ setuptools ];
+  build-system = [ setuptools ];
 
-  dependencies = with python3Packages; [
+  dependencies = [
     nuitka
     zstandard
     ordered-set

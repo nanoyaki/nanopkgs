@@ -3,16 +3,19 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
-  python3Packages,
+  buildPythonPackage,
+
+  fissix,
+  flit-core,
 
   _sources,
 }:
 
-python3Packages.buildPythonPackage {
+buildPythonPackage {
   inherit (_sources.python-modernize) pname version src;
   pyproject = true;
 
-  dependencies = with python3Packages; [
+  dependencies = [
     fissix
     flit-core
   ];

@@ -18,6 +18,8 @@
         optionalString
         stringLength
         substring
+        filterAttrs
+        isDerivation
         ;
     in
 
@@ -32,16 +34,16 @@
                   map (
                     package:
                     let
-                      version = optionalString (self'.packages.${package} ? version) (
+                      version = optionalString (self'.legacyPackages.${package} ? version) (
                         let
-                          inherit (self'.packages.${package}) version;
+                          inherit (self'.legacyPackages.${package}) version;
                           shortened = if (stringLength version) == 40 then substring 0 7 version else version;
                         in
                         " -> `${shortened}`"
                       );
                     in
                     "- `${package}`${version}\n"
-                  ) (attrNames self'.packages)
+                  ) (attrNames (filterAttrs (_: isDerivation) self'.legacyPackages))
                 )
               );
             };

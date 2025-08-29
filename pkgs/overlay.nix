@@ -66,6 +66,7 @@ in
       })
 
       (import "${nixpkgs}/pkgs/top-level/by-name-overlay.nix" ./by-name)
+      (import ./pythonPackagesExtensions)
     ]
     ++ overrides
   );

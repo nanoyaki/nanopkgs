@@ -3,22 +3,26 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
-  python3Packages,
+  buildPythonPackage,
+  poetry-core,
+
+  beet,
+  tokenstream,
 
   _sources,
 }:
 
-python3Packages.buildPythonPackage {
+buildPythonPackage {
   inherit (_sources.mecha) pname src;
   version = lib.removePrefix "v" _sources.mecha.version;
   pyproject = true;
 
-  dependencies = with python3Packages; [
+  dependencies = [
     beet
     tokenstream
   ];
 
-  build-system = [ python3Packages.poetry-core ];
+  build-system = [ poetry-core ];
 
   meta = {
     license = lib.licenses.mit;

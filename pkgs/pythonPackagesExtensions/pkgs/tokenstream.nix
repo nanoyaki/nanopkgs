@@ -3,19 +3,21 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
-  python3Packages,
+  buildPythonPackage,
+  poetry-core,
+  pytestCheckHook,
 
   _sources,
 }:
 
-python3Packages.buildPythonPackage {
+buildPythonPackage {
   inherit (_sources.tokenstream) pname src;
   version = lib.removePrefix "v" _sources.tokenstream.version;
   pyproject = true;
 
-  build-system = [ python3Packages.poetry-core ];
+  build-system = [ poetry-core ];
 
-  nativeCheckInputs = [ python3Packages.pytestCheckHook ];
+  nativeCheckInputs = [ pytestCheckHook ];
 
   meta = {
     license = lib.licenses.mit;

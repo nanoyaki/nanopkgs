@@ -3,12 +3,24 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
-  python3Packages,
+  buildPythonPackage,
+  poetry-core,
+
+  nbtlib,
+  pathspec,
+  pydantic,
+  click,
+  click-help-colors,
+  jinja2,
+  toml,
+  pyyaml,
+  pillow,
+  typing-extensions,
 
   _sources,
 }:
 
-python3Packages.buildPythonPackage {
+buildPythonPackage {
   inherit (_sources.beet) pname src;
   version = lib.removePrefix "v" _sources.beet.version;
   pyproject = true;
@@ -24,7 +36,7 @@ python3Packages.buildPythonPackage {
       --replace-fail 'StructureFile.parse(fileobj).root' 'StructureFile.parse(fileobj)'
   '';
 
-  dependencies = with python3Packages; [
+  dependencies = [
     nbtlib
     pathspec
     pydantic
@@ -37,7 +49,7 @@ python3Packages.buildPythonPackage {
     typing-extensions
   ];
 
-  build-system = [ python3Packages.poetry-core ];
+  build-system = [ poetry-core ];
 
   meta = {
     license = lib.licenses.mit;
