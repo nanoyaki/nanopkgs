@@ -35,6 +35,10 @@ url.name = "lidarr-src-$ver.tar.gz"
 fetch.git = "https://github.com/Mik1ll/LuaRenamer.git"
 src.github_tag = "Mik1ll/LuaRenamer"
 
+[mc-modpack-downloader]
+fetch.git = "https://github.com/newo-2001/MC-Modpack-Downloader.git"
+src.git = "https://github.com/newo-2001/MC-Modpack-Downloader.git"
+
 [mecha]
 fetch.git = "https://github.com/mcbeet/mecha.git"
 src.github_tag = "mcbeet/mecha"

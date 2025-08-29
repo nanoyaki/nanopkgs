@@ -18,6 +18,10 @@ prefix = "v"
 source = "cmd"
 cmd = "nix run .#update-dotnet -- luarenamer pkgs/by-name/lu 2> /dev/null"
 
+["mc-modpack-downloader.npmDepsHash"]
+source = "cmd"
+cmd = "nix run .#prefetch-npm -- mc-modpack-downloader 2> /dev/null"
+
 ["prowlarr._yarnHash"]
 source = "cmd"
 cmd = "nix run .#prefetch-yarn -- prowlarr 2> /dev/null"

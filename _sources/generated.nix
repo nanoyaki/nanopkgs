@@ -102,6 +102,20 @@
       sha256 = "sha256-aFhgPmacMyfOChCKQr3CUtbjvPP7II816DWYk3Uk6NE=";
     };
   };
+  mc-modpack-downloader = {
+    pname = "mc-modpack-downloader";
+    version = "81c580e887a079ba62be12a7adf58b5ef4809f4a";
+    src = fetchgit {
+      url = "https://github.com/newo-2001/MC-Modpack-Downloader.git";
+      rev = "81c580e887a079ba62be12a7adf58b5ef4809f4a";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-hU7/cSfMc7kcmgPELJFUrY3t9IVQ/bL0mSzt2fwA2Pg=";
+    };
+    date = "2025-03-28";
+  };
   mecha = {
     pname = "mecha";
     version = "v0.99.0";

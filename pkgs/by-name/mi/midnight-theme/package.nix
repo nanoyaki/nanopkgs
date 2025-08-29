@@ -24,5 +24,6 @@ stdenvNoCC.mkDerivation {
     description = "Dark, customizable discord theme";
     homepage = "https://github.com/refact0r/midnight-discord";
     license = lib.licenses.mit;
+    platforms = lib.platforms.all;
   };
 }

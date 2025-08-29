@@ -154,6 +154,26 @@
         },
         "version": "v5.9.0"
     },
+    "mc-modpack-downloader": {
+        "cargoLocks": null,
+        "date": "2025-03-28",
+        "extract": null,
+        "name": "mc-modpack-downloader",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "81c580e887a079ba62be12a7adf58b5ef4809f4a",
+            "sha256": "sha256-hU7/cSfMc7kcmgPELJFUrY3t9IVQ/bL0mSzt2fwA2Pg=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/newo-2001/MC-Modpack-Downloader.git"
+        },
+        "version": "81c580e887a079ba62be12a7adf58b5ef4809f4a"
+    },
     "mecha": {
         "cargoLocks": null,
         "date": null,

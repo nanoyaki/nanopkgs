@@ -18,6 +18,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `jmc` -> `1.2.19-alpha.1`
 - `lidarr` -> `2.14.0.4694`
 - `luarenamer` -> `5.9.0`
+- `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `9287e82`
 - `nvchecker` -> `2.18`

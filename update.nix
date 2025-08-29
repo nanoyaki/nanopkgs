@@ -236,6 +236,29 @@
         '';
       };
 
+      apps.prefetch-npm = {
+        type = "app";
+        program = pkgs.writeShellApplication {
+          name = "prefetch-npm";
+          runtimeInputs = with pkgs; [
+            prefetch-npm-deps
+            nix
+          ];
+          text = ''
+            package="$1"
+
+            nix build .\#"$package.src" &> /dev/null || :
+            hash="$(prefetch-npm-deps "$(nix eval --raw .\#"$package.src.outPath")/package-lock.json")"
+            nix hash convert --hash-algo sha256 --to sri "$hash"
+          '';
+          inheritPath = false;
+        };
+
+        meta.description = ''
+          Generate sri-hash for npm deps of package
+        '';
+      };
+
       apps.mod-source = {
         type = "app";
         program = pkgs.writeShellApplication {
