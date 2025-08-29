@@ -43,15 +43,15 @@
   };
   fireshare = {
     pname = "fireshare";
-    version = "v1.2.28";
+    version = "v1.2.30";
     src = fetchgit {
       url = "https://github.com/ShaneIsrael/fireshare.git";
-      rev = "v1.2.28";
+      rev = "v1.2.30";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Ag1mU9d4SsptDica/Jsk8mXXW9DID7XaicOKaep2VjM=";
+      sha256 = "sha256-5ox3I4qPldfGpgf3G/uOunK05l11xAmKoW6Qk0fdSrA=";
     };
   };
   flaresolverr = {
@@ -260,17 +260,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f";
+    version = "a57281cda2741d934712c31099881c84af68b6a9";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f";
+      rev = "a57281cda2741d934712c31099881c84af68b6a9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-8FCnRclt67r5c+QKOpWLUxfArwM3+aQ0m/E8XZWLCRI=";
+      sha256 = "sha256-m2aJ9J1cEiR7DWQSR1PVXuCv4VXJN1Ui3lEzRxUcwUI=";
     };
-    date = "2025-08-27";
+    date = "2025-08-28";
   };
   tokenstream = {
     pname = "tokenstream";
