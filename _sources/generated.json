@@ -71,13 +71,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v1.2.28",
-            "sha256": "sha256-Ag1mU9d4SsptDica/Jsk8mXXW9DID7XaicOKaep2VjM=",
+            "rev": "v1.2.30",
+            "sha256": "sha256-5ox3I4qPldfGpgf3G/uOunK05l11xAmKoW6Qk0fdSrA=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/ShaneIsrael/fireshare.git"
         },
-        "version": "v1.2.28"
+        "version": "v1.2.30"
     },
     "flaresolverr": {
         "cargoLocks": null,
@@ -393,7 +393,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-08-27",
+        "date": "2025-08-28",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -403,13 +403,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f",
-            "sha256": "sha256-8FCnRclt67r5c+QKOpWLUxfArwM3+aQ0m/E8XZWLCRI=",
+            "rev": "a57281cda2741d934712c31099881c84af68b6a9",
+            "sha256": "sha256-m2aJ9J1cEiR7DWQSR1PVXuCv4VXJN1Ui3lEzRxUcwUI=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "aacf1903a187a215e6d0bfb8bb2a2d2a8942990f"
+        "version": "a57281cda2741d934712c31099881c84af68b6a9"
     },
     "tokenstream": {
         "cargoLocks": null,

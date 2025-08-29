@@ -12,7 +12,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 
 - `beet` -> `0.111.0`
 - `drop2beets` -> `6bda199`
-- `fireshare` -> `1.2.28`
+- `fireshare` -> `1.2.30`
 - `flaresolverr` -> `3.4.0`
 - `jellyfin-web-with-plugins`
 - `jmc` -> `1.2.19-alpha.1`
@@ -34,6 +34,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shokofin` -> `5.0.4-dev.31`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1903`
-- `suwayomi-webui` -> `aacf190`
+- `suwayomi-webui` -> `a57281c`
 - `whisparr` -> `3.0.0.1247`
 - `writeSystemdToggle`
