@@ -2,8 +2,9 @@
 #
 # SPDX-License-Identifier: MIT
 final: prev: {
-  python3 = prev.python3.override {
-    packageOverrides =
+  pythonPackagesExtensions =
+    prev.pythonPackagesExtensions
+    ++ (
       let
         inherit (final.lib)
           mapAttrs'
@@ -32,7 +33,9 @@ final: prev: {
           pkgs
         ]
         ++ overrides
-      );
-  };
-  inherit (final.python3.pkgs) nvchecker python-modernize;
+      )
+    );
+
+  nvchecker = final.python3Packages.toPythonApplication final.python3Packages.nvchecker;
+  python-modernize = final.python3Packages.toPythonApplication final.python3Packages.python-modernize;
 }

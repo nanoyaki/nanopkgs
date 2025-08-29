@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT
 {
-  python3,
+  python3Packages,
 }:
 
-python3.pkgs.toPythonApplication python3.pkgs.beet
+python3Packages.toPythonApplication python3Packages.beet

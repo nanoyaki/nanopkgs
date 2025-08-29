@@ -3,7 +3,6 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
-  python3,
   python3Packages,
 
   _sources,
@@ -25,7 +24,7 @@ python3Packages.buildPythonPackage {
       --replace-fail 'StructureFile.parse(fileobj).root' 'StructureFile.parse(fileobj)'
   '';
 
-  dependencies = with python3.pkgs; [
+  dependencies = with python3Packages; [
     nbtlib
     pathspec
     pydantic
