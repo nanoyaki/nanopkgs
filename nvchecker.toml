@@ -8,6 +8,13 @@ newver = "_versions/new_versions.json"
 keyfile = "./keys.toml"
 max_concurrency = 3
 
+["ftb-server-installer.vendorHash"]
+source = "cmd"
+cmd = '''
+    (nix build .#ftb-server-installer --no-link |& grep -oP "got\:.*\Ksha256.*") \
+        || jq -r '.data."ftb-server-installer.vendorHash".version' _versions/new_versions.json
+'''
+
 ["inPlayerEpisodePreview.version"]
 source = "github"
 github = "Namo2/InPlayerEpisodePreview"

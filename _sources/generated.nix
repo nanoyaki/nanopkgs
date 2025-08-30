@@ -67,6 +67,19 @@
       sha256 = "sha256-iPhPwtidIeWzKeqs/efCFa8vs4uJaNNHlpdw9mVtwHw=";
     };
   };
+  ftb-server-installer = {
+    pname = "ftb-server-installer";
+    version = "v1.0.27";
+    src = fetchgit {
+      url = "https://github.com/FTBTeam/FTB-Server-Installer.git";
+      rev = "v1.0.27";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-0snWGrHbK451xFHbd/MGOemBOyPHCJoa47JD/YbLvPE=";
+    };
+  };
   jmc = {
     pname = "jmc";
     version = "v1.2.19-alpha.1";
