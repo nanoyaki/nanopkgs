@@ -95,11 +95,11 @@
   };
   lidarr = {
     pname = "lidarr";
-    version = "2.14.0.4694";
+    version = "2.14.1.4714";
     src = fetchurl {
-      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.0.4694&os=linux&runtime=netcore&arch=x64";
-      name = "lidarr-src-2.14.0.4694.tar.gz";
-      sha256 = "sha256-/xeIG72UxuZmbw/V4StZ8bpeCvFEVU0bIiMnMH1pjdc=";
+      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.1.4714&os=linux&runtime=netcore&arch=x64";
+      name = "lidarr-src-2.14.1.4714.tar.gz";
+      sha256 = "sha256-uOvgkmz3sCyibHfYyjpAMVgQJ+9jJuTLi8e2kPdrvVA=";
     };
   };
   luarenamer = {
@@ -259,17 +259,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "b230bc1838b621dc8a8a2aded1a344d6b3970544";
+    version = "e4fd4516466f83be4dabc134c9acfc701cde8006";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "b230bc1838b621dc8a8a2aded1a344d6b3970544";
+      rev = "e4fd4516466f83be4dabc134c9acfc701cde8006";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-dBgZlx1lS6l/bigPaTpu9rHGNmKWDTfXGg1S71kIWZw=";
+      sha256 = "sha256-rcka+vx/wbOxCQapwa2VdVm+QVvw+oh8zr7bcewEbV0=";
     };
-    date = "2025-08-28";
+    date = "2025-08-31";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
