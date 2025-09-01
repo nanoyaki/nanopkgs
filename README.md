@@ -17,7 +17,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `ftb-server-installer` -> `1.0.27`
 - `jellyfin-web-with-plugins`
 - `jmc` -> `1.2.19-alpha.1`
-- `lidarr` -> `2.14.0.4694`
+- `lidarr` -> `2.14.1.4714`
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
