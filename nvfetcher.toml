@@ -59,7 +59,7 @@ src.git = "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
 [osu-lazer-bin]
 fetch.url = "https://github.com/ppy/osu/releases/download/$ver/osu.AppImage"
 src.github_tag = "ppy/osu"
-src.include_regex = "202\\d\\.\\d{1,4}\\.\\d"
+src.include_regex = "202\\d\\.\\d{1,4}\\.\\d-tachyon"
 
 [prowlarr]
 fetch.git = "https://github.com/Prowlarr/Prowlarr.git"

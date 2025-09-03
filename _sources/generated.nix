@@ -172,10 +172,10 @@
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
-    version = "2025.607.1";
+    version = "2025.903.0-tachyon";
     src = fetchurl {
-      url = "https://github.com/ppy/osu/releases/download/2025.607.1/osu.AppImage";
-      sha256 = "sha256-xLniL2fogWFAaEADvX2YL7lRGHGew7kc3Ni1fhPzs1c=";
+      url = "https://github.com/ppy/osu/releases/download/2025.903.0-tachyon/osu.AppImage";
+      sha256 = "sha256-DiqEFvoqvZQWpJxVbz6ZZHO6m6fBOaluAQuKptOR/+4=";
     };
   };
   prowlarr = {
