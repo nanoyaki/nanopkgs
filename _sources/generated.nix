@@ -235,10 +235,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.124";
+    version = "5.1.0-dev.125";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.124.tar.gz";
-      sha256 = "sha256-bakt2eCd1GgjAmY8vzKeHOkOfh+9jodwoBmloQ0DkvY=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.125.tar.gz";
+      sha256 = "sha256-nOu88JpON0vZINBiFux4hqPoSB+/w4dTBo91YtFeBgE=";
     };
   };
   shoko-webui = {
@@ -259,45 +259,45 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "e4fd4516466f83be4dabc134c9acfc701cde8006";
+    version = "e6495b3fae6ad655ba7345b52a4db79ea0567ea7";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "e4fd4516466f83be4dabc134c9acfc701cde8006";
+      rev = "e6495b3fae6ad655ba7345b52a4db79ea0567ea7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-rcka+vx/wbOxCQapwa2VdVm+QVvw+oh8zr7bcewEbV0=";
+      sha256 = "sha256-QIKoKpw9cIFSsLKS0OwZl2ColVm2pPfgxYHIoXaAdCU=";
     };
-    date = "2025-08-31";
+    date = "2025-09-02";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "4cdc7b348d40caa60cea284f97682c4a25636af1";
+    version = "5bf2a4aed4f99b637020a343d9e8b688a2d1c6cd";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "4cdc7b348d40caa60cea284f97682c4a25636af1";
+      rev = "5bf2a4aed4f99b637020a343d9e8b688a2d1c6cd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-OypKFaNIDOqBeOpH2k1ywslzCO7s6qrC1SLo8CVB7LY=";
+      sha256 = "sha256-2kCR7SewixmqhZc5Grb7kXR3J9PEyXGaOsps9M0YI4s=";
     };
-    date = "2025-09-01";
+    date = "2025-09-02";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "a57281cda2741d934712c31099881c84af68b6a9";
+    version = "c8dc7a303c5eeb176401b139c888534d461113b9";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "a57281cda2741d934712c31099881c84af68b6a9";
+      rev = "c8dc7a303c5eeb176401b139c888534d461113b9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-m2aJ9J1cEiR7DWQSR1PVXuCv4VXJN1Ui3lEzRxUcwUI=";
+      sha256 = "sha256-M1UvQVvEyKI3znJe98I18VfXS9qDd/CRGYD4mbiKoU4=";
     };
-    date = "2025-08-28";
+    date = "2025-09-03";
   };
   tokenstream = {
     pname = "tokenstream";
