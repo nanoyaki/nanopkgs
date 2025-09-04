@@ -24,7 +24,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `midnight-theme` -> `9287e82`
 - `nvchecker` -> `2.18`
 - `openrgb` -> `f76dbb0`
-- `osu-lazer-bin` -> `2025.607.1`
+- `osu-lazer-bin` -> `2025.903.0-tachyon`
 - `prefetch`
 - `prowlarr` -> `2.0.5.5160`
 - `pyon` -> `06a076e`
