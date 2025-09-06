@@ -263,11 +263,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DiqEFvoqvZQWpJxVbz6ZZHO6m6fBOaluAQuKptOR/+4=",
+            "sha256": "sha256-ApMGaKwHZ4I+1LFKzkF4kls9dRCLjYKBiJr82rBSYnU=",
             "type": "url",
-            "url": "https://github.com/ppy/osu/releases/download/2025.903.0-tachyon/osu.AppImage"
+            "url": "https://github.com/ppy/osu/releases/download/2025.905.0-tachyon/osu.AppImage"
         },
-        "version": "2025.903.0-tachyon"
+        "version": "2025.905.0-tachyon"
     },
     "prowlarr": {
         "cargoLocks": null,
@@ -393,7 +393,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-09-04",
+        "date": "2025-09-05",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -403,13 +403,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "667fd9a2f456dbf905ae99a83398a01de450547a",
-            "sha256": "sha256-aIJHfCUFWmS5YK8Bl15ns91VmsRrstBZ2Rnl5RwzH0Y=",
+            "rev": "d13789da53de8bae941e2063fe33fc7049adf658",
+            "sha256": "sha256-/CIkHd+mF+sZuzD/k419/hzoOlgzIo+XSHkecsbylVc=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "667fd9a2f456dbf905ae99a83398a01de450547a"
+        "version": "d13789da53de8bae941e2063fe33fc7049adf658"
     },
     "suwayomi-server": {
         "cargoLocks": null,
