@@ -172,10 +172,10 @@
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
-    version = "2025.903.0-tachyon";
+    version = "2025.905.0-tachyon";
     src = fetchurl {
-      url = "https://github.com/ppy/osu/releases/download/2025.903.0-tachyon/osu.AppImage";
-      sha256 = "sha256-DiqEFvoqvZQWpJxVbz6ZZHO6m6fBOaluAQuKptOR/+4=";
+      url = "https://github.com/ppy/osu/releases/download/2025.905.0-tachyon/osu.AppImage";
+      sha256 = "sha256-ApMGaKwHZ4I+1LFKzkF4kls9dRCLjYKBiJr82rBSYnU=";
     };
   };
   prowlarr = {
@@ -259,17 +259,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "667fd9a2f456dbf905ae99a83398a01de450547a";
+    version = "d13789da53de8bae941e2063fe33fc7049adf658";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "667fd9a2f456dbf905ae99a83398a01de450547a";
+      rev = "d13789da53de8bae941e2063fe33fc7049adf658";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-aIJHfCUFWmS5YK8Bl15ns91VmsRrstBZ2Rnl5RwzH0Y=";
+      sha256 = "sha256-/CIkHd+mF+sZuzD/k419/hzoOlgzIo+XSHkecsbylVc=";
     };
-    date = "2025-09-04";
+    date = "2025-09-05";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
