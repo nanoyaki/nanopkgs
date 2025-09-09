@@ -1,66 +1,4 @@
 {
-  "neoforge": {
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/y9gw5aqb/netherportalfix-neoforge-1.21.8-21.8.1.jar",
-      "sha512": "574484982244e61ae4c14dbb6dc3c35f282958663c3e4d1b636fbf63f4401ad1883179edffc7132a85a8d7a49ab4b5b7b93d5feda94e4c8407abb29277410de1",
-      "name": "netherportalfix-neoforge-1.21.8-21.8.1.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/bP4Fugia/netherportalfix-neoforge-1.21.7-21.7.1.jar",
-      "sha512": "e1297497f8067c59f091e2efef50cd5822ba097078e4395b804d1672a2b8d4499914c23a1c3dd93659e8330902d46afa5cf0f3a3db7286937a9a81985413a1c3",
-      "name": "netherportalfix-neoforge-1.21.7-21.7.1.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/DaSh0inF/netherportalfix-neoforge-1.21.6-21.6.1.jar",
-      "sha512": "218965938af841d95e92f529dc82b452665d0c83bbe31826fc74cd6c8b43fefd1cc542e25dbb210222ff156c59719aa66718040bd320d59ab160695185e109f8",
-      "name": "netherportalfix-neoforge-1.21.6-21.6.1.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Hg8R1sPY/netherportalfix-neoforge-1.21.5-21.5.1.jar",
-      "sha512": "a6434261ef36a240bc6fd71af43f6d9d5c522fd6a39167892ec05723c365c11630d8236d34bbde7ba0c5100f6dd8417953c1fa80632868aca16237ff5a709a3c",
-      "name": "netherportalfix-neoforge-1.21.5-21.5.1.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Vs09Rou7/netherportalfix-neoforge-1.21.4-21.4.1.jar",
-      "sha512": "cd6d3433470a62b1eab0dae20546fab0bce1627d178906d36839b1530020e0fbfaebec34061320fcb0283598f382076d2604dee6233a79e571fef3d6468925d6",
-      "name": "netherportalfix-neoforge-1.21.4-21.4.1.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/TBPNXUfZ/netherportalfix-neoforge-1.21.3-21.3.1.jar",
-      "sha512": "6c5e072d9358e336068901121d692eb0c9c8f4734c2480b244d269c6b60b9581fa3fdeea1bc46afb9f5c70ced3edbedbe8066c08bd4d4c38f35a777c05e0ba36",
-      "name": "netherportalfix-neoforge-1.21.3-21.3.1.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/TBPNXUfZ/netherportalfix-neoforge-1.21.3-21.3.1.jar",
-      "sha512": "6c5e072d9358e336068901121d692eb0c9c8f4734c2480b244d269c6b60b9581fa3fdeea1bc46afb9f5c70ced3edbedbe8066c08bd4d4c38f35a777c05e0ba36",
-      "name": "netherportalfix-neoforge-1.21.3-21.3.1.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar",
-      "sha512": "be26c53b4e7aa9dc27b05fe4cafdd120a3d1356410b35d25381d473bd9a7aa19ce6cec1bb982fda842f2a663d15dec5d12248b50141f9479a5e9ec33ed2ab3f7",
-      "name": "netherportalfix-neoforge-1.21.1-21.1.1.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/zvvmCZw9/netherportalfix-neoforge-1.21-21.0.1.jar",
-      "sha512": "4b4d52f45f7e4e8d19aa9a19cc8f9deba112ac29b79c40186171013589c7d02b5eeb68ac37ae3fca7ac3c55f8b1997e384b912b2c4763b2e3a673f6a7420eb12",
-      "name": "netherportalfix-neoforge-1.21-21.0.1.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/jOJINp9l/netherportalfix-neoforge-1.20.6-16.0.1.jar",
-      "sha512": "c3c3651aef69172ffe5cf4b6d0ca321a3f093d65e446cff56b9688d7deca421ceaef5f696c3ccad1c79a35b1065f7763244bb74577786c7a1d459b8fe60b8c2f",
-      "name": "netherportalfix-neoforge-1.20.6-16.0.1.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/6tDPIRKi/netherportalfix-neoforge-1.20.4-15.0.1.jar",
-      "sha512": "06012be090df7cb52ea257943529b70000384d8b53ff56b78c6a154c8f754ac0a5f14204981f2624ed384672a2a4747f0c2fa210703c191182fee146ec630a01",
-      "name": "netherportalfix-neoforge-1.20.4-15.0.1.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/sdRhw16z/netherportalfix-neoforge-1.20.2-14.0.2.jar",
-      "sha512": "d0675cade2302090dfdf300bb8f37f9ed8d1c37a335ec88245fed0a46dff968007786208d0d9d4a58bd9e5bf1e49d88c480eaad9b152795a0edef1070272a33a",
-      "name": "netherportalfix-neoforge-1.20.2-14.0.2.jar"
-    }
-  },
   "forge": {
     "1.21.8": {
       "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/BLLOvIyw/netherportalfix-forge-1.21.8-21.8.1.jar",
@@ -161,6 +99,73 @@
       "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/ermlUjF9/netherportalfix-forge-1.18-9.0.0.jar",
       "sha512": "b05c85965c983653701a4210814bf07e7c19b51268204e9207b67d4e547f1bdd0fc74a4d85038a83a7e18ba05bb5247d0e8defe3974618db2dcccdf073d6afcd",
       "name": "netherportalfix-forge-1.18-9.0.0.jar"
+    },
+    "1.12.2": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/BrV6KDNp/NetherPortalFix_1.12.1-5.3.17.jar",
+      "sha512": "ac7ff9a12dae40854468766c6e86b0bf4e9014141c35b477b8c83fec5c36a40aa38a776705924d67e5d8b1cf2ea22b51ba57ca8f6a1208b1c1f44adafc707d94",
+      "name": "NetherPortalFix_1.12.1-5.3.17.jar"
+    }
+  },
+  "neoforge": {
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/y9gw5aqb/netherportalfix-neoforge-1.21.8-21.8.1.jar",
+      "sha512": "574484982244e61ae4c14dbb6dc3c35f282958663c3e4d1b636fbf63f4401ad1883179edffc7132a85a8d7a49ab4b5b7b93d5feda94e4c8407abb29277410de1",
+      "name": "netherportalfix-neoforge-1.21.8-21.8.1.jar"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/bP4Fugia/netherportalfix-neoforge-1.21.7-21.7.1.jar",
+      "sha512": "e1297497f8067c59f091e2efef50cd5822ba097078e4395b804d1672a2b8d4499914c23a1c3dd93659e8330902d46afa5cf0f3a3db7286937a9a81985413a1c3",
+      "name": "netherportalfix-neoforge-1.21.7-21.7.1.jar"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/DaSh0inF/netherportalfix-neoforge-1.21.6-21.6.1.jar",
+      "sha512": "218965938af841d95e92f529dc82b452665d0c83bbe31826fc74cd6c8b43fefd1cc542e25dbb210222ff156c59719aa66718040bd320d59ab160695185e109f8",
+      "name": "netherportalfix-neoforge-1.21.6-21.6.1.jar"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Hg8R1sPY/netherportalfix-neoforge-1.21.5-21.5.1.jar",
+      "sha512": "a6434261ef36a240bc6fd71af43f6d9d5c522fd6a39167892ec05723c365c11630d8236d34bbde7ba0c5100f6dd8417953c1fa80632868aca16237ff5a709a3c",
+      "name": "netherportalfix-neoforge-1.21.5-21.5.1.jar"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/Vs09Rou7/netherportalfix-neoforge-1.21.4-21.4.1.jar",
+      "sha512": "cd6d3433470a62b1eab0dae20546fab0bce1627d178906d36839b1530020e0fbfaebec34061320fcb0283598f382076d2604dee6233a79e571fef3d6468925d6",
+      "name": "netherportalfix-neoforge-1.21.4-21.4.1.jar"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/TBPNXUfZ/netherportalfix-neoforge-1.21.3-21.3.1.jar",
+      "sha512": "6c5e072d9358e336068901121d692eb0c9c8f4734c2480b244d269c6b60b9581fa3fdeea1bc46afb9f5c70ced3edbedbe8066c08bd4d4c38f35a777c05e0ba36",
+      "name": "netherportalfix-neoforge-1.21.3-21.3.1.jar"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/TBPNXUfZ/netherportalfix-neoforge-1.21.3-21.3.1.jar",
+      "sha512": "6c5e072d9358e336068901121d692eb0c9c8f4734c2480b244d269c6b60b9581fa3fdeea1bc46afb9f5c70ced3edbedbe8066c08bd4d4c38f35a777c05e0ba36",
+      "name": "netherportalfix-neoforge-1.21.3-21.3.1.jar"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "sha512": "be26c53b4e7aa9dc27b05fe4cafdd120a3d1356410b35d25381d473bd9a7aa19ce6cec1bb982fda842f2a663d15dec5d12248b50141f9479a5e9ec33ed2ab3f7",
+      "name": "netherportalfix-neoforge-1.21.1-21.1.1.jar"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/zvvmCZw9/netherportalfix-neoforge-1.21-21.0.1.jar",
+      "sha512": "4b4d52f45f7e4e8d19aa9a19cc8f9deba112ac29b79c40186171013589c7d02b5eeb68ac37ae3fca7ac3c55f8b1997e384b912b2c4763b2e3a673f6a7420eb12",
+      "name": "netherportalfix-neoforge-1.21-21.0.1.jar"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/jOJINp9l/netherportalfix-neoforge-1.20.6-16.0.1.jar",
+      "sha512": "c3c3651aef69172ffe5cf4b6d0ca321a3f093d65e446cff56b9688d7deca421ceaef5f696c3ccad1c79a35b1065f7763244bb74577786c7a1d459b8fe60b8c2f",
+      "name": "netherportalfix-neoforge-1.20.6-16.0.1.jar"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/6tDPIRKi/netherportalfix-neoforge-1.20.4-15.0.1.jar",
+      "sha512": "06012be090df7cb52ea257943529b70000384d8b53ff56b78c6a154c8f754ac0a5f14204981f2624ed384672a2a4747f0c2fa210703c191182fee146ec630a01",
+      "name": "netherportalfix-neoforge-1.20.4-15.0.1.jar"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/sdRhw16z/netherportalfix-neoforge-1.20.2-14.0.2.jar",
+      "sha512": "d0675cade2302090dfdf300bb8f37f9ed8d1c37a335ec88245fed0a46dff968007786208d0d9d4a58bd9e5bf1e49d88c480eaad9b152795a0edef1070272a33a",
+      "name": "netherportalfix-neoforge-1.20.2-14.0.2.jar"
     }
   },
   "fabric": {
