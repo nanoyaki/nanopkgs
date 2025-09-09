@@ -17,7 +17,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `ftb-server-installer` -> `1.0.27`
 - `jellyfin-web-with-plugins`
 - `jmc` -> `1.2.19-alpha.1`
-- `lidarr` -> `2.14.1.4714`
+- `lidarr` -> `2.14.1.4755`
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
@@ -26,7 +26,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `openrgb` -> `f76dbb0`
 - `osu-lazer-bin` -> `2025.905.0-tachyon`
 - `prefetch`
-- `prowlarr` -> `2.0.5.5160`
+- `prowlarr` -> `2.1.0.5180`
 - `pyon` -> `06a076e`
 - `python-modernize` -> `f06b20a`
 - `python3` -> `3.13.6`
@@ -36,6 +36,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shokofin` -> `5.0.4-dev.31`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1910`
-- `suwayomi-webui` -> `c8dc7a3`
+- `suwayomi-webui` -> `464edc0`
 - `whisparr` -> `3.0.0.1254`
 - `writeSystemdToggle`
