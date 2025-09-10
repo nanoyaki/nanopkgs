@@ -413,7 +413,7 @@
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-09-02",
+        "date": "2025-09-09",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -423,17 +423,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5bf2a4aed4f99b637020a343d9e8b688a2d1c6cd",
-            "sha256": "sha256-2kCR7SewixmqhZc5Grb7kXR3J9PEyXGaOsps9M0YI4s=",
+            "rev": "c1a9b158e23aee5fd5538ec4fd9c47f3180a2d1f",
+            "sha256": "sha256-8ffVM+0/wv3R38glJ8a45lOoe7j2nMqIqoeRkoenMIo=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "5bf2a4aed4f99b637020a343d9e8b688a2d1c6cd"
+        "version": "c1a9b158e23aee5fd5538ec4fd9c47f3180a2d1f"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-09-08",
+        "date": "2025-09-10",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -443,13 +443,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "464edc0f18e3a78392e881f052b98a71743b03a3",
-            "sha256": "sha256-lKGOPqqnhGMAJHcHRQzNaeSoBr6nR5t29mZkwMEEVI0=",
+            "rev": "98e1cb2eff4fc76d7ff1f8aa2bd37448267bfb21",
+            "sha256": "sha256-VxYo1fOevawOJcIixJSoreFroCWket75+5g1JfpC90U=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "464edc0f18e3a78392e881f052b98a71743b03a3"
+        "version": "98e1cb2eff4fc76d7ff1f8aa2bd37448267bfb21"
     },
     "tokenstream": {
         "cargoLocks": null,

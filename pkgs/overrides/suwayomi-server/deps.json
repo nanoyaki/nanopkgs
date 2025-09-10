@@ -16,9 +16,9 @@
       "jar": "sha256-zGNxTjlP+eWwE+h0QV85AHWWcoDJyO18q7s2GICX04g=",
       "pom": "sha256-lUiPM1kgTYjrchA/TgrS46DeFpqsH0rlOLn0mCwn+3M="
     },
-    "com/android/tools/build#apksig/8.12.2": {
+    "com/android/tools/build#apksig/8.13.0": {
       "jar": "sha256-wHDtE5RinXRkGqCQb2Cy/6Hud+Y2ah+TQ39ZcXsa64k=",
-      "pom": "sha256-Lx5y91ARJAzkBrGLESjlLuBSwUkiQ3bxIESpAfJHYJU="
+      "pom": "sha256-s5tsQWn8Qrt9OnTgRd6CA1Cfo3dpOzO351Th8Hx1mGk="
     }
   },
   "https://github.com": {
@@ -118,13 +118,13 @@
       "jar": "sha256-gSZpIKHNxHMGqKK0cmyZ7Imz+/McJHDk9eR32dhXyp8=",
       "pom": "sha256-+ZXFCx0gl18KjW8OUyK8jRPHiuPcGCcXdoQUlypmzIU="
     },
-    "com/github/gmazzo/buildconfig#com.github.gmazzo.buildconfig.gradle.plugin/5.6.7": {
-      "pom": "sha256-/8b5XuJ8DoyDwYumolYPRnPsnD0LmAnqv7zqzNV6Vx0="
+    "com/github/gmazzo/buildconfig#com.github.gmazzo.buildconfig.gradle.plugin/5.6.8": {
+      "pom": "sha256-6faBkOXUOYcoHAVTngsP8llY7TdZkVkeksXbQND+NSg="
     },
-    "com/github/gmazzo/buildconfig#plugin/5.6.7": {
-      "jar": "sha256-IEPYtPOSZkgpotpuLc7zfNPwNHC/B0JRWylVHnE+eE0=",
-      "module": "sha256-bO0olTjYkDa+OXnMZKBctBi27m2qukwQ+zEfB6q7Bzw=",
-      "pom": "sha256-2PlW4QUsoeOapPiMBsaJJU+7GbXZYqBBx2HLBd6+XFc="
+    "com/github/gmazzo/buildconfig#plugin/5.6.8": {
+      "jar": "sha256-EB0HC85keZRd/9OXKPVHn6WK5g77kUIx+zdDht0ItTk=",
+      "module": "sha256-y9Azxq6G5Ds9UBGNwT31nz4KOEG4pIbWuCDIoPJJQ+g=",
+      "pom": "sha256-3G9weBW4NL+ViNQlPKkzTdMCi6AauFD2UXE5f8H8gXg="
     },
     "com/google/code/gson#gson-parent/2.11.0": {
       "pom": "sha256-issfO3Km8CaRasBzW62aqwKT1Sftt7NlMn3vE6k2e3o="
@@ -1301,15 +1301,15 @@
       "module": "sha256-0w1VvLHRtgjT13QBNIipFT8J4KUZpZzqiT2JWzRBtNM=",
       "pom": "sha256-0rcanG8PxQPNnr5u5KjxEFcQI3CQOHxH0/Fnc7xSXfo="
     },
-    "io/insert-koin#koin-core-jvm/4.1.0": {
-      "jar": "sha256-jAYRWDJRXkAEm11rl4G2tO5cIQ8ifOxkJmMGJ0EKqEU=",
-      "module": "sha256-kevuaUyy+Wh3ocvTp/GI2GioeguqwD8hl3Z5N/xuX+8=",
-      "pom": "sha256-K0TdUu1s47jlPhKbKq67irwg4m035HsTWM1C7ofz7M4="
+    "io/insert-koin#koin-core-jvm/4.1.1": {
+      "jar": "sha256-kKjpjA3lNRMlgE2zmiFUqyg1A6bZKYFgnaPcwWsNFco=",
+      "module": "sha256-f8U+LxPrIysYqP/T8MZBmuuwEusrQ5IPxsNVaU3hkGQ=",
+      "pom": "sha256-YY727ybNZRM2qStxEArlVl7dCNIkouoO23f1XGhoraY="
     },
-    "io/insert-koin#koin-core/4.1.0": {
-      "jar": "sha256-QLtpRkGEVYXpcz9FRDJEbapz/u83xouAbiT/PJLPAUU=",
-      "module": "sha256-KnGDSqcyCnpeQn0mDHDkQllEd+FQwlksMF6hPj/bINI=",
-      "pom": "sha256-lVPVmCwOWfpn3k/KS5RXzQGIgM7KcFh0j2lIH/SGpow="
+    "io/insert-koin#koin-core/4.1.1": {
+      "jar": "sha256-3xle1TRynvQaMOEDIeu3d/tZ3XH7gzsKYmm35g5+X3U=",
+      "module": "sha256-X+RgbJ5iL9bsHegyNETdTtcOZACNBkybpaaRNQGuHMQ=",
+      "pom": "sha256-i1Nuox/yKJK13daU/Ep9cth25YGWQ8RBaz69/wuSVUs="
     },
     "io/javalin#javalin-parent/6.7.0": {
       "pom": "sha256-8CZQGCqTfDf7WEOQPgOY6rBGIY6a05UlYMCCPywpqRo="
