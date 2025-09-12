@@ -14,7 +14,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `drop2beets` -> `6bda199`
 - `fireshare` -> `1.2.30`
 - `flaresolverr` -> `3.4.0`
-- `ftb-server-installer` -> `1.0.27`
+- `ftb-server-installer` -> `1.0.29`
 - `jellyfin-web-with-plugins`
 - `jmc` -> `1.2.19-alpha.1`
 - `lidarr` -> `2.14.1.4755`
@@ -24,18 +24,18 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `midnight-theme` -> `9287e82`
 - `nvchecker` -> `2.18`
 - `openrgb` -> `f76dbb0`
-- `osu-lazer-bin` -> `2025.905.0-tachyon`
+- `osu-lazer-bin` -> `2025.912.0-lazer`
 - `prefetch`
 - `prowlarr` -> `2.1.0.5180`
 - `pyon` -> `06a076e`
 - `python-modernize` -> `f06b20a`
-- `python3` -> `3.13.6`
+- `python3` -> `3.13.7`
 - `rofi-themes` -> `093c1a7`
-- `shoko` -> `5.1.0-dev.126`
-- `shoko-webui` -> `2.3.0-dev.11`
-- `shokofin` -> `5.0.4-dev.31`
+- `shoko` -> `5.1.0-dev.127`
+- `shoko-webui` -> `2.3.0-dev.13`
+- `shokofin` -> `5.0.4-dev.35`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1921`
+- `suwayomi-server` -> `2.1.1922`
 - `suwayomi-webui` -> `98e1cb2`
 - `whisparr` -> `3.0.0.1254`
 - `writeSystemdToggle`
