@@ -147,12 +147,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "lidarr-src-2.14.1.4755.tar.gz",
-            "sha256": "sha256-aqNnrFHCMixPRymunOduq8coDJHnxopSg5oWz50HTPk=",
+            "name": "lidarr-src-2.14.2.4785.tar.gz",
+            "sha256": "sha256-4l96x/zYeF+b6riYt6TzO0y7pOjTMxj3qxFVmnzwmk0=",
             "type": "url",
-            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.1.4755&os=linux&runtime=netcore&arch=x64"
+            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.2.4785&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "2.14.1.4755"
+        "version": "2.14.2.4785"
     },
     "luarenamer": {
         "cargoLocks": null,
@@ -357,11 +357,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-w5zowe2bl/1DZvL+TZEeLF6LkvDgbz/UAJxANuJsw1U=",
+            "sha256": "sha256-C+QXWXopY9tFid290IoXrGTwEJDLQ4ZJXDP/p33bvnw=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.127.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.128.tar.gz"
         },
-        "version": "5.1.0-dev.127"
+        "version": "5.1.0-dev.128"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -413,7 +413,7 @@
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-09-13",
+        "date": "2025-09-14",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -423,17 +423,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2818fbe5753265d129d19df3cafc20f8867f5859",
-            "sha256": "sha256-V7V4IyZe7i9Hoi492I35U2NdjJci10QX2RU9iHnw764=",
+            "rev": "bbd7e3029821d79ad5737591ef1085dc8e6e0ff6",
+            "sha256": "sha256-GzABMtRK5pyMMxibclP8+IlYRoPDkPXWtlTN4x9AAmM=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "2818fbe5753265d129d19df3cafc20f8867f5859"
+        "version": "bbd7e3029821d79ad5737591ef1085dc8e6e0ff6"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-09-10",
+        "date": "2025-09-13",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -443,13 +443,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "98e1cb2eff4fc76d7ff1f8aa2bd37448267bfb21",
-            "sha256": "sha256-VxYo1fOevawOJcIixJSoreFroCWket75+5g1JfpC90U=",
+            "rev": "38ac36d14cb84095c07b38a8315a265cf74fa8c9",
+            "sha256": "sha256-xORWsyfLkD7smEGcvTB4seyWwbv1fUIVBsoxe7bpEbU=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "98e1cb2eff4fc76d7ff1f8aa2bd37448267bfb21"
+        "version": "38ac36d14cb84095c07b38a8315a265cf74fa8c9"
     },
     "tokenstream": {
         "cargoLocks": null,
@@ -479,11 +479,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.0.1254.tar.gz",
-            "sha256": "sha256-NGAQ91KjHBGbrEuBQPaY7eJwiUQQVHrLj7ZMg130WLI=",
+            "name": "whisparr-src-3.0.0.1262.tar.gz",
+            "sha256": "sha256-eDeExZYQf4yWa3ws8EUSDC5ogksggcwOqoVpzsNphEk=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1254&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1262&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.0.1254"
+        "version": "3.0.0.1262"
     }
 }
