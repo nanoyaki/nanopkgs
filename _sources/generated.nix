@@ -56,15 +56,15 @@
   };
   flaresolverr = {
     pname = "flaresolverr";
-    version = "v3.4.0";
+    version = "v3.4.1";
     src = fetchgit {
       url = "https://github.com/FlareSolverr/FlareSolverr.git";
-      rev = "v3.4.0";
+      rev = "v3.4.1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-iPhPwtidIeWzKeqs/efCFa8vs4uJaNNHlpdw9mVtwHw=";
+      sha256 = "sha256-ySYH4Ty6Z1mZWPIhIIX0+78RiozEHJ++3C4kBj7MfU0=";
     };
   };
   ftb-server-installer = {
@@ -144,17 +144,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "9287e825c03f15379d26dfb00039c19d5c4de210";
+    version = "025bda3c6add046cbf1a6b8d01c041e47cfec1d1";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "9287e825c03f15379d26dfb00039c19d5c4de210";
+      rev = "025bda3c6add046cbf1a6b8d01c041e47cfec1d1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-we2wY5n2zvlpeuq2o2JVyj39+pDLj6Iv/Bm81OtuvDU=";
+      sha256 = "sha256-vjTGnEAKoh8HM3FuBreWuCaOs4toj5mJUxFmTzaghs4=";
     };
-    date = "2025-07-31";
+    date = "2025-09-17";
   };
   openrgb = {
     pname = "openrgb";
@@ -180,15 +180,15 @@
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "v2.1.0.5180";
+    version = "v2.1.1.5185";
     src = fetchgit {
       url = "https://github.com/Prowlarr/Prowlarr.git";
-      rev = "v2.1.0.5180";
+      rev = "v2.1.1.5185";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-qAhM0wgOcleBYsguClsRNdI0k7/rfzTw4VLFLA+VI88=";
+      sha256 = "sha256-07OhUtPxck9KivHpsd6RZp9vrxmh1JgGb5QLReKWfkE=";
     };
   };
   pyon = {
@@ -273,17 +273,17 @@
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "bbd7e3029821d79ad5737591ef1085dc8e6e0ff6";
+    version = "808e0ecae71db4a18e1c9cd4d7b595814faf94f2";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "bbd7e3029821d79ad5737591ef1085dc8e6e0ff6";
+      rev = "808e0ecae71db4a18e1c9cd4d7b595814faf94f2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-GzABMtRK5pyMMxibclP8+IlYRoPDkPXWtlTN4x9AAmM=";
+      sha256 = "sha256-mOxjDEkZiN0LkaSRDQ2pYqUEPw5DUQEYD/BoS2B5C20=";
     };
-    date = "2025-09-14";
+    date = "2025-09-15";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
@@ -314,11 +314,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.0.1262";
+    version = "3.0.1.1264";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1262&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.0.1262.tar.gz";
-      sha256 = "sha256-eDeExZYQf4yWa3ws8EUSDC5ogksggcwOqoVpzsNphEk=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1264&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1264.tar.gz";
+      sha256 = "sha256-IigeV0IiZSLyEzH9C7MxIRm5kcHf6uup2HYl5Ex9HiM=";
     };
   };
 }
