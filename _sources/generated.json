@@ -91,13 +91,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v3.4.0",
-            "sha256": "sha256-iPhPwtidIeWzKeqs/efCFa8vs4uJaNNHlpdw9mVtwHw=",
+            "rev": "v3.4.1",
+            "sha256": "sha256-ySYH4Ty6Z1mZWPIhIIX0+78RiozEHJ++3C4kBj7MfU0=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/FlareSolverr/FlareSolverr.git"
         },
-        "version": "v3.4.0"
+        "version": "v3.4.1"
     },
     "ftb-server-installer": {
         "cargoLocks": null,
@@ -216,7 +216,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-07-31",
+        "date": "2025-09-17",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -226,13 +226,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "9287e825c03f15379d26dfb00039c19d5c4de210",
-            "sha256": "sha256-we2wY5n2zvlpeuq2o2JVyj39+pDLj6Iv/Bm81OtuvDU=",
+            "rev": "025bda3c6add046cbf1a6b8d01c041e47cfec1d1",
+            "sha256": "sha256-vjTGnEAKoh8HM3FuBreWuCaOs4toj5mJUxFmTzaghs4=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "9287e825c03f15379d26dfb00039c19d5c4de210"
+        "version": "025bda3c6add046cbf1a6b8d01c041e47cfec1d1"
     },
     "openrgb": {
         "cargoLocks": null,
@@ -281,13 +281,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v2.1.0.5180",
-            "sha256": "sha256-qAhM0wgOcleBYsguClsRNdI0k7/rfzTw4VLFLA+VI88=",
+            "rev": "v2.1.1.5185",
+            "sha256": "sha256-07OhUtPxck9KivHpsd6RZp9vrxmh1JgGb5QLReKWfkE=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Prowlarr/Prowlarr.git"
         },
-        "version": "v2.1.0.5180"
+        "version": "v2.1.1.5185"
     },
     "pyon": {
         "cargoLocks": null,
@@ -413,7 +413,7 @@
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-09-14",
+        "date": "2025-09-15",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -423,13 +423,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bbd7e3029821d79ad5737591ef1085dc8e6e0ff6",
-            "sha256": "sha256-GzABMtRK5pyMMxibclP8+IlYRoPDkPXWtlTN4x9AAmM=",
+            "rev": "808e0ecae71db4a18e1c9cd4d7b595814faf94f2",
+            "sha256": "sha256-mOxjDEkZiN0LkaSRDQ2pYqUEPw5DUQEYD/BoS2B5C20=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "bbd7e3029821d79ad5737591ef1085dc8e6e0ff6"
+        "version": "808e0ecae71db4a18e1c9cd4d7b595814faf94f2"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
@@ -479,11 +479,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.0.1262.tar.gz",
-            "sha256": "sha256-eDeExZYQf4yWa3ws8EUSDC5ogksggcwOqoVpzsNphEk=",
+            "name": "whisparr-src-3.0.1.1264.tar.gz",
+            "sha256": "sha256-IigeV0IiZSLyEzH9C7MxIRm5kcHf6uup2HYl5Ex9HiM=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.0.1262&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1264&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.0.1262"
+        "version": "3.0.1.1264"
     }
 }
