@@ -27,13 +27,14 @@ in
     ++ overrides;
 
   # I don't know how to feel about this solution
-  python3 = prev.python3.override {
-    packageOverrides = composeManyExtensions final.pythonPackagesExtensions;
-  };
+  _nanoPythonPkgs =
+    (prev.python3.override {
+      packageOverrides = composeManyExtensions final.pythonPackagesExtensions;
+    }).pkgs;
 
-  beet = final.python3.pkgs.toPythonApplication final.python3.pkgs.beet;
-  drop2beets = final.python3.pkgs.toPythonApplication final.python3.pkgs.drop2beets;
-  python-modernize = final.python3.pkgs.toPythonApplication final.python3.pkgs.python-modernize;
-  nvchecker = final.python3.pkgs.toPythonApplication final.python3.pkgs.nvchecker;
-  jmc = final.python3.pkgs.toPythonApplication final.python3.pkgs.jmc;
+  beet = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.beet;
+  drop2beets = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.drop2beets;
+  python-modernize = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.python-modernize;
+  nvchecker = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.nvchecker;
+  jmc = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.jmc;
 }
