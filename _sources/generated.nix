@@ -259,17 +259,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "276728c296b4d8763526a87ee31820aaa21fe127";
+    version = "5a84976245a29f82398430da5bd7fdf60631636d";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "276728c296b4d8763526a87ee31820aaa21fe127";
+      rev = "5a84976245a29f82398430da5bd7fdf60631636d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-gad3/2AZRVgw56HpTzNv7oD2GliPc7uVS6A1iehgv8M=";
+      sha256 = "sha256-zTC2/jaSdG1SOGm9DslhZDg7rVcWLDiYAVupc9bDPz4=";
     };
-    date = "2025-09-13";
+    date = "2025-09-17";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
@@ -287,17 +287,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "38ac36d14cb84095c07b38a8315a265cf74fa8c9";
+    version = "c77a1b167739c11b51baeefb5a7fd00104eadf4d";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "38ac36d14cb84095c07b38a8315a265cf74fa8c9";
+      rev = "c77a1b167739c11b51baeefb5a7fd00104eadf4d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-xORWsyfLkD7smEGcvTB4seyWwbv1fUIVBsoxe7bpEbU=";
+      sha256 = "sha256-AWg83Kzp/dNOPgXrHTbD4KyF1wPhfvKIGxHxgs6Sdlo=";
     };
-    date = "2025-09-13";
+    date = "2025-09-18";
   };
   tokenstream = {
     pname = "tokenstream";
@@ -314,11 +314,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1264";
+    version = "3.0.1.1280";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1264&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1264.tar.gz";
-      sha256 = "sha256-IigeV0IiZSLyEzH9C7MxIRm5kcHf6uup2HYl5Ex9HiM=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1280&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1280.tar.gz";
+      sha256 = "sha256-Tk7fn5xum+/IUAD9qPXNNeyg76MMGLAmk4o9fwR4vtM=";
     };
   };
 }
