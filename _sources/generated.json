@@ -393,7 +393,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-09-13",
+        "date": "2025-09-17",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -403,13 +403,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "276728c296b4d8763526a87ee31820aaa21fe127",
-            "sha256": "sha256-gad3/2AZRVgw56HpTzNv7oD2GliPc7uVS6A1iehgv8M=",
+            "rev": "5a84976245a29f82398430da5bd7fdf60631636d",
+            "sha256": "sha256-zTC2/jaSdG1SOGm9DslhZDg7rVcWLDiYAVupc9bDPz4=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "276728c296b4d8763526a87ee31820aaa21fe127"
+        "version": "5a84976245a29f82398430da5bd7fdf60631636d"
     },
     "suwayomi-server": {
         "cargoLocks": null,
@@ -433,7 +433,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-09-13",
+        "date": "2025-09-18",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -443,13 +443,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "38ac36d14cb84095c07b38a8315a265cf74fa8c9",
-            "sha256": "sha256-xORWsyfLkD7smEGcvTB4seyWwbv1fUIVBsoxe7bpEbU=",
+            "rev": "c77a1b167739c11b51baeefb5a7fd00104eadf4d",
+            "sha256": "sha256-AWg83Kzp/dNOPgXrHTbD4KyF1wPhfvKIGxHxgs6Sdlo=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "38ac36d14cb84095c07b38a8315a265cf74fa8c9"
+        "version": "c77a1b167739c11b51baeefb5a7fd00104eadf4d"
     },
     "tokenstream": {
         "cargoLocks": null,
@@ -479,11 +479,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1264.tar.gz",
-            "sha256": "sha256-IigeV0IiZSLyEzH9C7MxIRm5kcHf6uup2HYl5Ex9HiM=",
+            "name": "whisparr-src-3.0.1.1280.tar.gz",
+            "sha256": "sha256-Tk7fn5xum+/IUAD9qPXNNeyg76MMGLAmk4o9fwR4vtM=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1264&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1280&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1264"
+        "version": "3.0.1.1280"
     }
 }
