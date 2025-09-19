@@ -21,7 +21,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `025bda3`
+- `midnight-theme` -> `499e07d`
 - `nvchecker` -> `2.18`
 - `openrgb` -> `f76dbb0`
 - `osu-lazer-bin` -> `2025.912.0-lazer`

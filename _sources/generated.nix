@@ -144,17 +144,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "025bda3c6add046cbf1a6b8d01c041e47cfec1d1";
+    version = "499e07d84bf231de6fa0f36ed49aee92949958d0";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "025bda3c6add046cbf1a6b8d01c041e47cfec1d1";
+      rev = "499e07d84bf231de6fa0f36ed49aee92949958d0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
       sha256 = "sha256-vjTGnEAKoh8HM3FuBreWuCaOs4toj5mJUxFmTzaghs4=";
     };
-    date = "2025-09-17";
+    date = "2025-09-19";
   };
   openrgb = {
     pname = "openrgb";
