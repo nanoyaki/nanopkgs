@@ -95,11 +95,11 @@
   };
   lidarr = {
     pname = "lidarr";
-    version = "2.14.2.4785";
+    version = "2.14.3.4791";
     src = fetchurl {
-      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.2.4785&os=linux&runtime=netcore&arch=x64";
-      name = "lidarr-src-2.14.2.4785.tar.gz";
-      sha256 = "sha256-4l96x/zYeF+b6riYt6TzO0y7pOjTMxj3qxFVmnzwmk0=";
+      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.3.4791&os=linux&runtime=netcore&arch=x64";
+      name = "lidarr-src-2.14.3.4791.tar.gz";
+      sha256 = "sha256-A7khU6ayTyX7JkeOHsojEmtfqIfWn+c+UxTagyS3J1A=";
     };
   };
   luarenamer = {
@@ -144,17 +144,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "499e07d84bf231de6fa0f36ed49aee92949958d0";
+    version = "e9d8a46b516f80f122ebf6241fc4a0dc2cab53e7";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "499e07d84bf231de6fa0f36ed49aee92949958d0";
+      rev = "e9d8a46b516f80f122ebf6241fc4a0dc2cab53e7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
       sha256 = "sha256-vjTGnEAKoh8HM3FuBreWuCaOs4toj5mJUxFmTzaghs4=";
     };
-    date = "2025-09-19";
+    date = "2025-09-21";
   };
   openrgb = {
     pname = "openrgb";
@@ -180,15 +180,15 @@
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "v2.1.1.5185";
+    version = "v2.1.2.5186";
     src = fetchgit {
       url = "https://github.com/Prowlarr/Prowlarr.git";
-      rev = "v2.1.1.5185";
+      rev = "v2.1.2.5186";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-07OhUtPxck9KivHpsd6RZp9vrxmh1JgGb5QLReKWfkE=";
+      sha256 = "sha256-VZQFU/sB45HajrC9ITUd9lA5Le0nB66otLkz1NU7nYk=";
     };
   };
   pyon = {
@@ -259,17 +259,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "5a84976245a29f82398430da5bd7fdf60631636d";
+    version = "8682bf923ced9cfce59ebbd69568282ab63c5f05";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "5a84976245a29f82398430da5bd7fdf60631636d";
+      rev = "8682bf923ced9cfce59ebbd69568282ab63c5f05";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-zTC2/jaSdG1SOGm9DslhZDg7rVcWLDiYAVupc9bDPz4=";
+      sha256 = "sha256-sjyILdsJB5Muc3TFMqbziMyGB5W+zhCXfz1y9ZaX8xk=";
     };
-    date = "2025-09-17";
+    date = "2025-09-20";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
@@ -287,17 +287,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "c77a1b167739c11b51baeefb5a7fd00104eadf4d";
+    version = "b6d7f6da5d29a9533703466359698fb0cc6dcf92";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "c77a1b167739c11b51baeefb5a7fd00104eadf4d";
+      rev = "b6d7f6da5d29a9533703466359698fb0cc6dcf92";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-AWg83Kzp/dNOPgXrHTbD4KyF1wPhfvKIGxHxgs6Sdlo=";
+      sha256 = "sha256-KTtWSzkAeioLuv4jSC13tZQBPS+9Q8OQ0gwnzkY+Gjo=";
     };
-    date = "2025-09-18";
+    date = "2025-09-22";
   };
   tokenstream = {
     pname = "tokenstream";
@@ -314,11 +314,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1280";
+    version = "3.0.1.1304";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1280&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1280.tar.gz";
-      sha256 = "sha256-Tk7fn5xum+/IUAD9qPXNNeyg76MMGLAmk4o9fwR4vtM=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1304&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1304.tar.gz";
+      sha256 = "sha256-B0lJb6e8rIYwWu24NxcvaxBiynQuB3ZK9Bh2VmaHZLc=";
     };
   };
 }
