@@ -33,7 +33,8 @@ in
     }).pkgs;
 
   beet = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.beet;
-  drop2beets = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.drop2beets;
+  # beets is currently incompatible with python313
+  # drop2beets = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.drop2beets;
   python-modernize = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.python-modernize;
   nvchecker = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.nvchecker;
   jmc = final._nanoPythonPkgs.toPythonApplication final._nanoPythonPkgs.jmc;
