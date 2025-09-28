@@ -1093,6 +1093,10 @@
       "jar": "sha256-SksK/7IqlXJAnTpr3pnOPyBFxVHK3Byn/glpCJLFJsM=",
       "pom": "sha256-/zJV7sDsi9XwZTc47BtINCpqkOPU6selb5BMauLhLtU="
     },
+    "com/zaxxer#HikariCP/7.0.2": {
+      "jar": "sha256-8eYS+ic0W+MQeoVDHoqK6yBcFTZKsvLUEeQKnXuwgJU=",
+      "pom": "sha256-ZiqH+ASHvom9dyliE+kRCP+fAe0NmpD5pOISY8xJ5z4="
+    },
     "commons-codec#commons-codec/1.17.1": {
       "jar": "sha256-+fbLED8t3DyZqdgK2irnvwaFER/Wv/zLcgM9HaTm/yM=",
       "pom": "sha256-f6DbTYFQ2vkylYuK6onuJKu00Y4jFqXeU1J4/BMVEqA="
@@ -1724,9 +1728,9 @@
       "jar": "sha256-6K0gn4xY0pGjfKl1Dp6frGBZaVbJg+Sd2Cgjgd2LMkk=",
       "pom": "sha256-oKdcdtkcQh7qVtD2Bi+49j7ff6x+xyT9QgzNytcYHUM="
     },
-    "org/bouncycastle#bcprov-jdk18on/1.81": {
-      "jar": "sha256-JJ85ZBKwwM5n8lyBl9p1eyQbi+PsQZk4bABwSiRXRZs=",
-      "pom": "sha256-IDmQEivg/dNL8S0LeIwGVRYThqjoWLpD8G43CcLMdMw="
+    "org/bouncycastle#bcprov-jdk18on/1.82": {
+      "jar": "sha256-FM3i/fqoiQSAqOW2es7vDJD5ZoLB4jwTO6/cngsyVc4=",
+      "pom": "sha256-IIFtWAs+mNGQCnGsqBnsns7HimpKN+ejwMbCeTkDlD8="
     },
     "org/bouncycastle#bcutil-jdk18on/1.80": {
       "jar": "sha256-Iuymh/eVVBH0Vq8z5uqOaPxzzYDLizKqX3qLGCfXxng=",
@@ -1758,10 +1762,10 @@
       "module": "sha256-+BYzJyRauGJVMpSMcqkwVIzZfzTWw/6GD6auxaNNebQ=",
       "pom": "sha256-kxO/U7Pv2KrKJm7qi5bjB5drZcCxZRDMbwIxn7rr7UM="
     },
-    "org/checkerframework#checker-qual/3.49.3": {
-      "jar": "sha256-Nn7b8v6fYGwf21qLpuHJwnYlmT4f+VTjho3nC8xkFrc=",
-      "module": "sha256-dv9CWNsfoaC8bOeur0coPfEGD9Q3oJvm7zxcMmnqWtM=",
-      "pom": "sha256-i+QBdkYoXZFCx/sibPuARFwXfcfBNjsj2UH6bJuwXc8="
+    "org/checkerframework#checker-qual/3.49.5": {
+      "jar": "sha256-UIyDxiw0T29+4o9HuIqHl9YRbQQ7/RygV2yCjdHfKIA=",
+      "module": "sha256-+zeot4Ic/rPYxSoh7WCqZwPgx0MnW5SWbvLNh6Jnibo=",
+      "pom": "sha256-V+9aHvxp0UcORdDRIwiAtt718X3MVVl+xD43REwUkmI="
     },
     "org/ec4j/core#ec4j-core-parent/1.1.1": {
       "pom": "sha256-Id3ekeuJfAN3XBAVMgdn4mCWjuGRm6a4qYAuK6GX2VM="
@@ -2510,9 +2514,9 @@
       "jar": "sha256-h26raoPa7K1cpn65/KuwY8l7WuuM8fynqYns3hdSIFE=",
       "pom": "sha256-wTZ8O7OD12Gef3l+ON91E4hfLu8ErntZCPaCImV7W6o="
     },
-    "org/postgresql#postgresql/42.7.7": {
-      "jar": "sha256-FXlj1grmbWB+CUZujAzfgIfpyyDQFZiZ/8qWvKJShGA=",
-      "pom": "sha256-qCA7TCFN12Zi0VIdwZaeUYszcJ8IL9nNgTjP9MNpQMw="
+    "org/postgresql#postgresql/42.7.8": {
+      "jar": "sha256-KjKp3LxC1npQrToN5e/RAsjSvkZyAEXyy9ZonxYKt8c=",
+      "pom": "sha256-gSWAq7t1dry37do8TLITXVleqFcIOstggFeYNRhUr5M="
     },
     "org/reactivestreams#reactive-streams/1.0.3": {
       "jar": "sha256-He4EgQctGckptiPhVeFNL2CF3AEVKaCg2+/ITPVx2GU=",
