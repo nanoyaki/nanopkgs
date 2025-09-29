@@ -11,7 +11,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 ## Available packages
 
 - `beet` -> `0.111.0`
-- `drop2beets` -> `6bda199`
 - `fireshare` -> `1.2.30`
 - `flaresolverr` -> `3.4.1`
 - `ftb-server-installer` -> `1.0.29`
@@ -21,7 +20,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `330104f`
+- `midnight-theme` -> `7c876b8`
 - `nvchecker` -> `2.18`
 - `openrgb` -> `f76dbb0`
 - `osu-lazer-bin` -> `2025.912.0-lazer`
@@ -34,7 +33,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shoko-webui` -> `2.3.0-dev.14`
 - `shokofin` -> `5.0.4-dev.42`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1941`
-- `suwayomi-webui` -> `7414261`
+- `suwayomi-server` -> `2.1.1942`
+- `suwayomi-webui` -> `c1f9699`
 - `whisparr` -> `3.0.1.1304`
 - `writeSystemdToggle`
