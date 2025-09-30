@@ -144,17 +144,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "7c876b8c8fc25ff78e1386a57b2dc64c64c879f3";
+    version = "7cc9d4ca7c91e725ddb4c784ba68f23a133ffd04";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "7c876b8c8fc25ff78e1386a57b2dc64c64c879f3";
+      rev = "7cc9d4ca7c91e725ddb4c784ba68f23a133ffd04";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-TuuIOOcCAjhgm+DE58UY9KNh0F9h4LpN82DZziuhVyg=";
+      sha256 = "sha256-GlAckHeThZX8U8WNh+HoO9siaTFBs5lRlF7OyLW6qIg=";
     };
-    date = "2025-09-28";
+    date = "2025-09-29";
   };
   openrgb = {
     pname = "openrgb";
@@ -259,31 +259,31 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "e37035f638e09d00771547549f27639a3cbea507";
+    version = "98d702e1c61a7b766a04e5575e2f4c5dbc2da21b";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "e37035f638e09d00771547549f27639a3cbea507";
+      rev = "98d702e1c61a7b766a04e5575e2f4c5dbc2da21b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-2kcQ/QubGQgBWNUMfJDl2nhOKZj12hJ00K+XIlnKtb8=";
+      sha256 = "sha256-smDj4pPZCogUfNG4V+1Jnct/BjpOLsV/yk9efDGk+Mc=";
     };
-    date = "2025-09-28";
+    date = "2025-09-29";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "5e48b0527033e3d0919a8c685e6a635269c6923f";
+    version = "2e0f72f1820f2337ed8542314f6e6b78f8fa064a";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "5e48b0527033e3d0919a8c685e6a635269c6923f";
+      rev = "2e0f72f1820f2337ed8542314f6e6b78f8fa064a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Cmg4qtuPCnwqnHnko7TWO2Zi6Sxjx3ilhmv2udGI1DY=";
+      sha256 = "sha256-4QGZXbjadlDF+NBfR5nFQZaZ1fEtFDdeNlQIK/mTReU=";
     };
-    date = "2025-09-28";
+    date = "2025-09-29";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
