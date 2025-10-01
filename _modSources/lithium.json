@@ -1,47 +1,10 @@
 {
-  "neoforge": {
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qV99i9jE/lithium-neoforge-0.18.0%2Bmc1.21.8.jar",
-      "sha512": "a79580f5950700571a1deb1437aefaa96cb82f4f2ac30952a142a91fc6efc0e6ca4b9cdd625a0285e4a31475990017c52f2cfb0793ecaefe7c2896c05f67f9bf",
-      "name": "lithium-neoforge-0.18.0+mc1.21.8.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/t3Lhx7nL/lithium-neoforge-0.18.0%2Bmc1.21.7.jar",
-      "sha512": "9ab13e66083d61c31f922b2e6f4efe2583e79aa1fb3d62e9a199bf33e656e3dcf87b1ce9e2e38f76909e50e22f6b9631ba2d4f1da79ff98bc4f6bebef7e86759",
-      "name": "lithium-neoforge-0.18.0+mc1.21.7.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/IXjXNvAW/lithium-neoforge-0.17.0%2Bmc1.21.6.jar",
-      "sha512": "a8ac8f3acc830e26bd2c68b0b6666863555429fce009f63b82e5a34d55c156439599bf08bced669d6bb41f58084930938fb82adaa93779d3e85ad5714c73bb77",
-      "name": "lithium-neoforge-0.17.0+mc1.21.6.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/P5VT33Jo/lithium-neoforge-0.16.0%2Bmc1.21.5.jar",
-      "sha512": "30065afd1c1cbf68efb6f6864010fc131cc2eae356b04da6db7a6e8aa4a9a1c25889cfd7b0320becc7759ae5037b78955e2902cad8bfa5d8099f9e7a513e77a2",
-      "name": "lithium-neoforge-0.16.0+mc1.21.5.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iDqQi66g/lithium-neoforge-0.14.3%2Bmc1.21.4.jar",
-      "sha512": "aa7d05f6e65cb296b3ff60d1d85f4668f272e66c8adf4562f4bbdf6d536897b55f3f50f8e0f0c31e50b699474ecbacd03d3205fd6c6672c2e40f44377b2da519",
-      "name": "lithium-neoforge-0.14.3+mc1.21.4.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/dq8Il4FW/lithium-neoforge-0.14.1-snapshot%2Bmc1.21.3-build.89.jar",
-      "sha512": "bc34c6738add793bee677ada7167ba4345fcb2ebc6fa7a04cae921fe06618b9f0f6f511150c4d49b706a940b742e4d6a4cbd1f8ca85db17658c9552e7699e45c",
-      "name": "lithium-neoforge-0.14.1-snapshot+mc1.21.3-build.89.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/dq8Il4FW/lithium-neoforge-0.14.1-snapshot%2Bmc1.21.3-build.89.jar",
-      "sha512": "bc34c6738add793bee677ada7167ba4345fcb2ebc6fa7a04cae921fe06618b9f0f6f511150c4d49b706a940b742e4d6a4cbd1f8ca85db17658c9552e7699e45c",
-      "name": "lithium-neoforge-0.14.1-snapshot+mc1.21.3-build.89.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/BrMIoIMv/lithium-neoforge-0.14.0-snapshot%2Bmc1.21.1-build.88.jar",
-      "sha512": "773c7f7c34e05086c34acbcf7e5f3aede8c7e53cbf6198882a8025eb48ac45c559af8b518de0be69607460d03c0e1981cc58801201fb4a2c77367b3170b59d87",
-      "name": "lithium-neoforge-0.14.0-snapshot+mc1.21.1-build.88.jar"
-    }
-  },
   "fabric": {
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/YxOQ6mdT/lithium-fabric-0.19.0%2Bmc1.21.9.jar",
+      "sha512": "1e5499899a1b4dea8e2fab1209df307fdd1f7fbe1639e3be29b8fcb5cefaab397df8d19bea7eea4156cbfd9065caeaf3c5cadd87ec5163ba7fee13a034c009dc",
+      "name": "lithium-fabric-0.19.0+mc1.21.9.jar"
+    },
     "1.21.8": {
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/pDfTqezk/lithium-fabric-0.18.0%2Bmc1.21.8.jar",
       "sha512": "6c69950760f48ef88f0c5871e61029b59af03ab5ed9b002b6a470d7adfdf26f0b875dcd360b664e897291002530981c20e0b2890fb889f29ecdaa007f885100f",
@@ -191,6 +154,53 @@
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-v0.6.1/lithium-fabric-mc1.16.5-0.6.1.jar",
       "sha512": "07b00fa9ec12c3c455b3f5c2870ececae11904a6450e206474404b96126bd64753b56be47c4e4d752e364f40cfad3efd78ac4b2862000d91f5b1aa671770395e",
       "name": "lithium-fabric-mc1.16.5-0.6.1.jar"
+    }
+  },
+  "neoforge": {
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/uu31dpmq/lithium-neoforge-0.19.0%2Bmc1.21.9.jar",
+      "sha512": "6036093808ce4ba2d7d8fa774ca2e87ea701f0d732bfa04e1a04c6214e53d1165a2a1b10426bcbf16faa4d95618cbd144fa58a5a7027e59cb595c28b75d2a949",
+      "name": "lithium-neoforge-0.19.0+mc1.21.9.jar"
+    },
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qV99i9jE/lithium-neoforge-0.18.0%2Bmc1.21.8.jar",
+      "sha512": "a79580f5950700571a1deb1437aefaa96cb82f4f2ac30952a142a91fc6efc0e6ca4b9cdd625a0285e4a31475990017c52f2cfb0793ecaefe7c2896c05f67f9bf",
+      "name": "lithium-neoforge-0.18.0+mc1.21.8.jar"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/t3Lhx7nL/lithium-neoforge-0.18.0%2Bmc1.21.7.jar",
+      "sha512": "9ab13e66083d61c31f922b2e6f4efe2583e79aa1fb3d62e9a199bf33e656e3dcf87b1ce9e2e38f76909e50e22f6b9631ba2d4f1da79ff98bc4f6bebef7e86759",
+      "name": "lithium-neoforge-0.18.0+mc1.21.7.jar"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/IXjXNvAW/lithium-neoforge-0.17.0%2Bmc1.21.6.jar",
+      "sha512": "a8ac8f3acc830e26bd2c68b0b6666863555429fce009f63b82e5a34d55c156439599bf08bced669d6bb41f58084930938fb82adaa93779d3e85ad5714c73bb77",
+      "name": "lithium-neoforge-0.17.0+mc1.21.6.jar"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/P5VT33Jo/lithium-neoforge-0.16.0%2Bmc1.21.5.jar",
+      "sha512": "30065afd1c1cbf68efb6f6864010fc131cc2eae356b04da6db7a6e8aa4a9a1c25889cfd7b0320becc7759ae5037b78955e2902cad8bfa5d8099f9e7a513e77a2",
+      "name": "lithium-neoforge-0.16.0+mc1.21.5.jar"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iDqQi66g/lithium-neoforge-0.14.3%2Bmc1.21.4.jar",
+      "sha512": "aa7d05f6e65cb296b3ff60d1d85f4668f272e66c8adf4562f4bbdf6d536897b55f3f50f8e0f0c31e50b699474ecbacd03d3205fd6c6672c2e40f44377b2da519",
+      "name": "lithium-neoforge-0.14.3+mc1.21.4.jar"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/dq8Il4FW/lithium-neoforge-0.14.1-snapshot%2Bmc1.21.3-build.89.jar",
+      "sha512": "bc34c6738add793bee677ada7167ba4345fcb2ebc6fa7a04cae921fe06618b9f0f6f511150c4d49b706a940b742e4d6a4cbd1f8ca85db17658c9552e7699e45c",
+      "name": "lithium-neoforge-0.14.1-snapshot+mc1.21.3-build.89.jar"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/dq8Il4FW/lithium-neoforge-0.14.1-snapshot%2Bmc1.21.3-build.89.jar",
+      "sha512": "bc34c6738add793bee677ada7167ba4345fcb2ebc6fa7a04cae921fe06618b9f0f6f511150c4d49b706a940b742e4d6a4cbd1f8ca85db17658c9552e7699e45c",
+      "name": "lithium-neoforge-0.14.1-snapshot+mc1.21.3-build.89.jar"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/BrMIoIMv/lithium-neoforge-0.14.0-snapshot%2Bmc1.21.1-build.88.jar",
+      "sha512": "773c7f7c34e05086c34acbcf7e5f3aede8c7e53cbf6198882a8025eb48ac45c559af8b518de0be69607460d03c0e1981cc58801201fb4a2c77367b3170b59d87",
+      "name": "lithium-neoforge-0.14.0-snapshot+mc1.21.1-build.88.jar"
     }
   }
 }
