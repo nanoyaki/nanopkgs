@@ -144,17 +144,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "694f0e8600d490d6dc3a98aa2fae6322f473490d";
+    version = "79d4369e2b735b835e35145e67b4349f797d3c11";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "694f0e8600d490d6dc3a98aa2fae6322f473490d";
+      rev = "79d4369e2b735b835e35145e67b4349f797d3c11";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-TuuIOOcCAjhgm+DE58UY9KNh0F9h4LpN82DZziuhVyg=";
+      sha256 = "sha256-GlAckHeThZX8U8WNh+HoO9siaTFBs5lRlF7OyLW6qIg=";
     };
-    date = "2025-09-30";
+    date = "2025-10-01";
   };
   openrgb = {
     pname = "openrgb";
@@ -259,17 +259,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "98d702e1c61a7b766a04e5575e2f4c5dbc2da21b";
+    version = "16c5883c7f62316a83f2e8aaf5f33060c098804c";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "98d702e1c61a7b766a04e5575e2f4c5dbc2da21b";
+      rev = "16c5883c7f62316a83f2e8aaf5f33060c098804c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-smDj4pPZCogUfNG4V+1Jnct/BjpOLsV/yk9efDGk+Mc=";
+      sha256 = "sha256-QcBsrfs+kURoF0XbfCiBUe74wQjpQ+vpOIKRSN48nbs=";
     };
-    date = "2025-09-29";
+    date = "2025-10-01";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
@@ -287,17 +287,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "c1f9699834c3a85456047c73bc442884b6936961";
+    version = "6b16cdbf54ec54097759778c12842f16d726c065";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "c1f9699834c3a85456047c73bc442884b6936961";
+      rev = "6b16cdbf54ec54097759778c12842f16d726c065";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-WMKqXtT9P1Dsmwf8ad6o+W85N36gEwxzDma4Yxv+iQ8=";
+      sha256 = "sha256-N3R7oEsvLYOvhbi/UW30MbMcG3xXaFQ1MjST+JQ3swI=";
     };
-    date = "2025-09-28";
+    date = "2025-10-01";
   };
   tokenstream = {
     pname = "tokenstream";
