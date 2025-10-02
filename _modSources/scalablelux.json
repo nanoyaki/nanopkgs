@@ -1,4 +1,26 @@
 {
+  "neoforge": {
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/IFl82cRt/ScalableLux-0.1.6%2Bneoforge.d31dbcf-all.jar",
+      "sha512": "bbc649d68ee18a48e56cc9b2ba5113b58ef6d9dc3a7776a5cc92f25c3a601fece1697f1f0a625bc39667426847889ad328a539408b52d37656ec2530406aee76",
+      "name": "ScalableLux-0.1.6+neoforge.d31dbcf-all.jar"
+    },
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ADL9jVT2/ScalableLux-0.1.5%2Bneoforge.4c941f5-all.jar",
+      "sha512": "03a7b799ceceae72579ac15689669bb4c9f0e1954f8b84dd053c16c904934b1c808fa01e8ed298851ec488572d925c694ca426e3beb03385459d703e946d2e18",
+      "name": "ScalableLux-0.1.5+neoforge.4c941f5-all.jar"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/5BWDA5mK/ScalableLux-0.1.3%2Bbeta.1%2Bneoforge.835ef64-all.jar",
+      "sha512": "8e2490c0dd14f5fcdd98e0e7121c57f70a01ed9c8a1c108db5c8288bb31f58f718d3e4348ad8535a7255c31a22261a82ad15f6413f58daf7483d0f4ce00e38ff",
+      "name": "ScalableLux-0.1.3+beta.1+neoforge.835ef64-all.jar"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/hMikF7m6/ScalableLux-0.1.0%2Bbeta.1%2Bneoforge.00d9474-all.jar",
+      "sha512": "086a2cdc277df62a56bebc4f3905957602daa7dc8bcb5fb922650ae6ebb46780c195c236a38485f5a21a0bbc055d86744ff0df9a2731a2cd9595943d74f2507e",
+      "name": "ScalableLux-0.1.0+beta.1+neoforge.00d9474-all.jar"
+    }
+  },
   "fabric": {
     "1.21.9": {
       "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
@@ -49,23 +71,6 @@
       "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/V7KCULea/ScalableLux-0.1.0%2Bbeta.1%2Bfabric.fc82f44-all.jar",
       "sha512": "d9726175aa83b022f16af0d44dda3f0fd8477572eef3db7b02d37c177bd0427bc93bc51ad0a179f3df2f490bc86d541e1de06102835b09266c75fe993ac386f9",
       "name": "ScalableLux-0.1.0+beta.1+fabric.fc82f44-all.jar"
-    }
-  },
-  "neoforge": {
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ADL9jVT2/ScalableLux-0.1.5%2Bneoforge.4c941f5-all.jar",
-      "sha512": "03a7b799ceceae72579ac15689669bb4c9f0e1954f8b84dd053c16c904934b1c808fa01e8ed298851ec488572d925c694ca426e3beb03385459d703e946d2e18",
-      "name": "ScalableLux-0.1.5+neoforge.4c941f5-all.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/5BWDA5mK/ScalableLux-0.1.3%2Bbeta.1%2Bneoforge.835ef64-all.jar",
-      "sha512": "8e2490c0dd14f5fcdd98e0e7121c57f70a01ed9c8a1c108db5c8288bb31f58f718d3e4348ad8535a7255c31a22261a82ad15f6413f58daf7483d0f4ce00e38ff",
-      "name": "ScalableLux-0.1.3+beta.1+neoforge.835ef64-all.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/hMikF7m6/ScalableLux-0.1.0%2Bbeta.1%2Bneoforge.00d9474-all.jar",
-      "sha512": "086a2cdc277df62a56bebc4f3905957602daa7dc8bcb5fb922650ae6ebb46780c195c236a38485f5a21a0bbc055d86744ff0df9a2731a2cd9595943d74f2507e",
-      "name": "ScalableLux-0.1.0+beta.1+neoforge.00d9474-all.jar"
     }
   }
 }
