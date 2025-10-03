@@ -1,5 +1,10 @@
 {
   "neoforge": {
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/jzvJgnqH/architectury-18.0.3-neoforge.jar",
+      "sha512": "2e4e263697ac18ffd78633d287cc88220db9a9793a4e635b2f1881eaffc91c5ab2525f10f442b80c61f1f8d23de0860b4c28a951f13b4a53ba81a6e5c80707ed",
+      "name": "architectury-18.0.3-neoforge.jar"
+    },
     "1.21.8": {
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/L9u1QLTx/architectury-17.0.8-neoforge.jar",
       "sha512": "089f10acd12634791817362a50c7eae6383c26ac648f785b0e4faa1e387acd6a552d2ef39ef8be59fb26d31badcfaaa886c0f8bf6d37ce218d14530ba354c5bc",
@@ -67,6 +72,11 @@
     }
   },
   "fabric": {
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1BOXnd2L/architectury-18.0.3-fabric.jar",
+      "sha512": "d8010e14a5106f0d59bc5a926dde53a238ee18cb1a5f7d9885f3b623f8f40b49f703a47809ef7e0ff24d7c5f09cbfcc0515ceb2486ed7c7b8700e2a673782f9f",
+      "name": "architectury-18.0.3-fabric.jar"
+    },
     "1.21.8": {
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/XcJm5LH4/architectury-17.0.8-fabric.jar",
       "sha512": "7965ed7140c9f50cfcf8cf9b415de90497ae44ea4fb6dfe21704c6eba4210d0a34a4a0b0b6baf8b3e9d3b1cb70d0df79ef1ba93d04b5557f09a754959ac9c8b0",
