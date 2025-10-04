@@ -16,11 +16,11 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `ftb-server-installer` -> `1.0.29`
 - `jellyfin-web-with-plugins`
 - `jmc` -> `1.2.19-alpha.1`
-- `lidarr` -> `2.14.3.4791`
+- `lidarr` -> `2.14.4.4809`
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `791f061`
+- `midnight-theme` -> `016d62c`
 - `nvchecker` -> `2.18`
 - `openrgb` -> `f76dbb0`
 - `osu-lazer-bin` -> `2025.912.0-lazer`
@@ -33,7 +33,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shoko-webui` -> `2.3.0-dev.14`
 - `shokofin` -> `5.0.4-dev.42`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1947`
+- `suwayomi-server` -> `2.1.1957`
 - `suwayomi-webui` -> `6b16cdb`
 - `whisparr` -> `3.0.1.1304`
 - `writeSystemdToggle`
