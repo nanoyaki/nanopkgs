@@ -147,12 +147,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "lidarr-src-2.14.3.4791.tar.gz",
-            "sha256": "sha256-A7khU6ayTyX7JkeOHsojEmtfqIfWn+c+UxTagyS3J1A=",
+            "name": "lidarr-src-2.14.4.4809.tar.gz",
+            "sha256": "sha256-mBt0TeZaK2zlcn+p+Z5LiID0n5NmZfdggoi9CRKAk+4=",
             "type": "url",
-            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.3.4791&os=linux&runtime=netcore&arch=x64"
+            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.4.4809&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "2.14.3.4791"
+        "version": "2.14.4.4809"
     },
     "luarenamer": {
         "cargoLocks": null,
@@ -216,7 +216,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-10-02",
+        "date": "2025-10-03",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -226,13 +226,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "791f06186d4e9f8a68791eee7f17582ccc36c4b5",
-            "sha256": "sha256-TuuIOOcCAjhgm+DE58UY9KNh0F9h4LpN82DZziuhVyg=",
+            "rev": "016d62c22997eeece45c33d8dec7bfdc0f2543d6",
+            "sha256": "sha256-GlAckHeThZX8U8WNh+HoO9siaTFBs5lRlF7OyLW6qIg=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "791f06186d4e9f8a68791eee7f17582ccc36c4b5"
+        "version": "016d62c22997eeece45c33d8dec7bfdc0f2543d6"
     },
     "openrgb": {
         "cargoLocks": null,
@@ -393,7 +393,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-10-01",
+        "date": "2025-10-03",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -403,17 +403,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "16c5883c7f62316a83f2e8aaf5f33060c098804c",
-            "sha256": "sha256-QcBsrfs+kURoF0XbfCiBUe74wQjpQ+vpOIKRSN48nbs=",
+            "rev": "e419763c8d5f2e0af0236eb697ad5bcda3bd43a5",
+            "sha256": "sha256-Ta31KTqwBhtYPF66yzOsGAaQB3e+REw6+tYj+g0AU4U=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "16c5883c7f62316a83f2e8aaf5f33060c098804c"
+        "version": "e419763c8d5f2e0af0236eb697ad5bcda3bd43a5"
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-09-29",
+        "date": "2025-10-03",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -423,13 +423,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2e0f72f1820f2337ed8542314f6e6b78f8fa064a",
-            "sha256": "sha256-4QGZXbjadlDF+NBfR5nFQZaZ1fEtFDdeNlQIK/mTReU=",
+            "rev": "b92f9a2e4d2ea2047fbbea57b44e7cd3432fc219",
+            "sha256": "sha256-ZpUOTrb/oZVpsRCwWtE0yzA/FWn+9ntMIQuCozyJ9RE=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "2e0f72f1820f2337ed8542314f6e6b78f8fa064a"
+        "version": "b92f9a2e4d2ea2047fbbea57b44e7cd3432fc219"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
