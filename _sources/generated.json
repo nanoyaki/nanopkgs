@@ -39,6 +39,47 @@
         },
         "version": "v0.49.2"
     },
+    "clipboard-manager": {
+        "cargoLocks": {
+            "Cargo.lock": [
+                "./clipboard-manager-da0a8b5dca84e8bd6018b72f9ab80da901fc956d/Cargo.lock",
+                {
+                    "accesskit-0.16.0": "sha256-yeBzocXxuvHmuPGMRebbsYSKSvN+8sUsmaSKlQDpW4w=",
+                    "alive_lock_file-0.2.0": "sha256-21S3VH/wSL693nkpGE+ztdDFgfxaFkq+zx7L9p4jWsk=",
+                    "atomicwrites-0.4.2": "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=",
+                    "clipboard_macos-0.1.0": "sha256-+8CGmBf1Gl9gnBDtuKtkzUE5rySebhH7Bsq/kNlJofY=",
+                    "cosmic-client-toolkit-0.1.0": "sha256-gOYgz07RGZoBp2RbHn0jUGLGXH/geoch/Y27Qh+jBao=",
+                    "cosmic-config-0.1.0": "sha256-vntPHSKqqLJPRvYZDjhPaWAgOsOLS/6BvmwGd/mQxkQ=",
+                    "cosmic-freedesktop-icons-0.3.0": "sha256-XAcoKxMp1fyclalkkqVMoO7+TVekj/Tq2C9XFM9FFCk=",
+                    "cosmic-panel-config-0.1.0": "sha256-2T95y+2yWkBq/MPPv+52KmfVQDxOw7mmjQOzx+L6qkk=",
+                    "cosmic-settings-daemon-0.1.0": "sha256-CEmzl/09rD11kgnoHP2Q6N/emDhEK4wQiqSXmIlsbPE=",
+                    "cosmic-text-0.14.2": "sha256-lVW2DGnGsV/fFaOzPjOFBNviL0F4hxGUXDdvukrudSI=",
+                    "dpi-0.1.1": "sha256-qYNuicPjhXnN3Dmf3lmfePDWy1VacB1TxxG2XU40e80=",
+                    "iced_glyphon-0.6.0": "sha256-u1vnsOjP8npQ57NNSikotuHxpi4Mp/rV9038vAgCsfQ=",
+                    "smithay-clipboard-0.8.0": "sha256-4InFXm0ahrqFrtNLeqIuE3yeOpxKZJZx+Bc0yQDtv34=",
+                    "softbuffer-0.4.1": "sha256-/ocK79Lr5ywP/bb5mrcm7eTzeBbwpOazojvFUsAjMKM=",
+                    "taffy-0.3.11": "sha256-SCx9GEIJjWdoNVyq+RZAGn0N71qraKZxf9ZWhvyzLaI="
+                }
+            ]
+        },
+        "date": "2025-09-29",
+        "extract": null,
+        "name": "clipboard-manager",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "da0a8b5dca84e8bd6018b72f9ab80da901fc956d",
+            "sha256": "sha256-FK6GNSl8LDKl6AAJTvOffbG9RdUbufmWxd8nI8Uxw6A=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/cosmic-utils/clipboard-manager.git"
+        },
+        "version": "da0a8b5dca84e8bd6018b72f9ab80da901fc956d"
+    },
     "cosmic-classic-menu": {
         "cargoLocks": {
             "Cargo.lock": [

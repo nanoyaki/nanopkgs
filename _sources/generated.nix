@@ -27,6 +27,40 @@
       sha256 = "sha256-kJgZVwMZ1Z50KSYFA16SF3zMpGgYbX3ryFgYTso+JUM=";
     };
   };
+  clipboard-manager = {
+    pname = "clipboard-manager";
+    version = "da0a8b5dca84e8bd6018b72f9ab80da901fc956d";
+    src = fetchgit {
+      url = "https://github.com/cosmic-utils/clipboard-manager.git";
+      rev = "da0a8b5dca84e8bd6018b72f9ab80da901fc956d";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-FK6GNSl8LDKl6AAJTvOffbG9RdUbufmWxd8nI8Uxw6A=";
+    };
+    cargoLock."Cargo.lock" = {
+      lockFile = ./clipboard-manager-da0a8b5dca84e8bd6018b72f9ab80da901fc956d/Cargo.lock;
+      outputHashes = {
+        "cosmic-freedesktop-icons-0.3.0" = "sha256-XAcoKxMp1fyclalkkqVMoO7+TVekj/Tq2C9XFM9FFCk=";
+        "cosmic-settings-daemon-0.1.0" = "sha256-CEmzl/09rD11kgnoHP2Q6N/emDhEK4wQiqSXmIlsbPE=";
+        "clipboard_macos-0.1.0" = "sha256-+8CGmBf1Gl9gnBDtuKtkzUE5rySebhH7Bsq/kNlJofY=";
+        "atomicwrites-0.4.2" = "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=";
+        "dpi-0.1.1" = "sha256-qYNuicPjhXnN3Dmf3lmfePDWy1VacB1TxxG2XU40e80=";
+        "taffy-0.3.11" = "sha256-SCx9GEIJjWdoNVyq+RZAGn0N71qraKZxf9ZWhvyzLaI=";
+        "cosmic-text-0.14.2" = "sha256-lVW2DGnGsV/fFaOzPjOFBNviL0F4hxGUXDdvukrudSI=";
+        "accesskit-0.16.0" = "sha256-yeBzocXxuvHmuPGMRebbsYSKSvN+8sUsmaSKlQDpW4w=";
+        "cosmic-client-toolkit-0.1.0" = "sha256-gOYgz07RGZoBp2RbHn0jUGLGXH/geoch/Y27Qh+jBao=";
+        "cosmic-config-0.1.0" = "sha256-vntPHSKqqLJPRvYZDjhPaWAgOsOLS/6BvmwGd/mQxkQ=";
+        "cosmic-panel-config-0.1.0" = "sha256-2T95y+2yWkBq/MPPv+52KmfVQDxOw7mmjQOzx+L6qkk=";
+        "iced_glyphon-0.6.0" = "sha256-u1vnsOjP8npQ57NNSikotuHxpi4Mp/rV9038vAgCsfQ=";
+        "smithay-clipboard-0.8.0" = "sha256-4InFXm0ahrqFrtNLeqIuE3yeOpxKZJZx+Bc0yQDtv34=";
+        "alive_lock_file-0.2.0" = "sha256-21S3VH/wSL693nkpGE+ztdDFgfxaFkq+zx7L9p4jWsk=";
+        "softbuffer-0.4.1" = "sha256-/ocK79Lr5ywP/bb5mrcm7eTzeBbwpOazojvFUsAjMKM=";
+      };
+    };
+    date = "2025-09-29";
+  };
   cosmic-classic-menu = {
     pname = "cosmic-classic-menu";
     version = "ded493336c9f2877f024d333bfec4a44782ac49f";
