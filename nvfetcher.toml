@@ -10,6 +10,11 @@ src.github_tag = "mcbeet/beet"
 fetch.git = "https://github.com/mcbeet/bolt.git"
 src.github_tag = "mcbeet/bolt"
 
+[cosmic-classic-menu]
+cargo_locks = ["Cargo.lock"]
+fetch.git = "https://github.com/championpeak87/cosmic-classic-menu.git"
+src.git = "https://github.com/championpeak87/cosmic-classic-menu.git"
+
 [drop2beets]
 fetch.git = "https://github.com/martinkirch/drop2beets.git"
 src.git = "https://github.com/martinkirch/drop2beets.git"
