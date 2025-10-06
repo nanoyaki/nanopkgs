@@ -422,4 +422,36 @@
       sha256 = "sha256-B0lJb6e8rIYwWu24NxcvaxBiynQuB3ZK9Bh2VmaHZLc=";
     };
   };
+  wkeys = {
+    pname = "wkeys";
+    version = "14275442a189b03f92698988b15aa7ce9d67f354";
+    src = fetchgit {
+      url = "https://github.com/nanoyaki/wkeys.git";
+      rev = "14275442a189b03f92698988b15aa7ce9d67f354";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-5knNlF7TQ1ReABDsEesFLYMOxYNBVJRUGhD6KGJxWCA=";
+    };
+    cargoLock."Cargo.lock" = {
+      lockFile = ./wkeys-14275442a189b03f92698988b15aa7ce9d67f354/Cargo.lock;
+      outputHashes = {
+        "cosmic-freedesktop-icons-0.3.0" = "sha256-XAcoKxMp1fyclalkkqVMoO7+TVekj/Tq2C9XFM9FFCk=";
+        "cosmic-settings-daemon-0.1.0" = "sha256-0KCw70FGecsRPpapC7YeOsxNFtWdIReqkm0hgTqmd0s=";
+        "clipboard_macos-0.1.0" = "sha256-+8CGmBf1Gl9gnBDtuKtkzUE5rySebhH7Bsq/kNlJofY=";
+        "atomicwrites-0.4.2" = "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=";
+        "dpi-0.1.1" = "sha256-zuX4cvJP67wR4SyWIfkqdxnEf+SUgBb0//1hpoZszRo=";
+        "cosmic-text-0.14.2" = "sha256-LLuUqwUATVy1fcDzHcr+VcpmdpzBNkuGNhMqJ6GFuWA=";
+        "accesskit-0.16.0" = "sha256-uoLcd116WXQTu1ZTfJDEl9+3UPpGBN/QuJpkkGyRADQ=";
+        "cosmic-client-toolkit-0.1.0" = "sha256-KvXQJ/EIRyrlmi80WKl2T9Bn+j7GCfQlcjgcEVUxPkc=";
+        "cosmic-config-0.1.0" = "sha256-vZpw0HC1NwuDSJgd1rOsJgJoCY5yU44wZd9gQpCyN0s=";
+        "cosmic-panel-config-0.1.0" = "sha256-CYGH5D/HmX5ftOkSUWJg8rllm767cygtvEvGlqp7ZrI=";
+        "iced_glyphon-0.6.0" = "sha256-u1vnsOjP8npQ57NNSikotuHxpi4Mp/rV9038vAgCsfQ=";
+        "smithay-clipboard-0.8.0" = "sha256-4InFXm0ahrqFrtNLeqIuE3yeOpxKZJZx+Bc0yQDtv34=";
+        "softbuffer-0.4.1" = "sha256-/ocK79Lr5ywP/bb5mrcm7eTzeBbwpOazojvFUsAjMKM=";
+      };
+    };
+    date = "2025-10-07";
+  };
 }

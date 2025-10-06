@@ -130,3 +130,9 @@ src.github_tag = "vberlier/tokenstream"
 fetch.url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=$ver&os=linux&runtime=netcore&arch=x64"
 src.cmd = "curl -L 'https://whisparr.servarr.com/v1/update/eros/changes' --fail | jq -r '.[0].version'"
 url.name = "whisparr-src-$ver.tar.gz"
+
+[wkeys]
+cargo_locks = ["Cargo.lock"]
+fetch.git = "https://github.com/nanoyaki/wkeys.git"
+src.git = "https://github.com/nanoyaki/wkeys.git"
+src.branch = "feat/nix-package"
