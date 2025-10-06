@@ -20,6 +20,11 @@ cargo_locks = ["Cargo.lock"]
 fetch.git = "https://github.com/championpeak87/cosmic-classic-menu.git"
 src.git = "https://github.com/championpeak87/cosmic-classic-menu.git"
 
+[cosmic-ext-applet-privacy-indicator]
+cargo_locks = ["Cargo.lock"]
+fetch.git = "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator.git"
+src.git = "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator.git"
+
 [drop2beets]
 fetch.git = "https://github.com/martinkirch/drop2beets.git"
 src.git = "https://github.com/martinkirch/drop2beets.git"

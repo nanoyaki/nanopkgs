@@ -121,6 +121,46 @@
         },
         "version": "ded493336c9f2877f024d333bfec4a44782ac49f"
     },
+    "cosmic-ext-applet-privacy-indicator": {
+        "cargoLocks": {
+            "Cargo.lock": [
+                "./cosmic-ext-applet-privacy-indicator-2d3b0efec5a95cf704e414f6e3005641f3aa3666/Cargo.lock",
+                {
+                    "accesskit-0.16.0": "sha256-yeBzocXxuvHmuPGMRebbsYSKSvN+8sUsmaSKlQDpW4w=",
+                    "atomicwrites-0.4.2": "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=",
+                    "clipboard_macos-0.1.0": "sha256-+8CGmBf1Gl9gnBDtuKtkzUE5rySebhH7Bsq/kNlJofY=",
+                    "cosmic-client-toolkit-0.1.0": "sha256-7EFXDQ6aHiXq0qrjeyjqtOuC3B5JLpHQTXbPwtC+fRo=",
+                    "cosmic-config-0.1.0": "sha256-Y+3dugjtM4VdDMcSaTAxUClwcbKBYzNF4/WKhG2WfWw=",
+                    "cosmic-freedesktop-icons-0.3.0": "sha256-WcE3Un2WMyXmSFWT14DsVW03q0dxuLXUrJmkjwwRyKg=",
+                    "cosmic-panel-config-0.1.0": "sha256-NFUe6atVICo/3MCQApzu7OFO98+pKn9WWPTECJYbOAc=",
+                    "cosmic-text-0.13.2": "sha256-wLeRa8G7OiUzg9WvXMH4TKmhLm2xnYKIYUmWDEAPxtE=",
+                    "cosmic-time-0.4.0": "sha256-Y9IUyIZd4OBaWnoxLQmrNJZ3v6C03dWxLcNUE0Y5zbs=",
+                    "dpi-0.1.1": "sha256-whi05/2vc3s5eAJTZ9TzVfGQ/EnfPr0S4PZZmbiYio0=",
+                    "iced_glyphon-0.6.0": "sha256-u1vnsOjP8npQ57NNSikotuHxpi4Mp/rV9038vAgCsfQ=",
+                    "smithay-clipboard-0.8.0": "sha256-4InFXm0ahrqFrtNLeqIuE3yeOpxKZJZx+Bc0yQDtv34=",
+                    "softbuffer-0.4.1": "sha256-a0bUFz6O8CWRweNt/OxTvflnPYwO5nm6vsyc/WcXyNg=",
+                    "taffy-0.3.11": "sha256-SCx9GEIJjWdoNVyq+RZAGn0N71qraKZxf9ZWhvyzLaI="
+                }
+            ]
+        },
+        "date": "2025-07-03",
+        "extract": null,
+        "name": "cosmic-ext-applet-privacy-indicator",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "2d3b0efec5a95cf704e414f6e3005641f3aa3666",
+            "sha256": "sha256-iTdCn5IbOs+g9MeC+EDUGSYxlHTrmhouvL7Y6Y3rK/M=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator.git"
+        },
+        "version": "2d3b0efec5a95cf704e414f6e3005641f3aa3666"
+    },
     "drop2beets": {
         "cargoLocks": null,
         "date": "2024-04-21",

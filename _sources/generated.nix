@@ -95,6 +95,39 @@
     };
     date = "2025-09-29";
   };
+  cosmic-ext-applet-privacy-indicator = {
+    pname = "cosmic-ext-applet-privacy-indicator";
+    version = "2d3b0efec5a95cf704e414f6e3005641f3aa3666";
+    src = fetchgit {
+      url = "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator.git";
+      rev = "2d3b0efec5a95cf704e414f6e3005641f3aa3666";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-iTdCn5IbOs+g9MeC+EDUGSYxlHTrmhouvL7Y6Y3rK/M=";
+    };
+    cargoLock."Cargo.lock" = {
+      lockFile = ./cosmic-ext-applet-privacy-indicator-2d3b0efec5a95cf704e414f6e3005641f3aa3666/Cargo.lock;
+      outputHashes = {
+        "cosmic-freedesktop-icons-0.3.0" = "sha256-WcE3Un2WMyXmSFWT14DsVW03q0dxuLXUrJmkjwwRyKg=";
+        "cosmic-text-0.13.2" = "sha256-wLeRa8G7OiUzg9WvXMH4TKmhLm2xnYKIYUmWDEAPxtE=";
+        "clipboard_macos-0.1.0" = "sha256-+8CGmBf1Gl9gnBDtuKtkzUE5rySebhH7Bsq/kNlJofY=";
+        "atomicwrites-0.4.2" = "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=";
+        "dpi-0.1.1" = "sha256-whi05/2vc3s5eAJTZ9TzVfGQ/EnfPr0S4PZZmbiYio0=";
+        "cosmic-time-0.4.0" = "sha256-Y9IUyIZd4OBaWnoxLQmrNJZ3v6C03dWxLcNUE0Y5zbs=";
+        "taffy-0.3.11" = "sha256-SCx9GEIJjWdoNVyq+RZAGn0N71qraKZxf9ZWhvyzLaI=";
+        "accesskit-0.16.0" = "sha256-yeBzocXxuvHmuPGMRebbsYSKSvN+8sUsmaSKlQDpW4w=";
+        "cosmic-client-toolkit-0.1.0" = "sha256-7EFXDQ6aHiXq0qrjeyjqtOuC3B5JLpHQTXbPwtC+fRo=";
+        "cosmic-config-0.1.0" = "sha256-Y+3dugjtM4VdDMcSaTAxUClwcbKBYzNF4/WKhG2WfWw=";
+        "cosmic-panel-config-0.1.0" = "sha256-NFUe6atVICo/3MCQApzu7OFO98+pKn9WWPTECJYbOAc=";
+        "iced_glyphon-0.6.0" = "sha256-u1vnsOjP8npQ57NNSikotuHxpi4Mp/rV9038vAgCsfQ=";
+        "smithay-clipboard-0.8.0" = "sha256-4InFXm0ahrqFrtNLeqIuE3yeOpxKZJZx+Bc0yQDtv34=";
+        "softbuffer-0.4.1" = "sha256-a0bUFz6O8CWRweNt/OxTvflnPYwO5nm6vsyc/WcXyNg=";
+      };
+    };
+    date = "2025-07-03";
+  };
   drop2beets = {
     pname = "drop2beets";
     version = "6bda199a8f5710b2265ce66cff8f2d3c6f09f6dc";
