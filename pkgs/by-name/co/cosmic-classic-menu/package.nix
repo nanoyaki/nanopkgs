@@ -4,6 +4,7 @@
 {
   lib,
   rustPlatform,
+  stdenv,
   just,
   pkg-config,
   nixosTests,
@@ -42,10 +43,10 @@ rustPlatform.buildRustPackage {
     (placeholder "out")
     "--set"
     "bin-src"
-    "target/x86_64-unknown-linux-gnu/release/cosmic-classic-menu"
+    "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/cosmic-classic-menu"
     "--set"
     "settings-bin-src"
-    "target/x86_64-unknown-linux-gnu/release/cosmic-classic-menu-settings"
+    "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/cosmic-classic-menu-settings"
   ];
 
   passthru.tests = {
