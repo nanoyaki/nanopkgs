@@ -29,6 +29,10 @@ src.git = "https://github.com/D-Brox/cosmic-ext-applet-privacy-indicator.git"
 fetch.git = "https://github.com/martinkirch/drop2beets.git"
 src.git = "https://github.com/martinkirch/drop2beets.git"
 
+[error-pages]
+fetch.git = "https://github.com/sapachev/error-pages.git"
+src.git = "https://github.com/sapachev/error-pages.git"
+
 [fireshare]
 fetch.git = "https://github.com/ShaneIsrael/fireshare.git"
 src.github_tag = "ShaneIsrael/fireshare"

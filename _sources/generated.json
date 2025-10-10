@@ -181,6 +181,26 @@
         },
         "version": "6bda199a8f5710b2265ce66cff8f2d3c6f09f6dc"
     },
+    "error-pages": {
+        "cargoLocks": null,
+        "date": "2024-11-23",
+        "extract": null,
+        "name": "error-pages",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "742c755c049e75c1fbfeab0452091827dd25d9f2",
+            "sha256": "sha256-5oAnXUvY08brivS/BtyUelt4hU8MUFoeA9y075qRRGE=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/sapachev/error-pages.git"
+        },
+        "version": "742c755c049e75c1fbfeab0452091827dd25d9f2"
+    },
     "fireshare": {
         "cargoLocks": null,
         "date": null,

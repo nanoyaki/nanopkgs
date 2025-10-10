@@ -8,6 +8,10 @@ newver = "_versions/new_versions.json"
 keyfile = "./keys.toml"
 max_concurrency = 3
 
+["error-pages.npmDepsHash"]
+source = "cmd"
+cmd = "nix run .#prefetch-npm -- error-pages 2> /dev/null"
+
 ["ftb-server-installer.vendorHash"]
 source = "cmd"
 cmd = '''

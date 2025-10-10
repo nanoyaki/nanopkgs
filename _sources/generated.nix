@@ -142,6 +142,20 @@
     };
     date = "2024-04-21";
   };
+  error-pages = {
+    pname = "error-pages";
+    version = "742c755c049e75c1fbfeab0452091827dd25d9f2";
+    src = fetchgit {
+      url = "https://github.com/sapachev/error-pages.git";
+      rev = "742c755c049e75c1fbfeab0452091827dd25d9f2";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-5oAnXUvY08brivS/BtyUelt4hU8MUFoeA9y075qRRGE=";
+    };
+    date = "2024-11-23";
+  };
   fireshare = {
     pname = "fireshare";
     version = "v1.2.30";
