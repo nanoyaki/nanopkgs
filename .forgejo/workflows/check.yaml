@@ -2,14 +2,17 @@
 #
 # SPDX-License-Identifier: MIT
 on:
-  - push
-  - pull_request
+  push:
+    branches:
+      - main
+  pull_request:
 
 jobs:
   checks:
     runs-on: native
     steps:
-      - name: Checkout repo
-        uses: https://code.forgejo.org/actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Flake checks
         run: nix flake check
