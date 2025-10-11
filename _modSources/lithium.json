@@ -1,5 +1,10 @@
 {
   "fabric": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0%2Bmc1.21.10.jar",
+      "sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2",
+      "name": "lithium-fabric-0.20.0+mc1.21.10.jar"
+    },
     "1.21.9": {
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/YxOQ6mdT/lithium-fabric-0.19.0%2Bmc1.21.9.jar",
       "sha512": "1e5499899a1b4dea8e2fab1209df307fdd1f7fbe1639e3be29b8fcb5cefaab397df8d19bea7eea4156cbfd9065caeaf3c5cadd87ec5163ba7fee13a034c009dc",
@@ -157,6 +162,11 @@
     }
   },
   "neoforge": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/JbdyCWex/lithium-neoforge-0.20.0%2Bmc1.21.10.jar",
+      "sha512": "4257e14628f16f51d3b2dc225415035e335de5b49f37acb5f51c3e83135793dcf0870da34b55a1370002d5df402aefd7961694d3ad2c04586f847abcdc0d9659",
+      "name": "lithium-neoforge-0.20.0+mc1.21.10.jar"
+    },
     "1.21.9": {
       "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/uu31dpmq/lithium-neoforge-0.19.0%2Bmc1.21.9.jar",
       "sha512": "6036093808ce4ba2d7d8fa774ca2e87ea701f0d732bfa04e1a04c6214e53d1165a2a1b10426bcbf16faa4d95618cbd144fa58a5a7027e59cb595c28b75d2a949",

@@ -233,13 +233,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v3.4.1",
-            "sha256": "sha256-ySYH4Ty6Z1mZWPIhIIX0+78RiozEHJ++3C4kBj7MfU0=",
+            "rev": "v3.4.2",
+            "sha256": "sha256-ZQMrt4KJpTRdug3dqtDsX5sQveAdiGSsq9V+71iUKR8=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/FlareSolverr/FlareSolverr.git"
         },
-        "version": "v3.4.1"
+        "version": "v3.4.2"
     },
     "ftb-server-installer": {
         "cargoLocks": null,
@@ -289,12 +289,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "lidarr-src-2.14.4.4809.tar.gz",
-            "sha256": "sha256-mBt0TeZaK2zlcn+p+Z5LiID0n5NmZfdggoi9CRKAk+4=",
+            "name": "lidarr-src-2.14.5.4836.tar.gz",
+            "sha256": "sha256-LeJBed6Zo2+r6ZdgBTkcg+3ORoohvDpx37gOOorg9wY=",
             "type": "url",
-            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.4.4809&os=linux&runtime=netcore&arch=x64"
+            "url": "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.5.4836&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "2.14.4.4809"
+        "version": "2.14.5.4836"
     },
     "luarenamer": {
         "cargoLocks": null,
@@ -358,7 +358,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-10-04",
+        "date": "2025-10-11",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -368,13 +368,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "78b890873c50282106b10f68fbaa47c574cdb45d",
-            "sha256": "sha256-TuuIOOcCAjhgm+DE58UY9KNh0F9h4LpN82DZziuhVyg=",
+            "rev": "d752dd6cc76fd8121b11ea6053c455df80876592",
+            "sha256": "sha256-dsI7ttOa7v/IfP5RkqtoRprJosLK/p+PDekpWAGhP1A=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "78b890873c50282106b10f68fbaa47c574cdb45d"
+        "version": "d752dd6cc76fd8121b11ea6053c455df80876592"
     },
     "openrgb": {
         "cargoLocks": null,
@@ -423,13 +423,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v2.1.2.5186",
-            "sha256": "sha256-VZQFU/sB45HajrC9ITUd9lA5Le0nB66otLkz1NU7nYk=",
+            "rev": "v2.1.3.5208",
+            "sha256": "sha256-rEr9G5LnBx7GHCc90wRHAHuvLtMn4YiE6ykkQ4Z+uco=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Prowlarr/Prowlarr.git"
         },
-        "version": "v2.1.2.5186"
+        "version": "v2.1.3.5208"
     },
     "pyon": {
         "cargoLocks": null,
@@ -499,11 +499,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-HFaRYL3QDlTMbCxTpaVU7/ZXGg0XhobPCmCmuj3LL2Q=",
+            "sha256": "sha256-CCE84nq4UB5Mpxtcf3hU7Vd4nzceYcJVU6u73Xrl2vs=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.129.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.133.tar.gz"
         },
-        "version": "5.1.0-dev.129"
+        "version": "5.1.0-dev.133"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -513,11 +513,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-gYYZJ/dHO3pv+c4fURWkCYEq7jKlKUb64PsVQzXkm5Y=",
+            "sha256": "sha256-VjCc5+YClW31MzG5z55SqIzqkoymMvml1Kry5S+ZcBQ=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.14.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.17.tar.gz"
         },
-        "version": "2.3.0-dev.14"
+        "version": "2.3.0-dev.17"
     },
     "shokofin": {
         "cargoLocks": null,
@@ -527,15 +527,15 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-bJPQbRjw4gefAAwtOWBklp9DJUB8FKdXjZcH3mGbiuY=",
+            "sha256": "sha256-e8wPvtLV2Xa+s1aipMmSNUdYqz6QAtkBvR71EgDfbE4=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.43.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.52.tar.gz"
         },
-        "version": "5.0.4-dev.43"
+        "version": "5.0.4-dev.52"
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-10-03",
+        "date": "2025-10-11",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -545,17 +545,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7acdcc84ffd573236f97ea9bb1c2ec965caed796",
-            "sha256": "sha256-B5szq4cbkvdoTZ0OqN91RxTR4MtP9XxlYO+590pHa4U=",
+            "rev": "84822333fde15925ca4f1be4259a29fe76f184e8",
+            "sha256": "sha256-WzFdq3OBDevB2xc4grtJHciyzlLVIn3FFoYbITyaLqY=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "7acdcc84ffd573236f97ea9bb1c2ec965caed796"
+        "version": "84822333fde15925ca4f1be4259a29fe76f184e8"
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-10-04",
+        "date": "2025-10-05",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -565,17 +565,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3ce9f72e3f7120d468d16d433a8d5070c95cdfe1",
-            "sha256": "sha256-w+F5JeaNObFzKIwdi+wR/wbHt+kKezgmomfPNduYb8g=",
+            "rev": "0d79ac68f80549300ccafb5f9d3bc5b777d800a9",
+            "sha256": "sha256-aFSMcetl4TIvYQCdNAfQCMAFysBZrt2isuGq4vS5WI0=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "3ce9f72e3f7120d468d16d433a8d5070c95cdfe1"
+        "version": "0d79ac68f80549300ccafb5f9d3bc5b777d800a9"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-10-04",
+        "date": "2025-10-08",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -585,13 +585,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b795f987661cf99968597a41db57e6371a38ac4f",
-            "sha256": "sha256-8bzrSJhj0FLCTsB/tgLEIsoM3Zq68QT+AnAnAoJyn7g=",
+            "rev": "28a2b44e940cad6736fb53dd207cd420fcf627d3",
+            "sha256": "sha256-eacpnc5ZXVrMcdKd933xw2+wZDqS4zL7cPtuUMaa6+U=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "b795f987661cf99968597a41db57e6371a38ac4f"
+        "version": "28a2b44e940cad6736fb53dd207cd420fcf627d3"
     },
     "tokenstream": {
         "cargoLocks": null,
@@ -621,17 +621,17 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1304.tar.gz",
-            "sha256": "sha256-B0lJb6e8rIYwWu24NxcvaxBiynQuB3ZK9Bh2VmaHZLc=",
+            "name": "whisparr-src-3.0.1.1310.tar.gz",
+            "sha256": "sha256-b2YfzhgvJdshgnq8ooxhvRf8+EMXfk78y+PC8XzYL5s=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1304&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1310&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1304"
+        "version": "3.0.1.1310"
     },
     "wkeys": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./wkeys-14275442a189b03f92698988b15aa7ce9d67f354/Cargo.lock",
+                "./wkeys-058b98a1d47bc633f61b99d88fc720ecba5e840c/Cargo.lock",
                 {
                     "accesskit-0.16.0": "sha256-uoLcd116WXQTu1ZTfJDEl9+3UPpGBN/QuJpkkGyRADQ=",
                     "atomicwrites-0.4.2": "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=",
@@ -659,12 +659,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "14275442a189b03f92698988b15aa7ce9d67f354",
-            "sha256": "sha256-5knNlF7TQ1ReABDsEesFLYMOxYNBVJRUGhD6KGJxWCA=",
+            "rev": "058b98a1d47bc633f61b99d88fc720ecba5e840c",
+            "sha256": "sha256-312xCT9f3WyoB1C7+olQd/2G0UI0ryQ7SJ0jyvJi2ak=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/nanoyaki/wkeys.git"
         },
-        "version": "14275442a189b03f92698988b15aa7ce9d67f354"
+        "version": "058b98a1d47bc633f61b99d88fc720ecba5e840c"
     }
 }

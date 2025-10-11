@@ -1,5 +1,10 @@
 {
   "fabric": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2UqRNWFr/voicechat-fabric-1.21.10-2.6.4.jar",
+      "sha512": "c264ba172227358244d115a383ecaf7d9f19117f908c43c010c71c878448d64cbb1b5280ca4778278f6882160872bf112baffe871ad572aaa6234f20ada7af87",
+      "name": "voicechat-fabric-1.21.10-2.6.4.jar"
+    },
     "1.21.9": {
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/pTfXZIdn/voicechat-fabric-1.21.9-2.6.4.jar",
       "sha512": "234e5dbbad40a56546c5897995b9ac81bac11fa7478537f02e55a555af261783947b9695a5eb476173c0534248a46bb78040de16d4b831c4fc500c0406ac4e2a",
@@ -131,7 +136,94 @@
       "name": "voicechat-fabric-1.16.5-2.4.4.jar"
     }
   },
+  "neoforge": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tSFfMN2M/voicechat-neoforge-1.21.10-2.6.4.jar",
+      "sha512": "c85447987d9da7732f7d4c2aae2f9c37e8de4b4966db0df568b692c2c0a2551e0849e9bf2dbde7236d021ea4d09f150ea5a4550cc852b4ec5b2587d65d6cb43c",
+      "name": "voicechat-neoforge-1.21.10-2.6.4.jar"
+    },
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GIyvcqq8/voicechat-neoforge-1.21.9-2.6.4.jar",
+      "sha512": "11a1091680df23f75413eba047a8636c96c7ce2059e7e356d99e808e84ea3795880476e503c1fa0d852de23b547b4a0a37283cea1ab5ea97a0e063131c25af75",
+      "name": "voicechat-neoforge-1.21.9-2.6.4.jar"
+    },
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vgPtGAs4/voicechat-neoforge-1.21.8-2.5.34.jar",
+      "sha512": "4d5a6938b992d0650b506d410b91233f6fb88b8679105580828c5d94b0cb33ecf6968f1ac6d504c02301881405a7c026035595d8ea711afdd2cc2cc83431d4b5",
+      "name": "voicechat-neoforge-1.21.8-2.5.34.jar"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nubS57sD/voicechat-neoforge-1.21.7-2.5.32.jar",
+      "sha512": "2e901bf6ddf9e447eb470dd8928a9f5ecc600a85d527ed4a0925712b32d0122933eaae0257f0d972af1f5a8be5fe12f6d8d2663d5f51f36b1de2eb740b48d1da",
+      "name": "voicechat-neoforge-1.21.7-2.5.32.jar"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vH6RZccC/voicechat-neoforge-1.21.6-2.5.30.jar",
+      "sha512": "b758facf60d0d6c15616b39a92ad2922c726bdd7d9a742cc04829f0936aed57647102690e180c1f8c33f05e0c97f10f50198b0ea58f1dc92a92aa5b0f53e0955",
+      "name": "voicechat-neoforge-1.21.6-2.5.30.jar"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/JNcBBbin/voicechat-neoforge-1.21.5-2.5.28.jar",
+      "sha512": "febd809c93cb2131a1e7826e88a64e5c56219a902e5e24295aaf54f7f454854e752d860556863cdd807a772693235f243663cab6c00822728c0c5a6d691768df",
+      "name": "voicechat-neoforge-1.21.5-2.5.28.jar"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2ewrdHIB/voicechat-neoforge-1.21.4-2.5.26.jar",
+      "sha512": "9ef868d227afba1a03834f66a5d628d19d3d714d49700a5fa07344811cf7434a1b2edbdadcb9b231db2fdae14beba553674bfbdf541ec747b4440c3f7b53a321",
+      "name": "voicechat-neoforge-1.21.4-2.5.26.jar"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1mjALWQq/voicechat-neoforge-1.21.3-2.5.24.jar",
+      "sha512": "716c063d7d95512a5a589593ecb3381edd64a8fc0d676075edcee185294cec5c3e83e0cf166137117d83d1b5e2022eb7bd153b210009aae450d9da263b24658f",
+      "name": "voicechat-neoforge-1.21.3-2.5.24.jar"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGe4lsmp/voicechat-neoforge-1.21.2-2.5.24.jar",
+      "sha512": "cf1841b098109a15e3743c1029bb3a9ec25d0e95e864cf3a8bb207074db3f17221544ade5d4a8e30c9fe276f669c5115e49fc2ad9177802e721435575826e41a",
+      "name": "voicechat-neoforge-1.21.2-2.5.24.jar"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yb1rtk9P/voicechat-neoforge-1.21-2.5.20.jar",
+      "sha512": "d37a5bef0af96f6598d721515d7e0bbca71db30563b37b841bad447e80aec274e9af9edefcb8d74f65f88c263f6c3d42ee18bcde52167c03e44aa22ced4f84a7",
+      "name": "voicechat-neoforge-1.21-2.5.20.jar"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SSHueDQM/voicechat-neoforge-1.21-2.5.15.jar",
+      "sha512": "a5c8a26d420387c626a11265e1b346b4407934f856e7dcde2f064bc6e71d68f2d367ce9f90b800e61b98f4dd5048e526194fbce9a852b5d6a7d8d2a7b039b7cd",
+      "name": "voicechat-neoforge-1.21-2.5.15.jar"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2W2al2G/voicechat-neoforge-1.20.6-2.5.12.jar",
+      "sha512": "bfeea0d763712345ae5c490a1fa327cff5b119de3604125c5baa66a60d0ae73b7f9e4ba452c19085fbc19ea9c025d1a3ad5689bf28fc1732bee9577597eae4da",
+      "name": "voicechat-neoforge-1.20.6-2.5.12.jar"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/icTN3dw7/voicechat-neoforge-1.20.5-2.5.12.jar",
+      "sha512": "ef27f2f4fdafc661d5793a5afd04781aeee5690a2b5f8635b3d4090342f266d026e098f0d1113f264e8b45805b9d23d5b7336b954f81c5d71817a44e3c24043f",
+      "name": "voicechat-neoforge-1.20.5-2.5.12.jar"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CPb7xxUz/voicechat-neoforge-1.20.4-2.4.29.jar",
+      "sha512": "09c1078eebe8faf924d933bb5979f37504cde2a4d18dbbe5deb909e66d3bcd9be24989ef16453241648c40b879d1b1e80dc0910434b1c6bc7c125163b9786c56",
+      "name": "voicechat-neoforge-1.20.4-2.4.29.jar"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/cCuuyck5/voicechat-neoforge-1.20.3-2.4.29.jar",
+      "sha512": "d2d7f4bde20cf43b81e88e729b81bb2bc82af9946b983d71e3f480d03d26a5ad828db79317fc3f26fa7c2290ed7acbe5c7a750474815cafa088a68b5e557f4f8",
+      "name": "voicechat-neoforge-1.20.3-2.4.29.jar"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/MFIKyqIP/voicechat-neoforge-1.20.2-2.4.28.jar",
+      "sha512": "14e6132f62e99984b7317a2004d03ca69b148b74fc8988c10a13a1b9156f04248f410e24fd08b0c33931fea709a1a405e33e1ed81bec800fc47cd7ef647f1276",
+      "name": "voicechat-neoforge-1.20.2-2.4.28.jar"
+    }
+  },
   "forge": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VyEcCSxr/voicechat-forge-1.21.10-2.6.4.jar",
+      "sha512": "212c2c3150dd8f3f7da823a3ef7b41294813bea52a592f08f786043b51f1612d6c3cd455cac6bc8486e9c12b80eddd2effc3755006636f412b93162398c18722",
+      "name": "voicechat-forge-1.21.10-2.6.4.jar"
+    },
     "1.21.9": {
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/FmQkKMRD/voicechat-forge-1.21.9-2.6.4.jar",
       "sha512": "d75bc4a89b8601b63f96a03f460b9de9b6ecdd1b4acbd847123f09ffaba0ee64a98a62c785ff6405343745ea7f92a4ec9fae6b17e37edae83e15360b3b2237bb",
@@ -253,84 +345,17 @@
       "name": "voicechat-forge-1.12.2-2.3.21.jar"
     }
   },
-  "neoforge": {
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/GIyvcqq8/voicechat-neoforge-1.21.9-2.6.4.jar",
-      "sha512": "11a1091680df23f75413eba047a8636c96c7ce2059e7e356d99e808e84ea3795880476e503c1fa0d852de23b547b4a0a37283cea1ab5ea97a0e063131c25af75",
-      "name": "voicechat-neoforge-1.21.9-2.6.4.jar"
-    },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vgPtGAs4/voicechat-neoforge-1.21.8-2.5.34.jar",
-      "sha512": "4d5a6938b992d0650b506d410b91233f6fb88b8679105580828c5d94b0cb33ecf6968f1ac6d504c02301881405a7c026035595d8ea711afdd2cc2cc83431d4b5",
-      "name": "voicechat-neoforge-1.21.8-2.5.34.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nubS57sD/voicechat-neoforge-1.21.7-2.5.32.jar",
-      "sha512": "2e901bf6ddf9e447eb470dd8928a9f5ecc600a85d527ed4a0925712b32d0122933eaae0257f0d972af1f5a8be5fe12f6d8d2663d5f51f36b1de2eb740b48d1da",
-      "name": "voicechat-neoforge-1.21.7-2.5.32.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/vH6RZccC/voicechat-neoforge-1.21.6-2.5.30.jar",
-      "sha512": "b758facf60d0d6c15616b39a92ad2922c726bdd7d9a742cc04829f0936aed57647102690e180c1f8c33f05e0c97f10f50198b0ea58f1dc92a92aa5b0f53e0955",
-      "name": "voicechat-neoforge-1.21.6-2.5.30.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/JNcBBbin/voicechat-neoforge-1.21.5-2.5.28.jar",
-      "sha512": "febd809c93cb2131a1e7826e88a64e5c56219a902e5e24295aaf54f7f454854e752d860556863cdd807a772693235f243663cab6c00822728c0c5a6d691768df",
-      "name": "voicechat-neoforge-1.21.5-2.5.28.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2ewrdHIB/voicechat-neoforge-1.21.4-2.5.26.jar",
-      "sha512": "9ef868d227afba1a03834f66a5d628d19d3d714d49700a5fa07344811cf7434a1b2edbdadcb9b231db2fdae14beba553674bfbdf541ec747b4440c3f7b53a321",
-      "name": "voicechat-neoforge-1.21.4-2.5.26.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1mjALWQq/voicechat-neoforge-1.21.3-2.5.24.jar",
-      "sha512": "716c063d7d95512a5a589593ecb3381edd64a8fc0d676075edcee185294cec5c3e83e0cf166137117d83d1b5e2022eb7bd153b210009aae450d9da263b24658f",
-      "name": "voicechat-neoforge-1.21.3-2.5.24.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yGe4lsmp/voicechat-neoforge-1.21.2-2.5.24.jar",
-      "sha512": "cf1841b098109a15e3743c1029bb3a9ec25d0e95e864cf3a8bb207074db3f17221544ade5d4a8e30c9fe276f669c5115e49fc2ad9177802e721435575826e41a",
-      "name": "voicechat-neoforge-1.21.2-2.5.24.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yb1rtk9P/voicechat-neoforge-1.21-2.5.20.jar",
-      "sha512": "d37a5bef0af96f6598d721515d7e0bbca71db30563b37b841bad447e80aec274e9af9edefcb8d74f65f88c263f6c3d42ee18bcde52167c03e44aa22ced4f84a7",
-      "name": "voicechat-neoforge-1.21-2.5.20.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/SSHueDQM/voicechat-neoforge-1.21-2.5.15.jar",
-      "sha512": "a5c8a26d420387c626a11265e1b346b4407934f856e7dcde2f064bc6e71d68f2d367ce9f90b800e61b98f4dd5048e526194fbce9a852b5d6a7d8d2a7b039b7cd",
-      "name": "voicechat-neoforge-1.21-2.5.15.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/e2W2al2G/voicechat-neoforge-1.20.6-2.5.12.jar",
-      "sha512": "bfeea0d763712345ae5c490a1fa327cff5b119de3604125c5baa66a60d0ae73b7f9e4ba452c19085fbc19ea9c025d1a3ad5689bf28fc1732bee9577597eae4da",
-      "name": "voicechat-neoforge-1.20.6-2.5.12.jar"
-    },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/icTN3dw7/voicechat-neoforge-1.20.5-2.5.12.jar",
-      "sha512": "ef27f2f4fdafc661d5793a5afd04781aeee5690a2b5f8635b3d4090342f266d026e098f0d1113f264e8b45805b9d23d5b7336b954f81c5d71817a44e3c24043f",
-      "name": "voicechat-neoforge-1.20.5-2.5.12.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CPb7xxUz/voicechat-neoforge-1.20.4-2.4.29.jar",
-      "sha512": "09c1078eebe8faf924d933bb5979f37504cde2a4d18dbbe5deb909e66d3bcd9be24989ef16453241648c40b879d1b1e80dc0910434b1c6bc7c125163b9786c56",
-      "name": "voicechat-neoforge-1.20.4-2.4.29.jar"
-    },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/cCuuyck5/voicechat-neoforge-1.20.3-2.4.29.jar",
-      "sha512": "d2d7f4bde20cf43b81e88e729b81bb2bc82af9946b983d71e3f480d03d26a5ad828db79317fc3f26fa7c2290ed7acbe5c7a750474815cafa088a68b5e557f4f8",
-      "name": "voicechat-neoforge-1.20.3-2.4.29.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/MFIKyqIP/voicechat-neoforge-1.20.2-2.4.28.jar",
-      "sha512": "14e6132f62e99984b7317a2004d03ca69b148b74fc8988c10a13a1b9156f04248f410e24fd08b0c33931fea709a1a405e33e1ed81bec800fc47cd7ef647f1276",
-      "name": "voicechat-neoforge-1.20.2-2.4.28.jar"
-    }
-  },
   "bukkit": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/kR5X735T/voicechat-bukkit-2.6.5.jar",
+      "sha512": "09f490036d13c59841c608fe40c27abb1dd74ff2ab9647429aa64e6f5c0967810e56abf5dd66698997144d1b0c413c511727e54ccab23c4e6613636dbee1286a",
+      "name": "voicechat-bukkit-2.6.5.jar"
+    },
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/kR5X735T/voicechat-bukkit-2.6.5.jar",
+      "sha512": "09f490036d13c59841c608fe40c27abb1dd74ff2ab9647429aa64e6f5c0967810e56abf5dd66698997144d1b0c413c511727e54ccab23c4e6613636dbee1286a",
+      "name": "voicechat-bukkit-2.6.5.jar"
+    },
     "1.21.8": {
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/bNX2205a/voicechat-bukkit-2.5.35.jar",
       "sha512": "8950b01f6aaf42e988738d4662ca8172321b19bc4411af424edf282c09c42e28549a025b01bf1051c368f17d8b76ef5459971895c06b6f0db2e9aa467dc11c49",
@@ -512,7 +537,79 @@
       "name": "voicechat-bukkit-2.4.15.jar"
     }
   },
+  "quilt": {
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1ThqXrq0/voicechat-quilt-1.21.1-2.5.33.jar",
+      "sha512": "a661c5f9958d6065985625af0b8e109bc8689dcd8023491858b3863c56dc36cf84f492cf56f1b52eb9db82ab8210d5e188f6f50dc160774955d7f3efc47bc455",
+      "name": "voicechat-quilt-1.21.1-2.5.33.jar"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1ThqXrq0/voicechat-quilt-1.21.1-2.5.33.jar",
+      "sha512": "a661c5f9958d6065985625af0b8e109bc8689dcd8023491858b3863c56dc36cf84f492cf56f1b52eb9db82ab8210d5e188f6f50dc160774955d7f3efc47bc455",
+      "name": "voicechat-quilt-1.21.1-2.5.33.jar"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/H435e2Jp/voicechat-quilt-1.20.4-2.5.11.jar",
+      "sha512": "9d87895882b521761525d067af942e2633c174057c584111b422a18ad6b5b1da680d723c3045204d8c17a7da1ca94feaf709ad7200cef6bf7a5f367a9c5dd96b",
+      "name": "voicechat-quilt-1.20.4-2.5.11.jar"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/QqaG3SkF/voicechat-quilt-1.20.2-2.5.1.jar",
+      "sha512": "0863589520f66de4b66fcacae4e7bfd99b6118a53136b6017dff3f8ea60af8d1c5bc73b017ce2aa454f73e0d03e00cac71db5cca9d2b8efe4b135aa01e84e042",
+      "name": "voicechat-quilt-1.20.2-2.5.1.jar"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/4hE7XyBa/voicechat-quilt-1.20.1-2.4.9.jar",
+      "sha512": "7451f46bdab766d1b08033816939e51d9d30e47a292f8d2b6eea25de219394042ee6912007a76e709b5c09683b1c2cf6301f3a244184c7d0a6c3f35750533680",
+      "name": "voicechat-quilt-1.20.1-2.4.9.jar"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nT77HxXK/voicechat-quilt-1.20-2.4.8.jar",
+      "sha512": "e1782f09ff8e3d403b3a4d3233d320bd446c263a670f321b675bd3bc0db8cd3babffa41092c537939ae65d16b3e5d8e0a59a817ee2fa9eef18d9f7bede72dab7",
+      "name": "voicechat-quilt-1.20-2.4.8.jar"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/hPR4sv1C/voicechat-quilt-1.19.4-2.3.28.jar",
+      "sha512": "ebe379cb56125d578000b6d7e3f83b6d33ff4a0f7ff51e623fbbc798478c2fc94dbe49b4c43090f5d5b2aa24fa9efe9fa79bc6fcf318f23726e44646a2425607",
+      "name": "voicechat-quilt-1.19.4-2.3.28.jar"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ySvcLNyJ/voicechat-quilt-1.19.3-2.3.18.jar",
+      "sha512": "864cf56531af87ea5dc9bebc414cc3b4d96ae2487e40a0e467b29fe0e3a625dd8b62bf96383d64a03622adb43bf4edec868c5002562fb4288128a6fe91395c80",
+      "name": "voicechat-quilt-1.19.3-2.3.18.jar"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19.2-2.3.1/voicechat-quilt-1.19.2-2.3.1.jar",
+      "sha512": "aaea8b731064774dd66f9289de1229add2dd4991126d701742b3bf893ac514c7f4f41eb99ea1d40307fdb0c2ac7cce70f613e99375b0434268f1922aab2c89f8",
+      "name": "voicechat-quilt-1.19.2-2.3.1.jar"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19.1-2.2.52/voicechat-quilt-1.19.1-2.2.52.jar",
+      "sha512": "b2a1b32eea40438b5e8ae03c9003ce6cb4d0762e2610c6ba7939e1d6d2c7bd374f3e37d6651140cf38ee4901016dbedc99a15d346aa33cfea21daedd58532416",
+      "name": "voicechat-quilt-1.19.1-2.2.52.jar"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19-2.2.45/voicechat-quilt-1.19-2.2.45.jar",
+      "sha512": "e883417de940af10a7bd876401a81355cc903a468bc4fd5ebae1719cb8c778e3c50b67f9b1871bf4becadf4eaab7548bf256d75a03a7db4e1aab4bf2553438e3",
+      "name": "voicechat-quilt-1.19-2.2.45.jar"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.18.2-2.2.35/voicechat-quilt-1.18.2-2.2.35.jar",
+      "sha512": "9e66b8366e79c221f1b087388d961b71646aa6ab110d5009202929a1eeeadc8e376adb3894dd664db44325b51d57c0867016ab344752166fb4238ab43bc0aa54",
+      "name": "voicechat-quilt-1.18.2-2.2.35.jar"
+    }
+  },
   "velocity": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/jMopHMDQ/voicechat-velocity-2.6.4.jar",
+      "sha512": "03db44bdcf8012fdd7c93ce94c3fe37506d6cd39084ac9fcc294a9069d8bc5f9f160423b67af6a43b2fe044e4df9e716fd8b27fe61f404f94bda71556cc21ebc",
+      "name": "voicechat-velocity-2.6.4.jar"
+    },
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/jMopHMDQ/voicechat-velocity-2.6.4.jar",
+      "sha512": "03db44bdcf8012fdd7c93ce94c3fe37506d6cd39084ac9fcc294a9069d8bc5f9f160423b67af6a43b2fe044e4df9e716fd8b27fe61f404f94bda71556cc21ebc",
+      "name": "voicechat-velocity-2.6.4.jar"
+    },
     "1.21.8": {
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/tFPLv7Jr/voicechat-velocity-2.5.33.jar",
       "sha512": "298572cc28e5fa388bd4a0aeb20cacb31ce98beb5ebbf9735dc7962a332e60574351fa312cb2995dacb13c779845e7d10030409755d718692fcaf11efac7a06a",
@@ -695,6 +792,16 @@
     }
   },
   "bungeecord": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/zYyQUyp0/voicechat-bungeecord-2.6.4.jar",
+      "sha512": "6561b57297d63e5dd0288af5541a8944d9cb28a92d16fa59ef6340cf8005d35cd3f476f345f5b6b32f3f9e6eccd7c6a02e50daddfa855b441fd1196017a0ac4b",
+      "name": "voicechat-bungeecord-2.6.4.jar"
+    },
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/zYyQUyp0/voicechat-bungeecord-2.6.4.jar",
+      "sha512": "6561b57297d63e5dd0288af5541a8944d9cb28a92d16fa59ef6340cf8005d35cd3f476f345f5b6b32f3f9e6eccd7c6a02e50daddfa855b441fd1196017a0ac4b",
+      "name": "voicechat-bungeecord-2.6.4.jar"
+    },
     "1.21.8": {
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ZyGAuT2T/voicechat-bungeecord-2.5.33.jar",
       "sha512": "302d771b2724d02a5e9885115781bb7a662f3aa471fed18f62d2b2091367cf3172dbcc1aa2ba3a7eed4d1fb5f93e011aaf67467b49ce705defc84c7381a847e2",
@@ -874,68 +981,6 @@
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/wvnuFaBl/voicechat-bungeecord-2.5.9.jar",
       "sha512": "2158ea1844527e880c8ca8da7da83159ea2f4186c1297f2b4979cd725f7f21aff043ceab1fa4bad92d04d06f93d877185c597d562f436b3a46748a1fa48bf646",
       "name": "voicechat-bungeecord-2.5.9.jar"
-    }
-  },
-  "quilt": {
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1ThqXrq0/voicechat-quilt-1.21.1-2.5.33.jar",
-      "sha512": "a661c5f9958d6065985625af0b8e109bc8689dcd8023491858b3863c56dc36cf84f492cf56f1b52eb9db82ab8210d5e188f6f50dc160774955d7f3efc47bc455",
-      "name": "voicechat-quilt-1.21.1-2.5.33.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/1ThqXrq0/voicechat-quilt-1.21.1-2.5.33.jar",
-      "sha512": "a661c5f9958d6065985625af0b8e109bc8689dcd8023491858b3863c56dc36cf84f492cf56f1b52eb9db82ab8210d5e188f6f50dc160774955d7f3efc47bc455",
-      "name": "voicechat-quilt-1.21.1-2.5.33.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/H435e2Jp/voicechat-quilt-1.20.4-2.5.11.jar",
-      "sha512": "9d87895882b521761525d067af942e2633c174057c584111b422a18ad6b5b1da680d723c3045204d8c17a7da1ca94feaf709ad7200cef6bf7a5f367a9c5dd96b",
-      "name": "voicechat-quilt-1.20.4-2.5.11.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/QqaG3SkF/voicechat-quilt-1.20.2-2.5.1.jar",
-      "sha512": "0863589520f66de4b66fcacae4e7bfd99b6118a53136b6017dff3f8ea60af8d1c5bc73b017ce2aa454f73e0d03e00cac71db5cca9d2b8efe4b135aa01e84e042",
-      "name": "voicechat-quilt-1.20.2-2.5.1.jar"
-    },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/4hE7XyBa/voicechat-quilt-1.20.1-2.4.9.jar",
-      "sha512": "7451f46bdab766d1b08033816939e51d9d30e47a292f8d2b6eea25de219394042ee6912007a76e709b5c09683b1c2cf6301f3a244184c7d0a6c3f35750533680",
-      "name": "voicechat-quilt-1.20.1-2.4.9.jar"
-    },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nT77HxXK/voicechat-quilt-1.20-2.4.8.jar",
-      "sha512": "e1782f09ff8e3d403b3a4d3233d320bd446c263a670f321b675bd3bc0db8cd3babffa41092c537939ae65d16b3e5d8e0a59a817ee2fa9eef18d9f7bede72dab7",
-      "name": "voicechat-quilt-1.20-2.4.8.jar"
-    },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/hPR4sv1C/voicechat-quilt-1.19.4-2.3.28.jar",
-      "sha512": "ebe379cb56125d578000b6d7e3f83b6d33ff4a0f7ff51e623fbbc798478c2fc94dbe49b4c43090f5d5b2aa24fa9efe9fa79bc6fcf318f23726e44646a2425607",
-      "name": "voicechat-quilt-1.19.4-2.3.28.jar"
-    },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/ySvcLNyJ/voicechat-quilt-1.19.3-2.3.18.jar",
-      "sha512": "864cf56531af87ea5dc9bebc414cc3b4d96ae2487e40a0e467b29fe0e3a625dd8b62bf96383d64a03622adb43bf4edec868c5002562fb4288128a6fe91395c80",
-      "name": "voicechat-quilt-1.19.3-2.3.18.jar"
-    },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19.2-2.3.1/voicechat-quilt-1.19.2-2.3.1.jar",
-      "sha512": "aaea8b731064774dd66f9289de1229add2dd4991126d701742b3bf893ac514c7f4f41eb99ea1d40307fdb0c2ac7cce70f613e99375b0434268f1922aab2c89f8",
-      "name": "voicechat-quilt-1.19.2-2.3.1.jar"
-    },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19.1-2.2.52/voicechat-quilt-1.19.1-2.2.52.jar",
-      "sha512": "b2a1b32eea40438b5e8ae03c9003ce6cb4d0762e2610c6ba7939e1d6d2c7bd374f3e37d6651140cf38ee4901016dbedc99a15d346aa33cfea21daedd58532416",
-      "name": "voicechat-quilt-1.19.1-2.2.52.jar"
-    },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.19-2.2.45/voicechat-quilt-1.19-2.2.45.jar",
-      "sha512": "e883417de940af10a7bd876401a81355cc903a468bc4fd5ebae1719cb8c778e3c50b67f9b1871bf4becadf4eaab7548bf256d75a03a7db4e1aab4bf2553438e3",
-      "name": "voicechat-quilt-1.19-2.2.45.jar"
-    },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/quilt-1.18.2-2.2.35/voicechat-quilt-1.18.2-2.2.35.jar",
-      "sha512": "9e66b8366e79c221f1b087388d961b71646aa6ab110d5009202929a1eeeadc8e376adb3894dd664db44325b51d57c0867016ab344752166fb4238ab43bc0aa54",
-      "name": "voicechat-quilt-1.18.2-2.2.35.jar"
     }
   }
 }
