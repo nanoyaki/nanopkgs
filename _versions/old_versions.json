@@ -1,6 +1,9 @@
 {
   "version": 2,
   "data": {
+    "error-pages.npmDepsHash": {
+      "version": "sha256-6TLZlXHD6n+OxSL4ETV9ObVAgsra2kjg1glzFJYyMTc="
+    },
     "ftb-server-installer.vendorHash": {
       "version": "sha256-rDHUBmM4HtIKAbrrT3PpMZdcNMrVfPq293BEPyMlgPQ="
     },
@@ -20,7 +23,7 @@
       "version": "sha256-QVyjo/Zshy+61qocGKa3tZS8gnHvvVqenf79FkiXDBM="
     },
     "prowlarr.nugetDepsHash": {
-      "version": "sha256-eN1wRQAqsZnNzux3UElas84TBwpUedYezuncAmyWtC0="
+      "version": "sha256-M9+3CYEC7kHixMQzY4NPj0llmpF8UGAKuCzZwcjxYws="
     },
     "shoko-webui.pnpmHash": {
       "version": "sha256-+w9hQhameF72TQmux0dM3X7w4S/JF9Bt09JJGAY59wg="
@@ -41,7 +44,7 @@
       "version": "2.0.1727"
     },
     "suwayomi-server.revision": {
-      "version": "1959"
+      "version": "1960"
     },
     "suwayomi-server.version": {
       "version": "2.1.1867",
@@ -53,7 +56,7 @@
       "version": "2643"
     },
     "suwayomi-webui.revision": {
-      "version": "2843"
+      "version": "2848"
     },
     "suwayomi-webui.yarnHash": {
       "version": "sha256-glbxrb5cK/ytDixPhQJPMJlBb/E4HH6BW6qt80+2VFA="
