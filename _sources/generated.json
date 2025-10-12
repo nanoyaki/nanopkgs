@@ -527,11 +527,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-e8wPvtLV2Xa+s1aipMmSNUdYqz6QAtkBvR71EgDfbE4=",
+            "sha256": "sha256-Ky1a7TJ/AQuNoZa5PR39Lsjo5lPAj/36g25Rzay4DG4=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.52.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.53.tar.gz"
         },
-        "version": "5.0.4-dev.52"
+        "version": "5.0.4-dev.53"
     },
     "stash-scrapers": {
         "cargoLocks": null,
@@ -555,7 +555,7 @@
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-10-05",
+        "date": "2025-10-11",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -565,13 +565,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0d79ac68f80549300ccafb5f9d3bc5b777d800a9",
-            "sha256": "sha256-aFSMcetl4TIvYQCdNAfQCMAFysBZrt2isuGq4vS5WI0=",
+            "rev": "1af15624737b44d52adfb798697a563bb916426d",
+            "sha256": "sha256-SPxCgJxw7iz5LnECvy1YoUorfHPbHRK1KFXmUoOsqgI=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "0d79ac68f80549300ccafb5f9d3bc5b777d800a9"
+        "version": "1af15624737b44d52adfb798697a563bb916426d"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
