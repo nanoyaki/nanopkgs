@@ -358,7 +358,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-10-11",
+        "date": "2025-10-12",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -368,13 +368,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "d752dd6cc76fd8121b11ea6053c455df80876592",
-            "sha256": "sha256-dsI7ttOa7v/IfP5RkqtoRprJosLK/p+PDekpWAGhP1A=",
+            "rev": "302aebda5bf053fa9edd15044446db17f2b34390",
+            "sha256": "sha256-K43FcExrBX5LpHLewIRi5XYOxf3nfoZg48+mAjzB24s=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "d752dd6cc76fd8121b11ea6053c455df80876592"
+        "version": "302aebda5bf053fa9edd15044446db17f2b34390"
     },
     "openrgb": {
         "cargoLocks": null,
