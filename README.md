@@ -24,18 +24,18 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `302aebd`
+- `midnight-theme` -> `e1de342`
 - `nvchecker` -> `2.19`
 - `openrgb` -> `f76dbb0`
 - `osu-lazer-bin` -> `2025.912.0-lazer`
 - `prefetch`
-- `prowlarr` -> `2.1.3.5208`
+- `prowlarr` -> `2.1.4.5212`
 - `pyon` -> `06a076e`
 - `python-modernize` -> `f06b20a`
 - `rofi-themes` -> `093c1a7`
 - `shoko` -> `5.1.0-dev.133`
 - `shoko-webui` -> `2.3.0-dev.17`
-- `shokofin` -> `5.0.4-dev.53`
+- `shokofin` -> `5.0.4-dev.56`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1961`
 - `suwayomi-webui` -> `28a2b44`
