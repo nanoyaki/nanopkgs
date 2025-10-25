@@ -5,6 +5,8 @@ final: prev: {
   openrgb = prev.openrgb.overrideAttrs {
     inherit (final._sources.openrgb) pname version src;
 
+    patches = [ ];
+
     postPatch = ''
       patchShebangs scripts/build-udev-rules.sh
       substituteInPlace scripts/build-udev-rules.sh \
