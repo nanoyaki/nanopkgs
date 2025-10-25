@@ -273,17 +273,17 @@
   };
   openrgb = {
     pname = "openrgb";
-    version = "f76dbb08cc84f786338057fc43f5c4163e593992";
+    version = "8a63cfbf2581ed35c7c771bcaa5516678238acc3";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "f76dbb08cc84f786338057fc43f5c4163e593992";
+      rev = "8a63cfbf2581ed35c7c771bcaa5516678238acc3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-ukuGCX+SBf0gMDxb0AM+ePShkm+6JOJ2eZQHJqHHlgs=";
+      sha256 = "sha256-UyllLHdyzZf/Fxp2oW2MDw0o28FruJBNiRZv7LL/mAo=";
     };
-    date = "2025-07-07";
+    date = "2025-10-20";
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
