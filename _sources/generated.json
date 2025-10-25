@@ -378,23 +378,23 @@
     },
     "openrgb": {
         "cargoLocks": null,
-        "date": "2025-07-07",
+        "date": "2025-10-20",
         "extract": null,
         "name": "openrgb",
         "passthru": null,
-        "pinned": true,
+        "pinned": false,
         "src": {
             "deepClone": false,
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f76dbb08cc84f786338057fc43f5c4163e593992",
-            "sha256": "sha256-ukuGCX+SBf0gMDxb0AM+ePShkm+6JOJ2eZQHJqHHlgs=",
+            "rev": "8a63cfbf2581ed35c7c771bcaa5516678238acc3",
+            "sha256": "sha256-UyllLHdyzZf/Fxp2oW2MDw0o28FruJBNiRZv7LL/mAo=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
         },
-        "version": "f76dbb08cc84f786338057fc43f5c4163e593992"
+        "version": "8a63cfbf2581ed35c7c771bcaa5516678238acc3"
     },
     "osu-lazer-bin": {
         "cargoLocks": null,
@@ -555,7 +555,7 @@
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-10-11",
+        "date": "2025-10-24",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -565,13 +565,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "1af15624737b44d52adfb798697a563bb916426d",
-            "sha256": "sha256-SPxCgJxw7iz5LnECvy1YoUorfHPbHRK1KFXmUoOsqgI=",
+            "rev": "c4b2f8582ec5722ddeb4c1d8175fb20df1bb91d6",
+            "sha256": "sha256-wvXBmJ2W0talRq0LTN2mQkUKxdDkDicBPvhHxcwKLxE=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "1af15624737b44d52adfb798697a563bb916426d"
+        "version": "c4b2f8582ec5722ddeb4c1d8175fb20df1bb91d6"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
