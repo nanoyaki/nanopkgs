@@ -43,10 +43,10 @@ rustPlatform.buildRustPackage {
     (placeholder "out")
     "--set"
     "bin-src"
-    "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/cosmic-classic-menu"
+    "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/cosmic-ext-classic-menu-applet"
     "--set"
     "settings-bin-src"
-    "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/cosmic-classic-menu-settings"
+    "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/cosmic-ext-classic-menu-settings"
   ];
 
   passthru.tests = {
@@ -64,6 +64,6 @@ rustPlatform.buildRustPackage {
     license = lib.licenses.gpl3Only;
     maintainers = with lib.maintainers; [ nanoyaki ];
     platforms = lib.platforms.linux;
-    mainProgram = "cosmic-classic-menu";
+    mainProgram = "cosmic-ext-classic-menu-applet";
   };
 }
