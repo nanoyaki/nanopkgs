@@ -1,161 +1,4 @@
 {
-  "forge": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RLlvBbVl/bluemap-5.12-forge.jar",
-      "sha512": "cb23ecfe6a6df40519b35aeae5c1cdcb9f49c1da3e2beee04d9c235b69db2d9d2b77ebc85ebe16f9c63362c6b55f1b84aeda7b3e089cfc9cdccae9b794011bc7",
-      "name": "bluemap-5.12-forge.jar"
-    },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RLlvBbVl/bluemap-5.12-forge.jar",
-      "sha512": "cb23ecfe6a6df40519b35aeae5c1cdcb9f49c1da3e2beee04d9c235b69db2d9d2b77ebc85ebe16f9c63362c6b55f1b84aeda7b3e089cfc9cdccae9b794011bc7",
-      "name": "bluemap-5.12-forge.jar"
-    },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ORdb1z7Q/bluemap-5.9-forge.jar",
-      "sha512": "d7722227bee3adf5fa4508d0c04b7c95dbf15195a866eddc77b25061b2a1a7fa66da6a74262b494e8231dc6a87baa54749569e30adf80ead26782f248804a617",
-      "name": "bluemap-5.9-forge.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ORdb1z7Q/bluemap-5.9-forge.jar",
-      "sha512": "d7722227bee3adf5fa4508d0c04b7c95dbf15195a866eddc77b25061b2a1a7fa66da6a74262b494e8231dc6a87baa54749569e30adf80ead26782f248804a617",
-      "name": "bluemap-5.9-forge.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/CfgbMTFv/bluemap-5.8-forge.jar",
-      "sha512": "d3061d7e634a7cbe9644d8bef5e448a33ed4f9c147125cb5c70304844a4b9c5a8fb0f65fd856ae306ff48876eea01b35a6956ce336a57eb53155003146b92125",
-      "name": "bluemap-5.8-forge.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/gPUpIIVC/bluemap-5.7-forge.jar",
-      "sha512": "023daa8fb78d6af9fc5cb6216aaf2a3ecbd3b9992a87d28ed5c51ec83dc5534f667ca7e0a9ecfe34222c45362c16aca60e308bb8f6f83b1ddc70215b60bb71ac",
-      "name": "bluemap-5.7-forge.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/3lEYCiM6/bluemap-5.5-forge.jar",
-      "sha512": "63dfa8dcdfd34232a1b09907a92bbc5bd4d814fb5a295adb3ebc4c7b3bd1b63e6ca113c698a18c09e05485669de213f1ed22c16325f942ee091d34ce8b6f7762",
-      "name": "bluemap-5.5-forge.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1zhVy0wv/bluemap-5.4-forge.jar",
-      "sha512": "9a6cdac2c94d9352ea8ac34a157e248650d0ef36de10593b98c2a627c166d13388f0bf0ab2b13711012e5178b1f7bcf224487ae19035e607592d215947f04f64",
-      "name": "bluemap-5.4-forge.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1zhVy0wv/bluemap-5.4-forge.jar",
-      "sha512": "9a6cdac2c94d9352ea8ac34a157e248650d0ef36de10593b98c2a627c166d13388f0bf0ab2b13711012e5178b1f7bcf224487ae19035e607592d215947f04f64",
-      "name": "bluemap-5.4-forge.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/STvf4Fyf/BlueMap-5.3-forge.jar",
-      "sha512": "953ac5f885e5b3814601651d7679195be80633741f3f434d755989f7fbe345bf81525227b41bcc356015db843a700cc01573e62376d82b63ade25467fea6577b",
-      "name": "BlueMap-5.3-forge.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/MFC4ql5h/BlueMap-5.2-forge.jar",
-      "sha512": "a2d03a488d6f1dbd165c8b35833d90375f6b873c5836884f4dbb4bfa797d671579cce59a7f6a4b0a65b71fb806bd441bfa19ccfc5c9b7838b4ffdf95efe46e63",
-      "name": "BlueMap-5.2-forge.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/nWBcwxSD/BlueMap-3.21-forge-1.20.6.jar",
-      "sha512": "cb3fab78c5a6e65e98e69bb5c031e6c18c6746aeba53afd957e10b10dc7c6544979d5720cd098dcdc0887c6ac248e5934543c74c9e1206e99169a3bdf82e91f2",
-      "name": "BlueMap-3.21-forge-1.20.6.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/PTswaxBf/BlueMap-3.19-forge-1.20.jar",
-      "sha512": "8476c4a2176ef2107e9e30cc51aecc6eb359425c156b02962ba8994c30487235419c0c26a13eb8663ab8aeb5c6974051f3ecc82f1395b1ca217d08efba390b8d",
-      "name": "BlueMap-3.19-forge-1.20.jar"
-    },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/PTswaxBf/BlueMap-3.19-forge-1.20.jar",
-      "sha512": "8476c4a2176ef2107e9e30cc51aecc6eb359425c156b02962ba8994c30487235419c0c26a13eb8663ab8aeb5c6974051f3ecc82f1395b1ca217d08efba390b8d",
-      "name": "BlueMap-3.19-forge-1.20.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/lqPY5taU/BlueMap-3.16-forge-1.20.jar",
-      "sha512": "0d6acbbc747c9e2d8805cbda1ea4a307fe4db6ed42daa5c8796025b12bd4a578cdfff27ef63ae5441dde7a48368b41e9af6f0981a80139368aa77367f2785eb2",
-      "name": "BlueMap-3.16-forge-1.20.jar"
-    },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/GvNWfXqb/BlueMap-3.14-forge-1.20.jar",
-      "sha512": "d3aa3a1ee1b2ca33b1ab436e5a5dcb46d6cfbe4cb71be3681e0876718f9161514a517e41c8165e0462e3c1d14a395e5797f8a0e93e024ea3713f495d6ae88dac",
-      "name": "BlueMap-3.14-forge-1.20.jar"
-    },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/GvNWfXqb/BlueMap-3.14-forge-1.20.jar",
-      "sha512": "d3aa3a1ee1b2ca33b1ab436e5a5dcb46d6cfbe4cb71be3681e0876718f9161514a517e41c8165e0462e3c1d14a395e5797f8a0e93e024ea3713f495d6ae88dac",
-      "name": "BlueMap-3.14-forge-1.20.jar"
-    },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/2Ru55irp/BlueMap-3.12-forge-1.19.4.jar",
-      "sha512": "833305367c45824465acfc37910ef352995dc38dc645ee65af26ce42c923cb70c4fdbfb5c3bfe63400c3ef0cba2eb214dcbd013d2417985932572487c568a4fc",
-      "name": "BlueMap-3.12-forge-1.19.4.jar"
-    },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/cUySyFAx/BlueMap-3.7-forge-1.19.3.jar",
-      "sha512": "69f978f26370cf8e36f30a53e6ace550c32c46fafe6668770a45bf2b111128bf767b940bb31f447a34086f2f88f8dacae2b841cad457a84b175083d9cebbeddf",
-      "name": "BlueMap-3.7-forge-1.19.3.jar"
-    },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/XXRac7to/BlueMap-3.3-forge-1.19.1.jar",
-      "sha512": "6e4066efe1b4caedfd498524da4ac5ccaa2b77eec2870e922f21b71c00d38a1dcf7c6283cf70b32a167f46f3d1a4bcee0cfb9f6c4b3c353260d504c740a63fa9",
-      "name": "BlueMap-3.3-forge-1.19.1.jar"
-    },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/XXRac7to/BlueMap-3.3-forge-1.19.1.jar",
-      "sha512": "6e4066efe1b4caedfd498524da4ac5ccaa2b77eec2870e922f21b71c00d38a1dcf7c6283cf70b32a167f46f3d1a4bcee0cfb9f6c4b3c353260d504c740a63fa9",
-      "name": "BlueMap-3.3-forge-1.19.1.jar"
-    },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.3-forge-1.19/BlueMap-1.7.3-forge-1.19.jar",
-      "sha512": "7970522cd8c4132b0a6cecaf61000d515919e185087ca2b8bb337f375449424f6aa808bd1d688b304547cb06efdd7d0e1f9bfdc60b8d763106ccdccfb81bbf73",
-      "name": "BlueMap-1.7.3-forge-1.19.jar"
-    },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-forge-1.18.1/BlueMap-1.7.2-forge-1.18.1.jar",
-      "sha512": "fa50e3cf45a3dd4bd8da8870cde781f0fa75d9afd431630f2aea9aa25112ea9c1bcb31a3eb424ea0e99113a3dd69a886c63caf57bfc3e167b9a05bbb16ccf208",
-      "name": "BlueMap-1.7.2-forge-1.18.1.jar"
-    },
-    "1.18.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-forge-1.18.1/BlueMap-1.7.2-forge-1.18.1.jar",
-      "sha512": "fa50e3cf45a3dd4bd8da8870cde781f0fa75d9afd431630f2aea9aa25112ea9c1bcb31a3eb424ea0e99113a3dd69a886c63caf57bfc3e167b9a05bbb16ccf208",
-      "name": "BlueMap-1.7.2-forge-1.18.1.jar"
-    },
-    "1.17.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/N0dl95Kx/BlueMap-3.5-forge-1.17.1.jar",
-      "sha512": "71a9bd5518d9fbfa2b18ad9d565e42ed78456bd3694173abdc94401a61e216c1a7b7452446786af7af84ddf672ea6840ec0750d49ee11f557bb63649f72b6d46",
-      "name": "BlueMap-3.5-forge-1.17.1.jar"
-    },
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
-      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
-      "name": "BlueMap-3.5-forge-1.16.2.jar"
-    },
-    "1.16.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
-      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
-      "name": "BlueMap-3.5-forge-1.16.2.jar"
-    },
-    "1.16.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
-      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
-      "name": "BlueMap-3.5-forge-1.16.2.jar"
-    },
-    "1.16.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
-      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
-      "name": "BlueMap-3.5-forge-1.16.2.jar"
-    },
-    "1.15.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/2WFd5cWf/BlueMap-3.5-forge-1.15.2.jar",
-      "sha512": "b93af084e4db55e18c22a463dcebc18a8531f4223c533d374d4cfa0780d4e1bf4eb634f0dc9b07f5021066534e31aee5f5ae1feef107ce16c013f341944b479d",
-      "name": "BlueMap-3.5-forge-1.15.2.jar"
-    },
-    "1.14.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/mtJ75SMA/BlueMap-3.5-forge-1.14.4.jar",
-      "sha512": "5900f96bca006a12587671d71e5e5211240d89ba8852890fab40deaa003990d9153ba5e4cdc813e719eb060ce998f9942df98d7ffc297745726bfd67feb94545",
-      "name": "BlueMap-3.5-forge-1.14.4.jar"
-    }
-  },
   "fabric": {
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/d38XhzPO/bluemap-5.12-fabric.jar",
@@ -839,6 +682,163 @@
       "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/QkJuJCL2/BlueMap-3.19-neoforge-1.20.2.jar",
       "sha512": "ec331ae25765dfe460c97ccab5e7fd54c71521e0e596e0555b209baf132311330f33f9726eaa0bb919fb030e8ec8c38d50394b57c159765b6b22c012061badfe",
       "name": "BlueMap-3.19-neoforge-1.20.2.jar"
+    }
+  },
+  "forge": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RLlvBbVl/bluemap-5.12-forge.jar",
+      "sha512": "cb23ecfe6a6df40519b35aeae5c1cdcb9f49c1da3e2beee04d9c235b69db2d9d2b77ebc85ebe16f9c63362c6b55f1b84aeda7b3e089cfc9cdccae9b794011bc7",
+      "name": "bluemap-5.12-forge.jar"
+    },
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RLlvBbVl/bluemap-5.12-forge.jar",
+      "sha512": "cb23ecfe6a6df40519b35aeae5c1cdcb9f49c1da3e2beee04d9c235b69db2d9d2b77ebc85ebe16f9c63362c6b55f1b84aeda7b3e089cfc9cdccae9b794011bc7",
+      "name": "bluemap-5.12-forge.jar"
+    },
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ORdb1z7Q/bluemap-5.9-forge.jar",
+      "sha512": "d7722227bee3adf5fa4508d0c04b7c95dbf15195a866eddc77b25061b2a1a7fa66da6a74262b494e8231dc6a87baa54749569e30adf80ead26782f248804a617",
+      "name": "bluemap-5.9-forge.jar"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ORdb1z7Q/bluemap-5.9-forge.jar",
+      "sha512": "d7722227bee3adf5fa4508d0c04b7c95dbf15195a866eddc77b25061b2a1a7fa66da6a74262b494e8231dc6a87baa54749569e30adf80ead26782f248804a617",
+      "name": "bluemap-5.9-forge.jar"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/CfgbMTFv/bluemap-5.8-forge.jar",
+      "sha512": "d3061d7e634a7cbe9644d8bef5e448a33ed4f9c147125cb5c70304844a4b9c5a8fb0f65fd856ae306ff48876eea01b35a6956ce336a57eb53155003146b92125",
+      "name": "bluemap-5.8-forge.jar"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/gPUpIIVC/bluemap-5.7-forge.jar",
+      "sha512": "023daa8fb78d6af9fc5cb6216aaf2a3ecbd3b9992a87d28ed5c51ec83dc5534f667ca7e0a9ecfe34222c45362c16aca60e308bb8f6f83b1ddc70215b60bb71ac",
+      "name": "bluemap-5.7-forge.jar"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/3lEYCiM6/bluemap-5.5-forge.jar",
+      "sha512": "63dfa8dcdfd34232a1b09907a92bbc5bd4d814fb5a295adb3ebc4c7b3bd1b63e6ca113c698a18c09e05485669de213f1ed22c16325f942ee091d34ce8b6f7762",
+      "name": "bluemap-5.5-forge.jar"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1zhVy0wv/bluemap-5.4-forge.jar",
+      "sha512": "9a6cdac2c94d9352ea8ac34a157e248650d0ef36de10593b98c2a627c166d13388f0bf0ab2b13711012e5178b1f7bcf224487ae19035e607592d215947f04f64",
+      "name": "bluemap-5.4-forge.jar"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1zhVy0wv/bluemap-5.4-forge.jar",
+      "sha512": "9a6cdac2c94d9352ea8ac34a157e248650d0ef36de10593b98c2a627c166d13388f0bf0ab2b13711012e5178b1f7bcf224487ae19035e607592d215947f04f64",
+      "name": "bluemap-5.4-forge.jar"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/STvf4Fyf/BlueMap-5.3-forge.jar",
+      "sha512": "953ac5f885e5b3814601651d7679195be80633741f3f434d755989f7fbe345bf81525227b41bcc356015db843a700cc01573e62376d82b63ade25467fea6577b",
+      "name": "BlueMap-5.3-forge.jar"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/MFC4ql5h/BlueMap-5.2-forge.jar",
+      "sha512": "a2d03a488d6f1dbd165c8b35833d90375f6b873c5836884f4dbb4bfa797d671579cce59a7f6a4b0a65b71fb806bd441bfa19ccfc5c9b7838b4ffdf95efe46e63",
+      "name": "BlueMap-5.2-forge.jar"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/nWBcwxSD/BlueMap-3.21-forge-1.20.6.jar",
+      "sha512": "cb3fab78c5a6e65e98e69bb5c031e6c18c6746aeba53afd957e10b10dc7c6544979d5720cd098dcdc0887c6ac248e5934543c74c9e1206e99169a3bdf82e91f2",
+      "name": "BlueMap-3.21-forge-1.20.6.jar"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/PTswaxBf/BlueMap-3.19-forge-1.20.jar",
+      "sha512": "8476c4a2176ef2107e9e30cc51aecc6eb359425c156b02962ba8994c30487235419c0c26a13eb8663ab8aeb5c6974051f3ecc82f1395b1ca217d08efba390b8d",
+      "name": "BlueMap-3.19-forge-1.20.jar"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/PTswaxBf/BlueMap-3.19-forge-1.20.jar",
+      "sha512": "8476c4a2176ef2107e9e30cc51aecc6eb359425c156b02962ba8994c30487235419c0c26a13eb8663ab8aeb5c6974051f3ecc82f1395b1ca217d08efba390b8d",
+      "name": "BlueMap-3.19-forge-1.20.jar"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/lqPY5taU/BlueMap-3.16-forge-1.20.jar",
+      "sha512": "0d6acbbc747c9e2d8805cbda1ea4a307fe4db6ed42daa5c8796025b12bd4a578cdfff27ef63ae5441dde7a48368b41e9af6f0981a80139368aa77367f2785eb2",
+      "name": "BlueMap-3.16-forge-1.20.jar"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/GvNWfXqb/BlueMap-3.14-forge-1.20.jar",
+      "sha512": "d3aa3a1ee1b2ca33b1ab436e5a5dcb46d6cfbe4cb71be3681e0876718f9161514a517e41c8165e0462e3c1d14a395e5797f8a0e93e024ea3713f495d6ae88dac",
+      "name": "BlueMap-3.14-forge-1.20.jar"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/GvNWfXqb/BlueMap-3.14-forge-1.20.jar",
+      "sha512": "d3aa3a1ee1b2ca33b1ab436e5a5dcb46d6cfbe4cb71be3681e0876718f9161514a517e41c8165e0462e3c1d14a395e5797f8a0e93e024ea3713f495d6ae88dac",
+      "name": "BlueMap-3.14-forge-1.20.jar"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/2Ru55irp/BlueMap-3.12-forge-1.19.4.jar",
+      "sha512": "833305367c45824465acfc37910ef352995dc38dc645ee65af26ce42c923cb70c4fdbfb5c3bfe63400c3ef0cba2eb214dcbd013d2417985932572487c568a4fc",
+      "name": "BlueMap-3.12-forge-1.19.4.jar"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/cUySyFAx/BlueMap-3.7-forge-1.19.3.jar",
+      "sha512": "69f978f26370cf8e36f30a53e6ace550c32c46fafe6668770a45bf2b111128bf767b940bb31f447a34086f2f88f8dacae2b841cad457a84b175083d9cebbeddf",
+      "name": "BlueMap-3.7-forge-1.19.3.jar"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/XXRac7to/BlueMap-3.3-forge-1.19.1.jar",
+      "sha512": "6e4066efe1b4caedfd498524da4ac5ccaa2b77eec2870e922f21b71c00d38a1dcf7c6283cf70b32a167f46f3d1a4bcee0cfb9f6c4b3c353260d504c740a63fa9",
+      "name": "BlueMap-3.3-forge-1.19.1.jar"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/XXRac7to/BlueMap-3.3-forge-1.19.1.jar",
+      "sha512": "6e4066efe1b4caedfd498524da4ac5ccaa2b77eec2870e922f21b71c00d38a1dcf7c6283cf70b32a167f46f3d1a4bcee0cfb9f6c4b3c353260d504c740a63fa9",
+      "name": "BlueMap-3.3-forge-1.19.1.jar"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.3-forge-1.19/BlueMap-1.7.3-forge-1.19.jar",
+      "sha512": "7970522cd8c4132b0a6cecaf61000d515919e185087ca2b8bb337f375449424f6aa808bd1d688b304547cb06efdd7d0e1f9bfdc60b8d763106ccdccfb81bbf73",
+      "name": "BlueMap-1.7.3-forge-1.19.jar"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-forge-1.18.1/BlueMap-1.7.2-forge-1.18.1.jar",
+      "sha512": "fa50e3cf45a3dd4bd8da8870cde781f0fa75d9afd431630f2aea9aa25112ea9c1bcb31a3eb424ea0e99113a3dd69a886c63caf57bfc3e167b9a05bbb16ccf208",
+      "name": "BlueMap-1.7.2-forge-1.18.1.jar"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-forge-1.18.1/BlueMap-1.7.2-forge-1.18.1.jar",
+      "sha512": "fa50e3cf45a3dd4bd8da8870cde781f0fa75d9afd431630f2aea9aa25112ea9c1bcb31a3eb424ea0e99113a3dd69a886c63caf57bfc3e167b9a05bbb16ccf208",
+      "name": "BlueMap-1.7.2-forge-1.18.1.jar"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/N0dl95Kx/BlueMap-3.5-forge-1.17.1.jar",
+      "sha512": "71a9bd5518d9fbfa2b18ad9d565e42ed78456bd3694173abdc94401a61e216c1a7b7452446786af7af84ddf672ea6840ec0750d49ee11f557bb63649f72b6d46",
+      "name": "BlueMap-3.5-forge-1.17.1.jar"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
+      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
+      "name": "BlueMap-3.5-forge-1.16.2.jar"
+    },
+    "1.16.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
+      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
+      "name": "BlueMap-3.5-forge-1.16.2.jar"
+    },
+    "1.16.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
+      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
+      "name": "BlueMap-3.5-forge-1.16.2.jar"
+    },
+    "1.16.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/WrCRUWHl/BlueMap-3.5-forge-1.16.2.jar",
+      "sha512": "ccf9d1b48bd574726884c2ce5025aeec519cc83ddbec991128f38beb8d3d4d238f600a41ba552b959b9958cacbd9a5daa98931455a639b00b11aa5a5467fa0a8",
+      "name": "BlueMap-3.5-forge-1.16.2.jar"
+    },
+    "1.15.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/2WFd5cWf/BlueMap-3.5-forge-1.15.2.jar",
+      "sha512": "b93af084e4db55e18c22a463dcebc18a8531f4223c533d374d4cfa0780d4e1bf4eb634f0dc9b07f5021066534e31aee5f5ae1feef107ce16c013f341944b479d",
+      "name": "BlueMap-3.5-forge-1.15.2.jar"
+    },
+    "1.14.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/mtJ75SMA/BlueMap-3.5-forge-1.14.4.jar",
+      "sha512": "5900f96bca006a12587671d71e5e5211240d89ba8852890fab40deaa003990d9153ba5e4cdc813e719eb060ce998f9942df98d7ffc297745726bfd67feb94545",
+      "name": "BlueMap-3.5-forge-1.14.4.jar"
     }
   },
   "paper": {

@@ -3,15 +3,15 @@
 {
   beet = {
     pname = "beet";
-    version = "v0.111.0";
+    version = "v0.112.0";
     src = fetchgit {
       url = "https://github.com/mcbeet/beet.git";
-      rev = "v0.111.0";
+      rev = "v0.112.0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-cZG5HKHVAUh+oTb+ULPBWyqXrdgvTTbYTyqewYGcxWQ=";
+      sha256 = "sha256-NfYOxS1UAgrFrYGD4QSC80/LJN9WplA//DIvQEgJ9ZM=";
     };
   };
   bolt = {
@@ -29,71 +29,68 @@
   };
   clipboard-manager = {
     pname = "clipboard-manager";
-    version = "da0a8b5dca84e8bd6018b72f9ab80da901fc956d";
+    version = "08a4f34022cc092302ea0f0a95457891984d4f3d";
     src = fetchgit {
       url = "https://github.com/cosmic-utils/clipboard-manager.git";
-      rev = "da0a8b5dca84e8bd6018b72f9ab80da901fc956d";
+      rev = "08a4f34022cc092302ea0f0a95457891984d4f3d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-FK6GNSl8LDKl6AAJTvOffbG9RdUbufmWxd8nI8Uxw6A=";
+      sha256 = "sha256-2b2qHx7IPKn5i6Te3IeglGEbznMNfcsmYpVwRDLOfX0=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./clipboard-manager-da0a8b5dca84e8bd6018b72f9ab80da901fc956d/Cargo.lock;
+      lockFile = ./clipboard-manager-08a4f34022cc092302ea0f0a95457891984d4f3d/Cargo.lock;
       outputHashes = {
         "cosmic-freedesktop-icons-0.3.0" = "sha256-XAcoKxMp1fyclalkkqVMoO7+TVekj/Tq2C9XFM9FFCk=";
-        "cosmic-settings-daemon-0.1.0" = "sha256-CEmzl/09rD11kgnoHP2Q6N/emDhEK4wQiqSXmIlsbPE=";
+        "cosmic-settings-daemon-0.1.0" = "sha256-3QCkl2/kof0l8S3zAppEWL88uaXAH43NL4UJA0xVCPI=";
         "clipboard_macos-0.1.0" = "sha256-+8CGmBf1Gl9gnBDtuKtkzUE5rySebhH7Bsq/kNlJofY=";
         "atomicwrites-0.4.2" = "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=";
-        "dpi-0.1.1" = "sha256-qYNuicPjhXnN3Dmf3lmfePDWy1VacB1TxxG2XU40e80=";
-        "taffy-0.3.11" = "sha256-SCx9GEIJjWdoNVyq+RZAGn0N71qraKZxf9ZWhvyzLaI=";
-        "cosmic-text-0.14.2" = "sha256-lVW2DGnGsV/fFaOzPjOFBNviL0F4hxGUXDdvukrudSI=";
-        "accesskit-0.16.0" = "sha256-yeBzocXxuvHmuPGMRebbsYSKSvN+8sUsmaSKlQDpW4w=";
-        "cosmic-client-toolkit-0.1.0" = "sha256-gOYgz07RGZoBp2RbHn0jUGLGXH/geoch/Y27Qh+jBao=";
-        "cosmic-config-0.1.0" = "sha256-vntPHSKqqLJPRvYZDjhPaWAgOsOLS/6BvmwGd/mQxkQ=";
-        "cosmic-panel-config-0.1.0" = "sha256-2T95y+2yWkBq/MPPv+52KmfVQDxOw7mmjQOzx+L6qkk=";
+        "dpi-0.1.1" = "sha256-zuX4cvJP67wR4SyWIfkqdxnEf+SUgBb0//1hpoZszRo=";
+        "cosmic-text-0.14.2" = "sha256-Yu5DXhDJWvBqBCroMak5g3JQoUyr4pc3tpBFst0+2mE=";
+        "accesskit-0.16.0" = "sha256-uoLcd116WXQTu1ZTfJDEl9+3UPpGBN/QuJpkkGyRADQ=";
+        "cosmic-client-toolkit-0.1.0" = "sha256-KvXQJ/EIRyrlmi80WKl2T9Bn+j7GCfQlcjgcEVUxPkc=";
+        "cosmic-config-0.1.0" = "sha256-CcmDYbJNIhvc9mU9ng53w6s8ge5z7ON84baaos8Duag=";
+        "cosmic-panel-config-0.1.0" = "sha256-d21/ydBbT/lWudx9+hEDu7PlbIbORr3tqWcvMzenxr8=";
         "iced_glyphon-0.6.0" = "sha256-u1vnsOjP8npQ57NNSikotuHxpi4Mp/rV9038vAgCsfQ=";
         "smithay-clipboard-0.8.0" = "sha256-4InFXm0ahrqFrtNLeqIuE3yeOpxKZJZx+Bc0yQDtv34=";
-        "alive_lock_file-0.2.0" = "sha256-21S3VH/wSL693nkpGE+ztdDFgfxaFkq+zx7L9p4jWsk=";
         "softbuffer-0.4.1" = "sha256-/ocK79Lr5ywP/bb5mrcm7eTzeBbwpOazojvFUsAjMKM=";
       };
     };
-    date = "2025-09-29";
+    date = "2025-10-23";
   };
   cosmic-classic-menu = {
     pname = "cosmic-classic-menu";
-    version = "ded493336c9f2877f024d333bfec4a44782ac49f";
+    version = "d63e2bfd207c2ca0f1a51fdffe5d515a6f3ac116";
     src = fetchgit {
       url = "https://github.com/championpeak87/cosmic-classic-menu.git";
-      rev = "ded493336c9f2877f024d333bfec4a44782ac49f";
+      rev = "d63e2bfd207c2ca0f1a51fdffe5d515a6f3ac116";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Nf0J6Ou9xjfUYcMBd/ZhGAg+W4CC7YUd/eZCzArjl0o=";
+      sha256 = "sha256-OvmkwUx7tVQanho7Mn5NyKDTRWiASLIGfgeEVxnQBoM=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./cosmic-classic-menu-ded493336c9f2877f024d333bfec4a44782ac49f/Cargo.lock;
+      lockFile = ./cosmic-classic-menu-d63e2bfd207c2ca0f1a51fdffe5d515a6f3ac116/Cargo.lock;
       outputHashes = {
         "cosmic-freedesktop-icons-0.3.0" = "sha256-XAcoKxMp1fyclalkkqVMoO7+TVekj/Tq2C9XFM9FFCk=";
         "clipboard_macos-0.1.0" = "sha256-+8CGmBf1Gl9gnBDtuKtkzUE5rySebhH7Bsq/kNlJofY=";
         "atomicwrites-0.4.2" = "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=";
-        "dpi-0.1.1" = "sha256-qYNuicPjhXnN3Dmf3lmfePDWy1VacB1TxxG2XU40e80=";
-        "taffy-0.3.11" = "sha256-SCx9GEIJjWdoNVyq+RZAGn0N71qraKZxf9ZWhvyzLaI=";
-        "cosmic-text-0.14.2" = "sha256-I7mjFpqqkqZKkVn3r2INL4ZbgCnG3sA1yN/HwQLegWs=";
-        "cosmic-settings-config-0.1.0" = "sha256-tHG/VoaP1tcns6AyedkkVUpWFlcOclWijsHYQ3vOIjs=";
-        "accesskit-0.16.0" = "sha256-yeBzocXxuvHmuPGMRebbsYSKSvN+8sUsmaSKlQDpW4w=";
-        "cosmic-client-toolkit-0.1.0" = "sha256-gOYgz07RGZoBp2RbHn0jUGLGXH/geoch/Y27Qh+jBao=";
-        "cosmic-config-0.1.0" = "sha256-zv2kf/NMTA9XxSXuhvFtmBCHY88G6o0lS3UByALjCco=";
-        "accounts-zbus-0.1.0" = "sha256-CEmzl/09rD11kgnoHP2Q6N/emDhEK4wQiqSXmIlsbPE=";
-        "cosmic-panel-config-0.1.0" = "sha256-2T95y+2yWkBq/MPPv+52KmfVQDxOw7mmjQOzx+L6qkk=";
+        "dpi-0.1.1" = "sha256-zuX4cvJP67wR4SyWIfkqdxnEf+SUgBb0//1hpoZszRo=";
+        "cosmic-text-0.14.2" = "sha256-Yu5DXhDJWvBqBCroMak5g3JQoUyr4pc3tpBFst0+2mE=";
+        "cosmic-settings-config-0.1.0" = "sha256-CtHy8qy7CatbErNZKu1pLFC9aUWLj0r87+lvRB16oSE=";
+        "accesskit-0.16.0" = "sha256-uoLcd116WXQTu1ZTfJDEl9+3UPpGBN/QuJpkkGyRADQ=";
+        "cosmic-client-toolkit-0.1.0" = "sha256-KvXQJ/EIRyrlmi80WKl2T9Bn+j7GCfQlcjgcEVUxPkc=";
+        "cosmic-config-0.1.0" = "sha256-kkmZJqJTKmx437cw9aHJ4fJr2ACWgke1fNFG++kzhts=";
+        "accounts-zbus-0.1.0" = "sha256-3QCkl2/kof0l8S3zAppEWL88uaXAH43NL4UJA0xVCPI=";
+        "cosmic-panel-config-0.1.0" = "sha256-d21/ydBbT/lWudx9+hEDu7PlbIbORr3tqWcvMzenxr8=";
         "iced_glyphon-0.6.0" = "sha256-u1vnsOjP8npQ57NNSikotuHxpi4Mp/rV9038vAgCsfQ=";
         "smithay-clipboard-0.8.0" = "sha256-4InFXm0ahrqFrtNLeqIuE3yeOpxKZJZx+Bc0yQDtv34=";
         "softbuffer-0.4.1" = "sha256-/ocK79Lr5ywP/bb5mrcm7eTzeBbwpOazojvFUsAjMKM=";
       };
     };
-    date = "2025-09-29";
+    date = "2025-10-25";
   };
   cosmic-ext-applet-privacy-indicator = {
     pname = "cosmic-ext-applet-privacy-indicator";
@@ -197,24 +194,24 @@
   };
   jmc = {
     pname = "jmc";
-    version = "v1.2.19-alpha.1";
+    version = "v1.2.19";
     src = fetchgit {
       url = "https://github.com/WingedSeal/jmc.git";
-      rev = "v1.2.19-alpha.1";
+      rev = "v1.2.19";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-zGGNYxAsO9uHrFuh8VnLnnLFJ5UPxcBOP8pU/yDYs/g=";
+      sha256 = "sha256-5+K71H5xFvAeXWPLbrelqUDEJ3eBujIrdsX1m3TUT3I=";
     };
   };
   lidarr = {
     pname = "lidarr";
-    version = "2.14.5.4836";
+    version = "3.0.0.4855";
     src = fetchurl {
-      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=2.14.5.4836&os=linux&runtime=netcore&arch=x64";
-      name = "lidarr-src-2.14.5.4836.tar.gz";
-      sha256 = "sha256-LeJBed6Zo2+r6ZdgBTkcg+3ORoohvDpx37gOOorg9wY=";
+      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=3.0.0.4855&os=linux&runtime=netcore&arch=x64";
+      name = "lidarr-src-3.0.0.4855.tar.gz";
+      sha256 = "sha256-Mx7iwQ7660ezkvYSx90Ca3Hf+/FL/Lg+mDUhFv4byYY=";
     };
   };
   luarenamer = {
@@ -259,51 +256,51 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "e1de342c7c55f644c5035985ffb7a01e66c09821";
+    version = "14a004e0072295882dc0146dd3bdbf52ebfcf8e4";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "e1de342c7c55f644c5035985ffb7a01e66c09821";
+      rev = "14a004e0072295882dc0146dd3bdbf52ebfcf8e4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-dsI7ttOa7v/IfP5RkqtoRprJosLK/p+PDekpWAGhP1A=";
+      sha256 = "sha256-PjGwWp/xPMu1XbVKLUBdncLP8X/0iZPhnW+mTH/Mg3s=";
     };
-    date = "2025-10-13";
+    date = "2025-10-27";
   };
   openrgb = {
     pname = "openrgb";
-    version = "8a63cfbf2581ed35c7c771bcaa5516678238acc3";
+    version = "51a014fecb5ac48ea0974ed0329e310378c861ad";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "8a63cfbf2581ed35c7c771bcaa5516678238acc3";
+      rev = "51a014fecb5ac48ea0974ed0329e310378c861ad";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-UyllLHdyzZf/Fxp2oW2MDw0o28FruJBNiRZv7LL/mAo=";
+      sha256 = "sha256-E2O+q6c9KtRY2lj778GoBHgZQDeNznq3Nzq7G7nSZ68=";
     };
-    date = "2025-10-20";
+    date = "2025-10-27";
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
-    version = "2025.912.0-lazer";
+    version = "2025.1025.1-tachyon";
     src = fetchurl {
-      url = "https://github.com/ppy/osu/releases/download/2025.912.0-lazer/osu.AppImage";
-      sha256 = "sha256-73UY3RJp0pFfbxRWX8qSnLeoZB/BRGtucmQClJP7Qwg=";
+      url = "https://github.com/ppy/osu/releases/download/2025.1025.1-tachyon/osu.AppImage";
+      sha256 = "sha256-/cTpWKP0iwItNbdtuBQITgQHk7genpanOs7W/NpkBCs=";
     };
   };
   prowlarr = {
     pname = "prowlarr";
-    version = "v2.1.4.5212";
+    version = "v2.1.5.5216";
     src = fetchgit {
       url = "https://github.com/Prowlarr/Prowlarr.git";
-      rev = "v2.1.4.5212";
+      rev = "v2.1.5.5216";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-bk80AckBjW1KrJAaAW9VDl/1NOhuNgdveTOE/9aaI88=";
+      sha256 = "sha256-/7U1V1/fF8fobVwQa/IzCGWIUIKMrSxTyj9KZhmfJ/E=";
     };
   };
   pyon = {
@@ -350,69 +347,69 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.133";
+    version = "5.1.0-dev.134";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.133.tar.gz";
-      sha256 = "sha256-CCE84nq4UB5Mpxtcf3hU7Vd4nzceYcJVU6u73Xrl2vs=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.134.tar.gz";
+      sha256 = "sha256-9Oy7dk8lj1JulwPxdIDmTPFRKciUPwu3Ocg+W8QJIeA=";
     };
   };
   shoko-webui = {
     pname = "shoko-webui";
-    version = "2.3.0-dev.17";
+    version = "2.3.0-dev.19";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.17.tar.gz";
-      sha256 = "sha256-VjCc5+YClW31MzG5z55SqIzqkoymMvml1Kry5S+ZcBQ=";
+      url = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v2.3.0-dev.19.tar.gz";
+      sha256 = "sha256-yVthDmhkq0jsZRji/DWEuXnQMcR07Ul1oD081PlpoyA=";
     };
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.4-dev.56";
+    version = "5.0.5-dev.15";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.4-dev.56.tar.gz";
-      sha256 = "sha256-Mu7A6+WYNp42oOPRzb+i4OdArtFO9LCUqGp99xThhnY=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.5-dev.15.tar.gz";
+      sha256 = "sha256-vOEpc7eHpN1wgXX6tCopFGk6kbboXYN3mn9HaZxSyUU=";
     };
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "85188c3803b8ebabf2136c0dac643eeaca1e9e4d";
+    version = "e30f8d0882610b6b09f89e0de0c853723c0707b4";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "85188c3803b8ebabf2136c0dac643eeaca1e9e4d";
+      rev = "e30f8d0882610b6b09f89e0de0c853723c0707b4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Ys/QbAG/F0ugT4e08cAx/aX86cX7Ujvd89yn7l0v0wU=";
+      sha256 = "sha256-aviEE7NeeixQ5SmHQ5r/xlmEZknhzpezBnqUozarelg=";
     };
-    date = "2025-10-13";
+    date = "2025-10-25";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "c4b2f8582ec5722ddeb4c1d8175fb20df1bb91d6";
+    version = "c9575449da69211ea3511827c37197e09d968694";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "c4b2f8582ec5722ddeb4c1d8175fb20df1bb91d6";
+      rev = "c9575449da69211ea3511827c37197e09d968694";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-wvXBmJ2W0talRq0LTN2mQkUKxdDkDicBPvhHxcwKLxE=";
+      sha256 = "sha256-9OMhUcPOwExVyjon8VoA2Gl8g6JQx87qRhlDniYwQlw=";
     };
-    date = "2025-10-24";
+    date = "2025-10-26";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "28a2b44e940cad6736fb53dd207cd420fcf627d3";
+    version = "f36b39c68525f51fc4708ce99cd543cb28a56074";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "28a2b44e940cad6736fb53dd207cd420fcf627d3";
+      rev = "f36b39c68525f51fc4708ce99cd543cb28a56074";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-eacpnc5ZXVrMcdKd933xw2+wZDqS4zL7cPtuUMaa6+U=";
+      sha256 = "sha256-SgGOSHGHcr1rG64xr6eibq/mCp6mDpK8a5je5mwxPvk=";
     };
-    date = "2025-10-08";
+    date = "2025-10-15";
   };
   tokenstream = {
     pname = "tokenstream";
@@ -429,11 +426,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1310";
+    version = "3.0.1.1319";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1310&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1310.tar.gz";
-      sha256 = "sha256-b2YfzhgvJdshgnq8ooxhvRf8+EMXfk78y+PC8XzYL5s=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1319&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1319.tar.gz";
+      sha256 = "sha256-xPDtIeb5I6Pyc0D1b3WIF9L5oTuuT9cHdgiKC2Gmd5k=";
     };
   };
   wkeys = {

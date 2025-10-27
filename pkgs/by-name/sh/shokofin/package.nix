@@ -3,8 +3,8 @@
 # SPDX-License-Identifier: MIT
 {
   buildDotnetModule,
-  dotnet-sdk_8,
-  dotnet-aspnetcore_8,
+  dotnet-sdk_9,
+  dotnet-aspnetcore_9,
   lib,
   nix-update-script,
   _experimental-update-script-combinators,
@@ -15,8 +15,8 @@
 buildDotnetModule (finalAttrs: {
   inherit (_sources.shokofin) pname version src;
 
-  dotnet-sdk = dotnet-sdk_8;
-  dotnet-runtime = dotnet-aspnetcore_8;
+  dotnet-sdk = dotnet-sdk_9;
+  dotnet-runtime = dotnet-aspnetcore_9;
 
   nugetDeps = ./deps.json;
   projectFile = "Shokofin/Shokofin.csproj";
@@ -35,6 +35,6 @@ buildDotnetModule (finalAttrs: {
     description = "Shoko anime Jellyfin integration plugin";
     license = lib.licenses.mit;
     maintainers = [ lib.maintainers.nanoyaki ];
-    inherit (dotnet-sdk_8.meta) platforms;
+    inherit (dotnet-sdk_9.meta) platforms;
   };
 })
