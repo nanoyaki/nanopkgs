@@ -22,6 +22,7 @@
               nix
               nvfetcher
               git
+              git-lfs
               curl
               jq
               gnused
@@ -82,7 +83,7 @@
             ''
               set -ex
 
-              git stash
+              [[ -n "$DONT_STASH" ]] || git stash
 
               nix flake update
               nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-./keys.toml}"

@@ -1,5 +1,10 @@
 {
   "neoforge": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/aCcv0w0q/ferritecore-8.0.1-neoforge.jar",
+      "sha512": "adc3f876cb509e27d25ed828e10561855fe92c6422552dd50cc41074cfeaad47367a83825b57948cb5b1c35823ccb5588e012e30d60331cd01249ff9d902f770",
+      "name": "ferritecore-8.0.1-neoforge.jar"
+    },
     "1.21.9": {
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
       "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1",
@@ -41,7 +46,7 @@
       "name": "ferritecore-7.0.0-neoforge.jar"
     },
     "1.21": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/7slRrLO6/ferritecore-7.0.0-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar",
       "sha512": "590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab",
       "name": "ferritecore-7.0.0-neoforge.jar"
     },
@@ -67,6 +72,11 @@
     }
   },
   "fabric": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+      "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
+      "name": "ferritecore-8.0.0-fabric.jar"
+    },
     "1.21.9": {
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
       "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
