@@ -10,35 +10,35 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 
 ## Available packages
 
-- `beet` -> `0.111.0`
-- `clipboard-manager` -> `da0a8b5`
-- `cosmic-classic-menu` -> `ded4933`
+- `beet` -> `0.112.0`
+- `clipboard-manager` -> `08a4f34`
+- `cosmic-classic-menu` -> `d63e2bf`
 - `cosmic-ext-applet-privacy-indicator` -> `2d3b0ef`
 - `error-pages` -> `742c755`
 - `fireshare` -> `1.2.30`
-- `flaresolverr` -> `3.4.2`
-- `ftb-server-installer` -> `1.0.29`
+- `flaresolverr` -> `3.4.3`
+- `ftb-server-installer` -> `1.0.30`
 - `jellyfin-web-with-plugins`
-- `jmc` -> `1.2.19-alpha.1`
-- `lidarr` -> `2.14.5.4836`
+- `jmc` -> `1.2.19`
+- `lidarr` -> `3.0.0.4855`
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `e1de342`
+- `midnight-theme` -> `70ab218`
 - `nvchecker` -> `2.19`
-- `openrgb` -> `f76dbb0`
-- `osu-lazer-bin` -> `2025.912.0-lazer`
+- `openrgb` -> `7a939c8`
+- `osu-lazer-bin` -> `2025.1025.1-tachyon`
 - `prefetch`
-- `prowlarr` -> `2.1.4.5212`
+- `prowlarr` -> `2.1.5.5216`
 - `pyon` -> `06a076e`
 - `python-modernize` -> `f06b20a`
 - `rofi-themes` -> `093c1a7`
-- `shoko` -> `5.1.0-dev.133`
-- `shoko-webui` -> `2.3.0-dev.17`
-- `shokofin` -> `5.0.4-dev.56`
+- `shoko` -> `5.1.0-dev.135`
+- `shoko-webui` -> `2.3.0-dev.19`
+- `shokofin` -> `5.0.5-dev.17`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1961`
-- `suwayomi-webui` -> `28a2b44`
-- `whisparr` -> `3.0.1.1310`
+- `suwayomi-server` -> `2.1.1985`
+- `suwayomi-webui` -> `f36b39c`
+- `whisparr` -> `3.0.1.1319`
 - `wkeys` -> `058b98a`
 - `writeSystemdToggle`
