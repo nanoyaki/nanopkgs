@@ -168,28 +168,28 @@
   };
   flaresolverr = {
     pname = "flaresolverr";
-    version = "v3.4.2";
+    version = "v3.4.3";
     src = fetchgit {
       url = "https://github.com/FlareSolverr/FlareSolverr.git";
-      rev = "v3.4.2";
+      rev = "v3.4.3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-ZQMrt4KJpTRdug3dqtDsX5sQveAdiGSsq9V+71iUKR8=";
+      sha256 = "sha256-5insO3XfIN9vGuPIeVBcLhsYPCO29mR41MFtIy8jeXE=";
     };
   };
   ftb-server-installer = {
     pname = "ftb-server-installer";
-    version = "v1.0.29";
+    version = "v1.0.30";
     src = fetchgit {
       url = "https://github.com/FTBTeam/FTB-Server-Installer.git";
-      rev = "v1.0.29";
+      rev = "v1.0.30";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-FT/7Gzu34XYUF9kMb/dafJ5nmcFihGu10MEbAQ/UNpw=";
+      sha256 = "sha256-ZfD5cwRnFY2hQfOeBoycwMJ3fm/fYE30GZnAs0kTkEM=";
     };
   };
   jmc = {
@@ -256,29 +256,29 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "14a004e0072295882dc0146dd3bdbf52ebfcf8e4";
+    version = "70ab218bd987ac048b1c86036e6c6d9ff56cfd68";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "14a004e0072295882dc0146dd3bdbf52ebfcf8e4";
+      rev = "70ab218bd987ac048b1c86036e6c6d9ff56cfd68";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-PjGwWp/xPMu1XbVKLUBdncLP8X/0iZPhnW+mTH/Mg3s=";
+      sha256 = "sha256-jK5oKyYvxs78y7UrTSB2ulqlioOX0BWfX4J+htaDWT4=";
     };
-    date = "2025-10-27";
+    date = "2025-10-28";
   };
   openrgb = {
     pname = "openrgb";
-    version = "51a014fecb5ac48ea0974ed0329e310378c861ad";
+    version = "7a939c82338104871467aadf021c18ee34a7945a";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "51a014fecb5ac48ea0974ed0329e310378c861ad";
+      rev = "7a939c82338104871467aadf021c18ee34a7945a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-E2O+q6c9KtRY2lj778GoBHgZQDeNznq3Nzq7G7nSZ68=";
+      sha256 = "sha256-XALL5msjCj/R4YrUkMuJMph8N+6Azd+erc55NeYEE/c=";
     };
     date = "2025-10-27";
   };
@@ -347,10 +347,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.134";
+    version = "5.1.0-dev.135";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.134.tar.gz";
-      sha256 = "sha256-9Oy7dk8lj1JulwPxdIDmTPFRKciUPwu3Ocg+W8QJIeA=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.135.tar.gz";
+      sha256 = "sha256-nDP5JYyEGYm/Wc0Vb/anFTjpf7aPxoUUBmc3XfjNKqM=";
     };
   };
   shoko-webui = {
@@ -363,25 +363,25 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.5-dev.15";
+    version = "5.0.5-dev.17";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.5-dev.15.tar.gz";
-      sha256 = "sha256-vOEpc7eHpN1wgXX6tCopFGk6kbboXYN3mn9HaZxSyUU=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.5-dev.17.tar.gz";
+      sha256 = "sha256-5LCyMrK38xrl9TxXLHCYvud0ycAhz/51xzxJaTFgf6A=";
     };
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "e30f8d0882610b6b09f89e0de0c853723c0707b4";
+    version = "5a9b1ce0bfe88d28b8c5403ba00328377c3d2cdb";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "e30f8d0882610b6b09f89e0de0c853723c0707b4";
+      rev = "5a9b1ce0bfe88d28b8c5403ba00328377c3d2cdb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-aviEE7NeeixQ5SmHQ5r/xlmEZknhzpezBnqUozarelg=";
+      sha256 = "sha256-XMPExKXDiF1LBnLdM0hRiR1vg2VeOMmtXA6xJ36L2io=";
     };
-    date = "2025-10-25";
+    date = "2025-10-28";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
