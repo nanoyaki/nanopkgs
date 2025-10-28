@@ -83,7 +83,7 @@
             ''
               set -ex
 
-              [[ -n "$DONT_STASH" ]] || git stash
+              git stash
 
               nix flake update
               nvfetcher -l /tmp/nvfetcher_changelog -k "''${1:-./keys.toml}"
