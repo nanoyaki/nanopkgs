@@ -524,11 +524,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-5LCyMrK38xrl9TxXLHCYvud0ycAhz/51xzxJaTFgf6A=",
+            "sha256": "sha256-iPxQ38U/uedhRspKdX9arnIu3HFSjQQKnjMBgeHkURM=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.5-dev.17.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.2.tar.gz"
         },
-        "version": "5.0.5-dev.17"
+        "version": "5.0.6-dev.2"
     },
     "stash-scrapers": {
         "cargoLocks": null,
@@ -542,13 +542,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5a9b1ce0bfe88d28b8c5403ba00328377c3d2cdb",
-            "sha256": "sha256-XMPExKXDiF1LBnLdM0hRiR1vg2VeOMmtXA6xJ36L2io=",
+            "rev": "cd135f52cd7475a53efa21c8297ab68eea703477",
+            "sha256": "sha256-scExk1EED5lqyxq24UsVxSdU+dpC2dy0tqqmK88ydhQ=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "5a9b1ce0bfe88d28b8c5403ba00328377c3d2cdb"
+        "version": "cd135f52cd7475a53efa21c8297ab68eea703477"
     },
     "suwayomi-server": {
         "cargoLocks": null,
