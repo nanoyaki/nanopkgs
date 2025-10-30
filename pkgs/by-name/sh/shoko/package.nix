@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: MIT
 {
   buildDotnetModule,
-  dotnet-sdk_8,
-  dotnet-aspnetcore_8,
+  dotnet-sdk_9,
+  dotnet-aspnetcore_9,
   nixosTests,
   lib,
   mediainfo,
@@ -18,8 +18,8 @@
 buildDotnetModule (finalAttrs: {
   inherit (_sources.shoko) pname version src;
 
-  dotnet-sdk = dotnet-sdk_8;
-  dotnet-runtime = dotnet-aspnetcore_8;
+  dotnet-sdk = dotnet-sdk_9;
+  dotnet-runtime = dotnet-aspnetcore_9;
 
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
@@ -46,6 +46,6 @@ buildDotnetModule (finalAttrs: {
     license = lib.licenses.mit;
     mainProgram = "Shoko.CLI";
     # maintainers = [ lib.maintainers.diniamo ];
-    inherit (dotnet-sdk_8.meta) platforms;
+    inherit (dotnet-sdk_9.meta) platforms;
   };
 })
