@@ -256,38 +256,38 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "70ab218bd987ac048b1c86036e6c6d9ff56cfd68";
+    version = "2516ed0da8f72bc8e48c1daaf6de6b62169df13a";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "70ab218bd987ac048b1c86036e6c6d9ff56cfd68";
+      rev = "2516ed0da8f72bc8e48c1daaf6de6b62169df13a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-jK5oKyYvxs78y7UrTSB2ulqlioOX0BWfX4J+htaDWT4=";
+      sha256 = "sha256-PjGwWp/xPMu1XbVKLUBdncLP8X/0iZPhnW+mTH/Mg3s=";
     };
-    date = "2025-10-28";
+    date = "2025-10-29";
   };
   openrgb = {
     pname = "openrgb";
-    version = "7a939c82338104871467aadf021c18ee34a7945a";
+    version = "9eb0169fcf3b9b9ffc56c2f9570ac898bc0bb0e9";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "7a939c82338104871467aadf021c18ee34a7945a";
+      rev = "9eb0169fcf3b9b9ffc56c2f9570ac898bc0bb0e9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-XALL5msjCj/R4YrUkMuJMph8N+6Azd+erc55NeYEE/c=";
+      sha256 = "sha256-iPkZvZWnXTQMD0oeZiO3gVsu3QdtwDa0rMHjxPymxzY=";
     };
-    date = "2025-10-27";
+    date = "2025-10-29";
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
-    version = "2025.1025.1-tachyon";
+    version = "2025.1029.1-lazer";
     src = fetchurl {
-      url = "https://github.com/ppy/osu/releases/download/2025.1025.1-tachyon/osu.AppImage";
-      sha256 = "sha256-/cTpWKP0iwItNbdtuBQITgQHk7genpanOs7W/NpkBCs=";
+      url = "https://github.com/ppy/osu/releases/download/2025.1029.1-lazer/osu.AppImage";
+      sha256 = "sha256-lx+RN20sPiG++pLS0gW6ixIYw3+g1KGCMrAhgW+yZIw=";
     };
   };
   prowlarr = {
@@ -371,17 +371,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "cd135f52cd7475a53efa21c8297ab68eea703477";
+    version = "f71b4e024270945a1a4e42e6d6d1774104155980";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "cd135f52cd7475a53efa21c8297ab68eea703477";
+      rev = "f71b4e024270945a1a4e42e6d6d1774104155980";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-scExk1EED5lqyxq24UsVxSdU+dpC2dy0tqqmK88ydhQ=";
+      sha256 = "sha256-jQz8pCwspXDoRKB0+FKuL5KEPco6Dy1JRDFjAP/xvlg=";
     };
-    date = "2025-10-28";
+    date = "2025-10-29";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
@@ -399,17 +399,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "f36b39c68525f51fc4708ce99cd543cb28a56074";
+    version = "7502393f4014fd19fac4823d5a2a67a306563bf0";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "f36b39c68525f51fc4708ce99cd543cb28a56074";
+      rev = "7502393f4014fd19fac4823d5a2a67a306563bf0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-SgGOSHGHcr1rG64xr6eibq/mCp6mDpK8a5je5mwxPvk=";
+      sha256 = "sha256-X2IGKlFztG0m7kBLUeJ5FkMxAZKe112OHsh58aysHU4=";
     };
-    date = "2025-10-15";
+    date = "2025-10-30";
   };
   tokenstream = {
     pname = "tokenstream";
