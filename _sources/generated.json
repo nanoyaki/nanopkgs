@@ -355,7 +355,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-10-28",
+        "date": "2025-10-29",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,17 +365,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "70ab218bd987ac048b1c86036e6c6d9ff56cfd68",
-            "sha256": "sha256-jK5oKyYvxs78y7UrTSB2ulqlioOX0BWfX4J+htaDWT4=",
+            "rev": "2516ed0da8f72bc8e48c1daaf6de6b62169df13a",
+            "sha256": "sha256-PjGwWp/xPMu1XbVKLUBdncLP8X/0iZPhnW+mTH/Mg3s=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "70ab218bd987ac048b1c86036e6c6d9ff56cfd68"
+        "version": "2516ed0da8f72bc8e48c1daaf6de6b62169df13a"
     },
     "openrgb": {
         "cargoLocks": null,
-        "date": "2025-10-27",
+        "date": "2025-10-29",
         "extract": null,
         "name": "openrgb",
         "passthru": null,
@@ -385,13 +385,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7a939c82338104871467aadf021c18ee34a7945a",
-            "sha256": "sha256-XALL5msjCj/R4YrUkMuJMph8N+6Azd+erc55NeYEE/c=",
+            "rev": "9eb0169fcf3b9b9ffc56c2f9570ac898bc0bb0e9",
+            "sha256": "sha256-iPkZvZWnXTQMD0oeZiO3gVsu3QdtwDa0rMHjxPymxzY=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
         },
-        "version": "7a939c82338104871467aadf021c18ee34a7945a"
+        "version": "9eb0169fcf3b9b9ffc56c2f9570ac898bc0bb0e9"
     },
     "osu-lazer-bin": {
         "cargoLocks": null,
@@ -402,11 +402,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/cTpWKP0iwItNbdtuBQITgQHk7genpanOs7W/NpkBCs=",
+            "sha256": "sha256-lx+RN20sPiG++pLS0gW6ixIYw3+g1KGCMrAhgW+yZIw=",
             "type": "url",
-            "url": "https://github.com/ppy/osu/releases/download/2025.1025.1-tachyon/osu.AppImage"
+            "url": "https://github.com/ppy/osu/releases/download/2025.1029.1-lazer/osu.AppImage"
         },
-        "version": "2025.1025.1-tachyon"
+        "version": "2025.1029.1-lazer"
     },
     "prowlarr": {
         "cargoLocks": null,
@@ -532,7 +532,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-10-28",
+        "date": "2025-10-29",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -542,13 +542,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "cd135f52cd7475a53efa21c8297ab68eea703477",
-            "sha256": "sha256-scExk1EED5lqyxq24UsVxSdU+dpC2dy0tqqmK88ydhQ=",
+            "rev": "f71b4e024270945a1a4e42e6d6d1774104155980",
+            "sha256": "sha256-jQz8pCwspXDoRKB0+FKuL5KEPco6Dy1JRDFjAP/xvlg=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "cd135f52cd7475a53efa21c8297ab68eea703477"
+        "version": "f71b4e024270945a1a4e42e6d6d1774104155980"
     },
     "suwayomi-server": {
         "cargoLocks": null,
@@ -572,7 +572,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-10-15",
+        "date": "2025-10-30",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -582,13 +582,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f36b39c68525f51fc4708ce99cd543cb28a56074",
-            "sha256": "sha256-SgGOSHGHcr1rG64xr6eibq/mCp6mDpK8a5je5mwxPvk=",
+            "rev": "7502393f4014fd19fac4823d5a2a67a306563bf0",
+            "sha256": "sha256-X2IGKlFztG0m7kBLUeJ5FkMxAZKe112OHsh58aysHU4=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "f36b39c68525f51fc4708ce99cd543cb28a56074"
+        "version": "7502393f4014fd19fac4823d5a2a67a306563bf0"
     },
     "tokenstream": {
         "cargoLocks": null,
