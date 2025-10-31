@@ -207,11 +207,11 @@
   };
   lidarr = {
     pname = "lidarr";
-    version = "3.0.0.4855";
+    version = "3.0.1.4866";
     src = fetchurl {
-      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=3.0.0.4855&os=linux&runtime=netcore&arch=x64";
-      name = "lidarr-src-3.0.0.4855.tar.gz";
-      sha256 = "sha256-Mx7iwQ7660ezkvYSx90Ca3Hf+/FL/Lg+mDUhFv4byYY=";
+      url = "https://lidarr.servarr.com/v1/update/develop/updatefile?version=3.0.1.4866&os=linux&runtime=netcore&arch=x64";
+      name = "lidarr-src-3.0.1.4866.tar.gz";
+      sha256 = "sha256-Cji5hYEDvatOU0ExpggDWJEWSEXZTSpMGKm7Z5d44kc=";
     };
   };
   luarenamer = {
@@ -256,31 +256,31 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "2516ed0da8f72bc8e48c1daaf6de6b62169df13a";
+    version = "8e24e418a00710415ad1983de285639da5023929";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "2516ed0da8f72bc8e48c1daaf6de6b62169df13a";
+      rev = "8e24e418a00710415ad1983de285639da5023929";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-PjGwWp/xPMu1XbVKLUBdncLP8X/0iZPhnW+mTH/Mg3s=";
+      sha256 = "sha256-jK5oKyYvxs78y7UrTSB2ulqlioOX0BWfX4J+htaDWT4=";
     };
-    date = "2025-10-29";
+    date = "2025-10-30";
   };
   openrgb = {
     pname = "openrgb";
-    version = "9eb0169fcf3b9b9ffc56c2f9570ac898bc0bb0e9";
+    version = "f855d160ca52e86232b95119f535e06ac776036b";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "9eb0169fcf3b9b9ffc56c2f9570ac898bc0bb0e9";
+      rev = "f855d160ca52e86232b95119f535e06ac776036b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-iPkZvZWnXTQMD0oeZiO3gVsu3QdtwDa0rMHjxPymxzY=";
+      sha256 = "sha256-BsxgFFrufOWMOsXGQ9EfUWzROEmNWRuIHVe0cpmTGKM=";
     };
-    date = "2025-10-29";
+    date = "2025-10-30";
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
@@ -363,23 +363,23 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.6-dev.2";
+    version = "5.0.6-dev.3";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.2.tar.gz";
-      sha256 = "sha256-iPxQ38U/uedhRspKdX9arnIu3HFSjQQKnjMBgeHkURM=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.3.tar.gz";
+      sha256 = "sha256-oiNWcSmn86/UEJ9jX8/rPZT9w6CGUeFnGQqktDVRDzk=";
     };
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "f71b4e024270945a1a4e42e6d6d1774104155980";
+    version = "6963885c3509c3a10f0ee3b69bfcdc1b5f845246";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "f71b4e024270945a1a4e42e6d6d1774104155980";
+      rev = "6963885c3509c3a10f0ee3b69bfcdc1b5f845246";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-jQz8pCwspXDoRKB0+FKuL5KEPco6Dy1JRDFjAP/xvlg=";
+      sha256 = "sha256-MBsPnFrw4VZzFVWvjzZR08UrQ4Adhnb2FqJgmYOHgas=";
     };
     date = "2025-10-29";
   };
@@ -426,11 +426,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1319";
+    version = "3.0.1.1324";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1319&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1319.tar.gz";
-      sha256 = "sha256-xPDtIeb5I6Pyc0D1b3WIF9L5oTuuT9cHdgiKC2Gmd5k=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1324&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1324.tar.gz";
+      sha256 = "sha256-Z5jAjABqdKRjb4dnPl4ftQBa0Pe1Tf7VSDDq+26rnw8=";
     };
   };
   wkeys = {
