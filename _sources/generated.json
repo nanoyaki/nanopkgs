@@ -355,7 +355,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-10-30",
+        "date": "2025-10-31",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,17 +365,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "8e24e418a00710415ad1983de285639da5023929",
-            "sha256": "sha256-jK5oKyYvxs78y7UrTSB2ulqlioOX0BWfX4J+htaDWT4=",
+            "rev": "24a97b2c3d3ff4027e7565e1c7c67357086f4bca",
+            "sha256": "sha256-UtIFc44tJ6sYIk7D4suGq0cG/a6fh/yguyekv4L2bFc=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "8e24e418a00710415ad1983de285639da5023929"
+        "version": "24a97b2c3d3ff4027e7565e1c7c67357086f4bca"
     },
     "openrgb": {
         "cargoLocks": null,
-        "date": "2025-10-30",
+        "date": "2025-10-31",
         "extract": null,
         "name": "openrgb",
         "passthru": null,
@@ -385,13 +385,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f855d160ca52e86232b95119f535e06ac776036b",
-            "sha256": "sha256-BsxgFFrufOWMOsXGQ9EfUWzROEmNWRuIHVe0cpmTGKM=",
+            "rev": "692ca00011e6eca52fad05b0c140dd280955c4af",
+            "sha256": "sha256-iLVlQaL+J2loU5mJO/bT5M1OGutyFvEXF3/3vJzUNu8=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
         },
-        "version": "f855d160ca52e86232b95119f535e06ac776036b"
+        "version": "692ca00011e6eca52fad05b0c140dd280955c4af"
     },
     "osu-lazer-bin": {
         "cargoLocks": null,
@@ -496,11 +496,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-nDP5JYyEGYm/Wc0Vb/anFTjpf7aPxoUUBmc3XfjNKqM=",
+            "sha256": "sha256-nwxOijEVNsaxRJNgGJ80QNuKOr5npTwmWQdXkfRg9lc=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.135.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.137.tar.gz"
         },
-        "version": "5.1.0-dev.135"
+        "version": "5.1.0-dev.137"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -524,11 +524,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-oiNWcSmn86/UEJ9jX8/rPZT9w6CGUeFnGQqktDVRDzk=",
+            "sha256": "sha256-H8uQGZx71dGV1l7JxsOAqi9A4Z4sKzf2/ddI1dCAOAE=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.3.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.4.tar.gz"
         },
-        "version": "5.0.6-dev.3"
+        "version": "5.0.6-dev.4"
     },
     "stash-scrapers": {
         "cargoLocks": null,
@@ -618,12 +618,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1324.tar.gz",
-            "sha256": "sha256-Z5jAjABqdKRjb4dnPl4ftQBa0Pe1Tf7VSDDq+26rnw8=",
+            "name": "whisparr-src-3.0.1.1327.tar.gz",
+            "sha256": "sha256-05+t4UHVLFXa4JiCl++Tl6KIitIFB/wzFC32b53Etuo=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1324&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1327&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1324"
+        "version": "3.0.1.1327"
     },
     "wkeys": {
         "cargoLocks": {
