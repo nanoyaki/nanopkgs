@@ -355,7 +355,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-10-31",
+        "date": "2025-11-01",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,13 +365,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "24a97b2c3d3ff4027e7565e1c7c67357086f4bca",
-            "sha256": "sha256-UtIFc44tJ6sYIk7D4suGq0cG/a6fh/yguyekv4L2bFc=",
+            "rev": "7a9d774f52b0cceba6a0b219bf2217b8d098e1fa",
+            "sha256": "sha256-fFzyKe9r+JqTS/tGr1S+rSDcdgPUBV1jkYRYwB283AY=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "24a97b2c3d3ff4027e7565e1c7c67357086f4bca"
+        "version": "7a9d774f52b0cceba6a0b219bf2217b8d098e1fa"
     },
     "openrgb": {
         "cargoLocks": null,
@@ -496,11 +496,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-nwxOijEVNsaxRJNgGJ80QNuKOr5npTwmWQdXkfRg9lc=",
+            "sha256": "sha256-w47EwLLLapyEwPT8FRi5vwbBoik/n3mHiWRHivgQGVc=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.137.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.139.tar.gz"
         },
-        "version": "5.1.0-dev.137"
+        "version": "5.1.0-dev.139"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -532,7 +532,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-10-29",
+        "date": "2025-11-01",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -542,17 +542,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "6963885c3509c3a10f0ee3b69bfcdc1b5f845246",
-            "sha256": "sha256-MBsPnFrw4VZzFVWvjzZR08UrQ4Adhnb2FqJgmYOHgas=",
+            "rev": "50c2897a55c90fe8291fc54f94a6939ea5d79f1e",
+            "sha256": "sha256-wGwSQF487jO5jggVF8CcwZnRC6KVbUR3UvRk1VKznXc=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "6963885c3509c3a10f0ee3b69bfcdc1b5f845246"
+        "version": "50c2897a55c90fe8291fc54f94a6939ea5d79f1e"
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-10-26",
+        "date": "2025-11-01",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -562,13 +562,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c9575449da69211ea3511827c37197e09d968694",
-            "sha256": "sha256-9OMhUcPOwExVyjon8VoA2Gl8g6JQx87qRhlDniYwQlw=",
+            "rev": "bb09c558b606d8470952885ef12a29d330169dd1",
+            "sha256": "sha256-J/A7yvSxG9ImKvR+dxbXYBS5pt2xuFhoF4hP+KY87KQ=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "c9575449da69211ea3511827c37197e09d968694"
+        "version": "bb09c558b606d8470952885ef12a29d330169dd1"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
