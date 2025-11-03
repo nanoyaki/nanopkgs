@@ -5,7 +5,7 @@
 {
   buildDotnetModule,
   dotnet-sdk_8,
-  dotnet-aspnetcore_8,
+  dotnetCorePackages,
   nixosTests,
   lib,
   mediainfo,
@@ -18,8 +18,21 @@
 buildDotnetModule (finalAttrs: {
   inherit (_sources.shoko) pname version src;
 
-  dotnet-sdk = dotnet-sdk_8;
-  dotnet-runtime = dotnet-aspnetcore_8;
+  dotnet-sdk =
+    with dotnetCorePackages;
+
+    combinePackages [
+      sdk_8_0
+      sdk_9_0
+    ];
+
+  dotnet-runtime =
+    with dotnetCorePackages;
+
+    combinePackages [
+      sdk_8_0.aspnetcore
+      sdk_9_0.aspnetcore
+    ];
 
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
