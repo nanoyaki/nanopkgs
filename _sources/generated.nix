@@ -256,31 +256,31 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "7a9d774f52b0cceba6a0b219bf2217b8d098e1fa";
+    version = "c38f54f507384e0da90f757fb6fa0e8902d4201c";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "7a9d774f52b0cceba6a0b219bf2217b8d098e1fa";
+      rev = "c38f54f507384e0da90f757fb6fa0e8902d4201c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-fFzyKe9r+JqTS/tGr1S+rSDcdgPUBV1jkYRYwB283AY=";
+      sha256 = "sha256-M0ldGy1tQAOuznWVMvIF2ljHZGKv5SmWovfp5xTBfIY=";
     };
-    date = "2025-11-01";
+    date = "2025-11-02";
   };
   openrgb = {
     pname = "openrgb";
-    version = "692ca00011e6eca52fad05b0c140dd280955c4af";
+    version = "ba186cfaee6f65eded0e51c5fbf9f3907784bdbd";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "692ca00011e6eca52fad05b0c140dd280955c4af";
+      rev = "ba186cfaee6f65eded0e51c5fbf9f3907784bdbd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-iLVlQaL+J2loU5mJO/bT5M1OGutyFvEXF3/3vJzUNu8=";
+      sha256 = "sha256-e1HrFlWfhe68vmbe89OkJxRWiCThneXtsnypNg8+UjA=";
     };
-    date = "2025-10-31";
+    date = "2025-11-02";
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
@@ -347,10 +347,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.139";
+    version = "5.1.0-dev.142";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.139.tar.gz";
-      sha256 = "sha256-w47EwLLLapyEwPT8FRi5vwbBoik/n3mHiWRHivgQGVc=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.142.tar.gz";
+      sha256 = "sha256-M6GOMnMXbZdDjObIfkxOPiqwZQOGjOi4nPh5pSsrRxU=";
     };
   };
   shoko-webui = {
@@ -371,17 +371,17 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "50c2897a55c90fe8291fc54f94a6939ea5d79f1e";
+    version = "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "50c2897a55c90fe8291fc54f94a6939ea5d79f1e";
+      rev = "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-wGwSQF487jO5jggVF8CcwZnRC6KVbUR3UvRk1VKznXc=";
+      sha256 = "sha256-YyM5FHlS2KSip6XR7PhzSq3lTbcFrhbZ8ZI5BsUs1Ow=";
     };
-    date = "2025-11-01";
+    date = "2025-11-02";
   };
   suwayomi-server = {
     pname = "suwayomi-server";

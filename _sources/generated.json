@@ -355,7 +355,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-11-01",
+        "date": "2025-11-02",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,17 +365,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7a9d774f52b0cceba6a0b219bf2217b8d098e1fa",
-            "sha256": "sha256-fFzyKe9r+JqTS/tGr1S+rSDcdgPUBV1jkYRYwB283AY=",
+            "rev": "c38f54f507384e0da90f757fb6fa0e8902d4201c",
+            "sha256": "sha256-M0ldGy1tQAOuznWVMvIF2ljHZGKv5SmWovfp5xTBfIY=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "7a9d774f52b0cceba6a0b219bf2217b8d098e1fa"
+        "version": "c38f54f507384e0da90f757fb6fa0e8902d4201c"
     },
     "openrgb": {
         "cargoLocks": null,
-        "date": "2025-10-31",
+        "date": "2025-11-02",
         "extract": null,
         "name": "openrgb",
         "passthru": null,
@@ -385,13 +385,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "692ca00011e6eca52fad05b0c140dd280955c4af",
-            "sha256": "sha256-iLVlQaL+J2loU5mJO/bT5M1OGutyFvEXF3/3vJzUNu8=",
+            "rev": "ba186cfaee6f65eded0e51c5fbf9f3907784bdbd",
+            "sha256": "sha256-e1HrFlWfhe68vmbe89OkJxRWiCThneXtsnypNg8+UjA=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
         },
-        "version": "692ca00011e6eca52fad05b0c140dd280955c4af"
+        "version": "ba186cfaee6f65eded0e51c5fbf9f3907784bdbd"
     },
     "osu-lazer-bin": {
         "cargoLocks": null,
@@ -496,11 +496,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-w47EwLLLapyEwPT8FRi5vwbBoik/n3mHiWRHivgQGVc=",
+            "sha256": "sha256-M6GOMnMXbZdDjObIfkxOPiqwZQOGjOi4nPh5pSsrRxU=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.139.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.142.tar.gz"
         },
-        "version": "5.1.0-dev.139"
+        "version": "5.1.0-dev.142"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -532,7 +532,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-11-01",
+        "date": "2025-11-02",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -542,13 +542,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "50c2897a55c90fe8291fc54f94a6939ea5d79f1e",
-            "sha256": "sha256-wGwSQF487jO5jggVF8CcwZnRC6KVbUR3UvRk1VKznXc=",
+            "rev": "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf",
+            "sha256": "sha256-YyM5FHlS2KSip6XR7PhzSq3lTbcFrhbZ8ZI5BsUs1Ow=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "50c2897a55c90fe8291fc54f94a6939ea5d79f1e"
+        "version": "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf"
     },
     "suwayomi-server": {
         "cargoLocks": null,
