@@ -355,7 +355,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-11-02",
+        "date": "2025-11-03",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,17 +365,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c38f54f507384e0da90f757fb6fa0e8902d4201c",
-            "sha256": "sha256-M0ldGy1tQAOuznWVMvIF2ljHZGKv5SmWovfp5xTBfIY=",
+            "rev": "7436b1cfe09d48ae305c6d06658859a2b36daae9",
+            "sha256": "sha256-/E4fGY5xy6suYmAHBdhTbuMxXpdm61F+hZlVRfzmoY0=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "c38f54f507384e0da90f757fb6fa0e8902d4201c"
+        "version": "7436b1cfe09d48ae305c6d06658859a2b36daae9"
     },
     "openrgb": {
         "cargoLocks": null,
-        "date": "2025-11-02",
+        "date": "2025-11-03",
         "extract": null,
         "name": "openrgb",
         "passthru": null,
@@ -385,13 +385,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ba186cfaee6f65eded0e51c5fbf9f3907784bdbd",
-            "sha256": "sha256-e1HrFlWfhe68vmbe89OkJxRWiCThneXtsnypNg8+UjA=",
+            "rev": "f0a1ed2c0ffdecc7e35658e4394fe30ecd85a466",
+            "sha256": "sha256-xaw+96tCnw5E6cGP0cUsYSKfHBlkNxEzJXT8eL7CjCE=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
         },
-        "version": "ba186cfaee6f65eded0e51c5fbf9f3907784bdbd"
+        "version": "f0a1ed2c0ffdecc7e35658e4394fe30ecd85a466"
     },
     "osu-lazer-bin": {
         "cargoLocks": null,
@@ -524,11 +524,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-H8uQGZx71dGV1l7JxsOAqi9A4Z4sKzf2/ddI1dCAOAE=",
+            "sha256": "sha256-73kR8veMMfM99fvCoKHuFFjsU/gx5dVQg1oYIJaGtpI=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.4.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.5.tar.gz"
         },
-        "version": "5.0.6-dev.4"
+        "version": "5.0.6-dev.5"
     },
     "stash-scrapers": {
         "cargoLocks": null,
@@ -572,7 +572,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-10-30",
+        "date": "2025-11-03",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -582,13 +582,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7502393f4014fd19fac4823d5a2a67a306563bf0",
-            "sha256": "sha256-X2IGKlFztG0m7kBLUeJ5FkMxAZKe112OHsh58aysHU4=",
+            "rev": "7c1e4be0e8d089fbf8258dbf93607a0522735e26",
+            "sha256": "sha256-VY6qW2K9sDg25HnXXfInVWM8ByzyTTEmADBtKX4kZtM=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "7502393f4014fd19fac4823d5a2a67a306563bf0"
+        "version": "7c1e4be0e8d089fbf8258dbf93607a0522735e26"
     },
     "tokenstream": {
         "cargoLocks": null,
@@ -618,12 +618,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1327.tar.gz",
-            "sha256": "sha256-05+t4UHVLFXa4JiCl++Tl6KIitIFB/wzFC32b53Etuo=",
+            "name": "whisparr-src-3.0.1.1332.tar.gz",
+            "sha256": "sha256-rBYZP68o+3lB8Y1dEUIarNQNfPW1y7WvyD70/3icCdc=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1327&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1332&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1327"
+        "version": "3.0.1.1332"
     },
     "wkeys": {
         "cargoLocks": {
