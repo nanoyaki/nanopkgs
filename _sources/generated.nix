@@ -168,15 +168,15 @@
   };
   flaresolverr = {
     pname = "flaresolverr";
-    version = "v3.4.3";
+    version = "v3.4.4";
     src = fetchgit {
       url = "https://github.com/FlareSolverr/FlareSolverr.git";
-      rev = "v3.4.3";
+      rev = "v3.4.4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-5insO3XfIN9vGuPIeVBcLhsYPCO29mR41MFtIy8jeXE=";
+      sha256 = "sha256-70b+6I5Sv0sNnLT65Dd36ooRL11EklwVmEKh289gJW0=";
     };
   };
   ftb-server-installer = {
@@ -256,17 +256,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "7436b1cfe09d48ae305c6d06658859a2b36daae9";
+    version = "89bf42c9b98e0e4763796120c6b4266ef81e4359";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "7436b1cfe09d48ae305c6d06658859a2b36daae9";
+      rev = "89bf42c9b98e0e4763796120c6b4266ef81e4359";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-/E4fGY5xy6suYmAHBdhTbuMxXpdm61F+hZlVRfzmoY0=";
+      sha256 = "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=";
     };
-    date = "2025-11-03";
+    date = "2025-11-04";
   };
   openrgb = {
     pname = "openrgb";
@@ -399,17 +399,17 @@
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "7c1e4be0e8d089fbf8258dbf93607a0522735e26";
+    version = "932499f2118ba11c4c109b8f345e71bcb49521b8";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "7c1e4be0e8d089fbf8258dbf93607a0522735e26";
+      rev = "932499f2118ba11c4c109b8f345e71bcb49521b8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-VY6qW2K9sDg25HnXXfInVWM8ByzyTTEmADBtKX4kZtM=";
+      sha256 = "sha256-PJOquq3GAuZ2okPee5dTduKBrgyi+3cJbMrzHucZfU0=";
     };
-    date = "2025-11-03";
+    date = "2025-11-05";
   };
   tokenstream = {
     pname = "tokenstream";
@@ -426,11 +426,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1332";
+    version = "3.0.1.1333";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1332&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1332.tar.gz";
-      sha256 = "sha256-rBYZP68o+3lB8Y1dEUIarNQNfPW1y7WvyD70/3icCdc=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1333&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1333.tar.gz";
+      sha256 = "sha256-5yfZVos2VUJjav7UxVD2+g/yakb+YYfyOC5qlBjvt6Q=";
     };
   };
   wkeys = {

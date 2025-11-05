@@ -16,7 +16,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `cosmic-ext-applet-privacy-indicator` -> `2d3b0ef`
 - `error-pages` -> `742c755`
 - `fireshare` -> `1.2.30`
-- `flaresolverr` -> `3.4.3`
+- `flaresolverr` -> `3.4.4`
 - `ftb-server-installer` -> `1.0.30`
 - `jellyfin-web-with-plugins`
 - `jmc` -> `1.2.19`
@@ -24,7 +24,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `7436b1c`
+- `midnight-theme` -> `89bf42c`
 - `nvchecker` -> `2.19`
 - `openrgb` -> `f0a1ed2`
 - `osu-lazer-bin` -> `2025.1029.1-lazer`
@@ -38,7 +38,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shokofin` -> `5.0.6-dev.5`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1997`
-- `suwayomi-webui` -> `7c1e4be`
-- `whisparr` -> `3.0.1.1332`
+- `suwayomi-webui` -> `932499f`
+- `whisparr` -> `3.0.1.1333`
 - `wkeys` -> `058b98a`
 - `writeSystemdToggle`
