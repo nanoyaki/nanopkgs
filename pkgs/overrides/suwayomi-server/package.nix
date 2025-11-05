@@ -5,16 +5,22 @@
 {
   lib,
   stdenvNoCC,
+  zip,
   makeWrapper,
   gradle_8,
+  copyDesktopItems,
   jdk21_headless,
-  jdk ? jdk21_headless,
   suwayomi-webui,
-  webui ? suwayomi-webui,
+  _experimental-update-script-combinators,
   nix-update-script,
+  writeShellScript,
   nixosTests,
-  asApplication ? false,
   electron,
+  makeDesktopItem,
+
+  jdk ? jdk21_headless,
+  webui ? suwayomi-webui,
+  asApplication ? false,
 
   _sources,
   _versions,
@@ -28,59 +34,96 @@ let
       + ".${_versions.suwayomi-server.revision}";
 
     postPatch = ''
-      sed -i -E \
-        -e 's/v[0-9]\.[0-9]{1,2}\.\$\{getCommitCount\(\)\}/v${finalAttrs.version}/g' \
-        -e 's/r[0-9]{4,5}/r${webui.revision}/g' \
-        -e 's/r\$\{getCommitCount\(\)\}/r${_versions.suwayomi-server.revision}/g' \
-        buildSrc/src/main/kotlin/Constants.kt
+      echo 'const val MainClass = "suwayomi.tachidesk.MainKt"
+      val getTachideskVersion = { "v${finalAttrs.version}" }
+      val webUIRevisionTag = "r${webui.revision}"
+      val getTachideskRevision = { "r${lib.versions.patch finalAttrs.version}" }
+      ' > buildSrc/src/main/kotlin/Constants.kt
 
-      install -m644 ${webui}/share/WebUI.zip server/src/main/resources
+      zip -9 -r server/src/main/resources/WebUI.zip ${webui}
     '';
 
     nativeBuildInputs = [
+      zip
       makeWrapper
       gradle_8
-    ];
+    ]
+    ++ lib.optional asApplication copyDesktopItems;
 
     mitmCache = gradle_8.fetchDeps {
       pkg = self;
       data = ./deps.json;
     };
-    gradleBuildTask = "shadowJar";
-    gradleFlags = [
-      "-Dorg.gradle.java.home=${jdk}"
-      "-Dorg.gradle.daemon=false"
-      "-Dorg.gradle.jvmargs=-Xmx5120m"
 
-      "-Dkotlin.incremental=false"
-      "-Dkotlin.compiler.execution.strategy=in-process"
+    gradleFlags = [
+      # Disable download of the webui
+      "-x"
+      ":server:processResources"
+
+      "-Dorg.gradle.java.home=${jdk}"
+      "-Dorg.gradle.jvmargs=-Xmx2G"
     ];
+
+    gradleBuildTask = "shadowJar";
 
     installPhase = ''
       runHook preInstall
 
-      mkdir -p $out/{bin,share/suwayomi-server}
+      mkdir -p $out/{bin,share/suwayomi-server,share/icons/hicolor/128x128/apps}
       cp server/build/Suwayomi-Server-v${finalAttrs.version}.jar $out/share/suwayomi-server
 
+      # Use nixpkgs suwayomi-webui and disable auto download and update
       makeWrapper ${lib.getExe jdk} $out/bin/tachidesk-server \
-        ${
-          if asApplication then
-            ''
-              --add-flags "-Dsuwayomi.tachidesk.config.server.webUIInterface=electron" \
-              --add-flags '-Dsuwayomi.tachidesk.config.server.electronPath="${lib.getExe electron}"' \
-            ''
-          else
-            ''
-              --add-flags "-Dsuwayomi.tachidesk.config.server.initialOpenInBrowserEnabled=false" \
-            ''
-        } \
+        --add-flags "-Dsuwayomi.tachidesk.config.server.webUIFlavor=Custom" \
+        --add-flags "-Dsuwayomi.tachidesk.config.server.webUIChannel=BUNDLED" \
+        --add-flags "-Dsuwayomi.tachidesk.config.server.webUIUpdateCheckInterval=0" \
+    ''
+    + lib.optionalString asApplication ''
+      --add-flags "-Dsuwayomi.tachidesk.config.server.webUIInterface=electron" \
+      --add-flags '-Dsuwayomi.tachidesk.config.server.electronPath="${lib.getExe electron}"' \
+    ''
+    + lib.optionalString (!asApplication) ''
+      --add-flags "-Dsuwayomi.tachidesk.config.server.initialOpenInBrowserEnabled=false" \
+    ''
+    + ''
         --add-flags "-jar $out/share/suwayomi-server/Suwayomi-Server-v${finalAttrs.version}.jar"
+
+      install -m644 server/build/generated/src/main/resources/server-reference.conf \
+        $out/share/suwayomi-server/server.conf
+      install -m644 server/src/main/resources/icon/faviconlogo-128.png \
+        $out/share/icons/hicolor/128x128/apps/suwayomi-server.png
 
       runHook postInstall
     '';
 
+    desktopItems = lib.optional asApplication (
+      makeDesktopItem (
+        with finalAttrs;
+
+        {
+          name = pname;
+          desktopName = "Suwayomi Server";
+          comment = "Free and open source manga reader";
+          exec = meta.mainProgram;
+          terminal = false;
+          icon = pname;
+          startupWMClass = pname;
+          categories = [ "Utility" ];
+        }
+      )
+    );
+
     passthru = {
-      updateScript = nix-update-script { extraArgs = [ "--subpackage mitmCache" ]; };
+      updateScript = _experimental-update-script-combinators.sequence [
+        (nix-update-script { })
+
+        {
+          command = writeShellScript "update-deps.sh" ''
+            $(nix-build -A suwayomi-server.mitmCache.updateScript)
+          '';
+        }
+      ];
+
       tests = {
         suwayomi-server-with-auth = nixosTests.suwayomi-server.with-auth;
         suwayomi-server-without-auth = nixosTests.suwayomi-server.without-auth;

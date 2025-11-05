@@ -4,16 +4,15 @@
 {
   lib,
   stdenvNoCC,
-  replaceVars,
   fetchYarnDeps,
   yarnConfigHook,
-  yarnBuildHook,
-  yarnInstallHook,
   nodejs_22,
-  zip,
-  nix-update-script,
   husky,
   tsx,
+  _experimental-update-script-combinators,
+  nix-update-script,
+
+  nodejs ? nodejs_22,
 
   _sources,
   _versions,
@@ -23,13 +22,6 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   inherit (_sources.suwayomi-webui) pname version src;
   inherit (_versions.suwayomi-webui) revision;
 
-  patches = [
-    (replaceVars ./version.patch {
-      inherit (finalAttrs) revision;
-      inherit (nodejs_22) version;
-    })
-  ];
-
   yarnOfflineCache = fetchYarnDeps {
     yarnLock = "${finalAttrs.src}/yarn.lock";
     hash = _versions.suwayomi-webui.yarnHash;
@@ -37,38 +29,50 @@ stdenvNoCC.mkDerivation (finalAttrs: {
 
   nativeBuildInputs = [
     yarnConfigHook
-    yarnBuildHook
-    yarnInstallHook
 
-    nodejs_22
-    zip
+    nodejs
     husky
     tsx
   ];
 
   postPatch = ''
     substituteInPlace package.json \
-      --replace-fail " && vite build" ""
+      --replace-fail "project" "suwayomi-webui" \
+      --replace-fail "22.12.0" "${nodejs.version}"
   '';
 
-  postBuild = ''
+  buildPhase = ''
+    runHook preBuild
+
+    yarn --offline setup-env-files
+
     patchShebangs node_modules/vite/bin/vite.js
     node_modules/vite/bin/vite.js build
 
     yarn --offline build-md5
-    yarn --offline build-zip
+    echo "r${finalAttrs.revision}" > build/revision
+
+    runHook postBuild
   '';
 
   installPhase = ''
     runHook preInstall
 
-    mkdir $out/share -p
-    cp buildZip/Suwayomi-WebUI-r${finalAttrs.revision}.zip $out/share/WebUI.zip
+    cp -a build $out
+    mv buildZip/md5sum $out
 
     runHook postInstall
   '';
 
-  passthru.updateScript = nix-update-script { };
+  passthru.updateScript = _experimental-update-script-combinators.sequence [
+    (nix-update-script { })
+    {
+      command = [
+        ./update-rev.sh
+        finalAttrs.src.rev
+      ];
+    }
+  ];
 
   meta = {
     description = "The client for Suwayomi-Server";
