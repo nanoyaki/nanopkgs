@@ -29,18 +29,18 @@
   };
   clipboard-manager = {
     pname = "clipboard-manager";
-    version = "08a4f34022cc092302ea0f0a95457891984d4f3d";
+    version = "f74b562a09e88e8d20ee0b9c5ab8cade8e4edbdb";
     src = fetchgit {
       url = "https://github.com/cosmic-utils/clipboard-manager.git";
-      rev = "08a4f34022cc092302ea0f0a95457891984d4f3d";
+      rev = "f74b562a09e88e8d20ee0b9c5ab8cade8e4edbdb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-2b2qHx7IPKn5i6Te3IeglGEbznMNfcsmYpVwRDLOfX0=";
+      sha256 = "sha256-tWNf0YZzVXM8FsA/jhGSrdPvnLRaVzQ1prYWINAGNN8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./clipboard-manager-08a4f34022cc092302ea0f0a95457891984d4f3d/Cargo.lock;
+      lockFile = ./clipboard-manager-f74b562a09e88e8d20ee0b9c5ab8cade8e4edbdb/Cargo.lock;
       outputHashes = {
         "cosmic-freedesktop-icons-0.3.0" = "sha256-XAcoKxMp1fyclalkkqVMoO7+TVekj/Tq2C9XFM9FFCk=";
         "cosmic-settings-daemon-0.1.0" = "sha256-3QCkl2/kof0l8S3zAppEWL88uaXAH43NL4UJA0xVCPI=";
@@ -57,7 +57,7 @@
         "softbuffer-0.4.1" = "sha256-/ocK79Lr5ywP/bb5mrcm7eTzeBbwpOazojvFUsAjMKM=";
       };
     };
-    date = "2025-10-23";
+    date = "2025-11-05";
   };
   cosmic-classic-menu = {
     pname = "cosmic-classic-menu";
@@ -256,17 +256,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "89bf42c9b98e0e4763796120c6b4266ef81e4359";
+    version = "205fe81765d713f38f203ac72ef6b0c2af74b929";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "89bf42c9b98e0e4763796120c6b4266ef81e4359";
+      rev = "205fe81765d713f38f203ac72ef6b0c2af74b929";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=";
+      sha256 = "sha256-flgu2f8j8msRGBZ6P0ngOAwiNezaAp5nYohR3ov2zOw=";
     };
-    date = "2025-11-04";
+    date = "2025-11-05";
   };
   openrgb = {
     pname = "openrgb";
@@ -426,11 +426,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1333";
+    version = "3.0.1.1336";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1333&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1333.tar.gz";
-      sha256 = "sha256-5yfZVos2VUJjav7UxVD2+g/yakb+YYfyOC5qlBjvt6Q=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1336&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1336.tar.gz";
+      sha256 = "sha256-LDtk99/mOeoewwZDYVQ8kS2stYTpbZE5UryG3N7bems=";
     };
   };
   wkeys = {

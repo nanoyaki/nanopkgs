@@ -42,7 +42,7 @@
     "clipboard-manager": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./clipboard-manager-08a4f34022cc092302ea0f0a95457891984d4f3d/Cargo.lock",
+                "./clipboard-manager-f74b562a09e88e8d20ee0b9c5ab8cade8e4edbdb/Cargo.lock",
                 {
                     "accesskit-0.16.0": "sha256-uoLcd116WXQTu1ZTfJDEl9+3UPpGBN/QuJpkkGyRADQ=",
                     "atomicwrites-0.4.2": "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=",
@@ -60,7 +60,7 @@
                 }
             ]
         },
-        "date": "2025-10-23",
+        "date": "2025-11-05",
         "extract": null,
         "name": "clipboard-manager",
         "passthru": null,
@@ -70,13 +70,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "08a4f34022cc092302ea0f0a95457891984d4f3d",
-            "sha256": "sha256-2b2qHx7IPKn5i6Te3IeglGEbznMNfcsmYpVwRDLOfX0=",
+            "rev": "f74b562a09e88e8d20ee0b9c5ab8cade8e4edbdb",
+            "sha256": "sha256-tWNf0YZzVXM8FsA/jhGSrdPvnLRaVzQ1prYWINAGNN8=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/cosmic-utils/clipboard-manager.git"
         },
-        "version": "08a4f34022cc092302ea0f0a95457891984d4f3d"
+        "version": "f74b562a09e88e8d20ee0b9c5ab8cade8e4edbdb"
     },
     "cosmic-classic-menu": {
         "cargoLocks": {
@@ -355,7 +355,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-11-04",
+        "date": "2025-11-05",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,13 +365,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "89bf42c9b98e0e4763796120c6b4266ef81e4359",
-            "sha256": "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=",
+            "rev": "205fe81765d713f38f203ac72ef6b0c2af74b929",
+            "sha256": "sha256-flgu2f8j8msRGBZ6P0ngOAwiNezaAp5nYohR3ov2zOw=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "89bf42c9b98e0e4763796120c6b4266ef81e4359"
+        "version": "205fe81765d713f38f203ac72ef6b0c2af74b929"
     },
     "openrgb": {
         "cargoLocks": null,
@@ -618,12 +618,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1333.tar.gz",
-            "sha256": "sha256-5yfZVos2VUJjav7UxVD2+g/yakb+YYfyOC5qlBjvt6Q=",
+            "name": "whisparr-src-3.0.1.1336.tar.gz",
+            "sha256": "sha256-LDtk99/mOeoewwZDYVQ8kS2stYTpbZE5UryG3N7bems=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1333&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1336&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1333"
+        "version": "3.0.1.1336"
     },
     "wkeys": {
         "cargoLocks": {
