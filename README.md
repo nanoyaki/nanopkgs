@@ -11,7 +11,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 ## Available packages
 
 - `beet` -> `0.112.0`
-- `clipboard-manager` -> `08a4f34`
+- `clipboard-manager` -> `f74b562`
 - `cosmic-classic-menu` -> `d63e2bf`
 - `cosmic-ext-applet-privacy-indicator` -> `2d3b0ef`
 - `error-pages` -> `742c755`
@@ -24,7 +24,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `luarenamer` -> `5.9.0`
 - `mc-modpack-downloader` -> `81c580e`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `89bf42c`
+- `midnight-theme` -> `205fe81`
 - `nvchecker` -> `2.19`
 - `openrgb` -> `f0a1ed2`
 - `osu-lazer-bin` -> `2025.1029.1-lazer`
@@ -39,6 +39,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `startvrc`
 - `suwayomi-server` -> `2.1.1997`
 - `suwayomi-webui` -> `932499f`
-- `whisparr` -> `3.0.1.1333`
+- `whisparr` -> `3.0.1.1336`
 - `wkeys` -> `058b98a`
 - `writeSystemdToggle`
