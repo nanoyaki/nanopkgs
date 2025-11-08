@@ -181,15 +181,15 @@
   };
   ftb-server-installer = {
     pname = "ftb-server-installer";
-    version = "v1.0.30";
+    version = "v1.0.31";
     src = fetchgit {
       url = "https://github.com/FTBTeam/FTB-Server-Installer.git";
-      rev = "v1.0.30";
+      rev = "v1.0.31";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-ZfD5cwRnFY2hQfOeBoycwMJ3fm/fYE30GZnAs0kTkEM=";
+      sha256 = "sha256-PpsJAMOlOCAGY2OL0LmowIJ4WhjMqIJZKUlhoy4XQSM=";
     };
   };
   jmc = {
@@ -256,17 +256,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "205fe81765d713f38f203ac72ef6b0c2af74b929";
+    version = "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "205fe81765d713f38f203ac72ef6b0c2af74b929";
+      rev = "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-flgu2f8j8msRGBZ6P0ngOAwiNezaAp5nYohR3ov2zOw=";
+      sha256 = "sha256-wI4tY0EG9W0dludl/SRsvvN8c95qORvNGqh4cUJ6idY=";
     };
-    date = "2025-11-05";
+    date = "2025-11-07";
   };
   openrgb = {
     pname = "openrgb";
@@ -371,45 +371,45 @@
   };
   stash-scrapers = {
     pname = "stash-scrapers";
-    version = "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf";
+    version = "bf3b0981516f2da1958c110e575818478b7c9a05";
     src = fetchgit {
       url = "https://github.com/stashapp/CommunityScrapers.git";
-      rev = "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf";
+      rev = "bf3b0981516f2da1958c110e575818478b7c9a05";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-YyM5FHlS2KSip6XR7PhzSq3lTbcFrhbZ8ZI5BsUs1Ow=";
+      sha256 = "sha256-6udqD3R7EUAP0vYFemjGnIxvTaUuQkKI8JbUdSipMZg=";
     };
-    date = "2025-11-02";
+    date = "2025-11-06";
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "bb09c558b606d8470952885ef12a29d330169dd1";
+    version = "3941986ab2c9e8c601d46b3911b53d8abdf1c199";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "bb09c558b606d8470952885ef12a29d330169dd1";
+      rev = "3941986ab2c9e8c601d46b3911b53d8abdf1c199";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-J/A7yvSxG9ImKvR+dxbXYBS5pt2xuFhoF4hP+KY87KQ=";
+      sha256 = "sha256-8aukNvqE+wuB8k4Bw+AZMZ4ehlnhYeryMfMDpMAReaw=";
     };
-    date = "2025-11-01";
+    date = "2025-11-06";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
-    version = "932499f2118ba11c4c109b8f345e71bcb49521b8";
+    version = "284c194ac3bc5daed1d403d47c356378ad9de98a";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-      rev = "932499f2118ba11c4c109b8f345e71bcb49521b8";
+      rev = "284c194ac3bc5daed1d403d47c356378ad9de98a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-PJOquq3GAuZ2okPee5dTduKBrgyi+3cJbMrzHucZfU0=";
+      sha256 = "sha256-r361QIlnUIa61+WzvkCkiri8abErfVwdYIuTvjO87oE=";
     };
-    date = "2025-11-05";
+    date = "2025-11-07";
   };
   tokenstream = {
     pname = "tokenstream";
@@ -426,11 +426,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1336";
+    version = "3.0.1.1348";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1336&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1336.tar.gz";
-      sha256 = "sha256-LDtk99/mOeoewwZDYVQ8kS2stYTpbZE5UryG3N7bems=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1348&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1348.tar.gz";
+      sha256 = "sha256-1nlY0aQnzJK6a3RFXGq2A6P9845KOOO3j6M2Yyp0qcA=";
     };
   };
   wkeys = {
