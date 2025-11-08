@@ -5,10 +5,13 @@
 {
   lib,
   stdenvNoCC,
+  fetchpatch2,
   zip,
   makeWrapper,
   gradle_8,
   copyDesktopItems,
+  glib,
+  libappindicator,
   jdk21_headless,
   suwayomi-webui,
   _experimental-update-script-combinators,
@@ -33,6 +36,16 @@ let
       (lib.concatStringsSep "." (lib.take 2 (lib.splitString "." _versions.suwayomi-server.version)))
       + ".${_versions.suwayomi-server.revision}";
 
+    patches = [
+      # Fixes compilation error caused by a newer android jar
+      # than what's included in the github release binary
+      (fetchpatch2 {
+        url = "https://github.com/Suwayomi/Suwayomi-Server/commit/5be4d2a1044b0eaac8dba8fdf060ce1c4b4381e9.patch";
+        hash = "sha256-cLFHQQBAALyEVdfVOg5g9ZRI9k4nbB0Lhvq7RJ03hrc=";
+      })
+      ./disable-download.patch
+    ];
+
     postPatch = ''
       echo 'const val MainClass = "suwayomi.tachidesk.MainKt"
       val getTachideskVersion = { "v${finalAttrs.version}" }
@@ -51,15 +64,11 @@ let
     ++ lib.optional asApplication copyDesktopItems;
 
     mitmCache = gradle_8.fetchDeps {
-      pkg = self;
+      inherit (finalAttrs) pname;
       data = ./deps.json;
     };
 
     gradleFlags = [
-      # Disable download of the webui
-      "-x"
-      ":server:processResources"
-
       "-Dorg.gradle.java.home=${jdk}"
       "-Dorg.gradle.jvmargs=-Xmx2G"
     ];
@@ -74,22 +83,27 @@ let
 
       # Use nixpkgs suwayomi-webui and disable auto download and update
       makeWrapper ${lib.getExe jdk} $out/bin/tachidesk-server \
-        --add-flags "-Dsuwayomi.tachidesk.config.server.webUIFlavor=Custom" \
+        --add-flags "-Dsuwayomi.tachidesk.config.server.webUIFlavor=WebUI" \
         --add-flags "-Dsuwayomi.tachidesk.config.server.webUIChannel=BUNDLED" \
         --add-flags "-Dsuwayomi.tachidesk.config.server.webUIUpdateCheckInterval=0" \
     ''
     + lib.optionalString asApplication ''
+      --prefix LD_LIBRARY_PATH : "${
+        lib.makeLibraryPath [
+          libappindicator
+          glib
+        ]
+      }" \
       --add-flags "-Dsuwayomi.tachidesk.config.server.webUIInterface=electron" \
       --add-flags '-Dsuwayomi.tachidesk.config.server.electronPath="${lib.getExe electron}"' \
     ''
     + lib.optionalString (!asApplication) ''
       --add-flags "-Dsuwayomi.tachidesk.config.server.initialOpenInBrowserEnabled=false" \
+      --add-flags "-Dsuwayomi.tachidesk.config.server.systemTrayEnabled=false" \
     ''
     + ''
         --add-flags "-jar $out/share/suwayomi-server/Suwayomi-Server-v${finalAttrs.version}.jar"
 
-      install -m644 server/build/generated/src/main/resources/server-reference.conf \
-        $out/share/suwayomi-server/server.conf
       install -m644 server/src/main/resources/icon/faviconlogo-128.png \
         $out/share/icons/hicolor/128x128/apps/suwayomi-server.png
 
@@ -149,8 +163,8 @@ let
         binaryBytecode
       ];
       maintainers = with lib.maintainers; [
-        ratcornu
         nanoyaki
+        ratcornu
       ];
       mainProgram = "tachidesk-server";
     };
