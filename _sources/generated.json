@@ -250,13 +250,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v1.0.30",
-            "sha256": "sha256-ZfD5cwRnFY2hQfOeBoycwMJ3fm/fYE30GZnAs0kTkEM=",
+            "rev": "v1.0.31",
+            "sha256": "sha256-PpsJAMOlOCAGY2OL0LmowIJ4WhjMqIJZKUlhoy4XQSM=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/FTBTeam/FTB-Server-Installer.git"
         },
-        "version": "v1.0.30"
+        "version": "v1.0.31"
     },
     "jmc": {
         "cargoLocks": null,
@@ -355,7 +355,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-11-05",
+        "date": "2025-11-07",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,13 +365,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "205fe81765d713f38f203ac72ef6b0c2af74b929",
-            "sha256": "sha256-flgu2f8j8msRGBZ6P0ngOAwiNezaAp5nYohR3ov2zOw=",
+            "rev": "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85",
+            "sha256": "sha256-wI4tY0EG9W0dludl/SRsvvN8c95qORvNGqh4cUJ6idY=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "205fe81765d713f38f203ac72ef6b0c2af74b929"
+        "version": "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85"
     },
     "openrgb": {
         "cargoLocks": null,
@@ -532,7 +532,7 @@
     },
     "stash-scrapers": {
         "cargoLocks": null,
-        "date": "2025-11-02",
+        "date": "2025-11-06",
         "extract": null,
         "name": "stash-scrapers",
         "passthru": null,
@@ -542,17 +542,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf",
-            "sha256": "sha256-YyM5FHlS2KSip6XR7PhzSq3lTbcFrhbZ8ZI5BsUs1Ow=",
+            "rev": "bf3b0981516f2da1958c110e575818478b7c9a05",
+            "sha256": "sha256-6udqD3R7EUAP0vYFemjGnIxvTaUuQkKI8JbUdSipMZg=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/stashapp/CommunityScrapers.git"
         },
-        "version": "aa91480acb651fa2b69d564d2f1ad12d2bfb6caf"
+        "version": "bf3b0981516f2da1958c110e575818478b7c9a05"
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-11-01",
+        "date": "2025-11-06",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -562,17 +562,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bb09c558b606d8470952885ef12a29d330169dd1",
-            "sha256": "sha256-J/A7yvSxG9ImKvR+dxbXYBS5pt2xuFhoF4hP+KY87KQ=",
+            "rev": "3941986ab2c9e8c601d46b3911b53d8abdf1c199",
+            "sha256": "sha256-8aukNvqE+wuB8k4Bw+AZMZ4ehlnhYeryMfMDpMAReaw=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "bb09c558b606d8470952885ef12a29d330169dd1"
+        "version": "3941986ab2c9e8c601d46b3911b53d8abdf1c199"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-11-05",
+        "date": "2025-11-07",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -582,13 +582,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "932499f2118ba11c4c109b8f345e71bcb49521b8",
-            "sha256": "sha256-PJOquq3GAuZ2okPee5dTduKBrgyi+3cJbMrzHucZfU0=",
+            "rev": "284c194ac3bc5daed1d403d47c356378ad9de98a",
+            "sha256": "sha256-r361QIlnUIa61+WzvkCkiri8abErfVwdYIuTvjO87oE=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "932499f2118ba11c4c109b8f345e71bcb49521b8"
+        "version": "284c194ac3bc5daed1d403d47c356378ad9de98a"
     },
     "tokenstream": {
         "cargoLocks": null,
@@ -618,12 +618,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1336.tar.gz",
-            "sha256": "sha256-LDtk99/mOeoewwZDYVQ8kS2stYTpbZE5UryG3N7bems=",
+            "name": "whisparr-src-3.0.1.1348.tar.gz",
+            "sha256": "sha256-1nlY0aQnzJK6a3RFXGq2A6P9845KOOO3j6M2Yyp0qcA=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1336&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1348&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1336"
+        "version": "3.0.1.1348"
     },
     "wkeys": {
         "cargoLocks": {
