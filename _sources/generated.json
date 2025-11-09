@@ -181,7 +181,10 @@
     "error-pages": {
         "cargoLocks": null,
         "date": "2024-11-23",
-        "extract": null,
+        "extract": {
+            "package-lock.json": "./error-pages-742c755c049e75c1fbfeab0452091827dd25d9f2/package-lock.json",
+            "package.json": "./error-pages-742c755c049e75c1fbfeab0452091827dd25d9f2/package.json"
+        },
         "name": "error-pages",
         "passthru": null,
         "pinned": false,
@@ -201,7 +204,10 @@
     "fireshare": {
         "cargoLocks": null,
         "date": null,
-        "extract": null,
+        "extract": {
+            "app/client/package-lock.json": "./fireshare-v1.2.30/app/client/package-lock.json",
+            "app/client/package.json": "./fireshare-v1.2.30/app/client/package.json"
+        },
         "name": "fireshare",
         "passthru": null,
         "pinned": false,
@@ -316,7 +322,10 @@
     "mc-modpack-downloader": {
         "cargoLocks": null,
         "date": "2025-03-28",
-        "extract": null,
+        "extract": {
+            "package-lock.json": "./mc-modpack-downloader-81c580e887a079ba62be12a7adf58b5ef4809f4a/package-lock.json",
+            "package.json": "./mc-modpack-downloader-81c580e887a079ba62be12a7adf58b5ef4809f4a/package.json"
+        },
         "name": "mc-modpack-downloader",
         "passthru": null,
         "pinned": false,
@@ -355,7 +364,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-11-07",
+        "date": "2025-11-08",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -365,17 +374,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85",
-            "sha256": "sha256-wI4tY0EG9W0dludl/SRsvvN8c95qORvNGqh4cUJ6idY=",
+            "rev": "de4c09844a5c725629d14906011bbe71d75a1128",
+            "sha256": "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85"
+        "version": "de4c09844a5c725629d14906011bbe71d75a1128"
     },
     "openrgb": {
         "cargoLocks": null,
-        "date": "2025-11-03",
+        "date": "2025-11-08",
         "extract": null,
         "name": "openrgb",
         "passthru": null,
@@ -385,13 +394,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f0a1ed2c0ffdecc7e35658e4394fe30ecd85a466",
-            "sha256": "sha256-xaw+96tCnw5E6cGP0cUsYSKfHBlkNxEzJXT8eL7CjCE=",
+            "rev": "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6",
+            "sha256": "sha256-Sa+Qd9+gVvDL+1NyecIpW8cxt/pv2oNCXBUpXxJVFG8=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
         },
-        "version": "f0a1ed2c0ffdecc7e35658e4394fe30ecd85a466"
+        "version": "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6"
     },
     "osu-lazer-bin": {
         "cargoLocks": null,
@@ -552,7 +561,7 @@
     },
     "suwayomi-server": {
         "cargoLocks": null,
-        "date": "2025-11-06",
+        "date": "2025-11-08",
         "extract": null,
         "name": "suwayomi-server",
         "passthru": null,
@@ -562,13 +571,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3941986ab2c9e8c601d46b3911b53d8abdf1c199",
-            "sha256": "sha256-8aukNvqE+wuB8k4Bw+AZMZ4ehlnhYeryMfMDpMAReaw=",
+            "rev": "3e47859d88e4e82fecf077500f08452ae9b0943a",
+            "sha256": "sha256-A2NqvRHIWZ/2kIkB4br0TT2zPT68QqiMkhfH4I0aBRk=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-Server.git"
         },
-        "version": "3941986ab2c9e8c601d46b3911b53d8abdf1c199"
+        "version": "3e47859d88e4e82fecf077500f08452ae9b0943a"
     },
     "suwayomi-webui": {
         "cargoLocks": null,
@@ -618,12 +627,12 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1348.tar.gz",
-            "sha256": "sha256-1nlY0aQnzJK6a3RFXGq2A6P9845KOOO3j6M2Yyp0qcA=",
+            "name": "whisparr-src-3.0.1.1349.tar.gz",
+            "sha256": "sha256-+F2yaK03MOgTidygorSotv+xC+AntuxvZDQS7ucpek4=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1348&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1349&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1348"
+        "version": "3.0.1.1349"
     },
     "wkeys": {
         "cargoLocks": {

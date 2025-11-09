@@ -151,6 +151,8 @@
       sparseCheckout = [ ];
       sha256 = "sha256-5oAnXUvY08brivS/BtyUelt4hU8MUFoeA9y075qRRGE=";
     };
+    "package-lock.json" = builtins.readFile ./error-pages-742c755c049e75c1fbfeab0452091827dd25d9f2/package-lock.json;
+    "package.json" = builtins.readFile ./error-pages-742c755c049e75c1fbfeab0452091827dd25d9f2/package.json;
     date = "2024-11-23";
   };
   fireshare = {
@@ -165,6 +167,8 @@
       sparseCheckout = [ ];
       sha256 = "sha256-5ox3I4qPldfGpgf3G/uOunK05l11xAmKoW6Qk0fdSrA=";
     };
+    "app/client/package.json" = builtins.readFile ./fireshare-v1.2.30/app/client/package.json;
+    "app/client/package-lock.json" = builtins.readFile ./fireshare-v1.2.30/app/client/package-lock.json;
   };
   flaresolverr = {
     pname = "flaresolverr";
@@ -239,6 +243,8 @@
       sparseCheckout = [ ];
       sha256 = "sha256-hU7/cSfMc7kcmgPELJFUrY3t9IVQ/bL0mSzt2fwA2Pg=";
     };
+    "package-lock.json" = builtins.readFile ./mc-modpack-downloader-81c580e887a079ba62be12a7adf58b5ef4809f4a/package-lock.json;
+    "package.json" = builtins.readFile ./mc-modpack-downloader-81c580e887a079ba62be12a7adf58b5ef4809f4a/package.json;
     date = "2025-03-28";
   };
   mecha = {
@@ -256,31 +262,31 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85";
+    version = "de4c09844a5c725629d14906011bbe71d75a1128";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "4a455f1cc342eefeee7a96ddd9f248e3cb2c6b85";
+      rev = "de4c09844a5c725629d14906011bbe71d75a1128";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-wI4tY0EG9W0dludl/SRsvvN8c95qORvNGqh4cUJ6idY=";
+      sha256 = "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=";
     };
-    date = "2025-11-07";
+    date = "2025-11-08";
   };
   openrgb = {
     pname = "openrgb";
-    version = "f0a1ed2c0ffdecc7e35658e4394fe30ecd85a466";
+    version = "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "f0a1ed2c0ffdecc7e35658e4394fe30ecd85a466";
+      rev = "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-xaw+96tCnw5E6cGP0cUsYSKfHBlkNxEzJXT8eL7CjCE=";
+      sha256 = "sha256-Sa+Qd9+gVvDL+1NyecIpW8cxt/pv2oNCXBUpXxJVFG8=";
     };
-    date = "2025-11-03";
+    date = "2025-11-08";
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
@@ -385,17 +391,17 @@
   };
   suwayomi-server = {
     pname = "suwayomi-server";
-    version = "3941986ab2c9e8c601d46b3911b53d8abdf1c199";
+    version = "3e47859d88e4e82fecf077500f08452ae9b0943a";
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "3941986ab2c9e8c601d46b3911b53d8abdf1c199";
+      rev = "3e47859d88e4e82fecf077500f08452ae9b0943a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-8aukNvqE+wuB8k4Bw+AZMZ4ehlnhYeryMfMDpMAReaw=";
+      sha256 = "sha256-A2NqvRHIWZ/2kIkB4br0TT2zPT68QqiMkhfH4I0aBRk=";
     };
-    date = "2025-11-06";
+    date = "2025-11-08";
   };
   suwayomi-webui = {
     pname = "suwayomi-webui";
@@ -426,11 +432,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1348";
+    version = "3.0.1.1349";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1348&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1348.tar.gz";
-      sha256 = "sha256-1nlY0aQnzJK6a3RFXGq2A6P9845KOOO3j6M2Yyp0qcA=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1349&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1349.tar.gz";
+      sha256 = "sha256-+F2yaK03MOgTidygorSotv+xC+AntuxvZDQS7ucpek4=";
     };
   };
   wkeys = {
