@@ -5,7 +5,6 @@
   lib,
   stdenvNoCC,
   python312Packages,
-  npmHooks,
   importNpmLock,
   libffi,
   ffmpeg,
@@ -14,6 +13,7 @@
   openssl,
   makeWrapper,
   sqlite,
+  nodejs,
 
   _sources,
 }:
@@ -47,7 +47,10 @@ python312Packages.buildPythonApplication rec {
     inherit version src;
     sourceRoot = "${src.name}/app/client";
 
-    nativeBuildInputs = [ npmHooks.npmConfigHook ];
+    nativeBuildInputs = [
+      nodejs
+      importNpmLock.hooks.npmConfigHook
+    ];
 
     npmDeps = importNpmLock {
       package = builtins.fromJSON _sources.fireshare."app/client/package.json";

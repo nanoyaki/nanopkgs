@@ -6,7 +6,6 @@
   stdenvNoCC,
   importNpmLock,
   nodejs,
-  npmHooks,
 
   _sources,
 }:
@@ -26,7 +25,7 @@ stdenvNoCC.mkDerivation {
 
   nativeBuildInputs = [
     nodejs
-    npmHooks.npmConfigHook
+    importNpmLock.hooks.npmConfigHook
   ];
 
   buildPhase = ''

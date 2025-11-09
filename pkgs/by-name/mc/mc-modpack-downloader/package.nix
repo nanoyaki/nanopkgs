@@ -7,7 +7,6 @@
   makeWrapper,
   nodejs_20,
   importNpmLock,
-  npmHooks,
 
   nodejs ? nodejs_20,
 
@@ -25,7 +24,8 @@ stdenvNoCC.mkDerivation (finalAttrs: {
 
   nativeBuildInputs = [
     makeWrapper
-    npmHooks.npmConfigHook
+    nodejs
+    importNpmLock.hooks.npmConfigHook
   ];
 
   buildPhase = ''
