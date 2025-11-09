@@ -3,27 +3,29 @@
 # SPDX-License-Identifier: MIT
 {
   lib,
-  buildNpmPackage,
+  stdenvNoCC,
   makeWrapper,
   nodejs_20,
   importNpmLock,
+  npmHooks,
 
   nodejs ? nodejs_20,
 
   _sources,
 }:
 
-buildNpmPackage (finalAttrs: {
+stdenvNoCC.mkDerivation (finalAttrs: {
   inherit (_sources.mc-modpack-downloader) pname version src;
   inherit nodejs;
 
   npmDeps = importNpmLock {
-    package = _sources.mc-modpack-downloader."package.json";
-    packageLock = _sources.mc-modpack-downloader."package-lock.json";
+    package = builtins.fromJSON _sources.mc-modpack-downloader."package.json";
+    packageLock = builtins.fromJSON _sources.mc-modpack-downloader."package-lock.json";
   };
 
   nativeBuildInputs = [
     makeWrapper
+    npmHooks.npmConfigHook
   ];
 
   buildPhase = ''

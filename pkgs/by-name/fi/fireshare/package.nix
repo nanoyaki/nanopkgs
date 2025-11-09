@@ -5,7 +5,7 @@
   lib,
   stdenvNoCC,
   python312Packages,
-  buildNpmPackage,
+  npmHooks,
   importNpmLock,
   libffi,
   ffmpeg,
@@ -42,14 +42,16 @@ python312Packages.buildPythonApplication rec {
   };
   sourceRoot = "${src.name}/app/server";
 
-  frontend = buildNpmPackage {
+  frontend = stdenvNoCC.mkDerivation {
     pname = "${pname}-frontend";
     inherit version src;
     sourceRoot = "${src.name}/app/client";
 
+    nativeBuildInputs = [ npmHooks.npmConfigHook ];
+
     npmDeps = importNpmLock {
-      package = _sources.fireshare."app/client/package.json";
-      packageLock = _sources.fireshare."app/client/package-lock.json";
+      package = builtins.fromJSON _sources.fireshare."app/client/package.json";
+      packageLock = builtins.fromJSON _sources.fireshare."app/client/package-lock.json";
     };
 
     buildPhase = ''
