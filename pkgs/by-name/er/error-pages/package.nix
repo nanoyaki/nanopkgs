@@ -4,15 +4,14 @@
 {
   lib,
   stdenvNoCC,
-  fetchNpmDeps,
+  importNpmLock,
   nodejs,
   npmHooks,
 
   _sources,
-  _versions,
 }:
 
-stdenvNoCC.mkDerivation (finalAttrs: {
+stdenvNoCC.mkDerivation {
   inherit (_sources.error-pages)
     pname
     version
@@ -20,10 +19,9 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     date
     ;
 
-  npmDeps = fetchNpmDeps {
-    name = "${finalAttrs.pname}-${finalAttrs.version}-npm-deps";
-    inherit (finalAttrs) src;
-    hash = _versions.error-pages.npmDepsHash;
+  npmDeps = importNpmLock {
+    package = builtins.fromJSON _sources.error-pages."package.json";
+    packageLock = builtins.fromJSON _sources.error-pages."package-lock.json";
   };
 
   nativeBuildInputs = [
@@ -55,4 +53,4 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     maintainers = with lib.maintainers; [ nanoyaki ];
     platforms = lib.platforms.all;
   };
-})
+}

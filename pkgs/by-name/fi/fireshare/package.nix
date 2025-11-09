@@ -6,6 +6,7 @@
   stdenvNoCC,
   python312Packages,
   buildNpmPackage,
+  importNpmLock,
   libffi,
   ffmpeg,
   openldap,
@@ -46,7 +47,10 @@ python312Packages.buildPythonApplication rec {
     inherit version src;
     sourceRoot = "${src.name}/app/client";
 
-    npmDepsHash = "sha256-m+hZxDdJh9qKA2vYLiWzsFmHvoCrg1I0Wz4BUYve3ZQ=";
+    npmDeps = importNpmLock {
+      package = _sources.fireshare."app/client/package.json";
+      packageLock = _sources.fireshare."app/client/package-lock.json";
+    };
 
     buildPhase = ''
       node_modules/react-scripts/bin/react-scripts.js build

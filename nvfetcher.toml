@@ -30,10 +30,12 @@ fetch.git = "https://github.com/martinkirch/drop2beets.git"
 src.git = "https://github.com/martinkirch/drop2beets.git"
 
 [error-pages]
+extract = ["package.json", "package-lock.json"]
 fetch.git = "https://github.com/sapachev/error-pages.git"
 src.git = "https://github.com/sapachev/error-pages.git"
 
 [fireshare]
+extract = ["app/client/package.json", "app/client/package-lock.json"]
 fetch.git = "https://github.com/ShaneIsrael/fireshare.git"
 src.github_tag = "ShaneIsrael/fireshare"
 
@@ -59,6 +61,7 @@ fetch.git = "https://github.com/Mik1ll/LuaRenamer.git"
 src.github_tag = "Mik1ll/LuaRenamer"
 
 [mc-modpack-downloader]
+extract = ["package.json", "package-lock.json"]
 fetch.git = "https://github.com/newo-2001/MC-Modpack-Downloader.git"
 src.git = "https://github.com/newo-2001/MC-Modpack-Downloader.git"
 

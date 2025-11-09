@@ -6,19 +6,21 @@
   buildNpmPackage,
   makeWrapper,
   nodejs_20,
+  importNpmLock,
+
+  nodejs ? nodejs_20,
 
   _sources,
-  _versions,
 }:
-
-let
-  nodejs = nodejs_20;
-in
 
 buildNpmPackage (finalAttrs: {
   inherit (_sources.mc-modpack-downloader) pname version src;
-  inherit (_versions.mc-modpack-downloader) npmDepsHash;
   inherit nodejs;
+
+  npmDeps = importNpmLock {
+    package = _sources.mc-modpack-downloader."package.json";
+    packageLock = _sources.mc-modpack-downloader."package-lock.json";
+  };
 
   nativeBuildInputs = [
     makeWrapper

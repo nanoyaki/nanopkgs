@@ -5,7 +5,6 @@
 {
   lib,
   stdenvNoCC,
-  fetchpatch2,
   zip,
   makeWrapper,
   gradle_8,
@@ -37,12 +36,6 @@ let
       + ".${_versions.suwayomi-server.revision}";
 
     patches = [
-      # Fixes compilation error caused by a newer android jar
-      # than what's included in the github release binary
-      (fetchpatch2 {
-        url = "https://github.com/Suwayomi/Suwayomi-Server/commit/5be4d2a1044b0eaac8dba8fdf060ce1c4b4381e9.patch";
-        hash = "sha256-cLFHQQBAALyEVdfVOg5g9ZRI9k4nbB0Lhvq7RJ03hrc=";
-      })
       ./disable-download.patch
     ];
 
@@ -64,7 +57,7 @@ let
     ++ lib.optional asApplication copyDesktopItems;
 
     mitmCache = gradle_8.fetchDeps {
-      inherit (finalAttrs) pname;
+      pkg = self;
       data = ./deps.json;
     };
 
