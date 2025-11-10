@@ -497,6 +497,26 @@
         },
         "version": "093c1a79f58daab358199c4246de50357e5bf462"
     },
+    "shoko": {
+        "cargoLocks": null,
+        "date": "2025-11-09",
+        "extract": null,
+        "name": "shoko",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "dffc184af21e94e3c7cb51f13b887911baf75f9a",
+            "sha256": "sha256-s1aDSBYPpdLRp0m6v4YFrSKlnblpoKZiOQKOmOc20YI=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/ShokoAnime/ShokoServer.git"
+        },
+        "version": "dffc184af21e94e3c7cb51f13b887911baf75f9a"
+    },
     "shoko-webui": {
         "cargoLocks": null,
         "date": "2025-10-24",
@@ -516,6 +536,26 @@
             "url": "https://github.com/ShokoAnime/Shoko-Webui.git"
         },
         "version": "04deb2df872070ccab366b739b48441d1441b277"
+    },
+    "shokofin": {
+        "cargoLocks": null,
+        "date": "2025-11-03",
+        "extract": null,
+        "name": "shokofin",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "f896870ab35cd508afcf50b4483f0dc3a9aa4616",
+            "sha256": "sha256-73kR8veMMfM99fvCoKHuFFjsU/gx5dVQg1oYIJaGtpI=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/ShokoAnime/Shokofin.git"
+        },
+        "version": "f896870ab35cd508afcf50b4483f0dc3a9aa4616"
     },
     "stash-scrapers": {
         "cargoLocks": null,
