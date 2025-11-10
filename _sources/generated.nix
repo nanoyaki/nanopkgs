@@ -262,31 +262,31 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "de4c09844a5c725629d14906011bbe71d75a1128";
+    version = "b7dbb62ee7d5d3a185f8e497ae9d03891a997b8a";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "de4c09844a5c725629d14906011bbe71d75a1128";
+      rev = "b7dbb62ee7d5d3a185f8e497ae9d03891a997b8a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=";
+      sha256 = "sha256-FNeQWMH2bj5d9jxQBkgAujfGeMAQtBwXqTHKFsGDol4=";
     };
-    date = "2025-11-08";
+    date = "2025-11-10";
   };
   openrgb = {
     pname = "openrgb";
-    version = "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6";
+    version = "0c079c2bf49ec5b8b905d8c0387256a85e71dc18";
     src = fetchgit {
       url = "https://gitlab.com/CalcProgrammer1/OpenRGB.git";
-      rev = "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6";
+      rev = "0c079c2bf49ec5b8b905d8c0387256a85e71dc18";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Sa+Qd9+gVvDL+1NyecIpW8cxt/pv2oNCXBUpXxJVFG8=";
+      sha256 = "sha256-71h2il+EfIvObClrHpYEc9VGDkzmj3TJOcQVuYTmuOc=";
     };
-    date = "2025-11-08";
+    date = "2025-11-10";
   };
   osu-lazer-bin = {
     pname = "osu-lazer-bin";
@@ -353,10 +353,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.142";
+    version = "5.1.0";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.142.tar.gz";
-      sha256 = "sha256-M6GOMnMXbZdDjObIfkxOPiqwZQOGjOi4nPh5pSsrRxU=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0.tar.gz";
+      sha256 = "sha256-M9BEvOPBVjIAyKO8qaf3Hrk54mK2tIlTFvzGwNfn0uw=";
     };
   };
   shoko-webui = {
@@ -369,10 +369,10 @@
   };
   shokofin = {
     pname = "shokofin";
-    version = "5.0.6-dev.5";
+    version = "5.0.6";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.5.tar.gz";
-      sha256 = "sha256-73kR8veMMfM99fvCoKHuFFjsU/gx5dVQg1oYIJaGtpI=";
+      url = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6.tar.gz";
+      sha256 = "sha256-2B2vvdwfeRYAuuMM60nhjDlrOu0dWqBnw6LtCz8QvK4=";
     };
   };
   stash-scrapers = {
@@ -432,19 +432,19 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1349";
+    version = "3.0.2.1354";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1349&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1349.tar.gz";
-      sha256 = "sha256-+F2yaK03MOgTidygorSotv+xC+AntuxvZDQS7ucpek4=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.2.1354&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.2.1354.tar.gz";
+      sha256 = "sha256-kt0N1dVMJUhm7qW4YtdMxqJlUoZ65lRP4yI2eEFJxTc=";
     };
   };
   wkeys = {
     pname = "wkeys";
-    version = "058b98a1d47bc633f61b99d88fc720ecba5e840c";
+    version = "4d7d373578d987719d9f5089d40697e8906c3753";
     src = fetchgit {
-      url = "https://github.com/nanoyaki/wkeys.git";
-      rev = "058b98a1d47bc633f61b99d88fc720ecba5e840c";
+      url = "https://github.com/ptazithos/wkeys.git";
+      rev = "4d7d373578d987719d9f5089d40697e8906c3753";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
@@ -452,7 +452,7 @@
       sha256 = "sha256-312xCT9f3WyoB1C7+olQd/2G0UI0ryQ7SJ0jyvJi2ak=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./wkeys-058b98a1d47bc633f61b99d88fc720ecba5e840c/Cargo.lock;
+      lockFile = ./wkeys-4d7d373578d987719d9f5089d40697e8906c3753/Cargo.lock;
       outputHashes = {
         "cosmic-freedesktop-icons-0.3.0" = "sha256-XAcoKxMp1fyclalkkqVMoO7+TVekj/Tq2C9XFM9FFCk=";
         "cosmic-settings-daemon-0.1.0" = "sha256-0KCw70FGecsRPpapC7YeOsxNFtWdIReqkm0hgTqmd0s=";

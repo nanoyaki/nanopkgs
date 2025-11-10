@@ -364,7 +364,7 @@
     },
     "midnight-theme": {
         "cargoLocks": null,
-        "date": "2025-11-08",
+        "date": "2025-11-10",
         "extract": null,
         "name": "midnight-theme",
         "passthru": null,
@@ -374,17 +374,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "de4c09844a5c725629d14906011bbe71d75a1128",
-            "sha256": "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=",
+            "rev": "b7dbb62ee7d5d3a185f8e497ae9d03891a997b8a",
+            "sha256": "sha256-FNeQWMH2bj5d9jxQBkgAujfGeMAQtBwXqTHKFsGDol4=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/refact0r/midnight-discord.git"
         },
-        "version": "de4c09844a5c725629d14906011bbe71d75a1128"
+        "version": "b7dbb62ee7d5d3a185f8e497ae9d03891a997b8a"
     },
     "openrgb": {
         "cargoLocks": null,
-        "date": "2025-11-08",
+        "date": "2025-11-10",
         "extract": null,
         "name": "openrgb",
         "passthru": null,
@@ -394,13 +394,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6",
-            "sha256": "sha256-Sa+Qd9+gVvDL+1NyecIpW8cxt/pv2oNCXBUpXxJVFG8=",
+            "rev": "0c079c2bf49ec5b8b905d8c0387256a85e71dc18",
+            "sha256": "sha256-71h2il+EfIvObClrHpYEc9VGDkzmj3TJOcQVuYTmuOc=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://gitlab.com/CalcProgrammer1/OpenRGB.git"
         },
-        "version": "999dbc3024e05a976b9cfe2dcc0b8b72c102dbb6"
+        "version": "0c079c2bf49ec5b8b905d8c0387256a85e71dc18"
     },
     "osu-lazer-bin": {
         "cargoLocks": null,
@@ -505,11 +505,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-M6GOMnMXbZdDjObIfkxOPiqwZQOGjOi4nPh5pSsrRxU=",
+            "sha256": "sha256-M9BEvOPBVjIAyKO8qaf3Hrk54mK2tIlTFvzGwNfn0uw=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.142.tar.gz"
+            "url": "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0.tar.gz"
         },
-        "version": "5.1.0-dev.142"
+        "version": "5.1.0"
     },
     "shoko-webui": {
         "cargoLocks": null,
@@ -533,11 +533,11 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "sha256": "sha256-73kR8veMMfM99fvCoKHuFFjsU/gx5dVQg1oYIJaGtpI=",
+            "sha256": "sha256-2B2vvdwfeRYAuuMM60nhjDlrOu0dWqBnw6LtCz8QvK4=",
             "type": "tarball",
-            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6-dev.5.tar.gz"
+            "url": "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v5.0.6.tar.gz"
         },
-        "version": "5.0.6-dev.5"
+        "version": "5.0.6"
     },
     "stash-scrapers": {
         "cargoLocks": null,
@@ -627,17 +627,17 @@
         "passthru": null,
         "pinned": false,
         "src": {
-            "name": "whisparr-src-3.0.1.1349.tar.gz",
-            "sha256": "sha256-+F2yaK03MOgTidygorSotv+xC+AntuxvZDQS7ucpek4=",
+            "name": "whisparr-src-3.0.2.1354.tar.gz",
+            "sha256": "sha256-kt0N1dVMJUhm7qW4YtdMxqJlUoZ65lRP4yI2eEFJxTc=",
             "type": "url",
-            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1349&os=linux&runtime=netcore&arch=x64"
+            "url": "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.2.1354&os=linux&runtime=netcore&arch=x64"
         },
-        "version": "3.0.1.1349"
+        "version": "3.0.2.1354"
     },
     "wkeys": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./wkeys-058b98a1d47bc633f61b99d88fc720ecba5e840c/Cargo.lock",
+                "./wkeys-4d7d373578d987719d9f5089d40697e8906c3753/Cargo.lock",
                 {
                     "accesskit-0.16.0": "sha256-uoLcd116WXQTu1ZTfJDEl9+3UPpGBN/QuJpkkGyRADQ=",
                     "atomicwrites-0.4.2": "sha256-QZSuGPrJXh+svMeFWqAXoqZQxLq/WfIiamqvjJNVhxA=",
@@ -665,12 +665,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "058b98a1d47bc633f61b99d88fc720ecba5e840c",
+            "rev": "4d7d373578d987719d9f5089d40697e8906c3753",
             "sha256": "sha256-312xCT9f3WyoB1C7+olQd/2G0UI0ryQ7SJ0jyvJi2ak=",
             "sparseCheckout": [],
             "type": "git",
-            "url": "https://github.com/nanoyaki/wkeys.git"
+            "url": "https://github.com/ptazithos/wkeys.git"
         },
-        "version": "058b98a1d47bc633f61b99d88fc720ecba5e840c"
+        "version": "4d7d373578d987719d9f5089d40697e8906c3753"
     }
 }
