@@ -101,19 +101,19 @@ src.git = "https://github.com/adi1090x/rofi.git"
 [shoko]
 fetch.tarball = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v$ver.tar.gz"
 src.github_tag = "ShokoAnime/ShokoServer"
-src.include_regex = '.*-dev\..*'
+src.include_regex = '.*(-dev\..*)?'
 src.prefix = "v"
 
 [shoko-webui]
 fetch.tarball = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v$ver.tar.gz"
 src.github_tag = "ShokoAnime/Shoko-WebUI"
-src.include_regex = '.*-dev\..*'
+src.include_regex = '.*(-dev\..*)?'
 src.prefix = "v"
 
 [shokofin]
 fetch.tarball = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v$ver.tar.gz"
 src.github_tag = "ShokoAnime/Shokofin"
-src.include_regex = '.*-dev\..*'
+src.include_regex = '.*(-dev\..*)?'
 src.prefix = "v"
 
 [stash-scrapers]
@@ -139,6 +139,5 @@ url.name = "whisparr-src-$ver.tar.gz"
 
 [wkeys]
 cargo_locks = ["Cargo.lock"]
-fetch.git = "https://github.com/nanoyaki/wkeys.git"
-src.git = "https://github.com/nanoyaki/wkeys.git"
-src.branch = "feat/nix-package"
+fetch.git = "https://github.com/ptazithos/wkeys.git"
+src.git = "https://github.com/ptazithos/wkeys.git"
