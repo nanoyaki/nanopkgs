@@ -99,22 +99,16 @@ fetch.git = "https://github.com/adi1090x/rofi.git"
 src.git = "https://github.com/adi1090x/rofi.git"
 
 [shoko]
-fetch.tarball = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v$ver.tar.gz"
-src.github_tag = "ShokoAnime/ShokoServer"
-src.include_regex = '.*(-dev\..*)?'
-src.prefix = "v"
+fetch.git = "https://github.com/ShokoAnime/ShokoServer.git"
+src.git = "https://github.com/ShokoAnime/ShokoServer.git"
 
 [shoko-webui]
-fetch.tarball = "https://github.com/ShokoAnime/Shoko-WebUI/archive/refs/tags/v$ver.tar.gz"
-src.github_tag = "ShokoAnime/Shoko-WebUI"
-src.include_regex = '.*(-dev\..*)?'
-src.prefix = "v"
+fetch.git = "https://github.com/ShokoAnime/Shoko-Webui.git"
+src.git = "https://github.com/ShokoAnime/Shoko-Webui.git"
 
 [shokofin]
-fetch.tarball = "https://github.com/ShokoAnime/Shokofin/archive/refs/tags/v$ver.tar.gz"
-src.github_tag = "ShokoAnime/Shokofin"
-src.include_regex = '.*(-dev\..*)?'
-src.prefix = "v"
+fetch.git = "https://github.com/ShokoAnime/Shokofin.git"
+src.git = "https://github.com/ShokoAnime/Shokofin.git"
 
 [stash-scrapers]
 fetch.git = "https://github.com/stashapp/CommunityScrapers.git"

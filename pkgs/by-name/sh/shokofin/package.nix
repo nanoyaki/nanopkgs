@@ -10,17 +10,24 @@
   _experimental-update-script-combinators,
 
   _sources,
+  _versions,
 }:
 
 buildDotnetModule (finalAttrs: {
-  inherit (_sources.shokofin) pname version src;
+  inherit (_sources.shokofin)
+    pname
+    src
+    date
+    ;
+
+  version = _versions.shokofin._version;
 
   dotnet-sdk = dotnet-sdk_9;
   dotnet-runtime = dotnet-aspnetcore_9;
 
   nugetDeps = ./deps.json;
   projectFile = "Shokofin/Shokofin.csproj";
-  dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev\"";
+  dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
 
   executables = [ ];
 

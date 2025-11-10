@@ -14,7 +14,12 @@
   _versions,
 }:
 stdenvNoCC.mkDerivation (finalAttrs: {
-  inherit (_sources.shoko-webui) pname version src;
+  inherit (_sources.shoko-webui)
+    pname
+    version
+    src
+    date
+    ;
 
   # Avoid requiring git as a build time dependency. It's used for version
   # checking in the updater, which shouldn't be used if the webui is managed

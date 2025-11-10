@@ -40,9 +40,23 @@ cmd = '''
         || jq -r '.data."shoko-webui.pnpmHash".version' _versions/new_versions.json
 '''
 
+["shoko._version"]
+source = "github"
+github = "ShokoAnime/ShokoServer"
+use_max_tag = true
+prefix = "v"
+include_regex = '.*-dev\..*'
+
 ["shoko.nugetDepsHash"]
 source = "cmd"
 cmd = "nix run .#update-dotnet -- shoko pkgs/by-name/sh 2> /dev/null"
+
+["shokofin._version"]
+source = "github"
+github = "ShokoAnime/Shokofin"
+use_max_tag = true
+prefix = "v"
+include_regex = '.*-dev\..*'
 
 ["shokofin.nugetDepsHash"]
 source = "cmd"

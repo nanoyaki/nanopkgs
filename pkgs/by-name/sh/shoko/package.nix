@@ -13,10 +13,17 @@
   nix-update-script,
 
   _sources,
+  _versions,
 }:
 
 buildDotnetModule (finalAttrs: {
-  inherit (_sources.shoko) pname version src;
+  inherit (_sources.shoko)
+    pname
+    src
+    date
+    ;
+
+  version = _versions.shoko._version;
 
   dotnet-sdk =
     with dotnetCorePackages;
@@ -36,7 +43,7 @@ buildDotnetModule (finalAttrs: {
 
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
-  dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev\"";
+  dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
 
   executables = [ "Shoko.CLI" ];
   makeWrapperArgs = [
