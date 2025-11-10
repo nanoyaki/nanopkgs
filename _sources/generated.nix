@@ -262,17 +262,17 @@
   };
   midnight-theme = {
     pname = "midnight-theme";
-    version = "de4c09844a5c725629d14906011bbe71d75a1128";
+    version = "853345f86f9abef69a05f508dc9cb286a53dc130";
     src = fetchgit {
       url = "https://github.com/refact0r/midnight-discord.git";
-      rev = "de4c09844a5c725629d14906011bbe71d75a1128";
+      rev = "853345f86f9abef69a05f508dc9cb286a53dc130";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-cZ5zoIwEYWy9qyZ0DeM/0nG1ARd9upMK4rSsBkTAGEs=";
+      sha256 = "sha256-flgu2f8j8msRGBZ6P0ngOAwiNezaAp5nYohR3ov2zOw=";
     };
-    date = "2025-11-08";
+    date = "2025-11-09";
   };
   openrgb = {
     pname = "openrgb";
@@ -353,10 +353,10 @@
   };
   shoko = {
     pname = "shoko";
-    version = "5.1.0-dev.142";
+    version = "5.1.0-dev.143";
     src = fetchTarball {
-      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.142.tar.gz";
-      sha256 = "sha256-M6GOMnMXbZdDjObIfkxOPiqwZQOGjOi4nPh5pSsrRxU=";
+      url = "https://github.com/ShokoAnime/ShokoServer/archive/refs/tags/v5.1.0-dev.143.tar.gz";
+      sha256 = "sha256-s1aDSBYPpdLRp0m6v4YFrSKlnblpoKZiOQKOmOc20YI=";
     };
   };
   shoko-webui = {
@@ -432,11 +432,11 @@
   };
   whisparr = {
     pname = "whisparr";
-    version = "3.0.1.1349";
+    version = "3.0.1.1352";
     src = fetchurl {
-      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1349&os=linux&runtime=netcore&arch=x64";
-      name = "whisparr-src-3.0.1.1349.tar.gz";
-      sha256 = "sha256-+F2yaK03MOgTidygorSotv+xC+AntuxvZDQS7ucpek4=";
+      url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=3.0.1.1352&os=linux&runtime=netcore&arch=x64";
+      name = "whisparr-src-3.0.1.1352.tar.gz";
+      sha256 = "sha256-LlToBK87STIc2tYHQfDhd0SMojJwxnSQlM0BhpMN0rc=";
     };
   };
   wkeys = {
