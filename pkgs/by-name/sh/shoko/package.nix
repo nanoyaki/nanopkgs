@@ -25,6 +25,10 @@ buildDotnetModule (finalAttrs: {
 
   version = _versions.shoko._version;
 
+  patches = [
+    ./deps.patch
+  ];
+
   dotnet-sdk =
     with dotnetCorePackages;
 
@@ -44,6 +48,7 @@ buildDotnetModule (finalAttrs: {
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
   dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
+  dotnetInstallFlags = "-f net9.0";
 
   executables = [ "Shoko.CLI" ];
   makeWrapperArgs = [
