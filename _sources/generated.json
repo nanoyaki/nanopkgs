@@ -1,4 +1,24 @@
 {
+    "avdump": {
+        "cargoLocks": null,
+        "date": "2024-03-10",
+        "extract": null,
+        "name": "avdump",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "7f3f7259e332b56d1f2dc6bb9f29bc4aa7e28c4a",
+            "sha256": "sha256-5PxFI9+m83ZRdUM+vZ00Ag4pI/7OtnLwsSUK3bps8dU=",
+            "sparseCheckout": [],
+            "type": "git",
+            "url": "https://github.com/DvdKhl/AVDump3.git"
+        },
+        "version": "7f3f7259e332b56d1f2dc6bb9f29bc4aa7e28c4a"
+    },
     "beet": {
         "cargoLocks": null,
         "date": null,

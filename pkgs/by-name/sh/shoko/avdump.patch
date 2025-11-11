@@ -1,0 +1,35 @@
+diff --git a/Shoko.Server/Utilities/AVDumpHelper.cs b/Shoko.Server/Utilities/AVDumpHelper.cs
+index 3447c44a4..ae278b135 100644
+--- a/Shoko.Server/Utilities/AVDumpHelper.cs
++++ b/Shoko.Server/Utilities/AVDumpHelper.cs
+@@ -30,7 +30,7 @@ public static partial class AVDumpHelper
+ 
+     private const string AVDumpURL = @"AVD3_URL_GOES_HERE";
+ 
+-    private static readonly string AVDumpExecutable = Path.Combine(WorkingDirectory, Utils.IsRunningOnLinuxOrMac() ? "AVDump3CL.dll" : "AVDump3CL.exe");
++    private static readonly string AVDumpExecutable = Path.Combine("@avdump@/bin", Utils.IsRunningOnLinuxOrMac() ? "AVDump3CL" : "AVDump3CL.exe");
+ 
+     private static readonly ConcurrentDictionary<int, AVDumpSession> ActiveSessions = new();
+ 
+@@ -141,11 +141,6 @@ public static partial class AVDumpHelper
+         if (videoDict.Count == 0)
+             return new("Cannot dump 0 files.");
+ 
+-        // The sub-routine takes care of sending the avdump event if it fails,
+-        // the return message is for v1 compatibility.
+-        if (!PrepareAVDump())
+-            return new("Failed to install or update the AVDump component.");
+-
+         var settings = Utils.SettingsProvider.GetSettings();
+         if (string.IsNullOrWhiteSpace(settings.AniDb.AVDumpKey))
+         {
+@@ -480,8 +475,7 @@ public static partial class AVDumpHelper
+ 
+         if (Utils.IsRunningOnLinuxOrMac())
+         {
+-            startInfo.FileName = "dotnet";
+-            startInfo.ArgumentList.Add(AVDumpExecutable);
++            startInfo.FileName = AVDumpExecutable;
+         }
+ 
+         foreach (var arg in argumentList)

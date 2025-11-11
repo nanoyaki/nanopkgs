@@ -11,6 +11,8 @@
   mediainfo,
   rhash,
   nix-update-script,
+  replaceVars,
+  avdump,
 
   _sources,
   _versions,
@@ -27,6 +29,7 @@ buildDotnetModule (finalAttrs: {
 
   patches = [
     ./deps.patch
+    (replaceVars ./avdump.patch { inherit avdump; })
   ];
 
   dotnet-sdk =
