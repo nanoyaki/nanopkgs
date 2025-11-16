@@ -25,10 +25,10 @@ index 0b010dd..f2ed276 100644
      db.session.commit()
  
 diff --git a/app/server/fireshare/cli.py b/app/server/fireshare/cli.py
-index 5250bfe..ed6e717 100755
+index 88254c6..11bebba 100755
 --- a/app/server/fireshare/cli.py
 +++ b/app/server/fireshare/cli.py
-@@ -56,7 +56,7 @@ def init_db():
+@@ -57,7 +57,7 @@ def init_db():
  @click.option("--password", "-p", help="Password", prompt=True, hide_input=True)
  def add_user(username, password):
      with create_app().app_context():
@@ -64,58 +64,3 @@ index b86727c..d7d9f7b 100644
          db.session.commit()
      if admin and current_app.config['ADMIN_USERNAME'] and admin.username != current_app.config['ADMIN_USERNAME']:
          row = db.session.query(User).filter_by(admin=True, ldap=False).first()
-diff --git a/app/server/requirements.txt b/app/server/requirements.txt
-index eb334a0..f46eb86 100644
---- a/app/server/requirements.txt
-+++ b/app/server/requirements.txt
-@@ -1,24 +1,24 @@
--click==8.1.3
--ffmpeg-python==0.2.0
--Flask==2.1.2
--Flask-Cors==3.0.10
--Flask-Login==0.6.1
--Flask-Migrate==3.1.0
--Flask-SQLAlchemy==2.5.1
--Flask-WTF==1.0.1
--future==0.18.2
--greenlet==3.0.3
--gunicorn==20.1.0
--importlib-metadata==4.11.3
--itsdangerous==2.1.2
--Jinja2==3.1.2
--MarkupSafe==2.1.1
--six==1.16.0
--SQLAlchemy==1.4.36
--Werkzeug==2.1.2
--WTForms==3.0.1
--zipp==3.8.0
--xxhash==3.0.0
--apscheduler==3.9.1
--python-ldap==3.4.3
--requests==2.27.1
-\ No newline at end of file
-+click
-+ffmpeg-python
-+Flask
-+Flask-Cors
-+Flask-Login
-+Flask-Migrate
-+Flask-SQLAlchemy
-+Flask-WTF
-+future
-+greenlet
-+gunicorn
-+importlib-metadata
-+itsdangerous
-+Jinja2
-+MarkupSafe
-+six
-+SQLAlchemy
-+Werkzeug
-+WTForms
-+zipp
-+xxhash
-+apscheduler
-+python-ldap
-+requests
-\ No newline at end of file

@@ -2,10 +2,10 @@
 #
 # SPDX-License-Identifier: MIT
 {
+  lib,
   buildDotnetModule,
   dotnet-sdk_9,
   dotnet-aspnetcore_9,
-  lib,
   nix-update-script,
   _experimental-update-script-combinators,
 
@@ -33,7 +33,13 @@ buildDotnetModule (finalAttrs: {
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
     (nix-update-script { })
-    finalAttrs.fetch-deps
+
+    {
+      command = [
+        finalAttrs.passthru.fetch-deps
+        "pkgs/by-name/sh/shokofin"
+      ];
+    }
   ];
 
   meta = {

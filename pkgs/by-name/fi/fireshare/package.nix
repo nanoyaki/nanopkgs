@@ -19,27 +19,11 @@
 }:
 
 python312Packages.buildPythonApplication rec {
-  inherit (_sources.fireshare) pname;
+  inherit (_sources.fireshare) pname src;
   version = lib.removePrefix "v" _sources.fireshare.version;
   pyproject = true;
 
-  unpatchedSrc = _sources.fireshare.src;
-  src = stdenvNoCC.mkDerivation {
-    pname = "${pname}-src";
-    inherit version;
-
-    src = unpatchedSrc;
-    patches = [ ./nixos-compat.patch ];
-
-    installPhase = ''
-      runHook preInstall
-
-      mkdir -p $out
-      cp -r . $out
-
-      runHook postInstall
-    '';
-  };
+  patches = [ ./nixos-compat.patch ];
   sourceRoot = "${src.name}/app/server";
 
   frontend = stdenvNoCC.mkDerivation {
@@ -70,6 +54,33 @@ python312Packages.buildPythonApplication rec {
       runHook postInstall
     '';
   };
+
+  pythonRelaxDeps = [
+    "click"
+    "ffmpeg-python"
+    "Flask"
+    "Flask-Cors"
+    "Flask-Login"
+    "Flask-Migrate"
+    "Flask-SQLAlchemy"
+    "Flask-WTF"
+    "future"
+    "greenlet"
+    "gunicorn"
+    "importlib-metadata"
+    "itsdangerous"
+    "Jinja2"
+    "MarkupSafe"
+    "six"
+    "SQLAlchemy"
+    "Werkzeug"
+    "WTForms"
+    "zipp"
+    "xxhash"
+    "apscheduler"
+    "python-ldap"
+    "requests"
+  ];
 
   build-system = with python312Packages; [ setuptools ];
 

@@ -14,6 +14,8 @@ buildGoModule (finalAttrs: {
   version = lib.removePrefix "v" _sources.ftb-server-installer.version;
   inherit (_versions.ftb-server-installer) vendorHash;
 
+  patches = [ ./sum.patch ];
+
   env.CGO_ENABLED = 0;
 
   ldflags = [

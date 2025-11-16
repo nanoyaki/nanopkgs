@@ -114,23 +114,6 @@
         '';
       };
 
-      apps.update-pkg = {
-        type = "app";
-        program = pkgs.writeShellApplication {
-          name = "update-pkg";
-          runtimeInputs = [ pkgs.coreutils ];
-          text = ''
-            nix-shell "${pkgs.path}/maintainers/scripts/update.nix" \
-              --arg include-overlays "[ (import $(pwd)).overlays.default ]" \
-              --argstr path "$1"
-          '';
-        };
-
-        meta.description = ''
-          Run nixpkgs update scripts for overlayed packages
-        '';
-      };
-
       apps.update-dotnet = {
         type = "app";
         program = pkgs.writeShellApplication {

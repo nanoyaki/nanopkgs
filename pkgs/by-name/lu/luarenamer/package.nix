@@ -28,7 +28,13 @@ buildDotnetModule (finalAttrs: {
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
     (nix-update-script { })
-    finalAttrs.fetch-deps
+
+    {
+      command = [
+        finalAttrs.passthru.fetch-deps
+        "pkgs/by-name/lu/luarenamer"
+      ];
+    }
   ];
 
   meta = {
