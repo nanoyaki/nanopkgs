@@ -619,7 +619,7 @@
     },
     "suwayomi-webui": {
         "cargoLocks": null,
-        "date": "2025-11-07",
+        "date": "2025-11-17",
         "extract": null,
         "name": "suwayomi-webui",
         "passthru": null,
@@ -629,13 +629,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "284c194ac3bc5daed1d403d47c356378ad9de98a",
-            "sha256": "sha256-r361QIlnUIa61+WzvkCkiri8abErfVwdYIuTvjO87oE=",
+            "rev": "36477d1c9501cd005526154984c89f8cc98228d6",
+            "sha256": "sha256-Nu+8KojiravT1Rq8Bl+FGlwfhaLma6g+GKfNx+ySM/M=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/Suwayomi/Suwayomi-WebUI.git"
         },
-        "version": "284c194ac3bc5daed1d403d47c356378ad9de98a"
+        "version": "36477d1c9501cd005526154984c89f8cc98228d6"
     },
     "tokenstream": {
         "cargoLocks": null,
