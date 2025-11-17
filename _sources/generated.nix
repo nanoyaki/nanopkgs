@@ -171,18 +171,19 @@
   };
   fireshare = {
     pname = "fireshare";
-    version = "v1.2.30";
+    version = "05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a";
     src = fetchgit {
       url = "https://github.com/ShaneIsrael/fireshare.git";
-      rev = "v1.2.30";
+      rev = "05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
       sha256 = "sha256-5ox3I4qPldfGpgf3G/uOunK05l11xAmKoW6Qk0fdSrA=";
     };
-    "app/client/package.json" = builtins.readFile ./fireshare-v1.2.30/app/client/package.json;
-    "app/client/package-lock.json" = builtins.readFile ./fireshare-v1.2.30/app/client/package-lock.json;
+    "app/client/package.json" = builtins.readFile ./fireshare-05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a/app/client/package.json;
+    "app/client/package-lock.json" = builtins.readFile ./fireshare-05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a/app/client/package-lock.json;
+    date = "2025-08-28";
   };
   flaresolverr = {
     pname = "flaresolverr";

@@ -223,10 +223,10 @@
     },
     "fireshare": {
         "cargoLocks": null,
-        "date": null,
+        "date": "2025-08-28",
         "extract": {
-            "app/client/package-lock.json": "./fireshare-v1.2.30/app/client/package-lock.json",
-            "app/client/package.json": "./fireshare-v1.2.30/app/client/package.json"
+            "app/client/package-lock.json": "./fireshare-05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a/app/client/package-lock.json",
+            "app/client/package.json": "./fireshare-05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a/app/client/package.json"
         },
         "name": "fireshare",
         "passthru": null,
@@ -236,13 +236,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "v1.2.30",
+            "rev": "05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a",
             "sha256": "sha256-5ox3I4qPldfGpgf3G/uOunK05l11xAmKoW6Qk0fdSrA=",
             "sparseCheckout": [],
             "type": "git",
             "url": "https://github.com/ShaneIsrael/fireshare.git"
         },
-        "version": "v1.2.30"
+        "version": "05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a"
     },
     "flaresolverr": {
         "cargoLocks": null,

@@ -42,7 +42,7 @@ src.git = "https://github.com/sapachev/error-pages.git"
 [fireshare]
 extract = ["app/client/package.json", "app/client/package-lock.json"]
 fetch.git = "https://github.com/ShaneIsrael/fireshare.git"
-src.github_tag = "ShaneIsrael/fireshare"
+src.git = "https://github.com/ShaneIsrael/fireshare.git"
 
 [flaresolverr]
 fetch.git = "https://github.com/FlareSolverr/FlareSolverr.git"

@@ -19,8 +19,7 @@
 }:
 
 python312Packages.buildPythonApplication rec {
-  inherit (_sources.fireshare) pname src;
-  version = lib.removePrefix "v" _sources.fireshare.version;
+  inherit (_sources.fireshare) pname version src;
   pyproject = true;
 
   patches = [ ./nixos-compat.patch ];

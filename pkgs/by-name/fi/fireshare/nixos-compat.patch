@@ -1,7 +1,7 @@
-diff --git a/app/server/fireshare/__init__.py b/app/server/fireshare/__init__.py
+diff --git a/fireshare/__init__.py b/fireshare/__init__.py
 index 93768f5..4c679d6 100644
---- a/app/server/fireshare/__init__.py
-+++ b/app/server/fireshare/__init__.py
+--- a/fireshare/__init__.py
++++ b/fireshare/__init__.py
 @@ -81,7 +81,7 @@ def create_app(init_schedule=False):
      app.config['LDAP_ADMIN_GROUP'] = os.getenv("LDAP_ADMIN_GROUP")
  
@@ -11,10 +11,10 @@ index 93768f5..4c679d6 100644
      app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
      app.config['INIT_SCHEDULE'] = init_schedule
      app.config['MINUTES_BETWEEN_VIDEO_SCANS'] = int(os.getenv('MINUTES_BETWEEN_VIDEO_SCANS', '5'))
-diff --git a/app/server/fireshare/auth.py b/app/server/fireshare/auth.py
+diff --git a/fireshare/auth.py b/fireshare/auth.py
 index 0b010dd..f2ed276 100644
---- a/app/server/fireshare/auth.py
-+++ b/app/server/fireshare/auth.py
+--- a/fireshare/auth.py
++++ b/fireshare/auth.py
 @@ -108,7 +108,7 @@ def signup():
      if user:
          return Response(response="User already exists.", status=400)
@@ -24,10 +24,10 @@ index 0b010dd..f2ed276 100644
      db.session.add(new_user)
      db.session.commit()
  
-diff --git a/app/server/fireshare/cli.py b/app/server/fireshare/cli.py
+diff --git a/fireshare/cli.py b/fireshare/cli.py
 index 88254c6..11bebba 100755
---- a/app/server/fireshare/cli.py
-+++ b/app/server/fireshare/cli.py
+--- a/fireshare/cli.py
++++ b/fireshare/cli.py
 @@ -57,7 +57,7 @@ def init_db():
  @click.option("--password", "-p", help="Password", prompt=True, hide_input=True)
  def add_user(username, password):
@@ -37,10 +37,10 @@ index 88254c6..11bebba 100755
          db.session.add(new_user)
          db.session.commit()
          click.echo(f"Created user {username}")
-diff --git a/app/server/fireshare/main.py b/app/server/fireshare/main.py
+diff --git a/fireshare/main.py b/fireshare/main.py
 index b86727c..d7d9f7b 100644
---- a/app/server/fireshare/main.py
-+++ b/app/server/fireshare/main.py
+--- a/fireshare/main.py
++++ b/fireshare/main.py
 @@ -12,19 +12,19 @@ main = Blueprint('main', __name__, template_folder=templates_path)
  
  CORS(main, supports_credentials=True)
