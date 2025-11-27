@@ -32,14 +32,11 @@ buildDotnetModule (finalAttrs: {
   executables = [ ];
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
-    (nix-update-script { })
-
-    {
-      command = [
-        finalAttrs.passthru.fetch-deps
-        "pkgs/by-name/sh/shokofin"
-      ];
-    }
+    (nix-update-script { extraArgs = [ "--src-only" ]; })
+    [
+      finalAttrs.passthru.fetch-deps
+      "pkgs/by-name/sh/shokofin/deps.json"
+    ]
   ];
 
   meta = {

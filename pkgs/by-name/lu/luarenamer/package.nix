@@ -27,14 +27,11 @@ buildDotnetModule (finalAttrs: {
   projectFile = "LuaRenamer/LuaRenamer.csproj";
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
-    (nix-update-script { })
-
-    {
-      command = [
-        finalAttrs.passthru.fetch-deps
-        "pkgs/by-name/lu/luarenamer"
-      ];
-    }
+    (nix-update-script { extraArgs = [ "--src-only" ]; })
+    [
+      finalAttrs.passthru.fetch-deps
+      "pkgs/by-name/lu/luarenamer/deps.json"
+    ]
   ];
 
   meta = {
