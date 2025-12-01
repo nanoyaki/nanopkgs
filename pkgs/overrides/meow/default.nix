@@ -4,5 +4,6 @@
 _: prev: {
   meow = prev.meow.overrideAttrs (prevAttrs: {
     patches = (prevAttrs.patches or [ ]) ++ [ ./ominous-cats.patch ];
+    passthru = { };
   });
 }
