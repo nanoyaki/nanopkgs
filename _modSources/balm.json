@@ -1,76 +1,4 @@
 {
-  "neoforge": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RLF9epzN/balm-neoforge-1.21.10-21.10.1.jar",
-      "sha512": "a7a25f887dfa6127c334536f90f89839b4823b6957a10a2a7afe17eea8c0364923d7f045e690cb3f7bc67d8c194380b91f07726fe38f326519a95f1e77b2708d",
-      "name": "balm-neoforge-1.21.10-21.10.1.jar"
-    },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UFwSiwqR/balm-neoforge-1.21.9-21.9.1.jar",
-      "sha512": "95ed1d9a39b1bba3b29a3d1bc8039b5906d22cccbabf6beebc32189a5b75e793bfc5499a3a806ff64abff2eec107192e680fc64ae04bf06f71ae7d1874f3e824",
-      "name": "balm-neoforge-1.21.9-21.9.1.jar"
-    },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/L2zZyC1v/balm-neoforge-1.21.8-21.8.1.jar",
-      "sha512": "f0ea9aacc11cf7189f43450a90bf4fa5d89b4071020a55fa960d2c11d70d0559ab9b110a0816376b236c10b6cebe303d325af708980f4caa223ab3f729bc924e",
-      "name": "balm-neoforge-1.21.8-21.8.1.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RZHWDntO/balm-neoforge-1.21.7-21.7.2.jar",
-      "sha512": "ba4f0e9a9a986f8e77ef63b0f1a3ec075bcae478065d87d20f1b5a2b357a88808368c99414a6e18c83e3d04164ca34dfa332ceeabc5336094e702676caac451a",
-      "name": "balm-neoforge-1.21.7-21.7.2.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/BK2eFWOA/balm-neoforge-1.21.6-21.6.1.jar",
-      "sha512": "54cf7de6e27d358503cc1ccd1ae757006b11c4abe3e6084cd8d2467c79069c7f6d3b57505c53d6f64672d6e7ac44adbe75333f9baf411e3c8ad5284b3e6a399c",
-      "name": "balm-neoforge-1.21.6-21.6.1.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/DZ6RZTck/balm-neoforge-1.21.5-21.5.3.jar",
-      "sha512": "00efa9e4eb9ec7237950493f69aa2e4fbf2345c6e158946254b7914a675a5ca066177a6d31bba684e25d603608820d08d5ea6690f2c59b2d82175dbd212dc951",
-      "name": "balm-neoforge-1.21.5-21.5.3.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/wa5ZBotq/balm-neoforge-1.21.4-21.4.1.jar",
-      "sha512": "44e485b71815eb07aa73f00bf53667b9344d80a7db2f41dcb6721e0b36b0dde20f0d5843020fd60ffab3c9c0a6b749bbf04ed3dcd3d377512cc4c1c7b43749d4",
-      "name": "balm-neoforge-1.21.4-21.4.1.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Gwh9k2rH/balm-neoforge-1.21.3-21.3.1.jar",
-      "sha512": "3e3589b7c449f0affe48455b17dfa9623c1264694dc7f63a083d90c2792395bd0cc4ed7c738078554f7e6f9fb6e6c1e6f47ead9cd647eb99bdb8d5d22abc52cb",
-      "name": "balm-neoforge-1.21.3-21.3.1.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Gwh9k2rH/balm-neoforge-1.21.3-21.3.1.jar",
-      "sha512": "3e3589b7c449f0affe48455b17dfa9623c1264694dc7f63a083d90c2792395bd0cc4ed7c738078554f7e6f9fb6e6c1e6f47ead9cd647eb99bdb8d5d22abc52cb",
-      "name": "balm-neoforge-1.21.3-21.3.1.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/a1y9YTA2/balm-neoforge-1.21.1-21.0.15.jar",
-      "sha512": "5adee33b166edce488385ee5a937b5f783e90e102bda9cfbc66a5335d467a2caccda3bec42dde1dd597359db7668a84c00f2b52e67965eec70adb7bf07b2f231",
-      "name": "balm-neoforge-1.21.1-21.0.15.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/3gqKHTeW/balm-neoforge-1.21-21.0.1-all.jar",
-      "sha512": "5e31126dcf6d6959edd70b2cb4e75a0d3c59c2535a39b966cbb681ed70d779e108779ae90774d657dc985b2f8fa20991eb68c1eaea4b98aee7a2ae489bc589f7",
-      "name": "balm-neoforge-1.21-21.0.1-all.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/vDreKB60/balm-neoforge-1.20.6-10.0.1%2B1.20.6.jar",
-      "sha512": "ce8f418d24d62ba5e2887c3ae0145cf342a19ece56db77e211b8beee5b3ae89eed3d96c8bd4b0cbfc57549c7cfea7c5d01fa18d32fadf11de1e5295ea7455053",
-      "name": "balm-neoforge-1.20.6-10.0.1+1.20.6.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/H0a9rBTV/balm-neoforge-1.20.4-9.0.1.jar",
-      "sha512": "ea510055fcff487725f41e8cbe0f94f666e84aad3299a19a491b88a029b210b5af6ed8f6600cf2b6126d70a007875e7afe1a7efd093863da0063baa4a95468fc",
-      "name": "balm-neoforge-1.20.4-9.0.1.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RYxPLFUw/balm-neoforge-1.20.2-8.0.2.jar",
-      "sha512": "8619d85d1b8e4e09503349ec22e75c5e41703f35c63479c808ee4db225b7be28bf6c0e68156788bcf47068ea1055e0ff65cb6729912763b0e2371636319f5715",
-      "name": "balm-neoforge-1.20.2-8.0.2.jar"
-    }
-  },
   "forge": {
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/xwKBm8Kn/balm-forge-1.21.10-21.10.2-all.jar",
@@ -176,6 +104,78 @@
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/rLFLPShY/balm-3.2.0%2B0.jar",
       "sha512": "6a588540244034383888f90834f79fd85ac0fdc00fe86cb357fadbe8ae89c823d1151b1335b3b2694f19b1c4080df341304ffc6494725a9a37ff4292b555ace5",
       "name": "balm-3.2.0+0.jar"
+    }
+  },
+  "neoforge": {
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RLF9epzN/balm-neoforge-1.21.10-21.10.1.jar",
+      "sha512": "a7a25f887dfa6127c334536f90f89839b4823b6957a10a2a7afe17eea8c0364923d7f045e690cb3f7bc67d8c194380b91f07726fe38f326519a95f1e77b2708d",
+      "name": "balm-neoforge-1.21.10-21.10.1.jar"
+    },
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UFwSiwqR/balm-neoforge-1.21.9-21.9.1.jar",
+      "sha512": "95ed1d9a39b1bba3b29a3d1bc8039b5906d22cccbabf6beebc32189a5b75e793bfc5499a3a806ff64abff2eec107192e680fc64ae04bf06f71ae7d1874f3e824",
+      "name": "balm-neoforge-1.21.9-21.9.1.jar"
+    },
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/L2zZyC1v/balm-neoforge-1.21.8-21.8.1.jar",
+      "sha512": "f0ea9aacc11cf7189f43450a90bf4fa5d89b4071020a55fa960d2c11d70d0559ab9b110a0816376b236c10b6cebe303d325af708980f4caa223ab3f729bc924e",
+      "name": "balm-neoforge-1.21.8-21.8.1.jar"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RZHWDntO/balm-neoforge-1.21.7-21.7.2.jar",
+      "sha512": "ba4f0e9a9a986f8e77ef63b0f1a3ec075bcae478065d87d20f1b5a2b357a88808368c99414a6e18c83e3d04164ca34dfa332ceeabc5336094e702676caac451a",
+      "name": "balm-neoforge-1.21.7-21.7.2.jar"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/BK2eFWOA/balm-neoforge-1.21.6-21.6.1.jar",
+      "sha512": "54cf7de6e27d358503cc1ccd1ae757006b11c4abe3e6084cd8d2467c79069c7f6d3b57505c53d6f64672d6e7ac44adbe75333f9baf411e3c8ad5284b3e6a399c",
+      "name": "balm-neoforge-1.21.6-21.6.1.jar"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/DZ6RZTck/balm-neoforge-1.21.5-21.5.3.jar",
+      "sha512": "00efa9e4eb9ec7237950493f69aa2e4fbf2345c6e158946254b7914a675a5ca066177a6d31bba684e25d603608820d08d5ea6690f2c59b2d82175dbd212dc951",
+      "name": "balm-neoforge-1.21.5-21.5.3.jar"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/wa5ZBotq/balm-neoforge-1.21.4-21.4.1.jar",
+      "sha512": "44e485b71815eb07aa73f00bf53667b9344d80a7db2f41dcb6721e0b36b0dde20f0d5843020fd60ffab3c9c0a6b749bbf04ed3dcd3d377512cc4c1c7b43749d4",
+      "name": "balm-neoforge-1.21.4-21.4.1.jar"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Gwh9k2rH/balm-neoforge-1.21.3-21.3.1.jar",
+      "sha512": "3e3589b7c449f0affe48455b17dfa9623c1264694dc7f63a083d90c2792395bd0cc4ed7c738078554f7e6f9fb6e6c1e6f47ead9cd647eb99bdb8d5d22abc52cb",
+      "name": "balm-neoforge-1.21.3-21.3.1.jar"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Gwh9k2rH/balm-neoforge-1.21.3-21.3.1.jar",
+      "sha512": "3e3589b7c449f0affe48455b17dfa9623c1264694dc7f63a083d90c2792395bd0cc4ed7c738078554f7e6f9fb6e6c1e6f47ead9cd647eb99bdb8d5d22abc52cb",
+      "name": "balm-neoforge-1.21.3-21.3.1.jar"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/a1y9YTA2/balm-neoforge-1.21.1-21.0.15.jar",
+      "sha512": "5adee33b166edce488385ee5a937b5f783e90e102bda9cfbc66a5335d467a2caccda3bec42dde1dd597359db7668a84c00f2b52e67965eec70adb7bf07b2f231",
+      "name": "balm-neoforge-1.21.1-21.0.15.jar"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/3gqKHTeW/balm-neoforge-1.21-21.0.1-all.jar",
+      "sha512": "5e31126dcf6d6959edd70b2cb4e75a0d3c59c2535a39b966cbb681ed70d779e108779ae90774d657dc985b2f8fa20991eb68c1eaea4b98aee7a2ae489bc589f7",
+      "name": "balm-neoforge-1.21-21.0.1-all.jar"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/vDreKB60/balm-neoforge-1.20.6-10.0.1%2B1.20.6.jar",
+      "sha512": "ce8f418d24d62ba5e2887c3ae0145cf342a19ece56db77e211b8beee5b3ae89eed3d96c8bd4b0cbfc57549c7cfea7c5d01fa18d32fadf11de1e5295ea7455053",
+      "name": "balm-neoforge-1.20.6-10.0.1+1.20.6.jar"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/H0a9rBTV/balm-neoforge-1.20.4-9.0.1.jar",
+      "sha512": "ea510055fcff487725f41e8cbe0f94f666e84aad3299a19a491b88a029b210b5af6ed8f6600cf2b6126d70a007875e7afe1a7efd093863da0063baa4a95468fc",
+      "name": "balm-neoforge-1.20.4-9.0.1.jar"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RYxPLFUw/balm-neoforge-1.20.2-8.0.2.jar",
+      "sha512": "8619d85d1b8e4e09503349ec22e75c5e41703f35c63479c808ee4db225b7be28bf6c0e68156788bcf47068ea1055e0ff65cb6729912763b0e2371636319f5715",
+      "name": "balm-neoforge-1.20.2-8.0.2.jar"
     }
   },
   "fabric": {
