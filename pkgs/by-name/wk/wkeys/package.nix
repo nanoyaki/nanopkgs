@@ -4,28 +4,37 @@
 {
   lib,
   rustPlatform,
+  fetchgit,
   pkg-config,
-  libcosmicAppHook,
+  oldlibcosmicAppHook,
   gtk4-layer-shell,
   gtkmm4,
   libxkbcommon,
-
-  _sources,
+  nix-update-script,
 }:
 
-rustPlatform.buildRustPackage {
-  inherit (_sources.wkeys)
-    pname
-    version
-    src
-    date
-    ;
+rustPlatform.buildRustPackage (finalAttrs: {
+  pname = "wkeys";
+  version = "0.1.2-unstable-2025-10-07";
 
-  cargoLock = _sources.wkeys.cargoLock."Cargo.lock";
+  src = fetchgit {
+    url = "https://github.com/ptazithos/wkeys.git";
+    rev = "4d7d373578d987719d9f5089d40697e8906c3753";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-312xCT9f3WyoB1C7+olQd/2G0UI0ryQ7SJ0jyvJi2ak=";
+  };
+
+  cargoDeps = rustPlatform.fetchCargoVendor {
+    inherit (finalAttrs) src;
+    hash = "sha256-0itjjzZfcRQY19mVj4YGVC7hX9EVxK3hyNi3QL3j1Yo=";
+  };
 
   nativeBuildInputs = [
     pkg-config
-    libcosmicAppHook
+    oldlibcosmicAppHook
   ];
 
   buildInputs = [
@@ -41,6 +50,13 @@ rustPlatform.buildRustPackage {
       $out/share/applications/net.pithos.applet.wkeys.desktop
   '';
 
+  passthru.updateScript = nix-update-script {
+    extraArgs = [
+      "-F"
+      "--version=branch"
+    ];
+  };
+
   meta = {
     homepage = "https://github.com/ptazithos/wkeys";
     description = "On-screen keyboard for the COSMIC Desktop Environment";
@@ -49,4 +65,4 @@ rustPlatform.buildRustPackage {
     platforms = lib.platforms.linux;
     mainProgram = "wkeys";
   };
-}
+})

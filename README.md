@@ -10,35 +10,32 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 
 ## Available packages
 
-- `beet` -> `0.112.0`
-- `clipboard-manager` -> `f74b562`
-- `cosmic-classic-menu` -> `d63e2bf`
-- `cosmic-ext-applet-privacy-indicator` -> `2d3b0ef`
-- `error-pages` -> `742c755`
-- `fireshare` -> `1.2.30`
-- `flaresolverr` -> `3.4.4`
+- `avdump` -> `B9005-GitHubRelease-unstable-2024-03-10`
+- `clipboard-manager` -> `0.1.0-unstable-2025-11-27`
+- `cosmic-classic-menu` -> `0.0.10-unstable-2025-11-24`
+- `cosmic-ext-applet-privacy-indicator` -> `0.1.2-unstable-2025-07-03`
+- `error-pages` -> `0-unstable-2024-11-22`
+- `fireshare` -> `1.2.30-unstable-2025-08-28`
+- `flaresolverr` -> `3.4.6`
 - `ftb-server-installer` -> `1.0.31`
 - `jellyfin-web-with-plugins`
-- `jmc` -> `1.2.19`
-- `lidarr` -> `3.0.1.4866`
-- `luarenamer` -> `5.9.0`
-- `mc-modpack-downloader` -> `81c580e`
+- `lidarr` -> `3.1.1.4876`
+- `luarenamer` -> `5.9.0-compat`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `4a455f1`
-- `nvchecker` -> `2.19`
-- `openrgb` -> `f0a1ed2`
-- `osu-lazer-bin` -> `2025.1029.1-lazer`
+- `midnight-theme` -> `fc6512b`
+- `oldlibcosmicAppHook`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-11-30`
+- `osu-lazer-bin` -> `2025.1121.0-tachyon`
 - `prefetch`
-- `prowlarr` -> `2.1.5.5216`
-- `pyon` -> `06a076e`
-- `python-modernize` -> `f06b20a`
-- `rofi-themes` -> `093c1a7`
-- `shoko` -> `5.1.0-dev.142`
-- `shoko-webui` -> `2.3.0-dev.19`
-- `shokofin` -> `5.0.6-dev.5`
+- `prowlarr` -> `2.3.1.5238`
+- `pyon` -> `0.1.0`
+- `rofi-themes` -> `0-unstable-2025-07-26`
+- `shoko` -> `5.1.0-dev.148-unstable-2025-11-21`
+- `shoko-webui` -> `2.3.0-dev.19-unstable-2025-10-24`
+- `shokofin` -> `5.0.6-dev.16`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1999`
-- `suwayomi-webui` -> `284c194`
-- `whisparr` -> `3.0.1.1348`
-- `wkeys` -> `058b98a`
+- `suwayomi-server` -> `2.1.1867-unstable-2025-11-26`
+- `suwayomi-webui` -> `20250801.01-unstable-2025-11-28`
+- `whisparr` -> `3.0.2.1494`
+- `wkeys` -> `0.0.1`
 - `writeSystemdToggle`

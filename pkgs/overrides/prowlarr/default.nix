@@ -11,11 +11,19 @@ final: prev: {
     in
 
     {
-      inherit (final._sources.prowlarr) pname;
-      version = lib.removePrefix "v" final._sources.prowlarr.version;
+      pname = "prowlarr";
+      version = "2.3.1.5238";
 
       src = final.applyPatches {
-        inherit (final._sources.prowlarr) src;
+        src = final.fetchgit {
+          url = "https://github.com/Prowlarr/Prowlarr.git";
+          rev = "v${finalAttrs.version}";
+          fetchSubmodules = false;
+          deepClone = false;
+          leaveDotGit = false;
+          sparseCheckout = [ ];
+          sha256 = "sha256-v6/q2oxXPsN0Yrie1cDk9YwtSHfos1oulYGdqBeUaMs=";
+        };
 
         postPatch = ''
           mv src/NuGet.config NuGet.Config
@@ -26,7 +34,16 @@ final: prev: {
 
       yarnOfflineCache = final.fetchYarnDeps {
         yarnLock = "${finalAttrs.src}/yarn.lock";
-        hash = final._versions.prowlarr._yarnHash;
+        hash = "sha256-QVyjo/Zshy+61qocGKa3tZS8gnHvvVqenf79FkiXDBM=";
+      };
+
+      passthru = prevAttrs.passthru // {
+        updateScript = final._experimental-update-script-combinators.sequence [
+          (final.nix-update-script { extraArgs = [ "-F" ]; })
+          (final.writeShellScript "fetch-deps.sh" ''
+            $(nix-build -A prowlarr.fetch-deps) "pkgs/overrides/prowlarr/deps.json"
+          '')
+        ];
       };
     }
   );

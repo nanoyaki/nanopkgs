@@ -5,7 +5,9 @@
   lib,
   stdenvNoCC,
   python312Packages,
-  importNpmLock,
+  fetchgit,
+  fetchNpmDeps,
+  npmHooks,
   libffi,
   ffmpeg,
   openldap,
@@ -14,12 +16,23 @@
   makeWrapper,
   sqlite,
   nodejs,
-
-  _sources,
+  nix-update-script,
 }:
 
 python312Packages.buildPythonApplication rec {
-  inherit (_sources.fireshare) pname version src;
+  pname = "fireshare";
+  version = "1.2.30-unstable-2025-08-28";
+
+  src = fetchgit {
+    url = "https://github.com/ShaneIsrael/fireshare.git";
+    rev = "05d0a48c9fa3a2663249e7ffcd19e93d5cf9d37a";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-5ox3I4qPldfGpgf3G/uOunK05l11xAmKoW6Qk0fdSrA=";
+  };
+
   pyproject = true;
 
   patches = [ ./nixos-compat.patch ];
@@ -32,12 +45,14 @@ python312Packages.buildPythonApplication rec {
 
     nativeBuildInputs = [
       nodejs
-      importNpmLock.hooks.npmConfigHook
+      npmHooks.npmConfigHook
     ];
 
-    npmDeps = importNpmLock {
-      package = builtins.fromJSON _sources.fireshare."app/client/package.json";
-      packageLock = builtins.fromJSON _sources.fireshare."app/client/package-lock.json";
+    npmDeps = fetchNpmDeps {
+      name = "${pname}-${version}-npm-deps";
+      inherit src;
+      sourceRoot = "${src.name}/app/client";
+      hash = "sha256-m+hZxDdJh9qKA2vYLiWzsFmHvoCrg1I0Wz4BUYve3ZQ=";
     };
 
     buildPhase = ''
@@ -155,6 +170,15 @@ python312Packages.buildPythonApplication rec {
 
   # no tests available
   doCheck = false;
+
+  passthru.updateScript = nix-update-script {
+    extraArgs = [
+      "-F"
+      "--version=branch"
+      "-s"
+      "frontend"
+    ];
+  };
 
   meta = {
     description = "Share your game clips, videos, or other media via unique links.";

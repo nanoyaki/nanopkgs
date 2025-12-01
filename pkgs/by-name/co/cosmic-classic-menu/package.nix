@@ -4,30 +4,39 @@
 {
   lib,
   rustPlatform,
+  fetchgit,
   stdenv,
   just,
   pkg-config,
   nixosTests,
   libxkbcommon,
-  libcosmicAppHook,
-
-  _sources,
+  oldlibcosmicAppHook,
+  nix-update-script,
 }:
 
-rustPlatform.buildRustPackage {
-  inherit (_sources.cosmic-classic-menu)
-    pname
-    version
-    src
-    date
-    ;
+rustPlatform.buildRustPackage (finalAttrs: {
+  pname = "cosmic-classic-menu";
+  version = "0.0.10-unstable-2025-11-24";
 
-  cargoLock = _sources.cosmic-classic-menu.cargoLock."Cargo.lock";
+  src = fetchgit {
+    url = "https://github.com/championpeak87/cosmic-classic-menu.git";
+    rev = "6fa2ca7c54fe3cee3e4263704975da58ded569a4";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-KtSSzLvPCiYnrM84lVUILsjo8E0TzLuXBuw2fs4btp0=";
+  };
+
+  cargoDeps = rustPlatform.fetchCargoVendor {
+    inherit (finalAttrs) src;
+    hash = "sha256-OSzPsqyL7rB5X2On6kKRecDnQgbRC+3QZo9yGjkyYa0=";
+  };
 
   nativeBuildInputs = [
     just
     pkg-config
-    libcosmicAppHook
+    oldlibcosmicAppHook
   ];
 
   buildInputs = [
@@ -49,13 +58,23 @@ rustPlatform.buildRustPackage {
     "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/cosmic-ext-classic-menu-settings"
   ];
 
-  passthru.tests = {
-    inherit (nixosTests)
-      cosmic
-      cosmic-autologin
-      cosmic-noxwayland
-      cosmic-autologin-noxwayland
-      ;
+  passthru = {
+    updateScript = nix-update-script {
+      extraArgs = [
+        "-F"
+        "--version"
+        ''branch=master''
+      ];
+    };
+
+    tests = {
+      inherit (nixosTests)
+        cosmic
+        cosmic-autologin
+        cosmic-noxwayland
+        cosmic-autologin-noxwayland
+        ;
+    };
   };
 
   meta = {
@@ -66,4 +85,4 @@ rustPlatform.buildRustPackage {
     platforms = lib.platforms.linux;
     mainProgram = "cosmic-ext-classic-menu-applet";
   };
-}
+})

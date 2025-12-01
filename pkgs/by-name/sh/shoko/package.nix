@@ -3,29 +3,34 @@
 #
 # SPDX-License-Identifier: MIT
 {
+  lib,
   buildDotnetModule,
+  fetchgit,
   dotnet-sdk_8,
   dotnetCorePackages,
   nixosTests,
-  lib,
   mediainfo,
   rhash,
+  _experimental-update-script-combinators,
   nix-update-script,
+  writeShellScript,
   replaceVars,
   avdump,
-
-  _sources,
-  _versions,
 }:
 
 buildDotnetModule (finalAttrs: {
-  inherit (_sources.shoko)
-    pname
-    src
-    date
-    ;
+  pname = "shoko";
+  version = "5.1.0-dev.148-unstable-2025-11-21";
 
-  version = _versions.shoko._version;
+  src = fetchgit {
+    url = "https://github.com/ShokoAnime/ShokoServer.git";
+    rev = "3dcac54c029081e57a14580b9839ce668d6707c3";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-14kvera+0dsRIPRCblKvVbz2d33iWsFNkipmoCi+VYc=";
+  };
 
   patches = [
     ./deps.patch
@@ -63,7 +68,19 @@ buildDotnetModule (finalAttrs: {
   runtimeDeps = [ rhash ];
 
   passthru = {
-    updateScript = nix-update-script { };
+    updateScript = _experimental-update-script-combinators.sequence [
+      (nix-update-script {
+        extraArgs = [
+          "--version=branch"
+          "--src-only"
+          "-F"
+        ];
+      })
+      (writeShellScript "fetch-deps.sh" ''
+        $(nix-build -A shoko.passthru.fetch-deps) "pkgs/by-name/sh/shoko/deps.json"
+      '')
+    ];
+
     tests.shoko = nixosTests.shoko;
   };
 

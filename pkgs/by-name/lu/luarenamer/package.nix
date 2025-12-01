@@ -4,17 +4,27 @@
 {
   lib,
   buildDotnetModule,
+  fetchgit,
   dotnet-sdk_8,
   dotnet-aspnetcore_8,
-  nix-update-script,
   _experimental-update-script-combinators,
-
-  _sources,
+  nix-update-script,
+  writeShellScript,
 }:
 
 buildDotnetModule (finalAttrs: {
-  inherit (_sources.luarenamer) pname src;
-  version = lib.removePrefix "v" _sources.luarenamer.version;
+  pname = "luarenamer";
+  version = "5.9.0-compat";
+
+  src = fetchgit {
+    url = "https://github.com/Mik1ll/LuaRenamer.git";
+    rev = "v${finalAttrs.version}";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-EyA7UzRy8YzBmhXiANfbTyfK3DVp/F7KpgxSkNs/B1g=";
+  };
 
   patches = [
     ./nozip.patch
@@ -27,11 +37,15 @@ buildDotnetModule (finalAttrs: {
   projectFile = "LuaRenamer/LuaRenamer.csproj";
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
-    (nix-update-script { extraArgs = [ "--src-only" ]; })
-    [
-      finalAttrs.passthru.fetch-deps
-      "pkgs/by-name/lu/luarenamer/deps.json"
-    ]
+    (nix-update-script {
+      extraArgs = [
+        "--src-only"
+        "-F"
+      ];
+    })
+    (writeShellScript "fetch-deps.sh" ''
+      $(nix-build -A luarenamer.passthru.fetch-deps) "pkgs/by-name/lu/luarenamer/deps.json"
+    '')
   ];
 
   meta = {

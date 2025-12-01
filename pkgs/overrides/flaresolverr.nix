@@ -2,23 +2,22 @@
 #
 # SPDX-License-Identifier: MIT
 final: prev: {
-  flaresolverr = prev.flaresolverr.overrideAttrs {
-    inherit (final._sources.flaresolverr) pname src;
-    version = final.lib.removePrefix "v" final._sources.flaresolverr.version;
+  flaresolverr = prev.flaresolverr.overrideAttrs (
+    finalAttrs: _: {
+      pname = "flaresolverr";
+      version = "3.4.6";
 
-    postPatch = ''
-      substituteInPlace src/undetected_chromedriver/patcher.py \
-        --replace-fail \
-          "from packaging.version import Version as LooseVersion" \
-          "from looseversion import LooseVersion"
+      src = final.fetchgit {
+        url = "https://github.com/FlareSolverr/FlareSolverr.git";
+        rev = "v${finalAttrs.version}";
+        fetchSubmodules = false;
+        deepClone = false;
+        leaveDotGit = false;
+        sparseCheckout = [ ];
+        sha256 = "sha256-DeFp76VwMGBAWOsI3S3jm1qNbPw554zJZfE7hotUedY=";
+      };
 
-      substituteInPlace src/utils.py \
-        --replace-fail \
-          'CHROME_EXE_PATH = None' \
-          'CHROME_EXE_PATH = "${final.lib.getExe final.chromium}"' \
-        --replace-fail \
-          'PATCHED_DRIVER_PATH = None' \
-          'PATCHED_DRIVER_PATH = "${final.lib.getExe final.undetected-chromedriver}"'
-    '';
-  };
+      passthru.updateScript = final.nix-update-script { extraArgs = [ "-F" ]; };
+    }
+  );
 }

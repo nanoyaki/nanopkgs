@@ -55,11 +55,9 @@
           (prevAttrs.buildInputs or [ ])
           ++ (with pkgs; [
             git
-            nvfetcher
             jq
-            prefetch-yarn-deps
-          ])
-          ++ [ self'.packages.nvchecker ];
+            nix-update
+          ]);
       });
 
       checks = mapAttrs' (n: nameValuePair "devShell-${n}") self'.devShells;

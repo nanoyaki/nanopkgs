@@ -4,23 +4,27 @@
 {
   lib,
   buildDotnetModule,
+  fetchgit,
   dotnet-sdk_9,
   dotnet-aspnetcore_9,
   nix-update-script,
   _experimental-update-script-combinators,
-
-  _sources,
-  _versions,
+  writeShellScript,
 }:
 
 buildDotnetModule (finalAttrs: {
-  inherit (_sources.shokofin)
-    pname
-    src
-    date
-    ;
+  pname = "shokofin";
+  version = "5.0.6-dev.16";
 
-  version = _versions.shokofin._version;
+  src = fetchgit {
+    url = "https://github.com/ShokoAnime/Shokofin.git";
+    rev = "f896870ab35cd508afcf50b4483f0dc3a9aa4616";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-73kR8veMMfM99fvCoKHuFFjsU/gx5dVQg1oYIJaGtpI=";
+  };
 
   dotnet-sdk = dotnet-sdk_9;
   dotnet-runtime = dotnet-aspnetcore_9;
@@ -32,11 +36,16 @@ buildDotnetModule (finalAttrs: {
   executables = [ ];
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
-    (nix-update-script { extraArgs = [ "--src-only" ]; })
-    [
-      finalAttrs.passthru.fetch-deps
-      "pkgs/by-name/sh/shokofin/deps.json"
-    ]
+    (nix-update-script {
+      extraArgs = [
+        "--version=branch"
+        "--src-only"
+        "-F"
+      ];
+    })
+    (writeShellScript "fetch-deps.sh" ''
+      $(nix-build -A shokofin.passthru.fetch-deps) "pkgs/by-name/sh/shokofin/deps.json"
+    '')
   ];
 
   meta = {

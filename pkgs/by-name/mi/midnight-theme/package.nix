@@ -4,12 +4,23 @@
 {
   lib,
   stdenvNoCC,
-
-  _sources,
+  fetchgit,
+  nix-update-script,
 }:
 
 stdenvNoCC.mkDerivation {
-  inherit (_sources.midnight-theme) pname version src;
+  pname = "midnight-theme";
+  version = "fc6512be4b82d824dd5a627430c2a2d09aa3a60d";
+
+  src = fetchgit {
+    url = "https://github.com/refact0r/midnight-discord.git";
+    rev = "fc6512be4b82d824dd5a627430c2a2d09aa3a60d";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-OceoK064SlY+iucr+l3ZrGWY0OcAGbLI621i2CcnmQQ=";
+  };
 
   installPhase = ''
     runHook preInstall
@@ -19,6 +30,14 @@ stdenvNoCC.mkDerivation {
 
     runHook postInstall
   '';
+
+  passthru.updateScript = nix-update-script {
+    extraArgs = [
+      "-F"
+      "--src-only"
+      "--version=branch"
+    ];
+  };
 
   meta = {
     description = "Dark, customizable discord theme";

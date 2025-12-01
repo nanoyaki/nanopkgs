@@ -1,8 +1,8 @@
 [
   {
     "pname": "AsyncKeyedLock",
-    "version": "7.1.7",
-    "hash": "sha256-gXITMqewgmts75I2SHzZ/AyihFihQ0Vo/JSletxz+r4="
+    "version": "7.1.8",
+    "hash": "sha256-PkV8x9HvIAxppdJrYBg0zY6odbVs9S6fhqgW+ZthWA4="
   },
   {
     "pname": "BitFaster.Caching",
@@ -156,8 +156,8 @@
   },
   {
     "pname": "Microsoft.Extensions.Configuration",
-    "version": "9.0.10",
-    "hash": "sha256-K16pSHfb71WhGqD7mzjrYaNBihU4tga90c6IOHsgRxw="
+    "version": "9.0.11",
+    "hash": "sha256-Luot2bOpYOV0uM+ISdOCvtN1/IjZarj6aBWT+OdjT/o="
   },
   {
     "pname": "Microsoft.Extensions.Configuration.Abstractions",
@@ -165,9 +165,19 @@
     "hash": "sha256-sRv0yS2sbyli7eejtnpmd7UIAz4PwSt5/Po5Irc1j98="
   },
   {
+    "pname": "Microsoft.Extensions.Configuration.Abstractions",
+    "version": "9.0.11",
+    "hash": "sha256-bBvR5XeJpoim/4JUsDtp+z7GU2vx37NwjAjeXLc+Ycg="
+  },
+  {
     "pname": "Microsoft.Extensions.Configuration.Binder",
     "version": "9.0.10",
     "hash": "sha256-4NEBx28byvjjIzo0wQPIUUymk9AzSgPS4fu5IRxkIt4="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Binder",
+    "version": "9.0.11",
+    "hash": "sha256-worKwJgOouaOBOiwYIttp4jJQig7W9M3ZjPbv0f76Lk="
   },
   {
     "pname": "Microsoft.Extensions.DependencyInjection",
@@ -175,19 +185,29 @@
     "hash": "sha256-f3r2msA/oV9gGdFn9OEr5bPAfINR17P+sS6/2/NnCuk="
   },
   {
+    "pname": "Microsoft.Extensions.DependencyInjection",
+    "version": "9.0.11",
+    "hash": "sha256-A77to45DYqDT5vCHAa2RBqTVOKND1KdYTX3PCTd2shA="
+  },
+  {
     "pname": "Microsoft.Extensions.DependencyInjection.Abstractions",
     "version": "9.0.10",
     "hash": "sha256-5rwFXG+Wjbf+TkXeWrkGVKV4wfvOryTPadEkEyPyKj4="
   },
   {
+    "pname": "Microsoft.Extensions.DependencyInjection.Abstractions",
+    "version": "9.0.11",
+    "hash": "sha256-7ybl+oJ7NkkOX3Ns7KAgaHy3CP2LvI1VBTJ9WbMIYC0="
+  },
+  {
     "pname": "Microsoft.Extensions.Diagnostics",
-    "version": "9.0.10",
-    "hash": "sha256-QOjI52VFJne2OpvSPeoep/AcPXvwtr9AtvU0xdCIWog="
+    "version": "9.0.11",
+    "hash": "sha256-uMx1pKHV76XTGrIpXQqoiEd4hEnUr77jmMiQ336Rvx0="
   },
   {
     "pname": "Microsoft.Extensions.Diagnostics.Abstractions",
-    "version": "9.0.10",
-    "hash": "sha256-FXJrBpG4UieCn9MLcNX25WbPycfZWdPg38/ZLckmAI0="
+    "version": "9.0.11",
+    "hash": "sha256-kbhGSCfsrhh+aCU2l2bUpC6/r2UL42khFVp8mMJdZtQ="
   },
   {
     "pname": "Microsoft.Extensions.Features",
@@ -196,8 +216,8 @@
   },
   {
     "pname": "Microsoft.Extensions.Http",
-    "version": "9.0.10",
-    "hash": "sha256-cDC63R943sHVw34V64A3weVY1KgrjhE3dCtDJfGLaQA="
+    "version": "9.0.11",
+    "hash": "sha256-NEO01kc0eH4ZnPyMYO+hwEcllUesxf/xLXEGhj65pLM="
   },
   {
     "pname": "Microsoft.Extensions.Logging",
@@ -205,9 +225,19 @@
     "hash": "sha256-/Et36NBhpMoxQzI+p/moW7knwYDfjI7Ma7DF7KIYn+Q="
   },
   {
+    "pname": "Microsoft.Extensions.Logging",
+    "version": "9.0.11",
+    "hash": "sha256-AGNOGjQ1xEM3ct5iM21TeaJ/zdLtt+UduTUUs5WQi1E="
+  },
+  {
     "pname": "Microsoft.Extensions.Logging.Abstractions",
     "version": "9.0.10",
     "hash": "sha256-PtYXXHi+mbdQMh2QtA57NbWlt+JEpXiey36zLzbKTmo="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging.Abstractions",
+    "version": "9.0.11",
+    "hash": "sha256-hk1zL4wTkoix+681q7MC/B9VLThibu4L01Pj6ZtNy14="
   },
   {
     "pname": "Microsoft.Extensions.Options",
@@ -215,14 +245,24 @@
     "hash": "sha256-QTNhi83xhjJuIQ/3QffzQs/KY7avNyBMvnkuuSr3pBo="
   },
   {
+    "pname": "Microsoft.Extensions.Options",
+    "version": "9.0.11",
+    "hash": "sha256-e7yi+sje07SUUxbZ6+ZjvcFMgUtpLZ8vz1KdPinF310="
+  },
+  {
     "pname": "Microsoft.Extensions.Options.ConfigurationExtensions",
-    "version": "9.0.10",
-    "hash": "sha256-4YxwQH66IhJiJP53/Fy/lGBIEkVo4k+o/5QxzFQLhfQ="
+    "version": "9.0.11",
+    "hash": "sha256-fF1WP/ul30X8lCXZ9Es6zDpzGzQZ+0uPH1wQnp9Dj84="
   },
   {
     "pname": "Microsoft.Extensions.Primitives",
     "version": "9.0.10",
     "hash": "sha256-It7NQ+Ap/hrqFX3LXDVJqVz1Xl3j8QIapYDcG2MQ/7w="
+  },
+  {
+    "pname": "Microsoft.Extensions.Primitives",
+    "version": "9.0.11",
+    "hash": "sha256-T1t0dsPVxP0TrmXfPXsA+wZKgS7TecZXvRS261G+KY8="
   },
   {
     "pname": "Microsoft.NETCore.Platforms",

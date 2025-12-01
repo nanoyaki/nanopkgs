@@ -4,22 +4,26 @@
 # SPDX-License-Identifier: MIT
 {
   stdenvNoCC,
+  fetchgit,
   nodejs,
   pnpm,
   # lib,
   shoko,
   nix-update-script,
-
-  _sources,
-  _versions,
 }:
 stdenvNoCC.mkDerivation (finalAttrs: {
-  inherit (_sources.shoko-webui)
-    pname
-    version
-    src
-    date
-    ;
+  pname = "shoko-webui";
+  version = "2.3.0-dev.19-unstable-2025-10-24";
+
+  src = fetchgit {
+    url = "https://github.com/ShokoAnime/Shoko-Webui.git";
+    rev = "04deb2df872070ccab366b739b48441d1441b277";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-yVthDmhkq0jsZRji/DWEuXnQMcR07Ul1oD081PlpoyA=";
+  };
 
   # Avoid requiring git as a build time dependency. It's used for version
   # checking in the updater, which shouldn't be used if the webui is managed
@@ -34,7 +38,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   pnpmDeps = pnpm.fetchDeps {
     inherit (finalAttrs) pname version src;
     fetcherVersion = 2;
-    hash = _versions.shoko-webui.pnpmHash;
+    hash = "sha256-kek68gwwVdH+GdG8aUSW1oUSmmBChpJ8v5Kcr8TXV9o=";
   };
 
   buildPhase = ''
@@ -49,7 +53,12 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     runHook postInstall
   '';
 
-  passthru.updateSript = nix-update-script { };
+  passthru.updateScript = nix-update-script {
+    extraArgs = [
+      "-F"
+      "--version=branch"
+    ];
+  };
 
   meta = {
     homepage = "https://github.com/ShokoAnime/Shoko-WebUI";

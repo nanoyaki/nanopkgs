@@ -5,6 +5,7 @@
 {
   lib,
   stdenvNoCC,
+  fetchgit,
   zip,
   makeWrapper,
   gradle_8,
@@ -23,17 +24,23 @@
   jdk ? jdk21_headless,
   webui ? suwayomi-webui,
   asApplication ? false,
-
-  _sources,
-  _versions,
 }:
 
 let
   self = stdenvNoCC.mkDerivation (finalAttrs: {
-    inherit (_sources.suwayomi-server) pname src;
-    version =
-      (lib.concatStringsSep "." (lib.take 2 (lib.splitString "." _versions.suwayomi-server.version)))
-      + ".${_versions.suwayomi-server.revision}";
+    pname = "suwayomi-server";
+    version = "2.1.1867-unstable-2025-11-26";
+    revision = "2019";
+
+    src = fetchgit {
+      url = "https://github.com/Suwayomi/Suwayomi-Server.git";
+      rev = "9d7f54be823b046bcd3b0814634c8521b6994c56";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sparseCheckout = [ ];
+      sha256 = "sha256-taWvs/7877qeui/Z0tCzyp6g06wNMwLbAfUaxeXOWI0=";
+    };
 
     patches = [
       ./disable-download.patch
@@ -43,7 +50,7 @@ let
       echo 'const val MainClass = "suwayomi.tachidesk.MainKt"
       val getTachideskVersion = { "v${finalAttrs.version}" }
       val webUIRevisionTag = "r${webui.revision}"
-      val getTachideskRevision = { "r${lib.versions.patch finalAttrs.version}" }
+      val getTachideskRevision = { "r${finalAttrs.revision}" }
       ' > buildSrc/src/main/kotlin/Constants.kt
 
       zip -9 -r server/src/main/resources/WebUI.zip ${webui}
@@ -122,13 +129,20 @@ let
 
     passthru = {
       updateScript = _experimental-update-script-combinators.sequence [
-        (nix-update-script { })
-
-        {
-          command = writeShellScript "update-deps.sh" ''
-            $(nix-build -A suwayomi-server.mitmCache.updateScript)
-          '';
-        }
+        [
+          ./update-rev.sh
+          finalAttrs.src.rev
+          "pkgs/overrides/suwayomi-server/package.nix"
+        ]
+        (nix-update-script {
+          extraArgs = [
+            "-F"
+            "--version=branch"
+          ];
+        })
+        (writeShellScript "update-deps.sh" ''
+          $(nix-build -A suwayomi-server.mitmCache.updateScript)
+        '')
       ];
 
       tests = {

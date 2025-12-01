@@ -5,30 +5,36 @@
   lib,
   stdenv,
   rustPlatform,
+  fetchFromGitHub,
   just,
   pkg-config,
   nixosTests,
-  libcosmicAppHook,
+  oldlibcosmicAppHook,
   libxkbcommon,
   pipewire,
-
-  _sources,
+  nix-update-script,
 }:
 
 rustPlatform.buildRustPackage (finalAttrs: {
-  inherit (_sources.cosmic-ext-applet-privacy-indicator)
-    pname
-    version
-    src
-    date
-    ;
+  pname = "cosmic-ext-applet-privacy-indicator";
+  version = "0.1.2-unstable-2025-07-03";
 
-  cargoLock = _sources.cosmic-ext-applet-privacy-indicator.cargoLock."Cargo.lock";
+  src = fetchFromGitHub {
+    owner = "D-Brox";
+    repo = "cosmic-ext-applet-privacy-indicator";
+    rev = "2d3b0efec5a95cf704e414f6e3005641f3aa3666";
+    hash = "sha256-iTdCn5IbOs+g9MeC+EDUGSYxlHTrmhouvL7Y6Y3rK/M=";
+  };
+
+  cargoDeps = rustPlatform.fetchCargoVendor {
+    inherit (finalAttrs) src;
+    hash = "sha256-Tbcjnbjyo+FoYtRe5KnPiEzV+1PkzHOnbVDRe/pJul0=";
+  };
 
   nativeBuildInputs = [
     just
     pkg-config
-    libcosmicAppHook
+    oldlibcosmicAppHook
     rustPlatform.bindgenHook
   ];
 
@@ -49,13 +55,23 @@ rustPlatform.buildRustPackage (finalAttrs: {
     "target/${stdenv.hostPlatform.rust.cargoShortTarget}/release/${finalAttrs.pname}"
   ];
 
-  passthru.tests = {
-    inherit (nixosTests)
-      cosmic
-      cosmic-autologin
-      cosmic-noxwayland
-      cosmic-autologin-noxwayland
-      ;
+  passthru = {
+    updateScript = nix-update-script {
+      extraArgs = [
+        "-F"
+        "--version"
+        "branch"
+      ];
+    };
+
+    tests = {
+      inherit (nixosTests)
+        cosmic
+        cosmic-autologin
+        cosmic-noxwayland
+        cosmic-autologin-noxwayland
+        ;
+    };
   };
 
   meta = {

@@ -1,31 +1,36 @@
-# SPDX-FileCopyrightText: 2025 Hana Kretzer <contact@nanoyaki.space>
+# SPDX-FileCopyrightText: 2742c755c049e75c1fbfeab0452091827dd25d9f225 Hana Kretzer <contact@nanoyaki.space>
 #
 # SPDX-License-Identifier: MIT
 {
   lib,
   stdenvNoCC,
-  importNpmLock,
+  fetchNpmDeps,
   nodejs,
-
-  _sources,
+  npmHooks,
+  fetchFromGitHub,
+  nix-update-script,
 }:
 
-stdenvNoCC.mkDerivation {
-  inherit (_sources.error-pages)
-    pname
-    version
-    src
-    date
-    ;
+stdenvNoCC.mkDerivation (finalAttrs: {
+  pname = "error-pages";
+  version = "0-unstable-2024-11-22";
 
-  npmDeps = importNpmLock {
-    package = builtins.fromJSON _sources.error-pages."package.json";
-    packageLock = builtins.fromJSON _sources.error-pages."package-lock.json";
+  src = fetchFromGitHub {
+    owner = "sapachev";
+    repo = "error-pages";
+    rev = "742c755c049e75c1fbfeab0452091827dd25d9f2";
+    hash = "sha256-5oAnXUvY08brivS/BtyUelt4hU8MUFoeA9y075qRRGE=";
+  };
+
+  env.npmDeps = fetchNpmDeps {
+    name = "${finalAttrs.pname}-${finalAttrs.version}-npm-deps";
+    inherit (finalAttrs) src;
+    hash = "sha256-6TLZlXHD6n+OxSL4ETV9ObVAgsra2kjg1glzFJYyMTc=";
   };
 
   nativeBuildInputs = [
     nodejs
-    importNpmLock.hooks.npmConfigHook
+    npmHooks.npmConfigHook
   ];
 
   buildPhase = ''
@@ -45,6 +50,13 @@ stdenvNoCC.mkDerivation {
     runHook postInstall
   '';
 
+  passthru.updateScript = nix-update-script {
+    extraArgs = [
+      "-F"
+      "--version=branch"
+    ];
+  };
+
   meta = {
     homepage = "https://github.com/sapachev/error-pages";
     description = "Lightweight tool for creating static custom HTTP error pages";
@@ -52,4 +64,4 @@ stdenvNoCC.mkDerivation {
     maintainers = with lib.maintainers; [ nanoyaki ];
     platforms = lib.platforms.all;
   };
-}
+})

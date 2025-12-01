@@ -4,6 +4,7 @@
 {
   lib,
   stdenvNoCC,
+  fetchgit,
   fetchYarnDeps,
   yarnConfigHook,
   nodejs_22,
@@ -13,18 +14,26 @@
   nix-update-script,
 
   nodejs ? nodejs_22,
-
-  _sources,
-  _versions,
 }:
 
 stdenvNoCC.mkDerivation (finalAttrs: {
-  inherit (_sources.suwayomi-webui) pname version src;
-  inherit (_versions.suwayomi-webui) revision;
+  pname = "suwayomi-webui";
+  version = "20250801.01-unstable-2025-11-28";
+  revision = "2907";
+
+  src = fetchgit {
+    url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
+    rev = "b5d71adeae071667c1fff1e55d6388eb1bad4503";
+    fetchSubmodules = false;
+    deepClone = false;
+    leaveDotGit = false;
+    sparseCheckout = [ ];
+    sha256 = "sha256-1QCidXT/Rbndr0QGOU5nYAdKQJTBKNMSRYd5+WJWjew=";
+  };
 
   yarnOfflineCache = fetchYarnDeps {
     yarnLock = "${finalAttrs.src}/yarn.lock";
-    hash = _versions.suwayomi-webui.yarnHash;
+    hash = "sha256-P+o6qdEV4mNP68qe7dS8y0Q2HLJ2/4mr4qdMNAr++vo=";
   };
 
   nativeBuildInputs = [
@@ -65,11 +74,17 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   '';
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
-    (nix-update-script { })
+    (nix-update-script {
+      extraArgs = [
+        "--version=branch"
+        "-F"
+      ];
+    })
     {
       command = [
         ./update-rev.sh
         finalAttrs.src.rev
+        "pkgs/by-name/su/suwayomi-webui/package.nix"
       ];
     }
   ];

@@ -10,9 +10,7 @@ let
     foldr
     splitString
     elemAt
-    drop
     recursiveUpdate
-    setAttrByPath
     attrNames
     importJSON
     mapAttrs'
@@ -20,20 +18,6 @@ let
     replaceStrings
     ;
   inherit (builtins) readDir;
-
-  # Converts the nvchecker format into the keys defined in nvchecker.toml
-  versionData = (importJSON ../_versions/new_versions.json).data;
-  _versions = foldr (
-    name: attrs:
-    let
-      sets = splitString "." name;
-      set = elemAt sets 0;
-      subsetPath = drop 1 sets;
-    in
-    recursiveUpdate attrs {
-      ${set} = setAttrByPath subsetPath versionData.${name}.version;
-    }
-  ) { } (attrNames versionData);
 
   _modSources = foldr (
     filename: attrs:
@@ -60,13 +44,8 @@ in
 {
   flake.overlays.default = composeManyExtensions (
     [
-      (final: _: {
-        _sources = final.callPackage ../_sources/generated.nix { };
-        inherit _versions _modSources;
-      })
-
+      (_: _: { inherit _modSources; })
       (import "${nixpkgs}/pkgs/top-level/by-name-overlay.nix" ./by-name)
-      (import ./pythonPackagesExtensions)
     ]
     ++ overrides
   );

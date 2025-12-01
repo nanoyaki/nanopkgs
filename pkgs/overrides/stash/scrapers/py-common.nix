@@ -3,14 +3,21 @@
 # SPDX-License-Identifier: MIT
 {
   stdenvNoCC,
+  fetchFromGitHub,
+  nix-update-script,
   stashDataDir ? "/var/lib/stash",
-
-  _sources,
 }:
 
 stdenvNoCC.mkDerivation {
   pname = "py_common";
-  inherit (_sources.stash-scrapers) src version;
+  version = "0-unstable-2025-11-28";
+
+  src = fetchFromGitHub {
+    owner = "stashapp";
+    repo = "CommunityScrapers";
+    rev = "f953b54196f12cbd1ee0b879e38fa65fff3de15d";
+    hash = "sha256-Vbxe9Y3QChZ4tZ2timCQzdDFf1FcybRHv+hHfk42l94=";
+  };
 
   postPatch = ''
     substituteInPlace scrapers/py_common/config.py \
@@ -26,4 +33,11 @@ stdenvNoCC.mkDerivation {
 
     runHook postInstall
   '';
+
+  passthru.updateScript = nix-update-script {
+    extraArgs = [
+      "-F"
+      "--version=branch"
+    ];
+  };
 }
