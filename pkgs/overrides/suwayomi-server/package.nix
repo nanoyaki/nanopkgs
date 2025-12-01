@@ -66,6 +66,7 @@ let
     mitmCache = gradle_8.fetchDeps {
       pkg = self;
       data = ./deps.json;
+      useBwrap = false;
     };
 
     gradleFlags = [
