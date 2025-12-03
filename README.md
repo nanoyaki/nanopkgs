@@ -15,14 +15,14 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `cosmic-classic-menu` -> `0.0.10-unstable-2025-11-24`
 - `cosmic-ext-applet-privacy-indicator` -> `0.1.2-unstable-2025-07-03`
 - `error-pages` -> `0-unstable-2024-11-22`
-- `fireshare` -> `1.2.30-unstable-2025-08-28`
+- `fireshare` -> `1.3.1-unstable-2025-12-02`
 - `flaresolverr` -> `3.4.6`
 - `ftb-server-installer` -> `1.0.31`
 - `jellyfin-web-with-plugins`
 - `lidarr` -> `3.1.1.4876`
 - `luarenamer` -> `5.9.0-compat`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `cb65867`
+- `midnight-theme` -> `4a5ccbd`
 - `oldlibcosmicAppHook`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2025-11-30`
 - `osu-lazer-bin` -> `2025.1121.0-tachyon`
@@ -31,11 +31,11 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
 - `shoko` -> `5.1.0-dev.148-unstable-2025-11-21`
-- `shoko-webui` -> `2.3.0-dev.19-unstable-2025-10-24`
+- `shoko-webui` -> `2.4.0-dev.2-unstable-2025-12-02`
 - `shokofin` -> `5.0.6-dev.16-unstable-2025-11-30`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2025-11-26`
-- `suwayomi-webui` -> `20250801.01-unstable-2025-11-28`
-- `whisparr` -> `3.0.2.1506`
+- `suwayomi-webui` -> `20250801.01-unstable-2025-12-02`
+- `whisparr` -> `3.0.2.1517`
 - `wkeys` -> `0.1.2-unstable-2025-10-07`
 - `writeSystemdToggle`
