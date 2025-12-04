@@ -22,7 +22,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `lidarr` -> `3.1.1.4876`
 - `luarenamer` -> `5.9.0-compat`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `4a5ccbd`
+- `midnight-theme` -> `cdc4b66`
 - `oldlibcosmicAppHook`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2025-11-30`
 - `osu-lazer-bin` -> `2025.1121.0-tachyon`
@@ -30,12 +30,12 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `prowlarr` -> `2.3.1.5238`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `5.1.0-dev.148-unstable-2025-11-21`
+- `shoko` -> `5.1.0-dev.149-unstable-2025-12-03`
 - `shoko-webui` -> `2.4.0-dev.2-unstable-2025-12-02`
 - `shokofin` -> `5.0.6-dev.16-unstable-2025-11-30`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2025-11-26`
 - `suwayomi-webui` -> `20250801.01-unstable-2025-12-02`
-- `whisparr` -> `3.0.2.1517`
+- `whisparr` -> `3.0.2.1524`
 - `wkeys` -> `0.1.2-unstable-2025-10-07`
 - `writeSystemdToggle`
