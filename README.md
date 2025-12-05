@@ -15,17 +15,17 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `cosmic-classic-menu` -> `0.0.10-unstable-2025-11-24`
 - `cosmic-ext-applet-privacy-indicator` -> `0.1.2-unstable-2025-07-03`
 - `error-pages` -> `0-unstable-2024-11-22`
-- `fireshare` -> `1.3.1-unstable-2025-12-02`
+- `fireshare` -> `1.3.2-unstable-2025-12-05`
 - `flaresolverr` -> `3.4.6`
 - `ftb-server-installer` -> `1.0.31`
 - `jellyfin-web-with-plugins`
 - `lidarr` -> `3.1.1.4876`
 - `luarenamer` -> `5.9.0-compat`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `cdc4b66`
+- `midnight-theme` -> `7e257b6`
 - `oldlibcosmicAppHook`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-11-30`
-- `osu-lazer-bin` -> `2025.1121.0-tachyon`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-12-04`
+- `osu-lazer-bin` -> `2025.1203.0-tachyon`
 - `prefetch`
 - `prowlarr` -> `2.3.1.5238`
 - `pyon` -> `0.1.0`
@@ -36,6 +36,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2025-11-26`
 - `suwayomi-webui` -> `20250801.01-unstable-2025-12-02`
-- `whisparr` -> `3.0.2.1524`
+- `whisparr` -> `3.0.2.1541`
 - `wkeys` -> `0.1.2-unstable-2025-10-07`
 - `writeSystemdToggle`
