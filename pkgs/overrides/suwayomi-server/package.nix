@@ -48,7 +48,7 @@ let
 
     postPatch = ''
       echo 'const val MainClass = "suwayomi.tachidesk.MainKt"
-      val getTachideskVersion = { "v${finalAttrs.version}" }
+      val getTachideskVersion = { "v${lib.versions.majorMinor finalAttrs.version}.${finalAttrs.revision}" }
       val webUIRevisionTag = "r${webui.revision}"
       val getTachideskRevision = { "r${finalAttrs.revision}" }
       ' > buildSrc/src/main/kotlin/Constants.kt
