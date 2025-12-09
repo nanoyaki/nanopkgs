@@ -79,8 +79,10 @@ let
     installPhase = ''
       runHook preInstall
 
+      builtJar="Suwayomi-Server-v${lib.versions.majorMinor finalAttrs.version}.${finalAttrs.revision}.jar"
+
       mkdir -p $out/{bin,share/suwayomi-server,share/icons/hicolor/128x128/apps}
-      cp server/build/Suwayomi-Server-v${finalAttrs.version}.jar $out/share/suwayomi-server
+      cp "server/build/$builtJar" $out/share/suwayomi-server
 
       # Use nixpkgs suwayomi-webui and disable auto download and update
       makeWrapper ${lib.getExe jdk} $out/bin/tachidesk-server \
@@ -103,7 +105,7 @@ let
       --add-flags "-Dsuwayomi.tachidesk.config.server.systemTrayEnabled=false" \
     ''
     + ''
-        --add-flags "-jar $out/share/suwayomi-server/Suwayomi-Server-v${finalAttrs.version}.jar"
+        --add-flags "-jar $out/share/suwayomi-server/$builtJar"
 
       install -m644 server/src/main/resources/icon/faviconlogo-128.png \
         $out/share/icons/hicolor/128x128/apps/suwayomi-server.png
