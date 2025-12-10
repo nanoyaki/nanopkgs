@@ -10,16 +10,16 @@
 
 stdenvNoCC.mkDerivation {
   pname = "midnight-theme";
-  version = "87490c1ee9a5b9cae150074aa160b49b153b7787";
+  version = "e9c67709282f5b619305b784ef30405dae021ca6";
 
   src = fetchgit {
     url = "https://github.com/refact0r/midnight-discord.git";
-    rev = "87490c1ee9a5b9cae150074aa160b49b153b7787";
+    rev = "e9c67709282f5b619305b784ef30405dae021ca6";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-OceoK064SlY+iucr+l3ZrGWY0OcAGbLI621i2CcnmQQ=";
+    sha256 = "sha256-napai8il4jBtG+MaMBiF3hPPIJa78qafL0demzBgdMQ=";
   };
 
   installPhase = ''

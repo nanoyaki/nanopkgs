@@ -1,5 +1,10 @@
 {
   "neoforge": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/5svDEOkf/netherportalfix-neoforge-1.21.11-21.11.2.jar",
+      "sha512": "015a891248d26daee1ab6bdf2a2a0976319ec8cc3570f927367327b187d2185ab17cde7e42616935dd08dbfa51f936ffbac0d0344ee3183773f88161a49ba78c",
+      "name": "netherportalfix-neoforge-1.21.11-21.11.2.jar"
+    },
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/kRFT7YCO/netherportalfix-neoforge-1.21.10-21.10.1.jar",
       "sha512": "b46c1dc1e8f81fc6def8c462b39b1e0af6aa4cdf5bd3b1a16db48f7cd1f61b25728f4aa49905b5ef9241b3bdb4f24ff7defeb0b664652e832d8cb27fe4c9817b",
@@ -72,6 +77,11 @@
     }
   },
   "fabric": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/D79IUl9r/netherportalfix-fabric-1.21.11-21.11.2.jar",
+      "sha512": "9e385c30418e1eb80c2f74d1e319ed5bc45a19dfaa8408fba40b8afb6b4b49dc7a7951cb06fc3b4a1679bd818073300df56740ecee8224f47334e8dd6395bb49",
+      "name": "netherportalfix-fabric-1.21.11-21.11.2.jar"
+    },
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/EQ03E7hB/netherportalfix-fabric-1.21.10-21.10.1.jar",
       "sha512": "6e8d8569c4ce93f2c8487a4a496199cdb5a0b1d254901c1c2629e071322a1c3f213436eaaf1f52b8aef69953950c1252ae8b52d16c71c936a9a4961f17d49698",
