@@ -61,7 +61,7 @@
               nix fmt
 
               git add _modSources pkgs flake.lock update*
-              git commit -m "chore: Update $(date +"%d.%m.%y")"
+              git commit -m "chore: update packages"
 
               git stash pop || echo "No stashed changes."
 

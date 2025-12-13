@@ -16,16 +16,9 @@ env:
     access-tokens = github.com=${{ secrets.HUBGIT_TOKEN }}
 
 jobs:
-  check-branch:
-    runs-on: nix
-    steps:
-      - name: Check branch
-        if: forge.event_name == 'workflow_dispatch' && forge.ref != 'refs/heads/main'
-        run: exit 1
-
   update:
     runs-on: nix
-    needs: check-branch
+    if: forge.event_name != 'workflow_dispatch' || forge.ref == 'refs/heads/main'
     steps:
       - name: Install dependencies
         run: >
@@ -35,26 +28,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup git
-        run: |
-          git config --local user.name "forgejo-actions[bot]"
-          git config --local user.email "hanakretzer+forgejo-actions@gmail.com"
-          git checkout -b chore/auto-update
-
-      - name: Setup keys
-        env:
-          HUBGIT_TOKEN: ${{ secrets.HUBGIT_TOKEN }}
-        run: |
-          echo \
-            "[keys]
-            github = \"$HUBGIT_TOKEN\"
-            " > keys.toml
-          chmod 400 ./keys.toml
+      - name: Configure git
+        uses: https://git.theless.one/actions/configure-git@v1
+        with:
+          username: forgejo-bot
+          email: git@theless.one
 
       - name: Update packages
         env:
           LANG: C.UTF-8
-        run: nix run .#update -- ./keys.toml
+        run: nix run .#update
 
       - name: Update readme
         run: |
@@ -63,40 +46,11 @@ jobs:
           git commit --amend --no-edit
 
       - name: Create Forgejo Pull Request
-        id: create-pr
-        env:
-          FORGEJO_LOGIN: nanoyaki
-          FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
-        run: |
-          tea login delete "$FORGEJO_LOGIN" || true
-          tea login add --name "$FORGEJO_LOGIN" --url "$FORGEJO_SERVER_URL" --token "$FORGE_TOKEN" || true
-
-          git push -u origin chore/auto-update -f
-          PR_NUMBER="$(
-            tea pr create \
-              -l "$FORGEJO_LOGIN" \
-              -t 'chore: update locks' \
-              -d 'Automated pull request to update locks for maintained programs' \
-              -r "$FORGEJO_REPOSITORY" \
-              | tail \
-              | grep -oP '/\K\d+'
-          )"
-
-          echo "pr=${PR_NUMBER}" >> $FORGEJO_OUTPUT
-
-      - name: Enable Auto-Merge
-        env:
-          FORGE_TOKEN: ${{ secrets.FORGE_TOKEN }}
-          PR_NUMBER: ${{ steps.create-pr.outputs.pr }}
-          FORGEJO_API_URL: ${{ forge.api_url }}
-        run: |-
-          curl -X POST \
-            -H "Authorization: token $FORGE_TOKEN" \
-            -H "Content-Type: application/json" \
-            -d '{
-              "Do": "merge",
-              "delete_branch_after_merge": true,
-              "merge_when_checks_succeed": true,
-              "force_merge": false
-            }' \
-            "${FORGEJO_API_URL}/repos/${FORGEJO_REPOSITORY}/pulls/${PR_NUMBER}/merge"
+        uses: https://git.theless.one/actions/create-pr@v2
+        with:
+          source-branch: chore/auto-update
+          title: 'chore: update packages'
+          description: >
+            Automated pull request to update the maintaned packages
+          token: ${{ secrets.FORGEJO_BOT_TOKEN }}
+          auto-merge: 'true'
