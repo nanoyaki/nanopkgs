@@ -1,177 +1,10 @@
 {
-  "fabric": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/d38XhzPO/bluemap-5.12-fabric.jar",
-      "sha512": "46e336d270b59bf78be76eab5d41fb0daf0f32dbbfae2f13a2ab21c829bbf32fc5174f1262dd6e871e2fc62c11301b82f66fd30d7f58ac96d8c8416540eb0675",
-      "name": "bluemap-5.12-fabric.jar"
-    },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/d38XhzPO/bluemap-5.12-fabric.jar",
-      "sha512": "46e336d270b59bf78be76eab5d41fb0daf0f32dbbfae2f13a2ab21c829bbf32fc5174f1262dd6e871e2fc62c11301b82f66fd30d7f58ac96d8c8416540eb0675",
-      "name": "bluemap-5.12-fabric.jar"
-    },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/fB6f4XRA/bluemap-5.9-fabric.jar",
-      "sha512": "a76a2b1019efe35175f8df91f69ec7ec58e26f148ea9bba4f1eb9bb1b16ffa6f395b76c1362f452d33f94f0f1045403da3b04f25bc6d40feadbc58f64d34f1e4",
-      "name": "bluemap-5.9-fabric.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/fB6f4XRA/bluemap-5.9-fabric.jar",
-      "sha512": "a76a2b1019efe35175f8df91f69ec7ec58e26f148ea9bba4f1eb9bb1b16ffa6f395b76c1362f452d33f94f0f1045403da3b04f25bc6d40feadbc58f64d34f1e4",
-      "name": "bluemap-5.9-fabric.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RRDbiatR/bluemap-5.8-fabric.jar",
-      "sha512": "818ed04fa39c4e212a1a9dc3614848f4b6d723f3c9c76490275583a34d6e421603c13a8faecd27cb6ff9613ccab6ad804ef97540a350a3be17cde25419e224d5",
-      "name": "bluemap-5.8-fabric.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar",
-      "sha512": "b7483d6ff90f09258f994a6f487846c1dfe814f1d0af931bd50426fd0afc98ccad033c5f440705edc08a8ced03cf216171ba1571db2221aca4ec620d676443a4",
-      "name": "bluemap-5.7-fabric.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Mvle7bPy/bluemap-5.5-fabric.jar",
-      "sha512": "cecad52391159d10e16e474b7f8af95b94fd93495f69d211cfb0f3b2110fd363e1bdc6fe894f0d869e23248d4768efa9520dc22f5a3f44a30788cdfc3704ee2e",
-      "name": "bluemap-5.5-fabric.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Ysj3eVYx/bluemap-5.4-fabric.jar",
-      "sha512": "534bcaa5e8c91efa605ade78e1026fc6089c6cb40debfd1a2e4911e88d3f9a0678a4371d88b404479d59b0a8c35ca327d9be4077e49ecd9290814e9940c182fc",
-      "name": "bluemap-5.4-fabric.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Ysj3eVYx/bluemap-5.4-fabric.jar",
-      "sha512": "534bcaa5e8c91efa605ade78e1026fc6089c6cb40debfd1a2e4911e88d3f9a0678a4371d88b404479d59b0a8c35ca327d9be4077e49ecd9290814e9940c182fc",
-      "name": "bluemap-5.4-fabric.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Zpzf0Xab/BlueMap-5.3-fabric.jar",
-      "sha512": "a4adace409859942befea2286ab78c262e97af11a276d6a3d2b278481faa314b1a652a6a5c05eb5941501e403baa69360750fc73855431f1b0bb43af8d4bd7d0",
-      "name": "BlueMap-5.3-fabric.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/7qitCWhD/BlueMap-5.2-fabric.jar",
-      "sha512": "d1e720a5dce7ad0576290e99c0826f42cc143a8fbcc66ceea8f3998fec9119353fdb544e14f0e934eabac7ee65b5340c359a686a10ce6c1cd70b299fc013fe33",
-      "name": "BlueMap-5.2-fabric.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RyfTNmc1/BlueMap-3.21-fabric-1.20.5.jar",
-      "sha512": "8f84750bb3b8f2174d7437980e23218abecd889af2ec79e7d7110bfba69853e4267c4cfc039f3bc167839c5d3a0313d5f6a4417ee475c3c5eac173dbf74ccaae",
-      "name": "BlueMap-3.21-fabric-1.20.5.jar"
-    },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RyfTNmc1/BlueMap-3.21-fabric-1.20.5.jar",
-      "sha512": "8f84750bb3b8f2174d7437980e23218abecd889af2ec79e7d7110bfba69853e4267c4cfc039f3bc167839c5d3a0313d5f6a4417ee475c3c5eac173dbf74ccaae",
-      "name": "BlueMap-3.21-fabric-1.20.5.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/UKJqFAVM/BlueMap-3.19-fabric-1.20.jar",
-      "sha512": "77943f2f15a6385951bb4c53b55830d1b5009997581d8d0818e1fb7d60f026943560e14968c39c6e8d6ce620288b1b019918eaf6c1b86892ee903eb9e2bc668a",
-      "name": "BlueMap-3.19-fabric-1.20.jar"
-    },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/UKJqFAVM/BlueMap-3.19-fabric-1.20.jar",
-      "sha512": "77943f2f15a6385951bb4c53b55830d1b5009997581d8d0818e1fb7d60f026943560e14968c39c6e8d6ce620288b1b019918eaf6c1b86892ee903eb9e2bc668a",
-      "name": "BlueMap-3.19-fabric-1.20.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/CNjvxHcc/BlueMap-3.17-fabric-1.20.2.jar",
-      "sha512": "b777491a1007d5bf4d40d96dc2b68040c04b7a4fa289eb4458edcf78720dddfd23e6547e86c39853bc2bab9aff1db963add7718c4744c5124d55d0c62486af53",
-      "name": "BlueMap-3.17-fabric-1.20.2.jar"
-    },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/K4zShUjj/BlueMap-3.14-fabric-1.20.jar",
-      "sha512": "0df4bafb0ec577441281b477c0bb14a2fafcdd26db38424ddefd90660a18865eb3dd216de207e716f3dd2be3f64f9ae4e073e7e5052823fea7a70409f50d3a33",
-      "name": "BlueMap-3.14-fabric-1.20.jar"
-    },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/K4zShUjj/BlueMap-3.14-fabric-1.20.jar",
-      "sha512": "0df4bafb0ec577441281b477c0bb14a2fafcdd26db38424ddefd90660a18865eb3dd216de207e716f3dd2be3f64f9ae4e073e7e5052823fea7a70409f50d3a33",
-      "name": "BlueMap-3.14-fabric-1.20.jar"
-    },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/OHAKzbDr/BlueMap-3.12-fabric-1.19.4.jar",
-      "sha512": "546fc498e75aa6f952bb09b5d1ff020ceca8349563ac420a54076f13ab858361a23dc28bec1723dcc886d768f714f752afeac41c8b9d17b621d81835d5667c65",
-      "name": "BlueMap-3.12-fabric-1.19.4.jar"
-    },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Ib6sSf3k/BlueMap-3.7-fabric-1.19.3.jar",
-      "sha512": "3724bdaa9652f3066f87c43f66893f7ed54d757bcc2b259ab31b609c2d8e1d8edeb43768d5acc77d0e5366ca6bb8b0a736b9bdfa2d4a77961fb11e0683d74169",
-      "name": "BlueMap-3.7-fabric-1.19.3.jar"
-    },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/URGg6hB0/BlueMap-3.3-fabric-1.19.jar",
-      "sha512": "19c2b66cf7b296f62c6afdfff16c0d68db282b8fddce3186781cb3e0b482db243b07ddcd718d260f1be5c4fcf1e0a871481bd299a18077c020ac0d4a7061af4b",
-      "name": "BlueMap-3.3-fabric-1.19.jar"
-    },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/URGg6hB0/BlueMap-3.3-fabric-1.19.jar",
-      "sha512": "19c2b66cf7b296f62c6afdfff16c0d68db282b8fddce3186781cb3e0b482db243b07ddcd718d260f1be5c4fcf1e0a871481bd299a18077c020ac0d4a7061af4b",
-      "name": "BlueMap-3.3-fabric-1.19.jar"
-    },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.3-fabric-1.18/BlueMap-1.7.3-fabric-1.18.jar",
-      "sha512": "ca89589cb60e3995bae5a9dd239cdfd4fa94c7fecdb117cb2af6e7e7eb1839ceacec1920506fffb33ed57cfa07115b7a261449c4029e494db6e138f59334f5e9",
-      "name": "BlueMap-1.7.3-fabric-1.18.jar"
-    },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-fabric-1.18/BlueMap-1.7.2-fabric-1.18.jar",
-      "sha512": "0bcfa19a14f706aa63c9934f52d72fa3a489a59da67f83d407ed5ba4c9da4ab36e9ec23399080bdf6cb2d8cf95d0dd6304d1950799043f3cc66c664e93992e91",
-      "name": "BlueMap-1.7.2-fabric-1.18.jar"
-    },
-    "1.18.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-fabric-1.18/BlueMap-1.7.2-fabric-1.18.jar",
-      "sha512": "0bcfa19a14f706aa63c9934f52d72fa3a489a59da67f83d407ed5ba4c9da4ab36e9ec23399080bdf6cb2d8cf95d0dd6304d1950799043f3cc66c664e93992e91",
-      "name": "BlueMap-1.7.2-fabric-1.18.jar"
-    },
-    "1.18": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.3-fabric-1.18/BlueMap-1.7.3-fabric-1.18.jar",
-      "sha512": "ca89589cb60e3995bae5a9dd239cdfd4fa94c7fecdb117cb2af6e7e7eb1839ceacec1920506fffb33ed57cfa07115b7a261449c4029e494db6e138f59334f5e9",
-      "name": "BlueMap-1.7.3-fabric-1.18.jar"
-    },
-    "1.17.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ugLRPhre/BlueMap-3.5-fabric-1.17.jar",
-      "sha512": "40648675886bbcc07e8a4c5d300330d08451105a329c21a88f3656d2a97384846e49426c545bbc6700a85919c94da4d21313393cadd14b3f04e2922f4eed9ba1",
-      "name": "BlueMap-3.5-fabric-1.17.jar"
-    },
-    "1.17": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ugLRPhre/BlueMap-3.5-fabric-1.17.jar",
-      "sha512": "40648675886bbcc07e8a4c5d300330d08451105a329c21a88f3656d2a97384846e49426c545bbc6700a85919c94da4d21313393cadd14b3f04e2922f4eed9ba1",
-      "name": "BlueMap-3.5-fabric-1.17.jar"
-    },
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
-      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
-      "name": "BlueMap-3.5-fabric-1.16.2.jar"
-    },
-    "1.16.4": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
-      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
-      "name": "BlueMap-3.5-fabric-1.16.2.jar"
-    },
-    "1.16.3": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
-      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
-      "name": "BlueMap-3.5-fabric-1.16.2.jar"
-    },
-    "1.16.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
-      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
-      "name": "BlueMap-3.5-fabric-1.16.2.jar"
-    },
-    "1.16.1": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/tNlxj5PG/BlueMap-3.5-fabric-1.16.1.jar",
-      "sha512": "2a198d0c0f67f53eff02484654fe43775a3a7067c80e2e999d6afb5eef10f944637bf1bcd92a95a16d306de4c694daf816ed505b488c0eafc15c105513ef8c59",
-      "name": "BlueMap-3.5-fabric-1.16.1.jar"
-    },
-    "1.15.2": {
-      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/e8DiKZUE/BlueMap-3.5-fabric-1.15.2.jar",
-      "sha512": "a469b287fdb49c17eac5d79613c82b5a3e912e62a05200cc96dbbeda014fea6b4aaf7251345b9b3b98f23f3bddf8084a7f56023c6bd50b9519639f44798fb0db",
-      "name": "BlueMap-3.5-fabric-1.15.2.jar"
-    }
-  },
   "sponge": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/KbEONDKc/bluemap-5.14-sponge.jar",
+      "sha512": "621517575668bc869d9897f412de9470c2ca9ee1c76277d4d89c5bb29cd136b0a7dafd30468e77537c1b27c108f90ff5f01998037dec13a9ae06d98beb09ae76",
+      "name": "bluemap-5.14-sponge.jar"
+    },
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/bNFCSUSC/bluemap-5.12-sponge.jar",
       "sha512": "c3b0df168f2ff2b9d6d5c1b6b83fd3ab07831ad04bdab57ba5511cc93ab274c81615629a8de6157440f7c8f48be3ea4ae88350d144e6c79c4288afe9c9dd75c0",
@@ -618,6 +451,11 @@
     }
   },
   "neoforge": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/qy5TFR9O/bluemap-5.14-neoforge.jar",
+      "sha512": "2b88779a3e35129bf1e27efe3df7ab33099591cbdaef7079c3924c3b5d0d1f583f9ea02bd336caa629f983f3546732c1bdb8d6a2e7ec206a602a22505219a796",
+      "name": "bluemap-5.14-neoforge.jar"
+    },
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/tXZ7uKr2/bluemap-5.12-neoforge.jar",
       "sha512": "0bba00b3be1656487928141f81269af20fb5afb97ddaf8f443f06c11d90c5a26b22956efdf3768f740dc737a76dfe6b200dec008a801090efa8cf361c0d03ec8",
@@ -695,6 +533,11 @@
     }
   },
   "forge": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/IemOUhhS/bluemap-5.14-forge.jar",
+      "sha512": "d8f738f26506a756660201d703fa203aa6e568abecb7d3824c18f82e3bd7e7d79d26aa7d0f809819b41fbcb97f5f28afb9974553941ae3d73130fe012a8ed47a",
+      "name": "bluemap-5.14-forge.jar"
+    },
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RLlvBbVl/bluemap-5.12-forge.jar",
       "sha512": "cb23ecfe6a6df40519b35aeae5c1cdcb9f49c1da3e2beee04d9c235b69db2d9d2b77ebc85ebe16f9c63362c6b55f1b84aeda7b3e089cfc9cdccae9b794011bc7",
@@ -849,6 +692,183 @@
       "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/mtJ75SMA/BlueMap-3.5-forge-1.14.4.jar",
       "sha512": "5900f96bca006a12587671d71e5e5211240d89ba8852890fab40deaa003990d9153ba5e4cdc813e719eb060ce998f9942df98d7ffc297745726bfd67feb94545",
       "name": "BlueMap-3.5-forge-1.14.4.jar"
+    }
+  },
+  "fabric": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/71GhBvzO/bluemap-5.14-fabric.jar",
+      "sha512": "97f35f20ff148efd8f33d8ae5f5c7c412e811d30176375187ff19750a006ba6f6327d6aa30f9142f0908684e9909874b40110137f78149783851df76f42f8ba0",
+      "name": "bluemap-5.14-fabric.jar"
+    },
+    "1.21.10": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/d38XhzPO/bluemap-5.12-fabric.jar",
+      "sha512": "46e336d270b59bf78be76eab5d41fb0daf0f32dbbfae2f13a2ab21c829bbf32fc5174f1262dd6e871e2fc62c11301b82f66fd30d7f58ac96d8c8416540eb0675",
+      "name": "bluemap-5.12-fabric.jar"
+    },
+    "1.21.9": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/d38XhzPO/bluemap-5.12-fabric.jar",
+      "sha512": "46e336d270b59bf78be76eab5d41fb0daf0f32dbbfae2f13a2ab21c829bbf32fc5174f1262dd6e871e2fc62c11301b82f66fd30d7f58ac96d8c8416540eb0675",
+      "name": "bluemap-5.12-fabric.jar"
+    },
+    "1.21.8": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/fB6f4XRA/bluemap-5.9-fabric.jar",
+      "sha512": "a76a2b1019efe35175f8df91f69ec7ec58e26f148ea9bba4f1eb9bb1b16ffa6f395b76c1362f452d33f94f0f1045403da3b04f25bc6d40feadbc58f64d34f1e4",
+      "name": "bluemap-5.9-fabric.jar"
+    },
+    "1.21.7": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/fB6f4XRA/bluemap-5.9-fabric.jar",
+      "sha512": "a76a2b1019efe35175f8df91f69ec7ec58e26f148ea9bba4f1eb9bb1b16ffa6f395b76c1362f452d33f94f0f1045403da3b04f25bc6d40feadbc58f64d34f1e4",
+      "name": "bluemap-5.9-fabric.jar"
+    },
+    "1.21.6": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RRDbiatR/bluemap-5.8-fabric.jar",
+      "sha512": "818ed04fa39c4e212a1a9dc3614848f4b6d723f3c9c76490275583a34d6e421603c13a8faecd27cb6ff9613ccab6ad804ef97540a350a3be17cde25419e224d5",
+      "name": "bluemap-5.8-fabric.jar"
+    },
+    "1.21.5": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar",
+      "sha512": "b7483d6ff90f09258f994a6f487846c1dfe814f1d0af931bd50426fd0afc98ccad033c5f440705edc08a8ced03cf216171ba1571db2221aca4ec620d676443a4",
+      "name": "bluemap-5.7-fabric.jar"
+    },
+    "1.21.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Mvle7bPy/bluemap-5.5-fabric.jar",
+      "sha512": "cecad52391159d10e16e474b7f8af95b94fd93495f69d211cfb0f3b2110fd363e1bdc6fe894f0d869e23248d4768efa9520dc22f5a3f44a30788cdfc3704ee2e",
+      "name": "bluemap-5.5-fabric.jar"
+    },
+    "1.21.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Ysj3eVYx/bluemap-5.4-fabric.jar",
+      "sha512": "534bcaa5e8c91efa605ade78e1026fc6089c6cb40debfd1a2e4911e88d3f9a0678a4371d88b404479d59b0a8c35ca327d9be4077e49ecd9290814e9940c182fc",
+      "name": "bluemap-5.4-fabric.jar"
+    },
+    "1.21.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Ysj3eVYx/bluemap-5.4-fabric.jar",
+      "sha512": "534bcaa5e8c91efa605ade78e1026fc6089c6cb40debfd1a2e4911e88d3f9a0678a4371d88b404479d59b0a8c35ca327d9be4077e49ecd9290814e9940c182fc",
+      "name": "bluemap-5.4-fabric.jar"
+    },
+    "1.21.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Zpzf0Xab/BlueMap-5.3-fabric.jar",
+      "sha512": "a4adace409859942befea2286ab78c262e97af11a276d6a3d2b278481faa314b1a652a6a5c05eb5941501e403baa69360750fc73855431f1b0bb43af8d4bd7d0",
+      "name": "BlueMap-5.3-fabric.jar"
+    },
+    "1.21": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/7qitCWhD/BlueMap-5.2-fabric.jar",
+      "sha512": "d1e720a5dce7ad0576290e99c0826f42cc143a8fbcc66ceea8f3998fec9119353fdb544e14f0e934eabac7ee65b5340c359a686a10ce6c1cd70b299fc013fe33",
+      "name": "BlueMap-5.2-fabric.jar"
+    },
+    "1.20.6": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RyfTNmc1/BlueMap-3.21-fabric-1.20.5.jar",
+      "sha512": "8f84750bb3b8f2174d7437980e23218abecd889af2ec79e7d7110bfba69853e4267c4cfc039f3bc167839c5d3a0313d5f6a4417ee475c3c5eac173dbf74ccaae",
+      "name": "BlueMap-3.21-fabric-1.20.5.jar"
+    },
+    "1.20.5": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/RyfTNmc1/BlueMap-3.21-fabric-1.20.5.jar",
+      "sha512": "8f84750bb3b8f2174d7437980e23218abecd889af2ec79e7d7110bfba69853e4267c4cfc039f3bc167839c5d3a0313d5f6a4417ee475c3c5eac173dbf74ccaae",
+      "name": "BlueMap-3.21-fabric-1.20.5.jar"
+    },
+    "1.20.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/UKJqFAVM/BlueMap-3.19-fabric-1.20.jar",
+      "sha512": "77943f2f15a6385951bb4c53b55830d1b5009997581d8d0818e1fb7d60f026943560e14968c39c6e8d6ce620288b1b019918eaf6c1b86892ee903eb9e2bc668a",
+      "name": "BlueMap-3.19-fabric-1.20.jar"
+    },
+    "1.20.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/UKJqFAVM/BlueMap-3.19-fabric-1.20.jar",
+      "sha512": "77943f2f15a6385951bb4c53b55830d1b5009997581d8d0818e1fb7d60f026943560e14968c39c6e8d6ce620288b1b019918eaf6c1b86892ee903eb9e2bc668a",
+      "name": "BlueMap-3.19-fabric-1.20.jar"
+    },
+    "1.20.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/CNjvxHcc/BlueMap-3.17-fabric-1.20.2.jar",
+      "sha512": "b777491a1007d5bf4d40d96dc2b68040c04b7a4fa289eb4458edcf78720dddfd23e6547e86c39853bc2bab9aff1db963add7718c4744c5124d55d0c62486af53",
+      "name": "BlueMap-3.17-fabric-1.20.2.jar"
+    },
+    "1.20.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/K4zShUjj/BlueMap-3.14-fabric-1.20.jar",
+      "sha512": "0df4bafb0ec577441281b477c0bb14a2fafcdd26db38424ddefd90660a18865eb3dd216de207e716f3dd2be3f64f9ae4e073e7e5052823fea7a70409f50d3a33",
+      "name": "BlueMap-3.14-fabric-1.20.jar"
+    },
+    "1.20": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/K4zShUjj/BlueMap-3.14-fabric-1.20.jar",
+      "sha512": "0df4bafb0ec577441281b477c0bb14a2fafcdd26db38424ddefd90660a18865eb3dd216de207e716f3dd2be3f64f9ae4e073e7e5052823fea7a70409f50d3a33",
+      "name": "BlueMap-3.14-fabric-1.20.jar"
+    },
+    "1.19.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/OHAKzbDr/BlueMap-3.12-fabric-1.19.4.jar",
+      "sha512": "546fc498e75aa6f952bb09b5d1ff020ceca8349563ac420a54076f13ab858361a23dc28bec1723dcc886d768f714f752afeac41c8b9d17b621d81835d5667c65",
+      "name": "BlueMap-3.12-fabric-1.19.4.jar"
+    },
+    "1.19.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Ib6sSf3k/BlueMap-3.7-fabric-1.19.3.jar",
+      "sha512": "3724bdaa9652f3066f87c43f66893f7ed54d757bcc2b259ab31b609c2d8e1d8edeb43768d5acc77d0e5366ca6bb8b0a736b9bdfa2d4a77961fb11e0683d74169",
+      "name": "BlueMap-3.7-fabric-1.19.3.jar"
+    },
+    "1.19.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/URGg6hB0/BlueMap-3.3-fabric-1.19.jar",
+      "sha512": "19c2b66cf7b296f62c6afdfff16c0d68db282b8fddce3186781cb3e0b482db243b07ddcd718d260f1be5c4fcf1e0a871481bd299a18077c020ac0d4a7061af4b",
+      "name": "BlueMap-3.3-fabric-1.19.jar"
+    },
+    "1.19.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/URGg6hB0/BlueMap-3.3-fabric-1.19.jar",
+      "sha512": "19c2b66cf7b296f62c6afdfff16c0d68db282b8fddce3186781cb3e0b482db243b07ddcd718d260f1be5c4fcf1e0a871481bd299a18077c020ac0d4a7061af4b",
+      "name": "BlueMap-3.3-fabric-1.19.jar"
+    },
+    "1.19": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.3-fabric-1.18/BlueMap-1.7.3-fabric-1.18.jar",
+      "sha512": "ca89589cb60e3995bae5a9dd239cdfd4fa94c7fecdb117cb2af6e7e7eb1839ceacec1920506fffb33ed57cfa07115b7a261449c4029e494db6e138f59334f5e9",
+      "name": "BlueMap-1.7.3-fabric-1.18.jar"
+    },
+    "1.18.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-fabric-1.18/BlueMap-1.7.2-fabric-1.18.jar",
+      "sha512": "0bcfa19a14f706aa63c9934f52d72fa3a489a59da67f83d407ed5ba4c9da4ab36e9ec23399080bdf6cb2d8cf95d0dd6304d1950799043f3cc66c664e93992e91",
+      "name": "BlueMap-1.7.2-fabric-1.18.jar"
+    },
+    "1.18.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.2-fabric-1.18/BlueMap-1.7.2-fabric-1.18.jar",
+      "sha512": "0bcfa19a14f706aa63c9934f52d72fa3a489a59da67f83d407ed5ba4c9da4ab36e9ec23399080bdf6cb2d8cf95d0dd6304d1950799043f3cc66c664e93992e91",
+      "name": "BlueMap-1.7.2-fabric-1.18.jar"
+    },
+    "1.18": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.3-fabric-1.18/BlueMap-1.7.3-fabric-1.18.jar",
+      "sha512": "ca89589cb60e3995bae5a9dd239cdfd4fa94c7fecdb117cb2af6e7e7eb1839ceacec1920506fffb33ed57cfa07115b7a261449c4029e494db6e138f59334f5e9",
+      "name": "BlueMap-1.7.3-fabric-1.18.jar"
+    },
+    "1.17.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ugLRPhre/BlueMap-3.5-fabric-1.17.jar",
+      "sha512": "40648675886bbcc07e8a4c5d300330d08451105a329c21a88f3656d2a97384846e49426c545bbc6700a85919c94da4d21313393cadd14b3f04e2922f4eed9ba1",
+      "name": "BlueMap-3.5-fabric-1.17.jar"
+    },
+    "1.17": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ugLRPhre/BlueMap-3.5-fabric-1.17.jar",
+      "sha512": "40648675886bbcc07e8a4c5d300330d08451105a329c21a88f3656d2a97384846e49426c545bbc6700a85919c94da4d21313393cadd14b3f04e2922f4eed9ba1",
+      "name": "BlueMap-3.5-fabric-1.17.jar"
+    },
+    "1.16.5": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
+      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
+      "name": "BlueMap-3.5-fabric-1.16.2.jar"
+    },
+    "1.16.4": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
+      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
+      "name": "BlueMap-3.5-fabric-1.16.2.jar"
+    },
+    "1.16.3": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
+      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
+      "name": "BlueMap-3.5-fabric-1.16.2.jar"
+    },
+    "1.16.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9lcmJDQx/BlueMap-3.5-fabric-1.16.2.jar",
+      "sha512": "b2f6978037b1ddcd9265a687b521d02d8b0c932b68ffc30abab1130448263efe617e447a7cb4cdbf1f829d3af76c77832192921e3f636c82adeb4dc7518ac0c6",
+      "name": "BlueMap-3.5-fabric-1.16.2.jar"
+    },
+    "1.16.1": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/tNlxj5PG/BlueMap-3.5-fabric-1.16.1.jar",
+      "sha512": "2a198d0c0f67f53eff02484654fe43775a3a7067c80e2e999d6afb5eef10f944637bf1bcd92a95a16d306de4c694daf816ed505b488c0eafc15c105513ef8c59",
+      "name": "BlueMap-3.5-fabric-1.16.1.jar"
+    },
+    "1.15.2": {
+      "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/e8DiKZUE/BlueMap-3.5-fabric-1.15.2.jar",
+      "sha512": "a469b287fdb49c17eac5d79613c82b5a3e912e62a05200cc96dbbeda014fea6b4aaf7251345b9b3b98f23f3bddf8084a7f56023c6bd50b9519639f44798fb0db",
+      "name": "BlueMap-3.5-fabric-1.15.2.jar"
     }
   },
   "paper": {

@@ -1,5 +1,10 @@
 {
   "neoforge": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZuFcXTYx/cloth-config-21.11.150-neoforge.jar",
+      "sha512": "bf56b2c81d73a9ddf17fec10a12926bedf2c5b8fdbb84ae8e20b8b6f5fe3edf6d5e8e24b7bfa17d4e3ccde02f6a2f6f5b12b7ccd63a59d6599fd6d3a1a605b23",
+      "name": "cloth-config-21.11.150-neoforge.jar"
+    },
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VyyiGG8k/cloth-config-20.0.148-neoforge.jar",
       "sha512": "1078e3ec5deaea05effee55aab50f5bb79fafbcc8bd5d5bdf69ecf2f6d169d090da2ff015996e8fe37f922ecb7d9ad1849c2e21229ea3d71ccf04e0674b72335",
@@ -82,6 +87,11 @@
     }
   },
   "fabric": {
+    "1.21.11": {
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EwqYsm4K/cloth-config-21.11.150-fabric.jar",
+      "sha512": "0d3e79491bd832316a8f7041d9d06399fcd18ebaba487cdc4113e8fef151d010f9cc911947373b193f273214c0f49880dd11f98b15bc5b01dbad8c05f6250ed2",
+      "name": "cloth-config-21.11.150-fabric.jar"
+    },
     "1.21.10": {
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/otNNBWZy/cloth-config-20.0.148-fabric.jar",
       "sha512": "3f6f02540a35c87e7ce84dc280d69b87ac7e0f31a0f6907cb9aab799f62fa291e1250c2fee0ec03aa46330b72df28b13ebe333b3e48ce6c769a9bd4058138d5a",
