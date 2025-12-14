@@ -37,7 +37,9 @@ jobs:
       - name: Update packages
         env:
           LANG: C.UTF-8
-        run: nix run .#update
+        run: |
+          git checkout -b chore/auto-update
+          nix run .#update
 
       - name: Update readme
         run: |
