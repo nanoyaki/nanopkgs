@@ -38,8 +38,7 @@ jobs:
         env:
           LANG: C.UTF-8
         run: |
-          git branch -D chore/auto-update
-          git checkout -b chore/auto-update
+          git checkout -B chore/auto-update refs/heads/main
           nix run .#update
 
       - name: Update readme
