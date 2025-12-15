@@ -1,84 +1,763 @@
 {
   "datapack": {
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/cQOtTHFM/joshs-more-foods_5.5.0_data_pack.zip",
-      "sha512": "9a044f09c6636924f9d2fa27a1b3b0fa0f8109d89c84886c1a598383bce6035cfed61d0f445dd11a017fe82ec8a329c69336dff1b2d688f55f453c1524159482",
-      "name": "joshs-more-foods_5.5.0_data_pack.zip"
+    "1_21_8": {
+      "latest": {
+        "name": "joshs-more-foods_5.5.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/ZTA7fsmE/joshs-more-foods_5.5.3_data_pack.zip",
+        "sha512": "2e430f931c3da6c97b0190b53527c94c582425ca22d80b567874bebc1dd00988a083ea8a8c7edebf70c9881d54c3ff27226444f5c6a0b968662bcb3bcee60e85"
+      },
+      "5_5_3": {
+        "name": "joshs-more-foods_5.5.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/ZTA7fsmE/joshs-more-foods_5.5.3_data_pack.zip",
+        "sha512": "2e430f931c3da6c97b0190b53527c94c582425ca22d80b567874bebc1dd00988a083ea8a8c7edebf70c9881d54c3ff27226444f5c6a0b968662bcb3bcee60e85"
+      },
+      "5_5_2": {
+        "name": "joshs-more-foods_5.5.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/fBKOqUvz/joshs-more-foods_5.5.2_data_pack.zip",
+        "sha512": "12b70c532e7689aff827d1423a603fcd0d225c35aa1b66761ebbe2aee74dce41b7a93029b62bdd43db8bef38a6c18535af521eef0cc9fb3db82e41515717d5ca"
+      },
+      "5_5_1": {
+        "name": "joshs-more-foods_5.5.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/bybBGRCd/joshs-more-foods_5.5.1_data_pack.zip",
+        "sha512": "08fa0151e8b92b842d72bc6f0496121c5fdb112423648854fdc1cbc1f9dbc0b725067c636d8a4417ccd87a925805f1d60c3c7fd0e8ac961f92c2e4baab572052"
+      },
+      "5_5_0": {
+        "name": "joshs-more-foods_5.5.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/cQOtTHFM/joshs-more-foods_5.5.0_data_pack.zip",
+        "sha512": "9a044f09c6636924f9d2fa27a1b3b0fa0f8109d89c84886c1a598383bce6035cfed61d0f445dd11a017fe82ec8a329c69336dff1b2d688f55f453c1524159482"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/cQOtTHFM/joshs-more-foods_5.5.0_data_pack.zip",
-      "sha512": "9a044f09c6636924f9d2fa27a1b3b0fa0f8109d89c84886c1a598383bce6035cfed61d0f445dd11a017fe82ec8a329c69336dff1b2d688f55f453c1524159482",
-      "name": "joshs-more-foods_5.5.0_data_pack.zip"
+    "1_21_7": {
+      "latest": {
+        "name": "joshs-more-foods_5.5.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/ZTA7fsmE/joshs-more-foods_5.5.3_data_pack.zip",
+        "sha512": "2e430f931c3da6c97b0190b53527c94c582425ca22d80b567874bebc1dd00988a083ea8a8c7edebf70c9881d54c3ff27226444f5c6a0b968662bcb3bcee60e85"
+      },
+      "5_5_3": {
+        "name": "joshs-more-foods_5.5.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/ZTA7fsmE/joshs-more-foods_5.5.3_data_pack.zip",
+        "sha512": "2e430f931c3da6c97b0190b53527c94c582425ca22d80b567874bebc1dd00988a083ea8a8c7edebf70c9881d54c3ff27226444f5c6a0b968662bcb3bcee60e85"
+      },
+      "5_5_2": {
+        "name": "joshs-more-foods_5.5.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/fBKOqUvz/joshs-more-foods_5.5.2_data_pack.zip",
+        "sha512": "12b70c532e7689aff827d1423a603fcd0d225c35aa1b66761ebbe2aee74dce41b7a93029b62bdd43db8bef38a6c18535af521eef0cc9fb3db82e41515717d5ca"
+      },
+      "5_5_1": {
+        "name": "joshs-more-foods_5.5.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/bybBGRCd/joshs-more-foods_5.5.1_data_pack.zip",
+        "sha512": "08fa0151e8b92b842d72bc6f0496121c5fdb112423648854fdc1cbc1f9dbc0b725067c636d8a4417ccd87a925805f1d60c3c7fd0e8ac961f92c2e4baab572052"
+      },
+      "5_5_0": {
+        "name": "joshs-more-foods_5.5.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/cQOtTHFM/joshs-more-foods_5.5.0_data_pack.zip",
+        "sha512": "9a044f09c6636924f9d2fa27a1b3b0fa0f8109d89c84886c1a598383bce6035cfed61d0f445dd11a017fe82ec8a329c69336dff1b2d688f55f453c1524159482"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/cQOtTHFM/joshs-more-foods_5.5.0_data_pack.zip",
-      "sha512": "9a044f09c6636924f9d2fa27a1b3b0fa0f8109d89c84886c1a598383bce6035cfed61d0f445dd11a017fe82ec8a329c69336dff1b2d688f55f453c1524159482",
-      "name": "joshs-more-foods_5.5.0_data_pack.zip"
+    "1_21_6": {
+      "latest": {
+        "name": "joshs-more-foods_5.5.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/ZTA7fsmE/joshs-more-foods_5.5.3_data_pack.zip",
+        "sha512": "2e430f931c3da6c97b0190b53527c94c582425ca22d80b567874bebc1dd00988a083ea8a8c7edebf70c9881d54c3ff27226444f5c6a0b968662bcb3bcee60e85"
+      },
+      "5_5_3": {
+        "name": "joshs-more-foods_5.5.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/ZTA7fsmE/joshs-more-foods_5.5.3_data_pack.zip",
+        "sha512": "2e430f931c3da6c97b0190b53527c94c582425ca22d80b567874bebc1dd00988a083ea8a8c7edebf70c9881d54c3ff27226444f5c6a0b968662bcb3bcee60e85"
+      },
+      "5_5_2": {
+        "name": "joshs-more-foods_5.5.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/fBKOqUvz/joshs-more-foods_5.5.2_data_pack.zip",
+        "sha512": "12b70c532e7689aff827d1423a603fcd0d225c35aa1b66761ebbe2aee74dce41b7a93029b62bdd43db8bef38a6c18535af521eef0cc9fb3db82e41515717d5ca"
+      },
+      "5_5_1": {
+        "name": "joshs-more-foods_5.5.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/bybBGRCd/joshs-more-foods_5.5.1_data_pack.zip",
+        "sha512": "08fa0151e8b92b842d72bc6f0496121c5fdb112423648854fdc1cbc1f9dbc0b725067c636d8a4417ccd87a925805f1d60c3c7fd0e8ac961f92c2e4baab572052"
+      },
+      "5_5_0": {
+        "name": "joshs-more-foods_5.5.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/cQOtTHFM/joshs-more-foods_5.5.0_data_pack.zip",
+        "sha512": "9a044f09c6636924f9d2fa27a1b3b0fa0f8109d89c84886c1a598383bce6035cfed61d0f445dd11a017fe82ec8a329c69336dff1b2d688f55f453c1524159482"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/qO076r62/joshs-more-foods_5.4.0_data_pack.zip",
-      "sha512": "6afca6b24e7a1fb382d232349a6b093b8536ca4072c349ad8dc71edb550806eec6d8c7f19e9eacf36ed67d33af995108e306bd34aa61aac9261c7da3b4f30e43",
-      "name": "joshs-more-foods_5.4.0_data_pack.zip"
+    "1_21_5": {
+      "latest": {
+        "name": "joshs-more-foods_5.4.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/b4TSUxBf/joshs-more-foods_5.4.2_data_pack.zip",
+        "sha512": "e8896a035810727aad0bfc4c765f9b93991624b539582432532941a467c64a7867260fbf8de0c4055377379d37cbfb1004401bec789140a1e5475f888c26ccf8"
+      },
+      "5_4_2": {
+        "name": "joshs-more-foods_5.4.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/b4TSUxBf/joshs-more-foods_5.4.2_data_pack.zip",
+        "sha512": "e8896a035810727aad0bfc4c765f9b93991624b539582432532941a467c64a7867260fbf8de0c4055377379d37cbfb1004401bec789140a1e5475f888c26ccf8"
+      },
+      "5_4_1": {
+        "name": "joshs-more-foods_5.4.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/V0dPj9gz/joshs-more-foods_5.4.1_data_pack.zip",
+        "sha512": "462781c072375b482f74afd66dbfb44f212dd2d5bd64a6dedd5f197f4c51b766bb347c00421704decea7b7295901b2a3ff089a9367da6d4542f17fc42698ba91"
+      },
+      "5_4_0": {
+        "name": "joshs-more-foods_5.4.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/qO076r62/joshs-more-foods_5.4.0_data_pack.zip",
+        "sha512": "6afca6b24e7a1fb382d232349a6b093b8536ca4072c349ad8dc71edb550806eec6d8c7f19e9eacf36ed67d33af995108e306bd34aa61aac9261c7da3b4f30e43"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/S9NNcebx/joshs-more-foods_5.3.0_data_pack.zip",
-      "sha512": "f8eb80e3cdc314a770ba27c515b6242e884599ee89bd7214ec5818ca04dade1d9ab945c7b74ebc8da1c8a860cf880976e5d5e0588805e7f20e11885aa08d8f14",
-      "name": "joshs-more-foods_5.3.0_data_pack.zip"
+    "1_21_4": {
+      "latest": {
+        "name": "joshs-more-foods_5.3.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/trF1cZ0b/joshs-more-foods_5.3.4_data_pack.zip",
+        "sha512": "60d4594229f6f1797d734e604bf606ab68fa34a1c9aa74f7ecdf3855badded24d5f511e134063f8277cd1b77c92ef4b5c0c0106b4a5315b9422925e764f0094f"
+      },
+      "5_3_4": {
+        "name": "joshs-more-foods_5.3.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/a0gD7W1b/joshs-more-foods_5.3.4_data_pack.zip",
+        "sha512": "60d4594229f6f1797d734e604bf606ab68fa34a1c9aa74f7ecdf3855badded24d5f511e134063f8277cd1b77c92ef4b5c0c0106b4a5315b9422925e764f0094f"
+      },
+      "5_3_3": {
+        "name": "joshs-more-foods_5.3.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/9blmqD8y/joshs-more-foods_5.3.3_data_pack.zip",
+        "sha512": "312f901f7329125b92f4583fa2be2f8acba7ca516d078f6428294f1b8b06e8d8e5a33fc64a10be6c200b168a578ea48cae2cfb6f5b65c73e860d4db1f841edea"
+      },
+      "5_3_2": {
+        "name": "joshs-more-foods_5.3.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/DNvTJB8N/joshs-more-foods_5.3.2_data_pack.zip",
+        "sha512": "8e0d4fe9ea8cf7f7e28399021dea5d82aeb1f733c04ee3045bd208032fffd34f3419a5db3c36d3ecf89f78d76f0ac702a116a385e042518e12d93e92061ea39e"
+      },
+      "5_3_1": {
+        "name": "joshs-more-foods_5.3.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/rucrG7NM/joshs-more-foods_5.3.1_data_pack.zip",
+        "sha512": "34b2a748cdcc9c6e5b1f78c614315dd6673b152669905d1b62116729e0a23d823b2c51dee4832b1a6bde9edb281f4bb7c313f3d4c6ea11ce8cba73d3cdfdd0b7"
+      },
+      "5_3_0": {
+        "name": "joshs-more-foods_5.3.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/S9NNcebx/joshs-more-foods_5.3.0_data_pack.zip",
+        "sha512": "f8eb80e3cdc314a770ba27c515b6242e884599ee89bd7214ec5818ca04dade1d9ab945c7b74ebc8da1c8a860cf880976e5d5e0588805e7f20e11885aa08d8f14"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/JgPRYl1G/joshs-more-foods_5.2.0_data_pack.zip",
-      "sha512": "6805774e9fc591652ab5d07a7f37b2cb8f6ce64ee1046a25dd9cca820d1cb1a45b8f55e638c578d170c143a2bc66ec8578db46c7c63de117db8df7725b546473",
-      "name": "joshs-more-foods_5.2.0_data_pack.zip"
+    "1_21_3": {
+      "latest": {
+        "name": "joshs-more-foods_5.2.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/AdaQRP2z/joshs-more-foods_5.2.4_data_pack.zip",
+        "sha512": "59c77c77489624edf29ce26f5adb15818d0d3ba225eccf025707ebe8223491c050ddf6a72962d2f52b0e8f8b667cf1eef3a07e74f5106e555f84654b2713d002"
+      },
+      "5_2_4": {
+        "name": "joshs-more-foods_5.2.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/AdaQRP2z/joshs-more-foods_5.2.4_data_pack.zip",
+        "sha512": "59c77c77489624edf29ce26f5adb15818d0d3ba225eccf025707ebe8223491c050ddf6a72962d2f52b0e8f8b667cf1eef3a07e74f5106e555f84654b2713d002"
+      },
+      "5_2_3": {
+        "name": "joshs-more-foods_5.2.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/VneDdPYq/joshs-more-foods_5.2.3_data_pack.zip",
+        "sha512": "cd357275dbe1f0d0002acd19eab4b6ce14d79618a5906d10d9a64c40f59ee0fd16210d4748daf8f1d69f654251a6535a6631f5273a0923c844539af5c574bb7a"
+      },
+      "5_2_2": {
+        "name": "joshs-more-foods_5.2.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/5VTBCC5b/joshs-more-foods_5.2.2_data_pack.zip",
+        "sha512": "a4b8bc468559cd15246f3bb0c9d75ddac1d1a54436e0d086073672f472fe87d4a5a01ee16eb717dce45c7b9414c177291926ba4f397999bd4c3c584f078fd6ae"
+      },
+      "5_2_1": {
+        "name": "joshs-more-foods_5.2.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/WK3SQcXO/joshs-more-foods_5.2.1_data_pack.zip",
+        "sha512": "6653526e70b1e7af0444595c71946e4bdd06f7ae04268686d30026381ef25fe20ef3e0856ccd2e72ad28cf14a8064338960ac19b8932f1d7716b2cdb98e97365"
+      },
+      "5_2_0": {
+        "name": "joshs-more-foods_5.2.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/JgPRYl1G/joshs-more-foods_5.2.0_data_pack.zip",
+        "sha512": "6805774e9fc591652ab5d07a7f37b2cb8f6ce64ee1046a25dd9cca820d1cb1a45b8f55e638c578d170c143a2bc66ec8578db46c7c63de117db8df7725b546473"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/JgPRYl1G/joshs-more-foods_5.2.0_data_pack.zip",
-      "sha512": "6805774e9fc591652ab5d07a7f37b2cb8f6ce64ee1046a25dd9cca820d1cb1a45b8f55e638c578d170c143a2bc66ec8578db46c7c63de117db8df7725b546473",
-      "name": "joshs-more-foods_5.2.0_data_pack.zip"
+    "1_21_2-pre1": {
+      "latest": {
+        "name": "joshs-more-foods_5.2.0-pre1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/jdg3IZez/joshs-more-foods_5.2.0-pre1_data_pack.zip",
+        "sha512": "47eafb0b91e4366935ff5d28cb45f95b9761aa1aba1107f14567acb1ce7ed6ac8afa119783c6ae599b7004ec817e7743fb5772f6d0abed475a44b0c59d4d5ff6"
+      },
+      "5_2_0-pre1": {
+        "name": "joshs-more-foods_5.2.0-pre1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/jdg3IZez/joshs-more-foods_5.2.0-pre1_data_pack.zip",
+        "sha512": "47eafb0b91e4366935ff5d28cb45f95b9761aa1aba1107f14567acb1ce7ed6ac8afa119783c6ae599b7004ec817e7743fb5772f6d0abed475a44b0c59d4d5ff6"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/nmFwWEE3/joshs-more-foods_v5.1.5_data_pack.zip",
-      "sha512": "e32b7b7f7815fa9a4c991e8cf53ab31ed17125f43acd2e8e7094670633ef5214909d00e059131d6c13857e8bd0c25eca124504821bdae32f75c2c2d3c140df66",
-      "name": "joshs-more-foods_v5.1.5_data_pack.zip"
+    "1_21_2": {
+      "latest": {
+        "name": "joshs-more-foods_5.2.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/AdaQRP2z/joshs-more-foods_5.2.4_data_pack.zip",
+        "sha512": "59c77c77489624edf29ce26f5adb15818d0d3ba225eccf025707ebe8223491c050ddf6a72962d2f52b0e8f8b667cf1eef3a07e74f5106e555f84654b2713d002"
+      },
+      "5_2_4": {
+        "name": "joshs-more-foods_5.2.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/AdaQRP2z/joshs-more-foods_5.2.4_data_pack.zip",
+        "sha512": "59c77c77489624edf29ce26f5adb15818d0d3ba225eccf025707ebe8223491c050ddf6a72962d2f52b0e8f8b667cf1eef3a07e74f5106e555f84654b2713d002"
+      },
+      "5_2_3": {
+        "name": "joshs-more-foods_5.2.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/VneDdPYq/joshs-more-foods_5.2.3_data_pack.zip",
+        "sha512": "cd357275dbe1f0d0002acd19eab4b6ce14d79618a5906d10d9a64c40f59ee0fd16210d4748daf8f1d69f654251a6535a6631f5273a0923c844539af5c574bb7a"
+      },
+      "5_2_2": {
+        "name": "joshs-more-foods_5.2.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/5VTBCC5b/joshs-more-foods_5.2.2_data_pack.zip",
+        "sha512": "a4b8bc468559cd15246f3bb0c9d75ddac1d1a54436e0d086073672f472fe87d4a5a01ee16eb717dce45c7b9414c177291926ba4f397999bd4c3c584f078fd6ae"
+      },
+      "5_2_1": {
+        "name": "joshs-more-foods_5.2.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/WK3SQcXO/joshs-more-foods_5.2.1_data_pack.zip",
+        "sha512": "6653526e70b1e7af0444595c71946e4bdd06f7ae04268686d30026381ef25fe20ef3e0856ccd2e72ad28cf14a8064338960ac19b8932f1d7716b2cdb98e97365"
+      },
+      "5_2_0": {
+        "name": "joshs-more-foods_5.2.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/JgPRYl1G/joshs-more-foods_5.2.0_data_pack.zip",
+        "sha512": "6805774e9fc591652ab5d07a7f37b2cb8f6ce64ee1046a25dd9cca820d1cb1a45b8f55e638c578d170c143a2bc66ec8578db46c7c63de117db8df7725b546473"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/NIicjb10/joshs-more-foods_v5.1.0_data_pack.zip",
-      "sha512": "85f08f261d9100aa23c771021af0d0dfeba7998705d398778d754443ac20b27118706b47677371a6b5297277dcc890ba3511884d5f81ce6280f03426452854cd",
-      "name": "joshs-more-foods_v5.1.0_data_pack.zip"
+    "1_21_1": {
+      "latest": {
+        "name": "joshs-more-foods_v5.1.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/zIEV3Nxg/joshs-more-foods_v5.1.9_data_pack.zip",
+        "sha512": "cbc8bd9fe9659480db4b2bfa416bcedfda331322b652f13845c9799d5a424881fdeb83e81eb39d086c6cf8f867db4698447b8701562a62d7fcb6ed7c902a38b9"
+      },
+      "5_1_9": {
+        "name": "joshs-more-foods_v5.1.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/zIEV3Nxg/joshs-more-foods_v5.1.9_data_pack.zip",
+        "sha512": "cbc8bd9fe9659480db4b2bfa416bcedfda331322b652f13845c9799d5a424881fdeb83e81eb39d086c6cf8f867db4698447b8701562a62d7fcb6ed7c902a38b9"
+      },
+      "5_1_8": {
+        "name": "joshs-more-foods_v5.1.8_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/lD1S53Pf/joshs-more-foods_v5.1.8_data_pack.zip",
+        "sha512": "4ced6c8b80ad71a477c9092d09e189c8993944ee1f81cf0be851ea2296a4487e075eec46f2edebf3d535546d319f12d0464becbc271a46fddd3e6b6731c7b0c9"
+      },
+      "5_1_7": {
+        "name": "joshs-more-foods_v5.1.7_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/MSXD15B1/joshs-more-foods_v5.1.7_data_pack.zip",
+        "sha512": "7aac124c1b63bbed4c8a56d619660f12130ac100ecbb36b906acbc1d7edd0b6cc0fd2ebcbbc615311726556be34da34013af823920c4c66b40d492b4080fc0e3"
+      },
+      "5_1_6": {
+        "name": "joshs-more-foods_v5.1.6_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/pY0IYXX9/joshs-more-foods_v5.1.6_data_pack.zip",
+        "sha512": "c7aa31f155105fd89568dabe708825e9386d185b5fd9f8e456edfcb6d06f12c2f5bcc76df3b240051f777e6e5a949b48fbea546489fd9eab6910105bee25a714"
+      },
+      "5_1_5": {
+        "name": "joshs-more-foods_v5.1.5_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/nmFwWEE3/joshs-more-foods_v5.1.5_data_pack.zip",
+        "sha512": "e32b7b7f7815fa9a4c991e8cf53ab31ed17125f43acd2e8e7094670633ef5214909d00e059131d6c13857e8bd0c25eca124504821bdae32f75c2c2d3c140df66"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/HBAA3rnp/joshs-more-foods_v5.0.0_data_pack.zip",
-      "sha512": "5ca577d6f57fde683287933f1f6842d0df5ede1bbcaad793b9ae2fd2ea3a56e34243daa25dc2a5f8cf052b15ee8b24be47fe2d455eebc0bfadce9332e0b06b29",
-      "name": "joshs-more-foods_v5.0.0_data_pack.zip"
+    "1_21": {
+      "latest": {
+        "name": "joshs-more-foods_v5.1.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/zIEV3Nxg/joshs-more-foods_v5.1.9_data_pack.zip",
+        "sha512": "cbc8bd9fe9659480db4b2bfa416bcedfda331322b652f13845c9799d5a424881fdeb83e81eb39d086c6cf8f867db4698447b8701562a62d7fcb6ed7c902a38b9"
+      },
+      "5_1_9": {
+        "name": "joshs-more-foods_v5.1.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/zIEV3Nxg/joshs-more-foods_v5.1.9_data_pack.zip",
+        "sha512": "cbc8bd9fe9659480db4b2bfa416bcedfda331322b652f13845c9799d5a424881fdeb83e81eb39d086c6cf8f867db4698447b8701562a62d7fcb6ed7c902a38b9"
+      },
+      "5_1_8": {
+        "name": "joshs-more-foods_v5.1.8_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/lD1S53Pf/joshs-more-foods_v5.1.8_data_pack.zip",
+        "sha512": "4ced6c8b80ad71a477c9092d09e189c8993944ee1f81cf0be851ea2296a4487e075eec46f2edebf3d535546d319f12d0464becbc271a46fddd3e6b6731c7b0c9"
+      },
+      "5_1_7": {
+        "name": "joshs-more-foods_v5.1.7_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/MSXD15B1/joshs-more-foods_v5.1.7_data_pack.zip",
+        "sha512": "7aac124c1b63bbed4c8a56d619660f12130ac100ecbb36b906acbc1d7edd0b6cc0fd2ebcbbc615311726556be34da34013af823920c4c66b40d492b4080fc0e3"
+      },
+      "5_1_6": {
+        "name": "joshs-more-foods_v5.1.6_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/pY0IYXX9/joshs-more-foods_v5.1.6_data_pack.zip",
+        "sha512": "c7aa31f155105fd89568dabe708825e9386d185b5fd9f8e456edfcb6d06f12c2f5bcc76df3b240051f777e6e5a949b48fbea546489fd9eab6910105bee25a714"
+      },
+      "5_1_5": {
+        "name": "joshs-more-foods_v5.1.5_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/nmFwWEE3/joshs-more-foods_v5.1.5_data_pack.zip",
+        "sha512": "e32b7b7f7815fa9a4c991e8cf53ab31ed17125f43acd2e8e7094670633ef5214909d00e059131d6c13857e8bd0c25eca124504821bdae32f75c2c2d3c140df66"
+      },
+      "5_1_4": {
+        "name": "joshs-more-foods_v5.1.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/yT1nxaWD/joshs-more-foods_v5.1.4_data_pack.zip",
+        "sha512": "e4be99b85a922bfadf95b2d40f16e2175b48a2559ed6b64665f6b4a154a2a335a987194a88d622dab017ee185050c8e8bb3d2d524eb19352c616fa14ea2e467d"
+      },
+      "5_1_3": {
+        "name": "joshs-more-foods_v5.1.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/YQrhjTHH/joshs-more-foods_v5.1.3_data_pack.zip",
+        "sha512": "7b7b8bce6b56779e929ab8ed0b410764a6110cb8605a7b1760b94d77cf29997265470b0486be5d170aa7610b1655d4a6144946c8888d68e74ab245834879de7c"
+      },
+      "5_1_2": {
+        "name": "joshs-more-foods_v5.1.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hBA2CbN6/joshs-more-foods_v5.1.2_data_pack.zip",
+        "sha512": "d9b0bf8a1a854f1701e1eae20e50cbc71d87423a6e657303acccca277077ee4d2a31276013814194cfdef07f41af366800ae2ca856f4e9d385e21fdd7f814926"
+      },
+      "5_1_1": {
+        "name": "joshs-more-foods_v5.1.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/jU2nXLjt/joshs-more-foods_v5.1.1_data_pack.zip",
+        "sha512": "e4c97fcf239cf54c07bb1cbdc5d5f356f828618ea28b6c44db00610ae6a733a35edf8216f3c2f7420d2b722efd2d3978cf660e7de748140dd809415245a758b4"
+      },
+      "5_1_0": {
+        "name": "joshs-more-foods_v5.1.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/NIicjb10/joshs-more-foods_v5.1.0_data_pack.zip",
+        "sha512": "85f08f261d9100aa23c771021af0d0dfeba7998705d398778d754443ac20b27118706b47677371a6b5297277dcc890ba3511884d5f81ce6280f03426452854cd"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/HBAA3rnp/joshs-more-foods_v5.0.0_data_pack.zip",
-      "sha512": "5ca577d6f57fde683287933f1f6842d0df5ede1bbcaad793b9ae2fd2ea3a56e34243daa25dc2a5f8cf052b15ee8b24be47fe2d455eebc0bfadce9332e0b06b29",
-      "name": "joshs-more-foods_v5.0.0_data_pack.zip"
+    "1_20_6": {
+      "latest": {
+        "name": "joshs-more-foods_v5.0.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/NADZ5W6W/joshs-more-foods_v5.0.9_data_pack.zip",
+        "sha512": "4aca79f35a95381fe822946bfd09670055b509eb14180b2fb0c7d0b2a454524868350f5778ac4ac7cbaf7cdeb1e4d161b85891c544e7f539c740f5fde72032d8"
+      },
+      "5_0_9": {
+        "name": "joshs-more-foods_v5.0.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/NADZ5W6W/joshs-more-foods_v5.0.9_data_pack.zip",
+        "sha512": "4aca79f35a95381fe822946bfd09670055b509eb14180b2fb0c7d0b2a454524868350f5778ac4ac7cbaf7cdeb1e4d161b85891c544e7f539c740f5fde72032d8"
+      },
+      "5_0_8": {
+        "name": "joshs-more-foods_v5.0.8_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/f6ol9oXR/joshs-more-foods_v5.0.8_data_pack.zip",
+        "sha512": "c0d47b4843a44d42c65fa63e74a807a94a9ac16468a34bcae0f16d2d0c54c96c661e72df966314e2b122160d6b9fc9361ea1b7159575b645c3c38cffc547f398"
+      },
+      "5_0_7": {
+        "name": "joshs-more-foods_v5.0.7_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/71Nig0Mi/joshs-more-foods_v5.0.7_data_pack.zip",
+        "sha512": "b98c2b7519f664bb6e65d4e5472fe1f228833f13a94d71f381065887add1dbcaecb07068a9c5615bc3ca1dda4f3071fbcc0020c3d426af6e8c9ef0b6fbc860d5"
+      },
+      "5_0_6": {
+        "name": "joshs-more-foods_v5.0.6_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/Q7wTx05b/joshs-more-foods_v5.0.6_data_pack.zip",
+        "sha512": "9703ad67f1431b26e1b573c975f08194ced1c654b6c46a970a6530cdfdf5f30ea2edbce26bcc54f88063b0e9087651a2c5a019e650702f841ace33dc66dd48a1"
+      },
+      "5_0_5": {
+        "name": "joshs-more-foods_v5.0.5_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/aFRJBiCX/joshs-more-foods_v5.0.5_data_pack.zip",
+        "sha512": "1a1848f3e34f1f58fdf8af22a487563f94230a16361fa73b7545d7fa8431ce238f825bc2f88a23f7ad28ed54b561cb91c4260d140c44f6b8246a37e54ac6ca3d"
+      },
+      "5_0_4": {
+        "name": "joshs-more-foods_v5.0.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/zTq5Nhdd/joshs-more-foods_v5.0.4_data_pack.zip",
+        "sha512": "62d085870f382e47d8039c1fad8cf8ed582f11b05a3426d6412c0b71629f5e069aea10e677bf4bc4e15a8ec34a00be559ae2897cf0bf71339d08c2a0cbb73079"
+      },
+      "5_0_3": {
+        "name": "joshs-more-foods_v5.0.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/W6yAg1Bx/joshs-more-foods_v5.0.3_data_pack.zip",
+        "sha512": "8c54b53cb8ebbedd47c2b5a9520003e95290113922e1110a25d1ec096009ea8016b8b54b981580cb9773a093e19bac285d9d5d25b84bff0646d06789cc968308"
+      },
+      "5_0_2": {
+        "name": "joshs-more-foods_v5.0.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u1m89tq1/joshs-more-foods_v5.0.2_data_pack.zip",
+        "sha512": "cf3e0bd9c3760c089d4bad878e72ced906d237a74402cb79d9b1f1c67b837bed71ee2c3ca14aebb50d2cde9790d440142f63aa7d7444a870c4141ed2ffa43cbc"
+      },
+      "5_0_1": {
+        "name": "joshs-more-foods_v5.0.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/vcD7MDjc/joshs-more-foods_v5.0.1_data_pack.zip",
+        "sha512": "a3b4e50c9c44fcd27aedb270dd5d4ec19ac74cf6ff1cc9e57c909f36812e480d493152ddb72efd690f895a30e2a5db6bcd917d55091288efe6b70c3190f3a1f5"
+      },
+      "5_0_0": {
+        "name": "joshs-more-foods_v5.0.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/HBAA3rnp/joshs-more-foods_v5.0.0_data_pack.zip",
+        "sha512": "5ca577d6f57fde683287933f1f6842d0df5ede1bbcaad793b9ae2fd2ea3a56e34243daa25dc2a5f8cf052b15ee8b24be47fe2d455eebc0bfadce9332e0b06b29"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/7T8YpZxB/joshs-more-foods-datapack-v4.1.5.zip",
-      "sha512": "11b160cdb9ea2a79629d924efca24f2f9331333bb882df5078d490f815863c1d75e4a5cf1acce5c0fbfbaad6b0c297773af97267ffa1504f91a18ccf1f162fd8",
-      "name": "joshs-more-foods-datapack-v4.1.5.zip"
+    "1_20_5": {
+      "latest": {
+        "name": "joshs-more-foods_v5.0.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/NADZ5W6W/joshs-more-foods_v5.0.9_data_pack.zip",
+        "sha512": "4aca79f35a95381fe822946bfd09670055b509eb14180b2fb0c7d0b2a454524868350f5778ac4ac7cbaf7cdeb1e4d161b85891c544e7f539c740f5fde72032d8"
+      },
+      "5_0_9": {
+        "name": "joshs-more-foods_v5.0.9_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/NADZ5W6W/joshs-more-foods_v5.0.9_data_pack.zip",
+        "sha512": "4aca79f35a95381fe822946bfd09670055b509eb14180b2fb0c7d0b2a454524868350f5778ac4ac7cbaf7cdeb1e4d161b85891c544e7f539c740f5fde72032d8"
+      },
+      "5_0_8": {
+        "name": "joshs-more-foods_v5.0.8_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/f6ol9oXR/joshs-more-foods_v5.0.8_data_pack.zip",
+        "sha512": "c0d47b4843a44d42c65fa63e74a807a94a9ac16468a34bcae0f16d2d0c54c96c661e72df966314e2b122160d6b9fc9361ea1b7159575b645c3c38cffc547f398"
+      },
+      "5_0_7": {
+        "name": "joshs-more-foods_v5.0.7_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/71Nig0Mi/joshs-more-foods_v5.0.7_data_pack.zip",
+        "sha512": "b98c2b7519f664bb6e65d4e5472fe1f228833f13a94d71f381065887add1dbcaecb07068a9c5615bc3ca1dda4f3071fbcc0020c3d426af6e8c9ef0b6fbc860d5"
+      },
+      "5_0_6": {
+        "name": "joshs-more-foods_v5.0.6_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/Q7wTx05b/joshs-more-foods_v5.0.6_data_pack.zip",
+        "sha512": "9703ad67f1431b26e1b573c975f08194ced1c654b6c46a970a6530cdfdf5f30ea2edbce26bcc54f88063b0e9087651a2c5a019e650702f841ace33dc66dd48a1"
+      },
+      "5_0_5": {
+        "name": "joshs-more-foods_v5.0.5_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/aFRJBiCX/joshs-more-foods_v5.0.5_data_pack.zip",
+        "sha512": "1a1848f3e34f1f58fdf8af22a487563f94230a16361fa73b7545d7fa8431ce238f825bc2f88a23f7ad28ed54b561cb91c4260d140c44f6b8246a37e54ac6ca3d"
+      },
+      "5_0_4": {
+        "name": "joshs-more-foods_v5.0.4_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/zTq5Nhdd/joshs-more-foods_v5.0.4_data_pack.zip",
+        "sha512": "62d085870f382e47d8039c1fad8cf8ed582f11b05a3426d6412c0b71629f5e069aea10e677bf4bc4e15a8ec34a00be559ae2897cf0bf71339d08c2a0cbb73079"
+      },
+      "5_0_3": {
+        "name": "joshs-more-foods_v5.0.3_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/W6yAg1Bx/joshs-more-foods_v5.0.3_data_pack.zip",
+        "sha512": "8c54b53cb8ebbedd47c2b5a9520003e95290113922e1110a25d1ec096009ea8016b8b54b981580cb9773a093e19bac285d9d5d25b84bff0646d06789cc968308"
+      },
+      "5_0_2": {
+        "name": "joshs-more-foods_v5.0.2_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u1m89tq1/joshs-more-foods_v5.0.2_data_pack.zip",
+        "sha512": "cf3e0bd9c3760c089d4bad878e72ced906d237a74402cb79d9b1f1c67b837bed71ee2c3ca14aebb50d2cde9790d440142f63aa7d7444a870c4141ed2ffa43cbc"
+      },
+      "5_0_1": {
+        "name": "joshs-more-foods_v5.0.1_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/vcD7MDjc/joshs-more-foods_v5.0.1_data_pack.zip",
+        "sha512": "a3b4e50c9c44fcd27aedb270dd5d4ec19ac74cf6ff1cc9e57c909f36812e480d493152ddb72efd690f895a30e2a5db6bcd917d55091288efe6b70c3190f3a1f5"
+      },
+      "5_0_0": {
+        "name": "joshs-more-foods_v5.0.0_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/HBAA3rnp/joshs-more-foods_v5.0.0_data_pack.zip",
+        "sha512": "5ca577d6f57fde683287933f1f6842d0df5ede1bbcaad793b9ae2fd2ea3a56e34243daa25dc2a5f8cf052b15ee8b24be47fe2d455eebc0bfadce9332e0b06b29"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/7T8YpZxB/joshs-more-foods-datapack-v4.1.5.zip",
-      "sha512": "11b160cdb9ea2a79629d924efca24f2f9331333bb882df5078d490f815863c1d75e4a5cf1acce5c0fbfbaad6b0c297773af97267ffa1504f91a18ccf1f162fd8",
-      "name": "joshs-more-foods-datapack-v4.1.5.zip"
+    "1_20_4": {
+      "latest": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_11": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_10": {
+        "name": "joshs-more-foods_v4.1.10_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/25HKsDVR/joshs-more-foods_v4.1.10_data_pack.zip",
+        "sha512": "3250afdf1fc67f00623015018df022b8d1fa00f5366dfd6541a534050c0fdc50f1963b2cf5967859aadb747ba2a578bbb1d2bc2ead525af7e2f8f260305ee38e"
+      },
+      "4_1_9": {
+        "name": "joshs-more-foods-datapack-v4.1.9.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/R19E5EwI/joshs-more-foods-datapack-v4.1.9.zip",
+        "sha512": "5d91d55030b7c43496bfdc7709e38fccd8601794531abba12cf6202b5d87dc59c985a5b851f2d7afa8afe05cc7c1caeaae477794871a55a5a209e1a8cca3429f"
+      },
+      "4_1_8": {
+        "name": "joshs-more-foods-datapack-v4.1.8.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/mjmurpvU/joshs-more-foods-datapack-v4.1.8.zip",
+        "sha512": "46f9cfe0f3d4228159773c8ce842ebb69838ebc0d3bc508a525b867b91be3a66d6712e7ee1e4726b7a7c37cb549a7b0ebdc50f1b96d395496f0d06a729ffbb5e"
+      },
+      "4_1_7": {
+        "name": "joshs-more-foods-datapack-v4.1.7.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/pByP2N1M/joshs-more-foods-datapack-v4.1.7.zip",
+        "sha512": "3de71058a4e445456c338ad4b664c0b347292241e3a4fa81d22ac87460d0f7d7c63f7d249a0fd4bc3f3ef3932963b1008c94b18f215fa86b7e549d10570d1f6c"
+      },
+      "4_1_6": {
+        "name": "joshs-more-foods-datapack-v4.1.6.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/oICen8yz/joshs-more-foods-datapack-v4.1.6.zip",
+        "sha512": "e161187199ceff5e0fb921f99244ea3fd01f6e6311cd867dade54cd1ed483aaa6ffd547ce0f876d22515cb673e512d275ef8c727246e5b8fa0fd1fd5043bc0b4"
+      },
+      "4_1_5": {
+        "name": "joshs-more-foods-datapack-v4.1.5.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/7T8YpZxB/joshs-more-foods-datapack-v4.1.5.zip",
+        "sha512": "11b160cdb9ea2a79629d924efca24f2f9331333bb882df5078d490f815863c1d75e4a5cf1acce5c0fbfbaad6b0c297773af97267ffa1504f91a18ccf1f162fd8"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u9FwsQyR/joshs-more-foods-datapack-v4.0.0.zip",
-      "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c",
-      "name": "joshs-more-foods-datapack-v4.0.0.zip"
+    "1_20_3": {
+      "latest": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_11": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_10": {
+        "name": "joshs-more-foods_v4.1.10_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/25HKsDVR/joshs-more-foods_v4.1.10_data_pack.zip",
+        "sha512": "3250afdf1fc67f00623015018df022b8d1fa00f5366dfd6541a534050c0fdc50f1963b2cf5967859aadb747ba2a578bbb1d2bc2ead525af7e2f8f260305ee38e"
+      },
+      "4_1_9": {
+        "name": "joshs-more-foods-datapack-v4.1.9.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/R19E5EwI/joshs-more-foods-datapack-v4.1.9.zip",
+        "sha512": "5d91d55030b7c43496bfdc7709e38fccd8601794531abba12cf6202b5d87dc59c985a5b851f2d7afa8afe05cc7c1caeaae477794871a55a5a209e1a8cca3429f"
+      },
+      "4_1_8": {
+        "name": "joshs-more-foods-datapack-v4.1.8.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/mjmurpvU/joshs-more-foods-datapack-v4.1.8.zip",
+        "sha512": "46f9cfe0f3d4228159773c8ce842ebb69838ebc0d3bc508a525b867b91be3a66d6712e7ee1e4726b7a7c37cb549a7b0ebdc50f1b96d395496f0d06a729ffbb5e"
+      },
+      "4_1_7": {
+        "name": "joshs-more-foods-datapack-v4.1.7.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/pByP2N1M/joshs-more-foods-datapack-v4.1.7.zip",
+        "sha512": "3de71058a4e445456c338ad4b664c0b347292241e3a4fa81d22ac87460d0f7d7c63f7d249a0fd4bc3f3ef3932963b1008c94b18f215fa86b7e549d10570d1f6c"
+      },
+      "4_1_6": {
+        "name": "joshs-more-foods-datapack-v4.1.6.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/oICen8yz/joshs-more-foods-datapack-v4.1.6.zip",
+        "sha512": "e161187199ceff5e0fb921f99244ea3fd01f6e6311cd867dade54cd1ed483aaa6ffd547ce0f876d22515cb673e512d275ef8c727246e5b8fa0fd1fd5043bc0b4"
+      },
+      "4_1_5": {
+        "name": "joshs-more-foods-datapack-v4.1.5.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/7T8YpZxB/joshs-more-foods-datapack-v4.1.5.zip",
+        "sha512": "11b160cdb9ea2a79629d924efca24f2f9331333bb882df5078d490f815863c1d75e4a5cf1acce5c0fbfbaad6b0c297773af97267ffa1504f91a18ccf1f162fd8"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u9FwsQyR/joshs-more-foods-datapack-v4.0.0.zip",
-      "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c",
-      "name": "joshs-more-foods-datapack-v4.0.0.zip"
+    "1_20_2": {
+      "latest": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_11": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_10": {
+        "name": "joshs-more-foods_v4.1.10_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/25HKsDVR/joshs-more-foods_v4.1.10_data_pack.zip",
+        "sha512": "3250afdf1fc67f00623015018df022b8d1fa00f5366dfd6541a534050c0fdc50f1963b2cf5967859aadb747ba2a578bbb1d2bc2ead525af7e2f8f260305ee38e"
+      },
+      "4_1_9": {
+        "name": "joshs-more-foods-datapack-v4.1.9.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/R19E5EwI/joshs-more-foods-datapack-v4.1.9.zip",
+        "sha512": "5d91d55030b7c43496bfdc7709e38fccd8601794531abba12cf6202b5d87dc59c985a5b851f2d7afa8afe05cc7c1caeaae477794871a55a5a209e1a8cca3429f"
+      },
+      "4_1_8": {
+        "name": "joshs-more-foods-datapack-v4.1.8.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/mjmurpvU/joshs-more-foods-datapack-v4.1.8.zip",
+        "sha512": "46f9cfe0f3d4228159773c8ce842ebb69838ebc0d3bc508a525b867b91be3a66d6712e7ee1e4726b7a7c37cb549a7b0ebdc50f1b96d395496f0d06a729ffbb5e"
+      },
+      "4_1_7": {
+        "name": "joshs-more-foods-datapack-v4.1.7.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/pByP2N1M/joshs-more-foods-datapack-v4.1.7.zip",
+        "sha512": "3de71058a4e445456c338ad4b664c0b347292241e3a4fa81d22ac87460d0f7d7c63f7d249a0fd4bc3f3ef3932963b1008c94b18f215fa86b7e549d10570d1f6c"
+      },
+      "4_1_6": {
+        "name": "joshs-more-foods-datapack-v4.1.6.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/oICen8yz/joshs-more-foods-datapack-v4.1.6.zip",
+        "sha512": "e161187199ceff5e0fb921f99244ea3fd01f6e6311cd867dade54cd1ed483aaa6ffd547ce0f876d22515cb673e512d275ef8c727246e5b8fa0fd1fd5043bc0b4"
+      },
+      "4_1_5": {
+        "name": "joshs-more-foods-datapack-v4.1.5.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/7T8YpZxB/joshs-more-foods-datapack-v4.1.5.zip",
+        "sha512": "11b160cdb9ea2a79629d924efca24f2f9331333bb882df5078d490f815863c1d75e4a5cf1acce5c0fbfbaad6b0c297773af97267ffa1504f91a18ccf1f162fd8"
+      },
+      "4_1_4": {
+        "name": "joshs-more-foods-datapack-v4.1.4.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/xUxxCHCO/joshs-more-foods-datapack-v4.1.4.zip",
+        "sha512": "ebbb05cbcdb5507f61bd24a643a65cc31b71c6cbb0e75f1abbec674f4aa1c559a28fd18b53d487a1bf91cf1b3ad4b1e3140e4638e43e34905c1893f361061465"
+      },
+      "4_1_3": {
+        "name": "joshs-more-foods-datapack-v4.1.3.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/Ktq849EE/joshs-more-foods-datapack-v4.1.3.zip",
+        "sha512": "fa39e45a495111f1a1d5cb8aa75106c6c3b0bed81961bac1a4a848ad6290a241c02a548150202ce51b33596c92376e91b978edaf0e51f7a94b2fcb1398a9ee92"
+      },
+      "4_1_2": {
+        "name": "joshs-more-foods-datapack-v4.1.2.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/TBKK2zIP/joshs-more-foods-datapack-v4.1.2.zip",
+        "sha512": "467a27ba38c91e28de0de5259937432caa30e20b64502167426533858bab84c8275a4016ed105e09cef9a938e80cbf501c6e468cd6228bfaa2c2047595a63762"
+      },
+      "4_1_1": {
+        "name": "joshs-more-foods-datapack-v4.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/E1Y0K40f/joshs-more-foods-datapack-v4.1.0.zip",
+        "sha512": "8bf9c3cf4deb2efdef994e78a235f4b8697dde6954c721f9ec93cbc7d75b8fe5c18826e353251b0b83635930715613298dea8a1931ea32ed6402639f097fbd2a"
+      },
+      "4_1_0": {
+        "name": "joshs-more-foods-datapack-v4.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/MphPSmWH/joshs-more-foods-datapack-v4.1.0.zip",
+        "sha512": "8bf9c3cf4deb2efdef994e78a235f4b8697dde6954c721f9ec93cbc7d75b8fe5c18826e353251b0b83635930715613298dea8a1931ea32ed6402639f097fbd2a"
+      },
+      "4_0_3": {
+        "name": "joshs-more-foods-datapack-v4.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/gcDX3uoy/joshs-more-foods-datapack-v4.0.3.zip",
+        "sha512": "6b9220a6957530504487cf5519d9eb49e783aa6782f2e634c18b3df0ee0f8714120644593ed6dd00f68179be901378e2b9d15c4e25b6d31555e8de9d70bcf10b"
+      },
+      "4_0_2": {
+        "name": "joshs-more-foods-datapack-v4.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/e0cNNfui/joshs-more-foods-datapack-v4.0.2.zip",
+        "sha512": "43af2ff272bddcbab38de19a52fe247ed47a18794c691b0b5411f57177d000665f9d2c90025bcfc84a4825f4815f256aa0b473a27a2e5c2fec9a17122d564b64"
+      },
+      "4_0_1": {
+        "name": "joshs-more-foods-datapack-v4.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/kFaRHCgH/joshs-more-foods-datapack-v4.0.1.zip",
+        "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c"
+      },
+      "4_0_0": {
+        "name": "joshs-more-foods-datapack-v4.0.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u9FwsQyR/joshs-more-foods-datapack-v4.0.0.zip",
+        "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u9FwsQyR/joshs-more-foods-datapack-v4.0.0.zip",
-      "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c",
-      "name": "joshs-more-foods-datapack-v4.0.0.zip"
+    "1_20_1": {
+      "latest": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_11": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_10": {
+        "name": "joshs-more-foods_v4.1.10_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/25HKsDVR/joshs-more-foods_v4.1.10_data_pack.zip",
+        "sha512": "3250afdf1fc67f00623015018df022b8d1fa00f5366dfd6541a534050c0fdc50f1963b2cf5967859aadb747ba2a578bbb1d2bc2ead525af7e2f8f260305ee38e"
+      },
+      "4_1_9": {
+        "name": "joshs-more-foods-datapack-v4.1.9.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/R19E5EwI/joshs-more-foods-datapack-v4.1.9.zip",
+        "sha512": "5d91d55030b7c43496bfdc7709e38fccd8601794531abba12cf6202b5d87dc59c985a5b851f2d7afa8afe05cc7c1caeaae477794871a55a5a209e1a8cca3429f"
+      },
+      "4_1_8": {
+        "name": "joshs-more-foods-datapack-v4.1.8.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/mjmurpvU/joshs-more-foods-datapack-v4.1.8.zip",
+        "sha512": "46f9cfe0f3d4228159773c8ce842ebb69838ebc0d3bc508a525b867b91be3a66d6712e7ee1e4726b7a7c37cb549a7b0ebdc50f1b96d395496f0d06a729ffbb5e"
+      },
+      "4_1_7": {
+        "name": "joshs-more-foods-datapack-v4.1.7.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/pByP2N1M/joshs-more-foods-datapack-v4.1.7.zip",
+        "sha512": "3de71058a4e445456c338ad4b664c0b347292241e3a4fa81d22ac87460d0f7d7c63f7d249a0fd4bc3f3ef3932963b1008c94b18f215fa86b7e549d10570d1f6c"
+      },
+      "4_1_6": {
+        "name": "joshs-more-foods-datapack-v4.1.6.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/oICen8yz/joshs-more-foods-datapack-v4.1.6.zip",
+        "sha512": "e161187199ceff5e0fb921f99244ea3fd01f6e6311cd867dade54cd1ed483aaa6ffd547ce0f876d22515cb673e512d275ef8c727246e5b8fa0fd1fd5043bc0b4"
+      },
+      "4_1_5": {
+        "name": "joshs-more-foods-datapack-v4.1.5.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/7T8YpZxB/joshs-more-foods-datapack-v4.1.5.zip",
+        "sha512": "11b160cdb9ea2a79629d924efca24f2f9331333bb882df5078d490f815863c1d75e4a5cf1acce5c0fbfbaad6b0c297773af97267ffa1504f91a18ccf1f162fd8"
+      },
+      "4_1_4": {
+        "name": "joshs-more-foods-datapack-v4.1.4.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/xUxxCHCO/joshs-more-foods-datapack-v4.1.4.zip",
+        "sha512": "ebbb05cbcdb5507f61bd24a643a65cc31b71c6cbb0e75f1abbec674f4aa1c559a28fd18b53d487a1bf91cf1b3ad4b1e3140e4638e43e34905c1893f361061465"
+      },
+      "4_1_3": {
+        "name": "joshs-more-foods-datapack-v4.1.3.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/Ktq849EE/joshs-more-foods-datapack-v4.1.3.zip",
+        "sha512": "fa39e45a495111f1a1d5cb8aa75106c6c3b0bed81961bac1a4a848ad6290a241c02a548150202ce51b33596c92376e91b978edaf0e51f7a94b2fcb1398a9ee92"
+      },
+      "4_1_2": {
+        "name": "joshs-more-foods-datapack-v4.1.2.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/TBKK2zIP/joshs-more-foods-datapack-v4.1.2.zip",
+        "sha512": "467a27ba38c91e28de0de5259937432caa30e20b64502167426533858bab84c8275a4016ed105e09cef9a938e80cbf501c6e468cd6228bfaa2c2047595a63762"
+      },
+      "4_1_1": {
+        "name": "joshs-more-foods-datapack-v4.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/E1Y0K40f/joshs-more-foods-datapack-v4.1.0.zip",
+        "sha512": "8bf9c3cf4deb2efdef994e78a235f4b8697dde6954c721f9ec93cbc7d75b8fe5c18826e353251b0b83635930715613298dea8a1931ea32ed6402639f097fbd2a"
+      },
+      "4_1_0": {
+        "name": "joshs-more-foods-datapack-v4.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/MphPSmWH/joshs-more-foods-datapack-v4.1.0.zip",
+        "sha512": "8bf9c3cf4deb2efdef994e78a235f4b8697dde6954c721f9ec93cbc7d75b8fe5c18826e353251b0b83635930715613298dea8a1931ea32ed6402639f097fbd2a"
+      },
+      "4_0_3": {
+        "name": "joshs-more-foods-datapack-v4.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/gcDX3uoy/joshs-more-foods-datapack-v4.0.3.zip",
+        "sha512": "6b9220a6957530504487cf5519d9eb49e783aa6782f2e634c18b3df0ee0f8714120644593ed6dd00f68179be901378e2b9d15c4e25b6d31555e8de9d70bcf10b"
+      },
+      "4_0_2": {
+        "name": "joshs-more-foods-datapack-v4.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/e0cNNfui/joshs-more-foods-datapack-v4.0.2.zip",
+        "sha512": "43af2ff272bddcbab38de19a52fe247ed47a18794c691b0b5411f57177d000665f9d2c90025bcfc84a4825f4815f256aa0b473a27a2e5c2fec9a17122d564b64"
+      },
+      "4_0_1": {
+        "name": "joshs-more-foods-datapack-v4.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/kFaRHCgH/joshs-more-foods-datapack-v4.0.1.zip",
+        "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c"
+      },
+      "4_0_0": {
+        "name": "joshs-more-foods-datapack-v4.0.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u9FwsQyR/joshs-more-foods-datapack-v4.0.0.zip",
+        "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_11": {
+        "name": "joshs-more-foods_v4.1.11_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/hViwQJqw/joshs-more-foods_v4.1.11_data_pack.zip",
+        "sha512": "7515343c1af80a12f54e782f363938ae53c1865f65d05e5901d048f98c9ed45da31cc9903cd89fc0ac6cb6bc05e72b733720ac8b6a59fc40a62f894fea6ebe8d"
+      },
+      "4_1_10": {
+        "name": "joshs-more-foods_v4.1.10_data_pack.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/25HKsDVR/joshs-more-foods_v4.1.10_data_pack.zip",
+        "sha512": "3250afdf1fc67f00623015018df022b8d1fa00f5366dfd6541a534050c0fdc50f1963b2cf5967859aadb747ba2a578bbb1d2bc2ead525af7e2f8f260305ee38e"
+      },
+      "4_1_9": {
+        "name": "joshs-more-foods-datapack-v4.1.9.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/R19E5EwI/joshs-more-foods-datapack-v4.1.9.zip",
+        "sha512": "5d91d55030b7c43496bfdc7709e38fccd8601794531abba12cf6202b5d87dc59c985a5b851f2d7afa8afe05cc7c1caeaae477794871a55a5a209e1a8cca3429f"
+      },
+      "4_1_8": {
+        "name": "joshs-more-foods-datapack-v4.1.8.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/mjmurpvU/joshs-more-foods-datapack-v4.1.8.zip",
+        "sha512": "46f9cfe0f3d4228159773c8ce842ebb69838ebc0d3bc508a525b867b91be3a66d6712e7ee1e4726b7a7c37cb549a7b0ebdc50f1b96d395496f0d06a729ffbb5e"
+      },
+      "4_1_7": {
+        "name": "joshs-more-foods-datapack-v4.1.7.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/pByP2N1M/joshs-more-foods-datapack-v4.1.7.zip",
+        "sha512": "3de71058a4e445456c338ad4b664c0b347292241e3a4fa81d22ac87460d0f7d7c63f7d249a0fd4bc3f3ef3932963b1008c94b18f215fa86b7e549d10570d1f6c"
+      },
+      "4_1_6": {
+        "name": "joshs-more-foods-datapack-v4.1.6.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/oICen8yz/joshs-more-foods-datapack-v4.1.6.zip",
+        "sha512": "e161187199ceff5e0fb921f99244ea3fd01f6e6311cd867dade54cd1ed483aaa6ffd547ce0f876d22515cb673e512d275ef8c727246e5b8fa0fd1fd5043bc0b4"
+      },
+      "4_1_5": {
+        "name": "joshs-more-foods-datapack-v4.1.5.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/7T8YpZxB/joshs-more-foods-datapack-v4.1.5.zip",
+        "sha512": "11b160cdb9ea2a79629d924efca24f2f9331333bb882df5078d490f815863c1d75e4a5cf1acce5c0fbfbaad6b0c297773af97267ffa1504f91a18ccf1f162fd8"
+      },
+      "4_1_4": {
+        "name": "joshs-more-foods-datapack-v4.1.4.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/xUxxCHCO/joshs-more-foods-datapack-v4.1.4.zip",
+        "sha512": "ebbb05cbcdb5507f61bd24a643a65cc31b71c6cbb0e75f1abbec674f4aa1c559a28fd18b53d487a1bf91cf1b3ad4b1e3140e4638e43e34905c1893f361061465"
+      },
+      "4_1_3": {
+        "name": "joshs-more-foods-datapack-v4.1.3.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/Ktq849EE/joshs-more-foods-datapack-v4.1.3.zip",
+        "sha512": "fa39e45a495111f1a1d5cb8aa75106c6c3b0bed81961bac1a4a848ad6290a241c02a548150202ce51b33596c92376e91b978edaf0e51f7a94b2fcb1398a9ee92"
+      },
+      "4_1_2": {
+        "name": "joshs-more-foods-datapack-v4.1.2.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/TBKK2zIP/joshs-more-foods-datapack-v4.1.2.zip",
+        "sha512": "467a27ba38c91e28de0de5259937432caa30e20b64502167426533858bab84c8275a4016ed105e09cef9a938e80cbf501c6e468cd6228bfaa2c2047595a63762"
+      },
+      "4_1_1": {
+        "name": "joshs-more-foods-datapack-v4.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/E1Y0K40f/joshs-more-foods-datapack-v4.1.0.zip",
+        "sha512": "8bf9c3cf4deb2efdef994e78a235f4b8697dde6954c721f9ec93cbc7d75b8fe5c18826e353251b0b83635930715613298dea8a1931ea32ed6402639f097fbd2a"
+      },
+      "4_1_0": {
+        "name": "joshs-more-foods-datapack-v4.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/MphPSmWH/joshs-more-foods-datapack-v4.1.0.zip",
+        "sha512": "8bf9c3cf4deb2efdef994e78a235f4b8697dde6954c721f9ec93cbc7d75b8fe5c18826e353251b0b83635930715613298dea8a1931ea32ed6402639f097fbd2a"
+      },
+      "4_0_3": {
+        "name": "joshs-more-foods-datapack-v4.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/gcDX3uoy/joshs-more-foods-datapack-v4.0.3.zip",
+        "sha512": "6b9220a6957530504487cf5519d9eb49e783aa6782f2e634c18b3df0ee0f8714120644593ed6dd00f68179be901378e2b9d15c4e25b6d31555e8de9d70bcf10b"
+      },
+      "4_0_2": {
+        "name": "joshs-more-foods-datapack-v4.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/e0cNNfui/joshs-more-foods-datapack-v4.0.2.zip",
+        "sha512": "43af2ff272bddcbab38de19a52fe247ed47a18794c691b0b5411f57177d000665f9d2c90025bcfc84a4825f4815f256aa0b473a27a2e5c2fec9a17122d564b64"
+      },
+      "4_0_1": {
+        "name": "joshs-more-foods-datapack-v4.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/kFaRHCgH/joshs-more-foods-datapack-v4.0.1.zip",
+        "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c"
+      },
+      "4_0_0": {
+        "name": "joshs-more-foods-datapack-v4.0.0.zip",
+        "url": "https://cdn.modrinth.com/data/3BlwZj8w/versions/u9FwsQyR/joshs-more-foods-datapack-v4.0.0.zip",
+        "sha512": "e0a93dfe8ac574d6a8505b9135448d32067177a0a2314d7a8e2df2d1ae3d4487aab4cabcc55d8ad9071f3ec2e565d00dfe01694ccc930d284f2b28c67e4fe49c"
+      }
     }
   }
 }

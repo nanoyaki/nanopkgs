@@ -1,473 +1,2138 @@
 {
   "neoforge": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VyyiGG8k/cloth-config-20.0.148-neoforge.jar",
-      "sha512": "1078e3ec5deaea05effee55aab50f5bb79fafbcc8bd5d5bdf69ecf2f6d169d090da2ff015996e8fe37f922ecb7d9ad1849c2e21229ea3d71ccf04e0674b72335",
-      "name": "cloth-config-20.0.148-neoforge.jar"
+    "1_21_11": {
+      "latest": {
+        "name": "cloth-config-21.11.151-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Uz30wD1g/cloth-config-21.11.151-neoforge.jar",
+        "sha512": "afaccd56bae168f91520859a8baa0dfb3c174542ff3af2468ff1bdaa27f43a631083f5d98cb7e65f0cd16a97bddf91a12a18a1681d73603708e1ca7ada37ebc4"
+      },
+      "21_11_151": {
+        "name": "cloth-config-21.11.151-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Uz30wD1g/cloth-config-21.11.151-neoforge.jar",
+        "sha512": "afaccd56bae168f91520859a8baa0dfb3c174542ff3af2468ff1bdaa27f43a631083f5d98cb7e65f0cd16a97bddf91a12a18a1681d73603708e1ca7ada37ebc4"
+      },
+      "21_11_150": {
+        "name": "cloth-config-21.11.150-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZuFcXTYx/cloth-config-21.11.150-neoforge.jar",
+        "sha512": "bf56b2c81d73a9ddf17fec10a12926bedf2c5b8fdbb84ae8e20b8b6f5fe3edf6d5e8e24b7bfa17d4e3ccde02f6a2f6f5b12b7ccd63a59d6599fd6d3a1a605b23"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VyyiGG8k/cloth-config-20.0.148-neoforge.jar",
-      "sha512": "1078e3ec5deaea05effee55aab50f5bb79fafbcc8bd5d5bdf69ecf2f6d169d090da2ff015996e8fe37f922ecb7d9ad1849c2e21229ea3d71ccf04e0674b72335",
-      "name": "cloth-config-20.0.148-neoforge.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "cloth-config-20.0.149-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/AzRGxC9j/cloth-config-20.0.149-neoforge.jar",
+        "sha512": "8a96fe1c4631aa374c3f7d9b59be87a36c3e3adeb72e1b74d4e3850a29672dfc0e0879a65e3e42db86075bb6749bf5c2c4d4974f083918a00c4d140f90a71591"
+      },
+      "20_0_149": {
+        "name": "cloth-config-20.0.149-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/AzRGxC9j/cloth-config-20.0.149-neoforge.jar",
+        "sha512": "8a96fe1c4631aa374c3f7d9b59be87a36c3e3adeb72e1b74d4e3850a29672dfc0e0879a65e3e42db86075bb6749bf5c2c4d4974f083918a00c4d140f90a71591"
+      },
+      "20_0_148": {
+        "name": "cloth-config-20.0.148-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VyyiGG8k/cloth-config-20.0.148-neoforge.jar",
+        "sha512": "1078e3ec5deaea05effee55aab50f5bb79fafbcc8bd5d5bdf69ecf2f6d169d090da2ff015996e8fe37f922ecb7d9ad1849c2e21229ea3d71ccf04e0674b72335"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
-      "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929",
-      "name": "cloth-config-19.0.147-neoforge.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "cloth-config-20.0.149-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/AzRGxC9j/cloth-config-20.0.149-neoforge.jar",
+        "sha512": "8a96fe1c4631aa374c3f7d9b59be87a36c3e3adeb72e1b74d4e3850a29672dfc0e0879a65e3e42db86075bb6749bf5c2c4d4974f083918a00c4d140f90a71591"
+      },
+      "20_0_149": {
+        "name": "cloth-config-20.0.149-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/AzRGxC9j/cloth-config-20.0.149-neoforge.jar",
+        "sha512": "8a96fe1c4631aa374c3f7d9b59be87a36c3e3adeb72e1b74d4e3850a29672dfc0e0879a65e3e42db86075bb6749bf5c2c4d4974f083918a00c4d140f90a71591"
+      },
+      "20_0_148": {
+        "name": "cloth-config-20.0.148-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VyyiGG8k/cloth-config-20.0.148-neoforge.jar",
+        "sha512": "1078e3ec5deaea05effee55aab50f5bb79fafbcc8bd5d5bdf69ecf2f6d169d090da2ff015996e8fe37f922ecb7d9ad1849c2e21229ea3d71ccf04e0674b72335"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
-      "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929",
-      "name": "cloth-config-19.0.147-neoforge.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "cloth-config-19.0.147-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
+        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929"
+      },
+      "19_0_147": {
+        "name": "cloth-config-19.0.147-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
+        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/R1y82c6O/cloth-config-19.0.146-neoforge.jar",
-      "sha512": "5ee7cd60a6baa939139cfa7ae5f9e0235e62de55d2bc82881d0f5347a9b6e86d156f7ca989b8023625c7c074ce7cf3f77845e6d47f8ba5309421537dde02601f",
-      "name": "cloth-config-19.0.146-neoforge.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "cloth-config-19.0.147-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
+        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929"
+      },
+      "19_0_147": {
+        "name": "cloth-config-19.0.147-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
+        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/jjrPm6iW/cloth-config-18.0.145-neoforge.jar",
-      "sha512": "25bece4bbfaed4f74d6e5bdb0909c627adbc1fc368c17883a2b016c42e134cf71fefe1c2a69a080d3f6311540d3a268e3b738ff8b6987e85092a216616a85b74",
-      "name": "cloth-config-18.0.145-neoforge.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "cloth-config-19.0.147-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
+        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929"
+      },
+      "19_0_147": {
+        "name": "cloth-config-19.0.147-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BYkKAJ0C/cloth-config-19.0.147-neoforge.jar",
+        "sha512": "2b1acae5ab7ab89301f429073f339363e2e113a5cdea094fba318ba74befd442d8f751ee1c74523cacf27eed49ef98c5f9cf3ed1fdfbced6f3c3322be50b2929"
+      },
+      "19_0_146": {
+        "name": "cloth-config-19.0.146-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/R1y82c6O/cloth-config-19.0.146-neoforge.jar",
+        "sha512": "5ee7cd60a6baa939139cfa7ae5f9e0235e62de55d2bc82881d0f5347a9b6e86d156f7ca989b8023625c7c074ce7cf3f77845e6d47f8ba5309421537dde02601f"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/FyidnRFd/cloth-config-17.0.142-neoforge.jar",
-      "sha512": "9dc509356214f2da872d054ff13a740b7a24378392f1551211dd6c3c2c47abd34c7bc266ed450ad2d86a807fe4fca47745407fbc00c0e38b20185f525bb17da0",
-      "name": "cloth-config-17.0.142-neoforge.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "cloth-config-18.0.145-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/jjrPm6iW/cloth-config-18.0.145-neoforge.jar",
+        "sha512": "25bece4bbfaed4f74d6e5bdb0909c627adbc1fc368c17883a2b016c42e134cf71fefe1c2a69a080d3f6311540d3a268e3b738ff8b6987e85092a216616a85b74"
+      },
+      "18_0_145": {
+        "name": "cloth-config-18.0.145-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/jjrPm6iW/cloth-config-18.0.145-neoforge.jar",
+        "sha512": "25bece4bbfaed4f74d6e5bdb0909c627adbc1fc368c17883a2b016c42e134cf71fefe1c2a69a080d3f6311540d3a268e3b738ff8b6987e85092a216616a85b74"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/uYoucpky/cloth-config-16.0.141-neoforge.jar",
-      "sha512": "46010e9fac5ff376f0f7158a15de2abd2a9b9740b85be3e64175c05f3a0272ace45ec9bbe14edd765df71c9b402b962c2b0226db5dcc79bd09ba2d0e57224e95",
-      "name": "cloth-config-16.0.141-neoforge.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "cloth-config-17.0.144-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/dWfheG9X/cloth-config-17.0.144-neoforge.jar",
+        "sha512": "0e16e28cc181aa95bfc4e700affc2d3c95068958e144214620502ee1307fa239a92175a121f96ec16e6abface042f030987833a231a5b60bdb81d80cb669b2ca"
+      },
+      "17_0_144": {
+        "name": "cloth-config-17.0.144-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/dWfheG9X/cloth-config-17.0.144-neoforge.jar",
+        "sha512": "0e16e28cc181aa95bfc4e700affc2d3c95068958e144214620502ee1307fa239a92175a121f96ec16e6abface042f030987833a231a5b60bdb81d80cb669b2ca"
+      },
+      "17_0_142": {
+        "name": "cloth-config-17.0.142-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/FyidnRFd/cloth-config-17.0.142-neoforge.jar",
+        "sha512": "9dc509356214f2da872d054ff13a740b7a24378392f1551211dd6c3c2c47abd34c7bc266ed450ad2d86a807fe4fca47745407fbc00c0e38b20185f525bb17da0"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/uYoucpky/cloth-config-16.0.141-neoforge.jar",
-      "sha512": "46010e9fac5ff376f0f7158a15de2abd2a9b9740b85be3e64175c05f3a0272ace45ec9bbe14edd765df71c9b402b962c2b0226db5dcc79bd09ba2d0e57224e95",
-      "name": "cloth-config-16.0.141-neoforge.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "cloth-config-16.0.143-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/h06GalE6/cloth-config-16.0.143-neoforge.jar",
+        "sha512": "2449d512c35f3d182875f020e806bcc9a73b593509433d1a3b485bbb1c8ca77cebfbddec4ec5fdb7f48238803809161d7f618857ac850c99b49e232368c4c06d"
+      },
+      "16_0_143": {
+        "name": "cloth-config-16.0.143-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/h06GalE6/cloth-config-16.0.143-neoforge.jar",
+        "sha512": "2449d512c35f3d182875f020e806bcc9a73b593509433d1a3b485bbb1c8ca77cebfbddec4ec5fdb7f48238803809161d7f618857ac850c99b49e232368c4c06d"
+      },
+      "16_0_141": {
+        "name": "cloth-config-16.0.141-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/uYoucpky/cloth-config-16.0.141-neoforge.jar",
+        "sha512": "46010e9fac5ff376f0f7158a15de2abd2a9b9740b85be3e64175c05f3a0272ace45ec9bbe14edd765df71c9b402b962c2b0226db5dcc79bd09ba2d0e57224e95"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/DqgODWcH/cloth-config-15.0.130-neoforge.jar",
-      "sha512": "3cee1b6f9ecb0dcad4abdd6b028a86d25cf103202c4fe6317d6037b64e2c5b241f0c2d3aeb32637ef1e95cdef44ac8dfb3f3843ce49ded808707af1e776f111a",
-      "name": "cloth-config-15.0.130-neoforge.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "cloth-config-16.0.143-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/h06GalE6/cloth-config-16.0.143-neoforge.jar",
+        "sha512": "2449d512c35f3d182875f020e806bcc9a73b593509433d1a3b485bbb1c8ca77cebfbddec4ec5fdb7f48238803809161d7f618857ac850c99b49e232368c4c06d"
+      },
+      "16_0_143": {
+        "name": "cloth-config-16.0.143-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/h06GalE6/cloth-config-16.0.143-neoforge.jar",
+        "sha512": "2449d512c35f3d182875f020e806bcc9a73b593509433d1a3b485bbb1c8ca77cebfbddec4ec5fdb7f48238803809161d7f618857ac850c99b49e232368c4c06d"
+      },
+      "16_0_141": {
+        "name": "cloth-config-16.0.141-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/uYoucpky/cloth-config-16.0.141-neoforge.jar",
+        "sha512": "46010e9fac5ff376f0f7158a15de2abd2a9b9740b85be3e64175c05f3a0272ace45ec9bbe14edd765df71c9b402b962c2b0226db5dcc79bd09ba2d0e57224e95"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HsTzbbnf/cloth-config-15.0.127-neoforge.jar",
-      "sha512": "8b54f1c171313f741d6376caf57a2182e4f39ae7c000578808a943189427078d1773070d6f8abc9919b339f39b23ed9e6af3730dc0bcd28f2ed0b42f63273b25",
-      "name": "cloth-config-15.0.127-neoforge.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "cloth-config-15.0.140-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+        "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
+      },
+      "15_0_140": {
+        "name": "cloth-config-15.0.140-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+        "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
+      },
+      "15_0_130": {
+        "name": "cloth-config-15.0.130-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/DqgODWcH/cloth-config-15.0.130-neoforge.jar",
+        "sha512": "3cee1b6f9ecb0dcad4abdd6b028a86d25cf103202c4fe6317d6037b64e2c5b241f0c2d3aeb32637ef1e95cdef44ac8dfb3f3843ce49ded808707af1e776f111a"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/PjKtC8lG/cloth-config-14.0.126-neoforge.jar",
-      "sha512": "c506b1198bad12098fea8a7a3d57366cdcfb0ff3439956179ac0df89c2ed6121a8adbb1d6f547803ba236a72b407c89adcec101acc4a6c25835782a13157d985",
-      "name": "cloth-config-14.0.126-neoforge.jar"
+    "1_21": {
+      "latest": {
+        "name": "cloth-config-15.0.140-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+        "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
+      },
+      "15_0_140": {
+        "name": "cloth-config-15.0.140-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+        "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
+      },
+      "15_0_130": {
+        "name": "cloth-config-15.0.130-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/DqgODWcH/cloth-config-15.0.130-neoforge.jar",
+        "sha512": "3cee1b6f9ecb0dcad4abdd6b028a86d25cf103202c4fe6317d6037b64e2c5b241f0c2d3aeb32637ef1e95cdef44ac8dfb3f3843ce49ded808707af1e776f111a"
+      },
+      "15_0_128": {
+        "name": "cloth-config-15.0.128-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/jMyYg8Uv/cloth-config-15.0.128-neoforge.jar",
+        "sha512": "36ff6eb3b5df6589e14c34bc33af048a6f8551d438dcb10722fc44b76e8822317c80ea9471b8a1a60ab9cf9422499a83ff4497d0ff9a1b295d92016606a15f58"
+      },
+      "15_0_127": {
+        "name": "cloth-config-15.0.127-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HsTzbbnf/cloth-config-15.0.127-neoforge.jar",
+        "sha512": "8b54f1c171313f741d6376caf57a2182e4f39ae7c000578808a943189427078d1773070d6f8abc9919b339f39b23ed9e6af3730dc0bcd28f2ed0b42f63273b25"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/PjKtC8lG/cloth-config-14.0.126-neoforge.jar",
-      "sha512": "c506b1198bad12098fea8a7a3d57366cdcfb0ff3439956179ac0df89c2ed6121a8adbb1d6f547803ba236a72b407c89adcec101acc4a6c25835782a13157d985",
-      "name": "cloth-config-14.0.126-neoforge.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "cloth-config-14.0.139-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/hradv69C/cloth-config-14.0.139-neoforge.jar",
+        "sha512": "5c0260cd0fbb856205015aaef5573d8bc173205da5bf63c1e4cf3f3e698ad05008ac9dc65d174a028220bbe61d17cbb65af2fc97ba12c1a9ccb03b291606ec94"
+      },
+      "14_0_139": {
+        "name": "cloth-config-14.0.139-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/hradv69C/cloth-config-14.0.139-neoforge.jar",
+        "sha512": "5c0260cd0fbb856205015aaef5573d8bc173205da5bf63c1e4cf3f3e698ad05008ac9dc65d174a028220bbe61d17cbb65af2fc97ba12c1a9ccb03b291606ec94"
+      },
+      "14_0_129": {
+        "name": "cloth-config-14.0.129-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Y9QgGQ59/cloth-config-14.0.129-neoforge.jar",
+        "sha512": "563984a2e450b63554c7add196ca0b1ec7c12b3868a7a65ecd207e69d0cac250f69bc6785d2eb2b79ee65ee181d66fcec9537590beeaa39c83ee2527c84ea25d"
+      },
+      "14_0_126": {
+        "name": "cloth-config-14.0.126-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/PjKtC8lG/cloth-config-14.0.126-neoforge.jar",
+        "sha512": "c506b1198bad12098fea8a7a3d57366cdcfb0ff3439956179ac0df89c2ed6121a8adbb1d6f547803ba236a72b407c89adcec101acc4a6c25835782a13157d985"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/srGqKdky/cloth-config-13.0.112-neoforge.jar",
-      "sha512": "a53f186324ed1e23a068102e8a760ad7326f99432ba04f267bcf6e363f325cdb0a3bd49b25369f018ba1bda95796ae7c4f7ab36e4679636dc0171e7a4a55a854",
-      "name": "cloth-config-13.0.112-neoforge.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "cloth-config-14.0.139-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/hradv69C/cloth-config-14.0.139-neoforge.jar",
+        "sha512": "5c0260cd0fbb856205015aaef5573d8bc173205da5bf63c1e4cf3f3e698ad05008ac9dc65d174a028220bbe61d17cbb65af2fc97ba12c1a9ccb03b291606ec94"
+      },
+      "14_0_139": {
+        "name": "cloth-config-14.0.139-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/hradv69C/cloth-config-14.0.139-neoforge.jar",
+        "sha512": "5c0260cd0fbb856205015aaef5573d8bc173205da5bf63c1e4cf3f3e698ad05008ac9dc65d174a028220bbe61d17cbb65af2fc97ba12c1a9ccb03b291606ec94"
+      },
+      "14_0_129": {
+        "name": "cloth-config-14.0.129-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Y9QgGQ59/cloth-config-14.0.129-neoforge.jar",
+        "sha512": "563984a2e450b63554c7add196ca0b1ec7c12b3868a7a65ecd207e69d0cac250f69bc6785d2eb2b79ee65ee181d66fcec9537590beeaa39c83ee2527c84ea25d"
+      },
+      "14_0_126": {
+        "name": "cloth-config-14.0.126-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/PjKtC8lG/cloth-config-14.0.126-neoforge.jar",
+        "sha512": "c506b1198bad12098fea8a7a3d57366cdcfb0ff3439956179ac0df89c2ed6121a8adbb1d6f547803ba236a72b407c89adcec101acc4a6c25835782a13157d985"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/srGqKdky/cloth-config-13.0.112-neoforge.jar",
-      "sha512": "a53f186324ed1e23a068102e8a760ad7326f99432ba04f267bcf6e363f325cdb0a3bd49b25369f018ba1bda95796ae7c4f7ab36e4679636dc0171e7a4a55a854",
-      "name": "cloth-config-13.0.112-neoforge.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "cloth-config-13.0.138-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gUuDD6aJ/cloth-config-13.0.138-neoforge.jar",
+        "sha512": "0c05e029ffa52973f347bc1c4de297aa9d4aef19e5b562074d3eafe7e91da748078772e7fdf38ce82282314b28fef3b70c5bdfb1445a08a86079fa6d485c0403"
+      },
+      "13_0_138": {
+        "name": "cloth-config-13.0.138-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gUuDD6aJ/cloth-config-13.0.138-neoforge.jar",
+        "sha512": "0c05e029ffa52973f347bc1c4de297aa9d4aef19e5b562074d3eafe7e91da748078772e7fdf38ce82282314b28fef3b70c5bdfb1445a08a86079fa6d485c0403"
+      },
+      "13_0_121": {
+        "name": "cloth-config-13.0.121-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/hUXzyFVO/cloth-config-13.0.121-neoforge.jar",
+        "sha512": "65027c8a8c8f32add46bc1c200b7f0588dbf0446723bb3f4fcdd8d6dfd557cd42f66f9d6f6c1b04c9e480b2c2437f600f61e7170bbd8f005be829b85d07b1a40"
+      },
+      "13_0_114": {
+        "name": "cloth-config-13.0.114-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/KBfIrjbA/cloth-config-13.0.114-neoforge.jar",
+        "sha512": "66662af0a0a0bef3755dac2cb516fba4808826a744c9336dc8cbb883bdca69ce20f5669b47e816187b1d32bb9c47af8b8a74bfa5aa356bc83b833a0e5d0305d6"
+      },
+      "13_0_112": {
+        "name": "cloth-config-13.0.112-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/srGqKdky/cloth-config-13.0.112-neoforge.jar",
+        "sha512": "a53f186324ed1e23a068102e8a760ad7326f99432ba04f267bcf6e363f325cdb0a3bd49b25369f018ba1bda95796ae7c4f7ab36e4679636dc0171e7a4a55a854"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XkFQE0kx/cloth-config-12.0.110-neoforge.jar",
-      "sha512": "be546b9dc469278fee57dd98d99c9e8c878727de894dcc6e3862146ee76b6075aafc536cb98e0d5125a107502ff76aaedbaea57509baca0bf1daffbd6e35d58a",
-      "name": "cloth-config-12.0.110-neoforge.jar"
-    }
-  },
-  "fabric": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/otNNBWZy/cloth-config-20.0.148-fabric.jar",
-      "sha512": "3f6f02540a35c87e7ce84dc280d69b87ac7e0f31a0f6907cb9aab799f62fa291e1250c2fee0ec03aa46330b72df28b13ebe333b3e48ce6c769a9bd4058138d5a",
-      "name": "cloth-config-20.0.148-fabric.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "cloth-config-13.0.138-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gUuDD6aJ/cloth-config-13.0.138-neoforge.jar",
+        "sha512": "0c05e029ffa52973f347bc1c4de297aa9d4aef19e5b562074d3eafe7e91da748078772e7fdf38ce82282314b28fef3b70c5bdfb1445a08a86079fa6d485c0403"
+      },
+      "13_0_138": {
+        "name": "cloth-config-13.0.138-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gUuDD6aJ/cloth-config-13.0.138-neoforge.jar",
+        "sha512": "0c05e029ffa52973f347bc1c4de297aa9d4aef19e5b562074d3eafe7e91da748078772e7fdf38ce82282314b28fef3b70c5bdfb1445a08a86079fa6d485c0403"
+      },
+      "13_0_121": {
+        "name": "cloth-config-13.0.121-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/hUXzyFVO/cloth-config-13.0.121-neoforge.jar",
+        "sha512": "65027c8a8c8f32add46bc1c200b7f0588dbf0446723bb3f4fcdd8d6dfd557cd42f66f9d6f6c1b04c9e480b2c2437f600f61e7170bbd8f005be829b85d07b1a40"
+      },
+      "13_0_114": {
+        "name": "cloth-config-13.0.114-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/KBfIrjbA/cloth-config-13.0.114-neoforge.jar",
+        "sha512": "66662af0a0a0bef3755dac2cb516fba4808826a744c9336dc8cbb883bdca69ce20f5669b47e816187b1d32bb9c47af8b8a74bfa5aa356bc83b833a0e5d0305d6"
+      },
+      "13_0_112": {
+        "name": "cloth-config-13.0.112-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/srGqKdky/cloth-config-13.0.112-neoforge.jar",
+        "sha512": "a53f186324ed1e23a068102e8a760ad7326f99432ba04f267bcf6e363f325cdb0a3bd49b25369f018ba1bda95796ae7c4f7ab36e4679636dc0171e7a4a55a854"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/otNNBWZy/cloth-config-20.0.148-fabric.jar",
-      "sha512": "3f6f02540a35c87e7ce84dc280d69b87ac7e0f31a0f6907cb9aab799f62fa291e1250c2fee0ec03aa46330b72df28b13ebe333b3e48ce6c769a9bd4058138d5a",
-      "name": "cloth-config-20.0.148-fabric.jar"
-    },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
-      "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a",
-      "name": "cloth-config-19.0.147-fabric.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
-      "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a",
-      "name": "cloth-config-19.0.147-fabric.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4S1OUeMC/cloth-config-19.0.146-fabric.jar",
-      "sha512": "866bddb37ee148d44c96df5742b86658b2890e5daaffee93142564a6a33a72b64737d95cfda7d98434532a05afbf156d5436434d52d6d78c55dcea42f5a7a911",
-      "name": "cloth-config-19.0.146-fabric.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar",
-      "sha512": "2752215fdc303598f0e98208a3ddae404c413aa3de22f5e2db2f2cc2c7813f08a1731da6778a6b9056a6ebe3b74919fce67abd14332269ad0a353bdc6e9e92c4",
-      "name": "cloth-config-18.0.145-fabric.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/c8IkvzeS/cloth-config-17.0.142-fabric.jar",
-      "sha512": "e13690251525aac4edf63cfb158019f573f0669558dc704462ba7df9721e5b2dc8f4a13c0b09c616a706efc75daab75ed61d673ff603e6a89387cc5b0aec5d8d",
-      "name": "cloth-config-17.0.142-fabric.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JbVSQUVw/cloth-config-16.0.141-fabric.jar",
-      "sha512": "f8b0fa16fe80a8b78a059ebf1cf366d65132b1dd1830d8b689ecfc731696514e2b3dd73903fbb37d0a5f3d853aa521827bf7ed6fb5d9db245c6afd7ffb9e2687",
-      "name": "cloth-config-16.0.141-fabric.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JbVSQUVw/cloth-config-16.0.141-fabric.jar",
-      "sha512": "f8b0fa16fe80a8b78a059ebf1cf366d65132b1dd1830d8b689ecfc731696514e2b3dd73903fbb37d0a5f3d853aa521827bf7ed6fb5d9db245c6afd7ffb9e2687",
-      "name": "cloth-config-16.0.141-fabric.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7jtvrmVP/cloth-config-15.0.130-fabric.jar",
-      "sha512": "8889378815cd9c645a5a7a8b4d800cf211a4cdfae48c7e005f5f1f630272e909899e304e5c294b4c4c05970171ee7ab594d5b1007086ac14d22db414e83eb60b",
-      "name": "cloth-config-15.0.130-fabric.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar",
-      "sha512": "b3059112661363955aa77f3cdc2993e7875089f6415179351869febd4bd35a221b75001ab4698e6105f3c0241698d0ffce645b5cae7fe9f90bdb3b96b74691d2",
-      "name": "cloth-config-15.0.127-fabric.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar",
-      "sha512": "6a1f7e68e2771dd96ba5d8d41f170c8d81fcc5b18b44529ae633e1f67e4738504919bfce42fdf7bfb162ee27d43f0e109919db5718a7269092f550a833bc3eae",
-      "name": "cloth-config-14.0.126-fabric.jar"
-    },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar",
-      "sha512": "6a1f7e68e2771dd96ba5d8d41f170c8d81fcc5b18b44529ae633e1f67e4738504919bfce42fdf7bfb162ee27d43f0e109919db5718a7269092f550a833bc3eae",
-      "name": "cloth-config-14.0.126-fabric.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Q4D6X8wF/cloth-config-13.0.112-fabric.jar",
-      "sha512": "fa063480d2be6388c971b2c90c9ad50c7502a89ca514537b47792619ff07709958f4686c55f043606050563ac5f4be8e1b0efe319acccfb14e5a44c4e3aef842",
-      "name": "cloth-config-13.0.112-fabric.jar"
-    },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Q4D6X8wF/cloth-config-13.0.112-fabric.jar",
-      "sha512": "fa063480d2be6388c971b2c90c9ad50c7502a89ca514537b47792619ff07709958f4686c55f043606050563ac5f4be8e1b0efe319acccfb14e5a44c4e3aef842",
-      "name": "cloth-config-13.0.112-fabric.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EuWT3qek/cloth-config-12.0.108-fabric.jar",
-      "sha512": "dd4792fbaf27bd654b38956a40e31db7b18c465d1898676e390d7edbbbbd050a5d3e55b30dbb56453c775fa5f6afab7e1262e121434b22c2145cce3a892d18d8",
-      "name": "cloth-config-12.0.108-fabric.jar"
-    },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/y0kQixP8/cloth-config-11.0.99-fabric.jar",
-      "sha512": "3bbb9369efab7390193332ab9064460afa8dce7fc17fd96a2164b25cc17a0f03e928dd362539df364436a284914211005ba76d48b41fd6d9b01a22717a4d3719",
-      "name": "cloth-config-11.0.99-fabric.jar"
-    },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/y0kQixP8/cloth-config-11.0.99-fabric.jar",
-      "sha512": "3bbb9369efab7390193332ab9064460afa8dce7fc17fd96a2164b25cc17a0f03e928dd362539df364436a284914211005ba76d48b41fd6d9b01a22717a4d3719",
-      "name": "cloth-config-11.0.99-fabric.jar"
-    },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6XGTNEII/cloth-config-10.0.96-fabric.jar",
-      "sha512": "2c2ca9ad15fa08e0013505e0fbd661e0ff9861eba5df175037cc948197d7d9c4c6983d0f026321a71e7855fc4941e279ede9c930e2ca373b38402dfd70cc6376",
-      "name": "cloth-config-10.0.96-fabric.jar"
-    },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/M3yxljrZ/cloth-config-9.0.94-fabric.jar",
-      "sha512": "a06b7cd8f472c177621680d6688ad45010b8605fad49207c92066a1d682ec602aeaaa68ffd1488a87587f4207b9efb22147a1d9cc987c4a6ffd42d5c9620e13b",
-      "name": "cloth-config-9.0.94-fabric.jar"
-    },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bfabric/cloth-config-8.0.75-fabric.jar",
-      "sha512": "a6fb5bbb4ddd14ecb3a907e48a3ce2485430e4713a8b0326b001c4a25ed2c1d9e36e1279f3bbb99e8cabcf13801eff0d43563c3505ee80687347f73212661923",
-      "name": "cloth-config-8.0.75-fabric.jar"
-    },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bfabric/cloth-config-8.0.75-fabric.jar",
-      "sha512": "a6fb5bbb4ddd14ecb3a907e48a3ce2485430e4713a8b0326b001c4a25ed2c1d9e36e1279f3bbb99e8cabcf13801eff0d43563c3505ee80687347f73212661923",
-      "name": "cloth-config-8.0.75-fabric.jar"
-    },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.69/cloth-config-7.0.69-fabric.jar",
-      "sha512": "6b8b3306ce5712812d81862db8f312e78c377e8f86faccb8b3fc0afd9cc7d0f570d295baaedde567cd7948b2b4e03a6c245789191685ce049594863aee34bb4f",
-      "name": "cloth-config-7.0.69-fabric.jar"
-    },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bfabric/cloth-config-6.2.57-fabric.jar",
-      "sha512": "b74f821e4f4bc4ddd1e7ae2722a424d5d3c4f5f7932a1a8ff6695b6c30c3509c070b09df19424553648c6aeafcf68b923555f7ceba908a98e71dc8c7da6952d6",
-      "name": "cloth-config-6.2.57-fabric.jar"
-    },
-    "1.18.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bfabric/cloth-config-6.2.57-fabric.jar",
-      "sha512": "b74f821e4f4bc4ddd1e7ae2722a424d5d3c4f5f7932a1a8ff6695b6c30c3509c070b09df19424553648c6aeafcf68b923555f7ceba908a98e71dc8c7da6952d6",
-      "name": "cloth-config-6.2.57-fabric.jar"
-    },
-    "1.18": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bfabric/cloth-config-6.2.57-fabric.jar",
-      "sha512": "b74f821e4f4bc4ddd1e7ae2722a424d5d3c4f5f7932a1a8ff6695b6c30c3509c070b09df19424553648c6aeafcf68b923555f7ceba908a98e71dc8c7da6952d6",
-      "name": "cloth-config-6.2.57-fabric.jar"
-    },
-    "1.17.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bfabric/cloth-config-5.3.58-fabric.jar",
-      "sha512": "6dbe019a0a9f12b789ac6cdaa91b347a87a547b7be53012bc59351a8f2066b6097a342aa80860d239ba1d477bdd7f960f3e3f136117394e55fdb8eedb4ae6a04",
-      "name": "cloth-config-5.3.58-fabric.jar"
-    },
-    "1.17": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bfabric/cloth-config-5.3.58-fabric.jar",
-      "sha512": "6dbe019a0a9f12b789ac6cdaa91b347a87a547b7be53012bc59351a8f2066b6097a342aa80860d239ba1d477bdd7f960f3e3f136117394e55fdb8eedb4ae6a04",
-      "name": "cloth-config-5.3.58-fabric.jar"
-    },
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
-      "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4",
-      "name": "cloth-config-4.14.54-fabric.jar"
-    },
-    "1.16.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
-      "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4",
-      "name": "cloth-config-4.14.54-fabric.jar"
-    },
-    "1.16.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
-      "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4",
-      "name": "cloth-config-4.14.54-fabric.jar"
-    },
-    "1.16.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
-      "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4",
-      "name": "cloth-config-4.14.54-fabric.jar"
-    },
-    "1.16.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.6.0%2Bfabric/config-2-4.6.0.jar",
-      "sha512": "2e1d7a257b894a6fef64dac7e512e7344f2b15feb928a2b5f383c9c5c2d0fe06b3526af1d71bf7248e61d2f5a004d925c1f78c7313b2e4364e158e23ca03a950",
-      "name": "config-2-4.6.0.jar"
-    },
-    "1.16": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.6.0%2Bfabric/config-2-4.6.0.jar",
-      "sha512": "2e1d7a257b894a6fef64dac7e512e7344f2b15feb928a2b5f383c9c5c2d0fe06b3526af1d71bf7248e61d2f5a004d925c1f78c7313b2e4364e158e23ca03a950",
-      "name": "config-2-4.6.0.jar"
-    },
-    "1.15.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
-      "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d",
-      "name": "config-2-2.14.2.jar"
-    },
-    "1.15.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
-      "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d",
-      "name": "config-2-2.14.2.jar"
-    },
-    "1.15": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
-      "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d",
-      "name": "config-2-2.14.2.jar"
-    },
-    "1.14.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
-      "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd",
-      "name": "config-2-1.8.jar"
-    },
-    "1.14.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
-      "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd",
-      "name": "config-2-1.8.jar"
-    },
-    "1.14.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
-      "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd",
-      "name": "config-2-1.8.jar"
-    },
-    "1.14.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
-      "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd",
-      "name": "config-2-1.8.jar"
-    },
-    "1.14": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
-      "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd",
-      "name": "config-2-1.8.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "cloth-config-12.0.137-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/mAH9Nl59/cloth-config-12.0.137-neoforge.jar",
+        "sha512": "926ba85fbd3cb520cc0ec72327ad71b05b1839cee56270363a5c918e89fa25d4bd096a3a5a6487fc5fde37d4cecd88ae2488337b4e77d792abf1494b2a7124da"
+      },
+      "12_0_137": {
+        "name": "cloth-config-12.0.137-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/mAH9Nl59/cloth-config-12.0.137-neoforge.jar",
+        "sha512": "926ba85fbd3cb520cc0ec72327ad71b05b1839cee56270363a5c918e89fa25d4bd096a3a5a6487fc5fde37d4cecd88ae2488337b4e77d792abf1494b2a7124da"
+      },
+      "12_0_119": {
+        "name": "cloth-config-12.0.119-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6GeyuE7Y/cloth-config-12.0.119-neoforge.jar",
+        "sha512": "557d98680d8562c22101e13a7e12d516ce6e757c2601dfea3e776e40c627abcf4dea965263ec5d1106a160d06638a6ae0f50483ca391f0799b81d44e3224411a"
+      },
+      "12_0_113": {
+        "name": "cloth-config-12.0.113-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2FKRnZ92/cloth-config-12.0.113-neoforge.jar",
+        "sha512": "131fef136e6de0cee05a0e39311b9d41c449b9a28087e592403d5bc6d4d6d920f4667d93c6b83593c01e47d95fb3437a4dc3540a7e64e37fbace8be72f957d48"
+      },
+      "12_0_111": {
+        "name": "cloth-config-12.0.111-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/x8gS3Jdy/cloth-config-12.0.111-neoforge.jar",
+        "sha512": "16b4e1b3a8ff9df1d10c6e76e8790f7000e4038da215eae70a8f296f646cb506e40bda4817dd0195d4d54be6b58b0c6843ea54e8c4564a577e165b4ec6f0d6c6"
+      },
+      "12_0_110": {
+        "name": "cloth-config-12.0.110-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XkFQE0kx/cloth-config-12.0.110-neoforge.jar",
+        "sha512": "be546b9dc469278fee57dd98d99c9e8c878727de894dcc6e3862146ee76b6075aafc536cb98e0d5125a107502ff76aaedbaea57509baca0bf1daffbd6e35d58a"
+      }
     }
   },
   "forge": {
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/wJT939f6/cloth-config-16.0.143-forge.jar",
-      "sha512": "6503212fa6c3f8de630959bd0671188e1781be2d022e0d712022b0aa2f30626db377c31d619b836383c7a3566a91ff321a34058fca2ce05237fecb42be1c8a55",
-      "name": "cloth-config-16.0.143-forge.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "cloth-config-17.0.144-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i6G5WG2W/cloth-config-17.0.144-forge.jar",
+        "sha512": "38ec2bfe269bc8014c5ba280f399ef85975926170d8f756e4150e45b6d95b700341a99e7cbca92d0801305b9b596801cd3d5cee5354412a21d7178ca272031fc"
+      },
+      "17_0_144": {
+        "name": "cloth-config-17.0.144-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i6G5WG2W/cloth-config-17.0.144-forge.jar",
+        "sha512": "38ec2bfe269bc8014c5ba280f399ef85975926170d8f756e4150e45b6d95b700341a99e7cbca92d0801305b9b596801cd3d5cee5354412a21d7178ca272031fc"
+      },
+      "16_0_143": {
+        "name": "cloth-config-16.0.143-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/wJT939f6/cloth-config-16.0.143-forge.jar",
+        "sha512": "6503212fa6c3f8de630959bd0671188e1781be2d022e0d712022b0aa2f30626db377c31d619b836383c7a3566a91ff321a34058fca2ce05237fecb42be1c8a55"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/wJT939f6/cloth-config-16.0.143-forge.jar",
-      "sha512": "6503212fa6c3f8de630959bd0671188e1781be2d022e0d712022b0aa2f30626db377c31d619b836383c7a3566a91ff321a34058fca2ce05237fecb42be1c8a55",
-      "name": "cloth-config-16.0.143-forge.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "cloth-config-17.0.144-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i6G5WG2W/cloth-config-17.0.144-forge.jar",
+        "sha512": "38ec2bfe269bc8014c5ba280f399ef85975926170d8f756e4150e45b6d95b700341a99e7cbca92d0801305b9b596801cd3d5cee5354412a21d7178ca272031fc"
+      },
+      "17_0_144": {
+        "name": "cloth-config-17.0.144-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i6G5WG2W/cloth-config-17.0.144-forge.jar",
+        "sha512": "38ec2bfe269bc8014c5ba280f399ef85975926170d8f756e4150e45b6d95b700341a99e7cbca92d0801305b9b596801cd3d5cee5354412a21d7178ca272031fc"
+      },
+      "16_0_143": {
+        "name": "cloth-config-16.0.143-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/wJT939f6/cloth-config-16.0.143-forge.jar",
+        "sha512": "6503212fa6c3f8de630959bd0671188e1781be2d022e0d712022b0aa2f30626db377c31d619b836383c7a3566a91ff321a34058fca2ce05237fecb42be1c8a55"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/yPULtkhh/cloth-config-15.0.130-forge.jar",
-      "sha512": "dfe9a970241c21647c938d714de76a98e35d14e2aedbfd37108113d1785efa2449442ece47b2558e31049df4f45265229d30b879b1ff2320dcc0b7b11e18c038",
-      "name": "cloth-config-15.0.130-forge.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "cloth-config-15.0.140-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XMYFN6Zc/cloth-config-15.0.140-forge.jar",
+        "sha512": "5628440a7c5951346bf98a269e0f455e55b505bd3c38218a4883847837e896ed78fbad97f71bf82a778133e4041d763fa14149794bd0f9c9a05173b653047874"
+      },
+      "15_0_140": {
+        "name": "cloth-config-15.0.140-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XMYFN6Zc/cloth-config-15.0.140-forge.jar",
+        "sha512": "5628440a7c5951346bf98a269e0f455e55b505bd3c38218a4883847837e896ed78fbad97f71bf82a778133e4041d763fa14149794bd0f9c9a05173b653047874"
+      },
+      "15_0_130": {
+        "name": "cloth-config-15.0.130-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/yPULtkhh/cloth-config-15.0.130-forge.jar",
+        "sha512": "dfe9a970241c21647c938d714de76a98e35d14e2aedbfd37108113d1785efa2449442ece47b2558e31049df4f45265229d30b879b1ff2320dcc0b7b11e18c038"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/yPULtkhh/cloth-config-15.0.130-forge.jar",
-      "sha512": "dfe9a970241c21647c938d714de76a98e35d14e2aedbfd37108113d1785efa2449442ece47b2558e31049df4f45265229d30b879b1ff2320dcc0b7b11e18c038",
-      "name": "cloth-config-15.0.130-forge.jar"
+    "1_21": {
+      "latest": {
+        "name": "cloth-config-15.0.140-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XMYFN6Zc/cloth-config-15.0.140-forge.jar",
+        "sha512": "5628440a7c5951346bf98a269e0f455e55b505bd3c38218a4883847837e896ed78fbad97f71bf82a778133e4041d763fa14149794bd0f9c9a05173b653047874"
+      },
+      "15_0_140": {
+        "name": "cloth-config-15.0.140-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XMYFN6Zc/cloth-config-15.0.140-forge.jar",
+        "sha512": "5628440a7c5951346bf98a269e0f455e55b505bd3c38218a4883847837e896ed78fbad97f71bf82a778133e4041d763fa14149794bd0f9c9a05173b653047874"
+      },
+      "15_0_130": {
+        "name": "cloth-config-15.0.130-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/yPULtkhh/cloth-config-15.0.130-forge.jar",
+        "sha512": "dfe9a970241c21647c938d714de76a98e35d14e2aedbfd37108113d1785efa2449442ece47b2558e31049df4f45265229d30b879b1ff2320dcc0b7b11e18c038"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/KWjX5anR/cloth-config-14.0.129-forge.jar",
-      "sha512": "9f6351322b3163c6b7afe6d9950f3bc36019390e8115ec14ddeb3b905103142026cbf9b05ff80b3651530184a1bb573d863026d9aa8618319375234baeee2e68",
-      "name": "cloth-config-14.0.129-forge.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "cloth-config-14.0.139-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nUTOGFsJ/cloth-config-14.0.139-forge.jar",
+        "sha512": "bd1a5c7d0e4c3abd8745fcaf2cc929e71c5724400d9101e616c066bf2b8c5abc69fcaa272a3f5ffe62fa6e24f8f8613111671e6e30cc47e00448bb540ce88306"
+      },
+      "14_0_139": {
+        "name": "cloth-config-14.0.139-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nUTOGFsJ/cloth-config-14.0.139-forge.jar",
+        "sha512": "bd1a5c7d0e4c3abd8745fcaf2cc929e71c5724400d9101e616c066bf2b8c5abc69fcaa272a3f5ffe62fa6e24f8f8613111671e6e30cc47e00448bb540ce88306"
+      },
+      "14_0_129": {
+        "name": "cloth-config-14.0.129-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/KWjX5anR/cloth-config-14.0.129-forge.jar",
+        "sha512": "9f6351322b3163c6b7afe6d9950f3bc36019390e8115ec14ddeb3b905103142026cbf9b05ff80b3651530184a1bb573d863026d9aa8618319375234baeee2e68"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/KWjX5anR/cloth-config-14.0.129-forge.jar",
-      "sha512": "9f6351322b3163c6b7afe6d9950f3bc36019390e8115ec14ddeb3b905103142026cbf9b05ff80b3651530184a1bb573d863026d9aa8618319375234baeee2e68",
-      "name": "cloth-config-14.0.129-forge.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "cloth-config-14.0.139-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nUTOGFsJ/cloth-config-14.0.139-forge.jar",
+        "sha512": "bd1a5c7d0e4c3abd8745fcaf2cc929e71c5724400d9101e616c066bf2b8c5abc69fcaa272a3f5ffe62fa6e24f8f8613111671e6e30cc47e00448bb540ce88306"
+      },
+      "14_0_139": {
+        "name": "cloth-config-14.0.139-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nUTOGFsJ/cloth-config-14.0.139-forge.jar",
+        "sha512": "bd1a5c7d0e4c3abd8745fcaf2cc929e71c5724400d9101e616c066bf2b8c5abc69fcaa272a3f5ffe62fa6e24f8f8613111671e6e30cc47e00448bb540ce88306"
+      },
+      "14_0_129": {
+        "name": "cloth-config-14.0.129-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/KWjX5anR/cloth-config-14.0.129-forge.jar",
+        "sha512": "9f6351322b3163c6b7afe6d9950f3bc36019390e8115ec14ddeb3b905103142026cbf9b05ff80b3651530184a1bb573d863026d9aa8618319375234baeee2e68"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gYTUlUKu/cloth-config-13.0.112-forge.jar",
-      "sha512": "72d27354fca921a54e0ed67e986c9d297cb927350ea52937f8a08d0d773babd8ced878cd501869f18d2f3abd93b1b566abba1d4d9e7c096f121e2c451c51edee",
-      "name": "cloth-config-13.0.112-forge.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "cloth-config-13.0.138-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YTNEzkHf/cloth-config-13.0.138-forge.jar",
+        "sha512": "c862a07ae666e9e78957bb07bcaa0c86cd7f461c6a5d33125dbb0d0c1e0f7be807891039609a1e7ec5233e672a816f6170eb3921d27075c7a2ff5cb5ba8e533b"
+      },
+      "13_0_138": {
+        "name": "cloth-config-13.0.138-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YTNEzkHf/cloth-config-13.0.138-forge.jar",
+        "sha512": "c862a07ae666e9e78957bb07bcaa0c86cd7f461c6a5d33125dbb0d0c1e0f7be807891039609a1e7ec5233e672a816f6170eb3921d27075c7a2ff5cb5ba8e533b"
+      },
+      "13_0_121": {
+        "name": "cloth-config-13.0.121-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1MwQkf8u/cloth-config-13.0.121-forge.jar",
+        "sha512": "997082c935bafae292c755a11f56339b3e89ea9c5c8e026d35fdc42817faafd2eae1a56d5eb7950ac69371fc160c147732c2e837a0299cd3d8f95700a0fb2bb1"
+      },
+      "13_0_114": {
+        "name": "cloth-config-13.0.114-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/q2CkD3c1/cloth-config-13.0.114-forge.jar",
+        "sha512": "7733b5d24e40860f1deb818f4aed9d1af3febd71f7711251747a95a1aa08f1f6af3a9b7d67c042b3264320888fce4098b06ec48546489f58f2e5774cfe1b5cdb"
+      },
+      "13_0_112": {
+        "name": "cloth-config-13.0.112-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gYTUlUKu/cloth-config-13.0.112-forge.jar",
+        "sha512": "72d27354fca921a54e0ed67e986c9d297cb927350ea52937f8a08d0d773babd8ced878cd501869f18d2f3abd93b1b566abba1d4d9e7c096f121e2c451c51edee"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gYTUlUKu/cloth-config-13.0.112-forge.jar",
-      "sha512": "72d27354fca921a54e0ed67e986c9d297cb927350ea52937f8a08d0d773babd8ced878cd501869f18d2f3abd93b1b566abba1d4d9e7c096f121e2c451c51edee",
-      "name": "cloth-config-13.0.112-forge.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "cloth-config-13.0.138-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YTNEzkHf/cloth-config-13.0.138-forge.jar",
+        "sha512": "c862a07ae666e9e78957bb07bcaa0c86cd7f461c6a5d33125dbb0d0c1e0f7be807891039609a1e7ec5233e672a816f6170eb3921d27075c7a2ff5cb5ba8e533b"
+      },
+      "13_0_138": {
+        "name": "cloth-config-13.0.138-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YTNEzkHf/cloth-config-13.0.138-forge.jar",
+        "sha512": "c862a07ae666e9e78957bb07bcaa0c86cd7f461c6a5d33125dbb0d0c1e0f7be807891039609a1e7ec5233e672a816f6170eb3921d27075c7a2ff5cb5ba8e533b"
+      },
+      "13_0_121": {
+        "name": "cloth-config-13.0.121-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1MwQkf8u/cloth-config-13.0.121-forge.jar",
+        "sha512": "997082c935bafae292c755a11f56339b3e89ea9c5c8e026d35fdc42817faafd2eae1a56d5eb7950ac69371fc160c147732c2e837a0299cd3d8f95700a0fb2bb1"
+      },
+      "13_0_114": {
+        "name": "cloth-config-13.0.114-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/q2CkD3c1/cloth-config-13.0.114-forge.jar",
+        "sha512": "7733b5d24e40860f1deb818f4aed9d1af3febd71f7711251747a95a1aa08f1f6af3a9b7d67c042b3264320888fce4098b06ec48546489f58f2e5774cfe1b5cdb"
+      },
+      "13_0_112": {
+        "name": "cloth-config-13.0.112-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gYTUlUKu/cloth-config-13.0.112-forge.jar",
+        "sha512": "72d27354fca921a54e0ed67e986c9d297cb927350ea52937f8a08d0d773babd8ced878cd501869f18d2f3abd93b1b566abba1d4d9e7c096f121e2c451c51edee"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/rMIyh1ac/cloth-config-12.0.110-forge.jar",
-      "sha512": "2d48322624f59c68321e51808c5339cfc3fad1c794472f43382e5d3e938dd4179100f460de7878759bf0cc862039ee6c2a2059e3ac5a90774bd8d8abf54c62f6",
-      "name": "cloth-config-12.0.110-forge.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "cloth-config-12.0.137-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/PZKJzxPT/cloth-config-12.0.137-forge.jar",
+        "sha512": "a9ebfd0737d9c6a7dff2ff50cc876a20168964f05e14298b9b256b286018d994b836995d15773919dad8fc9c18be978424dbe3a7246e29a5ec8d1d2e0bd6bc78"
+      },
+      "12_0_137": {
+        "name": "cloth-config-12.0.137-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/PZKJzxPT/cloth-config-12.0.137-forge.jar",
+        "sha512": "a9ebfd0737d9c6a7dff2ff50cc876a20168964f05e14298b9b256b286018d994b836995d15773919dad8fc9c18be978424dbe3a7246e29a5ec8d1d2e0bd6bc78"
+      },
+      "12_0_119": {
+        "name": "cloth-config-12.0.119-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Y51gygcX/cloth-config-12.0.119-forge.jar",
+        "sha512": "c7c8e0d15bc3626be944a6e355f78993c83234184d2b12d9b99b1dc60065ada597fe6aa6a4c30dc7a4928e75c24a9e8158bd4e4fa2707c9da7d05d0c5c71ebcb"
+      },
+      "12_0_113": {
+        "name": "cloth-config-12.0.113-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/A4lNtO10/cloth-config-12.0.113-forge.jar",
+        "sha512": "5a7685714b200b93ed561a4c43be2be22def602e62d4ae654187f45921e5941c2118d27ff2b2aa612b71fcb9ca0ada7686e50a98bdec2224dfa8741e22a5cf2b"
+      },
+      "12_0_111": {
+        "name": "cloth-config-12.0.111-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VmKENDcG/cloth-config-12.0.111-forge.jar",
+        "sha512": "d8da3706c0a23120663e0f1754e9c1410bad75b09e7f5def586977d05158b7f3905afe8fe09633d87802e0ad649ca90a852de83a48796fb2f64263979bbd4764"
+      },
+      "12_0_110": {
+        "name": "cloth-config-12.0.110-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/rMIyh1ac/cloth-config-12.0.110-forge.jar",
+        "sha512": "2d48322624f59c68321e51808c5339cfc3fad1c794472f43382e5d3e938dd4179100f460de7878759bf0cc862039ee6c2a2059e3ac5a90774bd8d8abf54c62f6"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/aAaLEVNM/cloth-config-11.0.99-forge.jar",
-      "sha512": "009d6673d5c6566e4f7ba73eb501678fc866bb9cd1c9fea63e3cb84074118bffb79cbb2a9170ca578afbd47b9a7bd734d6c5ba60faf82d781363b5aa06556bba",
-      "name": "cloth-config-11.0.99-forge.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "cloth-config-12.0.109-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/IbAdAuBo/cloth-config-12.0.109-forge.jar",
+        "sha512": "64db755476259d5c4ec6a1ebe844287e1c7e3934a2819a63669c5483780193c81cede40f127c3000a7e594f7f4319d044e1f5b01721e0b6e803ba448a1dc7400"
+      },
+      "12_0_109": {
+        "name": "cloth-config-12.0.109-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/IbAdAuBo/cloth-config-12.0.109-forge.jar",
+        "sha512": "64db755476259d5c4ec6a1ebe844287e1c7e3934a2819a63669c5483780193c81cede40f127c3000a7e594f7f4319d044e1f5b01721e0b6e803ba448a1dc7400"
+      },
+      "11_1_136": {
+        "name": "cloth-config-11.1.136-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+        "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef"
+      },
+      "11_1_118": {
+        "name": "cloth-config-11.1.118-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar",
+        "sha512": "5f8017fb496e65ce25ecb249927602d578fc235fc80c5db335e071ee9c108680b3c8c1f82dfafaf21c90e46a174b6717a3946feea5295a3c8ace5b11201ff7c5"
+      },
+      "11_1_106": {
+        "name": "cloth-config-11.1.106-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JoLgnJ0G/cloth-config-11.1.106-forge.jar",
+        "sha512": "f48397e041df04bfd8c333cf282e6eeb076e38248aa8518ee7289859becf7037bbf00582cf7e6593e28eeaf74a44737438f100af666a83619b5d066389e70f49"
+      },
+      "11_0_99": {
+        "name": "cloth-config-11.0.99-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/aAaLEVNM/cloth-config-11.0.99-forge.jar",
+        "sha512": "009d6673d5c6566e4f7ba73eb501678fc866bb9cd1c9fea63e3cb84074118bffb79cbb2a9170ca578afbd47b9a7bd734d6c5ba60faf82d781363b5aa06556bba"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/aAaLEVNM/cloth-config-11.0.99-forge.jar",
-      "sha512": "009d6673d5c6566e4f7ba73eb501678fc866bb9cd1c9fea63e3cb84074118bffb79cbb2a9170ca578afbd47b9a7bd734d6c5ba60faf82d781363b5aa06556bba",
-      "name": "cloth-config-11.0.99-forge.jar"
+    "1_20": {
+      "latest": {
+        "name": "cloth-config-12.0.109-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/IbAdAuBo/cloth-config-12.0.109-forge.jar",
+        "sha512": "64db755476259d5c4ec6a1ebe844287e1c7e3934a2819a63669c5483780193c81cede40f127c3000a7e594f7f4319d044e1f5b01721e0b6e803ba448a1dc7400"
+      },
+      "12_0_109": {
+        "name": "cloth-config-12.0.109-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/IbAdAuBo/cloth-config-12.0.109-forge.jar",
+        "sha512": "64db755476259d5c4ec6a1ebe844287e1c7e3934a2819a63669c5483780193c81cede40f127c3000a7e594f7f4319d044e1f5b01721e0b6e803ba448a1dc7400"
+      },
+      "11_1_136": {
+        "name": "cloth-config-11.1.136-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+        "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef"
+      },
+      "11_1_118": {
+        "name": "cloth-config-11.1.118-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar",
+        "sha512": "5f8017fb496e65ce25ecb249927602d578fc235fc80c5db335e071ee9c108680b3c8c1f82dfafaf21c90e46a174b6717a3946feea5295a3c8ace5b11201ff7c5"
+      },
+      "11_1_106": {
+        "name": "cloth-config-11.1.106-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JoLgnJ0G/cloth-config-11.1.106-forge.jar",
+        "sha512": "f48397e041df04bfd8c333cf282e6eeb076e38248aa8518ee7289859becf7037bbf00582cf7e6593e28eeaf74a44737438f100af666a83619b5d066389e70f49"
+      },
+      "11_0_99": {
+        "name": "cloth-config-11.0.99-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/aAaLEVNM/cloth-config-11.0.99-forge.jar",
+        "sha512": "009d6673d5c6566e4f7ba73eb501678fc866bb9cd1c9fea63e3cb84074118bffb79cbb2a9170ca578afbd47b9a7bd734d6c5ba60faf82d781363b5aa06556bba"
+      }
     },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/X8YuGurB/cloth-config-10.0.96-forge.jar",
-      "sha512": "a7c05e1af796db686c2b828e6cbbeb73cb90d54f148cab053c11cb5468cab3b8ecd84c9161be8684a46e226000076889a94e8108315f2616331dea296be1257f",
-      "name": "cloth-config-10.0.96-forge.jar"
+    "1_19_4": {
+      "latest": {
+        "name": "cloth-config-10.1.135-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/mwddirHR/cloth-config-10.1.135-forge.jar",
+        "sha512": "ea6ec48c7b838040aad58224921947a55bae1c4bafdd0a692dfa011a64a657ca793749a63b7086cb733182cb2cb8dfb45ea0693db72ed1ab160d79e927e33326"
+      },
+      "10_1_135": {
+        "name": "cloth-config-10.1.135-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/mwddirHR/cloth-config-10.1.135-forge.jar",
+        "sha512": "ea6ec48c7b838040aad58224921947a55bae1c4bafdd0a692dfa011a64a657ca793749a63b7086cb733182cb2cb8dfb45ea0693db72ed1ab160d79e927e33326"
+      },
+      "10_1_117": {
+        "name": "cloth-config-10.1.117-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/w2LhUkqZ/cloth-config-10.1.117-forge.jar",
+        "sha512": "1e87959f92156da668220c1d0581a8e3333370ed255740a3bcad520223b49a66de10ebb59bd996a04e2615691b9b34782c3fa90766d2cdfc4b52e9b738e4e10c"
+      },
+      "10_1_105": {
+        "name": "cloth-config-10.1.105-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Sqf2NXVd/cloth-config-10.1.105-forge.jar",
+        "sha512": "bc45349646d1020675fa60534e0f27c9f5520b1234083033c6259ec608afe9c577df53caf87feb58403da7d2dc85f8489ec0813c7fbda70225ac65bcd69369e3"
+      },
+      "10_0_96": {
+        "name": "cloth-config-10.0.96-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/X8YuGurB/cloth-config-10.0.96-forge.jar",
+        "sha512": "a7c05e1af796db686c2b828e6cbbeb73cb90d54f148cab053c11cb5468cab3b8ecd84c9161be8684a46e226000076889a94e8108315f2616331dea296be1257f"
+      }
     },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VYURtAAK/cloth-config-9.0.94-forge.jar",
-      "sha512": "3991b5597efc41770e8aa2bf8b55a58bebf28d404d1e310351236a2cfdb30354a2bd91e63489de0cf1bde866552d8d8d297940ce3035f24efb242bd1cf0a6b4a",
-      "name": "cloth-config-9.0.94-forge.jar"
+    "1_19_3": {
+      "latest": {
+        "name": "cloth-config-9.1.104-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8AMPotFw/cloth-config-9.1.104-forge.jar",
+        "sha512": "16984834c3e71dd5c1116334cca074058304f28dc8320a90ef9a8254954694686fc52e20b9a2c4237293b11fa097995747f308ced75041e3469831bbd30d6c46"
+      },
+      "9_1_104": {
+        "name": "cloth-config-9.1.104-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8AMPotFw/cloth-config-9.1.104-forge.jar",
+        "sha512": "16984834c3e71dd5c1116334cca074058304f28dc8320a90ef9a8254954694686fc52e20b9a2c4237293b11fa097995747f308ced75041e3469831bbd30d6c46"
+      },
+      "9_0_94": {
+        "name": "cloth-config-9.0.94-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/VYURtAAK/cloth-config-9.0.94-forge.jar",
+        "sha512": "3991b5597efc41770e8aa2bf8b55a58bebf28d404d1e310351236a2cfdb30354a2bd91e63489de0cf1bde866552d8d8d297940ce3035f24efb242bd1cf0a6b4a"
+      }
     },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bforge/cloth-config-8.0.75-forge.jar",
-      "sha512": "cb3f1344186a29aca62530f7ef3a6f2255d451fb9caaf7078e1bd96aa38119493adb12478c2561b67c5b5a1b7f06fef79b1eb0a4d6800607cb8b47d0a570a64b",
-      "name": "cloth-config-8.0.75-forge.jar"
+    "1_19_2": {
+      "latest": {
+        "name": "cloth-config-8.3.134-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qqCHdFw2/cloth-config-8.3.134-forge.jar",
+        "sha512": "607d0bd647ce3499fe8ab57caeb962862ca22d2b891b477e18d76e0900e6103e61e092826d8f8e104143920fd36a9a849b6d87dc677f248e08ac708a4b947e54"
+      },
+      "8_3_134": {
+        "name": "cloth-config-8.3.134-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qqCHdFw2/cloth-config-8.3.134-forge.jar",
+        "sha512": "607d0bd647ce3499fe8ab57caeb962862ca22d2b891b477e18d76e0900e6103e61e092826d8f8e104143920fd36a9a849b6d87dc677f248e08ac708a4b947e54"
+      },
+      "8_3_115": {
+        "name": "cloth-config-8.3.115-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/o6AGzycg/cloth-config-8.3.115-forge.jar",
+        "sha512": "b0a894303734dc029ce4b2c49736c1ec9af91821ee2b5d72a5c4d7a74409712be5748a018613d416cfe1059f5ceb0510401855422e81ab888f9949e4c250d453"
+      },
+      "8_3_103": {
+        "name": "cloth-config-8.3.103-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EUyHCmUW/cloth-config-8.3.103-forge.jar",
+        "sha512": "8a69e844d29dcfbddcc9ce07cbde84b2a147a9f368d075bcc01717af3b4aa77710c80835124e8fd508db2b9d326f7f157eb91d3fb308e2da9fd625d1fc617ffd"
+      },
+      "8_2_88": {
+        "name": "cloth-config-8.2.88-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Fw7B2c97/cloth-config-8.2.88-forge.jar",
+        "sha512": "ce2ba15870f0c316fcc5a62bac3795e4e4b57421e4a65b3c3c906436786b1b6f2fd9b1301e24c3fdaa44701670e8520dceac8b817bcdd76de186a4fe8ec256cd"
+      },
+      "8_1_77": {
+        "name": "cloth-config-8.1.77-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Q0bdszKc/cloth-config-8.1.77-forge.jar",
+        "sha512": "e07130646a3df5d92e9b10dc48921b60f1bd248c86f2ca7679f46f4cf015cdf434d2f8a824729a8e20b646207e07e97a071f5b64ee9993ad7c3803c857272eda"
+      },
+      "8_0_75": {
+        "name": "cloth-config-8.0.75-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bforge/cloth-config-8.0.75-forge.jar",
+        "sha512": "cb3f1344186a29aca62530f7ef3a6f2255d451fb9caaf7078e1bd96aa38119493adb12478c2561b67c5b5a1b7f06fef79b1eb0a4d6800607cb8b47d0a570a64b"
+      }
     },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bforge/cloth-config-8.0.75-forge.jar",
-      "sha512": "cb3f1344186a29aca62530f7ef3a6f2255d451fb9caaf7078e1bd96aa38119493adb12478c2561b67c5b5a1b7f06fef79b1eb0a4d6800607cb8b47d0a570a64b",
-      "name": "cloth-config-8.0.75-forge.jar"
+    "1_19_1": {
+      "latest": {
+        "name": "cloth-config-8.3.134-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qqCHdFw2/cloth-config-8.3.134-forge.jar",
+        "sha512": "607d0bd647ce3499fe8ab57caeb962862ca22d2b891b477e18d76e0900e6103e61e092826d8f8e104143920fd36a9a849b6d87dc677f248e08ac708a4b947e54"
+      },
+      "8_3_134": {
+        "name": "cloth-config-8.3.134-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qqCHdFw2/cloth-config-8.3.134-forge.jar",
+        "sha512": "607d0bd647ce3499fe8ab57caeb962862ca22d2b891b477e18d76e0900e6103e61e092826d8f8e104143920fd36a9a849b6d87dc677f248e08ac708a4b947e54"
+      },
+      "8_3_115": {
+        "name": "cloth-config-8.3.115-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/o6AGzycg/cloth-config-8.3.115-forge.jar",
+        "sha512": "b0a894303734dc029ce4b2c49736c1ec9af91821ee2b5d72a5c4d7a74409712be5748a018613d416cfe1059f5ceb0510401855422e81ab888f9949e4c250d453"
+      },
+      "8_3_103": {
+        "name": "cloth-config-8.3.103-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EUyHCmUW/cloth-config-8.3.103-forge.jar",
+        "sha512": "8a69e844d29dcfbddcc9ce07cbde84b2a147a9f368d075bcc01717af3b4aa77710c80835124e8fd508db2b9d326f7f157eb91d3fb308e2da9fd625d1fc617ffd"
+      },
+      "8_2_88": {
+        "name": "cloth-config-8.2.88-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Fw7B2c97/cloth-config-8.2.88-forge.jar",
+        "sha512": "ce2ba15870f0c316fcc5a62bac3795e4e4b57421e4a65b3c3c906436786b1b6f2fd9b1301e24c3fdaa44701670e8520dceac8b817bcdd76de186a4fe8ec256cd"
+      },
+      "8_1_77": {
+        "name": "cloth-config-8.1.77-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Q0bdszKc/cloth-config-8.1.77-forge.jar",
+        "sha512": "e07130646a3df5d92e9b10dc48921b60f1bd248c86f2ca7679f46f4cf015cdf434d2f8a824729a8e20b646207e07e97a071f5b64ee9993ad7c3803c857272eda"
+      },
+      "8_0_75": {
+        "name": "cloth-config-8.0.75-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bforge/cloth-config-8.0.75-forge.jar",
+        "sha512": "cb3f1344186a29aca62530f7ef3a6f2255d451fb9caaf7078e1bd96aa38119493adb12478c2561b67c5b5a1b7f06fef79b1eb0a4d6800607cb8b47d0a570a64b"
+      }
     },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.69%2Bforge/cloth-config-forge-7.0.69.jar",
-      "sha512": "8a27873df9eccd937297a68d20d266e5c366263f41403b1496f7d50ad246337e38b2504defa1dd533c28142a16debf98715c7f746d1630a76713773d3a525e9f",
-      "name": "cloth-config-forge-7.0.69.jar"
+    "1_19": {
+      "latest": {
+        "name": "cloth-config-8.3.134-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qqCHdFw2/cloth-config-8.3.134-forge.jar",
+        "sha512": "607d0bd647ce3499fe8ab57caeb962862ca22d2b891b477e18d76e0900e6103e61e092826d8f8e104143920fd36a9a849b6d87dc677f248e08ac708a4b947e54"
+      },
+      "8_3_134": {
+        "name": "cloth-config-8.3.134-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qqCHdFw2/cloth-config-8.3.134-forge.jar",
+        "sha512": "607d0bd647ce3499fe8ab57caeb962862ca22d2b891b477e18d76e0900e6103e61e092826d8f8e104143920fd36a9a849b6d87dc677f248e08ac708a4b947e54"
+      },
+      "8_3_115": {
+        "name": "cloth-config-8.3.115-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/o6AGzycg/cloth-config-8.3.115-forge.jar",
+        "sha512": "b0a894303734dc029ce4b2c49736c1ec9af91821ee2b5d72a5c4d7a74409712be5748a018613d416cfe1059f5ceb0510401855422e81ab888f9949e4c250d453"
+      },
+      "8_3_103": {
+        "name": "cloth-config-8.3.103-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EUyHCmUW/cloth-config-8.3.103-forge.jar",
+        "sha512": "8a69e844d29dcfbddcc9ce07cbde84b2a147a9f368d075bcc01717af3b4aa77710c80835124e8fd508db2b9d326f7f157eb91d3fb308e2da9fd625d1fc617ffd"
+      },
+      "8_2_88": {
+        "name": "cloth-config-8.2.88-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Fw7B2c97/cloth-config-8.2.88-forge.jar",
+        "sha512": "ce2ba15870f0c316fcc5a62bac3795e4e4b57421e4a65b3c3c906436786b1b6f2fd9b1301e24c3fdaa44701670e8520dceac8b817bcdd76de186a4fe8ec256cd"
+      },
+      "8_1_77": {
+        "name": "cloth-config-8.1.77-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Q0bdszKc/cloth-config-8.1.77-forge.jar",
+        "sha512": "e07130646a3df5d92e9b10dc48921b60f1bd248c86f2ca7679f46f4cf015cdf434d2f8a824729a8e20b646207e07e97a071f5b64ee9993ad7c3803c857272eda"
+      },
+      "8_0_75": {
+        "name": "cloth-config-8.0.75-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bforge/cloth-config-8.0.75-forge.jar",
+        "sha512": "cb3f1344186a29aca62530f7ef3a6f2255d451fb9caaf7078e1bd96aa38119493adb12478c2561b67c5b5a1b7f06fef79b1eb0a4d6800607cb8b47d0a570a64b"
+      },
+      "7_0_74": {
+        "name": "cloth-config-7.0.74-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.74%2Bforge/cloth-config-7.0.74-forge.jar",
+        "sha512": "176b527cc0cbc9379b394f2941385831d6c342fa8ae322eecc5d50f251bc7812ac432ae348c1e81d4fa0d7784f735463ae3f32ce783ae70ede91c6bb21e35801"
+      },
+      "7_0_73": {
+        "name": "cloth-config-7.0.73-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.73%2Bforge/cloth-config-7.0.73-forge.jar",
+        "sha512": "c498ab351147c1124cd0eae4b535e5029e64fa697e2b51fedae1c6732ca2210f7fcfaac8447ed62d7c7b150a03bc020e7728352c55f96352109afa712a689ced"
+      },
+      "7_0_72": {
+        "name": "cloth-config-7.0.72-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.72%2Bforge/cloth-config-7.0.72-forge.jar",
+        "sha512": "f4addca1ff37a418cb7903f7e2941ad41b8f696dc38731f787a96cc00dd4a0e377953ab77ba09657c2085230b63edfc4796ae9d624b587f762b7acc60e3c209b"
+      },
+      "7_0_69": {
+        "name": "cloth-config-forge-7.0.69.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.69%2Bforge/cloth-config-forge-7.0.69.jar",
+        "sha512": "8a27873df9eccd937297a68d20d266e5c366263f41403b1496f7d50ad246337e38b2504defa1dd533c28142a16debf98715c7f746d1630a76713773d3a525e9f"
+      }
     },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bforge/cloth-config-6.2.57-forge.jar",
-      "sha512": "2290494e679c1e5bd21fd80148390dfd6101d2e72e8d56ba793f8da236ef878515bec89391a044973ed292cba7a525e6d301c89d75cb216ec8b6e28bae1c7a8d",
-      "name": "cloth-config-6.2.57-forge.jar"
+    "1_18_2": {
+      "latest": {
+        "name": "cloth-config-6.5.102-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZbWG3eJW/cloth-config-6.5.102-forge.jar",
+        "sha512": "a278313471cd9563f716059cdab2fa3be11d002f44d1ffd57d025dfec336e3fe7dd2876501fb0ff5bc159c340e9ba5439a57d6d0607bcfda1a650f14e9852c4d"
+      },
+      "6_5_102": {
+        "name": "cloth-config-6.5.102-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZbWG3eJW/cloth-config-6.5.102-forge.jar",
+        "sha512": "a278313471cd9563f716059cdab2fa3be11d002f44d1ffd57d025dfec336e3fe7dd2876501fb0ff5bc159c340e9ba5439a57d6d0607bcfda1a650f14e9852c4d"
+      },
+      "6_3_81": {
+        "name": "cloth-config-6.3.81-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/GcaDCWXk/cloth-config-6.3.81-forge.jar",
+        "sha512": "85f5c7d414ee6ab6f52713b4223e03ac836109dd08766ddc6ce8536475df6547a90aaf892d5c328bc0af7c39bdc6d88735d5dd1aeb0e4622f02a10f1bb622854"
+      },
+      "6_2_62": {
+        "name": "cloth-config-forge-6.2.62.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62%2Bforge/cloth-config-forge-6.2.62.jar",
+        "sha512": "66b85d3234843dbacfbd6588556d500931c84049ca7cc212781b843a25cc972614011eb7136fc028015a5940d2755ec240dc04a6d48ccc33f6c1bc54cc478063"
+      },
+      "6_2_57": {
+        "name": "cloth-config-6.2.57-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bforge/cloth-config-6.2.57-forge.jar",
+        "sha512": "2290494e679c1e5bd21fd80148390dfd6101d2e72e8d56ba793f8da236ef878515bec89391a044973ed292cba7a525e6d301c89d75cb216ec8b6e28bae1c7a8d"
+      }
     },
-    "1.18.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bforge/cloth-config-6.2.57-forge.jar",
-      "sha512": "2290494e679c1e5bd21fd80148390dfd6101d2e72e8d56ba793f8da236ef878515bec89391a044973ed292cba7a525e6d301c89d75cb216ec8b6e28bae1c7a8d",
-      "name": "cloth-config-6.2.57-forge.jar"
+    "1_18_1": {
+      "latest": {
+        "name": "cloth-config-6.5.102-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZbWG3eJW/cloth-config-6.5.102-forge.jar",
+        "sha512": "a278313471cd9563f716059cdab2fa3be11d002f44d1ffd57d025dfec336e3fe7dd2876501fb0ff5bc159c340e9ba5439a57d6d0607bcfda1a650f14e9852c4d"
+      },
+      "6_5_102": {
+        "name": "cloth-config-6.5.102-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZbWG3eJW/cloth-config-6.5.102-forge.jar",
+        "sha512": "a278313471cd9563f716059cdab2fa3be11d002f44d1ffd57d025dfec336e3fe7dd2876501fb0ff5bc159c340e9ba5439a57d6d0607bcfda1a650f14e9852c4d"
+      },
+      "6_3_81": {
+        "name": "cloth-config-6.3.81-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/GcaDCWXk/cloth-config-6.3.81-forge.jar",
+        "sha512": "85f5c7d414ee6ab6f52713b4223e03ac836109dd08766ddc6ce8536475df6547a90aaf892d5c328bc0af7c39bdc6d88735d5dd1aeb0e4622f02a10f1bb622854"
+      },
+      "6_2_62": {
+        "name": "cloth-config-forge-6.2.62.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62%2Bforge/cloth-config-forge-6.2.62.jar",
+        "sha512": "66b85d3234843dbacfbd6588556d500931c84049ca7cc212781b843a25cc972614011eb7136fc028015a5940d2755ec240dc04a6d48ccc33f6c1bc54cc478063"
+      },
+      "6_2_57": {
+        "name": "cloth-config-6.2.57-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bforge/cloth-config-6.2.57-forge.jar",
+        "sha512": "2290494e679c1e5bd21fd80148390dfd6101d2e72e8d56ba793f8da236ef878515bec89391a044973ed292cba7a525e6d301c89d75cb216ec8b6e28bae1c7a8d"
+      }
     },
-    "1.18": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bforge/cloth-config-6.2.57-forge.jar",
-      "sha512": "2290494e679c1e5bd21fd80148390dfd6101d2e72e8d56ba793f8da236ef878515bec89391a044973ed292cba7a525e6d301c89d75cb216ec8b6e28bae1c7a8d",
-      "name": "cloth-config-6.2.57-forge.jar"
+    "1_18": {
+      "latest": {
+        "name": "cloth-config-6.5.102-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZbWG3eJW/cloth-config-6.5.102-forge.jar",
+        "sha512": "a278313471cd9563f716059cdab2fa3be11d002f44d1ffd57d025dfec336e3fe7dd2876501fb0ff5bc159c340e9ba5439a57d6d0607bcfda1a650f14e9852c4d"
+      },
+      "6_5_102": {
+        "name": "cloth-config-6.5.102-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZbWG3eJW/cloth-config-6.5.102-forge.jar",
+        "sha512": "a278313471cd9563f716059cdab2fa3be11d002f44d1ffd57d025dfec336e3fe7dd2876501fb0ff5bc159c340e9ba5439a57d6d0607bcfda1a650f14e9852c4d"
+      },
+      "6_3_81": {
+        "name": "cloth-config-6.3.81-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/GcaDCWXk/cloth-config-6.3.81-forge.jar",
+        "sha512": "85f5c7d414ee6ab6f52713b4223e03ac836109dd08766ddc6ce8536475df6547a90aaf892d5c328bc0af7c39bdc6d88735d5dd1aeb0e4622f02a10f1bb622854"
+      },
+      "6_2_62": {
+        "name": "cloth-config-forge-6.2.62.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62%2Bforge/cloth-config-forge-6.2.62.jar",
+        "sha512": "66b85d3234843dbacfbd6588556d500931c84049ca7cc212781b843a25cc972614011eb7136fc028015a5940d2755ec240dc04a6d48ccc33f6c1bc54cc478063"
+      },
+      "6_2_57": {
+        "name": "cloth-config-6.2.57-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bforge/cloth-config-6.2.57-forge.jar",
+        "sha512": "2290494e679c1e5bd21fd80148390dfd6101d2e72e8d56ba793f8da236ef878515bec89391a044973ed292cba7a525e6d301c89d75cb216ec8b6e28bae1c7a8d"
+      }
     },
-    "1.17.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bforge/cloth-config-5.3.58-forge.jar",
-      "sha512": "ef0517a2279c789f72283bd7616207b1cf77c290d6efccbc8a835c5ceba1f85198c279d9ae6febc00db408df9cb31939c26626e2c24d24694c5bc78d41d51dc0",
-      "name": "cloth-config-5.3.58-forge.jar"
+    "1_17_1": {
+      "latest": {
+        "name": "cloth-config-forge-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63%2Bforge/cloth-config-forge-5.3.63.jar",
+        "sha512": "67d588a6daaeacc8fe13e137b5d3804337766edbc2c29d174377a6885564d6c0c4e6c9b4a8051e10ffbb65ffc31f5ed492e5600fbebfbd7df150bd9786e4dded"
+      },
+      "5_3_63": {
+        "name": "cloth-config-forge-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63%2Bforge/cloth-config-forge-5.3.63.jar",
+        "sha512": "67d588a6daaeacc8fe13e137b5d3804337766edbc2c29d174377a6885564d6c0c4e6c9b4a8051e10ffbb65ffc31f5ed492e5600fbebfbd7df150bd9786e4dded"
+      },
+      "5_3_58": {
+        "name": "cloth-config-5.3.58-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bforge/cloth-config-5.3.58-forge.jar",
+        "sha512": "ef0517a2279c789f72283bd7616207b1cf77c290d6efccbc8a835c5ceba1f85198c279d9ae6febc00db408df9cb31939c26626e2c24d24694c5bc78d41d51dc0"
+      }
     },
-    "1.17": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bforge/cloth-config-5.3.58-forge.jar",
-      "sha512": "ef0517a2279c789f72283bd7616207b1cf77c290d6efccbc8a835c5ceba1f85198c279d9ae6febc00db408df9cb31939c26626e2c24d24694c5bc78d41d51dc0",
-      "name": "cloth-config-5.3.58-forge.jar"
+    "1_17": {
+      "latest": {
+        "name": "cloth-config-forge-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63%2Bforge/cloth-config-forge-5.3.63.jar",
+        "sha512": "67d588a6daaeacc8fe13e137b5d3804337766edbc2c29d174377a6885564d6c0c4e6c9b4a8051e10ffbb65ffc31f5ed492e5600fbebfbd7df150bd9786e4dded"
+      },
+      "5_3_63": {
+        "name": "cloth-config-forge-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63%2Bforge/cloth-config-forge-5.3.63.jar",
+        "sha512": "67d588a6daaeacc8fe13e137b5d3804337766edbc2c29d174377a6885564d6c0c4e6c9b4a8051e10ffbb65ffc31f5ed492e5600fbebfbd7df150bd9786e4dded"
+      },
+      "5_3_58": {
+        "name": "cloth-config-5.3.58-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bforge/cloth-config-5.3.58-forge.jar",
+        "sha512": "ef0517a2279c789f72283bd7616207b1cf77c290d6efccbc8a835c5ceba1f85198c279d9ae6febc00db408df9cb31939c26626e2c24d24694c5bc78d41d51dc0"
+      }
     },
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
-      "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627",
-      "name": "cloth-config-4.14.54-forge.jar"
+    "1_16_5": {
+      "latest": {
+        "name": "cloth-config-4.17.101-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i0ExoqTD/cloth-config-4.17.101-forge.jar",
+        "sha512": "3a5755660b09408b5cce7ba8232f1edb5d5e5acbed58577da5522e5c84023150445146badd7133346b6abe57d8b22a8f578839c0e9a3df0183c9b860ace17fa4"
+      },
+      "4_17_101": {
+        "name": "cloth-config-4.17.101-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i0ExoqTD/cloth-config-4.17.101-forge.jar",
+        "sha512": "3a5755660b09408b5cce7ba8232f1edb5d5e5acbed58577da5522e5c84023150445146badd7133346b6abe57d8b22a8f578839c0e9a3df0183c9b860ace17fa4"
+      },
+      "4_16_91": {
+        "name": "cloth-config-4.16.91-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/CXaMuU8e/cloth-config-4.16.91-forge.jar",
+        "sha512": "3a61ee708029af5f5d91fe0cdc9081d2d7cfb094468451f03aa3234f97795ca190a8575c3a75630209d60dfc03ea41908bf677e7d6acb946b2d8381b6454b74f"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/iYo4XV1L/cloth-config-4.15.82-forge.jar",
+        "sha512": "59846557f98e16863852c0c3392e48984f783261aac8c7d62605a6b14a3236db0b4ba37cb19fbafbf48b05d96d2f90a9489bc359a29cd066f9f430fe90a4efee"
+      },
+      "4_14_64": {
+        "name": "cloth-config-forge-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64%2Bforge/cloth-config-forge-4.14.64.jar",
+        "sha512": "2c1b890013bef8f154fe4c85b91c617d74d5bbef2d8ea0b357850a60b3ebe8085b4d997acfb45ce30b5251a929b9677befdfaf710575d825588996f56a667d40"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
+        "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627"
+      }
     },
-    "1.16.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
-      "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627",
-      "name": "cloth-config-4.14.54-forge.jar"
+    "1_16_4": {
+      "latest": {
+        "name": "cloth-config-4.17.101-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i0ExoqTD/cloth-config-4.17.101-forge.jar",
+        "sha512": "3a5755660b09408b5cce7ba8232f1edb5d5e5acbed58577da5522e5c84023150445146badd7133346b6abe57d8b22a8f578839c0e9a3df0183c9b860ace17fa4"
+      },
+      "4_17_101": {
+        "name": "cloth-config-4.17.101-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/i0ExoqTD/cloth-config-4.17.101-forge.jar",
+        "sha512": "3a5755660b09408b5cce7ba8232f1edb5d5e5acbed58577da5522e5c84023150445146badd7133346b6abe57d8b22a8f578839c0e9a3df0183c9b860ace17fa4"
+      },
+      "4_16_91": {
+        "name": "cloth-config-4.16.91-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/CXaMuU8e/cloth-config-4.16.91-forge.jar",
+        "sha512": "3a61ee708029af5f5d91fe0cdc9081d2d7cfb094468451f03aa3234f97795ca190a8575c3a75630209d60dfc03ea41908bf677e7d6acb946b2d8381b6454b74f"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/iYo4XV1L/cloth-config-4.15.82-forge.jar",
+        "sha512": "59846557f98e16863852c0c3392e48984f783261aac8c7d62605a6b14a3236db0b4ba37cb19fbafbf48b05d96d2f90a9489bc359a29cd066f9f430fe90a4efee"
+      },
+      "4_14_64": {
+        "name": "cloth-config-forge-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64%2Bforge/cloth-config-forge-4.14.64.jar",
+        "sha512": "2c1b890013bef8f154fe4c85b91c617d74d5bbef2d8ea0b357850a60b3ebe8085b4d997acfb45ce30b5251a929b9677befdfaf710575d825588996f56a667d40"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
+        "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627"
+      }
     },
-    "1.16.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
-      "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627",
-      "name": "cloth-config-4.14.54-forge.jar"
+    "1_16_3": {
+      "latest": {
+        "name": "cloth-config-4.15.82-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/iYo4XV1L/cloth-config-4.15.82-forge.jar",
+        "sha512": "59846557f98e16863852c0c3392e48984f783261aac8c7d62605a6b14a3236db0b4ba37cb19fbafbf48b05d96d2f90a9489bc359a29cd066f9f430fe90a4efee"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/iYo4XV1L/cloth-config-4.15.82-forge.jar",
+        "sha512": "59846557f98e16863852c0c3392e48984f783261aac8c7d62605a6b14a3236db0b4ba37cb19fbafbf48b05d96d2f90a9489bc359a29cd066f9f430fe90a4efee"
+      },
+      "4_14_64": {
+        "name": "cloth-config-forge-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64%2Bforge/cloth-config-forge-4.14.64.jar",
+        "sha512": "2c1b890013bef8f154fe4c85b91c617d74d5bbef2d8ea0b357850a60b3ebe8085b4d997acfb45ce30b5251a929b9677befdfaf710575d825588996f56a667d40"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
+        "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627"
+      }
     },
-    "1.16.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
-      "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627",
-      "name": "cloth-config-4.14.54-forge.jar"
+    "1_16_2": {
+      "latest": {
+        "name": "cloth-config-4.15.82-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/iYo4XV1L/cloth-config-4.15.82-forge.jar",
+        "sha512": "59846557f98e16863852c0c3392e48984f783261aac8c7d62605a6b14a3236db0b4ba37cb19fbafbf48b05d96d2f90a9489bc359a29cd066f9f430fe90a4efee"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/iYo4XV1L/cloth-config-4.15.82-forge.jar",
+        "sha512": "59846557f98e16863852c0c3392e48984f783261aac8c7d62605a6b14a3236db0b4ba37cb19fbafbf48b05d96d2f90a9489bc359a29cd066f9f430fe90a4efee"
+      },
+      "4_14_64": {
+        "name": "cloth-config-forge-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64%2Bforge/cloth-config-forge-4.14.64.jar",
+        "sha512": "2c1b890013bef8f154fe4c85b91c617d74d5bbef2d8ea0b357850a60b3ebe8085b4d997acfb45ce30b5251a929b9677befdfaf710575d825588996f56a667d40"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-forge.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bforge/cloth-config-4.14.54-forge.jar",
+        "sha512": "13edcd35986ef82024695d6ba5f136b310400792d90bba90d15f1eae7045c8fe96b1f39683453cf55b8b576ae958a9a657764957eb3221bc28fcd09efcd44627"
+      }
     },
-    "1.16.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.0.2%2Bforge/cloth-config-forge-4.0.2.jar",
-      "sha512": "4d226a48fa401b5c59a47fd7436b07b2148a4ea3f7b60c0720a6f40f57de62d4811c0d11de4eae5150d0e0c4700c48b38e023eb224336020dca2f9d344564422",
-      "name": "cloth-config-forge-4.0.2.jar"
+    "1_16_1": {
+      "latest": {
+        "name": "cloth-config-forge-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.0.2%2Bforge/cloth-config-forge-4.0.2.jar",
+        "sha512": "4d226a48fa401b5c59a47fd7436b07b2148a4ea3f7b60c0720a6f40f57de62d4811c0d11de4eae5150d0e0c4700c48b38e023eb224336020dca2f9d344564422"
+      },
+      "4_0_2": {
+        "name": "cloth-config-forge-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.0.2%2Bforge/cloth-config-forge-4.0.2.jar",
+        "sha512": "4d226a48fa401b5c59a47fd7436b07b2148a4ea3f7b60c0720a6f40f57de62d4811c0d11de4eae5150d0e0c4700c48b38e023eb224336020dca2f9d344564422"
+      }
     },
-    "1.16": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.0.2%2Bforge/cloth-config-forge-4.0.2.jar",
-      "sha512": "4d226a48fa401b5c59a47fd7436b07b2148a4ea3f7b60c0720a6f40f57de62d4811c0d11de4eae5150d0e0c4700c48b38e023eb224336020dca2f9d344564422",
-      "name": "cloth-config-forge-4.0.2.jar"
+    "1_16": {
+      "latest": {
+        "name": "cloth-config-forge-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.0.2%2Bforge/cloth-config-forge-4.0.2.jar",
+        "sha512": "4d226a48fa401b5c59a47fd7436b07b2148a4ea3f7b60c0720a6f40f57de62d4811c0d11de4eae5150d0e0c4700c48b38e023eb224336020dca2f9d344564422"
+      },
+      "4_0_2": {
+        "name": "cloth-config-forge-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.0.2%2Bforge/cloth-config-forge-4.0.2.jar",
+        "sha512": "4d226a48fa401b5c59a47fd7436b07b2148a4ea3f7b60c0720a6f40f57de62d4811c0d11de4eae5150d0e0c4700c48b38e023eb224336020dca2f9d344564422"
+      }
     },
-    "1.15.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
-      "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd",
-      "name": "config-2-3.0.jar"
+    "1_15_2": {
+      "latest": {
+        "name": "config-2-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
+        "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd"
+      },
+      "3_0": {
+        "name": "config-2-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
+        "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd"
+      }
     },
-    "1.15.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
-      "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd",
-      "name": "config-2-3.0.jar"
+    "1_15_1": {
+      "latest": {
+        "name": "config-2-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
+        "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd"
+      },
+      "3_0": {
+        "name": "config-2-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
+        "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd"
+      }
     },
-    "1.15": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
-      "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd",
-      "name": "config-2-3.0.jar"
+    "1_15": {
+      "latest": {
+        "name": "config-2-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
+        "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd"
+      },
+      "3_0": {
+        "name": "config-2-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3.0%2Bforge/config-2-3.0.jar",
+        "sha512": "0fbc32f43bdff0864b1d8220a932377d9b08c3b64beff0ac314fe5424ddb3d5ff9dcb14cfbaf9a93a7cb97132c371637d97c4255f7f98e31cb1d1e2f7f1f07bd"
+      }
     },
-    "1.14.4": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
-      "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c",
-      "name": "ClothConfig2-1.4.1.jar"
+    "1_14_4": {
+      "latest": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      },
+      "1_4_1": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      }
     },
-    "1.14.3": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
-      "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c",
-      "name": "ClothConfig2-1.4.1.jar"
+    "1_14_3": {
+      "latest": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      },
+      "1_4_1": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      }
     },
-    "1.14.2": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
-      "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c",
-      "name": "ClothConfig2-1.4.1.jar"
+    "1_14_2": {
+      "latest": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      },
+      "1_4_1": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      }
     },
-    "1.14.1": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
-      "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c",
-      "name": "ClothConfig2-1.4.1.jar"
+    "1_14_1": {
+      "latest": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      },
+      "1_4_1": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      }
     },
-    "1.14": {
-      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
-      "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c",
-      "name": "ClothConfig2-1.4.1.jar"
+    "1_14": {
+      "latest": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      },
+      "1_4_1": {
+        "name": "ClothConfig2-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.4.1%2Bforge/ClothConfig2-1.4.1.jar",
+        "sha512": "7ca538b1c4234d471125ce8dd8d2fead778a345137292464bdfe37a45b6bcda792cc73cebd046bdc7f0a12bf024ffee48b3971777c41cfc97becc1be7ffc9d6c"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_11": {
+      "latest": {
+        "name": "cloth-config-21.11.151-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/9aTLUrUA/cloth-config-21.11.151-fabric.jar",
+        "sha512": "1f1c7edc14a72564e0c4921e930e80de74b588fa905cf243594a355eb391666cd453b454afe48cddaa3e5db987ab251a636bcd675944c2f9585f12717ac989c9"
+      },
+      "21_11_151": {
+        "name": "cloth-config-21.11.151-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/9aTLUrUA/cloth-config-21.11.151-fabric.jar",
+        "sha512": "1f1c7edc14a72564e0c4921e930e80de74b588fa905cf243594a355eb391666cd453b454afe48cddaa3e5db987ab251a636bcd675944c2f9585f12717ac989c9"
+      },
+      "21_11_150": {
+        "name": "cloth-config-21.11.150-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EwqYsm4K/cloth-config-21.11.150-fabric.jar",
+        "sha512": "0d3e79491bd832316a8f7041d9d06399fcd18ebaba487cdc4113e8fef151d010f9cc911947373b193f273214c0f49880dd11f98b15bc5b01dbad8c05f6250ed2"
+      }
+    },
+    "1_21_10": {
+      "latest": {
+        "name": "cloth-config-20.0.149-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qMxkrrmq/cloth-config-20.0.149-fabric.jar",
+        "sha512": "df1d9e0349dc64fc0859f17b65b67b0d7745a26b4905e87fc148ddebc0285de51a3255848599f0d5ee24f6aab00fbac4849d40bb9052936eaa452d216c7ada62"
+      },
+      "20_0_149": {
+        "name": "cloth-config-20.0.149-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qMxkrrmq/cloth-config-20.0.149-fabric.jar",
+        "sha512": "df1d9e0349dc64fc0859f17b65b67b0d7745a26b4905e87fc148ddebc0285de51a3255848599f0d5ee24f6aab00fbac4849d40bb9052936eaa452d216c7ada62"
+      },
+      "20_0_148": {
+        "name": "cloth-config-20.0.148-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/otNNBWZy/cloth-config-20.0.148-fabric.jar",
+        "sha512": "3f6f02540a35c87e7ce84dc280d69b87ac7e0f31a0f6907cb9aab799f62fa291e1250c2fee0ec03aa46330b72df28b13ebe333b3e48ce6c769a9bd4058138d5a"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "cloth-config-20.0.149-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qMxkrrmq/cloth-config-20.0.149-fabric.jar",
+        "sha512": "df1d9e0349dc64fc0859f17b65b67b0d7745a26b4905e87fc148ddebc0285de51a3255848599f0d5ee24f6aab00fbac4849d40bb9052936eaa452d216c7ada62"
+      },
+      "20_0_149": {
+        "name": "cloth-config-20.0.149-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qMxkrrmq/cloth-config-20.0.149-fabric.jar",
+        "sha512": "df1d9e0349dc64fc0859f17b65b67b0d7745a26b4905e87fc148ddebc0285de51a3255848599f0d5ee24f6aab00fbac4849d40bb9052936eaa452d216c7ada62"
+      },
+      "20_0_148": {
+        "name": "cloth-config-20.0.148-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/otNNBWZy/cloth-config-20.0.148-fabric.jar",
+        "sha512": "3f6f02540a35c87e7ce84dc280d69b87ac7e0f31a0f6907cb9aab799f62fa291e1250c2fee0ec03aa46330b72df28b13ebe333b3e48ce6c769a9bd4058138d5a"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "cloth-config-19.0.147-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
+        "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a"
+      },
+      "19_0_147": {
+        "name": "cloth-config-19.0.147-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
+        "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "cloth-config-19.0.147-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
+        "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a"
+      },
+      "19_0_147": {
+        "name": "cloth-config-19.0.147-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
+        "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "cloth-config-19.0.147-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
+        "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a"
+      },
+      "19_0_147": {
+        "name": "cloth-config-19.0.147-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar",
+        "sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a"
+      },
+      "19_0_146": {
+        "name": "cloth-config-19.0.146-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4S1OUeMC/cloth-config-19.0.146-fabric.jar",
+        "sha512": "866bddb37ee148d44c96df5742b86658b2890e5daaffee93142564a6a33a72b64737d95cfda7d98434532a05afbf156d5436434d52d6d78c55dcea42f5a7a911"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "cloth-config-18.0.145-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar",
+        "sha512": "2752215fdc303598f0e98208a3ddae404c413aa3de22f5e2db2f2cc2c7813f08a1731da6778a6b9056a6ebe3b74919fce67abd14332269ad0a353bdc6e9e92c4"
+      },
+      "18_0_145": {
+        "name": "cloth-config-18.0.145-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar",
+        "sha512": "2752215fdc303598f0e98208a3ddae404c413aa3de22f5e2db2f2cc2c7813f08a1731da6778a6b9056a6ebe3b74919fce67abd14332269ad0a353bdc6e9e92c4"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "cloth-config-17.0.144-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar",
+        "sha512": "ecc59da51149250284b0752475c7b328e0b0325888948391597afc638d6e67fa436297af12d2067376de0098ffa6ca86aa3b8d6011356c179222404c701c6345"
+      },
+      "17_0_144": {
+        "name": "cloth-config-17.0.144-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar",
+        "sha512": "ecc59da51149250284b0752475c7b328e0b0325888948391597afc638d6e67fa436297af12d2067376de0098ffa6ca86aa3b8d6011356c179222404c701c6345"
+      },
+      "17_0_142": {
+        "name": "cloth-config-17.0.142-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/c8IkvzeS/cloth-config-17.0.142-fabric.jar",
+        "sha512": "e13690251525aac4edf63cfb158019f573f0669558dc704462ba7df9721e5b2dc8f4a13c0b09c616a706efc75daab75ed61d673ff603e6a89387cc5b0aec5d8d"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "cloth-config-16.0.143-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/FgXq8Sfo/cloth-config-16.0.143-fabric.jar",
+        "sha512": "16c7e2a0cfc39fd42f71cd913729343f7d3b63356e4382ef92f0d939cc18bf7ae15e916b8674af09d5cfc0ca003148d8fa9bd7b16254c86aa34ff32f6624929a"
+      },
+      "16_0_143": {
+        "name": "cloth-config-16.0.143-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/FgXq8Sfo/cloth-config-16.0.143-fabric.jar",
+        "sha512": "16c7e2a0cfc39fd42f71cd913729343f7d3b63356e4382ef92f0d939cc18bf7ae15e916b8674af09d5cfc0ca003148d8fa9bd7b16254c86aa34ff32f6624929a"
+      },
+      "16_0_141": {
+        "name": "cloth-config-16.0.141-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JbVSQUVw/cloth-config-16.0.141-fabric.jar",
+        "sha512": "f8b0fa16fe80a8b78a059ebf1cf366d65132b1dd1830d8b689ecfc731696514e2b3dd73903fbb37d0a5f3d853aa521827bf7ed6fb5d9db245c6afd7ffb9e2687"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "cloth-config-16.0.143-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/FgXq8Sfo/cloth-config-16.0.143-fabric.jar",
+        "sha512": "16c7e2a0cfc39fd42f71cd913729343f7d3b63356e4382ef92f0d939cc18bf7ae15e916b8674af09d5cfc0ca003148d8fa9bd7b16254c86aa34ff32f6624929a"
+      },
+      "16_0_143": {
+        "name": "cloth-config-16.0.143-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/FgXq8Sfo/cloth-config-16.0.143-fabric.jar",
+        "sha512": "16c7e2a0cfc39fd42f71cd913729343f7d3b63356e4382ef92f0d939cc18bf7ae15e916b8674af09d5cfc0ca003148d8fa9bd7b16254c86aa34ff32f6624929a"
+      },
+      "16_0_141": {
+        "name": "cloth-config-16.0.141-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JbVSQUVw/cloth-config-16.0.141-fabric.jar",
+        "sha512": "f8b0fa16fe80a8b78a059ebf1cf366d65132b1dd1830d8b689ecfc731696514e2b3dd73903fbb37d0a5f3d853aa521827bf7ed6fb5d9db245c6afd7ffb9e2687"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "cloth-config-15.0.140-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+        "sha512": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00"
+      },
+      "15_0_140": {
+        "name": "cloth-config-15.0.140-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+        "sha512": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00"
+      },
+      "15_0_130": {
+        "name": "cloth-config-15.0.130-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7jtvrmVP/cloth-config-15.0.130-fabric.jar",
+        "sha512": "8889378815cd9c645a5a7a8b4d800cf211a4cdfae48c7e005f5f1f630272e909899e304e5c294b4c4c05970171ee7ab594d5b1007086ac14d22db414e83eb60b"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "cloth-config-15.0.140-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+        "sha512": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00"
+      },
+      "15_0_140": {
+        "name": "cloth-config-15.0.140-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+        "sha512": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00"
+      },
+      "15_0_130": {
+        "name": "cloth-config-15.0.130-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7jtvrmVP/cloth-config-15.0.130-fabric.jar",
+        "sha512": "8889378815cd9c645a5a7a8b4d800cf211a4cdfae48c7e005f5f1f630272e909899e304e5c294b4c4c05970171ee7ab594d5b1007086ac14d22db414e83eb60b"
+      },
+      "15_0_128": {
+        "name": "cloth-config-15.0.128-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gY9NB5Rj/cloth-config-15.0.128-fabric.jar",
+        "sha512": "5d9823caffc721f852451aa244693591da8fdd2ee6bc3c4339e911269390439c89c7ee62a06bdaa0011f30ea578ba725fd4ff3481683994aa6a217b4b28e52e3"
+      },
+      "15_0_127": {
+        "name": "cloth-config-15.0.127-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar",
+        "sha512": "b3059112661363955aa77f3cdc2993e7875089f6415179351869febd4bd35a221b75001ab4698e6105f3c0241698d0ffce645b5cae7fe9f90bdb3b96b74691d2"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "cloth-config-14.0.139-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/g0uTATyM/cloth-config-14.0.139-fabric.jar",
+        "sha512": "edfd38319ed73a620a11a8d50a93f8ec8b30cd8cd02819f194589a7d6e7b8b3f6619056856f85de25e6de0d7202d4a8ad3e9c1deabbeb643d15d8610124a03b0"
+      },
+      "14_0_139": {
+        "name": "cloth-config-14.0.139-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/g0uTATyM/cloth-config-14.0.139-fabric.jar",
+        "sha512": "edfd38319ed73a620a11a8d50a93f8ec8b30cd8cd02819f194589a7d6e7b8b3f6619056856f85de25e6de0d7202d4a8ad3e9c1deabbeb643d15d8610124a03b0"
+      },
+      "14_0_129": {
+        "name": "cloth-config-14.0.129-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JYR3Y30y/cloth-config-14.0.129-fabric.jar",
+        "sha512": "0f49f28cdeeb99cd588b883e5f0b5b929b967ef44be1f997394e589ae52366ae107eb663aff75ed559921ffdb71f86290d7f8b8f0052f005c4c7a0189dd61c52"
+      },
+      "14_0_126": {
+        "name": "cloth-config-14.0.126-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar",
+        "sha512": "6a1f7e68e2771dd96ba5d8d41f170c8d81fcc5b18b44529ae633e1f67e4738504919bfce42fdf7bfb162ee27d43f0e109919db5718a7269092f550a833bc3eae"
+      }
+    },
+    "1_20-pre6": {
+      "latest": {
+        "name": "cloth-config-11.0.98-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/dVpHBgHi/cloth-config-11.0.98-fabric.jar",
+        "sha512": "e584f1517082f7eced8e0a2151556acaec678f6844555ded95608a38229875914b4e930adb338bba88fa15ace088a0bd438542197c16fc6c2973c5a8c42733e8"
+      },
+      "11_0_98": {
+        "name": "cloth-config-11.0.98-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/dVpHBgHi/cloth-config-11.0.98-fabric.jar",
+        "sha512": "e584f1517082f7eced8e0a2151556acaec678f6844555ded95608a38229875914b4e930adb338bba88fa15ace088a0bd438542197c16fc6c2973c5a8c42733e8"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "cloth-config-14.0.139-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/g0uTATyM/cloth-config-14.0.139-fabric.jar",
+        "sha512": "edfd38319ed73a620a11a8d50a93f8ec8b30cd8cd02819f194589a7d6e7b8b3f6619056856f85de25e6de0d7202d4a8ad3e9c1deabbeb643d15d8610124a03b0"
+      },
+      "14_0_139": {
+        "name": "cloth-config-14.0.139-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/g0uTATyM/cloth-config-14.0.139-fabric.jar",
+        "sha512": "edfd38319ed73a620a11a8d50a93f8ec8b30cd8cd02819f194589a7d6e7b8b3f6619056856f85de25e6de0d7202d4a8ad3e9c1deabbeb643d15d8610124a03b0"
+      },
+      "14_0_129": {
+        "name": "cloth-config-14.0.129-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JYR3Y30y/cloth-config-14.0.129-fabric.jar",
+        "sha512": "0f49f28cdeeb99cd588b883e5f0b5b929b967ef44be1f997394e589ae52366ae107eb663aff75ed559921ffdb71f86290d7f8b8f0052f005c4c7a0189dd61c52"
+      },
+      "14_0_126": {
+        "name": "cloth-config-14.0.126-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar",
+        "sha512": "6a1f7e68e2771dd96ba5d8d41f170c8d81fcc5b18b44529ae633e1f67e4738504919bfce42fdf7bfb162ee27d43f0e109919db5718a7269092f550a833bc3eae"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "cloth-config-13.0.138-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar",
+        "sha512": "3863fb95cc57526c6876cb60600f2e4282a5fa8d997d981e984da48f34be654cd0c5fc09e7d77079a393b2d7e3e48baabb756ad84ea58881b22ea771f43baa4a"
+      },
+      "13_0_138": {
+        "name": "cloth-config-13.0.138-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar",
+        "sha512": "3863fb95cc57526c6876cb60600f2e4282a5fa8d997d981e984da48f34be654cd0c5fc09e7d77079a393b2d7e3e48baabb756ad84ea58881b22ea771f43baa4a"
+      },
+      "13_0_121": {
+        "name": "cloth-config-13.0.121-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/eBZiZ9NS/cloth-config-13.0.121-fabric.jar",
+        "sha512": "05a389ce4383c7b202e6aa7b37f39da01b6ee1f5b22dad076d528891b5ef8bcae335b2d7930b33b753ad34f1a61bae52f3447f74a4df6739239344674b59b0c5"
+      },
+      "13_0_114": {
+        "name": "cloth-config-13.0.114-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YFpDLLdu/cloth-config-13.0.114-fabric.jar",
+        "sha512": "146ee4ac2092e45b9574c54ef59d897d54700dfcfa353f3b6965342261a94d83b902cf4c90d5c0691c5c7018e2f49660cd8f32aa9abe185ad03117906cf8a924"
+      },
+      "13_0_112": {
+        "name": "cloth-config-13.0.112-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Q4D6X8wF/cloth-config-13.0.112-fabric.jar",
+        "sha512": "fa063480d2be6388c971b2c90c9ad50c7502a89ca514537b47792619ff07709958f4686c55f043606050563ac5f4be8e1b0efe319acccfb14e5a44c4e3aef842"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "cloth-config-13.0.138-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar",
+        "sha512": "3863fb95cc57526c6876cb60600f2e4282a5fa8d997d981e984da48f34be654cd0c5fc09e7d77079a393b2d7e3e48baabb756ad84ea58881b22ea771f43baa4a"
+      },
+      "13_0_138": {
+        "name": "cloth-config-13.0.138-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar",
+        "sha512": "3863fb95cc57526c6876cb60600f2e4282a5fa8d997d981e984da48f34be654cd0c5fc09e7d77079a393b2d7e3e48baabb756ad84ea58881b22ea771f43baa4a"
+      },
+      "13_0_121": {
+        "name": "cloth-config-13.0.121-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/eBZiZ9NS/cloth-config-13.0.121-fabric.jar",
+        "sha512": "05a389ce4383c7b202e6aa7b37f39da01b6ee1f5b22dad076d528891b5ef8bcae335b2d7930b33b753ad34f1a61bae52f3447f74a4df6739239344674b59b0c5"
+      },
+      "13_0_114": {
+        "name": "cloth-config-13.0.114-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YFpDLLdu/cloth-config-13.0.114-fabric.jar",
+        "sha512": "146ee4ac2092e45b9574c54ef59d897d54700dfcfa353f3b6965342261a94d83b902cf4c90d5c0691c5c7018e2f49660cd8f32aa9abe185ad03117906cf8a924"
+      },
+      "13_0_112": {
+        "name": "cloth-config-13.0.112-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Q4D6X8wF/cloth-config-13.0.112-fabric.jar",
+        "sha512": "fa063480d2be6388c971b2c90c9ad50c7502a89ca514537b47792619ff07709958f4686c55f043606050563ac5f4be8e1b0efe319acccfb14e5a44c4e3aef842"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "cloth-config-12.0.137-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/9YwAqtuZ/cloth-config-12.0.137-fabric.jar",
+        "sha512": "01b21e32bbe1219dae33696c11c57abeeddb3deeec15ce61003b8065c464a82649328bc43ca732e1e56d79643a38560bd0092fef6a075649460c3e92d13b6713"
+      },
+      "12_0_137": {
+        "name": "cloth-config-12.0.137-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/9YwAqtuZ/cloth-config-12.0.137-fabric.jar",
+        "sha512": "01b21e32bbe1219dae33696c11c57abeeddb3deeec15ce61003b8065c464a82649328bc43ca732e1e56d79643a38560bd0092fef6a075649460c3e92d13b6713"
+      },
+      "12_0_119": {
+        "name": "cloth-config-12.0.119-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/NPcjyMhi/cloth-config-12.0.119-fabric.jar",
+        "sha512": "c81984e8bd5e82b3899cd80fb87b9234f5fd173d0b6b68127ed0ca69dd66ae70d038a4ee088bbc8f3da98df5c27b9eb0cb05eef0d3776ff09f48df1c5a6f5243"
+      },
+      "12_0_113": {
+        "name": "cloth-config-12.0.113-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/wjYUbvpn/cloth-config-12.0.113-fabric.jar",
+        "sha512": "8d169d478955f5cf758dd690406bc1a75cd6bfa4c7ec8160c22d5d620146240a8f2077da8a1e3f7f7704cc36eadcf89e096163a015b2e48c688e9fe068a2318a"
+      },
+      "12_0_111": {
+        "name": "cloth-config-12.0.111-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/jvy82BGQ/cloth-config-12.0.111-fabric.jar",
+        "sha512": "e1dc26bdf29c433e2530130bfc66bce53ed1881b87a9e71859b20510d58239ff1653c913f57c3879959c82bbf457e3d3bd09f4acd1fed00e82a59eb56a57315d"
+      },
+      "12_0_110": {
+        "name": "cloth-config-12.0.110-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HvC4UPrB/cloth-config-12.0.110-fabric.jar",
+        "sha512": "e6d15b6cecbc585589bd227ec405fecf08cf84f45eabbe370d844d783299be867fe3d668ebc3565aa33d63c0af986fae79d713df574e632407cad6d3afd76e6c"
+      },
+      "12_0_109": {
+        "name": "cloth-config-12.0.109-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/LnfolBYb/cloth-config-12.0.109-fabric.jar",
+        "sha512": "8eb6b7e886e5799d57d616445135ddce3dcab83d24a0f389fe44109fe29aafc711d3c146dfe0a62a0859e42c4cce02a23fda568632db754fa089fdc91b63f06d"
+      },
+      "12_0_108": {
+        "name": "cloth-config-12.0.108-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EuWT3qek/cloth-config-12.0.108-fabric.jar",
+        "sha512": "dd4792fbaf27bd654b38956a40e31db7b18c465d1898676e390d7edbbbbd050a5d3e55b30dbb56453c775fa5f6afab7e1262e121434b22c2145cce3a892d18d8"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "cloth-config-11.1.136-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar",
+        "sha512": "2da85c071c854223cc30c8e46794391b77e53f28ecdbbde59dc83b3dbbdfc74be9e68da9ed464e7f98b4361033899ba4f681ebff1f35edc2c60e599a59796f1c"
+      },
+      "11_1_136": {
+        "name": "cloth-config-11.1.136-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar",
+        "sha512": "2da85c071c854223cc30c8e46794391b77e53f28ecdbbde59dc83b3dbbdfc74be9e68da9ed464e7f98b4361033899ba4f681ebff1f35edc2c60e599a59796f1c"
+      },
+      "11_1_118": {
+        "name": "cloth-config-11.1.118-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar",
+        "sha512": "848aeaf9c218e39452a2efced1872c2f7275c8fd2504fc2cbd63b159faf4eed96481144b7e1dc4fa27296727f54803907ae2e477e66a803c07a2fd51f831eb07"
+      },
+      "11_1_106": {
+        "name": "cloth-config-11.1.106-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/s7VTKfLA/cloth-config-11.1.106-fabric.jar",
+        "sha512": "bce3d04905f49a331ade089332f0bb5f2329a81451f2acdd4d95590cb090dbc88f0192a85de342e705f4aea9f4cdf2add8b5ef842d0014e29f0a2a9c281984a2"
+      },
+      "11_0_99": {
+        "name": "cloth-config-11.0.99-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/y0kQixP8/cloth-config-11.0.99-fabric.jar",
+        "sha512": "3bbb9369efab7390193332ab9064460afa8dce7fc17fd96a2164b25cc17a0f03e928dd362539df364436a284914211005ba76d48b41fd6d9b01a22717a4d3719"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "cloth-config-11.1.136-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar",
+        "sha512": "2da85c071c854223cc30c8e46794391b77e53f28ecdbbde59dc83b3dbbdfc74be9e68da9ed464e7f98b4361033899ba4f681ebff1f35edc2c60e599a59796f1c"
+      },
+      "11_1_136": {
+        "name": "cloth-config-11.1.136-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar",
+        "sha512": "2da85c071c854223cc30c8e46794391b77e53f28ecdbbde59dc83b3dbbdfc74be9e68da9ed464e7f98b4361033899ba4f681ebff1f35edc2c60e599a59796f1c"
+      },
+      "11_1_118": {
+        "name": "cloth-config-11.1.118-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar",
+        "sha512": "848aeaf9c218e39452a2efced1872c2f7275c8fd2504fc2cbd63b159faf4eed96481144b7e1dc4fa27296727f54803907ae2e477e66a803c07a2fd51f831eb07"
+      },
+      "11_1_106": {
+        "name": "cloth-config-11.1.106-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/s7VTKfLA/cloth-config-11.1.106-fabric.jar",
+        "sha512": "bce3d04905f49a331ade089332f0bb5f2329a81451f2acdd4d95590cb090dbc88f0192a85de342e705f4aea9f4cdf2add8b5ef842d0014e29f0a2a9c281984a2"
+      },
+      "11_0_99": {
+        "name": "cloth-config-11.0.99-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/y0kQixP8/cloth-config-11.0.99-fabric.jar",
+        "sha512": "3bbb9369efab7390193332ab9064460afa8dce7fc17fd96a2164b25cc17a0f03e928dd362539df364436a284914211005ba76d48b41fd6d9b01a22717a4d3719"
+      }
+    },
+    "1_19_4-pre1": {
+      "latest": {
+        "name": "cloth-config-10.0.95-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/QXKLvmdz/cloth-config-10.0.95-fabric.jar",
+        "sha512": "ce961e16a521d698cbcf717d492b6f1f1bbb109cf9c2f06ac6a393ec02614b029d06244a03ffac27707caa008099809d6d98a728093bafb7045db8a40475cb2c"
+      },
+      "10_0_95": {
+        "name": "cloth-config-10.0.95-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/QXKLvmdz/cloth-config-10.0.95-fabric.jar",
+        "sha512": "ce961e16a521d698cbcf717d492b6f1f1bbb109cf9c2f06ac6a393ec02614b029d06244a03ffac27707caa008099809d6d98a728093bafb7045db8a40475cb2c"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "cloth-config-10.1.135-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZTMfeJij/cloth-config-10.1.135-fabric.jar",
+        "sha512": "b9aed46cff0bb4f33b55632de2234efc223d406cb33f264fc52048965c3570ae03d2493c5a93f46efd3bcf8c13f1d9cb420ff567f6c768108ddacb60918efbe6"
+      },
+      "10_1_135": {
+        "name": "cloth-config-10.1.135-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZTMfeJij/cloth-config-10.1.135-fabric.jar",
+        "sha512": "b9aed46cff0bb4f33b55632de2234efc223d406cb33f264fc52048965c3570ae03d2493c5a93f46efd3bcf8c13f1d9cb420ff567f6c768108ddacb60918efbe6"
+      },
+      "10_1_117": {
+        "name": "cloth-config-10.1.117-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4UgNKji6/cloth-config-10.1.117-fabric.jar",
+        "sha512": "51d264722e843e6cc87f660edd8feb269b3b7821fdab7780cde4d1e8e8a8ea25a02e33324bc5dee2baa2ac27e4326ee492ed871d73c75495128d24e20901cebc"
+      },
+      "10_1_105": {
+        "name": "cloth-config-10.1.105-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/mhFzbEwE/cloth-config-10.1.105-fabric.jar",
+        "sha512": "6c381aaacedd6d4cd128ab29fc3bac734abe022cf420448dee9041a39f089adfce923caa1e3fa4e4a162f9975f4862e8a477ad2ed9d060c0971b789f7a0c322d"
+      },
+      "10_0_96": {
+        "name": "cloth-config-10.0.96-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6XGTNEII/cloth-config-10.0.96-fabric.jar",
+        "sha512": "2c2ca9ad15fa08e0013505e0fbd661e0ff9861eba5df175037cc948197d7d9c4c6983d0f026321a71e7855fc4941e279ede9c930e2ca373b38402dfd70cc6376"
+      }
+    },
+    "1_19_3-pre2": {
+      "latest": {
+        "name": "cloth-config-9.0.93-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/IVxgEGfU/cloth-config-9.0.93-fabric.jar",
+        "sha512": "d12d012be0274b447b4c23a45a380cdd4e2d47e64143d46d2a10d9663ed51b1fa85144c4be1d8a8cb5c3e5b57ed62d2ef7593fe99805167c3abcad3518af78f5"
+      },
+      "9_0_93": {
+        "name": "cloth-config-9.0.93-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/IVxgEGfU/cloth-config-9.0.93-fabric.jar",
+        "sha512": "d12d012be0274b447b4c23a45a380cdd4e2d47e64143d46d2a10d9663ed51b1fa85144c4be1d8a8cb5c3e5b57ed62d2ef7593fe99805167c3abcad3518af78f5"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "cloth-config-9.1.104-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/w2VZSLTf/cloth-config-9.1.104-fabric.jar",
+        "sha512": "1112c5f7cf7a98f703e2bf165d740733d61f288c6fbfdeb971f4c14680f99be927b7d308816816aaf7028f568c2af2148ec44869450074ccb6a75ce0f38351f9"
+      },
+      "9_1_104": {
+        "name": "cloth-config-9.1.104-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/w2VZSLTf/cloth-config-9.1.104-fabric.jar",
+        "sha512": "1112c5f7cf7a98f703e2bf165d740733d61f288c6fbfdeb971f4c14680f99be927b7d308816816aaf7028f568c2af2148ec44869450074ccb6a75ce0f38351f9"
+      },
+      "9_0_94": {
+        "name": "cloth-config-9.0.94-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/M3yxljrZ/cloth-config-9.0.94-fabric.jar",
+        "sha512": "a06b7cd8f472c177621680d6688ad45010b8605fad49207c92066a1d682ec602aeaaa68ffd1488a87587f4207b9efb22147a1d9cc987c4a6ffd42d5c9620e13b"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "cloth-config-8.3.134-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar",
+        "sha512": "b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a"
+      },
+      "8_3_134": {
+        "name": "cloth-config-8.3.134-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar",
+        "sha512": "b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a"
+      },
+      "8_3_115": {
+        "name": "cloth-config-8.3.115-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3Ejdp6VI/cloth-config-8.3.115-fabric.jar",
+        "sha512": "73091f6269f323724b190b8bc25d90860010a22be87f09af93c20e044f37867c8efddeafa521d95cd315f1df5335c628bb2392740d05ce36c92275b18ec465f1"
+      },
+      "8_3_103": {
+        "name": "cloth-config-8.3.103-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/o9dFD9SO/cloth-config-8.3.103-fabric.jar",
+        "sha512": "b490a5df321d2f3907a47d18e9549751bb97bc9de6d04aa265cd9000321b516627bc57b1ef30ae4d854d558b2936c5d3413d34d784849e0c3ffa083605ca8d3d"
+      },
+      "8_2_88": {
+        "name": "cloth-config-8.2.88-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EXrxCjl6/cloth-config-8.2.88-fabric.jar",
+        "sha512": "6a135c608dadaf5dcc07601cbca456170025e39b8adec43915e08fc140ab5b3f0fb19e3123994e30cec88770a444265a1251289422cda2944c9a17007e58065c"
+      },
+      "8_1_77": {
+        "name": "cloth-config-8.1.77-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JaKvOQIz/cloth-config-8.1.77-fabric.jar",
+        "sha512": "c638fc635f0e43bfc08536071c62db09240adec84e182352268e7b76ff23aeb5e26a049594888cf1d8294885b2d8094d68ffe63a5e2ac23055328666d7d943cc"
+      },
+      "8_0_75": {
+        "name": "cloth-config-8.0.75-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bfabric/cloth-config-8.0.75-fabric.jar",
+        "sha512": "a6fb5bbb4ddd14ecb3a907e48a3ce2485430e4713a8b0326b001c4a25ed2c1d9e36e1279f3bbb99e8cabcf13801eff0d43563c3505ee80687347f73212661923"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "cloth-config-8.3.134-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar",
+        "sha512": "b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a"
+      },
+      "8_3_134": {
+        "name": "cloth-config-8.3.134-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar",
+        "sha512": "b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a"
+      },
+      "8_3_115": {
+        "name": "cloth-config-8.3.115-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3Ejdp6VI/cloth-config-8.3.115-fabric.jar",
+        "sha512": "73091f6269f323724b190b8bc25d90860010a22be87f09af93c20e044f37867c8efddeafa521d95cd315f1df5335c628bb2392740d05ce36c92275b18ec465f1"
+      },
+      "8_3_103": {
+        "name": "cloth-config-8.3.103-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/o9dFD9SO/cloth-config-8.3.103-fabric.jar",
+        "sha512": "b490a5df321d2f3907a47d18e9549751bb97bc9de6d04aa265cd9000321b516627bc57b1ef30ae4d854d558b2936c5d3413d34d784849e0c3ffa083605ca8d3d"
+      },
+      "8_2_88": {
+        "name": "cloth-config-8.2.88-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EXrxCjl6/cloth-config-8.2.88-fabric.jar",
+        "sha512": "6a135c608dadaf5dcc07601cbca456170025e39b8adec43915e08fc140ab5b3f0fb19e3123994e30cec88770a444265a1251289422cda2944c9a17007e58065c"
+      },
+      "8_1_77": {
+        "name": "cloth-config-8.1.77-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JaKvOQIz/cloth-config-8.1.77-fabric.jar",
+        "sha512": "c638fc635f0e43bfc08536071c62db09240adec84e182352268e7b76ff23aeb5e26a049594888cf1d8294885b2d8094d68ffe63a5e2ac23055328666d7d943cc"
+      },
+      "8_0_75": {
+        "name": "cloth-config-8.0.75-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bfabric/cloth-config-8.0.75-fabric.jar",
+        "sha512": "a6fb5bbb4ddd14ecb3a907e48a3ce2485430e4713a8b0326b001c4a25ed2c1d9e36e1279f3bbb99e8cabcf13801eff0d43563c3505ee80687347f73212661923"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "cloth-config-8.3.134-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar",
+        "sha512": "b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a"
+      },
+      "8_3_134": {
+        "name": "cloth-config-8.3.134-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar",
+        "sha512": "b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a"
+      },
+      "8_3_115": {
+        "name": "cloth-config-8.3.115-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3Ejdp6VI/cloth-config-8.3.115-fabric.jar",
+        "sha512": "73091f6269f323724b190b8bc25d90860010a22be87f09af93c20e044f37867c8efddeafa521d95cd315f1df5335c628bb2392740d05ce36c92275b18ec465f1"
+      },
+      "8_3_103": {
+        "name": "cloth-config-8.3.103-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/o9dFD9SO/cloth-config-8.3.103-fabric.jar",
+        "sha512": "b490a5df321d2f3907a47d18e9549751bb97bc9de6d04aa265cd9000321b516627bc57b1ef30ae4d854d558b2936c5d3413d34d784849e0c3ffa083605ca8d3d"
+      },
+      "8_2_88": {
+        "name": "cloth-config-8.2.88-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/EXrxCjl6/cloth-config-8.2.88-fabric.jar",
+        "sha512": "6a135c608dadaf5dcc07601cbca456170025e39b8adec43915e08fc140ab5b3f0fb19e3123994e30cec88770a444265a1251289422cda2944c9a17007e58065c"
+      },
+      "8_1_77": {
+        "name": "cloth-config-8.1.77-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JaKvOQIz/cloth-config-8.1.77-fabric.jar",
+        "sha512": "c638fc635f0e43bfc08536071c62db09240adec84e182352268e7b76ff23aeb5e26a049594888cf1d8294885b2d8094d68ffe63a5e2ac23055328666d7d943cc"
+      },
+      "8_0_75": {
+        "name": "cloth-config-8.0.75-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bfabric/cloth-config-8.0.75-fabric.jar",
+        "sha512": "a6fb5bbb4ddd14ecb3a907e48a3ce2485430e4713a8b0326b001c4a25ed2c1d9e36e1279f3bbb99e8cabcf13801eff0d43563c3505ee80687347f73212661923"
+      },
+      "7_0_74": {
+        "name": "cloth-config-7.0.74-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.74%2Bfabric/cloth-config-7.0.74-fabric.jar",
+        "sha512": "599847ebe41b9c4534b00bc4da5e5a29783cbe7a29f64dd429c25795c70ca04c8d7cdb515ca560ade7ca477f46f30e1a822f007c782546689ee3b23393e8c295"
+      },
+      "7_0_73": {
+        "name": "cloth-config-7.0.73-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.73%2Bfabric/cloth-config-7.0.73-fabric.jar",
+        "sha512": "bebc53ee5752263ccf1e0a89b5f9f72c3c5be149467e9d66a15c335f8c616a2b8e7c7020208b291af425b31d3062e2ca305ab0f1a0142d947f12910d4bebd71b"
+      },
+      "7_0_72": {
+        "name": "cloth-config-7.0.72-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.72%2Bfabric/cloth-config-7.0.72-fabric.jar",
+        "sha512": "d16637c1fb138ec018a7c3234b015269208569bf51a6e5fa8f283321efb352d5793e05185dc1be066ae0d5034fd4f69e4cce1961c09ee75e2d641c5a907533db"
+      },
+      "7_0_69": {
+        "name": "cloth-config-7.0.69-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.69/cloth-config-7.0.69-fabric.jar",
+        "sha512": "6b8b3306ce5712812d81862db8f312e78c377e8f86faccb8b3fc0afd9cc7d0f570d295baaedde567cd7948b2b4e03a6c245789191685ce049594863aee34bb4f"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "cloth-config-6.5.102-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar",
+        "sha512": "0673b8bc2b92b6a93dd63938cbc994f5c0e09a0bab5a4719ca35ff970c14f2476ef0eb431334b28ecfa6821f1daa1fd7511cef4b1a13b50620292df0adf0c7ba"
+      },
+      "6_5_102": {
+        "name": "cloth-config-6.5.102-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar",
+        "sha512": "0673b8bc2b92b6a93dd63938cbc994f5c0e09a0bab5a4719ca35ff970c14f2476ef0eb431334b28ecfa6821f1daa1fd7511cef4b1a13b50620292df0adf0c7ba"
+      },
+      "6_3_81": {
+        "name": "cloth-config-6.3.81-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gPqHXnrg/cloth-config-6.3.81-fabric.jar",
+        "sha512": "1ec0b4ae55c5c7cb04b8e88c9c20d157cc3fe4e82e74b9334532b3a5ba095c41fafe2b611b78e2cf46ebe0d618c3657fdee81587f72ba2df6d8687e5394bdf26"
+      },
+      "6_2_62": {
+        "name": "cloth-config-fabric-6.2.62.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62/cloth-config-fabric-6.2.62.jar",
+        "sha512": "1d30dbc59ac2a8668e5dd3bb7a6d74a8d243cf958d16f4d55670db270414842dc3884687c847cc9815605695ee2403e933f010a17c7ff5e296de43a55872ad0a"
+      },
+      "6_2_57": {
+        "name": "cloth-config-6.2.57-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bfabric/cloth-config-6.2.57-fabric.jar",
+        "sha512": "b74f821e4f4bc4ddd1e7ae2722a424d5d3c4f5f7932a1a8ff6695b6c30c3509c070b09df19424553648c6aeafcf68b923555f7ceba908a98e71dc8c7da6952d6"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "cloth-config-6.5.102-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar",
+        "sha512": "0673b8bc2b92b6a93dd63938cbc994f5c0e09a0bab5a4719ca35ff970c14f2476ef0eb431334b28ecfa6821f1daa1fd7511cef4b1a13b50620292df0adf0c7ba"
+      },
+      "6_5_102": {
+        "name": "cloth-config-6.5.102-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar",
+        "sha512": "0673b8bc2b92b6a93dd63938cbc994f5c0e09a0bab5a4719ca35ff970c14f2476ef0eb431334b28ecfa6821f1daa1fd7511cef4b1a13b50620292df0adf0c7ba"
+      },
+      "6_3_81": {
+        "name": "cloth-config-6.3.81-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gPqHXnrg/cloth-config-6.3.81-fabric.jar",
+        "sha512": "1ec0b4ae55c5c7cb04b8e88c9c20d157cc3fe4e82e74b9334532b3a5ba095c41fafe2b611b78e2cf46ebe0d618c3657fdee81587f72ba2df6d8687e5394bdf26"
+      },
+      "6_2_62": {
+        "name": "cloth-config-fabric-6.2.62.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62/cloth-config-fabric-6.2.62.jar",
+        "sha512": "1d30dbc59ac2a8668e5dd3bb7a6d74a8d243cf958d16f4d55670db270414842dc3884687c847cc9815605695ee2403e933f010a17c7ff5e296de43a55872ad0a"
+      },
+      "6_2_57": {
+        "name": "cloth-config-6.2.57-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bfabric/cloth-config-6.2.57-fabric.jar",
+        "sha512": "b74f821e4f4bc4ddd1e7ae2722a424d5d3c4f5f7932a1a8ff6695b6c30c3509c070b09df19424553648c6aeafcf68b923555f7ceba908a98e71dc8c7da6952d6"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "cloth-config-6.5.102-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar",
+        "sha512": "0673b8bc2b92b6a93dd63938cbc994f5c0e09a0bab5a4719ca35ff970c14f2476ef0eb431334b28ecfa6821f1daa1fd7511cef4b1a13b50620292df0adf0c7ba"
+      },
+      "6_5_102": {
+        "name": "cloth-config-6.5.102-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar",
+        "sha512": "0673b8bc2b92b6a93dd63938cbc994f5c0e09a0bab5a4719ca35ff970c14f2476ef0eb431334b28ecfa6821f1daa1fd7511cef4b1a13b50620292df0adf0c7ba"
+      },
+      "6_3_81": {
+        "name": "cloth-config-6.3.81-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/gPqHXnrg/cloth-config-6.3.81-fabric.jar",
+        "sha512": "1ec0b4ae55c5c7cb04b8e88c9c20d157cc3fe4e82e74b9334532b3a5ba095c41fafe2b611b78e2cf46ebe0d618c3657fdee81587f72ba2df6d8687e5394bdf26"
+      },
+      "6_2_62": {
+        "name": "cloth-config-fabric-6.2.62.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62/cloth-config-fabric-6.2.62.jar",
+        "sha512": "1d30dbc59ac2a8668e5dd3bb7a6d74a8d243cf958d16f4d55670db270414842dc3884687c847cc9815605695ee2403e933f010a17c7ff5e296de43a55872ad0a"
+      },
+      "6_2_57": {
+        "name": "cloth-config-6.2.57-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bfabric/cloth-config-6.2.57-fabric.jar",
+        "sha512": "b74f821e4f4bc4ddd1e7ae2722a424d5d3c4f5f7932a1a8ff6695b6c30c3509c070b09df19424553648c6aeafcf68b923555f7ceba908a98e71dc8c7da6952d6"
+      }
+    },
+    "1_17_1": {
+      "latest": {
+        "name": "cloth-config-fabric-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63/cloth-config-fabric-5.3.63.jar",
+        "sha512": "eedb0c03e2106d6cce56d040b9ba5c9977463e50d5c0c7a4a4305a69f2046784dc970a1e3fa8540db095b63fec241226f4d0fa7b0a0001a33bf2a33652590dbd"
+      },
+      "5_3_63": {
+        "name": "cloth-config-fabric-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63/cloth-config-fabric-5.3.63.jar",
+        "sha512": "eedb0c03e2106d6cce56d040b9ba5c9977463e50d5c0c7a4a4305a69f2046784dc970a1e3fa8540db095b63fec241226f4d0fa7b0a0001a33bf2a33652590dbd"
+      },
+      "5_3_58": {
+        "name": "cloth-config-5.3.58-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bfabric/cloth-config-5.3.58-fabric.jar",
+        "sha512": "6dbe019a0a9f12b789ac6cdaa91b347a87a547b7be53012bc59351a8f2066b6097a342aa80860d239ba1d477bdd7f960f3e3f136117394e55fdb8eedb4ae6a04"
+      }
+    },
+    "1_17": {
+      "latest": {
+        "name": "cloth-config-fabric-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63/cloth-config-fabric-5.3.63.jar",
+        "sha512": "eedb0c03e2106d6cce56d040b9ba5c9977463e50d5c0c7a4a4305a69f2046784dc970a1e3fa8540db095b63fec241226f4d0fa7b0a0001a33bf2a33652590dbd"
+      },
+      "5_3_63": {
+        "name": "cloth-config-fabric-5.3.63.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63/cloth-config-fabric-5.3.63.jar",
+        "sha512": "eedb0c03e2106d6cce56d040b9ba5c9977463e50d5c0c7a4a4305a69f2046784dc970a1e3fa8540db095b63fec241226f4d0fa7b0a0001a33bf2a33652590dbd"
+      },
+      "5_3_58": {
+        "name": "cloth-config-5.3.58-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bfabric/cloth-config-5.3.58-fabric.jar",
+        "sha512": "6dbe019a0a9f12b789ac6cdaa91b347a87a547b7be53012bc59351a8f2066b6097a342aa80860d239ba1d477bdd7f960f3e3f136117394e55fdb8eedb4ae6a04"
+      }
+    },
+    "1_16_5": {
+      "latest": {
+        "name": "cloth-config-4.17.101-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xMTUxQCV/cloth-config-4.17.101-fabric.jar",
+        "sha512": "fdfb4000999e1b443a8770377b5004b536d685c6e9be7f68428f2666d8f4b3606aaf0218fb292c1de25816fc6e9bb8b548f47fdae341e5adee525ada4dfa2ab8"
+      },
+      "4_17_101": {
+        "name": "cloth-config-4.17.101-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xMTUxQCV/cloth-config-4.17.101-fabric.jar",
+        "sha512": "fdfb4000999e1b443a8770377b5004b536d685c6e9be7f68428f2666d8f4b3606aaf0218fb292c1de25816fc6e9bb8b548f47fdae341e5adee525ada4dfa2ab8"
+      },
+      "4_16_91": {
+        "name": "cloth-config-4.16.91-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/oIHJeqqQ/cloth-config-4.16.91-fabric.jar",
+        "sha512": "5198cec7f88facccd3f9f3a17788b702a76a69e3e63343880dbb4e6f13e3a016eb5f7724e20b29bfb46c730954bc10f4218b19f855d58d7a2e855f9c2f2cb357"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/szXeTOs6/cloth-config-4.15.82-fabric.jar",
+        "sha512": "f23d5027d37a68361354a0238c1c3000fb9003917ef61ab3953da4c5d185662834da0bf88f86c4006a514d572a73a20a9c0551078968d3d7b8cf0cbc3bc0edfc"
+      },
+      "4_14_64": {
+        "name": "cloth-config-fabric-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64/cloth-config-fabric-4.14.64.jar",
+        "sha512": "398abd7b2f5ba946bf63af51b9f677b94e547a5bec89197c5c2aad45501c5b9eaa2d30fd9ffc99c2c6694c793f12ad0845d02e2a29a2a05a546caf23030760b4"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
+        "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4"
+      }
+    },
+    "1_16_4": {
+      "latest": {
+        "name": "cloth-config-4.17.101-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xMTUxQCV/cloth-config-4.17.101-fabric.jar",
+        "sha512": "fdfb4000999e1b443a8770377b5004b536d685c6e9be7f68428f2666d8f4b3606aaf0218fb292c1de25816fc6e9bb8b548f47fdae341e5adee525ada4dfa2ab8"
+      },
+      "4_17_101": {
+        "name": "cloth-config-4.17.101-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xMTUxQCV/cloth-config-4.17.101-fabric.jar",
+        "sha512": "fdfb4000999e1b443a8770377b5004b536d685c6e9be7f68428f2666d8f4b3606aaf0218fb292c1de25816fc6e9bb8b548f47fdae341e5adee525ada4dfa2ab8"
+      },
+      "4_16_91": {
+        "name": "cloth-config-4.16.91-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/oIHJeqqQ/cloth-config-4.16.91-fabric.jar",
+        "sha512": "5198cec7f88facccd3f9f3a17788b702a76a69e3e63343880dbb4e6f13e3a016eb5f7724e20b29bfb46c730954bc10f4218b19f855d58d7a2e855f9c2f2cb357"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/szXeTOs6/cloth-config-4.15.82-fabric.jar",
+        "sha512": "f23d5027d37a68361354a0238c1c3000fb9003917ef61ab3953da4c5d185662834da0bf88f86c4006a514d572a73a20a9c0551078968d3d7b8cf0cbc3bc0edfc"
+      },
+      "4_14_64": {
+        "name": "cloth-config-fabric-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64/cloth-config-fabric-4.14.64.jar",
+        "sha512": "398abd7b2f5ba946bf63af51b9f677b94e547a5bec89197c5c2aad45501c5b9eaa2d30fd9ffc99c2c6694c793f12ad0845d02e2a29a2a05a546caf23030760b4"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
+        "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4"
+      }
+    },
+    "1_16_3": {
+      "latest": {
+        "name": "cloth-config-4.15.82-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/szXeTOs6/cloth-config-4.15.82-fabric.jar",
+        "sha512": "f23d5027d37a68361354a0238c1c3000fb9003917ef61ab3953da4c5d185662834da0bf88f86c4006a514d572a73a20a9c0551078968d3d7b8cf0cbc3bc0edfc"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/szXeTOs6/cloth-config-4.15.82-fabric.jar",
+        "sha512": "f23d5027d37a68361354a0238c1c3000fb9003917ef61ab3953da4c5d185662834da0bf88f86c4006a514d572a73a20a9c0551078968d3d7b8cf0cbc3bc0edfc"
+      },
+      "4_14_64": {
+        "name": "cloth-config-fabric-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64/cloth-config-fabric-4.14.64.jar",
+        "sha512": "398abd7b2f5ba946bf63af51b9f677b94e547a5bec89197c5c2aad45501c5b9eaa2d30fd9ffc99c2c6694c793f12ad0845d02e2a29a2a05a546caf23030760b4"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
+        "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4"
+      }
+    },
+    "1_16_2": {
+      "latest": {
+        "name": "cloth-config-4.15.82-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/szXeTOs6/cloth-config-4.15.82-fabric.jar",
+        "sha512": "f23d5027d37a68361354a0238c1c3000fb9003917ef61ab3953da4c5d185662834da0bf88f86c4006a514d572a73a20a9c0551078968d3d7b8cf0cbc3bc0edfc"
+      },
+      "4_15_82": {
+        "name": "cloth-config-4.15.82-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/szXeTOs6/cloth-config-4.15.82-fabric.jar",
+        "sha512": "f23d5027d37a68361354a0238c1c3000fb9003917ef61ab3953da4c5d185662834da0bf88f86c4006a514d572a73a20a9c0551078968d3d7b8cf0cbc3bc0edfc"
+      },
+      "4_14_64": {
+        "name": "cloth-config-fabric-4.14.64.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64/cloth-config-fabric-4.14.64.jar",
+        "sha512": "398abd7b2f5ba946bf63af51b9f677b94e547a5bec89197c5c2aad45501c5b9eaa2d30fd9ffc99c2c6694c793f12ad0845d02e2a29a2a05a546caf23030760b4"
+      },
+      "4_14_54": {
+        "name": "cloth-config-4.14.54-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar",
+        "sha512": "58bb2b6c6677ac17ca79a6af38fbaf5bab8fcb5ac1cd31326fb0ed580299c6eb200829748a62c34d0e4f06f1af0f1e10f6c3c53c58254c619994323d0d719fb4"
+      }
+    },
+    "1_16_1": {
+      "latest": {
+        "name": "config-2-4.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.6.0%2Bfabric/config-2-4.6.0.jar",
+        "sha512": "2e1d7a257b894a6fef64dac7e512e7344f2b15feb928a2b5f383c9c5c2d0fe06b3526af1d71bf7248e61d2f5a004d925c1f78c7313b2e4364e158e23ca03a950"
+      },
+      "4_6_0": {
+        "name": "config-2-4.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.6.0%2Bfabric/config-2-4.6.0.jar",
+        "sha512": "2e1d7a257b894a6fef64dac7e512e7344f2b15feb928a2b5f383c9c5c2d0fe06b3526af1d71bf7248e61d2f5a004d925c1f78c7313b2e4364e158e23ca03a950"
+      }
+    },
+    "1_16": {
+      "latest": {
+        "name": "config-2-4.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.6.0%2Bfabric/config-2-4.6.0.jar",
+        "sha512": "2e1d7a257b894a6fef64dac7e512e7344f2b15feb928a2b5f383c9c5c2d0fe06b3526af1d71bf7248e61d2f5a004d925c1f78c7313b2e4364e158e23ca03a950"
+      },
+      "4_6_0": {
+        "name": "config-2-4.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/4.6.0%2Bfabric/config-2-4.6.0.jar",
+        "sha512": "2e1d7a257b894a6fef64dac7e512e7344f2b15feb928a2b5f383c9c5c2d0fe06b3526af1d71bf7248e61d2f5a004d925c1f78c7313b2e4364e158e23ca03a950"
+      }
+    },
+    "1_15_2": {
+      "latest": {
+        "name": "config-2-2.14.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
+        "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d"
+      },
+      "2_14_2": {
+        "name": "config-2-2.14.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
+        "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d"
+      }
+    },
+    "1_15_1": {
+      "latest": {
+        "name": "config-2-2.14.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
+        "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d"
+      },
+      "2_14_2": {
+        "name": "config-2-2.14.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
+        "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d"
+      }
+    },
+    "1_15": {
+      "latest": {
+        "name": "config-2-2.14.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
+        "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d"
+      },
+      "2_14_2": {
+        "name": "config-2-2.14.2.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar",
+        "sha512": "eb906d8bc4e88e7cbcca9ee5e7769d8f9c3859928ab529e705fef362b13a016670c5e049c4a1cb5e60b70c6b452ef61fdd13ce0179a1c22c08d3b83fc9be9f1d"
+      }
+    },
+    "1_14_4": {
+      "latest": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      },
+      "1_8": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      }
+    },
+    "1_14_3": {
+      "latest": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      },
+      "1_8": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      }
+    },
+    "1_14_2": {
+      "latest": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      },
+      "1_8": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      }
+    },
+    "1_14_1": {
+      "latest": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      },
+      "1_8": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      }
+    },
+    "1_14": {
+      "latest": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      },
+      "1_8": {
+        "name": "config-2-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar",
+        "sha512": "f78c6e3cfe75e4e8ec78758aca01d5041bfff03ac0f5fb6b843c52783aab469277291906e7551d497e193fa8d67c8d44e434f04d0dd90168b050bf26664535cd"
+      }
+    },
+    "24w36a": {
+      "latest": {
+        "name": "cloth-config-16.0.131-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nf2ezsBW/cloth-config-16.0.131-fabric.jar",
+        "sha512": "dd9ca80fdda12348983c3f094c4520178eeee9b56c9285e2105b03a71ef9477a95b589d59298d9297c81e9eb1816c20471e112554fb72255cd92c246d15e0edd"
+      },
+      "16_0_131": {
+        "name": "cloth-config-16.0.131-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nf2ezsBW/cloth-config-16.0.131-fabric.jar",
+        "sha512": "dd9ca80fdda12348983c3f094c4520178eeee9b56c9285e2105b03a71ef9477a95b589d59298d9297c81e9eb1816c20471e112554fb72255cd92c246d15e0edd"
+      }
+    },
+    "24w14a": {
+      "latest": {
+        "name": "cloth-config-14.0.125-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/X9ucoGCn/cloth-config-14.0.125-fabric.jar",
+        "sha512": "5a077bf1f0d8ee728dfb6d55928ab20d82fd3fc4a445209180127dd23edd808975181af5036248f4c24febd803b9f65ab1904a17bef8da83d0f1c16155549e2a"
+      },
+      "14_0_125": {
+        "name": "cloth-config-14.0.125-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/X9ucoGCn/cloth-config-14.0.125-fabric.jar",
+        "sha512": "5a077bf1f0d8ee728dfb6d55928ab20d82fd3fc4a445209180127dd23edd808975181af5036248f4c24febd803b9f65ab1904a17bef8da83d0f1c16155549e2a"
+      }
+    },
+    "24w14potato": {
+      "latest": {
+        "name": "cloth-config-14.0.123-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JRZSHDFK/cloth-config-14.0.123-fabric.jar",
+        "sha512": "3c2557098c3c2ea03965e512854839a1c72681cad61fd86321cd75862ba9c9213551f8d88d1ade92c0e4143119d07d6df99a610583be8030f50a3d79a5e62119"
+      },
+      "14_0_123": {
+        "name": "cloth-config-14.0.123-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/JRZSHDFK/cloth-config-14.0.123-fabric.jar",
+        "sha512": "3c2557098c3c2ea03965e512854839a1c72681cad61fd86321cd75862ba9c9213551f8d88d1ade92c0e4143119d07d6df99a610583be8030f50a3d79a5e62119"
+      }
+    },
+    "24w09a": {
+      "latest": {
+        "name": "cloth-config-14.0.122-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3TLtSX1e/cloth-config-14.0.122-fabric.jar",
+        "sha512": "366f0535a157a867649b68fe7f63f6d00c2e886337c8d514082c384aa5cc4cabd4b0aad96b3e5ef5fedaeab2bcc696f34bc14576ca08028958f873137a33a3c9"
+      },
+      "14_0_122": {
+        "name": "cloth-config-14.0.122-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/3TLtSX1e/cloth-config-14.0.122-fabric.jar",
+        "sha512": "366f0535a157a867649b68fe7f63f6d00c2e886337c8d514082c384aa5cc4cabd4b0aad96b3e5ef5fedaeab2bcc696f34bc14576ca08028958f873137a33a3c9"
+      }
+    },
+    "23w31a": {
+      "latest": {
+        "name": "cloth-config-12.0.107-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YR0cy5Ll/cloth-config-12.0.107-fabric.jar",
+        "sha512": "66564154d9e9cde8419ed32f191bc0c218f74b206d45cf935fe16d8081b3aff6dc7be215a0f9a70c7b15dd1a9669707ba254a7c9085df4aeda524c8756a6fc2c"
+      },
+      "12_0_107": {
+        "name": "cloth-config-12.0.107-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/YR0cy5Ll/cloth-config-12.0.107-fabric.jar",
+        "sha512": "66564154d9e9cde8419ed32f191bc0c218f74b206d45cf935fe16d8081b3aff6dc7be215a0f9a70c7b15dd1a9669707ba254a7c9085df4aeda524c8756a6fc2c"
+      }
+    },
+    "23w13a_or_b": {
+      "latest": {
+        "name": "cloth-config-11.0.97-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XqZIxbLN/cloth-config-11.0.97-fabric.jar",
+        "sha512": "086e9df500bfca8efe57b07527f7c677b2409b1b43c7f6d1a5ebbb721549f9cc3110b66186f0bdfb3394036b2a6f4974cbe71f2c26c322fb0a58b16fa6f54787"
+      },
+      "11_0_97": {
+        "name": "cloth-config-11.0.97-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/XqZIxbLN/cloth-config-11.0.97-fabric.jar",
+        "sha512": "086e9df500bfca8efe57b07527f7c677b2409b1b43c7f6d1a5ebbb721549f9cc3110b66186f0bdfb3394036b2a6f4974cbe71f2c26c322fb0a58b16fa6f54787"
+      }
+    },
+    "22w43a": {
+      "latest": {
+        "name": "cloth-config-9.0.92-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/72Wj1Wri/cloth-config-9.0.92-fabric.jar",
+        "sha512": "2d0c5745734f847a0080d0ee3a67c9d534bfb4df6774cd64b75966cccccebf88872e95a9accebd1642ca0e9cb99a4c8f8b3dfa5157955cb0a90792fdd6d23149"
+      },
+      "9_0_92": {
+        "name": "cloth-config-9.0.92-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/72Wj1Wri/cloth-config-9.0.92-fabric.jar",
+        "sha512": "2d0c5745734f847a0080d0ee3a67c9d534bfb4df6774cd64b75966cccccebf88872e95a9accebd1642ca0e9cb99a4c8f8b3dfa5157955cb0a90792fdd6d23149"
+      }
     }
   }
 }

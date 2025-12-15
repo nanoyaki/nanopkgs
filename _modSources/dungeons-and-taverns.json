@@ -1,410 +1,1958 @@
 {
+  "neoforge": {
+    "1_21_11": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/n1tWEZyy/dungeons-and-taverns-v5.1.0.jar",
+        "sha512": "f0466eaaad376f9ceb692886e2ec34c0acc36c2a649d3fff9b3116467b4bb70548cc29c8d09d8804e3ddaf7666f755b6a6d6d05800ae89cebe9e9858b71634ab"
+      },
+      "5_1_0+mod": {
+        "name": "dungeons-and-taverns-v5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/n1tWEZyy/dungeons-and-taverns-v5.1.0.jar",
+        "sha512": "f0466eaaad376f9ceb692886e2ec34c0acc36c2a649d3fff9b3116467b4bb70548cc29c8d09d8804e3ddaf7666f755b6a6d6d05800ae89cebe9e9858b71634ab"
+      }
+    },
+    "1_21_10-rc1": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UA8MyW6M/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "5e4af53deea5ead7da56e65fc7ed726e0f52d62c7cc7f84483d3608950cdcb86c1da519419be496a076e6245ac838726c6b0fd234858220f30d3436922990be0"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UA8MyW6M/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "5e4af53deea5ead7da56e65fc7ed726e0f52d62c7cc7f84483d3608950cdcb86c1da519419be496a076e6245ac838726c6b0fd234858220f30d3436922990be0"
+      }
+    },
+    "1_21_10": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PxgN6b5z/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "047c1ee1932237b435735023ff0eadc579b429cce34fba8625134fb0fcca5a1786da1f48198574eff373d1f1de4a84f3e37d81c869ce3062d5b0f6c6fe0b8010"
+      },
+      "5_0_4+mod": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PxgN6b5z/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "047c1ee1932237b435735023ff0eadc579b429cce34fba8625134fb0fcca5a1786da1f48198574eff373d1f1de4a84f3e37d81c869ce3062d5b0f6c6fe0b8010"
+      },
+      "5_0_3+mod": {
+        "name": "dungeons-and-taverns-v5.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kq9xG50E/dungeons-and-taverns-v5.0.3.jar",
+        "sha512": "fde1309011285f9461bfe11b64c3bb3bd52eeb194c99548f7db585820c0b31c85718922ae6b534fd22df0c18226ae4398d12abb19a41bd5769d069503b9b8d99"
+      },
+      "5_0_2+mod": {
+        "name": "dungeons-and-taverns-v5.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/1pNLgeur/dungeons-and-taverns-v5.0.2.jar",
+        "sha512": "2706346f991fd0f417bbe53924972699b51e5cf746d6fa8c6f2faa4b5c0d8ba527f3cf4ae8893d2546d6eebb42591d79745d2d0b37d1f12c8a1a7f916f140c26"
+      },
+      "5_0_1+mod": {
+        "name": "dungeons-and-taverns-v5.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dVgCLmqo/dungeons-and-taverns-v5.0.1.jar",
+        "sha512": "30bc115c7b569b39f710dee4102ad0231d730d03ca6b41747f153e2f8e7e56fb26e01e49ad1f47b474da0be29b42ff78c455d1ed57f0ae0d4d3dc437579c20d5"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UA8MyW6M/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "5e4af53deea5ead7da56e65fc7ed726e0f52d62c7cc7f84483d3608950cdcb86c1da519419be496a076e6245ac838726c6b0fd234858220f30d3436922990be0"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PxgN6b5z/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "047c1ee1932237b435735023ff0eadc579b429cce34fba8625134fb0fcca5a1786da1f48198574eff373d1f1de4a84f3e37d81c869ce3062d5b0f6c6fe0b8010"
+      },
+      "5_0_4+mod": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PxgN6b5z/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "047c1ee1932237b435735023ff0eadc579b429cce34fba8625134fb0fcca5a1786da1f48198574eff373d1f1de4a84f3e37d81c869ce3062d5b0f6c6fe0b8010"
+      },
+      "5_0_3+mod": {
+        "name": "dungeons-and-taverns-v5.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kq9xG50E/dungeons-and-taverns-v5.0.3.jar",
+        "sha512": "fde1309011285f9461bfe11b64c3bb3bd52eeb194c99548f7db585820c0b31c85718922ae6b534fd22df0c18226ae4398d12abb19a41bd5769d069503b9b8d99"
+      },
+      "5_0_2+mod": {
+        "name": "dungeons-and-taverns-v5.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/1pNLgeur/dungeons-and-taverns-v5.0.2.jar",
+        "sha512": "2706346f991fd0f417bbe53924972699b51e5cf746d6fa8c6f2faa4b5c0d8ba527f3cf4ae8893d2546d6eebb42591d79745d2d0b37d1f12c8a1a7f916f140c26"
+      },
+      "5_0_1+mod": {
+        "name": "dungeons-and-taverns-v5.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dVgCLmqo/dungeons-and-taverns-v5.0.1.jar",
+        "sha512": "30bc115c7b569b39f710dee4102ad0231d730d03ca6b41747f153e2f8e7e56fb26e01e49ad1f47b474da0be29b42ff78c455d1ed57f0ae0d4d3dc437579c20d5"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UA8MyW6M/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "5e4af53deea5ead7da56e65fc7ed726e0f52d62c7cc7f84483d3608950cdcb86c1da519419be496a076e6245ac838726c6b0fd234858220f30d3436922990be0"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      },
+      "4_7_2+mod": {
+        "name": "dungeons-and-taverns-v4.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/NaUDvZOB/dungeons-and-taverns-v4.7.2.jar",
+        "sha512": "317e011bcd29e36b162968e82c3188344856e51557353b0de43905f0afff38b3a306b71b277dc1d881504da382d7f2e5e425c6b92b90db7d10c8466c83a4e7bd"
+      },
+      "4_7_1+mod": {
+        "name": "dungeons-and-taverns-v4.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/3C7B5WkM/dungeons-and-taverns-v4.7.1.jar",
+        "sha512": "c3da684165c8c3b910a5efc444ba50c703d77c3ef2134651a3626f4278430874dc6b5831fc3ca56a02dc76074cdc897b7fff164b90fb7622aabd1ed658072811"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be"
+      },
+      "4_7_2+mod": {
+        "name": "dungeons-and-taverns-v4.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/NaUDvZOB/dungeons-and-taverns-v4.7.2.jar",
+        "sha512": "317e011bcd29e36b162968e82c3188344856e51557353b0de43905f0afff38b3a306b71b277dc1d881504da382d7f2e5e425c6b92b90db7d10c8466c83a4e7bd"
+      },
+      "4_7_1+mod": {
+        "name": "dungeons-and-taverns-v4.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/3C7B5WkM/dungeons-and-taverns-v4.7.1.jar",
+        "sha512": "c3da684165c8c3b910a5efc444ba50c703d77c3ef2134651a3626f4278430874dc6b5831fc3ca56a02dc76074cdc897b7fff164b90fb7622aabd1ed658072811"
+      },
+      "4_7+mod": {
+        "name": "dungeons-and-taverns-v4.7.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/zkY4ZPWC/dungeons-and-taverns-v4.7.jar",
+        "sha512": "2dbf9cfcab7a750c3c6c4a4ba7902251d5706824f55f494aedce234112a6de3ef75dd967336a09bf5ab983fe3278d61979255e106634cb1f5ca43de390a69382"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/pdZA8oTu/dungeons-and-taverns-v4.6.3.jar",
+        "sha512": "70c6859447505863b13442af38b3cfcdeaba2d77075bc6a67a1e86172813b9cca0e4fd1936f2b626cbe1e3ac3beaa5e7a4a3b383c65b46372d52b849ec285a6f"
+      },
+      "4_6_3+mod": {
+        "name": "dungeons-and-taverns-v4.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/pdZA8oTu/dungeons-and-taverns-v4.6.3.jar",
+        "sha512": "70c6859447505863b13442af38b3cfcdeaba2d77075bc6a67a1e86172813b9cca0e4fd1936f2b626cbe1e3ac3beaa5e7a4a3b383c65b46372d52b849ec285a6f"
+      },
+      "4_6_2+mod": {
+        "name": "dungeons-and-taverns-v4.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/szAtsqLT/dungeons-and-taverns-v4.6.2.jar",
+        "sha512": "76838e8715549129b0d6ac2fd15692b44a528a0469d3b11be12c22f020e4aa3d8e9768da79d5d5083212720e22b90ff1684b575cb756cb95b595698fff0ce501"
+      },
+      "4_6_1+mod": {
+        "name": "dungeons-and-taverns-v4.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/g8kYN8BT/dungeons-and-taverns-v4.6.1.jar",
+        "sha512": "6be5c5728e4e9902294093dc0049f9f5edd44563c676a49374fa53fe26e7364ee5567679b153c529a1287e722eebd2a285f9861b61e2ab0abd071f136590d79b"
+      },
+      "4_6+mod": {
+        "name": "dungeons-and-taverns-v4.6.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/MRerAAF6/dungeons-and-taverns-v4.6.jar",
+        "sha512": "66e059b234a227f97760e949c1bd68a881b14e74ee6737c9edde0609108c09d11c387c880329273e77eb0f09ae68219b1060fb4752d7feafca1219020dbbe956"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xz3UcF3i/dungeons-and-taverns-v4.5.jar",
+        "sha512": "d203c50edf0d478d9aae91306943546866064121b5404f5c733ad2a436bfc1aca1530b19ae7e138a002fc822753d1733c55c19a19f22bbcc7a13be083c935039"
+      },
+      "4_5+mod": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xz3UcF3i/dungeons-and-taverns-v4.5.jar",
+        "sha512": "d203c50edf0d478d9aae91306943546866064121b5404f5c733ad2a436bfc1aca1530b19ae7e138a002fc822753d1733c55c19a19f22bbcc7a13be083c935039"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xz3UcF3i/dungeons-and-taverns-v4.5.jar",
+        "sha512": "d203c50edf0d478d9aae91306943546866064121b5404f5c733ad2a436bfc1aca1530b19ae7e138a002fc822753d1733c55c19a19f22bbcc7a13be083c935039"
+      },
+      "4_5+mod": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xz3UcF3i/dungeons-and-taverns-v4.5.jar",
+        "sha512": "d203c50edf0d478d9aae91306943546866064121b5404f5c733ad2a436bfc1aca1530b19ae7e138a002fc822753d1733c55c19a19f22bbcc7a13be083c935039"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "83069dc336bcc212059f753923373d9522aa5953bf4b4fe2a8cfa666b4e28d2d017daa66c4b35e315c3be8d1ad60c2872879dd47cc1f47665ebbfd102da76976"
+      },
+      "4_4_4+mod": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "83069dc336bcc212059f753923373d9522aa5953bf4b4fe2a8cfa666b4e28d2d017daa66c4b35e315c3be8d1ad60c2872879dd47cc1f47665ebbfd102da76976"
+      },
+      "4_4_3+mod": {
+        "name": "dungeons-and-taverns-v4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/bJq6DOLA/dungeons-and-taverns-v4.4.3.jar",
+        "sha512": "4bda194c9629bdc428fa4500d9b0dc35e3e212591ee168b7aa7f455b376fbc0416cd2034dcfb8c28cf813287689ed20af646e7d96bdcb6e6a959239de642b12f"
+      },
+      "4_4_2+mod": {
+        "name": "dungeons-and-taverns-v4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ABI4t0RK/dungeons-and-taverns-v4.4.2.jar",
+        "sha512": "607fc9c8db1d044c4249d7190421cbc291446f868b4bec0ae5f585292ecea09c0608e77bda79e2c22dcb5acb0405480c1a6f9cdecab172600a95f70441d4dff3"
+      },
+      "4_4_1+mod": {
+        "name": "dungeons-and-taverns-v4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/3pKP7GfI/dungeons-and-taverns-v4.4.1.jar",
+        "sha512": "fb3697b1900198f4acc89a843dfb6814d5dd123115a26db5801ffd4f0ba9a4f234772a30c7c86b312d558d0392b013dc5c72bcabb340d2551cdc68a0c1ceff8c"
+      },
+      "4_4+mod": {
+        "name": "dungeons-and-taverns-4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/oiBH7RGx/dungeons-and-taverns-4.4.jar",
+        "sha512": "ad53c33b28a46bf6d913eb9410ea34349d0b0117ecd0e46d18e4887c5090261e3623214e942c2d757975878f2f71f7cdf141c860d9d219997be5b3f8e647f2de"
+      },
+      "4_3+mod": {
+        "name": "dungeons-and-taverns-v4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PoMcAQWW/dungeons-and-taverns-v4.3.jar",
+        "sha512": "1411b97a5773c23996f75ebdd62a5afd018af2bec0f88892bfe57e095e0a71b79816304ae1ce146d8d33c3792216457d1d4cb3b8fdee87f9f632084df1edd3b6"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "83069dc336bcc212059f753923373d9522aa5953bf4b4fe2a8cfa666b4e28d2d017daa66c4b35e315c3be8d1ad60c2872879dd47cc1f47665ebbfd102da76976"
+      },
+      "4_4_4+mod": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "83069dc336bcc212059f753923373d9522aa5953bf4b4fe2a8cfa666b4e28d2d017daa66c4b35e315c3be8d1ad60c2872879dd47cc1f47665ebbfd102da76976"
+      },
+      "4_4_3+mod": {
+        "name": "dungeons-and-taverns-v4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/bJq6DOLA/dungeons-and-taverns-v4.4.3.jar",
+        "sha512": "4bda194c9629bdc428fa4500d9b0dc35e3e212591ee168b7aa7f455b376fbc0416cd2034dcfb8c28cf813287689ed20af646e7d96bdcb6e6a959239de642b12f"
+      },
+      "4_4_2+mod": {
+        "name": "dungeons-and-taverns-v4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ABI4t0RK/dungeons-and-taverns-v4.4.2.jar",
+        "sha512": "607fc9c8db1d044c4249d7190421cbc291446f868b4bec0ae5f585292ecea09c0608e77bda79e2c22dcb5acb0405480c1a6f9cdecab172600a95f70441d4dff3"
+      },
+      "4_4_1+mod": {
+        "name": "dungeons-and-taverns-v4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/3pKP7GfI/dungeons-and-taverns-v4.4.1.jar",
+        "sha512": "fb3697b1900198f4acc89a843dfb6814d5dd123115a26db5801ffd4f0ba9a4f234772a30c7c86b312d558d0392b013dc5c72bcabb340d2551cdc68a0c1ceff8c"
+      },
+      "4_4+mod": {
+        "name": "dungeons-and-taverns-4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/oiBH7RGx/dungeons-and-taverns-4.4.jar",
+        "sha512": "ad53c33b28a46bf6d913eb9410ea34349d0b0117ecd0e46d18e4887c5090261e3623214e942c2d757975878f2f71f7cdf141c860d9d219997be5b3f8e647f2de"
+      },
+      "4_3+mod": {
+        "name": "dungeons-and-taverns-v4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PoMcAQWW/dungeons-and-taverns-v4.3.jar",
+        "sha512": "1411b97a5773c23996f75ebdd62a5afd018af2bec0f88892bfe57e095e0a71b79816304ae1ce146d8d33c3792216457d1d4cb3b8fdee87f9f632084df1edd3b6"
+      }
+    }
+  },
   "forge": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/W1utaJyy/dungeons-and-taverns-v5.0.0.jar",
-      "sha512": "18c24b45014a590f62c86a38d772198ab81816ff4dffc184d5b09ab49a7d8b8ca9ef408880199da0a5fb9b56b29db0101a46b1d142e4f7ca0dbe60eecc16870c",
-      "name": "dungeons-and-taverns-v5.0.0.jar"
+    "1_21_11": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/gY1vl6WD/dungeons-and-taverns-v5.1.0.jar",
+        "sha512": "7b51e801cd447e56f92a6bcfcb2b3acd6ea08aee824bcb61cc449643151bb3f3e93660c1e7e9d930309d47b6ac90a425e3078076a4157a36e25c07b146d84ae1"
+      },
+      "5_1_0+mod": {
+        "name": "dungeons-and-taverns-v5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/gY1vl6WD/dungeons-and-taverns-v5.1.0.jar",
+        "sha512": "7b51e801cd447e56f92a6bcfcb2b3acd6ea08aee824bcb61cc449643151bb3f3e93660c1e7e9d930309d47b6ac90a425e3078076a4157a36e25c07b146d84ae1"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/W1utaJyy/dungeons-and-taverns-v5.0.0.jar",
-      "sha512": "18c24b45014a590f62c86a38d772198ab81816ff4dffc184d5b09ab49a7d8b8ca9ef408880199da0a5fb9b56b29db0101a46b1d142e4f7ca0dbe60eecc16870c",
-      "name": "dungeons-and-taverns-v5.0.0.jar"
+    "1_21_10-rc1": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/W1utaJyy/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "18c24b45014a590f62c86a38d772198ab81816ff4dffc184d5b09ab49a7d8b8ca9ef408880199da0a5fb9b56b29db0101a46b1d142e4f7ca0dbe60eecc16870c"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/W1utaJyy/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "18c24b45014a590f62c86a38d772198ab81816ff4dffc184d5b09ab49a7d8b8ca9ef408880199da0a5fb9b56b29db0101a46b1d142e4f7ca0dbe60eecc16870c"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
-      "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2",
-      "name": "dungeons-and-taverns-v4.7.3.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rg0jgVSI/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "e0947b05e108b44e46d62e31f75f73ef94c696ee6f833918848430a575a40f5ffbad52cf44f46978073436ff4b9911c7232f78811e7e7097888ce2da77bb08ff"
+      },
+      "5_0_4+mod": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rg0jgVSI/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "e0947b05e108b44e46d62e31f75f73ef94c696ee6f833918848430a575a40f5ffbad52cf44f46978073436ff4b9911c7232f78811e7e7097888ce2da77bb08ff"
+      },
+      "5_0_3+mod": {
+        "name": "dungeons-and-taverns-v5.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/e36VKbQW/dungeons-and-taverns-v5.0.3.jar",
+        "sha512": "373f2a396c3cd3ebd55c026901ce326818cf6ca574773560ec5ca99d66c48a0cef1784242f24d08b11027e054570462e628bb326ed4946355affad35efcb9207"
+      },
+      "5_0_2+mod": {
+        "name": "dungeons-and-taverns-v5.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xJKEx8WC/dungeons-and-taverns-v5.0.2.jar",
+        "sha512": "34d09b161a28cf28458fac7a0562f2832bfc53950367f75e7c5ffd62a55f5e26541cc155d91df525697b4714b7b090b51942cc96b502512e2c7b10e10a706d28"
+      },
+      "5_0_1+mod": {
+        "name": "dungeons-and-taverns-v5.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GJWOkMh3/dungeons-and-taverns-v5.0.1.jar",
+        "sha512": "5e8a884d759f01511e73f04113d6ee409347a784d32240a1296393d2c72211850495f1de4d5488d55048570c2c2cb856412fb40b671f51860c28576b67bbf7ad"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/W1utaJyy/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "18c24b45014a590f62c86a38d772198ab81816ff4dffc184d5b09ab49a7d8b8ca9ef408880199da0a5fb9b56b29db0101a46b1d142e4f7ca0dbe60eecc16870c"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
-      "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2",
-      "name": "dungeons-and-taverns-v4.7.3.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rg0jgVSI/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "e0947b05e108b44e46d62e31f75f73ef94c696ee6f833918848430a575a40f5ffbad52cf44f46978073436ff4b9911c7232f78811e7e7097888ce2da77bb08ff"
+      },
+      "5_0_4+mod": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rg0jgVSI/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "e0947b05e108b44e46d62e31f75f73ef94c696ee6f833918848430a575a40f5ffbad52cf44f46978073436ff4b9911c7232f78811e7e7097888ce2da77bb08ff"
+      },
+      "5_0_3+mod": {
+        "name": "dungeons-and-taverns-v5.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/e36VKbQW/dungeons-and-taverns-v5.0.3.jar",
+        "sha512": "373f2a396c3cd3ebd55c026901ce326818cf6ca574773560ec5ca99d66c48a0cef1784242f24d08b11027e054570462e628bb326ed4946355affad35efcb9207"
+      },
+      "5_0_2+mod": {
+        "name": "dungeons-and-taverns-v5.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xJKEx8WC/dungeons-and-taverns-v5.0.2.jar",
+        "sha512": "34d09b161a28cf28458fac7a0562f2832bfc53950367f75e7c5ffd62a55f5e26541cc155d91df525697b4714b7b090b51942cc96b502512e2c7b10e10a706d28"
+      },
+      "5_0_1+mod": {
+        "name": "dungeons-and-taverns-v5.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GJWOkMh3/dungeons-and-taverns-v5.0.1.jar",
+        "sha512": "5e8a884d759f01511e73f04113d6ee409347a784d32240a1296393d2c72211850495f1de4d5488d55048570c2c2cb856412fb40b671f51860c28576b67bbf7ad"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/W1utaJyy/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "18c24b45014a590f62c86a38d772198ab81816ff4dffc184d5b09ab49a7d8b8ca9ef408880199da0a5fb9b56b29db0101a46b1d142e4f7ca0dbe60eecc16870c"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Tsl2mstz/dungeons-and-taverns-v4.7.1.jar",
-      "sha512": "bc3418914cf1512022479dbdebc0f2b7be709e500be934445a052030c274735f7442a3cc543373b31e6605061cfd1f497a594d42d8144a26184506a6fbe25d9a",
-      "name": "dungeons-and-taverns-v4.7.1.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/nmA9YXuH/dungeons-and-taverns-v4.7.jar",
-      "sha512": "5fff318fa16a3bd029396cbc1cd809fdf9d59b80101c9a95028dac302fc87bf5cc572f31313980b8c2eeddc1ecadd4e3f118b4440032f8cb4d134b77cf8ba300",
-      "name": "dungeons-and-taverns-v4.7.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/x3n3CXS9/dungeons-and-taverns-v4.6.jar",
-      "sha512": "8d4c6edcd5cde7c0eae893facf268ca60bac36d603986c2d1ad0e1035542e806ef3805894bfddbd265b458806d422e1d783a19b42cb4cb59dcff12b43d82306e",
-      "name": "dungeons-and-taverns-v4.6.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      },
+      "4_7_2+mod": {
+        "name": "dungeons-and-taverns-v4.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9B8EPu8w/dungeons-and-taverns-v4.7.2.jar",
+        "sha512": "84801319e6c7fe8f220ff3893c0f8163c1020e0ed9da3d457823b70bc34981584cb341331537c1400b95d825713230d94ff7173c0fb92fe4b13dd3927e866962"
+      },
+      "4_7_1+mod": {
+        "name": "dungeons-and-taverns-v4.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Tsl2mstz/dungeons-and-taverns-v4.7.1.jar",
+        "sha512": "bc3418914cf1512022479dbdebc0f2b7be709e500be934445a052030c274735f7442a3cc543373b31e6605061cfd1f497a594d42d8144a26184506a6fbe25d9a"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UurMsmE5/dungeons-and-taverns-v4.5.jar",
-      "sha512": "3d4eb8cabd6dd67a9da2ffffc76bd202a2571c3a1577b0b5dce229cfcc31d97e23b90383d6b3d722649711a53ceaf240ca28669eb6d57ec9b9ec948f479ee8cb",
-      "name": "dungeons-and-taverns-v4.5.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/qrDH4XsF/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "3ad475101717d20fc8d90c45fc2c32b6e5ec33e3de1f90e6c1b841933eeff1ede8aaf756fd5c91a293ebf5d59c093d80e3dd5770a781f76bd3af46e828d7ced2"
+      },
+      "4_7_2+mod": {
+        "name": "dungeons-and-taverns-v4.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9B8EPu8w/dungeons-and-taverns-v4.7.2.jar",
+        "sha512": "84801319e6c7fe8f220ff3893c0f8163c1020e0ed9da3d457823b70bc34981584cb341331537c1400b95d825713230d94ff7173c0fb92fe4b13dd3927e866962"
+      },
+      "4_7_1+mod": {
+        "name": "dungeons-and-taverns-v4.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Tsl2mstz/dungeons-and-taverns-v4.7.1.jar",
+        "sha512": "bc3418914cf1512022479dbdebc0f2b7be709e500be934445a052030c274735f7442a3cc543373b31e6605061cfd1f497a594d42d8144a26184506a6fbe25d9a"
+      },
+      "4_7+mod": {
+        "name": "dungeons-and-taverns-v4.7.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/nmA9YXuH/dungeons-and-taverns-v4.7.jar",
+        "sha512": "5fff318fa16a3bd029396cbc1cd809fdf9d59b80101c9a95028dac302fc87bf5cc572f31313980b8c2eeddc1ecadd4e3f118b4440032f8cb4d134b77cf8ba300"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UurMsmE5/dungeons-and-taverns-v4.5.jar",
-      "sha512": "3d4eb8cabd6dd67a9da2ffffc76bd202a2571c3a1577b0b5dce229cfcc31d97e23b90383d6b3d722649711a53ceaf240ca28669eb6d57ec9b9ec948f479ee8cb",
-      "name": "dungeons-and-taverns-v4.5.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/yxweTHyf/dungeons-and-taverns-v4.6.3.jar",
+        "sha512": "8cb400ba049243cd6e054e5d4bf7f9961fb02d30ba47804921c3b2c1b04979d28847b7a4429f69e80ad1d6033694a4301a54feebdc95b77029a103d499c25cba"
+      },
+      "4_6_3+mod": {
+        "name": "dungeons-and-taverns-v4.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/yxweTHyf/dungeons-and-taverns-v4.6.3.jar",
+        "sha512": "8cb400ba049243cd6e054e5d4bf7f9961fb02d30ba47804921c3b2c1b04979d28847b7a4429f69e80ad1d6033694a4301a54feebdc95b77029a103d499c25cba"
+      },
+      "4_6_2+mod": {
+        "name": "dungeons-and-taverns-v4.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PCXJI9NW/dungeons-and-taverns-v4.6.2.jar",
+        "sha512": "d328c7403fdccd04c45426f5269c154a3897e8828e4165023bbb53696a16ede29f058f7e95a1c976db3a51d17094ebf037bdd6f6570e6c55e301423667557e85"
+      },
+      "4_6_1+mod": {
+        "name": "dungeons-and-taverns-v4.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fNvgwKBY/dungeons-and-taverns-v4.6.1.jar",
+        "sha512": "2681944bd645037e2cfdf634f15616b13b4775bb14f30b3727c4dccb7778b4db87af10132b469be54422b617b1f19f7592b97606a02f1284b429cd7160987755"
+      },
+      "4_6+mod": {
+        "name": "dungeons-and-taverns-v4.6.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/x3n3CXS9/dungeons-and-taverns-v4.6.jar",
+        "sha512": "8d4c6edcd5cde7c0eae893facf268ca60bac36d603986c2d1ad0e1035542e806ef3805894bfddbd265b458806d422e1d783a19b42cb4cb59dcff12b43d82306e"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/h2N7kIqz/dungeons-and-taverns-v4.3.jar",
-      "sha512": "ec27123b1f07ae9c81b60bfaf58e75131d796207bec7f649f53d28a24feb491b2b75163371590a0b6e2762c864a79c97cd0a1eb810080b576e5aefbeb2396f9e",
-      "name": "dungeons-and-taverns-v4.3.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UurMsmE5/dungeons-and-taverns-v4.5.jar",
+        "sha512": "3d4eb8cabd6dd67a9da2ffffc76bd202a2571c3a1577b0b5dce229cfcc31d97e23b90383d6b3d722649711a53ceaf240ca28669eb6d57ec9b9ec948f479ee8cb"
+      },
+      "4_5+mod": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UurMsmE5/dungeons-and-taverns-v4.5.jar",
+        "sha512": "3d4eb8cabd6dd67a9da2ffffc76bd202a2571c3a1577b0b5dce229cfcc31d97e23b90383d6b3d722649711a53ceaf240ca28669eb6d57ec9b9ec948f479ee8cb"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UHxEgLka/dungeons-and-taverns-v4.jar",
-      "sha512": "94be61ad2a3686626e0c1855801353ef3ca1d88ac3b09149fb2b542c1944c54d06b97f179b6ed2640dfd84d37666b5aed6970057bbcdacbc0e2c8221f08d52ff",
-      "name": "dungeons-and-taverns-v4.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UurMsmE5/dungeons-and-taverns-v4.5.jar",
+        "sha512": "3d4eb8cabd6dd67a9da2ffffc76bd202a2571c3a1577b0b5dce229cfcc31d97e23b90383d6b3d722649711a53ceaf240ca28669eb6d57ec9b9ec948f479ee8cb"
+      },
+      "4_5+mod": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UurMsmE5/dungeons-and-taverns-v4.5.jar",
+        "sha512": "3d4eb8cabd6dd67a9da2ffffc76bd202a2571c3a1577b0b5dce229cfcc31d97e23b90383d6b3d722649711a53ceaf240ca28669eb6d57ec9b9ec948f479ee8cb"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/o1B7QqhO/dungeons-and-taverns-3.2.jar",
-      "sha512": "21c15a2dd6af5d281c4d9f3c19fa34485f692cef28c5ee4160a00ad38e7f7e09f0bc9c093dfbc7ea9a943d6efbdf15c0b0c30d7167f42a6fc590538098eec432",
-      "name": "dungeons-and-taverns-3.2.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/wH004B85/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "c61fa8f7771228cc85db9039b20b8ead2c8416c54900cd1780da43ced18c88a0e581ac722f0ebf476d49d8cf453bfe6a75c958c8d4faad7fa36ba3378245b591"
+      },
+      "4_4_4+mod": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/wH004B85/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "c61fa8f7771228cc85db9039b20b8ead2c8416c54900cd1780da43ced18c88a0e581ac722f0ebf476d49d8cf453bfe6a75c958c8d4faad7fa36ba3378245b591"
+      },
+      "4_4_3+mod": {
+        "name": "dungeons-and-taverns-v4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/5zA2ZvqW/dungeons-and-taverns-v4.4.3.jar",
+        "sha512": "6dc88973fcf9d097039d386e3a78a1cdae25164c589c1acf0bcd78acd8b9c244e841d8573bf450ae9ff5a9d946b245c781b9da31c5bd51ddaddd180d904dac0b"
+      },
+      "4_4_2+mod": {
+        "name": "dungeons-and-taverns-v4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jf2tvTlu/dungeons-and-taverns-v4.4.2.jar",
+        "sha512": "f16da905dd8bde0d91cc4c941b26a9b3f57839108537fa25c18b1e1eb73a5a4511857317fd0ec12f5ff7414b77052a0ccf787cfc8a23856e0ea0cb01627b02ac"
+      },
+      "4_4_1+mod": {
+        "name": "dungeons-and-taverns-v4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/u89TZrMp/dungeons-and-taverns-v4.4.1.jar",
+        "sha512": "2a77a207c9d2b20c6d12b54216640ecd589149eb7adce4b8bbd54ef401101260341a3e977921c2e92a1ec328f12f1212f5a2577b6e3877ace39e5b3eea0ee9a9"
+      },
+      "4_4+mod": {
+        "name": "dungeons-and-taverns-4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/CxkroXA5/dungeons-and-taverns-4.4.jar",
+        "sha512": "036ad4d99ef390b404840bef60ec3f0fbf0fccc3d0b5ef11491d2b7b29b3ef22ad8560295e9cff176ec52b8093319cc8b03cd252bee87324b368c68061d34b93"
+      },
+      "4_3+mod": {
+        "name": "dungeons-and-taverns-v4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/h2N7kIqz/dungeons-and-taverns-v4.3.jar",
+        "sha512": "ec27123b1f07ae9c81b60bfaf58e75131d796207bec7f649f53d28a24feb491b2b75163371590a0b6e2762c864a79c97cd0a1eb810080b576e5aefbeb2396f9e"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/o1B7QqhO/dungeons-and-taverns-3.2.jar",
-      "sha512": "21c15a2dd6af5d281c4d9f3c19fa34485f692cef28c5ee4160a00ad38e7f7e09f0bc9c093dfbc7ea9a943d6efbdf15c0b0c30d7167f42a6fc590538098eec432",
-      "name": "dungeons-and-taverns-3.2.jar"
+    "1_21": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/wH004B85/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "c61fa8f7771228cc85db9039b20b8ead2c8416c54900cd1780da43ced18c88a0e581ac722f0ebf476d49d8cf453bfe6a75c958c8d4faad7fa36ba3378245b591"
+      },
+      "4_4_4+mod": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/wH004B85/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "c61fa8f7771228cc85db9039b20b8ead2c8416c54900cd1780da43ced18c88a0e581ac722f0ebf476d49d8cf453bfe6a75c958c8d4faad7fa36ba3378245b591"
+      },
+      "4_4_3+mod": {
+        "name": "dungeons-and-taverns-v4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/5zA2ZvqW/dungeons-and-taverns-v4.4.3.jar",
+        "sha512": "6dc88973fcf9d097039d386e3a78a1cdae25164c589c1acf0bcd78acd8b9c244e841d8573bf450ae9ff5a9d946b245c781b9da31c5bd51ddaddd180d904dac0b"
+      },
+      "4_4_2+mod": {
+        "name": "dungeons-and-taverns-v4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jf2tvTlu/dungeons-and-taverns-v4.4.2.jar",
+        "sha512": "f16da905dd8bde0d91cc4c941b26a9b3f57839108537fa25c18b1e1eb73a5a4511857317fd0ec12f5ff7414b77052a0ccf787cfc8a23856e0ea0cb01627b02ac"
+      },
+      "4_4_1+mod": {
+        "name": "dungeons-and-taverns-v4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/u89TZrMp/dungeons-and-taverns-v4.4.1.jar",
+        "sha512": "2a77a207c9d2b20c6d12b54216640ecd589149eb7adce4b8bbd54ef401101260341a3e977921c2e92a1ec328f12f1212f5a2577b6e3877ace39e5b3eea0ee9a9"
+      },
+      "4_4+mod": {
+        "name": "dungeons-and-taverns-4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/CxkroXA5/dungeons-and-taverns-4.4.jar",
+        "sha512": "036ad4d99ef390b404840bef60ec3f0fbf0fccc3d0b5ef11491d2b7b29b3ef22ad8560295e9cff176ec52b8093319cc8b03cd252bee87324b368c68061d34b93"
+      },
+      "4_3+mod": {
+        "name": "dungeons-and-taverns-v4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/h2N7kIqz/dungeons-and-taverns-v4.3.jar",
+        "sha512": "ec27123b1f07ae9c81b60bfaf58e75131d796207bec7f649f53d28a24feb491b2b75163371590a0b6e2762c864a79c97cd0a1eb810080b576e5aefbeb2396f9e"
+      },
+      "4_2+mod": {
+        "name": "dungeons-and-taverns-v4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9LF8LPu8/dungeons-and-taverns-v4.2.jar",
+        "sha512": "4cf3e149000ea287fdfb92057c3f78ef17578b4e59cda07352a84245874e0db31c1b8c046362b1bf8506f53d180f1b8ee60247f9b7ae57faa691353ff6dbd3c9"
+      },
+      "4_1+mod": {
+        "name": "dungeons-and-taverns-v4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GHO5nkWN/dungeons-and-taverns-v4.1.jar",
+        "sha512": "21e3f6ca6623db5f383cb5bd6f1541f005636acf029aca2ca9f19d753e3a54a34752cc67ddcadd2270ecbb2d17df59082786be897a0b99439a3c13b703c11ce6"
+      },
+      "4+mod": {
+        "name": "dungeons-and-taverns-v4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UHxEgLka/dungeons-and-taverns-v4.jar",
+        "sha512": "94be61ad2a3686626e0c1855801353ef3ca1d88ac3b09149fb2b542c1944c54d06b97f179b6ed2640dfd84d37666b5aed6970057bbcdacbc0e2c8221f08d52ff"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SD5oMTXr/dungeons-and-taverns-3.1.1.jar",
-      "sha512": "597ef1e4dc60400a9dfa1d409b9f7a5259323b0cd82999948f7df2c677153685254d1fb60f6b15495a6a94a1283f276f3c5aad92dd3dab67cc8da7bf68c7838d",
-      "name": "dungeons-and-taverns-3.1.1.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/o1B7QqhO/dungeons-and-taverns-3.2.jar",
+        "sha512": "21c15a2dd6af5d281c4d9f3c19fa34485f692cef28c5ee4160a00ad38e7f7e09f0bc9c093dfbc7ea9a943d6efbdf15c0b0c30d7167f42a6fc590538098eec432"
+      },
+      "3_2+mod": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/o1B7QqhO/dungeons-and-taverns-3.2.jar",
+        "sha512": "21c15a2dd6af5d281c4d9f3c19fa34485f692cef28c5ee4160a00ad38e7f7e09f0bc9c093dfbc7ea9a943d6efbdf15c0b0c30d7167f42a6fc590538098eec432"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SD5oMTXr/dungeons-and-taverns-3.1.1.jar",
-      "sha512": "597ef1e4dc60400a9dfa1d409b9f7a5259323b0cd82999948f7df2c677153685254d1fb60f6b15495a6a94a1283f276f3c5aad92dd3dab67cc8da7bf68c7838d",
-      "name": "dungeons-and-taverns-3.1.1.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/o1B7QqhO/dungeons-and-taverns-3.2.jar",
+        "sha512": "21c15a2dd6af5d281c4d9f3c19fa34485f692cef28c5ee4160a00ad38e7f7e09f0bc9c093dfbc7ea9a943d6efbdf15c0b0c30d7167f42a6fc590538098eec432"
+      },
+      "3_2+mod": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/o1B7QqhO/dungeons-and-taverns-3.2.jar",
+        "sha512": "21c15a2dd6af5d281c4d9f3c19fa34485f692cef28c5ee4160a00ad38e7f7e09f0bc9c093dfbc7ea9a943d6efbdf15c0b0c30d7167f42a6fc590538098eec432"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/izDu3Gb1/dungeons-and-taverns-3.jar",
-      "sha512": "fb241a6e5bf06e804df64aae111402cbebe450429e6cb3ae6363d7d16a429ba3ae59e87feafba2931e0fcaf2505099a7638812e9f191a5d5ce6e7bd8fba4fd1c",
-      "name": "dungeons-and-taverns-3.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SD5oMTXr/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "597ef1e4dc60400a9dfa1d409b9f7a5259323b0cd82999948f7df2c677153685254d1fb60f6b15495a6a94a1283f276f3c5aad92dd3dab67cc8da7bf68c7838d"
+      },
+      "3_1_1+mod": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SD5oMTXr/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "597ef1e4dc60400a9dfa1d409b9f7a5259323b0cd82999948f7df2c677153685254d1fb60f6b15495a6a94a1283f276f3c5aad92dd3dab67cc8da7bf68c7838d"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/uTKeYJtp/dungeons-and-taverns-v2.1.3.jar",
-      "sha512": "850583070b2f4a95a105eae8313c89ba7d6a96276e7c4b8b72b6af98e8de941acd48b0ed688ec0743f925e33d85456db5b4104500299b0a82adc39a1c8a9a6ec",
-      "name": "dungeons-and-taverns-v2.1.3.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SD5oMTXr/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "597ef1e4dc60400a9dfa1d409b9f7a5259323b0cd82999948f7df2c677153685254d1fb60f6b15495a6a94a1283f276f3c5aad92dd3dab67cc8da7bf68c7838d"
+      },
+      "3_1_1+mod": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SD5oMTXr/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "597ef1e4dc60400a9dfa1d409b9f7a5259323b0cd82999948f7df2c677153685254d1fb60f6b15495a6a94a1283f276f3c5aad92dd3dab67cc8da7bf68c7838d"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/6UAxzRAA/dungeons-and-taverns-v2.1.jar",
-      "sha512": "02e63162c0c2f85e1459ae604dffadd29b9905d8ca5e8861704f1d351416a551777a8c8362c2376600b51dcd175e40ca27950cadcea93e23f7d9b2c413e60419",
-      "name": "dungeons-and-taverns-v2.1.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/T69yfV93/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "5faa59372d09cf8bd2064ce19cde71edcbbd512cdfb6065bf8e20073dd664f66d833c2d3429a74b178cba455f1803375adfe03f2cdc9e91b74384d5ec6761421"
+      },
+      "3_0_3+mod": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/T69yfV93/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "5faa59372d09cf8bd2064ce19cde71edcbbd512cdfb6065bf8e20073dd664f66d833c2d3429a74b178cba455f1803375adfe03f2cdc9e91b74384d5ec6761421"
+      },
+      "3_0_3_f+mod": {
+        "name": "dungeons-and-taverns-3.0.3.f.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar",
+        "sha512": "66008a7439fde95270350433adbff7b74944ad97e216ad165d11b3a023647a8cd18c17aa12ded2a58fa793ff29433e9bcbbd55e6ffd5a3af44f72c1ea12c1089"
+      },
+      "3_0_2+mod": {
+        "name": "dungeons-and-taverns-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GALaKblF/dungeons-and-taverns-3.0.2.jar",
+        "sha512": "0282edb6f57747b905a0b56fed242d147b4ed8eed76f6d303e2d34aa6e1566e9108fd262c90e36b2d5ef2729a55ab8d33f5911f7abc648c7257992abcfed153f"
+      },
+      "3_0_1+mod": {
+        "name": "dungeons-and-taverns-3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kcIxXe4e/dungeons-and-taverns-3.0.1.jar",
+        "sha512": "12fdc23d25a8479b7ccef8a26b5558ee216dd36b0ddf75ac56735e8625ff193e35d4646a4f6a38702522e417a58401747ff2d1164ff4db6b0ac840793d1b0aa1"
+      },
+      "3+mod": {
+        "name": "dungeons-and-taverns-3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/izDu3Gb1/dungeons-and-taverns-3.jar",
+        "sha512": "fb241a6e5bf06e804df64aae111402cbebe450429e6cb3ae6363d7d16a429ba3ae59e87feafba2931e0fcaf2505099a7638812e9f191a5d5ce6e7bd8fba4fd1c"
+      }
     },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/6jYRpbET/dungeons-and-taverns-2.0.1.jar",
-      "sha512": "78db6fc631f0035f8162471b117117c84742be7ba3b9a82e2b1e5f684f5cb8b8463bf5c6cdb7bb863429cd2c72792bb63259c21c11922bb79a61df0e88690d55",
-      "name": "dungeons-and-taverns-2.0.1.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/T69yfV93/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "5faa59372d09cf8bd2064ce19cde71edcbbd512cdfb6065bf8e20073dd664f66d833c2d3429a74b178cba455f1803375adfe03f2cdc9e91b74384d5ec6761421"
+      },
+      "3_0_3+mod": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/T69yfV93/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "5faa59372d09cf8bd2064ce19cde71edcbbd512cdfb6065bf8e20073dd664f66d833c2d3429a74b178cba455f1803375adfe03f2cdc9e91b74384d5ec6761421"
+      },
+      "3_0_3_f+mod": {
+        "name": "dungeons-and-taverns-3.0.3.f.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar",
+        "sha512": "66008a7439fde95270350433adbff7b74944ad97e216ad165d11b3a023647a8cd18c17aa12ded2a58fa793ff29433e9bcbbd55e6ffd5a3af44f72c1ea12c1089"
+      },
+      "3_0_2+mod": {
+        "name": "dungeons-and-taverns-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GALaKblF/dungeons-and-taverns-3.0.2.jar",
+        "sha512": "0282edb6f57747b905a0b56fed242d147b4ed8eed76f6d303e2d34aa6e1566e9108fd262c90e36b2d5ef2729a55ab8d33f5911f7abc648c7257992abcfed153f"
+      },
+      "3_0_1+mod": {
+        "name": "dungeons-and-taverns-3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kcIxXe4e/dungeons-and-taverns-3.0.1.jar",
+        "sha512": "12fdc23d25a8479b7ccef8a26b5558ee216dd36b0ddf75ac56735e8625ff193e35d4646a4f6a38702522e417a58401747ff2d1164ff4db6b0ac840793d1b0aa1"
+      },
+      "3+mod": {
+        "name": "dungeons-and-taverns-3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/izDu3Gb1/dungeons-and-taverns-3.jar",
+        "sha512": "fb241a6e5bf06e804df64aae111402cbebe450429e6cb3ae6363d7d16a429ba3ae59e87feafba2931e0fcaf2505099a7638812e9f191a5d5ce6e7bd8fba4fd1c"
+      },
+      "2_1_4+mod": {
+        "name": "dungeons-and-taverns-v2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/M0kmi04X/dungeons-and-taverns-v2.1.4.jar",
+        "sha512": "84319411c1122d797cc750dd9f214a6313579fecf9233a21d333806a16990af1d25dfcb0688f4da755f3d273d4e1529278d10e5b627fc82083df0a23cbacf0da"
+      },
+      "2_1_3+mod": {
+        "name": "dungeons-and-taverns-v2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/uTKeYJtp/dungeons-and-taverns-v2.1.3.jar",
+        "sha512": "850583070b2f4a95a105eae8313c89ba7d6a96276e7c4b8b72b6af98e8de941acd48b0ed688ec0743f925e33d85456db5b4104500299b0a82adc39a1c8a9a6ec"
+      }
     },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f",
-      "name": "dungeons-and-taverns-2.0.2.jar"
+    "1_20": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/T69yfV93/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "5faa59372d09cf8bd2064ce19cde71edcbbd512cdfb6065bf8e20073dd664f66d833c2d3429a74b178cba455f1803375adfe03f2cdc9e91b74384d5ec6761421"
+      },
+      "3_0_3+mod": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/T69yfV93/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "5faa59372d09cf8bd2064ce19cde71edcbbd512cdfb6065bf8e20073dd664f66d833c2d3429a74b178cba455f1803375adfe03f2cdc9e91b74384d5ec6761421"
+      },
+      "3_0_3_f+mod": {
+        "name": "dungeons-and-taverns-3.0.3.f.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar",
+        "sha512": "66008a7439fde95270350433adbff7b74944ad97e216ad165d11b3a023647a8cd18c17aa12ded2a58fa793ff29433e9bcbbd55e6ffd5a3af44f72c1ea12c1089"
+      },
+      "3_0_2+mod": {
+        "name": "dungeons-and-taverns-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GALaKblF/dungeons-and-taverns-3.0.2.jar",
+        "sha512": "0282edb6f57747b905a0b56fed242d147b4ed8eed76f6d303e2d34aa6e1566e9108fd262c90e36b2d5ef2729a55ab8d33f5911f7abc648c7257992abcfed153f"
+      },
+      "3_0_1+mod": {
+        "name": "dungeons-and-taverns-3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kcIxXe4e/dungeons-and-taverns-3.0.1.jar",
+        "sha512": "12fdc23d25a8479b7ccef8a26b5558ee216dd36b0ddf75ac56735e8625ff193e35d4646a4f6a38702522e417a58401747ff2d1164ff4db6b0ac840793d1b0aa1"
+      },
+      "3+mod": {
+        "name": "dungeons-and-taverns-3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/izDu3Gb1/dungeons-and-taverns-3.jar",
+        "sha512": "fb241a6e5bf06e804df64aae111402cbebe450429e6cb3ae6363d7d16a429ba3ae59e87feafba2931e0fcaf2505099a7638812e9f191a5d5ce6e7bd8fba4fd1c"
+      },
+      "2_1_4+mod": {
+        "name": "dungeons-and-taverns-v2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/M0kmi04X/dungeons-and-taverns-v2.1.4.jar",
+        "sha512": "84319411c1122d797cc750dd9f214a6313579fecf9233a21d333806a16990af1d25dfcb0688f4da755f3d273d4e1529278d10e5b627fc82083df0a23cbacf0da"
+      },
+      "2_1_3+mod": {
+        "name": "dungeons-and-taverns-v2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/uTKeYJtp/dungeons-and-taverns-v2.1.3.jar",
+        "sha512": "850583070b2f4a95a105eae8313c89ba7d6a96276e7c4b8b72b6af98e8de941acd48b0ed688ec0743f925e33d85456db5b4104500299b0a82adc39a1c8a9a6ec"
+      },
+      "2_1_2+mod": {
+        "name": "dungeons-and-taverns-v2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Ag2CCqRR/dungeons-and-taverns-v2.1.2.jar",
+        "sha512": "da9fad45d4fd2a3cfba0feed57ac70460305c2c34f5dc391eb69e049ebc36a7d15f58b83735d3e48e9a1164913f65731621dfd1611f61424b108da4b605fa02a"
+      },
+      "2_1+mod": {
+        "name": "dungeons-and-taverns-v2.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/6UAxzRAA/dungeons-and-taverns-v2.1.jar",
+        "sha512": "02e63162c0c2f85e1459ae604dffadd29b9905d8ca5e8861704f1d351416a551777a8c8362c2376600b51dcd175e40ca27950cadcea93e23f7d9b2c413e60419"
+      }
     },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f",
-      "name": "dungeons-and-taverns-2.0.2.jar"
+    "1_19_4": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      },
+      "2_0_1+mod": {
+        "name": "dungeons-and-taverns-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/6jYRpbET/dungeons-and-taverns-2.0.1.jar",
+        "sha512": "78db6fc631f0035f8162471b117117c84742be7ba3b9a82e2b1e5f684f5cb8b8463bf5c6cdb7bb863429cd2c72792bb63259c21c11922bb79a61df0e88690d55"
+      }
     },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f",
-      "name": "dungeons-and-taverns-2.0.2.jar"
+    "1_19_3": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      }
     },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f",
-      "name": "dungeons-and-taverns-2.0.2.jar"
+    "1_19_2": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/WfuA1Ai8/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "7121e9fd8b9b734ce5dbb6f317645ddd57a84ff297f9d5a7481db2b2a690e67388bbb5d5de53084e717982d405837ae25a0ce51b4435c67230967724069bd63f"
+      }
     }
   },
   "fabric": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SnHOzj7k/dungeons-and-taverns-v5.0.0.jar",
-      "sha512": "c633098b88c372178551c19e3000a83d5278b6d5162b6b913505ae4c2e85a15fa309626a39dfee3603665a58047fd528fac3980dc205a9c1a7888b191530bc86",
-      "name": "dungeons-and-taverns-v5.0.0.jar"
+    "1_21_11": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rJ0Y6xDT/dungeons-and-taverns-v5.1.0.jar",
+        "sha512": "fee86a3aca2bbb97f7c45926c1e6c1a5366f6f15242133bfe1a1f55bba8ef0f63dea092da1f61bfebd1ae448a05c2ba94ba61a349aa4ab61d990020d6a855154"
+      },
+      "5_1_0+mod": {
+        "name": "dungeons-and-taverns-v5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rJ0Y6xDT/dungeons-and-taverns-v5.1.0.jar",
+        "sha512": "fee86a3aca2bbb97f7c45926c1e6c1a5366f6f15242133bfe1a1f55bba8ef0f63dea092da1f61bfebd1ae448a05c2ba94ba61a349aa4ab61d990020d6a855154"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SnHOzj7k/dungeons-and-taverns-v5.0.0.jar",
-      "sha512": "c633098b88c372178551c19e3000a83d5278b6d5162b6b913505ae4c2e85a15fa309626a39dfee3603665a58047fd528fac3980dc205a9c1a7888b191530bc86",
-      "name": "dungeons-and-taverns-v5.0.0.jar"
+    "1_21_10-rc1": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SnHOzj7k/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "c633098b88c372178551c19e3000a83d5278b6d5162b6b913505ae4c2e85a15fa309626a39dfee3603665a58047fd528fac3980dc205a9c1a7888b191530bc86"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SnHOzj7k/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "c633098b88c372178551c19e3000a83d5278b6d5162b6b913505ae4c2e85a15fa309626a39dfee3603665a58047fd528fac3980dc205a9c1a7888b191530bc86"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
-      "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4",
-      "name": "dungeons-and-taverns-v4.7.3.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Fp3HZr0m/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "61b3b5acb6259623296580e4690a27247c6ba91b29a36c3977e91b903454c73a8049656d16546250a37bc0cda20834ce9ca7dc4611716b3e098f679436a6151f"
+      },
+      "5_0_4+mod": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Fp3HZr0m/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "61b3b5acb6259623296580e4690a27247c6ba91b29a36c3977e91b903454c73a8049656d16546250a37bc0cda20834ce9ca7dc4611716b3e098f679436a6151f"
+      },
+      "5_0_3+mod": {
+        "name": "dungeons-and-taverns-v5.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/IqBigwGK/dungeons-and-taverns-v5.0.3.jar",
+        "sha512": "823294d4829be8a6f573e1c6ce5aa8d76677ae76a261ca2c26d3a4e8c9c342c9f5ec51b436bc40b0aa289e31bf97c2cc5c28347c327b068a383da26c2cd850e4"
+      },
+      "5_0_2+mod": {
+        "name": "dungeons-and-taverns-v5.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ONgzIwjx/dungeons-and-taverns-v5.0.2.jar",
+        "sha512": "928c07f8a5b144735e1292ab444a4fbd3a633567d1310fd3e59a1bca0a48279342fd1ed8fa018c7d18287cb8632484880bccc2593572c26ce0113b3cabaca2e6"
+      },
+      "5_0_1+mod": {
+        "name": "dungeons-and-taverns-v5.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/DIywpNjN/dungeons-and-taverns-v5.0.1.jar",
+        "sha512": "3cdeb43190c31f61114a80d52b48406c45352367683e29374c737fdd0c670d59d78ab68dc9e48dd45e620882680b40119866a7b7297d7b8a76ad786e74132994"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SnHOzj7k/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "c633098b88c372178551c19e3000a83d5278b6d5162b6b913505ae4c2e85a15fa309626a39dfee3603665a58047fd528fac3980dc205a9c1a7888b191530bc86"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
-      "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4",
-      "name": "dungeons-and-taverns-v4.7.3.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Fp3HZr0m/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "61b3b5acb6259623296580e4690a27247c6ba91b29a36c3977e91b903454c73a8049656d16546250a37bc0cda20834ce9ca7dc4611716b3e098f679436a6151f"
+      },
+      "5_0_4+mod": {
+        "name": "dungeons-and-taverns-v5.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Fp3HZr0m/dungeons-and-taverns-v5.0.4.jar",
+        "sha512": "61b3b5acb6259623296580e4690a27247c6ba91b29a36c3977e91b903454c73a8049656d16546250a37bc0cda20834ce9ca7dc4611716b3e098f679436a6151f"
+      },
+      "5_0_3+mod": {
+        "name": "dungeons-and-taverns-v5.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/IqBigwGK/dungeons-and-taverns-v5.0.3.jar",
+        "sha512": "823294d4829be8a6f573e1c6ce5aa8d76677ae76a261ca2c26d3a4e8c9c342c9f5ec51b436bc40b0aa289e31bf97c2cc5c28347c327b068a383da26c2cd850e4"
+      },
+      "5_0_2+mod": {
+        "name": "dungeons-and-taverns-v5.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ONgzIwjx/dungeons-and-taverns-v5.0.2.jar",
+        "sha512": "928c07f8a5b144735e1292ab444a4fbd3a633567d1310fd3e59a1bca0a48279342fd1ed8fa018c7d18287cb8632484880bccc2593572c26ce0113b3cabaca2e6"
+      },
+      "5_0_1+mod": {
+        "name": "dungeons-and-taverns-v5.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/DIywpNjN/dungeons-and-taverns-v5.0.1.jar",
+        "sha512": "3cdeb43190c31f61114a80d52b48406c45352367683e29374c737fdd0c670d59d78ab68dc9e48dd45e620882680b40119866a7b7297d7b8a76ad786e74132994"
+      },
+      "5_0_0+mod": {
+        "name": "dungeons-and-taverns-v5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SnHOzj7k/dungeons-and-taverns-v5.0.0.jar",
+        "sha512": "c633098b88c372178551c19e3000a83d5278b6d5162b6b913505ae4c2e85a15fa309626a39dfee3603665a58047fd528fac3980dc205a9c1a7888b191530bc86"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/FKVnJE7m/dungeons-and-taverns-v4.7.1.jar",
-      "sha512": "c4e45bcd25eef4b099b45f4a263b5b43af03bdcaa5e349109d948bb5af884db0a78be105a10176e6f456efe4ff63dc24df82b9b556ddd79d5f5281922c23abca",
-      "name": "dungeons-and-taverns-v4.7.1.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xuwRmYo8/dungeons-and-taverns-v4.7.jar",
-      "sha512": "048f097bcf62ee99c601f99611c0b1c7d954fd01b0dd1a73224ad25404230aff6f02bae9b235bce7ac881adaa0719661bc659601b777310d0fbd1d6270f59882",
-      "name": "dungeons-and-taverns-v4.7.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PAUVovtf/dungeons-and-taverns-v4.6.jar",
-      "sha512": "e590953bd84048a3766bfdd0027bf4dc3ef4289dd428ff032e49fb50fc15c3cc4476f50d9fff53b3aee028db002981d4f4f0aeb47d11454a000c54dcc76d0791",
-      "name": "dungeons-and-taverns-v4.6.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      },
+      "4_7_2+mod": {
+        "name": "dungeons-and-taverns-v4.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jtZlTCVC/dungeons-and-taverns-v4.7.2.jar",
+        "sha512": "563e768c44c58be70e947172849e0a356458596b8a0d36eaf4563825aa3335cc1bca54e1240657eeb0f90e2766dc60e075f504922f063ebb89341e7013937916"
+      },
+      "4_7_1+mod": {
+        "name": "dungeons-and-taverns-v4.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/FKVnJE7m/dungeons-and-taverns-v4.7.1.jar",
+        "sha512": "c4e45bcd25eef4b099b45f4a263b5b43af03bdcaa5e349109d948bb5af884db0a78be105a10176e6f456efe4ff63dc24df82b9b556ddd79d5f5281922c23abca"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EWEihdiE/dungeons-and-taverns-v4.5.jar",
-      "sha512": "43d24c85471c1a9416455b485ff7b5da8ef4ae8b25c63d6c36ce7bd3decd52fef4cf7f29027fe434c8b75a9573f79a6b81850db5479b6c90ed8af879530926a2",
-      "name": "dungeons-and-taverns-v4.5.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      },
+      "4_7_3+mod": {
+        "name": "dungeons-and-taverns-v4.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar",
+        "sha512": "82c7df7627cf864a5a1cec271e9cd5a5d416f7c7b542fafeea37fdd55d171c0ba1f690bd8f6a90c1ae03cdc4fac0cdef11d01217e8adb25d12064263b11690d4"
+      },
+      "4_7_2+mod": {
+        "name": "dungeons-and-taverns-v4.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jtZlTCVC/dungeons-and-taverns-v4.7.2.jar",
+        "sha512": "563e768c44c58be70e947172849e0a356458596b8a0d36eaf4563825aa3335cc1bca54e1240657eeb0f90e2766dc60e075f504922f063ebb89341e7013937916"
+      },
+      "4_7_1+mod": {
+        "name": "dungeons-and-taverns-v4.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/FKVnJE7m/dungeons-and-taverns-v4.7.1.jar",
+        "sha512": "c4e45bcd25eef4b099b45f4a263b5b43af03bdcaa5e349109d948bb5af884db0a78be105a10176e6f456efe4ff63dc24df82b9b556ddd79d5f5281922c23abca"
+      },
+      "4_7+mod": {
+        "name": "dungeons-and-taverns-v4.7.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xuwRmYo8/dungeons-and-taverns-v4.7.jar",
+        "sha512": "048f097bcf62ee99c601f99611c0b1c7d954fd01b0dd1a73224ad25404230aff6f02bae9b235bce7ac881adaa0719661bc659601b777310d0fbd1d6270f59882"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EWEihdiE/dungeons-and-taverns-v4.5.jar",
-      "sha512": "43d24c85471c1a9416455b485ff7b5da8ef4ae8b25c63d6c36ce7bd3decd52fef4cf7f29027fe434c8b75a9573f79a6b81850db5479b6c90ed8af879530926a2",
-      "name": "dungeons-and-taverns-v4.5.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/bjFTHs6U/dungeons-and-taverns-v4.6.3.jar",
+        "sha512": "656ce83bc8bd6c3eb2c7b76a7cd138dce2e00bbe53023a6a6dd21ae34a1fa51057dea9cb645267aa850a4b6a2d1cd00f99779533c8f174893c47884a258c88ba"
+      },
+      "4_6_3+mod": {
+        "name": "dungeons-and-taverns-v4.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/bjFTHs6U/dungeons-and-taverns-v4.6.3.jar",
+        "sha512": "656ce83bc8bd6c3eb2c7b76a7cd138dce2e00bbe53023a6a6dd21ae34a1fa51057dea9cb645267aa850a4b6a2d1cd00f99779533c8f174893c47884a258c88ba"
+      },
+      "4_6_2+mod": {
+        "name": "dungeons-and-taverns-v4.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kJdw4GRa/dungeons-and-taverns-v4.6.2.jar",
+        "sha512": "a4aba2fd6c1c85b8c8413ed849ef2bdbf7945c758bcf3b91a022a655327d239b4be33a6c8ebae39aab652cd64807bbc6d7402ea9a2f72b1ddd2e2730db1a1b9d"
+      },
+      "4_6_1+mod": {
+        "name": "dungeons-and-taverns-v4.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/q69H59ww/dungeons-and-taverns-v4.6.1.jar",
+        "sha512": "388655da5db72eee6b73fcadb66198a31b6e11f9786e06a3457436319252001ee9cee63df34fe979007449654f44cc32bee10ac558f0a5ef787287cbb256f00e"
+      },
+      "4_6+mod": {
+        "name": "dungeons-and-taverns-v4.6.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PAUVovtf/dungeons-and-taverns-v4.6.jar",
+        "sha512": "e590953bd84048a3766bfdd0027bf4dc3ef4289dd428ff032e49fb50fc15c3cc4476f50d9fff53b3aee028db002981d4f4f0aeb47d11454a000c54dcc76d0791"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/QmeQn0Mp/dungeons-and-taverns-v4.3.jar",
-      "sha512": "0a86dad1b41d4513db9f6349aa6ed01e0a696ac2a45d1e5c48705060e43abbafdd0838f2fed15144598fb85770d73036b2f91af3faa3b15b38c0d0e547bc9636",
-      "name": "dungeons-and-taverns-v4.3.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EWEihdiE/dungeons-and-taverns-v4.5.jar",
+        "sha512": "43d24c85471c1a9416455b485ff7b5da8ef4ae8b25c63d6c36ce7bd3decd52fef4cf7f29027fe434c8b75a9573f79a6b81850db5479b6c90ed8af879530926a2"
+      },
+      "4_5+mod": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EWEihdiE/dungeons-and-taverns-v4.5.jar",
+        "sha512": "43d24c85471c1a9416455b485ff7b5da8ef4ae8b25c63d6c36ce7bd3decd52fef4cf7f29027fe434c8b75a9573f79a6b81850db5479b6c90ed8af879530926a2"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/HYerXxJh/dungeons-and-taverns-v4.jar",
-      "sha512": "16d735d3a4b08ba5b5d01aae6b1f656ed2c95bb69744026bdc25adf153a6af41e7727d6d8d98fd9b1c23d6e6c2898f0a9121c907b8830d3e7a9e1cb5743086f7",
-      "name": "dungeons-and-taverns-v4.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EWEihdiE/dungeons-and-taverns-v4.5.jar",
+        "sha512": "43d24c85471c1a9416455b485ff7b5da8ef4ae8b25c63d6c36ce7bd3decd52fef4cf7f29027fe434c8b75a9573f79a6b81850db5479b6c90ed8af879530926a2"
+      },
+      "4_5+mod": {
+        "name": "dungeons-and-taverns-v4.5.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EWEihdiE/dungeons-and-taverns-v4.5.jar",
+        "sha512": "43d24c85471c1a9416455b485ff7b5da8ef4ae8b25c63d6c36ce7bd3decd52fef4cf7f29027fe434c8b75a9573f79a6b81850db5479b6c90ed8af879530926a2"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/OMafyUuX/dungeons-and-taverns-3.2.jar",
-      "sha512": "e89022ca01241439c85cbb60cebd5f9dabb390fdc3d1ee35328b68d7278142953a3662e6d4c836f011336a06c16117865b311131112e627b899fe9657c093a0c",
-      "name": "dungeons-and-taverns-3.2.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EUlNXs9V/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "ceeaaa41bafeb23d54abb498a4291b1905a53b6b3d17d14d892e9fa0d81cd56275c5edfdc999910520547939a17c1884d4553543d5aaafcf2295fb818cadba01"
+      },
+      "4_4_4+mod": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EUlNXs9V/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "ceeaaa41bafeb23d54abb498a4291b1905a53b6b3d17d14d892e9fa0d81cd56275c5edfdc999910520547939a17c1884d4553543d5aaafcf2295fb818cadba01"
+      },
+      "4_4_3+mod": {
+        "name": "dungeons-and-taverns-v4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/yC3CptEo/dungeons-and-taverns-v4.4.3.jar",
+        "sha512": "59404c2f2d2fc512784032a7215072e5a1089e0a0255061dc777321eb98b4c393cc71a27300bc47988cb37c51ee5356c8f139bfc5f167f071993e8c2fb59ad41"
+      },
+      "4_4_2+mod": {
+        "name": "dungeons-and-taverns-v4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jvnWQ4hX/dungeons-and-taverns-v4.4.2.jar",
+        "sha512": "dddd11f63c99793c4ee621236bf45800963ac5e8a0841fe5dcd8ea0e2e7580e2e00d515e40b95ee1a57da3b8eec54f22c76d561fcfdbee3125375e1b14049c4f"
+      },
+      "4_4_1+mod": {
+        "name": "dungeons-and-taverns-v4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/VLQQAcFf/dungeons-and-taverns-v4.4.1.jar",
+        "sha512": "9b17a4439ef229944488e731d63ac20753d2fa2a9ada628a2fe7a935e33559e94026f21c6707007ee795f0919181e29432c00031bc789e658d44d7fceb56963a"
+      },
+      "4_4+mod": {
+        "name": "dungeons-and-taverns-4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/CKakGGew/dungeons-and-taverns-4.4.jar",
+        "sha512": "75cc38703fa192326e3d349488a85183c5868c216423747259fb0c6370faa95fcf37e4706e960c85831eb54f472a4b2598acf418242483d66610fa023aa5dea6"
+      },
+      "4_3+mod": {
+        "name": "dungeons-and-taverns-v4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/QmeQn0Mp/dungeons-and-taverns-v4.3.jar",
+        "sha512": "0a86dad1b41d4513db9f6349aa6ed01e0a696ac2a45d1e5c48705060e43abbafdd0838f2fed15144598fb85770d73036b2f91af3faa3b15b38c0d0e547bc9636"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/OMafyUuX/dungeons-and-taverns-3.2.jar",
-      "sha512": "e89022ca01241439c85cbb60cebd5f9dabb390fdc3d1ee35328b68d7278142953a3662e6d4c836f011336a06c16117865b311131112e627b899fe9657c093a0c",
-      "name": "dungeons-and-taverns-3.2.jar"
+    "1_21": {
+      "latest": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EUlNXs9V/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "ceeaaa41bafeb23d54abb498a4291b1905a53b6b3d17d14d892e9fa0d81cd56275c5edfdc999910520547939a17c1884d4553543d5aaafcf2295fb818cadba01"
+      },
+      "4_4_4+mod": {
+        "name": "dungeons-and-taverns-v4.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/EUlNXs9V/dungeons-and-taverns-v4.4.4.jar",
+        "sha512": "ceeaaa41bafeb23d54abb498a4291b1905a53b6b3d17d14d892e9fa0d81cd56275c5edfdc999910520547939a17c1884d4553543d5aaafcf2295fb818cadba01"
+      },
+      "4_4_3+mod": {
+        "name": "dungeons-and-taverns-v4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/yC3CptEo/dungeons-and-taverns-v4.4.3.jar",
+        "sha512": "59404c2f2d2fc512784032a7215072e5a1089e0a0255061dc777321eb98b4c393cc71a27300bc47988cb37c51ee5356c8f139bfc5f167f071993e8c2fb59ad41"
+      },
+      "4_4_2+mod": {
+        "name": "dungeons-and-taverns-v4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jvnWQ4hX/dungeons-and-taverns-v4.4.2.jar",
+        "sha512": "dddd11f63c99793c4ee621236bf45800963ac5e8a0841fe5dcd8ea0e2e7580e2e00d515e40b95ee1a57da3b8eec54f22c76d561fcfdbee3125375e1b14049c4f"
+      },
+      "4_4_1+mod": {
+        "name": "dungeons-and-taverns-v4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/VLQQAcFf/dungeons-and-taverns-v4.4.1.jar",
+        "sha512": "9b17a4439ef229944488e731d63ac20753d2fa2a9ada628a2fe7a935e33559e94026f21c6707007ee795f0919181e29432c00031bc789e658d44d7fceb56963a"
+      },
+      "4_4+mod": {
+        "name": "dungeons-and-taverns-4.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/CKakGGew/dungeons-and-taverns-4.4.jar",
+        "sha512": "75cc38703fa192326e3d349488a85183c5868c216423747259fb0c6370faa95fcf37e4706e960c85831eb54f472a4b2598acf418242483d66610fa023aa5dea6"
+      },
+      "4_3+mod": {
+        "name": "dungeons-and-taverns-v4.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/QmeQn0Mp/dungeons-and-taverns-v4.3.jar",
+        "sha512": "0a86dad1b41d4513db9f6349aa6ed01e0a696ac2a45d1e5c48705060e43abbafdd0838f2fed15144598fb85770d73036b2f91af3faa3b15b38c0d0e547bc9636"
+      },
+      "4_2+mod": {
+        "name": "dungeons-and-taverns-v4.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PMP2xbsv/dungeons-and-taverns-v4.2.jar",
+        "sha512": "b3450988fc2a32922b588468ecdc433ab98839407d3f0a66f05a206c0b0012f7586b42cb0e1fd2785d94654b9794e813505f1c3937b572056319406e43ded89d"
+      },
+      "4_1+mod": {
+        "name": "dungeons-and-taverns-v4.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/k5UAHKdy/dungeons-and-taverns-v4.1.jar",
+        "sha512": "8b471b7ba8f7a1cd2571bc6eeb5aae8968316d50379c73d02c82a37ca97f90f574054e4df77047eda7f0f84a79426648fd8fd0c67b52eb998e1e630541174719"
+      },
+      "4+mod": {
+        "name": "dungeons-and-taverns-v4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/HYerXxJh/dungeons-and-taverns-v4.jar",
+        "sha512": "16d735d3a4b08ba5b5d01aae6b1f656ed2c95bb69744026bdc25adf153a6af41e7727d6d8d98fd9b1c23d6e6c2898f0a9121c907b8830d3e7a9e1cb5743086f7"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xwTzTss5/dungeons-and-taverns-3.1.1.jar",
-      "sha512": "2ede76ccbac59963600261fa557d0b01a37878ee6f1061c9c7fb3e0a9afa7c64fc3938ee6bb8f968f5aca16484c8ea68051c5e6c7045d1684b01492b0ae221ab",
-      "name": "dungeons-and-taverns-3.1.1.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/OMafyUuX/dungeons-and-taverns-3.2.jar",
+        "sha512": "e89022ca01241439c85cbb60cebd5f9dabb390fdc3d1ee35328b68d7278142953a3662e6d4c836f011336a06c16117865b311131112e627b899fe9657c093a0c"
+      },
+      "3_2+mod": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/OMafyUuX/dungeons-and-taverns-3.2.jar",
+        "sha512": "e89022ca01241439c85cbb60cebd5f9dabb390fdc3d1ee35328b68d7278142953a3662e6d4c836f011336a06c16117865b311131112e627b899fe9657c093a0c"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xwTzTss5/dungeons-and-taverns-3.1.1.jar",
-      "sha512": "2ede76ccbac59963600261fa557d0b01a37878ee6f1061c9c7fb3e0a9afa7c64fc3938ee6bb8f968f5aca16484c8ea68051c5e6c7045d1684b01492b0ae221ab",
-      "name": "dungeons-and-taverns-3.1.1.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/OMafyUuX/dungeons-and-taverns-3.2.jar",
+        "sha512": "e89022ca01241439c85cbb60cebd5f9dabb390fdc3d1ee35328b68d7278142953a3662e6d4c836f011336a06c16117865b311131112e627b899fe9657c093a0c"
+      },
+      "3_2+mod": {
+        "name": "dungeons-and-taverns-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/OMafyUuX/dungeons-and-taverns-3.2.jar",
+        "sha512": "e89022ca01241439c85cbb60cebd5f9dabb390fdc3d1ee35328b68d7278142953a3662e6d4c836f011336a06c16117865b311131112e627b899fe9657c093a0c"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/7exROg07/dungeons-and-taverns-3.jar",
-      "sha512": "7dcab5e5b5209466dcb72057cc4494d994d91fa33c9c20d1ba9de76a32fecb4c19caf079217e455cbaa0d154f2715587361d8e23c6928c201d4b1b4811d7cb3b",
-      "name": "dungeons-and-taverns-3.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xwTzTss5/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "2ede76ccbac59963600261fa557d0b01a37878ee6f1061c9c7fb3e0a9afa7c64fc3938ee6bb8f968f5aca16484c8ea68051c5e6c7045d1684b01492b0ae221ab"
+      },
+      "3_1_1+mod": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xwTzTss5/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "2ede76ccbac59963600261fa557d0b01a37878ee6f1061c9c7fb3e0a9afa7c64fc3938ee6bb8f968f5aca16484c8ea68051c5e6c7045d1684b01492b0ae221ab"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/mKvlJEuC/dungeons-and-taverns-v2.1.3.jar",
-      "sha512": "04fdb15c3df453d4e0493922fe1a5a143fb2eb2919ddc8d30badeec765406674f7129972a6a24842aa4fbd4c4c6440f8e70d61fc36a0797a60e0e6a0fd0a3433",
-      "name": "dungeons-and-taverns-v2.1.3.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xwTzTss5/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "2ede76ccbac59963600261fa557d0b01a37878ee6f1061c9c7fb3e0a9afa7c64fc3938ee6bb8f968f5aca16484c8ea68051c5e6c7045d1684b01492b0ae221ab"
+      },
+      "3_1_1+mod": {
+        "name": "dungeons-and-taverns-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xwTzTss5/dungeons-and-taverns-3.1.1.jar",
+        "sha512": "2ede76ccbac59963600261fa557d0b01a37878ee6f1061c9c7fb3e0a9afa7c64fc3938ee6bb8f968f5aca16484c8ea68051c5e6c7045d1684b01492b0ae221ab"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/QS0c2TKO/dungeons-and-taverns-v2.1.jar",
-      "sha512": "597409a79fb61b21cb35cb84fd4539de9aaf0074107cff5e1c8a658b10cef5518a3bdc1719245f51ba670ae880efe6474f65ca24a6b3833bf7d08c4126ba7384",
-      "name": "dungeons-and-taverns-v2.1.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kZX54y2P/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "14a931ac5f41af65f50db8e1bd27570345f5506783e3a1cbb8945ff9ab7bae136cae3db427ec45011631f9a102f917843b444d640be52af31146936188f75d13"
+      },
+      "3_0_3+mod": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kZX54y2P/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "14a931ac5f41af65f50db8e1bd27570345f5506783e3a1cbb8945ff9ab7bae136cae3db427ec45011631f9a102f917843b444d640be52af31146936188f75d13"
+      },
+      "3_0_3_f+mod": {
+        "name": "dungeons-and-taverns-3.0.3.f.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/d1sY0JqV/dungeons-and-taverns-3.0.3.f.jar",
+        "sha512": "73d56095b131f37c01ffde9ff5b495534e2ae0896eeec737e325dbea43644bb440fff5e48088cbf8809b226f1157125658bb68172cd7d4ab0aaf2afa72848146"
+      },
+      "3_0_2+mod": {
+        "name": "dungeons-and-taverns-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/YU0OIwaI/dungeons-and-taverns-3.0.2.jar",
+        "sha512": "443f9328a5d8ef4f17219ffedee52d90ef66754a53b83a41fd0ae47de84b0026bd320be4e66d07a95a45c14a8c0a01e63b46122cfeb29d77756c093fb196ad73"
+      },
+      "3_0_1+mod": {
+        "name": "dungeons-and-taverns-3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/JOwejnHw/dungeons-and-taverns-3.0.1.jar",
+        "sha512": "832a0aca87363efffe2771ee84e4d1e21a4ef7f56c6d11a59e5fc1f077041aa8ed5b0e1e3846e5a2f330e35b193162b763a60d88f76699420187f9995155c314"
+      },
+      "3+mod": {
+        "name": "dungeons-and-taverns-3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/7exROg07/dungeons-and-taverns-3.jar",
+        "sha512": "7dcab5e5b5209466dcb72057cc4494d994d91fa33c9c20d1ba9de76a32fecb4c19caf079217e455cbaa0d154f2715587361d8e23c6928c201d4b1b4811d7cb3b"
+      }
     },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/3xZCKnNP/dungeons-and-taverns-2.0.jar",
-      "sha512": "8d0d0514970616e2373c1cf2624b411a0b0862ffb05de8d53746d5d494f3f3197d63ba16e0f5757f8a24f8d0331bd43958e2ebd3781323ee4b36749256d9f40b",
-      "name": "dungeons-and-taverns-2.0.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kZX54y2P/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "14a931ac5f41af65f50db8e1bd27570345f5506783e3a1cbb8945ff9ab7bae136cae3db427ec45011631f9a102f917843b444d640be52af31146936188f75d13"
+      },
+      "3_0_3+mod": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kZX54y2P/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "14a931ac5f41af65f50db8e1bd27570345f5506783e3a1cbb8945ff9ab7bae136cae3db427ec45011631f9a102f917843b444d640be52af31146936188f75d13"
+      },
+      "3_0_3_f+mod": {
+        "name": "dungeons-and-taverns-3.0.3.f.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/d1sY0JqV/dungeons-and-taverns-3.0.3.f.jar",
+        "sha512": "73d56095b131f37c01ffde9ff5b495534e2ae0896eeec737e325dbea43644bb440fff5e48088cbf8809b226f1157125658bb68172cd7d4ab0aaf2afa72848146"
+      },
+      "3_0_2+mod": {
+        "name": "dungeons-and-taverns-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/YU0OIwaI/dungeons-and-taverns-3.0.2.jar",
+        "sha512": "443f9328a5d8ef4f17219ffedee52d90ef66754a53b83a41fd0ae47de84b0026bd320be4e66d07a95a45c14a8c0a01e63b46122cfeb29d77756c093fb196ad73"
+      },
+      "3_0_1+mod": {
+        "name": "dungeons-and-taverns-3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/JOwejnHw/dungeons-and-taverns-3.0.1.jar",
+        "sha512": "832a0aca87363efffe2771ee84e4d1e21a4ef7f56c6d11a59e5fc1f077041aa8ed5b0e1e3846e5a2f330e35b193162b763a60d88f76699420187f9995155c314"
+      },
+      "3+mod": {
+        "name": "dungeons-and-taverns-3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/7exROg07/dungeons-and-taverns-3.jar",
+        "sha512": "7dcab5e5b5209466dcb72057cc4494d994d91fa33c9c20d1ba9de76a32fecb4c19caf079217e455cbaa0d154f2715587361d8e23c6928c201d4b1b4811d7cb3b"
+      },
+      "2_1_4+mod": {
+        "name": "dungeons-and-taverns-v2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/XU0RDl74/dungeons-and-taverns-v2.1.4.jar",
+        "sha512": "fcfc7855afb8d0fe391e718e4c74ef0bbacbc3ef4b3bdb59113bf7042ef7a706f9c91e9da9c24d2a66c4467f51e74951a1484afeea7be235d9943bcdbe82ae4b"
+      },
+      "2_1_3+mod": {
+        "name": "dungeons-and-taverns-v2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/mKvlJEuC/dungeons-and-taverns-v2.1.3.jar",
+        "sha512": "04fdb15c3df453d4e0493922fe1a5a143fb2eb2919ddc8d30badeec765406674f7129972a6a24842aa4fbd4c4c6440f8e70d61fc36a0797a60e0e6a0fd0a3433"
+      }
     },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860",
-      "name": "dungeons-and-taverns-2.0.2.jar"
+    "1_20": {
+      "latest": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kZX54y2P/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "14a931ac5f41af65f50db8e1bd27570345f5506783e3a1cbb8945ff9ab7bae136cae3db427ec45011631f9a102f917843b444d640be52af31146936188f75d13"
+      },
+      "3_0_3+mod": {
+        "name": "dungeons-and-taverns-3.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/kZX54y2P/dungeons-and-taverns-3.0.3.jar",
+        "sha512": "14a931ac5f41af65f50db8e1bd27570345f5506783e3a1cbb8945ff9ab7bae136cae3db427ec45011631f9a102f917843b444d640be52af31146936188f75d13"
+      },
+      "3_0_3_f+mod": {
+        "name": "dungeons-and-taverns-3.0.3.f.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/d1sY0JqV/dungeons-and-taverns-3.0.3.f.jar",
+        "sha512": "73d56095b131f37c01ffde9ff5b495534e2ae0896eeec737e325dbea43644bb440fff5e48088cbf8809b226f1157125658bb68172cd7d4ab0aaf2afa72848146"
+      },
+      "3_0_2+mod": {
+        "name": "dungeons-and-taverns-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/YU0OIwaI/dungeons-and-taverns-3.0.2.jar",
+        "sha512": "443f9328a5d8ef4f17219ffedee52d90ef66754a53b83a41fd0ae47de84b0026bd320be4e66d07a95a45c14a8c0a01e63b46122cfeb29d77756c093fb196ad73"
+      },
+      "3_0_1+mod": {
+        "name": "dungeons-and-taverns-3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/JOwejnHw/dungeons-and-taverns-3.0.1.jar",
+        "sha512": "832a0aca87363efffe2771ee84e4d1e21a4ef7f56c6d11a59e5fc1f077041aa8ed5b0e1e3846e5a2f330e35b193162b763a60d88f76699420187f9995155c314"
+      },
+      "3+mod": {
+        "name": "dungeons-and-taverns-3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/7exROg07/dungeons-and-taverns-3.jar",
+        "sha512": "7dcab5e5b5209466dcb72057cc4494d994d91fa33c9c20d1ba9de76a32fecb4c19caf079217e455cbaa0d154f2715587361d8e23c6928c201d4b1b4811d7cb3b"
+      },
+      "2_1_4+mod": {
+        "name": "dungeons-and-taverns-v2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/XU0RDl74/dungeons-and-taverns-v2.1.4.jar",
+        "sha512": "fcfc7855afb8d0fe391e718e4c74ef0bbacbc3ef4b3bdb59113bf7042ef7a706f9c91e9da9c24d2a66c4467f51e74951a1484afeea7be235d9943bcdbe82ae4b"
+      },
+      "2_1_3+mod": {
+        "name": "dungeons-and-taverns-v2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/mKvlJEuC/dungeons-and-taverns-v2.1.3.jar",
+        "sha512": "04fdb15c3df453d4e0493922fe1a5a143fb2eb2919ddc8d30badeec765406674f7129972a6a24842aa4fbd4c4c6440f8e70d61fc36a0797a60e0e6a0fd0a3433"
+      },
+      "2_1_2+mod": {
+        "name": "dungeons-and-taverns-v2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/gycjhGu8/dungeons-and-taverns-v2.1.2.jar",
+        "sha512": "681845a57df8620fb06e95364a804ba247d6a740700bce5983049ec63f512f97491e9ffd9f52cca7624e2d27cfe89d23e8e56f5ccbd102812bc69a77cc5146c9"
+      },
+      "2_1+mod": {
+        "name": "dungeons-and-taverns-v2.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/QS0c2TKO/dungeons-and-taverns-v2.1.jar",
+        "sha512": "597409a79fb61b21cb35cb84fd4539de9aaf0074107cff5e1c8a658b10cef5518a3bdc1719245f51ba670ae880efe6474f65ca24a6b3833bf7d08c4126ba7384"
+      }
     },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860",
-      "name": "dungeons-and-taverns-2.0.2.jar"
+    "1_19_4": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      },
+      "2_0_1+mod": {
+        "name": "dungeons-and-taverns-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/YpcauYaz/dungeons-and-taverns-2.0.1.jar",
+        "sha512": "38787c22edbf9f2ff0a22addd5fff9b1749f38058aaa629fda5b5998e891e192ef8f0e4aaa8be3b849fdbc10e9a94ece8e7404c9b4fbc60aac981b05bf2024c7"
+      },
+      "2_0+mod": {
+        "name": "dungeons-and-taverns-2.0.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/3xZCKnNP/dungeons-and-taverns-2.0.jar",
+        "sha512": "8d0d0514970616e2373c1cf2624b411a0b0862ffb05de8d53746d5d494f3f3197d63ba16e0f5757f8a24f8d0331bd43958e2ebd3781323ee4b36749256d9f40b"
+      }
     },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860",
-      "name": "dungeons-and-taverns-2.0.2.jar"
+    "1_19_3": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      }
     },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
-      "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860",
-      "name": "dungeons-and-taverns-2.0.2.jar"
-    }
-  },
-  "neoforge": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UA8MyW6M/dungeons-and-taverns-v5.0.0.jar",
-      "sha512": "5e4af53deea5ead7da56e65fc7ed726e0f52d62c7cc7f84483d3608950cdcb86c1da519419be496a076e6245ac838726c6b0fd234858220f30d3436922990be0",
-      "name": "dungeons-and-taverns-v5.0.0.jar"
+    "1_19_2": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/UA8MyW6M/dungeons-and-taverns-v5.0.0.jar",
-      "sha512": "5e4af53deea5ead7da56e65fc7ed726e0f52d62c7cc7f84483d3608950cdcb86c1da519419be496a076e6245ac838726c6b0fd234858220f30d3436922990be0",
-      "name": "dungeons-and-taverns-v5.0.0.jar"
+    "1_19_1": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
-      "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be",
-      "name": "dungeons-and-taverns-v4.7.3.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tEfxMsly/dungeons-and-taverns-v4.7.3.jar",
-      "sha512": "58b1944c217cf68cae7afbd8031555124efc1ea8585302bd59ebf6baec35bc7ee5f7650976c3241784bacdc6a66a847ed2c8634d5c59103f285649f4757f09be",
-      "name": "dungeons-and-taverns-v4.7.3.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/3C7B5WkM/dungeons-and-taverns-v4.7.1.jar",
-      "sha512": "c3da684165c8c3b910a5efc444ba50c703d77c3ef2134651a3626f4278430874dc6b5831fc3ca56a02dc76074cdc897b7fff164b90fb7622aabd1ed658072811",
-      "name": "dungeons-and-taverns-v4.7.1.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/zkY4ZPWC/dungeons-and-taverns-v4.7.jar",
-      "sha512": "2dbf9cfcab7a750c3c6c4a4ba7902251d5706824f55f494aedce234112a6de3ef75dd967336a09bf5ab983fe3278d61979255e106634cb1f5ca43de390a69382",
-      "name": "dungeons-and-taverns-v4.7.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/MRerAAF6/dungeons-and-taverns-v4.6.jar",
-      "sha512": "66e059b234a227f97760e949c1bd68a881b14e74ee6737c9edde0609108c09d11c387c880329273e77eb0f09ae68219b1060fb4752d7feafca1219020dbbe956",
-      "name": "dungeons-and-taverns-v4.6.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xz3UcF3i/dungeons-and-taverns-v4.5.jar",
-      "sha512": "d203c50edf0d478d9aae91306943546866064121b5404f5c733ad2a436bfc1aca1530b19ae7e138a002fc822753d1733c55c19a19f22bbcc7a13be083c935039",
-      "name": "dungeons-and-taverns-v4.5.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xz3UcF3i/dungeons-and-taverns-v4.5.jar",
-      "sha512": "d203c50edf0d478d9aae91306943546866064121b5404f5c733ad2a436bfc1aca1530b19ae7e138a002fc822753d1733c55c19a19f22bbcc7a13be083c935039",
-      "name": "dungeons-and-taverns-v4.5.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PoMcAQWW/dungeons-and-taverns-v4.3.jar",
-      "sha512": "1411b97a5773c23996f75ebdd62a5afd018af2bec0f88892bfe57e095e0a71b79816304ae1ce146d8d33c3792216457d1d4cb3b8fdee87f9f632084df1edd3b6",
-      "name": "dungeons-and-taverns-v4.3.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/PoMcAQWW/dungeons-and-taverns-v4.3.jar",
-      "sha512": "1411b97a5773c23996f75ebdd62a5afd018af2bec0f88892bfe57e095e0a71b79816304ae1ce146d8d33c3792216457d1d4cb3b8fdee87f9f632084df1edd3b6",
-      "name": "dungeons-and-taverns-v4.3.jar"
+    "1_19": {
+      "latest": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      },
+      "2_0_2+mod": {
+        "name": "dungeons-and-taverns-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Q6eAdyTS/dungeons-and-taverns-2.0.2.jar",
+        "sha512": "ba0bc291267f48553d017ee7f5870de6f194c3883ebdf577115bc625432c9338fac92fafba9f2537e7144a90952ce1b6e01669e111dfc5d931b3b9f567777860"
+      }
     }
   },
   "datapack": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/TnTpDwVl/Dungeons%20and%20Taverns%20v5.0.0.zip",
-      "sha512": "25597eaac1ebe66e4deef90b026372da798ea84e2086396f9b81f8c182d72a09b54e63eb88346f6288803c9608bf2ad196cad08a8523bd1eb8d1b873fe9d1287",
-      "name": "Dungeons and Taverns v5.0.0.zip"
+    "1_21_11": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v5.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/HLvm1mCw/Dungeons%20and%20Taverns%20v5.1.0.zip",
+        "sha512": "058387fa05510973f041b4c6dc0f57294d5b0bf284fe917517ea662d5c8c6cf93e8f489f5790203cd9f2ef33c1b28d229faeeb23053fb040e4cde4d785de9914"
+      },
+      "5_1_0": {
+        "name": "Dungeons-and-Taverns-v5.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/HLvm1mCw/Dungeons%20and%20Taverns%20v5.1.0.zip",
+        "sha512": "058387fa05510973f041b4c6dc0f57294d5b0bf284fe917517ea662d5c8c6cf93e8f489f5790203cd9f2ef33c1b28d229faeeb23053fb040e4cde4d785de9914"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/TnTpDwVl/Dungeons%20and%20Taverns%20v5.0.0.zip",
-      "sha512": "25597eaac1ebe66e4deef90b026372da798ea84e2086396f9b81f8c182d72a09b54e63eb88346f6288803c9608bf2ad196cad08a8523bd1eb8d1b873fe9d1287",
-      "name": "Dungeons and Taverns v5.0.0.zip"
+    "1_21_10-rc1": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v5.0.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/TnTpDwVl/Dungeons%20and%20Taverns%20v5.0.0.zip",
+        "sha512": "25597eaac1ebe66e4deef90b026372da798ea84e2086396f9b81f8c182d72a09b54e63eb88346f6288803c9608bf2ad196cad08a8523bd1eb8d1b873fe9d1287"
+      },
+      "5_0_0": {
+        "name": "Dungeons-and-Taverns-v5.0.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/TnTpDwVl/Dungeons%20and%20Taverns%20v5.0.0.zip",
+        "sha512": "25597eaac1ebe66e4deef90b026372da798ea84e2086396f9b81f8c182d72a09b54e63eb88346f6288803c9608bf2ad196cad08a8523bd1eb8d1b873fe9d1287"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
-      "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad",
-      "name": "Dungeons and Taverns v4.7.3.zip"
+    "1_21_10": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v5.0.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/nf675u2v/Dungeons%20and%20Taverns%20v5.0.4.zip",
+        "sha512": "03f6ddf7796585fa6fb54eb79fa185b1e003638f74c78d2f98103ea7de15374c2d35e886e1f3f10addb8d9ba19975a62bdec83779d6dd967520d0f1f3a711012"
+      },
+      "5_0_4": {
+        "name": "Dungeons-and-Taverns-v5.0.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/nf675u2v/Dungeons%20and%20Taverns%20v5.0.4.zip",
+        "sha512": "03f6ddf7796585fa6fb54eb79fa185b1e003638f74c78d2f98103ea7de15374c2d35e886e1f3f10addb8d9ba19975a62bdec83779d6dd967520d0f1f3a711012"
+      },
+      "5_0_3": {
+        "name": "Dungeons-and-Taverns-v5.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/JvkII6i7/Dungeons%20and%20Taverns%20v5.0.3.zip",
+        "sha512": "682c300d34f17b6b119dda771f5d0fb2abf46ccc11232e0f349faa620a9dbaba8b7f03526634c4cb0d7b29352ab44f4b0c2e039b5f18ad1cdde7e612eafb6352"
+      },
+      "5_0_2": {
+        "name": "Dungeons-and-Taverns-v5.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ezHC6NuT/Dungeons%20and%20Taverns%20v5.0.2.zip",
+        "sha512": "474951317f7c0f7f88bd5f143e9d4b13b41c2fb75c7bf0591ef1aa9ae21e05ebe87656def1de6ed2214c2b926365f35e4a7b9020e19981eeac7e95237fe57122"
+      },
+      "5_0_1": {
+        "name": "Dungeons-and-Taverns-v5.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tm9otCBE/Dungeons%20and%20Taverns%20v5.0.1.zip",
+        "sha512": "2b1b58734754cf52bcb95e6d721a64da0e1ee93649d420f3e6ca17619c1c4dea9cf1ad51ed4401cc8abbef6fb0353cab0fc62828f0714e72e5b6a389984bab71"
+      },
+      "5_0_0": {
+        "name": "Dungeons-and-Taverns-v5.0.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/TnTpDwVl/Dungeons%20and%20Taverns%20v5.0.0.zip",
+        "sha512": "25597eaac1ebe66e4deef90b026372da798ea84e2086396f9b81f8c182d72a09b54e63eb88346f6288803c9608bf2ad196cad08a8523bd1eb8d1b873fe9d1287"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
-      "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad",
-      "name": "Dungeons and Taverns v4.7.3.zip"
+    "1_21_9": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v5.0.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/nf675u2v/Dungeons%20and%20Taverns%20v5.0.4.zip",
+        "sha512": "03f6ddf7796585fa6fb54eb79fa185b1e003638f74c78d2f98103ea7de15374c2d35e886e1f3f10addb8d9ba19975a62bdec83779d6dd967520d0f1f3a711012"
+      },
+      "5_0_4": {
+        "name": "Dungeons-and-Taverns-v5.0.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/nf675u2v/Dungeons%20and%20Taverns%20v5.0.4.zip",
+        "sha512": "03f6ddf7796585fa6fb54eb79fa185b1e003638f74c78d2f98103ea7de15374c2d35e886e1f3f10addb8d9ba19975a62bdec83779d6dd967520d0f1f3a711012"
+      },
+      "5_0_3": {
+        "name": "Dungeons-and-Taverns-v5.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/JvkII6i7/Dungeons%20and%20Taverns%20v5.0.3.zip",
+        "sha512": "682c300d34f17b6b119dda771f5d0fb2abf46ccc11232e0f349faa620a9dbaba8b7f03526634c4cb0d7b29352ab44f4b0c2e039b5f18ad1cdde7e612eafb6352"
+      },
+      "5_0_2": {
+        "name": "Dungeons-and-Taverns-v5.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ezHC6NuT/Dungeons%20and%20Taverns%20v5.0.2.zip",
+        "sha512": "474951317f7c0f7f88bd5f143e9d4b13b41c2fb75c7bf0591ef1aa9ae21e05ebe87656def1de6ed2214c2b926365f35e4a7b9020e19981eeac7e95237fe57122"
+      },
+      "5_0_1": {
+        "name": "Dungeons-and-Taverns-v5.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/tm9otCBE/Dungeons%20and%20Taverns%20v5.0.1.zip",
+        "sha512": "2b1b58734754cf52bcb95e6d721a64da0e1ee93649d420f3e6ca17619c1c4dea9cf1ad51ed4401cc8abbef6fb0353cab0fc62828f0714e72e5b6a389984bab71"
+      },
+      "5_0_0": {
+        "name": "Dungeons-and-Taverns-v5.0.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/TnTpDwVl/Dungeons%20and%20Taverns%20v5.0.0.zip",
+        "sha512": "25597eaac1ebe66e4deef90b026372da798ea84e2086396f9b81f8c182d72a09b54e63eb88346f6288803c9608bf2ad196cad08a8523bd1eb8d1b873fe9d1287"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/pSwnvdAk/Dungeons%20and%20Taverns%20v4.7.1.zip",
-      "sha512": "28355b242b92c0c6495b21dd58f13e103bf3760e5774505f53a77f8bdbb2c8d9c6e3fbd4020e6b1e13e7ac762ec5947e88162d2853be95c8e9fb876d2fd080d8",
-      "name": "Dungeons and Taverns v4.7.1.zip"
+    "1_21_8": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      },
+      "4_7_3": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jHLhATWl/DnT%20v4.7.zip",
-      "sha512": "69513a5522a2379f44230146179215b74339b7ca47f6114aa69ba31bda8b25a54a8ccf89dd7211339eeeb03edd32c2154a8bd7efc1d9b64006ca5c7ba953ec0e",
-      "name": "DnT v4.7.zip"
+    "1_21_7": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      },
+      "4_7_3": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/4VafOgeT/Dungeons%20and%20Taverns%20v4.6.zip",
-      "sha512": "d9b0e0ae4aeb8e8ad09102afb21fba4ddb24a3ea89875f9a0ae9af3622f71855bdd08e4d8a5147a58a955431aef71dce502ea00e6a4c906a6e07da431e87649d",
-      "name": "Dungeons and Taverns v4.6.zip"
+    "1_21_6": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      },
+      "4_7_3": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      },
+      "4_7_2": {
+        "name": "Dungeons-and-Taverns-v4.7.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/S7RExX7B/Dungeons%20and%20Taverns%20v4.7.2.zip",
+        "sha512": "af3f869864c117f544a163cb59c870fea2b1bbdb4c200c93e39fea8863b02d97420b73e6fa594cf1b57ca1a8c7fa40f59e58f38df6f92b7fe95607d09e81d684"
+      },
+      "4_7_1": {
+        "name": "Dungeons-and-Taverns-v4.7.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/pSwnvdAk/Dungeons%20and%20Taverns%20v4.7.1.zip",
+        "sha512": "28355b242b92c0c6495b21dd58f13e103bf3760e5774505f53a77f8bdbb2c8d9c6e3fbd4020e6b1e13e7ac762ec5947e88162d2853be95c8e9fb876d2fd080d8"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/8o3mS993/Dungeons%20and%20Taverns%20v4.5.zip",
-      "sha512": "15559175fb57dc7b6019c7b7d1689f71f0373dce6d7e30523e71d109cfd0506da4899a4b68d597682b2c8756098f84e30bfd2742e1b38acfc4942f0459a58821",
-      "name": "Dungeons and Taverns v4.5.zip"
+    "1_21_5": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      },
+      "4_7_3": {
+        "name": "Dungeons-and-Taverns-v4.7.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip",
+        "sha512": "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+      },
+      "4_7_2": {
+        "name": "Dungeons-and-Taverns-v4.7.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/S7RExX7B/Dungeons%20and%20Taverns%20v4.7.2.zip",
+        "sha512": "af3f869864c117f544a163cb59c870fea2b1bbdb4c200c93e39fea8863b02d97420b73e6fa594cf1b57ca1a8c7fa40f59e58f38df6f92b7fe95607d09e81d684"
+      },
+      "4_7_1": {
+        "name": "Dungeons-and-Taverns-v4.7.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/pSwnvdAk/Dungeons%20and%20Taverns%20v4.7.1.zip",
+        "sha512": "28355b242b92c0c6495b21dd58f13e103bf3760e5774505f53a77f8bdbb2c8d9c6e3fbd4020e6b1e13e7ac762ec5947e88162d2853be95c8e9fb876d2fd080d8"
+      },
+      "4_7": {
+        "name": "DnT-v4.7.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/jHLhATWl/DnT%20v4.7.zip",
+        "sha512": "69513a5522a2379f44230146179215b74339b7ca47f6114aa69ba31bda8b25a54a8ccf89dd7211339eeeb03edd32c2154a8bd7efc1d9b64006ca5c7ba953ec0e"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/8o3mS993/Dungeons%20and%20Taverns%20v4.5.zip",
-      "sha512": "15559175fb57dc7b6019c7b7d1689f71f0373dce6d7e30523e71d109cfd0506da4899a4b68d597682b2c8756098f84e30bfd2742e1b38acfc4942f0459a58821",
-      "name": "Dungeons and Taverns v4.5.zip"
+    "1_21_4": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.6.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Gu9qNQfD/Dungeons%20and%20Taverns%20v4.6.3.zip",
+        "sha512": "32f8470fbc5912983167e1b7572961581ec3eb34e9cff57772b7ef53410a4446dfa6a1a2b21d259b3a0a595d138aea1550d96a6f50f207be115a48d6fc78e98f"
+      },
+      "4_6_3": {
+        "name": "Dungeons-and-Taverns-v4.6.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Gu9qNQfD/Dungeons%20and%20Taverns%20v4.6.3.zip",
+        "sha512": "32f8470fbc5912983167e1b7572961581ec3eb34e9cff57772b7ef53410a4446dfa6a1a2b21d259b3a0a595d138aea1550d96a6f50f207be115a48d6fc78e98f"
+      },
+      "4_6_2": {
+        "name": "Dungeons-and-Taverns-v4.6.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ET8s81rA/Dungeons%20and%20Taverns%20v4.6.2.zip",
+        "sha512": "001e563e618b3c1dbfb165743fd5f1f99d86d7b575bba6cb13202eb482fa9ac614569b2f0b0cb81fd7f1a8af9a9010c3760d0bd4504fea7cd1de802e4ac5c997"
+      },
+      "4_6_1": {
+        "name": "Dungeons-and-Taverns-v4.6.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/NRoK1knw/Dungeons%20and%20Taverns%20v4.6.1.zip",
+        "sha512": "27029756c8e6c6f2bf4381e8b40c4225af7d80f21f588e1ab281197463ed25ed7eaa9bcce5e96c964136f26453d9a6dba1dcee5a8822481718547e0766644d58"
+      },
+      "4_6": {
+        "name": "Dungeons-and-Taverns-v4.6.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/4VafOgeT/Dungeons%20and%20Taverns%20v4.6.zip",
+        "sha512": "d9b0e0ae4aeb8e8ad09102afb21fba4ddb24a3ea89875f9a0ae9af3622f71855bdd08e4d8a5147a58a955431aef71dce502ea00e6a4c906a6e07da431e87649d"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rAD9sBYg/Dungeons%20and%20Taverns%20v4.3.zip",
-      "sha512": "2fc497b7c93c268f655e16ccb389af5f5a0753ce0f0ab6612b233530ad28f670942709c7c21f2506e0b9b39d18dbb992576cc5180795288a3285fce3eca82384",
-      "name": "Dungeons and Taverns v4.3.zip"
+    "1_21_3": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.5.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/8o3mS993/Dungeons%20and%20Taverns%20v4.5.zip",
+        "sha512": "15559175fb57dc7b6019c7b7d1689f71f0373dce6d7e30523e71d109cfd0506da4899a4b68d597682b2c8756098f84e30bfd2742e1b38acfc4942f0459a58821"
+      },
+      "4_5": {
+        "name": "Dungeons-and-Taverns-v4.5.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/8o3mS993/Dungeons%20and%20Taverns%20v4.5.zip",
+        "sha512": "15559175fb57dc7b6019c7b7d1689f71f0373dce6d7e30523e71d109cfd0506da4899a4b68d597682b2c8756098f84e30bfd2742e1b38acfc4942f0459a58821"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/R36cO4pA/Dungeons%20and%20Taverns%20v4.zip",
-      "sha512": "c8efe8fee751e6f01efb7e536620424f7e45260a0afeff88067820f12890767709b3dfad090a316fa4b121b08378a84d94cca44cee52cf85fecfab050715e67f",
-      "name": "Dungeons and Taverns v4.zip"
+    "1_21_2": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.5.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/8o3mS993/Dungeons%20and%20Taverns%20v4.5.zip",
+        "sha512": "15559175fb57dc7b6019c7b7d1689f71f0373dce6d7e30523e71d109cfd0506da4899a4b68d597682b2c8756098f84e30bfd2742e1b38acfc4942f0459a58821"
+      },
+      "4_5": {
+        "name": "Dungeons-and-Taverns-v4.5.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/8o3mS993/Dungeons%20and%20Taverns%20v4.5.zip",
+        "sha512": "15559175fb57dc7b6019c7b7d1689f71f0373dce6d7e30523e71d109cfd0506da4899a4b68d597682b2c8756098f84e30bfd2742e1b38acfc4942f0459a58821"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/39mJLpd3/Dungeons%20and%20Taverns%20v3.2.zip",
-      "sha512": "8da33a9184bb76e335ca8d15729b84afcfed2814bc2e6595e66e0159757c7d27471dd9859cbf6e6cd74fb70cd1d717fc6d2b1962b09b68f567abd48c0912e96a",
-      "name": "Dungeons and Taverns v3.2.zip"
+    "1_21_1": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.4.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9Dw6hgJA/Dungeons%20and%20Taverns%20v4.4.4.zip",
+        "sha512": "3d312d4d8cd0bfe4771c6e21bfdb20c14582e7eb4210349780e72827e0f4b12dce6c11499e9d7ab82a0e4d6f39396869dc2a61ba3095c8e0f625234d7bb41424"
+      },
+      "4_4_4": {
+        "name": "Dungeons-and-Taverns-v4.4.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9Dw6hgJA/Dungeons%20and%20Taverns%20v4.4.4.zip",
+        "sha512": "3d312d4d8cd0bfe4771c6e21bfdb20c14582e7eb4210349780e72827e0f4b12dce6c11499e9d7ab82a0e4d6f39396869dc2a61ba3095c8e0f625234d7bb41424"
+      },
+      "4_4_3": {
+        "name": "Dungeons-and-Taverns-v4.4.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9MRqbdvl/Dungeons%20and%20Taverns%20v4.4.3.zip",
+        "sha512": "558f07e4f63f60b3985b0ae1ce1b92aeb5b56eb8f9255097d54f1acf59d5b9819cd6964161d448c4e1afb8f2bfb6b04e4e186ab461bb5b24791619f00682630a"
+      },
+      "4_4_2": {
+        "name": "Dungeons-and-Taverns-v4.4.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/gdJCUNaz/Dungeons%20and%20Taverns%20v4.4.2.zip",
+        "sha512": "694eccc6a67d449e494d7dc9256bc7e5b5ab1972e024f8cb23f8436a8bdafba63089e573b817e29afbfa0cc8a0708957e1bb84bcad8a6219ce60c67f1fd032a7"
+      },
+      "4_4_1": {
+        "name": "Dungeons-and-Taverns-v4.4.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/LEP6k4aE/Dungeons%20and%20Taverns%20v4.4.1.zip",
+        "sha512": "463a4ae45df31b9acae427afd74eb73a51eb170111ebcdc35f29299f707a4f3de049eceec53c5bb79cd362cadfd23ab9705d60fac73b0f9b4fd129e53d543952"
+      },
+      "4_4": {
+        "name": "Dungeons-and-Taverns-v4.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/uMi3zRio/Dungeons%20and%20Taverns%20v4.4.zip",
+        "sha512": "242e3c6f848c858cdcff1f59120d6ebe58c9d5d8839f2e2a3e3e26a3abab05798001b904b74c499e917c6e0b45ed8daeea0a55e0c1d26dbbae8dd52be04273fe"
+      },
+      "4_3": {
+        "name": "Dungeons-and-Taverns-v4.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rAD9sBYg/Dungeons%20and%20Taverns%20v4.3.zip",
+        "sha512": "2fc497b7c93c268f655e16ccb389af5f5a0753ce0f0ab6612b233530ad28f670942709c7c21f2506e0b9b39d18dbb992576cc5180795288a3285fce3eca82384"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/39mJLpd3/Dungeons%20and%20Taverns%20v3.2.zip",
-      "sha512": "8da33a9184bb76e335ca8d15729b84afcfed2814bc2e6595e66e0159757c7d27471dd9859cbf6e6cd74fb70cd1d717fc6d2b1962b09b68f567abd48c0912e96a",
-      "name": "Dungeons and Taverns v3.2.zip"
+    "1_21": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v4.4.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9Dw6hgJA/Dungeons%20and%20Taverns%20v4.4.4.zip",
+        "sha512": "3d312d4d8cd0bfe4771c6e21bfdb20c14582e7eb4210349780e72827e0f4b12dce6c11499e9d7ab82a0e4d6f39396869dc2a61ba3095c8e0f625234d7bb41424"
+      },
+      "4_4_4": {
+        "name": "Dungeons-and-Taverns-v4.4.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9Dw6hgJA/Dungeons%20and%20Taverns%20v4.4.4.zip",
+        "sha512": "3d312d4d8cd0bfe4771c6e21bfdb20c14582e7eb4210349780e72827e0f4b12dce6c11499e9d7ab82a0e4d6f39396869dc2a61ba3095c8e0f625234d7bb41424"
+      },
+      "4_4_3": {
+        "name": "Dungeons-and-Taverns-v4.4.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/9MRqbdvl/Dungeons%20and%20Taverns%20v4.4.3.zip",
+        "sha512": "558f07e4f63f60b3985b0ae1ce1b92aeb5b56eb8f9255097d54f1acf59d5b9819cd6964161d448c4e1afb8f2bfb6b04e4e186ab461bb5b24791619f00682630a"
+      },
+      "4_4_2": {
+        "name": "Dungeons-and-Taverns-v4.4.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/gdJCUNaz/Dungeons%20and%20Taverns%20v4.4.2.zip",
+        "sha512": "694eccc6a67d449e494d7dc9256bc7e5b5ab1972e024f8cb23f8436a8bdafba63089e573b817e29afbfa0cc8a0708957e1bb84bcad8a6219ce60c67f1fd032a7"
+      },
+      "4_4_1": {
+        "name": "Dungeons-and-Taverns-v4.4.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/LEP6k4aE/Dungeons%20and%20Taverns%20v4.4.1.zip",
+        "sha512": "463a4ae45df31b9acae427afd74eb73a51eb170111ebcdc35f29299f707a4f3de049eceec53c5bb79cd362cadfd23ab9705d60fac73b0f9b4fd129e53d543952"
+      },
+      "4_4": {
+        "name": "Dungeons-and-Taverns-v4.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/uMi3zRio/Dungeons%20and%20Taverns%20v4.4.zip",
+        "sha512": "242e3c6f848c858cdcff1f59120d6ebe58c9d5d8839f2e2a3e3e26a3abab05798001b904b74c499e917c6e0b45ed8daeea0a55e0c1d26dbbae8dd52be04273fe"
+      },
+      "4_3": {
+        "name": "Dungeons-and-Taverns-v4.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/rAD9sBYg/Dungeons%20and%20Taverns%20v4.3.zip",
+        "sha512": "2fc497b7c93c268f655e16ccb389af5f5a0753ce0f0ab6612b233530ad28f670942709c7c21f2506e0b9b39d18dbb992576cc5180795288a3285fce3eca82384"
+      },
+      "4_2": {
+        "name": "Dungeons-and-Tavenrs-v4.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/aAFAcp4I/Dungeons%20and%20Tavenrs%20v4.2.zip",
+        "sha512": "3e8712b93d1e996cdf226655d54a00a5036846560bef28b6fedcd7a66273c8b495395eef55f48d8bf2e80fc827cb1d98a4f28e230ad8b98c4c995586d8123cb6"
+      },
+      "4_1": {
+        "name": "Dungeons-and-Tavenrs-v4.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/iUQqUGSu/Dungeons%20and%20Tavenrs%20v4.1.zip",
+        "sha512": "3cc076b5446c361b4caff285119ba862454ca5508a89467f06341c7bc0b92524a2e1330ebfe58ee862b4169ec031234cfb4e9277130a9e02dc94c4381d8c9a85"
+      },
+      "4": {
+        "name": "Dungeons-and-Taverns-v4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/R36cO4pA/Dungeons%20and%20Taverns%20v4.zip",
+        "sha512": "c8efe8fee751e6f01efb7e536620424f7e45260a0afeff88067820f12890767709b3dfad090a316fa4b121b08378a84d94cca44cee52cf85fecfab050715e67f"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/cpJzZfzm/Dungeons%20and%20Taverns%20v3.1.1.zip",
-      "sha512": "05bba1d492cae3daddb0dd0a0dd4f8b4411e8dcf007be84151ff99a8bd8ea9686d9a89f91639b3cf9db4a6b7c1c56358c3c3068fffbc8e2ef2ffa986d1e4b177",
-      "name": "Dungeons and Taverns v3.1.1.zip"
+    "1_20_6": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/39mJLpd3/Dungeons%20and%20Taverns%20v3.2.zip",
+        "sha512": "8da33a9184bb76e335ca8d15729b84afcfed2814bc2e6595e66e0159757c7d27471dd9859cbf6e6cd74fb70cd1d717fc6d2b1962b09b68f567abd48c0912e96a"
+      },
+      "3_2": {
+        "name": "Dungeons-and-Taverns-v3.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/39mJLpd3/Dungeons%20and%20Taverns%20v3.2.zip",
+        "sha512": "8da33a9184bb76e335ca8d15729b84afcfed2814bc2e6595e66e0159757c7d27471dd9859cbf6e6cd74fb70cd1d717fc6d2b1962b09b68f567abd48c0912e96a"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/cpJzZfzm/Dungeons%20and%20Taverns%20v3.1.1.zip",
-      "sha512": "05bba1d492cae3daddb0dd0a0dd4f8b4411e8dcf007be84151ff99a8bd8ea9686d9a89f91639b3cf9db4a6b7c1c56358c3c3068fffbc8e2ef2ffa986d1e4b177",
-      "name": "Dungeons and Taverns v3.1.1.zip"
+    "1_20_5": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/39mJLpd3/Dungeons%20and%20Taverns%20v3.2.zip",
+        "sha512": "8da33a9184bb76e335ca8d15729b84afcfed2814bc2e6595e66e0159757c7d27471dd9859cbf6e6cd74fb70cd1d717fc6d2b1962b09b68f567abd48c0912e96a"
+      },
+      "3_2": {
+        "name": "Dungeons-and-Taverns-v3.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/39mJLpd3/Dungeons%20and%20Taverns%20v3.2.zip",
+        "sha512": "8da33a9184bb76e335ca8d15729b84afcfed2814bc2e6595e66e0159757c7d27471dd9859cbf6e6cd74fb70cd1d717fc6d2b1962b09b68f567abd48c0912e96a"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/R8dnbQxW/Dungeons%20and%20Taverns%20v3.zip",
-      "sha512": "a1a4fcb14fb8d37cb1c66e9e1fc6b64257750d25200bd29389ff9db699ba160ff55a244c426c6fa2374bbb38114ca19f5181424cc4618d16c47dd5a7c42b158b",
-      "name": "Dungeons and Taverns v3.zip"
+    "1_20_4": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.1.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/cpJzZfzm/Dungeons%20and%20Taverns%20v3.1.1.zip",
+        "sha512": "05bba1d492cae3daddb0dd0a0dd4f8b4411e8dcf007be84151ff99a8bd8ea9686d9a89f91639b3cf9db4a6b7c1c56358c3c3068fffbc8e2ef2ffa986d1e4b177"
+      },
+      "3_1_1": {
+        "name": "Dungeons-and-Taverns-v3.1.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/cpJzZfzm/Dungeons%20and%20Taverns%20v3.1.1.zip",
+        "sha512": "05bba1d492cae3daddb0dd0a0dd4f8b4411e8dcf007be84151ff99a8bd8ea9686d9a89f91639b3cf9db4a6b7c1c56358c3c3068fffbc8e2ef2ffa986d1e4b177"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ftDL6az5/Dungeons%20and%20Taverns%20v2.1.3.zip",
-      "sha512": "37bf417b41585e4e91f931c81d0f8fb68ee3905d208f2bc3b01d5cabf28ffe04dda02937516e91fea51a430f609a8f7e107ec38423f82d8c3485c2e99d933701",
-      "name": "Dungeons and Taverns v2.1.3.zip"
+    "1_20_3": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.1.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/cpJzZfzm/Dungeons%20and%20Taverns%20v3.1.1.zip",
+        "sha512": "05bba1d492cae3daddb0dd0a0dd4f8b4411e8dcf007be84151ff99a8bd8ea9686d9a89f91639b3cf9db4a6b7c1c56358c3c3068fffbc8e2ef2ffa986d1e4b177"
+      },
+      "3_1_1": {
+        "name": "Dungeons-and-Taverns-v3.1.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/cpJzZfzm/Dungeons%20and%20Taverns%20v3.1.1.zip",
+        "sha512": "05bba1d492cae3daddb0dd0a0dd4f8b4411e8dcf007be84151ff99a8bd8ea9686d9a89f91639b3cf9db4a6b7c1c56358c3c3068fffbc8e2ef2ffa986d1e4b177"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Mae0FR2O/Dungeons%20and%20Taverns%20v2.1%20datapack.zip",
-      "sha512": "8398a0337b17d1064e855f6feb471d8b3fa5d751f579b9eee5ac993c4751141eb9786b0e5db354ab48acfc333f13b7f8e4401664f85d1e1999a14d51bd89d6db",
-      "name": "Dungeons and Taverns v2.1 datapack.zip"
+    "1_20_2": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      },
+      "3_1_0": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      },
+      "3_0_3": {
+        "name": "Dungeons-and-Taverns-3.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/HdMGscqY/Dungeons%20and%20Taverns%203.0.3.zip",
+        "sha512": "b4ce07063ec52ca1f0fddc5b6fa2f0f75773c0468f39f9a44403a6510b65593f42b70dd880cf693d7272d8a81629b2810a363be9ca65a5eb0c2da1c8f9926cb6"
+      },
+      "3_0_3_f": {
+        "name": "Dungeons-and-Taverns-3.0.3.fix.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/J9ojWPrx/Dungeons%20and%20Taverns%203.0.3.fix.zip",
+        "sha512": "6a7b8c7e7ee9e84761d34b51f8400403ee5a46f947dd6b04f90b4ad4f15b947eefedc3ffb7555ba369622866ca6e8127ad5e4f974a0700b348f7db42d3a9fd94"
+      },
+      "3_0_2": {
+        "name": "Dungeons-and-Taverns-3.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/bFY892GN/Dungeons%20and%20Taverns%203.0.2.zip",
+        "sha512": "35ffdc06b9f222bf132bf47db9049e2ef37440cc313a804e45e847a1d74b01b75b8b80eb4736b19d6891df14aaa5c440298d87486e445a30917c8f7faba3be1a"
+      },
+      "3_0_1": {
+        "name": "Dungeons-and-Taverns-v3.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GtkzV91q/Dungeons%20and%20Taverns%20v3.0.1.zip",
+        "sha512": "ead99ba38983dbd205dbed7093f64ac7219dd4c9c0aa7258b0888eeef0a9e8767e72dbdb508267b0d87ae85b309b677c4a7eab5d2d27d35b4db82c8b6bd18338"
+      },
+      "3": {
+        "name": "Dungeons-and-Taverns-v3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/R8dnbQxW/Dungeons%20and%20Taverns%20v3.zip",
+        "sha512": "a1a4fcb14fb8d37cb1c66e9e1fc6b64257750d25200bd29389ff9db699ba160ff55a244c426c6fa2374bbb38114ca19f5181424cc4618d16c47dd5a7c42b158b"
+      }
     },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xxd8P6Zd/Dungeon%20and%20Taverns%20v2.0.zip",
-      "sha512": "94a83ad72185e6b266e5dfbb75dcae316bb6db6a00d5b44c3a3d289174549c3cc89168c83306090ebc8ffebd4d9090deba0b9f687683b0a7a78fd65bcb95c76b",
-      "name": "Dungeon and Taverns v2.0.zip"
+    "1_20_1": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      },
+      "3_1_0": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      },
+      "3_0_3": {
+        "name": "Dungeons-and-Taverns-3.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/HdMGscqY/Dungeons%20and%20Taverns%203.0.3.zip",
+        "sha512": "b4ce07063ec52ca1f0fddc5b6fa2f0f75773c0468f39f9a44403a6510b65593f42b70dd880cf693d7272d8a81629b2810a363be9ca65a5eb0c2da1c8f9926cb6"
+      },
+      "3_0_3_f": {
+        "name": "Dungeons-and-Taverns-3.0.3.fix.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/J9ojWPrx/Dungeons%20and%20Taverns%203.0.3.fix.zip",
+        "sha512": "6a7b8c7e7ee9e84761d34b51f8400403ee5a46f947dd6b04f90b4ad4f15b947eefedc3ffb7555ba369622866ca6e8127ad5e4f974a0700b348f7db42d3a9fd94"
+      },
+      "3_0_2": {
+        "name": "Dungeons-and-Taverns-3.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/bFY892GN/Dungeons%20and%20Taverns%203.0.2.zip",
+        "sha512": "35ffdc06b9f222bf132bf47db9049e2ef37440cc313a804e45e847a1d74b01b75b8b80eb4736b19d6891df14aaa5c440298d87486e445a30917c8f7faba3be1a"
+      },
+      "3_0_1": {
+        "name": "Dungeons-and-Taverns-v3.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GtkzV91q/Dungeons%20and%20Taverns%20v3.0.1.zip",
+        "sha512": "ead99ba38983dbd205dbed7093f64ac7219dd4c9c0aa7258b0888eeef0a9e8767e72dbdb508267b0d87ae85b309b677c4a7eab5d2d27d35b4db82c8b6bd18338"
+      },
+      "3": {
+        "name": "Dungeons-and-Taverns-v3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/R8dnbQxW/Dungeons%20and%20Taverns%20v3.zip",
+        "sha512": "a1a4fcb14fb8d37cb1c66e9e1fc6b64257750d25200bd29389ff9db699ba160ff55a244c426c6fa2374bbb38114ca19f5181424cc4618d16c47dd5a7c42b158b"
+      },
+      "2_1_4": {
+        "name": "Dungeon-and-Taverns-v2.1.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/DOik2Tex/Dungeon%20and%20Taverns%20v2.1.4.zip",
+        "sha512": "7e33e0dd5759955d6ea065e56df907c015e7e344f8e4c103e69517313e84bbbfdafdd5a0a252e0d090f34139c4240f11bc1c48948f60ba0fa5baff43615c68b9"
+      },
+      "2_1_3": {
+        "name": "Dungeons-and-Taverns-v2.1.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ftDL6az5/Dungeons%20and%20Taverns%20v2.1.3.zip",
+        "sha512": "37bf417b41585e4e91f931c81d0f8fb68ee3905d208f2bc3b01d5cabf28ffe04dda02937516e91fea51a430f609a8f7e107ec38423f82d8c3485c2e99d933701"
+      }
     },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Bu5yOV7W/Dungeons%20and%20Taverns%20v1.3.1.zip",
-      "sha512": "d02cc01ad8e61aa763aec3e28b4dbdfe50f25a862df5d13cbb73553fc2d3a0ac6d31f54230239f3b55fc01f3795f1693bfcca39c9800a4e8be608ebb946fbec0",
-      "name": "Dungeons and Taverns v1.3.1.zip"
+    "1_20": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      },
+      "3_1_0": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      },
+      "3_0_3": {
+        "name": "Dungeons-and-Taverns-3.0.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/HdMGscqY/Dungeons%20and%20Taverns%203.0.3.zip",
+        "sha512": "b4ce07063ec52ca1f0fddc5b6fa2f0f75773c0468f39f9a44403a6510b65593f42b70dd880cf693d7272d8a81629b2810a363be9ca65a5eb0c2da1c8f9926cb6"
+      },
+      "3_0_3_f": {
+        "name": "Dungeons-and-Taverns-3.0.3.fix.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/J9ojWPrx/Dungeons%20and%20Taverns%203.0.3.fix.zip",
+        "sha512": "6a7b8c7e7ee9e84761d34b51f8400403ee5a46f947dd6b04f90b4ad4f15b947eefedc3ffb7555ba369622866ca6e8127ad5e4f974a0700b348f7db42d3a9fd94"
+      },
+      "3_0_2": {
+        "name": "Dungeons-and-Taverns-3.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/bFY892GN/Dungeons%20and%20Taverns%203.0.2.zip",
+        "sha512": "35ffdc06b9f222bf132bf47db9049e2ef37440cc313a804e45e847a1d74b01b75b8b80eb4736b19d6891df14aaa5c440298d87486e445a30917c8f7faba3be1a"
+      },
+      "3_0_1": {
+        "name": "Dungeons-and-Taverns-v3.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/GtkzV91q/Dungeons%20and%20Taverns%20v3.0.1.zip",
+        "sha512": "ead99ba38983dbd205dbed7093f64ac7219dd4c9c0aa7258b0888eeef0a9e8767e72dbdb508267b0d87ae85b309b677c4a7eab5d2d27d35b4db82c8b6bd18338"
+      },
+      "3": {
+        "name": "Dungeons-and-Taverns-v3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/R8dnbQxW/Dungeons%20and%20Taverns%20v3.zip",
+        "sha512": "a1a4fcb14fb8d37cb1c66e9e1fc6b64257750d25200bd29389ff9db699ba160ff55a244c426c6fa2374bbb38114ca19f5181424cc4618d16c47dd5a7c42b158b"
+      },
+      "2_1_4": {
+        "name": "Dungeon-and-Taverns-v2.1.4.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/DOik2Tex/Dungeon%20and%20Taverns%20v2.1.4.zip",
+        "sha512": "7e33e0dd5759955d6ea065e56df907c015e7e344f8e4c103e69517313e84bbbfdafdd5a0a252e0d090f34139c4240f11bc1c48948f60ba0fa5baff43615c68b9"
+      },
+      "2_1_3": {
+        "name": "Dungeons-and-Taverns-v2.1.3.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ftDL6az5/Dungeons%20and%20Taverns%20v2.1.3.zip",
+        "sha512": "37bf417b41585e4e91f931c81d0f8fb68ee3905d208f2bc3b01d5cabf28ffe04dda02937516e91fea51a430f609a8f7e107ec38423f82d8c3485c2e99d933701"
+      },
+      "2_1_2": {
+        "name": "Dungeons-and-Taverns-v2.1.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/xnCIjJAt/Dungeons%20and%20Taverns%20v2.1.2.zip",
+        "sha512": "e31878757c48f5236f7acc2f03e3f56ac7b497ce2f722b212d6ac0b73bfc74bcffe60bbb0e0aecec600b464535b745108af8bf690aa30a6a5c2626e7ff0dde33"
+      },
+      "2_1": {
+        "name": "Dungeons-and-Taverns-v2.1-datapack.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Mae0FR2O/Dungeons%20and%20Taverns%20v2.1%20datapack.zip",
+        "sha512": "8398a0337b17d1064e855f6feb471d8b3fa5d751f579b9eee5ac993c4751141eb9786b0e5db354ab48acfc333f13b7f8e4401664f85d1e1999a14d51bd89d6db"
+      }
     },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
-      "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e",
-      "name": "Dungeon and Taverns v2.0.2.zip"
+    "1_19_4": {
+      "latest": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      },
+      "2_0_2": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      },
+      "2_0_1": {
+        "name": "Dungeon-and-Taverns-v2.0.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Jnkxo1iF/Dungeon%20and%20Taverns%20v2.0.1.zip",
+        "sha512": "172d585a038f428f549b25172dcd1aa3b8b6fc137e4c52d74d815a9dc2e521c26cac0fef1753e27a9365a25bc706d03080d12a46e5f6ea45b9d3b7b88bb91912"
+      },
+      "2_0": {
+        "name": "Dungeon-and-Taverns-v2.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Xxd8P6Zd/Dungeon%20and%20Taverns%20v2.0.zip",
+        "sha512": "94a83ad72185e6b266e5dfbb75dcae316bb6db6a00d5b44c3a3d289174549c3cc89168c83306090ebc8ffebd4d9090deba0b9f687683b0a7a78fd65bcb95c76b"
+      }
     },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
-      "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e",
-      "name": "Dungeon and Taverns v2.0.2.zip"
+    "1_19_3": {
+      "latest": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      },
+      "2_0_2": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      },
+      "1_3_1": {
+        "name": "Dungeons-and-Taverns-v1.3.1.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/Bu5yOV7W/Dungeons%20and%20Taverns%20v1.3.1.zip",
+        "sha512": "d02cc01ad8e61aa763aec3e28b4dbdfe50f25a862df5d13cbb73553fc2d3a0ac6d31f54230239f3b55fc01f3795f1693bfcca39c9800a4e8be608ebb946fbec0"
+      }
     },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
-      "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e",
-      "name": "Dungeon and Taverns v2.0.2.zip"
+    "1_19_2": {
+      "latest": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      },
+      "2_0_2": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      },
+      "2_0_2": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      },
+      "2_0_2": {
+        "name": "Dungeon-and-Taverns-v2.0.2.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/dLO6I3Nl/Dungeon%20and%20Taverns%20v2.0.2.zip",
+        "sha512": "f38b363592c6ca98a20cdf4204db0699b3b5c0e835575d3cdbd4d5055a07f8b26415efc495bef95095cdbe68712b46d76f48bef0a31509c562e1ed389050c56e"
+      }
+    },
+    "23w43b": {
+      "latest": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      },
+      "3_1_0": {
+        "name": "Dungeons-and-Taverns-v3.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/fZUvwQng/Dungeons%20and%20Taverns%20v3.1.0.zip",
+        "sha512": "4de03cc45f1499951ddf6b362bb85cbe3ba46d9074a7ead8199c36bc1dd3278d59ab2401aea56a4c5f8434dc408b9c33c1c6154320bd4098d452e9dc8f8221fc"
+      }
     }
   }
 }

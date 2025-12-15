@@ -1,268 +1,978 @@
 {
-  "fabric": {
-    "1.21.11": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/eRLwt73x/ferritecore-8.0.3-fabric.jar",
-      "sha512": "be600543e499b59286f9409f46497570adc51939ae63eaa12ac29e6778da27d8c7c6cd0b3340d8bcca1cc99ce61779b1a8f52b990f9e4e9a93aa9c6482905231",
-      "name": "ferritecore-8.0.3-fabric.jar"
+  "quilt": {
+    "1_20_4": {
+      "latest": {
+        "name": "ferritecore-6.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar",
+        "sha512": "709ab6362dd1dcc432edd1e6c33aafba6f2d12be701bc14911107340f8ac2466779c4e57d8a303f0350c46478f23008e6eeca78e4eadedd0bdee63d4ae72ed9a"
+      },
+      "6_0_3": {
+        "name": "ferritecore-6.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar",
+        "sha512": "709ab6362dd1dcc432edd1e6c33aafba6f2d12be701bc14911107340f8ac2466779c4e57d8a303f0350c46478f23008e6eeca78e4eadedd0bdee63d4ae72ed9a"
+      }
     },
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
-      "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
-      "name": "ferritecore-8.0.0-fabric.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+        "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
-      "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
-      "name": "ferritecore-8.0.0-fabric.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+        "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
-      "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
-      "name": "ferritecore-8.0.0-fabric.jar"
+    "1_20": {
+      "latest": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+        "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
-      "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
-      "name": "ferritecore-8.0.0-fabric.jar"
+    "1_19_4": {
+      "latest": {
+        "name": "ferritecore-5.2.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar",
+        "sha512": "56a4ac2ed002260ee451fa9d33169ddcd01473bf46eee97061666b13fa386cd23e15238a72729e55f32d81cce8ae049c80caabf1947ba998258282226289be0c"
+      },
+      "5_2_0": {
+        "name": "ferritecore-5.2.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar",
+        "sha512": "56a4ac2ed002260ee451fa9d33169ddcd01473bf46eee97061666b13fa386cd23e15238a72729e55f32d81cce8ae049c80caabf1947ba998258282226289be0c"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
-      "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
-      "name": "ferritecore-8.0.0-fabric.jar"
+    "1_19_3": {
+      "latest": {
+        "name": "ferritecore-5.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar",
+        "sha512": "24b5790769a9da3d79a46435012bc6d0972042b874b195dc63aa911dcbcca29496c977477f6ca9e70a850432468e565490f75ba2730eb9ec4c304e03f48c1e1a"
+      },
+      "5_1_0": {
+        "name": "ferritecore-5.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar",
+        "sha512": "24b5790769a9da3d79a46435012bc6d0972042b874b195dc63aa911dcbcca29496c977477f6ca9e70a850432468e565490f75ba2730eb9ec4c304e03f48c1e1a"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
-      "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745",
-      "name": "ferritecore-8.0.0-fabric.jar"
+    "1_19_2": {
+      "latest": {
+        "name": "ferritecore-5.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar",
+        "sha512": "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f43d46e33ae8a2672f300bfc5b96510e164b1dd09cfae9cba0a195252d"
+      },
+      "5_0_3": {
+        "name": "ferritecore-5.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar",
+        "sha512": "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f43d46e33ae8a2672f300bfc5b96510e164b1dd09cfae9cba0a195252d"
+      },
+      "5_0_0": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar",
-      "sha512": "f41dc9e8b28327a1e29b14667cb42ae5e7e17bcfa4495260f6f851a80d4b08d98a30d5c52b110007ee325f02dac7431e3fad4560c6840af0bf347afad48c5aac",
-      "name": "ferritecore-7.1.1-fabric.jar"
+    "1_19_1": {
+      "latest": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      },
+      "5_0_0": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zLd6ikLj/ferritecore-7.1.0-fabric-dev.jar",
-      "sha512": "7f712caecde04dddaff4bc618012e6acb0486189c9d1a70b91a1be5fada9bc02de93c5759fef26e8f59bb9d877e8e59b87aef1f14e368ae2c2020a5a3b04627d",
-      "name": "ferritecore-7.1.0-fabric-dev.jar"
+    "1_19": {
+      "latest": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      },
+      "5_0_0": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar",
-      "sha512": "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f",
-      "name": "ferritecore-7.0.0-fabric.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar",
-      "sha512": "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f",
-      "name": "ferritecore-7.0.0-fabric.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/i9RcCdZv/ferritecore-6.1.1-fabric.jar",
-      "sha512": "d07ebedcab096389ceaf17dd7463c165c9455c24300d494e1f394c3e4ed2d43686e35a4fd87280eda2bf4c96695da3e0183a3474016c8d7d13b56c6e04c2acef",
-      "name": "ferritecore-6.1.1-fabric.jar"
-    },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/PPnbi6JY/ferritecore-6.1.0-fabric.jar",
-      "sha512": "702fed11ce032c6be4933c7db7534518b960eabfc813ad427d33e7d95dcbc4648d79d8e4915da6b1ac773d7484e0723c7072e93283271479d734f54ab9ef96b0",
-      "name": "ferritecore-6.1.0-fabric.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar",
-      "sha512": "709ab6362dd1dcc432edd1e6c33aafba6f2d12be701bc14911107340f8ac2466779c4e57d8a303f0350c46478f23008e6eeca78e4eadedd0bdee63d4ae72ed9a",
-      "name": "ferritecore-6.0.3-fabric.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
-      "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c",
-      "name": "ferritecore-6.0.0-fabric.jar"
-    },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
-      "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c",
-      "name": "ferritecore-6.0.0-fabric.jar"
-    },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
-      "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c",
-      "name": "ferritecore-6.0.0-fabric.jar"
-    },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar",
-      "sha512": "56a4ac2ed002260ee451fa9d33169ddcd01473bf46eee97061666b13fa386cd23e15238a72729e55f32d81cce8ae049c80caabf1947ba998258282226289be0c",
-      "name": "ferritecore-5.2.0-fabric.jar"
-    },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar",
-      "sha512": "24b5790769a9da3d79a46435012bc6d0972042b874b195dc63aa911dcbcca29496c977477f6ca9e70a850432468e565490f75ba2730eb9ec4c304e03f48c1e1a",
-      "name": "ferritecore-5.1.0-fabric.jar"
-    },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
-      "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4",
-      "name": "ferritecore-5.0.0-fabric.jar"
-    },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
-      "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4",
-      "name": "ferritecore-5.0.0-fabric.jar"
-    },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
-      "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4",
-      "name": "ferritecore-5.0.0-fabric.jar"
-    },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar",
-      "sha512": "dffac2f7475120519388f83f3275c5b89757bccfc58657807a30d20e9f25daf412ce8c0d9d47d0f51572b715cc1b2958ecef1b28c5ab104f58b38cee534dc9ab",
-      "name": "ferritecore-4.2.0-fabric.jar"
-    },
-    "1.18.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.0/ferritecore-4.1.0-fabric.jar",
-      "sha512": "51ff2b780266659ea830b85dd82db5c9d62fb71f5678cd2ca04809ea49e52157177db70130cbe31a095ff1c7e9c2e2edcaa32cd9b5f73dff4e90152c652b03ac",
-      "name": "ferritecore-4.1.0-fabric.jar"
-    },
-    "1.18": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar",
-      "sha512": "2e5e5d03e21190bf1ebe5889a6387f001cfe8e7d6f90bff6d5f0d4fdfca1bd445c6ee1e5ec64207ba19df35364917b4f8e3a769cc5391ee77dbf81d579cd1e05",
-      "name": "ferritecore-4.0.0-fabric.jar"
-    },
-    "1.17.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.2/ferritecore-3.0.2-fabric.jar",
-      "sha512": "52aee8398c5242b17d3d3c53f4b33743c8e80380217ef0ec7867ee6dff4155cb35f9367eb192324abf957f5cb39abf0151ce459b35c40800d5c3578e997dc8aa",
-      "name": "ferritecore-3.0.2-fabric.jar"
-    },
-    "1.17": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.0/ferritecore-3.0.0-fabric.jar",
-      "sha512": "5e1ac32801b9d7d5207a91e48a5bf11c6d8c2141a44efe5e4a25b40660cab37c0ec8fe8bf9eeff0ee0f507897179a32fdfed460cea356e4683cc4dde75ee682b",
-      "name": "ferritecore-3.0.0-fabric.jar"
-    },
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.5/ferritecore-2.0.5-fabric.jar",
-      "sha512": "c0503c6d5a232bc47436765a98e410c648c6eb0524ef4f0c5e3e0a8e4feb53a4a0eedca43370de62e38d32cca9e9afba75d64e6ae03db6069564575f6cb78b55",
-      "name": "ferritecore-2.0.5-fabric.jar"
+    "1_18_2": {
+      "latest": {
+        "name": "ferritecore-4.2.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar",
+        "sha512": "066a5644191ee45abde5ad4bf7f1662f8aaef842ed24398e311a35d39861b6159fb55ccd18c6ad8940cabed3341c5163462e7c2895631a6d26945f67db326798"
+      },
+      "4_2_1": {
+        "name": "ferritecore-4.2.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar",
+        "sha512": "066a5644191ee45abde5ad4bf7f1662f8aaef842ed24398e311a35d39861b6159fb55ccd18c6ad8940cabed3341c5163462e7c2895631a6d26945f67db326798"
+      }
     }
   },
   "neoforge": {
-    "1.21.11": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kI9raxPl/ferritecore-8.0.3-neoforge.jar",
-      "sha512": "0098f73eca534e1f3a8ea6d817f47981bec984117844616142305894eb5d4e1750797d5396c7f3ea5c5546e2128d9310787d29a13aca665a4cde2cefbb83eb15",
-      "name": "ferritecore-8.0.3-neoforge.jar"
+    "1_21_11": {
+      "latest": {
+        "name": "ferritecore-8.0.3-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kI9raxPl/ferritecore-8.0.3-neoforge.jar",
+        "sha512": "0098f73eca534e1f3a8ea6d817f47981bec984117844616142305894eb5d4e1750797d5396c7f3ea5c5546e2128d9310787d29a13aca665a4cde2cefbb83eb15"
+      },
+      "8_0_3": {
+        "name": "ferritecore-8.0.3-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kI9raxPl/ferritecore-8.0.3-neoforge.jar",
+        "sha512": "0098f73eca534e1f3a8ea6d817f47981bec984117844616142305894eb5d4e1750797d5396c7f3ea5c5546e2128d9310787d29a13aca665a4cde2cefbb83eb15"
+      }
     },
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/aCcv0w0q/ferritecore-8.0.1-neoforge.jar",
-      "sha512": "adc3f876cb509e27d25ed828e10561855fe92c6422552dd50cc41074cfeaad47367a83825b57948cb5b1c35823ccb5588e012e30d60331cd01249ff9d902f770",
-      "name": "ferritecore-8.0.1-neoforge.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "ferritecore-8.0.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/dR6exAyF/ferritecore-8.0.2-neoforge.jar",
+        "sha512": "d5643cca63383625d2e3bbb84be00a8097eb59d28b84c054c5b508c2760db742d5a651ac1683d81e572a5c915f6da84017765059fdaa326a83eb640c0ec67b6d"
+      },
+      "8_0_2": {
+        "name": "ferritecore-8.0.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/dR6exAyF/ferritecore-8.0.2-neoforge.jar",
+        "sha512": "d5643cca63383625d2e3bbb84be00a8097eb59d28b84c054c5b508c2760db742d5a651ac1683d81e572a5c915f6da84017765059fdaa326a83eb640c0ec67b6d"
+      },
+      "8_0_1": {
+        "name": "ferritecore-8.0.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/aCcv0w0q/ferritecore-8.0.1-neoforge.jar",
+        "sha512": "adc3f876cb509e27d25ed828e10561855fe92c6422552dd50cc41074cfeaad47367a83825b57948cb5b1c35823ccb5588e012e30d60331cd01249ff9d902f770"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
-      "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1",
-      "name": "ferritecore-8.0.0-neoforge.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "ferritecore-8.0.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/dR6exAyF/ferritecore-8.0.2-neoforge.jar",
+        "sha512": "d5643cca63383625d2e3bbb84be00a8097eb59d28b84c054c5b508c2760db742d5a651ac1683d81e572a5c915f6da84017765059fdaa326a83eb640c0ec67b6d"
+      },
+      "8_0_2": {
+        "name": "ferritecore-8.0.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/dR6exAyF/ferritecore-8.0.2-neoforge.jar",
+        "sha512": "d5643cca63383625d2e3bbb84be00a8097eb59d28b84c054c5b508c2760db742d5a651ac1683d81e572a5c915f6da84017765059fdaa326a83eb640c0ec67b6d"
+      },
+      "8_0_1": {
+        "name": "ferritecore-8.0.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/aCcv0w0q/ferritecore-8.0.1-neoforge.jar",
+        "sha512": "adc3f876cb509e27d25ed828e10561855fe92c6422552dd50cc41074cfeaad47367a83825b57948cb5b1c35823ccb5588e012e30d60331cd01249ff9d902f770"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
-      "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1",
-      "name": "ferritecore-8.0.0-neoforge.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
-      "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1",
-      "name": "ferritecore-8.0.0-neoforge.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
-      "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1",
-      "name": "ferritecore-8.0.0-neoforge.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
-      "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1",
-      "name": "ferritecore-8.0.0-neoforge.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/WmGPid1l/ferritecore-8.0.0-neoforge.jar",
+        "sha512": "cb9e7b96fdd02cc62883237a1ece3068e7be35267d00626fc27c84992e23b4047911d8a67deafb078bd1815634c221a6965c0c63953be720ff95987bdd0410a1"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HViHO2Oi/ferritecore-7.1.0-neoforge.jar",
-      "sha512": "68eff740cadf1e13f4e5b2685c26f96d83b31114ea4bf0674a540739fa071b777cfbb122b90fb7c9db5dcce8e4d3b999c53385c7f01394b45a3922d58c67e236",
-      "name": "ferritecore-7.1.0-neoforge.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "ferritecore-7.1.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/gTYCIFFQ/ferritecore-7.1.2-neoforge.jar",
+        "sha512": "e4c52cfc482d1feafdc2205c7ff369596536b57b83bc71f1f7984f4cf11c8a0539c5a5cab1eae062c6821424ba2fd05866f9a3c8a58884710a5b4eeef77c8cb6"
+      },
+      "7_1_2": {
+        "name": "ferritecore-7.1.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/gTYCIFFQ/ferritecore-7.1.2-neoforge.jar",
+        "sha512": "e4c52cfc482d1feafdc2205c7ff369596536b57b83bc71f1f7984f4cf11c8a0539c5a5cab1eae062c6821424ba2fd05866f9a3c8a58884710a5b4eeef77c8cb6"
+      },
+      "7_1_0": {
+        "name": "ferritecore-7.1.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HViHO2Oi/ferritecore-7.1.0-neoforge.jar",
+        "sha512": "68eff740cadf1e13f4e5b2685c26f96d83b31114ea4bf0674a540739fa071b777cfbb122b90fb7c9db5dcce8e4d3b999c53385c7f01394b45a3922d58c67e236"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HViHO2Oi/ferritecore-7.1.0-neoforge.jar",
-      "sha512": "68eff740cadf1e13f4e5b2685c26f96d83b31114ea4bf0674a540739fa071b777cfbb122b90fb7c9db5dcce8e4d3b999c53385c7f01394b45a3922d58c67e236",
-      "name": "ferritecore-7.1.0-neoforge.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "ferritecore-7.1.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HViHO2Oi/ferritecore-7.1.0-neoforge.jar",
+        "sha512": "68eff740cadf1e13f4e5b2685c26f96d83b31114ea4bf0674a540739fa071b777cfbb122b90fb7c9db5dcce8e4d3b999c53385c7f01394b45a3922d58c67e236"
+      },
+      "7_1_0": {
+        "name": "ferritecore-7.1.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HViHO2Oi/ferritecore-7.1.0-neoforge.jar",
+        "sha512": "68eff740cadf1e13f4e5b2685c26f96d83b31114ea4bf0674a540739fa071b777cfbb122b90fb7c9db5dcce8e4d3b999c53385c7f01394b45a3922d58c67e236"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar",
-      "sha512": "590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab",
-      "name": "ferritecore-7.0.0-neoforge.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "ferritecore-7.0.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CnpoQxCx/ferritecore-7.0.2-neoforge.jar",
+        "sha512": "2a5a7b79473c42572bdbbd1f429a459630d793b35f3eb17051139a94bced2d13c39e9c6309c81368d5502bc46c509e9868a8b5fa3cf93c51375a694cd96c20ac"
+      },
+      "7_0_2": {
+        "name": "ferritecore-7.0.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CnpoQxCx/ferritecore-7.0.2-neoforge.jar",
+        "sha512": "2a5a7b79473c42572bdbbd1f429a459630d793b35f3eb17051139a94bced2d13c39e9c6309c81368d5502bc46c509e9868a8b5fa3cf93c51375a694cd96c20ac"
+      },
+      "7_0_1": {
+        "name": "ferritecore-7.0.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/6BhrwMOV/ferritecore-7.0.1-neoforge.jar",
+        "sha512": "dfe9a8282544764c62dd0073a7f875674e76839fda7006ca0b68dc0af69ca7095a3c2dae058e4ab7e480c40207383539c2959524452a533c122f40dbd0b56abc"
+      },
+      "7_0_0": {
+        "name": "ferritecore-7.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar",
+        "sha512": "590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar",
-      "sha512": "590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab",
-      "name": "ferritecore-7.0.0-neoforge.jar"
+    "1_21": {
+      "latest": {
+        "name": "ferritecore-7.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar",
+        "sha512": "590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab"
+      },
+      "7_0_0": {
+        "name": "ferritecore-7.0.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar",
+        "sha512": "590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HWBrlwWv/ferritecore-6.1.1-neoforge.jar",
-      "sha512": "a11846c4428d14094817bc8368b70c5a6e03a538c12e72fc19cbf6d67035f982127b16abd8e20f336c52bc522dd662fa97ad196d9fe3a385c98882235ccea8f4",
-      "name": "ferritecore-6.1.1-neoforge.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "ferritecore-6.1.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HWBrlwWv/ferritecore-6.1.1-neoforge.jar",
+        "sha512": "a11846c4428d14094817bc8368b70c5a6e03a538c12e72fc19cbf6d67035f982127b16abd8e20f336c52bc522dd662fa97ad196d9fe3a385c98882235ccea8f4"
+      },
+      "6_1_1": {
+        "name": "ferritecore-6.1.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HWBrlwWv/ferritecore-6.1.1-neoforge.jar",
+        "sha512": "a11846c4428d14094817bc8368b70c5a6e03a538c12e72fc19cbf6d67035f982127b16abd8e20f336c52bc522dd662fa97ad196d9fe3a385c98882235ccea8f4"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/agJm6Vrw/ferritecore-6.1.0-neoforge.jar",
-      "sha512": "14d8b3d7fe8c4983a686aea844d6b188320dfd5fbf9a98e92503ab122b634f730feb4c6f2517304686b96bc9f1c9ac75d028a06599977b7dd5cdeebac1bfca1e",
-      "name": "ferritecore-6.1.0-neoforge.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "ferritecore-6.1.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HWBrlwWv/ferritecore-6.1.1-neoforge.jar",
+        "sha512": "a11846c4428d14094817bc8368b70c5a6e03a538c12e72fc19cbf6d67035f982127b16abd8e20f336c52bc522dd662fa97ad196d9fe3a385c98882235ccea8f4"
+      },
+      "6_1_1": {
+        "name": "ferritecore-6.1.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/HWBrlwWv/ferritecore-6.1.1-neoforge.jar",
+        "sha512": "a11846c4428d14094817bc8368b70c5a6e03a538c12e72fc19cbf6d67035f982127b16abd8e20f336c52bc522dd662fa97ad196d9fe3a385c98882235ccea8f4"
+      },
+      "6_1_0": {
+        "name": "ferritecore-6.1.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/agJm6Vrw/ferritecore-6.1.0-neoforge.jar",
+        "sha512": "14d8b3d7fe8c4983a686aea844d6b188320dfd5fbf9a98e92503ab122b634f730feb4c6f2517304686b96bc9f1c9ac75d028a06599977b7dd5cdeebac1bfca1e"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar",
-      "sha512": "54836d48903bb81d951208989d780f6da44193e809188cb24d91d908a900279078fec7ec8295486775e4d299cdb4998cbb41b01acb80655cf66455aa5a0f8da9",
-      "name": "ferritecore-6.0.3-forge.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "ferritecore-6.0.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar",
+        "sha512": "54836d48903bb81d951208989d780f6da44193e809188cb24d91d908a900279078fec7ec8295486775e4d299cdb4998cbb41b01acb80655cf66455aa5a0f8da9"
+      },
+      "6_0_3-forge": {
+        "name": "ferritecore-6.0.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/85kC2OMr/ferritecore-6.0.3-forge.jar",
+        "sha512": "54836d48903bb81d951208989d780f6da44193e809188cb24d91d908a900279078fec7ec8295486775e4d299cdb4998cbb41b01acb80655cf66455aa5a0f8da9"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/tfQSdUpc/ferritecore-6.0.2-forge.jar",
-      "sha512": "a0fab831f2d7d9061446136f3291f88d0f7bafd5c1b2b7042ff338e8ef65781ac078af5a2c7888bbb755f4a5bd9ef0f20ebd90f01b5a1910c5b23d5bfc2ef43d",
-      "name": "ferritecore-6.0.2-forge.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "ferritecore-6.0.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/tfQSdUpc/ferritecore-6.0.2-forge.jar",
+        "sha512": "a0fab831f2d7d9061446136f3291f88d0f7bafd5c1b2b7042ff338e8ef65781ac078af5a2c7888bbb755f4a5bd9ef0f20ebd90f01b5a1910c5b23d5bfc2ef43d"
+      },
+      "6_0_2": {
+        "name": "ferritecore-6.0.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/tfQSdUpc/ferritecore-6.0.2-forge.jar",
+        "sha512": "a0fab831f2d7d9061446136f3291f88d0f7bafd5c1b2b7042ff338e8ef65781ac078af5a2c7888bbb755f4a5bd9ef0f20ebd90f01b5a1910c5b23d5bfc2ef43d"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_0-forge": {
+        "name": "ferritecore-6.0.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/ULSumfl4/ferritecore-6.0.0-forge.jar",
+        "sha512": "e78ddd02cca0a4553eb135dbb3ec6cbc59200dd23febf3491d112c47a0b7e9fe2b97f97a3d43bb44d69f1a10aad01143dcd84dc575dfa5a9eaa315a3ec182b37"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_0-forge": {
+        "name": "ferritecore-6.0.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/ULSumfl4/ferritecore-6.0.0-forge.jar",
+        "sha512": "e78ddd02cca0a4553eb135dbb3ec6cbc59200dd23febf3491d112c47a0b7e9fe2b97f97a3d43bb44d69f1a10aad01143dcd84dc575dfa5a9eaa315a3ec182b37"
+      }
     }
   },
   "forge": {
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/ULSumfl4/ferritecore-6.0.0-forge.jar",
-      "sha512": "e78ddd02cca0a4553eb135dbb3ec6cbc59200dd23febf3491d112c47a0b7e9fe2b97f97a3d43bb44d69f1a10aad01143dcd84dc575dfa5a9eaa315a3ec182b37",
-      "name": "ferritecore-6.0.0-forge.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/ULSumfl4/ferritecore-6.0.0-forge.jar",
+        "sha512": "e78ddd02cca0a4553eb135dbb3ec6cbc59200dd23febf3491d112c47a0b7e9fe2b97f97a3d43bb44d69f1a10aad01143dcd84dc575dfa5a9eaa315a3ec182b37"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/ULSumfl4/ferritecore-6.0.0-forge.jar",
-      "sha512": "e78ddd02cca0a4553eb135dbb3ec6cbc59200dd23febf3491d112c47a0b7e9fe2b97f97a3d43bb44d69f1a10aad01143dcd84dc575dfa5a9eaa315a3ec182b37",
-      "name": "ferritecore-6.0.0-forge.jar"
+    "1_20": {
+      "latest": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/ULSumfl4/ferritecore-6.0.0-forge.jar",
+        "sha512": "e78ddd02cca0a4553eb135dbb3ec6cbc59200dd23febf3491d112c47a0b7e9fe2b97f97a3d43bb44d69f1a10aad01143dcd84dc575dfa5a9eaa315a3ec182b37"
+      }
     },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zI3uKvrU/ferritecore-5.2.0-forge.jar",
-      "sha512": "29ed1c3cd8a3e95b4891d958a5d2399fe05a505d90c9f4d44d845852da26d03b4161c2d3322a172b0815117fbbc024d9df13f20ff171aaa80bf1a9d0672ce5be",
-      "name": "ferritecore-5.2.0-forge.jar"
+    "1_19_4": {
+      "latest": {
+        "name": "ferritecore-5.2.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zI3uKvrU/ferritecore-5.2.0-forge.jar",
+        "sha512": "29ed1c3cd8a3e95b4891d958a5d2399fe05a505d90c9f4d44d845852da26d03b4161c2d3322a172b0815117fbbc024d9df13f20ff171aaa80bf1a9d0672ce5be"
+      },
+      "5_2_0": {
+        "name": "ferritecore-5.2.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zI3uKvrU/ferritecore-5.2.0-forge.jar",
+        "sha512": "29ed1c3cd8a3e95b4891d958a5d2399fe05a505d90c9f4d44d845852da26d03b4161c2d3322a172b0815117fbbc024d9df13f20ff171aaa80bf1a9d0672ce5be"
+      }
     },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/YrvjR5sX/ferritecore-5.1.0-forge.jar",
-      "sha512": "34039e0a7eb9ef98a1bec58a85a9ed4279c313625c82eeb3fd0d669d668971b770e60abd3672e4d93a7416ebd2352d2e0e24e17a74fd9fd0d81c518fa7756e9e",
-      "name": "ferritecore-5.1.0-forge.jar"
+    "1_19_3": {
+      "latest": {
+        "name": "ferritecore-5.1.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/YrvjR5sX/ferritecore-5.1.0-forge.jar",
+        "sha512": "34039e0a7eb9ef98a1bec58a85a9ed4279c313625c82eeb3fd0d669d668971b770e60abd3672e4d93a7416ebd2352d2e0e24e17a74fd9fd0d81c518fa7756e9e"
+      },
+      "5_1_0": {
+        "name": "ferritecore-5.1.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/YrvjR5sX/ferritecore-5.1.0-forge.jar",
+        "sha512": "34039e0a7eb9ef98a1bec58a85a9ed4279c313625c82eeb3fd0d669d668971b770e60abd3672e4d93a7416ebd2352d2e0e24e17a74fd9fd0d81c518fa7756e9e"
+      }
     },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.1/ferritecore-5.0.1-forge.jar",
-      "sha512": "385aa7eca564f62dbfbeed2715d5d4571c8256f07bbdc70476957ed877696187e2d1e214c56542dcb9eb34f226e4f4509fa11d0eba8dbdc8b95e7bd7b3339273",
-      "name": "ferritecore-5.0.1-forge.jar"
+    "1_19_2": {
+      "latest": {
+        "name": "ferritecore-5.0.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtXsUUz6/ferritecore-5.0.3-forge.jar",
+        "sha512": "dd553aad3900f01a9924e906516ec6a74e671319e091bd9b37974e2cf11b00d5cfb1faa6a883c5c413d966696ed5e1d987de3d9cbe862ae9f13f48463d0f16b7"
+      },
+      "5_0_3": {
+        "name": "ferritecore-5.0.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtXsUUz6/ferritecore-5.0.3-forge.jar",
+        "sha512": "dd553aad3900f01a9924e906516ec6a74e671319e091bd9b37974e2cf11b00d5cfb1faa6a883c5c413d966696ed5e1d987de3d9cbe862ae9f13f48463d0f16b7"
+      },
+      "5_0_2": {
+        "name": "ferritecore-5.0.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/fwozdl4o/ferritecore-5.0.2-forge.jar",
+        "sha512": "5dc8533457608ceb334f4ab9800241100e2f647a0e2705ee142ef0697528742e90727022e4f33ded2fd04a47d39233148c069803ad4d674cd30938cf53f9d79c"
+      },
+      "5_0_1": {
+        "name": "ferritecore-5.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.1/ferritecore-5.0.1-forge.jar",
+        "sha512": "385aa7eca564f62dbfbeed2715d5d4571c8256f07bbdc70476957ed877696187e2d1e214c56542dcb9eb34f226e4f4509fa11d0eba8dbdc8b95e7bd7b3339273"
+      }
     },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.1/ferritecore-5.0.1-forge.jar",
-      "sha512": "385aa7eca564f62dbfbeed2715d5d4571c8256f07bbdc70476957ed877696187e2d1e214c56542dcb9eb34f226e4f4509fa11d0eba8dbdc8b95e7bd7b3339273",
-      "name": "ferritecore-5.0.1-forge.jar"
+    "1_19_1": {
+      "latest": {
+        "name": "ferritecore-5.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.1/ferritecore-5.0.1-forge.jar",
+        "sha512": "385aa7eca564f62dbfbeed2715d5d4571c8256f07bbdc70476957ed877696187e2d1e214c56542dcb9eb34f226e4f4509fa11d0eba8dbdc8b95e7bd7b3339273"
+      },
+      "5_0_1": {
+        "name": "ferritecore-5.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.1/ferritecore-5.0.1-forge.jar",
+        "sha512": "385aa7eca564f62dbfbeed2715d5d4571c8256f07bbdc70476957ed877696187e2d1e214c56542dcb9eb34f226e4f4509fa11d0eba8dbdc8b95e7bd7b3339273"
+      }
     },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0/ferritecore-5.0.0-forge.jar",
-      "sha512": "62bcfafc4c607b4ae44d4111f6fd95f0ea99a05843428c2ed46d4cf78fdd3f1cdf3dfbcbaa12909bb88f3fdeb351e4f57b7a9ab75d3706cda0d6a84110e18439",
-      "name": "ferritecore-5.0.0-forge.jar"
+    "1_19": {
+      "latest": {
+        "name": "ferritecore-5.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.1/ferritecore-5.0.1-forge.jar",
+        "sha512": "385aa7eca564f62dbfbeed2715d5d4571c8256f07bbdc70476957ed877696187e2d1e214c56542dcb9eb34f226e4f4509fa11d0eba8dbdc8b95e7bd7b3339273"
+      },
+      "5_0_1": {
+        "name": "ferritecore-5.0.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.1/ferritecore-5.0.1-forge.jar",
+        "sha512": "385aa7eca564f62dbfbeed2715d5d4571c8256f07bbdc70476957ed877696187e2d1e214c56542dcb9eb34f226e4f4509fa11d0eba8dbdc8b95e7bd7b3339273"
+      },
+      "5_0_0": {
+        "name": "ferritecore-5.0.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0/ferritecore-5.0.0-forge.jar",
+        "sha512": "62bcfafc4c607b4ae44d4111f6fd95f0ea99a05843428c2ed46d4cf78fdd3f1cdf3dfbcbaa12909bb88f3fdeb351e4f57b7a9ab75d3706cda0d6a84110e18439"
+      }
     },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1-forge/ferritecore-4.2.1-forge.jar",
-      "sha512": "850f5e95963146ee4d0321edc4c2ecea07607dd32a3262f22d7ea3c82d8b3f0523a0c0f2a62524e339f1eb8d88d3a0bf1773a877c72d2f0f4ba67688d421cc84",
-      "name": "ferritecore-4.2.1-forge.jar"
+    "1_18_2": {
+      "latest": {
+        "name": "ferritecore-4.2.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/fs07zE6w/ferritecore-4.2.2-forge.jar",
+        "sha512": "3452a34a3dcbe630e881feb553ff55077a8dc8a25872777671242ad7da2c6d3588b9627cdb7396f049d674a1fca54026f885da171a999a0c33111ce09bd97b58"
+      },
+      "4_2_2": {
+        "name": "ferritecore-4.2.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/fs07zE6w/ferritecore-4.2.2-forge.jar",
+        "sha512": "3452a34a3dcbe630e881feb553ff55077a8dc8a25872777671242ad7da2c6d3588b9627cdb7396f049d674a1fca54026f885da171a999a0c33111ce09bd97b58"
+      },
+      "4_2_1": {
+        "name": "ferritecore-4.2.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1-forge/ferritecore-4.2.1-forge.jar",
+        "sha512": "850f5e95963146ee4d0321edc4c2ecea07607dd32a3262f22d7ea3c82d8b3f0523a0c0f2a62524e339f1eb8d88d3a0bf1773a877c72d2f0f4ba67688d421cc84"
+      }
     },
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/6gwDuh90/ferritecore-2.1.1-forge.jar",
-      "sha512": "129eaec4743214258ed2f426192eba65f8268697fd37a0fc67f868d22b2eaea4d60d8e29100b034a00347672f830f3c4a4a3a94d2307d02f60c00ff4bd27f6a7",
-      "name": "ferritecore-2.1.1-forge.jar"
+    "1_16_5": {
+      "latest": {
+        "name": "ferritecore-2.1.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/6gwDuh90/ferritecore-2.1.1-forge.jar",
+        "sha512": "129eaec4743214258ed2f426192eba65f8268697fd37a0fc67f868d22b2eaea4d60d8e29100b034a00347672f830f3c4a4a3a94d2307d02f60c00ff4bd27f6a7"
+      },
+      "2_1_1": {
+        "name": "ferritecore-2.1.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/6gwDuh90/ferritecore-2.1.1-forge.jar",
+        "sha512": "129eaec4743214258ed2f426192eba65f8268697fd37a0fc67f868d22b2eaea4d60d8e29100b034a00347672f830f3c4a4a3a94d2307d02f60c00ff4bd27f6a7"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_11": {
+      "latest": {
+        "name": "ferritecore-8.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/eRLwt73x/ferritecore-8.0.3-fabric.jar",
+        "sha512": "be600543e499b59286f9409f46497570adc51939ae63eaa12ac29e6778da27d8c7c6cd0b3340d8bcca1cc99ce61779b1a8f52b990f9e4e9a93aa9c6482905231"
+      },
+      "8_0_3": {
+        "name": "ferritecore-8.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/eRLwt73x/ferritecore-8.0.3-fabric.jar",
+        "sha512": "be600543e499b59286f9409f46497570adc51939ae63eaa12ac29e6778da27d8c7c6cd0b3340d8bcca1cc99ce61779b1a8f52b990f9e4e9a93aa9c6482905231"
+      }
+    },
+    "1_21_10": {
+      "latest": {
+        "name": "ferritecore-8.0.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/MGoveONm/ferritecore-8.0.2-fabric.jar",
+        "sha512": "8c3890fb116dfaf681f5f483ea0d1bfecfb87dd584cc72e772fe43ea6ecf15a09c782fedbe5cea3b8bf7e930bd5c00753a619ac5ce7afa7fd092769d68e9beec"
+      },
+      "8_0_2": {
+        "name": "ferritecore-8.0.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/MGoveONm/ferritecore-8.0.2-fabric.jar",
+        "sha512": "8c3890fb116dfaf681f5f483ea0d1bfecfb87dd584cc72e772fe43ea6ecf15a09c782fedbe5cea3b8bf7e930bd5c00753a619ac5ce7afa7fd092769d68e9beec"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "ferritecore-8.0.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/MGoveONm/ferritecore-8.0.2-fabric.jar",
+        "sha512": "8c3890fb116dfaf681f5f483ea0d1bfecfb87dd584cc72e772fe43ea6ecf15a09c782fedbe5cea3b8bf7e930bd5c00753a619ac5ce7afa7fd092769d68e9beec"
+      },
+      "8_0_2": {
+        "name": "ferritecore-8.0.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/MGoveONm/ferritecore-8.0.2-fabric.jar",
+        "sha512": "8c3890fb116dfaf681f5f483ea0d1bfecfb87dd584cc72e772fe43ea6ecf15a09c782fedbe5cea3b8bf7e930bd5c00753a619ac5ce7afa7fd092769d68e9beec"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      },
+      "8_0_0": {
+        "name": "ferritecore-8.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar",
+        "sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "ferritecore-7.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar",
+        "sha512": "f41dc9e8b28327a1e29b14667cb42ae5e7e17bcfa4495260f6f851a80d4b08d98a30d5c52b110007ee325f02dac7431e3fad4560c6840af0bf347afad48c5aac"
+      },
+      "7_1_1": {
+        "name": "ferritecore-7.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar",
+        "sha512": "f41dc9e8b28327a1e29b14667cb42ae5e7e17bcfa4495260f6f851a80d4b08d98a30d5c52b110007ee325f02dac7431e3fad4560c6840af0bf347afad48c5aac"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "ferritecore-7.1.0-fabric-dev.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zLd6ikLj/ferritecore-7.1.0-fabric-dev.jar",
+        "sha512": "7f712caecde04dddaff4bc618012e6acb0486189c9d1a70b91a1be5fada9bc02de93c5759fef26e8f59bb9d877e8e59b87aef1f14e368ae2c2020a5a3b04627d"
+      },
+      "7_1_0": {
+        "name": "ferritecore-7.1.0-fabric-dev.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zLd6ikLj/ferritecore-7.1.0-fabric-dev.jar",
+        "sha512": "7f712caecde04dddaff4bc618012e6acb0486189c9d1a70b91a1be5fada9bc02de93c5759fef26e8f59bb9d877e8e59b87aef1f14e368ae2c2020a5a3b04627d"
+      },
+      "7_1_0-hotfix": {
+        "name": "ferritecore-7.1.0-hotfix-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/a3QXXGz2/ferritecore-7.1.0-hotfix-fabric.jar",
+        "sha512": "ae1ab30beb5938643cf2ae7b8220769f2c917e3f5441e46e9bc900295348c0a541a325c30b8dfc38039205620d872c27809acdc6741351f08e4c8edc36ae2bcc"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "ferritecore-7.0.2-fabric-dev.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/W4lg2p7U/ferritecore-7.0.2-fabric-dev.jar",
+        "sha512": "eb40ac82999dc416890e7d035db511f69f6b8638cbdee5c5f079e82642caa95892b4ea4859d25cc350b62ee41137d8a9b818c3ca4f72af21257caccc2166cbd4"
+      },
+      "7_0_2": {
+        "name": "ferritecore-7.0.2-fabric-dev.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/W4lg2p7U/ferritecore-7.0.2-fabric-dev.jar",
+        "sha512": "eb40ac82999dc416890e7d035db511f69f6b8638cbdee5c5f079e82642caa95892b4ea4859d25cc350b62ee41137d8a9b818c3ca4f72af21257caccc2166cbd4"
+      },
+      "7_0_2-hotfix": {
+        "name": "ferritecore-7.0.2-hotfix-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar",
+        "sha512": "ca975bd3708cd96d30cf1447ac8883572113562eb2dd697e60c1cf382d6b70d0b1a511fcbfd042c51b2cf5d5ffc718b847f845e4c8a3e421e8c9ee741119a421"
+      },
+      "7_0_1": {
+        "name": "ferritecore-7.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/zQSo4nxk/ferritecore-7.0.1-fabric.jar",
+        "sha512": "9f52249059d5d14317292dedf08bf10860ec81aa94238d70a8fecbc372fc75fe95e80f41983379674b180d2ae458dab36a5a3c91738236211287a401ad7ba74b"
+      },
+      "7_0_0": {
+        "name": "ferritecore-7.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar",
+        "sha512": "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "ferritecore-7.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar",
+        "sha512": "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f"
+      },
+      "7_0_0": {
+        "name": "ferritecore-7.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar",
+        "sha512": "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "ferritecore-6.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/i9RcCdZv/ferritecore-6.1.1-fabric.jar",
+        "sha512": "d07ebedcab096389ceaf17dd7463c165c9455c24300d494e1f394c3e4ed2d43686e35a4fd87280eda2bf4c96695da3e0183a3474016c8d7d13b56c6e04c2acef"
+      },
+      "6_1_1": {
+        "name": "ferritecore-6.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/i9RcCdZv/ferritecore-6.1.1-fabric.jar",
+        "sha512": "d07ebedcab096389ceaf17dd7463c165c9455c24300d494e1f394c3e4ed2d43686e35a4fd87280eda2bf4c96695da3e0183a3474016c8d7d13b56c6e04c2acef"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "ferritecore-6.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/i9RcCdZv/ferritecore-6.1.1-fabric.jar",
+        "sha512": "d07ebedcab096389ceaf17dd7463c165c9455c24300d494e1f394c3e4ed2d43686e35a4fd87280eda2bf4c96695da3e0183a3474016c8d7d13b56c6e04c2acef"
+      },
+      "6_1_1": {
+        "name": "ferritecore-6.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/i9RcCdZv/ferritecore-6.1.1-fabric.jar",
+        "sha512": "d07ebedcab096389ceaf17dd7463c165c9455c24300d494e1f394c3e4ed2d43686e35a4fd87280eda2bf4c96695da3e0183a3474016c8d7d13b56c6e04c2acef"
+      },
+      "6_1_0": {
+        "name": "ferritecore-6.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/PPnbi6JY/ferritecore-6.1.0-fabric.jar",
+        "sha512": "702fed11ce032c6be4933c7db7534518b960eabfc813ad427d33e7d95dcbc4648d79d8e4915da6b1ac773d7484e0723c7072e93283271479d734f54ab9ef96b0"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "ferritecore-6.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar",
+        "sha512": "709ab6362dd1dcc432edd1e6c33aafba6f2d12be701bc14911107340f8ac2466779c4e57d8a303f0350c46478f23008e6eeca78e4eadedd0bdee63d4ae72ed9a"
+      },
+      "6_0_3": {
+        "name": "ferritecore-6.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar",
+        "sha512": "709ab6362dd1dcc432edd1e6c33aafba6f2d12be701bc14911107340f8ac2466779c4e57d8a303f0350c46478f23008e6eeca78e4eadedd0bdee63d4ae72ed9a"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+        "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+        "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_1": {
+        "name": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
+      },
+      "6_0_0": {
+        "name": "ferritecore-6.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+        "sha512": "9f563d8ceb2ec838e5da23257d369a26be0323e2f7777df8bb6e2ac4610dd0020827411f7e82e1f151d0fd9236014a8f02801ab4c1a5857ad3fd90345f6cfa9c"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "ferritecore-5.2.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar",
+        "sha512": "56a4ac2ed002260ee451fa9d33169ddcd01473bf46eee97061666b13fa386cd23e15238a72729e55f32d81cce8ae049c80caabf1947ba998258282226289be0c"
+      },
+      "5_2_0": {
+        "name": "ferritecore-5.2.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar",
+        "sha512": "56a4ac2ed002260ee451fa9d33169ddcd01473bf46eee97061666b13fa386cd23e15238a72729e55f32d81cce8ae049c80caabf1947ba998258282226289be0c"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "ferritecore-5.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar",
+        "sha512": "24b5790769a9da3d79a46435012bc6d0972042b874b195dc63aa911dcbcca29496c977477f6ca9e70a850432468e565490f75ba2730eb9ec4c304e03f48c1e1a"
+      },
+      "5_1_0": {
+        "name": "ferritecore-5.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar",
+        "sha512": "24b5790769a9da3d79a46435012bc6d0972042b874b195dc63aa911dcbcca29496c977477f6ca9e70a850432468e565490f75ba2730eb9ec4c304e03f48c1e1a"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "ferritecore-5.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar",
+        "sha512": "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f43d46e33ae8a2672f300bfc5b96510e164b1dd09cfae9cba0a195252d"
+      },
+      "5_0_3": {
+        "name": "ferritecore-5.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar",
+        "sha512": "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f43d46e33ae8a2672f300bfc5b96510e164b1dd09cfae9cba0a195252d"
+      },
+      "5_0_0": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      },
+      "5_0_0": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      },
+      "5_0_0": {
+        "name": "ferritecore-5.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar",
+        "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "ferritecore-4.2.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar",
+        "sha512": "066a5644191ee45abde5ad4bf7f1662f8aaef842ed24398e311a35d39861b6159fb55ccd18c6ad8940cabed3341c5163462e7c2895631a6d26945f67db326798"
+      },
+      "4_2_1": {
+        "name": "ferritecore-4.2.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar",
+        "sha512": "066a5644191ee45abde5ad4bf7f1662f8aaef842ed24398e311a35d39861b6159fb55ccd18c6ad8940cabed3341c5163462e7c2895631a6d26945f67db326798"
+      },
+      "4_2_0": {
+        "name": "ferritecore-4.2.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar",
+        "sha512": "dffac2f7475120519388f83f3275c5b89757bccfc58657807a30d20e9f25daf412ce8c0d9d47d0f51572b715cc1b2958ecef1b28c5ab104f58b38cee534dc9ab"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "ferritecore-4.1.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.2/ferritecore-4.1.2-fabric.jar",
+        "sha512": "55481188d960ad1426fde990ca75cde453fee596fd3c745a402a35620128d93657e3ba3b126ad58c31846918ccce17eea66f0167c3f6141ad877b9862ab9910c"
+      },
+      "4_1_2": {
+        "name": "ferritecore-4.1.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.2/ferritecore-4.1.2-fabric.jar",
+        "sha512": "55481188d960ad1426fde990ca75cde453fee596fd3c745a402a35620128d93657e3ba3b126ad58c31846918ccce17eea66f0167c3f6141ad877b9862ab9910c"
+      },
+      "4_1_1": {
+        "name": "ferritecore-4.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.1/ferritecore-4.1.1-fabric.jar",
+        "sha512": "23ff60ab6df446777bcfb1b74ca8d935e55469a2c962d0c79db069c131fd01cde59cf2411ca0ce411401a9dacd3265fbe937c576dd9a3d152f4eae456ded291f"
+      },
+      "4_1_0": {
+        "name": "ferritecore-4.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.0/ferritecore-4.1.0-fabric.jar",
+        "sha512": "51ff2b780266659ea830b85dd82db5c9d62fb71f5678cd2ca04809ea49e52157177db70130cbe31a095ff1c7e9c2e2edcaa32cd9b5f73dff4e90152c652b03ac"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "ferritecore-4.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar",
+        "sha512": "2e5e5d03e21190bf1ebe5889a6387f001cfe8e7d6f90bff6d5f0d4fdfca1bd445c6ee1e5ec64207ba19df35364917b4f8e3a769cc5391ee77dbf81d579cd1e05"
+      },
+      "4_0_0": {
+        "name": "ferritecore-4.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar",
+        "sha512": "2e5e5d03e21190bf1ebe5889a6387f001cfe8e7d6f90bff6d5f0d4fdfca1bd445c6ee1e5ec64207ba19df35364917b4f8e3a769cc5391ee77dbf81d579cd1e05"
+      }
+    },
+    "1_17_1": {
+      "latest": {
+        "name": "ferritecore-3.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar",
+        "sha512": "d9e537185a3d39736ac765df5ba3a05f8ace5a3af87b350da57da8fd7e466b7b84a378c0f721f5ae6e685e2d24f28d58a760311287c4c0a8df0fbdbf610fb075"
+      },
+      "3_1_0": {
+        "name": "ferritecore-3.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar",
+        "sha512": "d9e537185a3d39736ac765df5ba3a05f8ace5a3af87b350da57da8fd7e466b7b84a378c0f721f5ae6e685e2d24f28d58a760311287c4c0a8df0fbdbf610fb075"
+      },
+      "3_0_3": {
+        "name": "ferritecore-3.0.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.3/ferritecore-3.0.3-fabric.jar",
+        "sha512": "24f293baa8a493c7cd34d810694aef2fe398d1d1ecd6c5ab38ba1888563b8dd3628fe07026739f6840ebe17b894bb54e39344ab2c0f6bc4fcd9ed56ebae6f9e1"
+      },
+      "3_0_2": {
+        "name": "ferritecore-3.0.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.2/ferritecore-3.0.2-fabric.jar",
+        "sha512": "52aee8398c5242b17d3d3c53f4b33743c8e80380217ef0ec7867ee6dff4155cb35f9367eb192324abf957f5cb39abf0151ce459b35c40800d5c3578e997dc8aa"
+      }
+    },
+    "1_17": {
+      "latest": {
+        "name": "ferritecore-3.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.1/ferritecore-3.0.1-fabric.jar",
+        "sha512": "da299e3de25d3f1cd601c73431014939a32ea1c495a5720d5125b502bd353299381941c72463f7dd1b3894a140df0bb9c78c64a006bea7a5f6f7f37919bae354"
+      },
+      "3_0_1": {
+        "name": "ferritecore-3.0.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.1/ferritecore-3.0.1-fabric.jar",
+        "sha512": "da299e3de25d3f1cd601c73431014939a32ea1c495a5720d5125b502bd353299381941c72463f7dd1b3894a140df0bb9c78c64a006bea7a5f6f7f37919bae354"
+      },
+      "3_0_0": {
+        "name": "ferritecore-3.0.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.0/ferritecore-3.0.0-fabric.jar",
+        "sha512": "5e1ac32801b9d7d5207a91e48a5bf11c6d8c2141a44efe5e4a25b40660cab37c0ec8fe8bf9eeff0ee0f507897179a32fdfed460cea356e4683cc4dde75ee682b"
+      }
+    },
+    "1_16_5": {
+      "latest": {
+        "name": "ferritecore-2.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3UkWIj4a/ferritecore-2.1.1-fabric.jar",
+        "sha512": "77881a04bc28fc409da30dd469fb59d2aae56baad667fe7a811d9b14ce0c255f6a1e5d67d26fb9c0527ba0e28522f073f12a0102f4ea9490bf80492311046422"
+      },
+      "2_1_1": {
+        "name": "ferritecore-2.1.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/3UkWIj4a/ferritecore-2.1.1-fabric.jar",
+        "sha512": "77881a04bc28fc409da30dd469fb59d2aae56baad667fe7a811d9b14ce0c255f6a1e5d67d26fb9c0527ba0e28522f073f12a0102f4ea9490bf80492311046422"
+      },
+      "2_1_0": {
+        "name": "ferritecore-2.1.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2.1.0/ferritecore-2.1.0-fabric.jar",
+        "sha512": "32da6f8089af2d4b060b006be2713725804cce574b25fe759641aa67005d1acdaeb857fae0d3623887e70ac00203750264319ce50222aa97c82a1364d06886f9"
+      },
+      "2_0_7": {
+        "name": "ferritecore-2.0.7-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.7/ferritecore-2.0.7-fabric.jar",
+        "sha512": "27ed0dee706141d083606203bda5c8693df1cef04c7868b1d372259a50ae9f093c1a05006660df4e8922ee7da0db76e92a8f536a0881545291d91ccbbe9d4817"
+      },
+      "2_0_6": {
+        "name": "ferritecore-2.0.6-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.6/ferritecore-2.0.6-fabric.jar",
+        "sha512": "a1e188db2ae571ff518e4d6f0e3c63ebeaf413987fe208d617c37e8828af5734e8c4106226ffcda09f51d8f36f4460a3ec7dbd0d14d65d7553a37f215ffa35e3"
+      },
+      "2_0_5": {
+        "name": "ferritecore-2.0.5-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.5/ferritecore-2.0.5-fabric.jar",
+        "sha512": "c0503c6d5a232bc47436765a98e410c648c6eb0524ef4f0c5e3e0a8e4feb53a4a0eedca43370de62e38d32cca9e9afba75d64e6ae03db6069564575f6cb78b55"
+      }
     }
   }
 }

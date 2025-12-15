@@ -1,193 +1,2206 @@
 {
-  "fabric": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SSvdU922/do_a_barrel_roll-fabric-3.8.3%2B1.21.9.jar",
-      "sha512": "1f5a5bb535e413572fa7302f47609705cca0df4b2f96392178ba4b1d35a56154440305af66add4f7ca7d4bf67a2d54abdcc3d77ad53a7a2fdcfb2e4ea9bc5abf",
-      "name": "do_a_barrel_roll-fabric-3.8.3+1.21.9.jar"
-    },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SSvdU922/do_a_barrel_roll-fabric-3.8.3%2B1.21.9.jar",
-      "sha512": "1f5a5bb535e413572fa7302f47609705cca0df4b2f96392178ba4b1d35a56154440305af66add4f7ca7d4bf67a2d54abdcc3d77ad53a7a2fdcfb2e4ea9bc5abf",
-      "name": "do_a_barrel_roll-fabric-3.8.3+1.21.9.jar"
-    },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/REB9EGpL/do_a_barrel_roll-fabric-3.8.3%2B1.21.6.jar",
-      "sha512": "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869762877ca263bcde14a5a3ebdbcaa6d6b27b27b3dd6823236ddb70791",
-      "name": "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar"
-    },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/7nUPwWUG/do_a_barrel_roll-fabric-3.8.2%2B1.21.6.jar",
-      "sha512": "0987105dcea3d36f477c277be7f2090454479137c50c4c2159da6862e438aeff07ae0e111844b66f60d9b9f796c79662a033a139a30e16b5030093ee9d852577",
-      "name": "do_a_barrel_roll-fabric-3.8.2+1.21.6.jar"
-    },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/IM6knaKg/do_a_barrel_roll-fabric-3.8.1%2B1.21.6.jar",
-      "sha512": "b4aeb81f9cbce7d9c8030a75db28ee01ed2864d2ca8565435ca2b3fcd25a3d4075c01c89eefdeca1a6adb3439db687d1d5dd2beebe87cc7ff7f3c267646ce963",
-      "name": "do_a_barrel_roll-fabric-3.8.1+1.21.6.jar"
-    },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/V0e6gDT5/do_a_barrel_roll-fabric-3.8.1%2B1.21.5.jar",
-      "sha512": "47ef2e80b72ac566f54d6b35a90f166cdd360deabff9e93aa2a2fc9b31824b198efcf99d0d0a17a254455646bfb80b6422bc33a559a85a7721549d7ea760834d",
-      "name": "do_a_barrel_roll-fabric-3.8.1+1.21.5.jar"
-    },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UitUD6VJ/do_a_barrel_roll-fabric-3.8.1%2B1.21.4.jar",
-      "sha512": "fcb659ed91a96c383eb06f9074f90ba1eef12b95c2a5696397f0c08305977a7185abad353233ffed7ec6287723e161533048fc731fd5770a661cd7603a6a0bbb",
-      "name": "do_a_barrel_roll-fabric-3.8.1+1.21.4.jar"
-    },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oadY9xkk/do_a_barrel_roll-fabric-3.8.1%2B1.21.2.jar",
-      "sha512": "e4e4b0de23f799d08abaabffe431f0df0b238acaab42c76da487f70478aa04a94ee52ab1b04ce904901517906627d692b6bf36aa2d517927ad44c7463f2c0779",
-      "name": "do_a_barrel_roll-fabric-3.8.1+1.21.2.jar"
-    },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xMjXb8O3/do_a_barrel_roll-fabric-3.8.0%2B1.21.2.jar",
-      "sha512": "9bf6ab6195c946664ebe3ca934b5ccacfbefc7d2730a7e91e7045fdd46b36ee13063de2cf09166374593548a64845aacbc9be31322adc72123ba4f63ae50d598",
-      "name": "do_a_barrel_roll-fabric-3.8.0+1.21.2.jar"
-    },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/OjBr3egj/do_a_barrel_roll-fabric-3.6.2%2B1.21.jar",
-      "sha512": "21b824b59bdd18d075767ba9122b1bea7cd0edb21f10d136a7ebce37f15af865e0d20c9b22f0e70b88c6a016c0e63ccc4004c7763ce2a940409c43a4b5cdbff6",
-      "name": "do_a_barrel_roll-fabric-3.6.2+1.21.jar"
-    },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/CJFnOoi0/do_a_barrel_roll-fabric-3.6.1%2B1.21.jar",
-      "sha512": "cbd1a7384f7f5dbaf2f4096c66d15cb235793d2ea3b9ae276935f4f01afde27acf11222f8e44b91b642672f49848fee9eeae535c50994c8ec4eddfbd723f8f64",
-      "name": "do_a_barrel_roll-fabric-3.6.1+1.21.jar"
-    },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/swE82BGE/do_a_barrel_roll-fabric-3.5.6%2B1.20.6.jar",
-      "sha512": "ff871c663bd2c7ef5e36a2d357be212c02d3ae3b4f4774dbf7677cc43198fdf3914c4bb2e22f4ea91cd46069ba1057711184d8893f6c727ec0a40454bb515bf8",
-      "name": "do_a_barrel_roll-fabric-3.5.6+1.20.6.jar"
-    },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/swE82BGE/do_a_barrel_roll-fabric-3.5.6%2B1.20.6.jar",
-      "sha512": "ff871c663bd2c7ef5e36a2d357be212c02d3ae3b4f4774dbf7677cc43198fdf3914c4bb2e22f4ea91cd46069ba1057711184d8893f6c727ec0a40454bb515bf8",
-      "name": "do_a_barrel_roll-fabric-3.5.6+1.20.6.jar"
-    },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/34jQR2SU/do-a-barrel-roll-3.3.8%2B1.20.4-fabric.jar",
-      "sha512": "756ae5cf9c26c1ac659bc96b6602229141a0712bdf457acec891cf36ac79a9264edfd6f51494a7600e2148f59a53eb385510ec57226b58e8ec48c4170d05c254",
-      "name": "do-a-barrel-roll-3.3.8+1.20.4-fabric.jar"
-    },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/34jQR2SU/do-a-barrel-roll-3.3.8%2B1.20.4-fabric.jar",
-      "sha512": "756ae5cf9c26c1ac659bc96b6602229141a0712bdf457acec891cf36ac79a9264edfd6f51494a7600e2148f59a53eb385510ec57226b58e8ec48c4170d05c254",
-      "name": "do-a-barrel-roll-3.3.8+1.20.4-fabric.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xrNZLxUL/do-a-barrel-roll-3.3.3%2B1.20-fabric.jar",
-      "sha512": "12fb58fa9a78b676df951d362245eaffa3c1fa16ec7bc5d6c3ec5992f6c1b973681a01317dee478232d2061ab8e4fd5ce7802c57b65299bcebb353f3504957eb",
-      "name": "do-a-barrel-roll-3.3.3+1.20-fabric.jar"
-    },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/gbxieggJ/do-a-barrel-roll-3.0.1%2B1.20-fabric.jar",
-      "sha512": "591bb1af80773da1ab1345fbb5eebaf8834f089361552b58af3e8589253f67f6ef316e7111a55b065010c82eff58c960c8fc61eecc4d2655f7a0b7f4050f3634",
-      "name": "do-a-barrel-roll-3.0.1+1.20-fabric.jar"
-    },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/iclteRK7/do-a-barrel-roll-3.0.0-beta.1%2B1.20-fabric.jar",
-      "sha512": "5025e066e19c5dd6a154af1213fae7428f4cda8559ccd6f6a167094ae9d4a3867869e4e8c421cae66888f04f26e52c08271b56ef63952e9dd6f5f9debd851fb7",
-      "name": "do-a-barrel-roll-3.0.0-beta.1+1.20-fabric.jar"
-    },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/gtLI94FF/do-a-barrel-roll-2.6.3%2B1.19.4-fabric.jar",
-      "sha512": "341c051e223c50dbe1b7acee3984af20c0b18eb9aea04365b4c9a76169588d1f608cdb0b5183ab5c43df277e59fb0fb3eebd1cd9728516b5ff03ee9a7094ea1d",
-      "name": "do-a-barrel-roll-2.6.3+1.19.4-fabric.jar"
-    },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UyB2v0D5/do-a-barrel-roll-2.3.1%2B1.19.3-fabric.jar",
-      "sha512": "5724c4943863bceb1df21c108de3b64470deb38e11326da6c57e9013017c9ec83e7c71094c4e5d47c785d9e509d90746d9634eb8ee05434cf28a5e81e358cdb4",
-      "name": "do-a-barrel-roll-2.3.1+1.19.3-fabric.jar"
-    },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/FBF1osil/do-a-barrel-roll-1.0.0%2B1.19.jar",
-      "sha512": "a4700b13cb8870b8c00a314220340da34d659a278742c3f2baf093f296c53dbbb0823cd68cddfb88632788547dd5c149af5d19e431a4709740560baaba1b2840",
-      "name": "do-a-barrel-roll-1.0.0+1.19.jar"
-    },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/FBF1osil/do-a-barrel-roll-1.0.0%2B1.19.jar",
-      "sha512": "a4700b13cb8870b8c00a314220340da34d659a278742c3f2baf093f296c53dbbb0823cd68cddfb88632788547dd5c149af5d19e431a4709740560baaba1b2840",
-      "name": "do-a-barrel-roll-1.0.0+1.19.jar"
-    },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/FBF1osil/do-a-barrel-roll-1.0.0%2B1.19.jar",
-      "sha512": "a4700b13cb8870b8c00a314220340da34d659a278742c3f2baf093f296c53dbbb0823cd68cddfb88632788547dd5c149af5d19e431a4709740560baaba1b2840",
-      "name": "do-a-barrel-roll-1.0.0+1.19.jar"
-    },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Tne4pAY5/do-a-barrel-roll-1.2.0%2B1.18.jar",
-      "sha512": "381f5a90d7c9c17ec0a1e747042ffed8aa4943ceb5689cbcb0743f49c9beaddce07f558b2d33d0d5075e1bcf18780fc8034b0389f510cb5fa45b544db4e86105",
-      "name": "do-a-barrel-roll-1.2.0+1.18.jar"
-    },
-    "1.17.1": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5te3CHsv/do-a-barrel-roll-1.3.3%2B1.17.1.jar",
-      "sha512": "2fde717d0371ad9d49242780089cdb288ed9d5a971703ca771e913653916ea75c7b7e987ad362eb88523a0e5b7a668ab3088c71122f3b12dc292d8d40e25dbb4",
-      "name": "do-a-barrel-roll-1.3.3+1.17.1.jar"
-    }
-  },
   "neoforge": {
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DDcKiuOR/do_a_barrel_roll-neoforge-3.7.0%2B1.21.jar",
-      "sha512": "82eda5be014a854e0b3ee8f0e975667782fa18cf89adae03cc7dc13ea0481ff4ef8e1056abf990091899d0cc73f2e9e1155ed7e211474c64f85be5c32c909dad",
-      "name": "do_a_barrel_roll-neoforge-3.7.0+1.21.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
+        "sha512": "dc4a76eacc44b17c444368fdf012c5b06cd9f88463f562cc1d275e2b4e8e15b5f141373fc65de9b56167355d7a406b1dbee691b6cf20a4026b61faadb1d93c17"
+      },
+      "3_7_3+1_21": {
+        "name": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
+        "sha512": "dc4a76eacc44b17c444368fdf012c5b06cd9f88463f562cc1d275e2b4e8e15b5f141373fc65de9b56167355d7a406b1dbee691b6cf20a4026b61faadb1d93c17"
+      },
+      "3_7_2+1_21": {
+        "name": "do_a_barrel_roll-neoforge-3.7.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/y8jv7s49/do_a_barrel_roll-neoforge-3.7.2%2B1.21.jar",
+        "sha512": "229b1b300904e0bc35e42002d19d99d0f16e36a2a3d36bbac4c113f74e2df3a9fe1f9159ea7023f6d7fb3680fa6d42b3a28d9ab5843ead0c2f6fc050c26e308e"
+      },
+      "3_7_1+1_21": {
+        "name": "do_a_barrel_roll-neoforge-3.7.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2huzzRzW/do_a_barrel_roll-neoforge-3.7.1%2B1.21.jar",
+        "sha512": "d65626b50fcd60a44b25dfe45542221961fc3fe871e4b2cf7f5cb0a595eb0d3fa7a5031364f93074931a132c2af64da96481b116c94015fee53867f1e8d2e8b9"
+      },
+      "3_7_0+1_21": {
+        "name": "do_a_barrel_roll-neoforge-3.7.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DDcKiuOR/do_a_barrel_roll-neoforge-3.7.0%2B1.21.jar",
+        "sha512": "82eda5be014a854e0b3ee8f0e975667782fa18cf89adae03cc7dc13ea0481ff4ef8e1056abf990091899d0cc73f2e9e1155ed7e211474c64f85be5c32c909dad"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DDcKiuOR/do_a_barrel_roll-neoforge-3.7.0%2B1.21.jar",
-      "sha512": "82eda5be014a854e0b3ee8f0e975667782fa18cf89adae03cc7dc13ea0481ff4ef8e1056abf990091899d0cc73f2e9e1155ed7e211474c64f85be5c32c909dad",
-      "name": "do_a_barrel_roll-neoforge-3.7.0+1.21.jar"
+    "1_21": {
+      "latest": {
+        "name": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
+        "sha512": "dc4a76eacc44b17c444368fdf012c5b06cd9f88463f562cc1d275e2b4e8e15b5f141373fc65de9b56167355d7a406b1dbee691b6cf20a4026b61faadb1d93c17"
+      },
+      "3_7_3": {
+        "name": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
+        "sha512": "dc4a76eacc44b17c444368fdf012c5b06cd9f88463f562cc1d275e2b4e8e15b5f141373fc65de9b56167355d7a406b1dbee691b6cf20a4026b61faadb1d93c17"
+      },
+      "3_7_2": {
+        "name": "do_a_barrel_roll-neoforge-3.7.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/y8jv7s49/do_a_barrel_roll-neoforge-3.7.2%2B1.21.jar",
+        "sha512": "229b1b300904e0bc35e42002d19d99d0f16e36a2a3d36bbac4c113f74e2df3a9fe1f9159ea7023f6d7fb3680fa6d42b3a28d9ab5843ead0c2f6fc050c26e308e"
+      },
+      "3_7_1": {
+        "name": "do_a_barrel_roll-neoforge-3.7.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2huzzRzW/do_a_barrel_roll-neoforge-3.7.1%2B1.21.jar",
+        "sha512": "d65626b50fcd60a44b25dfe45542221961fc3fe871e4b2cf7f5cb0a595eb0d3fa7a5031364f93074931a132c2af64da96481b116c94015fee53867f1e8d2e8b9"
+      },
+      "3_7_0": {
+        "name": "do_a_barrel_roll-neoforge-3.7.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DDcKiuOR/do_a_barrel_roll-neoforge-3.7.0%2B1.21.jar",
+        "sha512": "82eda5be014a854e0b3ee8f0e975667782fa18cf89adae03cc7dc13ea0481ff4ef8e1056abf990091899d0cc73f2e9e1155ed7e211474c64f85be5c32c909dad"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QTZWPLMO/do_a_barrel_roll-neoforge-3.5.4%2B1.20.4.jar",
-      "sha512": "40f0f7853a6b0cc79e8282f7df9c765141ad07e17fcda6993fcca2f4b408a945fe62650a342ba6d4c136fca73a70bf7127380b2e0ccb39f3e45047dca266a5cf",
-      "name": "do_a_barrel_roll-neoforge-3.5.4+1.20.4.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "do_a_barrel_roll-neoforge-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eVfj9RoR/do_a_barrel_roll-neoforge-3.6.0%2B1.20.4.jar",
+        "sha512": "5c9ab9ec0e35a2fc8634763820262cb4139bf3c804bd2179101c6e87dbfa494408d54fe83994e235d565b72d2c2ffec828257a6f1690e1f84675a0b4f424f6d4"
+      },
+      "3_6_0": {
+        "name": "do_a_barrel_roll-neoforge-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eVfj9RoR/do_a_barrel_roll-neoforge-3.6.0%2B1.20.4.jar",
+        "sha512": "5c9ab9ec0e35a2fc8634763820262cb4139bf3c804bd2179101c6e87dbfa494408d54fe83994e235d565b72d2c2ffec828257a6f1690e1f84675a0b4f424f6d4"
+      },
+      "3_5_6": {
+        "name": "do_a_barrel_roll-neoforge-3.5.6+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5OZhAiaw/do_a_barrel_roll-neoforge-3.5.6%2B1.20.4.jar",
+        "sha512": "b50961da3f0a0462a64aba246b3e9f1a64f8e75982abadb9fc8e973958756b0a4bca77fbf2e314b825cd3b131772de25e1c9fb61fb20240b1959420beda63f32"
+      },
+      "3_5_4": {
+        "name": "do_a_barrel_roll-neoforge-3.5.4+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QTZWPLMO/do_a_barrel_roll-neoforge-3.5.4%2B1.20.4.jar",
+        "sha512": "40f0f7853a6b0cc79e8282f7df9c765141ad07e17fcda6993fcca2f4b408a945fe62650a342ba6d4c136fca73a70bf7127380b2e0ccb39f3e45047dca266a5cf"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QTZWPLMO/do_a_barrel_roll-neoforge-3.5.4%2B1.20.4.jar",
-      "sha512": "40f0f7853a6b0cc79e8282f7df9c765141ad07e17fcda6993fcca2f4b408a945fe62650a342ba6d4c136fca73a70bf7127380b2e0ccb39f3e45047dca266a5cf",
-      "name": "do_a_barrel_roll-neoforge-3.5.4+1.20.4.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "do_a_barrel_roll-neoforge-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eVfj9RoR/do_a_barrel_roll-neoforge-3.6.0%2B1.20.4.jar",
+        "sha512": "5c9ab9ec0e35a2fc8634763820262cb4139bf3c804bd2179101c6e87dbfa494408d54fe83994e235d565b72d2c2ffec828257a6f1690e1f84675a0b4f424f6d4"
+      },
+      "3_6_0+1_20_4": {
+        "name": "do_a_barrel_roll-neoforge-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eVfj9RoR/do_a_barrel_roll-neoforge-3.6.0%2B1.20.4.jar",
+        "sha512": "5c9ab9ec0e35a2fc8634763820262cb4139bf3c804bd2179101c6e87dbfa494408d54fe83994e235d565b72d2c2ffec828257a6f1690e1f84675a0b4f424f6d4"
+      },
+      "3_5_6+1_20_4": {
+        "name": "do_a_barrel_roll-neoforge-3.5.6+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5OZhAiaw/do_a_barrel_roll-neoforge-3.5.6%2B1.20.4.jar",
+        "sha512": "b50961da3f0a0462a64aba246b3e9f1a64f8e75982abadb9fc8e973958756b0a4bca77fbf2e314b825cd3b131772de25e1c9fb61fb20240b1959420beda63f32"
+      },
+      "3_5_4+1_20_4": {
+        "name": "do_a_barrel_roll-neoforge-3.5.4+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QTZWPLMO/do_a_barrel_roll-neoforge-3.5.4%2B1.20.4.jar",
+        "sha512": "40f0f7853a6b0cc79e8282f7df9c765141ad07e17fcda6993fcca2f4b408a945fe62650a342ba6d4c136fca73a70bf7127380b2e0ccb39f3e45047dca266a5cf"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_6forge": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_5forge": {
+        "name": "do_a_barrel_roll-forge-3.5.5+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oLVOsTht/do_a_barrel_roll-forge-3.5.5%2B1.20.1.jar",
+        "sha512": "661560d3c606c68c93de9f8ea94ff2b3760d5dfca4acb77d5c4d11d3e42feab1eece864c8b1bfb8d2c11066c1c32b35c791a31aea4400dcf80ab6e579e4ddea6"
+      },
+      "3_5_4forge": {
+        "name": "do_a_barrel_roll-forge-3.5.4+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jxec8n0p/do_a_barrel_roll-forge-3.5.4%2B1.20.1.jar",
+        "sha512": "b80a7bf08a708fcade8f0baf1fc998939172fb89f9f48b1fb3d238083f4315d60902c5ad9ef1ddbcde1ca98835e90a96b3fc372776ba6f81ca88b7f648ce79a2"
+      },
+      "3_5_3forge": {
+        "name": "do_a_barrel_roll-forge-3.5.3+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VFrYSyNB/do_a_barrel_roll-forge-3.5.3%2B1.20.1.jar",
+        "sha512": "106f9d134c14540b2fa13259b7e870a1e643c1434836ff6bd4ca631acf920af10ba6ef6bcd8fb1e0872914ff974f0afd1fa9e4327d3ee3044a9166c75d5e80aa"
+      },
+      "3_5_2forge": {
+        "name": "do_a_barrel_roll-forge-3.5.2+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5mn6dm6c/do_a_barrel_roll-forge-3.5.2%2B1.20.1.jar",
+        "sha512": "04bea3228735b7cedc57e45643f73df0aa8f4cc6bd444a92e684d681ea33b6f7b5bbf8f97b4d729d7f9e707e1370dfeffd7051b8c3201757695cdf90d2f20159"
+      },
+      "3_5_1forge": {
+        "name": "do_a_barrel_roll-forge-3.5.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/yqGJz0MG/do_a_barrel_roll-forge-3.5.1%2B1.20.1.jar",
+        "sha512": "71a0c712bfea1baa4d43c7036b02f53cbfc547fb6c6e19bc4b21036b57a3819b913c4746fef81142123e07bac52d22d00410ff015aa7d6dca720cda35b748286"
+      },
+      "3_5_0forge": {
+        "name": "do_a_barrel_roll-forge-3.5.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jB6dU7ir/do_a_barrel_roll-forge-3.5.0%2B1.20.1.jar",
+        "sha512": "501d886d9f3700b6795a4d23e64f490f1cbf8e10b75329542a96195791dd1c0add741e56b2e485caa9fd7d2a53e4d1da59f1fa039f5b1c86f5241569a4df8c9c"
+      },
+      "3_4_0forge": {
+        "name": "do_a_barrel_roll-forge-3.4.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Rboy7btV/do_a_barrel_roll-forge-3.4.0%2B1.20.1.jar",
+        "sha512": "8f87903f027e52f3eb3f33ba9a6c7f0b39111c5e3d50d5c88be5ed007e1875499d9f541cb4c78d1c330a1de025b1d1f37f4bb3bfc54da07519aceca78f4d41ca"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_6_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_5_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.5.5+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oLVOsTht/do_a_barrel_roll-forge-3.5.5%2B1.20.1.jar",
+        "sha512": "661560d3c606c68c93de9f8ea94ff2b3760d5dfca4acb77d5c4d11d3e42feab1eece864c8b1bfb8d2c11066c1c32b35c791a31aea4400dcf80ab6e579e4ddea6"
+      },
+      "3_5_4_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.5.4+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jxec8n0p/do_a_barrel_roll-forge-3.5.4%2B1.20.1.jar",
+        "sha512": "b80a7bf08a708fcade8f0baf1fc998939172fb89f9f48b1fb3d238083f4315d60902c5ad9ef1ddbcde1ca98835e90a96b3fc372776ba6f81ca88b7f648ce79a2"
+      },
+      "3_5_3_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.5.3+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VFrYSyNB/do_a_barrel_roll-forge-3.5.3%2B1.20.1.jar",
+        "sha512": "106f9d134c14540b2fa13259b7e870a1e643c1434836ff6bd4ca631acf920af10ba6ef6bcd8fb1e0872914ff974f0afd1fa9e4327d3ee3044a9166c75d5e80aa"
+      },
+      "3_5_2_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.5.2+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5mn6dm6c/do_a_barrel_roll-forge-3.5.2%2B1.20.1.jar",
+        "sha512": "04bea3228735b7cedc57e45643f73df0aa8f4cc6bd444a92e684d681ea33b6f7b5bbf8f97b4d729d7f9e707e1370dfeffd7051b8c3201757695cdf90d2f20159"
+      },
+      "3_5_1_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.5.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/yqGJz0MG/do_a_barrel_roll-forge-3.5.1%2B1.20.1.jar",
+        "sha512": "71a0c712bfea1baa4d43c7036b02f53cbfc547fb6c6e19bc4b21036b57a3819b913c4746fef81142123e07bac52d22d00410ff015aa7d6dca720cda35b748286"
+      },
+      "3_5_0_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.5.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jB6dU7ir/do_a_barrel_roll-forge-3.5.0%2B1.20.1.jar",
+        "sha512": "501d886d9f3700b6795a4d23e64f490f1cbf8e10b75329542a96195791dd1c0add741e56b2e485caa9fd7d2a53e4d1da59f1fa039f5b1c86f5241569a4df8c9c"
+      },
+      "3_4_0_1-forge": {
+        "name": "do_a_barrel_roll-forge-3.4.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Rboy7btV/do_a_barrel_roll-forge-3.4.0%2B1.20.1.jar",
+        "sha512": "8f87903f027e52f3eb3f33ba9a6c7f0b39111c5e3d50d5c88be5ed007e1875499d9f541cb4c78d1c330a1de025b1d1f37f4bb3bfc54da07519aceca78f4d41ca"
+      }
     }
   },
   "forge": {
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Rboy7btV/do_a_barrel_roll-forge-3.4.0%2B1.20.1.jar",
-      "sha512": "8f87903f027e52f3eb3f33ba9a6c7f0b39111c5e3d50d5c88be5ed007e1875499d9f541cb4c78d1c330a1de025b1d1f37f4bb3bfc54da07519aceca78f4d41ca",
-      "name": "do_a_barrel_roll-forge-3.4.0+1.20.1.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_6": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_5": {
+        "name": "do_a_barrel_roll-forge-3.5.5+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oLVOsTht/do_a_barrel_roll-forge-3.5.5%2B1.20.1.jar",
+        "sha512": "661560d3c606c68c93de9f8ea94ff2b3760d5dfca4acb77d5c4d11d3e42feab1eece864c8b1bfb8d2c11066c1c32b35c791a31aea4400dcf80ab6e579e4ddea6"
+      },
+      "3_5_4": {
+        "name": "do_a_barrel_roll-forge-3.5.4+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jxec8n0p/do_a_barrel_roll-forge-3.5.4%2B1.20.1.jar",
+        "sha512": "b80a7bf08a708fcade8f0baf1fc998939172fb89f9f48b1fb3d238083f4315d60902c5ad9ef1ddbcde1ca98835e90a96b3fc372776ba6f81ca88b7f648ce79a2"
+      },
+      "3_5_3": {
+        "name": "do_a_barrel_roll-forge-3.5.3+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VFrYSyNB/do_a_barrel_roll-forge-3.5.3%2B1.20.1.jar",
+        "sha512": "106f9d134c14540b2fa13259b7e870a1e643c1434836ff6bd4ca631acf920af10ba6ef6bcd8fb1e0872914ff974f0afd1fa9e4327d3ee3044a9166c75d5e80aa"
+      },
+      "3_5_2": {
+        "name": "do_a_barrel_roll-forge-3.5.2+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5mn6dm6c/do_a_barrel_roll-forge-3.5.2%2B1.20.1.jar",
+        "sha512": "04bea3228735b7cedc57e45643f73df0aa8f4cc6bd444a92e684d681ea33b6f7b5bbf8f97b4d729d7f9e707e1370dfeffd7051b8c3201757695cdf90d2f20159"
+      },
+      "3_5_1": {
+        "name": "do_a_barrel_roll-forge-3.5.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/yqGJz0MG/do_a_barrel_roll-forge-3.5.1%2B1.20.1.jar",
+        "sha512": "71a0c712bfea1baa4d43c7036b02f53cbfc547fb6c6e19bc4b21036b57a3819b913c4746fef81142123e07bac52d22d00410ff015aa7d6dca720cda35b748286"
+      },
+      "3_5_0": {
+        "name": "do_a_barrel_roll-forge-3.5.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jB6dU7ir/do_a_barrel_roll-forge-3.5.0%2B1.20.1.jar",
+        "sha512": "501d886d9f3700b6795a4d23e64f490f1cbf8e10b75329542a96195791dd1c0add741e56b2e485caa9fd7d2a53e4d1da59f1fa039f5b1c86f5241569a4df8c9c"
+      },
+      "3_4_0": {
+        "name": "do_a_barrel_roll-forge-3.4.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Rboy7btV/do_a_barrel_roll-forge-3.4.0%2B1.20.1.jar",
+        "sha512": "8f87903f027e52f3eb3f33ba9a6c7f0b39111c5e3d50d5c88be5ed007e1875499d9f541cb4c78d1c330a1de025b1d1f37f4bb3bfc54da07519aceca78f4d41ca"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Rboy7btV/do_a_barrel_roll-forge-3.4.0%2B1.20.1.jar",
-      "sha512": "8f87903f027e52f3eb3f33ba9a6c7f0b39111c5e3d50d5c88be5ed007e1875499d9f541cb4c78d1c330a1de025b1d1f37f4bb3bfc54da07519aceca78f4d41ca",
-      "name": "do_a_barrel_roll-forge-3.4.0+1.20.1.jar"
+    "1_20": {
+      "latest": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_6_1": {
+        "name": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VH8QpKA5/do_a_barrel_roll-forge-3.5.6%2B1.20.1.jar",
+        "sha512": "f07294a0e43826c400d10fe52b6d3a5f58ba9c51eecd464f30957faae875d397a8fbfdd8b6e58989fc7ebfbb59f84b283eb7a83bebc906777d1a2b65336deec4"
+      },
+      "3_5_5_1": {
+        "name": "do_a_barrel_roll-forge-3.5.5+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oLVOsTht/do_a_barrel_roll-forge-3.5.5%2B1.20.1.jar",
+        "sha512": "661560d3c606c68c93de9f8ea94ff2b3760d5dfca4acb77d5c4d11d3e42feab1eece864c8b1bfb8d2c11066c1c32b35c791a31aea4400dcf80ab6e579e4ddea6"
+      },
+      "3_5_4_1": {
+        "name": "do_a_barrel_roll-forge-3.5.4+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jxec8n0p/do_a_barrel_roll-forge-3.5.4%2B1.20.1.jar",
+        "sha512": "b80a7bf08a708fcade8f0baf1fc998939172fb89f9f48b1fb3d238083f4315d60902c5ad9ef1ddbcde1ca98835e90a96b3fc372776ba6f81ca88b7f648ce79a2"
+      },
+      "3_5_3_1": {
+        "name": "do_a_barrel_roll-forge-3.5.3+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VFrYSyNB/do_a_barrel_roll-forge-3.5.3%2B1.20.1.jar",
+        "sha512": "106f9d134c14540b2fa13259b7e870a1e643c1434836ff6bd4ca631acf920af10ba6ef6bcd8fb1e0872914ff974f0afd1fa9e4327d3ee3044a9166c75d5e80aa"
+      },
+      "3_5_2_1": {
+        "name": "do_a_barrel_roll-forge-3.5.2+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5mn6dm6c/do_a_barrel_roll-forge-3.5.2%2B1.20.1.jar",
+        "sha512": "04bea3228735b7cedc57e45643f73df0aa8f4cc6bd444a92e684d681ea33b6f7b5bbf8f97b4d729d7f9e707e1370dfeffd7051b8c3201757695cdf90d2f20159"
+      },
+      "3_5_1_1": {
+        "name": "do_a_barrel_roll-forge-3.5.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/yqGJz0MG/do_a_barrel_roll-forge-3.5.1%2B1.20.1.jar",
+        "sha512": "71a0c712bfea1baa4d43c7036b02f53cbfc547fb6c6e19bc4b21036b57a3819b913c4746fef81142123e07bac52d22d00410ff015aa7d6dca720cda35b748286"
+      },
+      "3_5_0_1": {
+        "name": "do_a_barrel_roll-forge-3.5.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jB6dU7ir/do_a_barrel_roll-forge-3.5.0%2B1.20.1.jar",
+        "sha512": "501d886d9f3700b6795a4d23e64f490f1cbf8e10b75329542a96195791dd1c0add741e56b2e485caa9fd7d2a53e4d1da59f1fa039f5b1c86f5241569a4df8c9c"
+      },
+      "3_4_0_1": {
+        "name": "do_a_barrel_roll-forge-3.4.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Rboy7btV/do_a_barrel_roll-forge-3.4.0%2B1.20.1.jar",
+        "sha512": "8f87903f027e52f3eb3f33ba9a6c7f0b39111c5e3d50d5c88be5ed007e1875499d9f541cb4c78d1c330a1de025b1d1f37f4bb3bfc54da07519aceca78f4d41ca"
+      }
     },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/fkl7bxl7/do-a-barrel-roll-2.7.0%2B1.19.4-forge.jar",
-      "sha512": "aa9a2d9bdbc52414f2f64b7837c3c27900ad60336f84beb0ff8dc2b6d69890e85cb68580c0c8c9fdabfaaa840a369879fdcd296ac160a68e6f3fef96274e96c3",
-      "name": "do-a-barrel-roll-2.7.0+1.19.4-forge.jar"
+    "1_19_4": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.7.4+1.19.4-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/uNVp4YAh/do-a-barrel-roll-2.7.4%2B1.19.4-forge.jar",
+        "sha512": "4adde880861c6b9a2103fd834c6ce9d7b0beefb9aa8fdfd1dccbc844230b9a47709beb2235d2101e2a6d91d1d5de953126f95c3c1bf3e056c4c127d7a4b8d2fe"
+      },
+      "2_7_4": {
+        "name": "do-a-barrel-roll-2.7.4+1.19.4-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/uNVp4YAh/do-a-barrel-roll-2.7.4%2B1.19.4-forge.jar",
+        "sha512": "4adde880861c6b9a2103fd834c6ce9d7b0beefb9aa8fdfd1dccbc844230b9a47709beb2235d2101e2a6d91d1d5de953126f95c3c1bf3e056c4c127d7a4b8d2fe"
+      },
+      "2_7_3": {
+        "name": "do-a-barrel-roll-2.7.3+1.19.4-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/rIfOMh9m/do-a-barrel-roll-2.7.3%2B1.19.4-forge.jar",
+        "sha512": "92415369d93d568ff9f2678553f6eb28b31c2604342483fe78d8b1bdf9f8229c2f194a954011e023dc3fd79439462c8d4eb9febd2bc26f26866071fca881ee9a"
+      },
+      "2_7_2": {
+        "name": "do-a-barrel-roll-2.7.2+1.19.4-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/CNM3smnf/do-a-barrel-roll-2.7.2%2B1.19.4-forge.jar",
+        "sha512": "304bea4881abcd4178156bede69620e5285a53d13ce553c80896196b1b95b8ec822fe4984be8d2595fd74af684c2611be7e93ccfaf189f2ae18ac115e1e7ce38"
+      },
+      "2_7_1": {
+        "name": "do-a-barrel-roll-2.7.1+1.19.4-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/HsKAadOS/do-a-barrel-roll-2.7.1%2B1.19.4-forge.jar",
+        "sha512": "2e87b22980f533e1ed8ef4210aeee504bd225281b50b1558345abccf72ac8d1a562269818e704a911e7fcbb174e714de30544f1eee08e8475b0bda17c694e0fb"
+      },
+      "2_7_0": {
+        "name": "do-a-barrel-roll-2.7.0+1.19.4-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/fkl7bxl7/do-a-barrel-roll-2.7.0%2B1.19.4-forge.jar",
+        "sha512": "aa9a2d9bdbc52414f2f64b7837c3c27900ad60336f84beb0ff8dc2b6d69890e85cb68580c0c8c9fdabfaaa840a369879fdcd296ac160a68e6f3fef96274e96c3"
+      }
     },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XjYxU38d/do-a-barrel-roll-2.4.0%2B1.19.3-forge.jar",
-      "sha512": "78f7b6f9bf891af56eba1a277a9f8d025f0dbd59962d3de86e13c28ee596ab2fe82140550535f71b3b0657d4ac4c76c66463043b79f645cfc54cd8d061c238e3",
-      "name": "do-a-barrel-roll-2.4.0+1.19.3-forge.jar"
+    "1_19_3": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/BbZhZNIX/do-a-barrel-roll-2.6.2%2B1.19.3-forge.jar",
+        "sha512": "5a65d61baa29112462d3698692275a34fddd081302c21ffae4381e23b03795478e83be43f71649ac76f77e2ba802d4b439fd585bb7288a74ea1f396f697d32e1"
+      },
+      "2_6_2": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/BbZhZNIX/do-a-barrel-roll-2.6.2%2B1.19.3-forge.jar",
+        "sha512": "5a65d61baa29112462d3698692275a34fddd081302c21ffae4381e23b03795478e83be43f71649ac76f77e2ba802d4b439fd585bb7288a74ea1f396f697d32e1"
+      },
+      "2_6_1": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/50i0VClG/do-a-barrel-roll-2.6.1%2B1.19.3-forge.jar",
+        "sha512": "814b2116680f9075c70da7974b2833005e504310f85c81bb56766bf417ef53c1b48e163a9b11e51c7ed3f1ef3b457a2c86b5733ee9622b7c44b0b5e554401ce0"
+      },
+      "2_6_0": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/qYn0YE9S/do-a-barrel-roll-2.6.0%2B1.19.3-forge.jar",
+        "sha512": "83357afaf9e3b11289de266dc79202e09df1b9d6804ab168ea174388830376faa6f7f74ed553b9a10f1997ad722dafb2652cf22b6c81e0f10626ba156c02b69e"
+      },
+      "2_5_3": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QXFEoWz0/do-a-barrel-roll-2.5.3%2B1.19.3-forge.jar",
+        "sha512": "6a2bd7b459146ba84a88d8509db148349737f2556a74b5431672c70df45f5467d04a58357a72caeeb29da106ceb035ffcad4c5ef46aa59bdef82b1e542239cd5"
+      },
+      "2_5_2": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/E6Rqbi6I/do-a-barrel-roll-2.5.2%2B1.19.3-forge.jar",
+        "sha512": "0d255ea69a6505dd5650497c10e13c492da20eeebc08c9b14e1f8136e828ca59d0dc332af0d8fca4f5e5763c7176b84160647378167f2a2d5c206aed703df29c"
+      },
+      "2_5_1": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/piNWn5F8/do-a-barrel-roll-2.5.1%2B1.19.3-forge.jar",
+        "sha512": "d3a75bf177cf14355fc0148bb6fe5e93aa0f374a78531877c280654ccbcb8638c9e604fd0f041939ca17096e547afe9934cb0ce50a1bc3a5c374b8ed0000b1e1"
+      },
+      "2_5_0": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oPsCVHAx/do-a-barrel-roll-2.5.0%2B1.19.3-forge.jar",
+        "sha512": "4248b8405e4163f4de751f22ad9cbcaa34e64296f87ae2efde64c72b5a5fe5e7cac406e31405f6ef63b5b4c38f1d6275e067429618f9cd0f6c7d026e2e20843f"
+      },
+      "2_4_0": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XjYxU38d/do-a-barrel-roll-2.4.0%2B1.19.3-forge.jar",
+        "sha512": "78f7b6f9bf891af56eba1a277a9f8d025f0dbd59962d3de86e13c28ee596ab2fe82140550535f71b3b0657d4ac4c76c66463043b79f645cfc54cd8d061c238e3"
+      }
     },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KigHzrzN/do-a-barrel-roll-2.0.0%2B1.19.2-forge.jar",
-      "sha512": "e4f5eb0aa118cca3e2d96853333868c0b91e5682ccb8e1227b4e78d989d9daaa2a0643772e7f0c671ca6363ffe2b94b444ff3d56fbc49442bbb35f3c04ec5903",
-      "name": "do-a-barrel-roll-2.0.0+1.19.2-forge.jar"
+    "1_19_2": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nybnGUJv/do-a-barrel-roll-2.6.2%2B1.19.2-forge.jar",
+        "sha512": "8a9b09ba2bc2448b6cc7928597cec407968ae9736ea64dece2770587c2dd2293d4825ba4a4472e484c32ee58c21c5657595e5f360d380e91fd0b9e25410a4a18"
+      },
+      "2_6_2+1_19": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nybnGUJv/do-a-barrel-roll-2.6.2%2B1.19.2-forge.jar",
+        "sha512": "8a9b09ba2bc2448b6cc7928597cec407968ae9736ea64dece2770587c2dd2293d4825ba4a4472e484c32ee58c21c5657595e5f360d380e91fd0b9e25410a4a18"
+      },
+      "2_6_1+1_19": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9oeV1gFl/do-a-barrel-roll-2.6.1%2B1.19.2-forge.jar",
+        "sha512": "fa8b40b8c6eac0d42c1ce9d23e49ab99c0f2afd48ac1d12c34c81bfed012701276cd31f458336b78ad7a4b5e1e5b4134915a9689a233cdaee3daf697ea9e08af"
+      },
+      "2_6_0+1_19": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Tw7IzpBC/do-a-barrel-roll-2.6.0%2B1.19.2-forge.jar",
+        "sha512": "53b4b20d6026cafc5c87b79d64e9fd71eb2d04c2211d6c0e5f373253960e066b5774e2524bf9db32a8dd168fd52a61011b8becf1b91614db7863b17d10efbf7e"
+      },
+      "2_5_3+1_19": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/8Z6qjSak/do-a-barrel-roll-2.5.3%2B1.19.2-forge.jar",
+        "sha512": "91873ef825c5267914d69a178e61df06314dbd4d1cdc0f3d1e2d14cc06f09d275f5a0c15e194de231dcc559fb993b6d9de04a3d661cf76f0f8b7880c9143e7b9"
+      },
+      "2_5_2+1_19": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/D6DdoR3w/do-a-barrel-roll-2.5.2%2B1.19.2-forge.jar",
+        "sha512": "c3324a6a2777ccd82230927ce4d6974931abbe2c42d02f020083ff314bcb57d912f8705340cf735cd93495c7852906e571b98500f0f6b85e02e0df0a8e8e5280"
+      },
+      "2_5_1+1_19": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QKDc4J7Z/do-a-barrel-roll-2.5.1%2B1.19.2-forge.jar",
+        "sha512": "3bfd1b791bc1b292d5992937cb8e51e37f8b33eb9d68e47b459d87dc7a89087b89b2ec261dde452002ea69c001f34c1476db6093a567f60729e92cf9a0f359c9"
+      },
+      "2_5_0+1_19": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jhwKfxBc/do-a-barrel-roll-2.5.0%2B1.19.2-forge.jar",
+        "sha512": "dd2766760bac7016adc492dba2d1b5e67f91206940a37f129cbfb39cf862288d2fcdc7d6628ebea88105ea8b4580cb561f33250724891cd634f4eb4159835032"
+      },
+      "2_4_0+1_19": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pPjoi45i/do-a-barrel-roll-2.4.0%2B1.19.2-forge.jar",
+        "sha512": "781983e2da26210d96f9aa5176da98d47cfccf14411d5b29396b8ac4ad5ca15a7bcfa3578ac14738b4b8d2b128051fe1b14893376f339c7f192f4b263fc2d13c"
+      },
+      "2_3_4+1_19": {
+        "name": "do-a-barrel-roll-2.3.4+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jS3Nv7i1/do-a-barrel-roll-2.3.4%2B1.19.2-forge.jar",
+        "sha512": "03f4cd01ac8c52d78eca5321baf4b158609a541b76f019e7a97ac2b85936e2c04ae00167f36a5456d8cc4c2e8778d4f425595d72c3a8fa300edd818343204e76"
+      },
+      "2_3_3+1_19": {
+        "name": "do-a-barrel-roll-2.3.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/kLZwBJcX/do-a-barrel-roll-2.3.3%2B1.19.2-forge.jar",
+        "sha512": "6d4decd01bc70b6913d2942a58cbdc01c38b89a4c350cbbb1bbf1e4816d06ad9af4bb66d5a6a861616ac3edf8c8c5352f00c4f6ca53b74a4170abf6fcae6577c"
+      },
+      "2_3_2+1_19": {
+        "name": "do-a-barrel-roll-2.3.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/sGSmyzfS/do-a-barrel-roll-2.3.2%2B1.19.2-forge.jar",
+        "sha512": "91a790aef26bb55c3901d123cab3fcf4eb5beb01a8b939eb89ab5d49ae9b4b2190a67a5e396320f7c9d5f28d805cc7654b9faca643ab09064f3c460b33f8d263"
+      },
+      "2_3_1+1_19": {
+        "name": "do-a-barrel-roll-2.3.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/8jV0jGc4/do-a-barrel-roll-2.3.1%2B1.19.2-forge.jar",
+        "sha512": "c97601ebfa2e2c2cd35e1376494071640d4afdcc5023b5f9dae6f2ad0e906c0cdf4dd92ccd49ebdc8bd9a9f08c29b5d2699a57938ac8d55b0c36a0e22bbb8030"
+      },
+      "2_3_0+1_19": {
+        "name": "do-a-barrel-roll-2.3.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SMTZR2CA/do-a-barrel-roll-2.3.0%2B1.19.2-forge.jar",
+        "sha512": "2627ab2be8b2cc1fb4b6ed21dfe3c2382ccc541d716f6dd257ab6cb5c91adc8c526ed68201699f342aab09c62515eb4627e40791d8b2ff2f9291a2be5c9e05be"
+      },
+      "2_2_1+1_19": {
+        "name": "do-a-barrel-roll-2.2.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KnimXV6c/do-a-barrel-roll-2.2.1%2B1.19.2-forge.jar",
+        "sha512": "134db4f599c6d51c7648b7918c2ac00b8050736d991f85151e448a78d9c86438b37b75f29210d70cc70be453d56bfee056c92a9efb0472b0a00c721c4807b942"
+      },
+      "2_2_0+1_19": {
+        "name": "do-a-barrel-roll-2.2.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/qziJgmV7/do-a-barrel-roll-2.2.0%2B1.19.2-forge.jar",
+        "sha512": "77b37f57010dd0327fb22ddc21b483515b2016df5d727d640da23965b5cf268c81b7ebf99afe7253dc9d80691de314d84dd5443b4a6bf4732eb5d7d2022aec23"
+      },
+      "2_1_0+1_19": {
+        "name": "do-a-barrel-roll-2.1.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nrEBLBMS/do-a-barrel-roll-2.1.0%2B1.19.2-forge.jar",
+        "sha512": "fb437089260ce1be26a22a1258a1e98c65263316255ffb7a138b51791ca09db093ff23209fe23981e5bc18614e460b982fcbd840dbe192c9c807b09c4a701cb3"
+      },
+      "2_0_3+1_19": {
+        "name": "do-a-barrel-roll-2.0.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/bR8uktFD/do-a-barrel-roll-2.0.3%2B1.19.2-forge.jar",
+        "sha512": "58bf39b43b31db40934db9f67e9b9cd76fd7fc8ad91a1ff0efd5e37c4218df0d42ab445b8745c6f337dcd1642bba2de54c57098fa343b72c727c3215682acc9b"
+      },
+      "2_0_2+1_19": {
+        "name": "do-a-barrel-roll-2.0.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pSUyYuUs/do-a-barrel-roll-2.0.2%2B1.19.2-forge.jar",
+        "sha512": "526f05ab1234239a3d6a487ba17a2f84681d5c1379a5feb41e474cf6a8af00ddea0393c22b1ec81c98ea3574a7749391d0b045472ca790b19d5e38364e7eb83e"
+      },
+      "2_0_1+1_19": {
+        "name": "do-a-barrel-roll-2.0.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/efjOZLaq/do-a-barrel-roll-2.0.1%2B1.19.2-forge.jar",
+        "sha512": "dae705ffb9b0563c319d7236aca70d71f67ed59cebd5449a1ae6bddb3c551f1077ca4787b14ee0bc350648520600f888f8f00e88780575c458ec5405e261513e"
+      },
+      "2_0_0+1_19": {
+        "name": "do-a-barrel-roll-2.0.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KigHzrzN/do-a-barrel-roll-2.0.0%2B1.19.2-forge.jar",
+        "sha512": "e4f5eb0aa118cca3e2d96853333868c0b91e5682ccb8e1227b4e78d989d9daaa2a0643772e7f0c671ca6363ffe2b94b444ff3d56fbc49442bbb35f3c04ec5903"
+      }
     },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KigHzrzN/do-a-barrel-roll-2.0.0%2B1.19.2-forge.jar",
-      "sha512": "e4f5eb0aa118cca3e2d96853333868c0b91e5682ccb8e1227b4e78d989d9daaa2a0643772e7f0c671ca6363ffe2b94b444ff3d56fbc49442bbb35f3c04ec5903",
-      "name": "do-a-barrel-roll-2.0.0+1.19.2-forge.jar"
+    "1_19_1": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nybnGUJv/do-a-barrel-roll-2.6.2%2B1.19.2-forge.jar",
+        "sha512": "8a9b09ba2bc2448b6cc7928597cec407968ae9736ea64dece2770587c2dd2293d4825ba4a4472e484c32ee58c21c5657595e5f360d380e91fd0b9e25410a4a18"
+      },
+      "2_6_2+1_19": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nybnGUJv/do-a-barrel-roll-2.6.2%2B1.19.2-forge.jar",
+        "sha512": "8a9b09ba2bc2448b6cc7928597cec407968ae9736ea64dece2770587c2dd2293d4825ba4a4472e484c32ee58c21c5657595e5f360d380e91fd0b9e25410a4a18"
+      },
+      "2_6_1+1_19": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9oeV1gFl/do-a-barrel-roll-2.6.1%2B1.19.2-forge.jar",
+        "sha512": "fa8b40b8c6eac0d42c1ce9d23e49ab99c0f2afd48ac1d12c34c81bfed012701276cd31f458336b78ad7a4b5e1e5b4134915a9689a233cdaee3daf697ea9e08af"
+      },
+      "2_6_0+1_19": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Tw7IzpBC/do-a-barrel-roll-2.6.0%2B1.19.2-forge.jar",
+        "sha512": "53b4b20d6026cafc5c87b79d64e9fd71eb2d04c2211d6c0e5f373253960e066b5774e2524bf9db32a8dd168fd52a61011b8becf1b91614db7863b17d10efbf7e"
+      },
+      "2_5_3+1_19": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/8Z6qjSak/do-a-barrel-roll-2.5.3%2B1.19.2-forge.jar",
+        "sha512": "91873ef825c5267914d69a178e61df06314dbd4d1cdc0f3d1e2d14cc06f09d275f5a0c15e194de231dcc559fb993b6d9de04a3d661cf76f0f8b7880c9143e7b9"
+      },
+      "2_5_2+1_19": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/D6DdoR3w/do-a-barrel-roll-2.5.2%2B1.19.2-forge.jar",
+        "sha512": "c3324a6a2777ccd82230927ce4d6974931abbe2c42d02f020083ff314bcb57d912f8705340cf735cd93495c7852906e571b98500f0f6b85e02e0df0a8e8e5280"
+      },
+      "2_5_1+1_19": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QKDc4J7Z/do-a-barrel-roll-2.5.1%2B1.19.2-forge.jar",
+        "sha512": "3bfd1b791bc1b292d5992937cb8e51e37f8b33eb9d68e47b459d87dc7a89087b89b2ec261dde452002ea69c001f34c1476db6093a567f60729e92cf9a0f359c9"
+      },
+      "2_5_0+1_19": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jhwKfxBc/do-a-barrel-roll-2.5.0%2B1.19.2-forge.jar",
+        "sha512": "dd2766760bac7016adc492dba2d1b5e67f91206940a37f129cbfb39cf862288d2fcdc7d6628ebea88105ea8b4580cb561f33250724891cd634f4eb4159835032"
+      },
+      "2_4_0+1_19": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pPjoi45i/do-a-barrel-roll-2.4.0%2B1.19.2-forge.jar",
+        "sha512": "781983e2da26210d96f9aa5176da98d47cfccf14411d5b29396b8ac4ad5ca15a7bcfa3578ac14738b4b8d2b128051fe1b14893376f339c7f192f4b263fc2d13c"
+      },
+      "2_3_4+1_19": {
+        "name": "do-a-barrel-roll-2.3.4+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jS3Nv7i1/do-a-barrel-roll-2.3.4%2B1.19.2-forge.jar",
+        "sha512": "03f4cd01ac8c52d78eca5321baf4b158609a541b76f019e7a97ac2b85936e2c04ae00167f36a5456d8cc4c2e8778d4f425595d72c3a8fa300edd818343204e76"
+      },
+      "2_3_3+1_19": {
+        "name": "do-a-barrel-roll-2.3.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/kLZwBJcX/do-a-barrel-roll-2.3.3%2B1.19.2-forge.jar",
+        "sha512": "6d4decd01bc70b6913d2942a58cbdc01c38b89a4c350cbbb1bbf1e4816d06ad9af4bb66d5a6a861616ac3edf8c8c5352f00c4f6ca53b74a4170abf6fcae6577c"
+      },
+      "2_3_2+1_19": {
+        "name": "do-a-barrel-roll-2.3.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/sGSmyzfS/do-a-barrel-roll-2.3.2%2B1.19.2-forge.jar",
+        "sha512": "91a790aef26bb55c3901d123cab3fcf4eb5beb01a8b939eb89ab5d49ae9b4b2190a67a5e396320f7c9d5f28d805cc7654b9faca643ab09064f3c460b33f8d263"
+      },
+      "2_3_1+1_19": {
+        "name": "do-a-barrel-roll-2.3.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/8jV0jGc4/do-a-barrel-roll-2.3.1%2B1.19.2-forge.jar",
+        "sha512": "c97601ebfa2e2c2cd35e1376494071640d4afdcc5023b5f9dae6f2ad0e906c0cdf4dd92ccd49ebdc8bd9a9f08c29b5d2699a57938ac8d55b0c36a0e22bbb8030"
+      },
+      "2_3_0+1_19": {
+        "name": "do-a-barrel-roll-2.3.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SMTZR2CA/do-a-barrel-roll-2.3.0%2B1.19.2-forge.jar",
+        "sha512": "2627ab2be8b2cc1fb4b6ed21dfe3c2382ccc541d716f6dd257ab6cb5c91adc8c526ed68201699f342aab09c62515eb4627e40791d8b2ff2f9291a2be5c9e05be"
+      },
+      "2_2_1+1_19": {
+        "name": "do-a-barrel-roll-2.2.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KnimXV6c/do-a-barrel-roll-2.2.1%2B1.19.2-forge.jar",
+        "sha512": "134db4f599c6d51c7648b7918c2ac00b8050736d991f85151e448a78d9c86438b37b75f29210d70cc70be453d56bfee056c92a9efb0472b0a00c721c4807b942"
+      },
+      "2_2_0+1_19": {
+        "name": "do-a-barrel-roll-2.2.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/qziJgmV7/do-a-barrel-roll-2.2.0%2B1.19.2-forge.jar",
+        "sha512": "77b37f57010dd0327fb22ddc21b483515b2016df5d727d640da23965b5cf268c81b7ebf99afe7253dc9d80691de314d84dd5443b4a6bf4732eb5d7d2022aec23"
+      },
+      "2_1_0+1_19": {
+        "name": "do-a-barrel-roll-2.1.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nrEBLBMS/do-a-barrel-roll-2.1.0%2B1.19.2-forge.jar",
+        "sha512": "fb437089260ce1be26a22a1258a1e98c65263316255ffb7a138b51791ca09db093ff23209fe23981e5bc18614e460b982fcbd840dbe192c9c807b09c4a701cb3"
+      },
+      "2_0_3+1_19": {
+        "name": "do-a-barrel-roll-2.0.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/bR8uktFD/do-a-barrel-roll-2.0.3%2B1.19.2-forge.jar",
+        "sha512": "58bf39b43b31db40934db9f67e9b9cd76fd7fc8ad91a1ff0efd5e37c4218df0d42ab445b8745c6f337dcd1642bba2de54c57098fa343b72c727c3215682acc9b"
+      },
+      "2_0_2+1_19": {
+        "name": "do-a-barrel-roll-2.0.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pSUyYuUs/do-a-barrel-roll-2.0.2%2B1.19.2-forge.jar",
+        "sha512": "526f05ab1234239a3d6a487ba17a2f84681d5c1379a5feb41e474cf6a8af00ddea0393c22b1ec81c98ea3574a7749391d0b045472ca790b19d5e38364e7eb83e"
+      },
+      "2_0_1+1_19": {
+        "name": "do-a-barrel-roll-2.0.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/efjOZLaq/do-a-barrel-roll-2.0.1%2B1.19.2-forge.jar",
+        "sha512": "dae705ffb9b0563c319d7236aca70d71f67ed59cebd5449a1ae6bddb3c551f1077ca4787b14ee0bc350648520600f888f8f00e88780575c458ec5405e261513e"
+      },
+      "2_0_0+1_19": {
+        "name": "do-a-barrel-roll-2.0.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KigHzrzN/do-a-barrel-roll-2.0.0%2B1.19.2-forge.jar",
+        "sha512": "e4f5eb0aa118cca3e2d96853333868c0b91e5682ccb8e1227b4e78d989d9daaa2a0643772e7f0c671ca6363ffe2b94b444ff3d56fbc49442bbb35f3c04ec5903"
+      }
     },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KigHzrzN/do-a-barrel-roll-2.0.0%2B1.19.2-forge.jar",
-      "sha512": "e4f5eb0aa118cca3e2d96853333868c0b91e5682ccb8e1227b4e78d989d9daaa2a0643772e7f0c671ca6363ffe2b94b444ff3d56fbc49442bbb35f3c04ec5903",
-      "name": "do-a-barrel-roll-2.0.0+1.19.2-forge.jar"
+    "1_19": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nybnGUJv/do-a-barrel-roll-2.6.2%2B1.19.2-forge.jar",
+        "sha512": "8a9b09ba2bc2448b6cc7928597cec407968ae9736ea64dece2770587c2dd2293d4825ba4a4472e484c32ee58c21c5657595e5f360d380e91fd0b9e25410a4a18"
+      },
+      "2_6_2": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nybnGUJv/do-a-barrel-roll-2.6.2%2B1.19.2-forge.jar",
+        "sha512": "8a9b09ba2bc2448b6cc7928597cec407968ae9736ea64dece2770587c2dd2293d4825ba4a4472e484c32ee58c21c5657595e5f360d380e91fd0b9e25410a4a18"
+      },
+      "2_6_1": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9oeV1gFl/do-a-barrel-roll-2.6.1%2B1.19.2-forge.jar",
+        "sha512": "fa8b40b8c6eac0d42c1ce9d23e49ab99c0f2afd48ac1d12c34c81bfed012701276cd31f458336b78ad7a4b5e1e5b4134915a9689a233cdaee3daf697ea9e08af"
+      },
+      "2_6_0": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Tw7IzpBC/do-a-barrel-roll-2.6.0%2B1.19.2-forge.jar",
+        "sha512": "53b4b20d6026cafc5c87b79d64e9fd71eb2d04c2211d6c0e5f373253960e066b5774e2524bf9db32a8dd168fd52a61011b8becf1b91614db7863b17d10efbf7e"
+      },
+      "2_5_3": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/8Z6qjSak/do-a-barrel-roll-2.5.3%2B1.19.2-forge.jar",
+        "sha512": "91873ef825c5267914d69a178e61df06314dbd4d1cdc0f3d1e2d14cc06f09d275f5a0c15e194de231dcc559fb993b6d9de04a3d661cf76f0f8b7880c9143e7b9"
+      },
+      "2_5_2": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/D6DdoR3w/do-a-barrel-roll-2.5.2%2B1.19.2-forge.jar",
+        "sha512": "c3324a6a2777ccd82230927ce4d6974931abbe2c42d02f020083ff314bcb57d912f8705340cf735cd93495c7852906e571b98500f0f6b85e02e0df0a8e8e5280"
+      },
+      "2_5_1": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QKDc4J7Z/do-a-barrel-roll-2.5.1%2B1.19.2-forge.jar",
+        "sha512": "3bfd1b791bc1b292d5992937cb8e51e37f8b33eb9d68e47b459d87dc7a89087b89b2ec261dde452002ea69c001f34c1476db6093a567f60729e92cf9a0f359c9"
+      },
+      "2_5_0": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jhwKfxBc/do-a-barrel-roll-2.5.0%2B1.19.2-forge.jar",
+        "sha512": "dd2766760bac7016adc492dba2d1b5e67f91206940a37f129cbfb39cf862288d2fcdc7d6628ebea88105ea8b4580cb561f33250724891cd634f4eb4159835032"
+      },
+      "2_4_0": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pPjoi45i/do-a-barrel-roll-2.4.0%2B1.19.2-forge.jar",
+        "sha512": "781983e2da26210d96f9aa5176da98d47cfccf14411d5b29396b8ac4ad5ca15a7bcfa3578ac14738b4b8d2b128051fe1b14893376f339c7f192f4b263fc2d13c"
+      },
+      "2_3_4": {
+        "name": "do-a-barrel-roll-2.3.4+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jS3Nv7i1/do-a-barrel-roll-2.3.4%2B1.19.2-forge.jar",
+        "sha512": "03f4cd01ac8c52d78eca5321baf4b158609a541b76f019e7a97ac2b85936e2c04ae00167f36a5456d8cc4c2e8778d4f425595d72c3a8fa300edd818343204e76"
+      },
+      "2_3_3": {
+        "name": "do-a-barrel-roll-2.3.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/kLZwBJcX/do-a-barrel-roll-2.3.3%2B1.19.2-forge.jar",
+        "sha512": "6d4decd01bc70b6913d2942a58cbdc01c38b89a4c350cbbb1bbf1e4816d06ad9af4bb66d5a6a861616ac3edf8c8c5352f00c4f6ca53b74a4170abf6fcae6577c"
+      },
+      "2_3_2": {
+        "name": "do-a-barrel-roll-2.3.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/sGSmyzfS/do-a-barrel-roll-2.3.2%2B1.19.2-forge.jar",
+        "sha512": "91a790aef26bb55c3901d123cab3fcf4eb5beb01a8b939eb89ab5d49ae9b4b2190a67a5e396320f7c9d5f28d805cc7654b9faca643ab09064f3c460b33f8d263"
+      },
+      "2_3_1": {
+        "name": "do-a-barrel-roll-2.3.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/8jV0jGc4/do-a-barrel-roll-2.3.1%2B1.19.2-forge.jar",
+        "sha512": "c97601ebfa2e2c2cd35e1376494071640d4afdcc5023b5f9dae6f2ad0e906c0cdf4dd92ccd49ebdc8bd9a9f08c29b5d2699a57938ac8d55b0c36a0e22bbb8030"
+      },
+      "2_3_0": {
+        "name": "do-a-barrel-roll-2.3.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SMTZR2CA/do-a-barrel-roll-2.3.0%2B1.19.2-forge.jar",
+        "sha512": "2627ab2be8b2cc1fb4b6ed21dfe3c2382ccc541d716f6dd257ab6cb5c91adc8c526ed68201699f342aab09c62515eb4627e40791d8b2ff2f9291a2be5c9e05be"
+      },
+      "2_2_1": {
+        "name": "do-a-barrel-roll-2.2.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KnimXV6c/do-a-barrel-roll-2.2.1%2B1.19.2-forge.jar",
+        "sha512": "134db4f599c6d51c7648b7918c2ac00b8050736d991f85151e448a78d9c86438b37b75f29210d70cc70be453d56bfee056c92a9efb0472b0a00c721c4807b942"
+      },
+      "2_2_0": {
+        "name": "do-a-barrel-roll-2.2.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/qziJgmV7/do-a-barrel-roll-2.2.0%2B1.19.2-forge.jar",
+        "sha512": "77b37f57010dd0327fb22ddc21b483515b2016df5d727d640da23965b5cf268c81b7ebf99afe7253dc9d80691de314d84dd5443b4a6bf4732eb5d7d2022aec23"
+      },
+      "2_1_0": {
+        "name": "do-a-barrel-roll-2.1.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nrEBLBMS/do-a-barrel-roll-2.1.0%2B1.19.2-forge.jar",
+        "sha512": "fb437089260ce1be26a22a1258a1e98c65263316255ffb7a138b51791ca09db093ff23209fe23981e5bc18614e460b982fcbd840dbe192c9c807b09c4a701cb3"
+      },
+      "2_0_3": {
+        "name": "do-a-barrel-roll-2.0.3+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/bR8uktFD/do-a-barrel-roll-2.0.3%2B1.19.2-forge.jar",
+        "sha512": "58bf39b43b31db40934db9f67e9b9cd76fd7fc8ad91a1ff0efd5e37c4218df0d42ab445b8745c6f337dcd1642bba2de54c57098fa343b72c727c3215682acc9b"
+      },
+      "2_0_2": {
+        "name": "do-a-barrel-roll-2.0.2+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pSUyYuUs/do-a-barrel-roll-2.0.2%2B1.19.2-forge.jar",
+        "sha512": "526f05ab1234239a3d6a487ba17a2f84681d5c1379a5feb41e474cf6a8af00ddea0393c22b1ec81c98ea3574a7749391d0b045472ca790b19d5e38364e7eb83e"
+      },
+      "2_0_1": {
+        "name": "do-a-barrel-roll-2.0.1+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/efjOZLaq/do-a-barrel-roll-2.0.1%2B1.19.2-forge.jar",
+        "sha512": "dae705ffb9b0563c319d7236aca70d71f67ed59cebd5449a1ae6bddb3c551f1077ca4787b14ee0bc350648520600f888f8f00e88780575c458ec5405e261513e"
+      },
+      "2_0_0": {
+        "name": "do-a-barrel-roll-2.0.0+1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KigHzrzN/do-a-barrel-roll-2.0.0%2B1.19.2-forge.jar",
+        "sha512": "e4f5eb0aa118cca3e2d96853333868c0b91e5682ccb8e1227b4e78d989d9daaa2a0643772e7f0c671ca6363ffe2b94b444ff3d56fbc49442bbb35f3c04ec5903"
+      }
     },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/wK9XqoTM/do-a-barrel-roll-2.0.0%2B1.18.2-forge.jar",
-      "sha512": "6c06fe3d948603ed8b4f16091af2f8a24e69bf9901c55ebc9d1a3cf06bf98cac3b9ea4a4011c37436c3b0b6a95382b41ef2bfb266caa352123a3f54a0ee4342b",
-      "name": "do-a-barrel-roll-2.0.0+1.18.2-forge.jar"
+    "1_18_2": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.5.3+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/HzO2s9YI/do-a-barrel-roll-2.5.3%2B1.18.2-forge.jar",
+        "sha512": "6f0f3a130f2a46ac3ded3be66a65a0b00798293279fc6001ffc7f82de51ca176a4889d799b200a73b449c98e8a5a2267a0dcd735b868645043e4db9bc02e6418"
+      },
+      "2_5_3": {
+        "name": "do-a-barrel-roll-2.5.3+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/HzO2s9YI/do-a-barrel-roll-2.5.3%2B1.18.2-forge.jar",
+        "sha512": "6f0f3a130f2a46ac3ded3be66a65a0b00798293279fc6001ffc7f82de51ca176a4889d799b200a73b449c98e8a5a2267a0dcd735b868645043e4db9bc02e6418"
+      },
+      "2_5_2": {
+        "name": "do-a-barrel-roll-2.5.2+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/nw0hSXru/do-a-barrel-roll-2.5.2%2B1.18.2-forge.jar",
+        "sha512": "c2b71728a48a5d7c622f8f8aa18839c2f0c291b0672c61a7fc8be49cf3b45505843362def073509aac625099c400b9cfc31868209f1ad1a392cd0dcf23c771e0"
+      },
+      "2_5_1": {
+        "name": "do-a-barrel-roll-2.5.1+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/6N2mSGPm/do-a-barrel-roll-2.5.1%2B1.18.2-forge.jar",
+        "sha512": "07be06649a4927d21358354dd570fd00ef32b9b0954191efaab6d36f708f6c588c739f2748e9b87815a7a441b79d24b0b7db11c29f0c7b74afe1eb138b8be7ea"
+      },
+      "2_5_0": {
+        "name": "do-a-barrel-roll-2.5.0+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/au3ce2ic/do-a-barrel-roll-2.5.0%2B1.18.2-forge.jar",
+        "sha512": "891143099dccc08df1830706c3247752015e054a25f8487d2caa164d1b3e0e9e24bfe38443dd755440837fa5940d6562af7ae3fe6483f80dfd9c4f0fb3cb3503"
+      },
+      "2_4_0": {
+        "name": "do-a-barrel-roll-2.4.0+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/sOAes0g5/do-a-barrel-roll-2.4.0%2B1.18.2-forge.jar",
+        "sha512": "f33972dc7df4625b7c85b75374445c5c090430d832a61794267e0db1410fbc1a74c4240836984a1769c54feb62b92493e9bb04f1c2aec208e7a6a93d269fe7dd"
+      },
+      "2_3_4": {
+        "name": "do-a-barrel-roll-2.3.4+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Pbsj8g4U/do-a-barrel-roll-2.3.4%2B1.18.2-forge.jar",
+        "sha512": "38fb66b87137f39866490cc57c3d7b18b79c84ef111f50562493c1dd50925046669a57a2646679c3ffa219a4dd8eef6ba838af4d28df8daca1f89eaccdb4c6a9"
+      },
+      "2_3_3": {
+        "name": "do-a-barrel-roll-2.3.3+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/rNLVNbXo/do-a-barrel-roll-2.3.3%2B1.18.2-forge.jar",
+        "sha512": "c391d0eb0e834944f83322c81f9172699f17b6097a12cf9b3da2e41bf447693a24a08c81686a2f08232c13d6732dd4c075239311c4cd004b6ad6cb70d224331c"
+      },
+      "2_3_2": {
+        "name": "do-a-barrel-roll-2.3.1+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xhkQ6rwl/do-a-barrel-roll-2.3.1%2B1.18.2-forge.jar",
+        "sha512": "8291ea0d65cb5e89cd69297087ae137fea0531225c837de600e13d3ef88d85f9f71178b405cf187852ec2355af301ba8af646d44ab23070e8f01460a8c9813d3"
+      },
+      "2_3_1": {
+        "name": "do-a-barrel-roll-2.3.1+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/udQpOG4e/do-a-barrel-roll-2.3.1%2B1.18.2-forge.jar",
+        "sha512": "32c829c4e24a50079c1c37f8afc01d1418828f4828df7a53b8f1e8779019c407a1d3a5bdadf0228c204a167b810568184386b1286ea9c45cd1386b008e53bff5"
+      },
+      "2_3_0": {
+        "name": "do-a-barrel-roll-2.3.0+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2nnTjpM4/do-a-barrel-roll-2.3.0%2B1.18.2-forge.jar",
+        "sha512": "eefe26101b90261128005b4de7f27bd5443732fd9b49b6078e5a839bcaa017cf5cf938c9c04319ea438b1bdd5a35328b35d649013b4d072da3a2fb3085481085"
+      },
+      "2_2_1": {
+        "name": "do-a-barrel-roll-2.2.1+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/NrmDUOJh/do-a-barrel-roll-2.2.1%2B1.18.2-forge.jar",
+        "sha512": "a544a874f497e2863d73050f09db5ad20836194e499f58c5ac2bfe3741a65fa5d155f91a140bf0e25c91b02c5d1fdc798d12b30fc7a8e5fbf10577b9d3062853"
+      },
+      "2_2_0": {
+        "name": "do-a-barrel-roll-2.2.0+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/ltHynVRp/do-a-barrel-roll-2.2.0%2B1.18.2-forge.jar",
+        "sha512": "fc01804b57bc483c010e956687b7e721ad6c5acedfe6d5ed570c25427b6cfeadbe3e3e53b442269804a69057891e7fdcb3ce92cb01824ab9958d52fadce4ef54"
+      },
+      "2_1_0": {
+        "name": "do-a-barrel-roll-2.1.0+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vzw5YS5Z/do-a-barrel-roll-2.1.0%2B1.18.2-forge.jar",
+        "sha512": "955854f154a026dd42d2600b5b0136effa1e2b6277ee1d52b6f0a0f62560cca8dc9f58d4b07872a0b3007559390e97a188c5db1338d4f44a54f4c435dd494a19"
+      },
+      "2_0_3": {
+        "name": "do-a-barrel-roll-2.0.3+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/A6VLpD97/do-a-barrel-roll-2.0.3%2B1.18.2-forge.jar",
+        "sha512": "afab8d8adf0168ca964fdf10951db55fa994b5a883425ea7b7b4af01b8d24762ba08b6a65737f869e5be6b4c72050d5b3f82f8e03c6bae6b96a59730ea48d5d9"
+      },
+      "2_0_2": {
+        "name": "do-a-barrel-roll-2.0.2+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2LAYV4Yy/do-a-barrel-roll-2.0.2%2B1.18.2-forge.jar",
+        "sha512": "e257ae9167099918741ba541cffb62be95805df7a1250a5f238a3337045ad8134795fb8dda5d796b7434e09e2d187ed7d67a0038003103490580bd9d26687284"
+      },
+      "2_0_1": {
+        "name": "do-a-barrel-roll-2.0.1+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/sx58gc3e/do-a-barrel-roll-2.0.1%2B1.18.2-forge.jar",
+        "sha512": "d0f8f7337cf4089ba08c0a22174f160e7b18cd6a2723c0e26340f0021971c0df9f540a6b3998ad3c5a48e4d939edba65ef096d5053930ba55ddf96a96e9bf622"
+      },
+      "2_0_0": {
+        "name": "do-a-barrel-roll-2.0.0+1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/wK9XqoTM/do-a-barrel-roll-2.0.0%2B1.18.2-forge.jar",
+        "sha512": "6c06fe3d948603ed8b4f16091af2f8a24e69bf9901c55ebc9d1a3cf06bf98cac3b9ea4a4011c37436c3b0b6a95382b41ef2bfb266caa352123a3f54a0ee4342b"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_10": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SSvdU922/do_a_barrel_roll-fabric-3.8.3%2B1.21.9.jar",
+        "sha512": "1f5a5bb535e413572fa7302f47609705cca0df4b2f96392178ba4b1d35a56154440305af66add4f7ca7d4bf67a2d54abdcc3d77ad53a7a2fdcfb2e4ea9bc5abf"
+      },
+      "3_8_3+1_21_9": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SSvdU922/do_a_barrel_roll-fabric-3.8.3%2B1.21.9.jar",
+        "sha512": "1f5a5bb535e413572fa7302f47609705cca0df4b2f96392178ba4b1d35a56154440305af66add4f7ca7d4bf67a2d54abdcc3d77ad53a7a2fdcfb2e4ea9bc5abf"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SSvdU922/do_a_barrel_roll-fabric-3.8.3%2B1.21.9.jar",
+        "sha512": "1f5a5bb535e413572fa7302f47609705cca0df4b2f96392178ba4b1d35a56154440305af66add4f7ca7d4bf67a2d54abdcc3d77ad53a7a2fdcfb2e4ea9bc5abf"
+      },
+      "3_8_3": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/SSvdU922/do_a_barrel_roll-fabric-3.8.3%2B1.21.9.jar",
+        "sha512": "1f5a5bb535e413572fa7302f47609705cca0df4b2f96392178ba4b1d35a56154440305af66add4f7ca7d4bf67a2d54abdcc3d77ad53a7a2fdcfb2e4ea9bc5abf"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/REB9EGpL/do_a_barrel_roll-fabric-3.8.3%2B1.21.6.jar",
+        "sha512": "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869762877ca263bcde14a5a3ebdbcaa6d6b27b27b3dd6823236ddb70791"
+      },
+      "3_8_3+1_21_6": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/REB9EGpL/do_a_barrel_roll-fabric-3.8.3%2B1.21.6.jar",
+        "sha512": "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869762877ca263bcde14a5a3ebdbcaa6d6b27b27b3dd6823236ddb70791"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/REB9EGpL/do_a_barrel_roll-fabric-3.8.3%2B1.21.6.jar",
+        "sha512": "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869762877ca263bcde14a5a3ebdbcaa6d6b27b27b3dd6823236ddb70791"
+      },
+      "3_8_3+1_21_6": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/REB9EGpL/do_a_barrel_roll-fabric-3.8.3%2B1.21.6.jar",
+        "sha512": "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869762877ca263bcde14a5a3ebdbcaa6d6b27b27b3dd6823236ddb70791"
+      },
+      "3_8_2+1_21_6": {
+        "name": "do_a_barrel_roll-fabric-3.8.2+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/7nUPwWUG/do_a_barrel_roll-fabric-3.8.2%2B1.21.6.jar",
+        "sha512": "0987105dcea3d36f477c277be7f2090454479137c50c4c2159da6862e438aeff07ae0e111844b66f60d9b9f796c79662a033a139a30e16b5030093ee9d852577"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/REB9EGpL/do_a_barrel_roll-fabric-3.8.3%2B1.21.6.jar",
+        "sha512": "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869762877ca263bcde14a5a3ebdbcaa6d6b27b27b3dd6823236ddb70791"
+      },
+      "3_8_3": {
+        "name": "do_a_barrel_roll-fabric-3.8.3+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/REB9EGpL/do_a_barrel_roll-fabric-3.8.3%2B1.21.6.jar",
+        "sha512": "c4477beab9e44c28b2265ad5ede6e2d56caf8ea18567d5a62b22848d427c93450baa6869762877ca263bcde14a5a3ebdbcaa6d6b27b27b3dd6823236ddb70791"
+      },
+      "3_8_2": {
+        "name": "do_a_barrel_roll-fabric-3.8.2+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/7nUPwWUG/do_a_barrel_roll-fabric-3.8.2%2B1.21.6.jar",
+        "sha512": "0987105dcea3d36f477c277be7f2090454479137c50c4c2159da6862e438aeff07ae0e111844b66f60d9b9f796c79662a033a139a30e16b5030093ee9d852577"
+      },
+      "3_8_1": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/IM6knaKg/do_a_barrel_roll-fabric-3.8.1%2B1.21.6.jar",
+        "sha512": "b4aeb81f9cbce7d9c8030a75db28ee01ed2864d2ca8565435ca2b3fcd25a3d4075c01c89eefdeca1a6adb3439db687d1d5dd2beebe87cc7ff7f3c267646ce963"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/V0e6gDT5/do_a_barrel_roll-fabric-3.8.1%2B1.21.5.jar",
+        "sha512": "47ef2e80b72ac566f54d6b35a90f166cdd360deabff9e93aa2a2fc9b31824b198efcf99d0d0a17a254455646bfb80b6422bc33a559a85a7721549d7ea760834d"
+      },
+      "3_8_1": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/V0e6gDT5/do_a_barrel_roll-fabric-3.8.1%2B1.21.5.jar",
+        "sha512": "47ef2e80b72ac566f54d6b35a90f166cdd360deabff9e93aa2a2fc9b31824b198efcf99d0d0a17a254455646bfb80b6422bc33a559a85a7721549d7ea760834d"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UitUD6VJ/do_a_barrel_roll-fabric-3.8.1%2B1.21.4.jar",
+        "sha512": "fcb659ed91a96c383eb06f9074f90ba1eef12b95c2a5696397f0c08305977a7185abad353233ffed7ec6287723e161533048fc731fd5770a661cd7603a6a0bbb"
+      },
+      "3_8_1": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UitUD6VJ/do_a_barrel_roll-fabric-3.8.1%2B1.21.4.jar",
+        "sha512": "fcb659ed91a96c383eb06f9074f90ba1eef12b95c2a5696397f0c08305977a7185abad353233ffed7ec6287723e161533048fc731fd5770a661cd7603a6a0bbb"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oadY9xkk/do_a_barrel_roll-fabric-3.8.1%2B1.21.2.jar",
+        "sha512": "e4e4b0de23f799d08abaabffe431f0df0b238acaab42c76da487f70478aa04a94ee52ab1b04ce904901517906627d692b6bf36aa2d517927ad44c7463f2c0779"
+      },
+      "3_8_1+1_21_2": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oadY9xkk/do_a_barrel_roll-fabric-3.8.1%2B1.21.2.jar",
+        "sha512": "e4e4b0de23f799d08abaabffe431f0df0b238acaab42c76da487f70478aa04a94ee52ab1b04ce904901517906627d692b6bf36aa2d517927ad44c7463f2c0779"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oadY9xkk/do_a_barrel_roll-fabric-3.8.1%2B1.21.2.jar",
+        "sha512": "e4e4b0de23f799d08abaabffe431f0df0b238acaab42c76da487f70478aa04a94ee52ab1b04ce904901517906627d692b6bf36aa2d517927ad44c7463f2c0779"
+      },
+      "3_8_1": {
+        "name": "do_a_barrel_roll-fabric-3.8.1+1.21.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oadY9xkk/do_a_barrel_roll-fabric-3.8.1%2B1.21.2.jar",
+        "sha512": "e4e4b0de23f799d08abaabffe431f0df0b238acaab42c76da487f70478aa04a94ee52ab1b04ce904901517906627d692b6bf36aa2d517927ad44c7463f2c0779"
+      },
+      "3_8_0": {
+        "name": "do_a_barrel_roll-fabric-3.8.0+1.21.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xMjXb8O3/do_a_barrel_roll-fabric-3.8.0%2B1.21.2.jar",
+        "sha512": "9bf6ab6195c946664ebe3ca934b5ccacfbefc7d2730a7e91e7045fdd46b36ee13063de2cf09166374593548a64845aacbc9be31322adc72123ba4f63ae50d598"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vBXl66wc/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
+        "sha512": "664cb4d13b9963f6574381ec6c4f1dcfe9245f2afdfafcd89a2f1c7708d46592fbe8f6aeca18f231eaacae27e4a5eca569619fd2a7690a536a176c1de82ddf9c"
+      },
+      "3_7_3+1_21": {
+        "name": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vBXl66wc/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
+        "sha512": "664cb4d13b9963f6574381ec6c4f1dcfe9245f2afdfafcd89a2f1c7708d46592fbe8f6aeca18f231eaacae27e4a5eca569619fd2a7690a536a176c1de82ddf9c"
+      },
+      "3_7_2+1_21": {
+        "name": "do_a_barrel_roll-fabric-3.7.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cjzbJxI2/do_a_barrel_roll-fabric-3.7.2%2B1.21.jar",
+        "sha512": "bdc410f467e79ac3d981c31b496cc25e3601afc55e0c1e6ffb5982ada91d66c7b8d811f80f1ca05a673e6a8ba63d7a236ba1c9eb5aa140ad681a3fa3ed955b80"
+      },
+      "3_7_1+1_21": {
+        "name": "do_a_barrel_roll-fabric-3.7.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/hwWjHEKD/do_a_barrel_roll-fabric-3.7.1%2B1.21.jar",
+        "sha512": "861b4faf1dcf9765690d799b5df9fb9b4e2aaf63a515b94592a512219e6780288a059af7c9ce3a6a85534d866f8b44915be35cd0213e49ad499c8e02385228f1"
+      },
+      "3_7_0+1_21": {
+        "name": "do_a_barrel_roll-fabric-3.7.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5jCmYvxp/do_a_barrel_roll-fabric-3.7.0%2B1.21.jar",
+        "sha512": "1d819b5a2613cffae5fd5a4dc431713b118f974d848289c614e59bca0b533176b1680d1c681f2bb4521f659b7f89e3be69d436d748a4abc00d6b6628862c2bde"
+      },
+      "3_6_2+1_21": {
+        "name": "do_a_barrel_roll-fabric-3.6.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/OjBr3egj/do_a_barrel_roll-fabric-3.6.2%2B1.21.jar",
+        "sha512": "21b824b59bdd18d075767ba9122b1bea7cd0edb21f10d136a7ebce37f15af865e0d20c9b22f0e70b88c6a016c0e63ccc4004c7763ce2a940409c43a4b5cdbff6"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vBXl66wc/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
+        "sha512": "664cb4d13b9963f6574381ec6c4f1dcfe9245f2afdfafcd89a2f1c7708d46592fbe8f6aeca18f231eaacae27e4a5eca569619fd2a7690a536a176c1de82ddf9c"
+      },
+      "3_7_3": {
+        "name": "do_a_barrel_roll-fabric-3.7.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vBXl66wc/do_a_barrel_roll-fabric-3.7.3%2B1.21.jar",
+        "sha512": "664cb4d13b9963f6574381ec6c4f1dcfe9245f2afdfafcd89a2f1c7708d46592fbe8f6aeca18f231eaacae27e4a5eca569619fd2a7690a536a176c1de82ddf9c"
+      },
+      "3_7_2": {
+        "name": "do_a_barrel_roll-fabric-3.7.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cjzbJxI2/do_a_barrel_roll-fabric-3.7.2%2B1.21.jar",
+        "sha512": "bdc410f467e79ac3d981c31b496cc25e3601afc55e0c1e6ffb5982ada91d66c7b8d811f80f1ca05a673e6a8ba63d7a236ba1c9eb5aa140ad681a3fa3ed955b80"
+      },
+      "3_7_1": {
+        "name": "do_a_barrel_roll-fabric-3.7.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/hwWjHEKD/do_a_barrel_roll-fabric-3.7.1%2B1.21.jar",
+        "sha512": "861b4faf1dcf9765690d799b5df9fb9b4e2aaf63a515b94592a512219e6780288a059af7c9ce3a6a85534d866f8b44915be35cd0213e49ad499c8e02385228f1"
+      },
+      "3_7_0": {
+        "name": "do_a_barrel_roll-fabric-3.7.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5jCmYvxp/do_a_barrel_roll-fabric-3.7.0%2B1.21.jar",
+        "sha512": "1d819b5a2613cffae5fd5a4dc431713b118f974d848289c614e59bca0b533176b1680d1c681f2bb4521f659b7f89e3be69d436d748a4abc00d6b6628862c2bde"
+      },
+      "3_6_2": {
+        "name": "do_a_barrel_roll-fabric-3.6.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/OjBr3egj/do_a_barrel_roll-fabric-3.6.2%2B1.21.jar",
+        "sha512": "21b824b59bdd18d075767ba9122b1bea7cd0edb21f10d136a7ebce37f15af865e0d20c9b22f0e70b88c6a016c0e63ccc4004c7763ce2a940409c43a4b5cdbff6"
+      },
+      "3_6_1": {
+        "name": "do_a_barrel_roll-fabric-3.6.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/CJFnOoi0/do_a_barrel_roll-fabric-3.6.1%2B1.21.jar",
+        "sha512": "cbd1a7384f7f5dbaf2f4096c66d15cb235793d2ea3b9ae276935f4f01afde27acf11222f8e44b91b642672f49848fee9eeae535c50994c8ec4eddfbd723f8f64"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VhftET6c/do_a_barrel_roll-fabric-3.6.0%2B1.20.6.jar",
+        "sha512": "dd1d59f8fae56047c52e88c7fbd14bfaf8029326550c48d48a0c84ea6045bedccc9a1ea1969d452f6090ec9d194f4edfbdcf5047ca83fea98ed21199618ab048"
+      },
+      "3_6_0": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VhftET6c/do_a_barrel_roll-fabric-3.6.0%2B1.20.6.jar",
+        "sha512": "dd1d59f8fae56047c52e88c7fbd14bfaf8029326550c48d48a0c84ea6045bedccc9a1ea1969d452f6090ec9d194f4edfbdcf5047ca83fea98ed21199618ab048"
+      },
+      "3_5_10": {
+        "name": "do_a_barrel_roll-fabric-3.5.10+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/RkvZ8dFD/do_a_barrel_roll-fabric-3.5.10%2B1.20.6.jar",
+        "sha512": "b0a92b268b45dc3c2268feef68fbbb23d6eb600bcb78e3fb6e65a8aee66367dae1da1dd745c56c50adb80958a1f3da92a100f500fb1208badcb0df0d6858b3ca"
+      },
+      "3_5_9": {
+        "name": "do_a_barrel_roll-fabric-3.5.9+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/l4f77JZk/do_a_barrel_roll-fabric-3.5.9%2B1.20.6.jar",
+        "sha512": "c0ad9ebc5f4d48211c266bf1c6a29a1074cc846a4f13fbd9d63c28e97a31bf7f13be9a94fe4f9fb595ef308ce6e8a8fa534d362dfd02d9c5b4f2e9ea4902cc6d"
+      },
+      "3_5_8": {
+        "name": "do_a_barrel_roll-fabric-3.5.8+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/1alzQQhn/do_a_barrel_roll-fabric-3.5.8%2B1.20.6.jar",
+        "sha512": "80931720d8d094046e408acc5d68f412d3af6543e17b77e3541774ce7f1fecbce1112f66772930c5b23a2a93f7fd73dd5735e5ac3aadbb4e2e24bb0edf2006bf"
+      },
+      "3_5_7": {
+        "name": "do_a_barrel_roll-fabric-3.5.7+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vhbUNxBk/do_a_barrel_roll-fabric-3.5.7%2B1.20.6.jar",
+        "sha512": "3096d7e08d1d617d8f070cfc4e92a4e5cee98b76446e5a76f9e9f468c9cd2f4b7c7dde4a785f61d1b11e7098cc487e80d04d9924b3c25a9572b0230808af2e8c"
+      },
+      "3_5_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.6+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/swE82BGE/do_a_barrel_roll-fabric-3.5.6%2B1.20.6.jar",
+        "sha512": "ff871c663bd2c7ef5e36a2d357be212c02d3ae3b4f4774dbf7677cc43198fdf3914c4bb2e22f4ea91cd46069ba1057711184d8893f6c727ec0a40454bb515bf8"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VhftET6c/do_a_barrel_roll-fabric-3.6.0%2B1.20.6.jar",
+        "sha512": "dd1d59f8fae56047c52e88c7fbd14bfaf8029326550c48d48a0c84ea6045bedccc9a1ea1969d452f6090ec9d194f4edfbdcf5047ca83fea98ed21199618ab048"
+      },
+      "3_6_0+1_20_6": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/VhftET6c/do_a_barrel_roll-fabric-3.6.0%2B1.20.6.jar",
+        "sha512": "dd1d59f8fae56047c52e88c7fbd14bfaf8029326550c48d48a0c84ea6045bedccc9a1ea1969d452f6090ec9d194f4edfbdcf5047ca83fea98ed21199618ab048"
+      },
+      "3_5_10+1_20_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.10+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/RkvZ8dFD/do_a_barrel_roll-fabric-3.5.10%2B1.20.6.jar",
+        "sha512": "b0a92b268b45dc3c2268feef68fbbb23d6eb600bcb78e3fb6e65a8aee66367dae1da1dd745c56c50adb80958a1f3da92a100f500fb1208badcb0df0d6858b3ca"
+      },
+      "3_5_9+1_20_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.9+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/l4f77JZk/do_a_barrel_roll-fabric-3.5.9%2B1.20.6.jar",
+        "sha512": "c0ad9ebc5f4d48211c266bf1c6a29a1074cc846a4f13fbd9d63c28e97a31bf7f13be9a94fe4f9fb595ef308ce6e8a8fa534d362dfd02d9c5b4f2e9ea4902cc6d"
+      },
+      "3_5_8+1_20_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.8+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/1alzQQhn/do_a_barrel_roll-fabric-3.5.8%2B1.20.6.jar",
+        "sha512": "80931720d8d094046e408acc5d68f412d3af6543e17b77e3541774ce7f1fecbce1112f66772930c5b23a2a93f7fd73dd5735e5ac3aadbb4e2e24bb0edf2006bf"
+      },
+      "3_5_7+1_20_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.7+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vhbUNxBk/do_a_barrel_roll-fabric-3.5.7%2B1.20.6.jar",
+        "sha512": "3096d7e08d1d617d8f070cfc4e92a4e5cee98b76446e5a76f9e9f468c9cd2f4b7c7dde4a785f61d1b11e7098cc487e80d04d9924b3c25a9572b0230808af2e8c"
+      },
+      "3_5_6+1_20_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.6+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/swE82BGE/do_a_barrel_roll-fabric-3.5.6%2B1.20.6.jar",
+        "sha512": "ff871c663bd2c7ef5e36a2d357be212c02d3ae3b4f4774dbf7677cc43198fdf3914c4bb2e22f4ea91cd46069ba1057711184d8893f6c727ec0a40454bb515bf8"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vnywyrWt/do_a_barrel_roll-fabric-3.6.0%2B1.20.4.jar",
+        "sha512": "83a856ecdee691035f430ad81c7f3fdd21eb8f1c0fe2cf118b6b3d350082e2e98758a80b5989bdf853a9d3962f580b74a48da125dfbe270a2166570327794348"
+      },
+      "3_6_0": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vnywyrWt/do_a_barrel_roll-fabric-3.6.0%2B1.20.4.jar",
+        "sha512": "83a856ecdee691035f430ad81c7f3fdd21eb8f1c0fe2cf118b6b3d350082e2e98758a80b5989bdf853a9d3962f580b74a48da125dfbe270a2166570327794348"
+      },
+      "3_5_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.6+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9xcYWEMM/do_a_barrel_roll-fabric-3.5.6%2B1.20.4.jar",
+        "sha512": "05052930f32b504ca86ba9c69a3bf6b57cd0abb6c063d8ad8f277e2248acf56128227c7ed28a4a6697524b48769cd3ba588e8811b3289f8cb563afa33a4ce9eb"
+      },
+      "3_5_4": {
+        "name": "do_a_barrel_roll-fabric-3.5.4+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eyGO4rWH/do_a_barrel_roll-fabric-3.5.4%2B1.20.4.jar",
+        "sha512": "d8bb190d6f8cdac6fc85ff6ce441fe08ae2b21260fef4479be1cd5340e3af4a7f6cf02c4bea5077cb3409257d86472d6a236997d9e106672c6a53060ffe702ca"
+      },
+      "3_3_8": {
+        "name": "do-a-barrel-roll-3.3.8+1.20.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/34jQR2SU/do-a-barrel-roll-3.3.8%2B1.20.4-fabric.jar",
+        "sha512": "756ae5cf9c26c1ac659bc96b6602229141a0712bdf457acec891cf36ac79a9264edfd6f51494a7600e2148f59a53eb385510ec57226b58e8ec48c4170d05c254"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vnywyrWt/do_a_barrel_roll-fabric-3.6.0%2B1.20.4.jar",
+        "sha512": "83a856ecdee691035f430ad81c7f3fdd21eb8f1c0fe2cf118b6b3d350082e2e98758a80b5989bdf853a9d3962f580b74a48da125dfbe270a2166570327794348"
+      },
+      "3_6_0+1_20_4": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vnywyrWt/do_a_barrel_roll-fabric-3.6.0%2B1.20.4.jar",
+        "sha512": "83a856ecdee691035f430ad81c7f3fdd21eb8f1c0fe2cf118b6b3d350082e2e98758a80b5989bdf853a9d3962f580b74a48da125dfbe270a2166570327794348"
+      },
+      "3_5_6+1_20_4": {
+        "name": "do_a_barrel_roll-fabric-3.5.6+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9xcYWEMM/do_a_barrel_roll-fabric-3.5.6%2B1.20.4.jar",
+        "sha512": "05052930f32b504ca86ba9c69a3bf6b57cd0abb6c063d8ad8f277e2248acf56128227c7ed28a4a6697524b48769cd3ba588e8811b3289f8cb563afa33a4ce9eb"
+      },
+      "3_5_4+1_20_4": {
+        "name": "do_a_barrel_roll-fabric-3.5.4+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eyGO4rWH/do_a_barrel_roll-fabric-3.5.4%2B1.20.4.jar",
+        "sha512": "d8bb190d6f8cdac6fc85ff6ce441fe08ae2b21260fef4479be1cd5340e3af4a7f6cf02c4bea5077cb3409257d86472d6a236997d9e106672c6a53060ffe702ca"
+      },
+      "3_3_8+1_20_4": {
+        "name": "do-a-barrel-roll-3.3.8+1.20.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/34jQR2SU/do-a-barrel-roll-3.3.8%2B1.20.4-fabric.jar",
+        "sha512": "756ae5cf9c26c1ac659bc96b6602229141a0712bdf457acec891cf36ac79a9264edfd6f51494a7600e2148f59a53eb385510ec57226b58e8ec48c4170d05c254"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "do-a-barrel-roll-3.3.7+1.20.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Tc6hshn5/do-a-barrel-roll-3.3.7%2B1.20.2-fabric.jar",
+        "sha512": "eb67057d496872ae9b7c05b3016a951a1770a5990ecf07fad0ff50868d0cccc3bf5dd43f717d3e4cdc1f628b0c40b11442cc92041252ba0ab2c94b2698ec21cf"
+      },
+      "3_3_8": {
+        "name": "do-a-barrel-roll-3.3.7+1.20.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Tc6hshn5/do-a-barrel-roll-3.3.7%2B1.20.2-fabric.jar",
+        "sha512": "eb67057d496872ae9b7c05b3016a951a1770a5990ecf07fad0ff50868d0cccc3bf5dd43f717d3e4cdc1f628b0c40b11442cc92041252ba0ab2c94b2698ec21cf"
+      },
+      "3_3_7": {
+        "name": "do-a-barrel-roll-3.3.7+1.20.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/hsg4BN2T/do-a-barrel-roll-3.3.7%2B1.20.2-fabric.jar",
+        "sha512": "c421b4acf12b05e4e5bb7b49a1f3383b2425df61ca4d63e0d51cad63dec7466b3d5a40e245488688d6abbfd8440f79e0e9df6814856992da10f807b9fa362e7d"
+      },
+      "3_3_6+1_20": {
+        "name": "do-a-barrel-roll-3.3.6+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/o2ffIR7z/do-a-barrel-roll-3.3.6%2B1.20-fabric.jar",
+        "sha512": "d5ff11423f045f0bb479bee5a4e19386eb1a4cc89519eb71e33e919faa264840c82a85cd2b79cbb5b3f3365a4571e761fb7476e6df326ff93d9ed29887b6ae49"
+      },
+      "3_3_5+1_20": {
+        "name": "do-a-barrel-roll-3.3.5+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cjOnrxD6/do-a-barrel-roll-3.3.5%2B1.20-fabric.jar",
+        "sha512": "842ee93b5c11ce498e004ea168de185cffb1d587e1f754e53aee93c1cb2cf2c1751f1428aad73fb027244f4cedf15d6f009983a0820663b65bc50596558e22c7"
+      },
+      "3_3_4+1_20": {
+        "name": "do-a-barrel-roll-3.3.4+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/kRrQPKRd/do-a-barrel-roll-3.3.4%2B1.20-fabric.jar",
+        "sha512": "d943d78b44f6f47308cb01752f9f2c08c5391cc762cfe999cd099cd27320df36501fab5c7b8e8365353c0befd2650239eed56565a27da47a17bb02191666d8f9"
+      },
+      "3_3_3+1_20": {
+        "name": "do-a-barrel-roll-3.3.3+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xrNZLxUL/do-a-barrel-roll-3.3.3%2B1.20-fabric.jar",
+        "sha512": "12fb58fa9a78b676df951d362245eaffa3c1fa16ec7bc5d6c3ec5992f6c1b973681a01317dee478232d2061ab8e4fd5ce7802c57b65299bcebb353f3504957eb"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/CuLlUIYD/do_a_barrel_roll-fabric-3.6.1%2B1.20.1.jar",
+        "sha512": "e2294aeb8589c5a0c7508a0b5ac575bc47f05fbf85db50c985f5165f9ee29292a0f8ee8d548083b151af0a9c843e4ec68d6ca8f1861c91f6b9446269190bf662"
+      },
+      "3_6_1": {
+        "name": "do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/CuLlUIYD/do_a_barrel_roll-fabric-3.6.1%2B1.20.1.jar",
+        "sha512": "e2294aeb8589c5a0c7508a0b5ac575bc47f05fbf85db50c985f5165f9ee29292a0f8ee8d548083b151af0a9c843e4ec68d6ca8f1861c91f6b9446269190bf662"
+      },
+      "3_6_0": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/iKLtnuLB/do_a_barrel_roll-fabric-3.6.0%2B1.20.1.jar",
+        "sha512": "e9361efd08fe38044fbb854c5c7f37e0c91207a2dabb232922186556686a3f58cd323844a0f10202c6e7dac4aba3c115ff5ed795cea0d484932823c97e2adbe4"
+      },
+      "3_5_6": {
+        "name": "do_a_barrel_roll-fabric-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pJSq0gmP/do_a_barrel_roll-fabric-3.5.6%2B1.20.1.jar",
+        "sha512": "27cff53eb3aac2fd4c9eb6a23545b5b77d06313ff72415536d18e20557adde8e4f4676b39c5e59e675d5f5b2470eb96bd8074fc645bbd25c130bbb201406a7b9"
+      },
+      "3_5_5": {
+        "name": "do_a_barrel_roll-fabric-3.5.5+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/RlVXmJeD/do_a_barrel_roll-fabric-3.5.5%2B1.20.1.jar",
+        "sha512": "2ed311b337c470bf7cb6ba647cfb952200b0c2a079766c174cebafc9a8426f78be1ad2be2bb7a178a0c76ecb5a5f3eb4216349bed46f3f9d1bc14f35d09c808c"
+      },
+      "3_5_4": {
+        "name": "do_a_barrel_roll-fabric-3.5.4+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/rzK5er8a/do_a_barrel_roll-fabric-3.5.4%2B1.20.1.jar",
+        "sha512": "b331bd966463d491caa61242c0bdc0bd635c6ba031183d49bd6ec9018b271ad328b73091a49eba023051dd7f50243fba4636b0d6abd0f54785eb3fadd201505e"
+      },
+      "3_5_3": {
+        "name": "do_a_barrel_roll-fabric-3.5.3+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/GSWLE8Yp/do_a_barrel_roll-fabric-3.5.3%2B1.20.1.jar",
+        "sha512": "a7c1c54c8ddf594ffea8dec4c1236444dfec55e1ba2bbb5718a60e8938e36e7bebb6204a57f88cb59f5adbb280b426a7399527c8ddb21335b637363f98cf3f61"
+      },
+      "3_5_2": {
+        "name": "do_a_barrel_roll-fabric-3.5.2+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oExHpF2v/do_a_barrel_roll-fabric-3.5.2%2B1.20.1.jar",
+        "sha512": "0b02462e5150cdca0188966bc8825f54fc244fc91953beb3a8ae4afb72f50f00fdfd76369ab454d5f4444a1745d794097bbf37da5856e257a8c7003a2309caa8"
+      },
+      "3_5_1": {
+        "name": "do_a_barrel_roll-fabric-3.5.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/zzTTYEGP/do_a_barrel_roll-fabric-3.5.1%2B1.20.1.jar",
+        "sha512": "5ead796e2d0e3adf5375ef3673b694cd0df47534335e8f1794b6ed69688ebcd46cc26d4a2a17d2668240ddb2d1d8442ca604b2904af824a707d03013d5dcc9b2"
+      },
+      "3_3_8+1_20": {
+        "name": "do-a-barrel-roll-3.3.7+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/S0QngIQM/do-a-barrel-roll-3.3.7%2B1.20-fabric.jar",
+        "sha512": "406ebbfc1a77296217ae8fc1492fa9d1933a9dcc89fad09309fedbe25fed28aa213d3408cf2bd8d1fad46d942b3e5de2ba0fc5fe10d8fff9d83e154dac9171aa"
+      },
+      "3_3_7+1_20": {
+        "name": "do-a-barrel-roll-3.3.7+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UI3NfPIy/do-a-barrel-roll-3.3.7%2B1.20-fabric.jar",
+        "sha512": "04b80c69cedd0dd3b68b3bc935597f263746326c152246a75166a9a4dd0837510eff450e4fb0cd1ac895246a1cc2a6b51b4f6114a75b449f61d172ae35361a7b"
+      },
+      "3_3_5+1_20": {
+        "name": "do-a-barrel-roll-3.3.5+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cjOnrxD6/do-a-barrel-roll-3.3.5%2B1.20-fabric.jar",
+        "sha512": "842ee93b5c11ce498e004ea168de185cffb1d587e1f754e53aee93c1cb2cf2c1751f1428aad73fb027244f4cedf15d6f009983a0820663b65bc50596558e22c7"
+      },
+      "3_3_4+1_20": {
+        "name": "do-a-barrel-roll-3.3.4+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/kRrQPKRd/do-a-barrel-roll-3.3.4%2B1.20-fabric.jar",
+        "sha512": "d943d78b44f6f47308cb01752f9f2c08c5391cc762cfe999cd099cd27320df36501fab5c7b8e8365353c0befd2650239eed56565a27da47a17bb02191666d8f9"
+      },
+      "3_3_3+1_20": {
+        "name": "do-a-barrel-roll-3.3.3+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xrNZLxUL/do-a-barrel-roll-3.3.3%2B1.20-fabric.jar",
+        "sha512": "12fb58fa9a78b676df951d362245eaffa3c1fa16ec7bc5d6c3ec5992f6c1b973681a01317dee478232d2061ab8e4fd5ce7802c57b65299bcebb353f3504957eb"
+      },
+      "3_3_2+1_20": {
+        "name": "do-a-barrel-roll-3.3.2+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/IQXyiTai/do-a-barrel-roll-3.3.2%2B1.20-fabric.jar",
+        "sha512": "d905a9329f844e9173a6fc40a8851452387332107018f87b57910223a2dd9595f087105301c740cfa57e7e3f4db13ab52334838bd72ad2a63a96a2b1ff4e6e2d"
+      },
+      "3_3_1+1_20": {
+        "name": "do-a-barrel-roll-3.3.1+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/BEgYscT7/do-a-barrel-roll-3.3.1%2B1.20-fabric.jar",
+        "sha512": "6b3fcc0c201ed8784b00629929fb0b6bfc3e6c7b78e95d94c9e20cf51e0e10e399e0508308b34a6093dc4530999e301193d3a9bf9a292dae158e0a6dd8591565"
+      },
+      "3_3_0+1_20": {
+        "name": "do-a-barrel-roll-3.3.0+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/JCUASO47/do-a-barrel-roll-3.3.0%2B1.20-fabric.jar",
+        "sha512": "965c73f965b4ca11ab92199c1d6e99999a4ea38e999d0d3656a9d94502cc18da639ff10beea1d5be8c017b62f043ef2ad0ccc19b84eff4afadaf40370d32b76d"
+      },
+      "3_2_0+1_20": {
+        "name": "do-a-barrel-roll-3.2.0+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/TN8tlPYz/do-a-barrel-roll-3.2.0%2B1.20-fabric.jar",
+        "sha512": "e8ebf3338b2d76cbcf889186f56c42b8e768f1204dbc4567d1fc259cdf9e50e90cbe1553aab4ccde82f06cb94da0ee24dfa5090ae56da4fa915ea3c08681402c"
+      },
+      "3_1_3+1_20": {
+        "name": "do-a-barrel-roll-3.1.3+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/hZ2m2dCd/do-a-barrel-roll-3.1.3%2B1.20-fabric.jar",
+        "sha512": "bc567ce21b6e8a71e84955354fbe600d31a9a1394e53f82ec89b6533aab78040f42ca932e2624febf9b7237ec8c84f6e559ba93a5b1532366c149c8c3e387243"
+      },
+      "3_1_2+1_20": {
+        "name": "do-a-barrel-roll-3.1.2+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xXQOdU31/do-a-barrel-roll-3.1.2%2B1.20-fabric.jar",
+        "sha512": "f191a59d6f9fca6115e246a9f83efdbcfbc32652cd2389377b778e5e95b56a20ece44268c523aa292675774f394e6b7baf18b6aa4e5d0c1748c3948189622608"
+      },
+      "3_1_1+1_20": {
+        "name": "do-a-barrel-roll-3.1.1+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/3trypJmH/do-a-barrel-roll-3.1.1%2B1.20-fabric.jar",
+        "sha512": "0980b9a5db5913dbc27fa50baa392e10516cbed8a0dfa3abb3f034f9021b5046b63d9c3edd4a6a10f58b1f383d7d112c5d9309e2bfdfca21d49d7d981754ca49"
+      },
+      "3_0_2+1_20": {
+        "name": "do-a-barrel-roll-3.0.2+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/6sLkwKoK/do-a-barrel-roll-3.0.2%2B1.20-fabric.jar",
+        "sha512": "9bc657a6bb1d188ecdcef509d6462ecc855ca01d8ae20a092193d72bf87b5bc536aae41630bc58b8fac916aa5d985cad68596fca002c24fdedad5572492c2397"
+      },
+      "3_0_1+1_20": {
+        "name": "do-a-barrel-roll-3.0.1+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/gbxieggJ/do-a-barrel-roll-3.0.1%2B1.20-fabric.jar",
+        "sha512": "591bb1af80773da1ab1345fbb5eebaf8834f089361552b58af3e8589253f67f6ef316e7111a55b065010c82eff58c960c8fc61eecc4d2655f7a0b7f4050f3634"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/CuLlUIYD/do_a_barrel_roll-fabric-3.6.1%2B1.20.1.jar",
+        "sha512": "e2294aeb8589c5a0c7508a0b5ac575bc47f05fbf85db50c985f5165f9ee29292a0f8ee8d548083b151af0a9c843e4ec68d6ca8f1861c91f6b9446269190bf662"
+      },
+      "3_6_1_1": {
+        "name": "do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/CuLlUIYD/do_a_barrel_roll-fabric-3.6.1%2B1.20.1.jar",
+        "sha512": "e2294aeb8589c5a0c7508a0b5ac575bc47f05fbf85db50c985f5165f9ee29292a0f8ee8d548083b151af0a9c843e4ec68d6ca8f1861c91f6b9446269190bf662"
+      },
+      "3_6_0_1": {
+        "name": "do_a_barrel_roll-fabric-3.6.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/iKLtnuLB/do_a_barrel_roll-fabric-3.6.0%2B1.20.1.jar",
+        "sha512": "e9361efd08fe38044fbb854c5c7f37e0c91207a2dabb232922186556686a3f58cd323844a0f10202c6e7dac4aba3c115ff5ed795cea0d484932823c97e2adbe4"
+      },
+      "3_5_6_1": {
+        "name": "do_a_barrel_roll-fabric-3.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pJSq0gmP/do_a_barrel_roll-fabric-3.5.6%2B1.20.1.jar",
+        "sha512": "27cff53eb3aac2fd4c9eb6a23545b5b77d06313ff72415536d18e20557adde8e4f4676b39c5e59e675d5f5b2470eb96bd8074fc645bbd25c130bbb201406a7b9"
+      },
+      "3_5_5_1": {
+        "name": "do_a_barrel_roll-fabric-3.5.5+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/RlVXmJeD/do_a_barrel_roll-fabric-3.5.5%2B1.20.1.jar",
+        "sha512": "2ed311b337c470bf7cb6ba647cfb952200b0c2a079766c174cebafc9a8426f78be1ad2be2bb7a178a0c76ecb5a5f3eb4216349bed46f3f9d1bc14f35d09c808c"
+      },
+      "3_5_4_1": {
+        "name": "do_a_barrel_roll-fabric-3.5.4+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/rzK5er8a/do_a_barrel_roll-fabric-3.5.4%2B1.20.1.jar",
+        "sha512": "b331bd966463d491caa61242c0bdc0bd635c6ba031183d49bd6ec9018b271ad328b73091a49eba023051dd7f50243fba4636b0d6abd0f54785eb3fadd201505e"
+      },
+      "3_5_3_1": {
+        "name": "do_a_barrel_roll-fabric-3.5.3+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/GSWLE8Yp/do_a_barrel_roll-fabric-3.5.3%2B1.20.1.jar",
+        "sha512": "a7c1c54c8ddf594ffea8dec4c1236444dfec55e1ba2bbb5718a60e8938e36e7bebb6204a57f88cb59f5adbb280b426a7399527c8ddb21335b637363f98cf3f61"
+      },
+      "3_5_2_1": {
+        "name": "do_a_barrel_roll-fabric-3.5.2+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oExHpF2v/do_a_barrel_roll-fabric-3.5.2%2B1.20.1.jar",
+        "sha512": "0b02462e5150cdca0188966bc8825f54fc244fc91953beb3a8ae4afb72f50f00fdfd76369ab454d5f4444a1745d794097bbf37da5856e257a8c7003a2309caa8"
+      },
+      "3_5_1_1": {
+        "name": "do_a_barrel_roll-fabric-3.5.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/zzTTYEGP/do_a_barrel_roll-fabric-3.5.1%2B1.20.1.jar",
+        "sha512": "5ead796e2d0e3adf5375ef3673b694cd0df47534335e8f1794b6ed69688ebcd46cc26d4a2a17d2668240ddb2d1d8442ca604b2904af824a707d03013d5dcc9b2"
+      },
+      "3_3_8": {
+        "name": "do-a-barrel-roll-3.3.7+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/S0QngIQM/do-a-barrel-roll-3.3.7%2B1.20-fabric.jar",
+        "sha512": "406ebbfc1a77296217ae8fc1492fa9d1933a9dcc89fad09309fedbe25fed28aa213d3408cf2bd8d1fad46d942b3e5de2ba0fc5fe10d8fff9d83e154dac9171aa"
+      },
+      "3_3_7": {
+        "name": "do-a-barrel-roll-3.3.7+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UI3NfPIy/do-a-barrel-roll-3.3.7%2B1.20-fabric.jar",
+        "sha512": "04b80c69cedd0dd3b68b3bc935597f263746326c152246a75166a9a4dd0837510eff450e4fb0cd1ac895246a1cc2a6b51b4f6114a75b449f61d172ae35361a7b"
+      },
+      "3_3_5": {
+        "name": "do-a-barrel-roll-3.3.5+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cjOnrxD6/do-a-barrel-roll-3.3.5%2B1.20-fabric.jar",
+        "sha512": "842ee93b5c11ce498e004ea168de185cffb1d587e1f754e53aee93c1cb2cf2c1751f1428aad73fb027244f4cedf15d6f009983a0820663b65bc50596558e22c7"
+      },
+      "3_3_4": {
+        "name": "do-a-barrel-roll-3.3.4+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/kRrQPKRd/do-a-barrel-roll-3.3.4%2B1.20-fabric.jar",
+        "sha512": "d943d78b44f6f47308cb01752f9f2c08c5391cc762cfe999cd099cd27320df36501fab5c7b8e8365353c0befd2650239eed56565a27da47a17bb02191666d8f9"
+      },
+      "3_3_3": {
+        "name": "do-a-barrel-roll-3.3.3+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xrNZLxUL/do-a-barrel-roll-3.3.3%2B1.20-fabric.jar",
+        "sha512": "12fb58fa9a78b676df951d362245eaffa3c1fa16ec7bc5d6c3ec5992f6c1b973681a01317dee478232d2061ab8e4fd5ce7802c57b65299bcebb353f3504957eb"
+      },
+      "3_3_2": {
+        "name": "do-a-barrel-roll-3.3.2+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/IQXyiTai/do-a-barrel-roll-3.3.2%2B1.20-fabric.jar",
+        "sha512": "d905a9329f844e9173a6fc40a8851452387332107018f87b57910223a2dd9595f087105301c740cfa57e7e3f4db13ab52334838bd72ad2a63a96a2b1ff4e6e2d"
+      },
+      "3_3_1": {
+        "name": "do-a-barrel-roll-3.3.1+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/BEgYscT7/do-a-barrel-roll-3.3.1%2B1.20-fabric.jar",
+        "sha512": "6b3fcc0c201ed8784b00629929fb0b6bfc3e6c7b78e95d94c9e20cf51e0e10e399e0508308b34a6093dc4530999e301193d3a9bf9a292dae158e0a6dd8591565"
+      },
+      "3_3_0": {
+        "name": "do-a-barrel-roll-3.3.0+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/JCUASO47/do-a-barrel-roll-3.3.0%2B1.20-fabric.jar",
+        "sha512": "965c73f965b4ca11ab92199c1d6e99999a4ea38e999d0d3656a9d94502cc18da639ff10beea1d5be8c017b62f043ef2ad0ccc19b84eff4afadaf40370d32b76d"
+      },
+      "3_2_0": {
+        "name": "do-a-barrel-roll-3.2.0+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/TN8tlPYz/do-a-barrel-roll-3.2.0%2B1.20-fabric.jar",
+        "sha512": "e8ebf3338b2d76cbcf889186f56c42b8e768f1204dbc4567d1fc259cdf9e50e90cbe1553aab4ccde82f06cb94da0ee24dfa5090ae56da4fa915ea3c08681402c"
+      },
+      "3_1_3": {
+        "name": "do-a-barrel-roll-3.1.3+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/hZ2m2dCd/do-a-barrel-roll-3.1.3%2B1.20-fabric.jar",
+        "sha512": "bc567ce21b6e8a71e84955354fbe600d31a9a1394e53f82ec89b6533aab78040f42ca932e2624febf9b7237ec8c84f6e559ba93a5b1532366c149c8c3e387243"
+      },
+      "3_1_2": {
+        "name": "do-a-barrel-roll-3.1.2+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/xXQOdU31/do-a-barrel-roll-3.1.2%2B1.20-fabric.jar",
+        "sha512": "f191a59d6f9fca6115e246a9f83efdbcfbc32652cd2389377b778e5e95b56a20ece44268c523aa292675774f394e6b7baf18b6aa4e5d0c1748c3948189622608"
+      },
+      "3_1_1": {
+        "name": "do-a-barrel-roll-3.1.1+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/3trypJmH/do-a-barrel-roll-3.1.1%2B1.20-fabric.jar",
+        "sha512": "0980b9a5db5913dbc27fa50baa392e10516cbed8a0dfa3abb3f034f9021b5046b63d9c3edd4a6a10f58b1f383d7d112c5d9309e2bfdfca21d49d7d981754ca49"
+      },
+      "3_0_2": {
+        "name": "do-a-barrel-roll-3.0.2+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/6sLkwKoK/do-a-barrel-roll-3.0.2%2B1.20-fabric.jar",
+        "sha512": "9bc657a6bb1d188ecdcef509d6462ecc855ca01d8ae20a092193d72bf87b5bc536aae41630bc58b8fac916aa5d985cad68596fca002c24fdedad5572492c2397"
+      },
+      "3_0_1": {
+        "name": "do-a-barrel-roll-3.0.1+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/gbxieggJ/do-a-barrel-roll-3.0.1%2B1.20-fabric.jar",
+        "sha512": "591bb1af80773da1ab1345fbb5eebaf8834f089361552b58af3e8589253f67f6ef316e7111a55b065010c82eff58c960c8fc61eecc4d2655f7a0b7f4050f3634"
+      },
+      "3_0_0-beta_2": {
+        "name": "do-a-barrel-roll-3.0.0-beta.2+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/AK6qVse9/do-a-barrel-roll-3.0.0-beta.2%2B1.20-fabric.jar",
+        "sha512": "795b6672d0307b10d8d5829fba8a3b7735d12434b420c3b520650292c711b212e460bf369df6e3cbaed2abe4a269babaaa75517ec9ab0c0bd06c45343cc89da1"
+      },
+      "3_0_0-beta_1": {
+        "name": "do-a-barrel-roll-3.0.0-beta.1+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/iclteRK7/do-a-barrel-roll-3.0.0-beta.1%2B1.20-fabric.jar",
+        "sha512": "5025e066e19c5dd6a154af1213fae7428f4cda8559ccd6f6a167094ae9d4a3867869e4e8c421cae66888f04f26e52c08271b56ef63952e9dd6f5f9debd851fb7"
+      },
+      "3_0_0": {
+        "name": "do-a-barrel-roll-3.0.0+1.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Ws6fWaHi/do-a-barrel-roll-3.0.0%2B1.20-fabric.jar",
+        "sha512": "2ef25687cad138a01f4f280a0246ed7e411e3c8c828f55a49dc042703f18a21ba5fa6856deb8de489b321d3dd573a0318ffdf8098ecc9540b9bad1f26b79b884"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "do-a-barrel-roll-3.3.7+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/s4zNwCf2/do-a-barrel-roll-3.3.7%2B1.19.4-fabric.jar",
+        "sha512": "ee7ea66a04467c214168874a87599281e4c00b933cd736908f843f523c28b77145c4b788e4e8f9391fbe38893ca9eb8322de3cca963ce3a9e097a3f3b056b084"
+      },
+      "3_3_8": {
+        "name": "do-a-barrel-roll-3.3.7+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/s4zNwCf2/do-a-barrel-roll-3.3.7%2B1.19.4-fabric.jar",
+        "sha512": "ee7ea66a04467c214168874a87599281e4c00b933cd736908f843f523c28b77145c4b788e4e8f9391fbe38893ca9eb8322de3cca963ce3a9e097a3f3b056b084"
+      },
+      "3_3_7": {
+        "name": "do-a-barrel-roll-3.3.7+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vLGZctV5/do-a-barrel-roll-3.3.7%2B1.19.4-fabric.jar",
+        "sha512": "e1f216b9ee34985c8e04dcf92e1e22d7846e3e714b522a8baf649e9292a6c935c84f8277abd40319b83903eebebe58d90ca80fe7b20dfbcde2a27226d8928b05"
+      },
+      "3_3_5": {
+        "name": "do-a-barrel-roll-3.3.5+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/PJCutXpv/do-a-barrel-roll-3.3.5%2B1.19.4-fabric.jar",
+        "sha512": "19c57bb92fa45172e69aa304bbc7f731540a0d425f6957a6a29a4206e0cce125355b16f45f8201205b15313e45f272f0df7094159a7871fe1615360da637069f"
+      },
+      "3_3_4": {
+        "name": "do-a-barrel-roll-3.3.4+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/uzOm8tez/do-a-barrel-roll-3.3.4%2B1.19.4-fabric.jar",
+        "sha512": "cbd23bb0a042d78039b29b209f182e9e1d985a55cadf89be32e5ca05e35ddf88dafe81077e4ea3b67c4b3a6950ff9d32359024939351adf7b967af743a6069ff"
+      },
+      "3_2_0": {
+        "name": "do-a-barrel-roll-3.2.0+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/aMOITkqD/do-a-barrel-roll-3.2.0%2B1.19.4-fabric.jar",
+        "sha512": "bb34f7e3121ca2552fdb7c54be826388f2dec8bf8653a6ddb71349b0b15e776512b479be6786be41e95c344b88bf8715cd12334afca253b92c850287517b95ad"
+      },
+      "3_1_3": {
+        "name": "do-a-barrel-roll-3.1.3+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/YcHNDCOO/do-a-barrel-roll-3.1.3%2B1.19.4-fabric.jar",
+        "sha512": "241abb3191d997b573de0adfdd3ae021c4ebd36f3404c5e8ef737f4e1788459430bb13997c96552204de131afcc5f60b8025043fe59d6e0d465fdd348a846514"
+      },
+      "3_1_2": {
+        "name": "do-a-barrel-roll-3.1.2+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/zFfB9gke/do-a-barrel-roll-3.1.2%2B1.19.4-fabric.jar",
+        "sha512": "f86790224593cc8b68d3e9cf74dd444b552f2be5923fbadb8fd0a2a028cd182829f7ad75cb55efb9ce7739142776c0ce1591136cc47cd38096190d5f5d6d80bc"
+      },
+      "3_1_1": {
+        "name": "do-a-barrel-roll-3.1.1+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/BdBAMCep/do-a-barrel-roll-3.1.1%2B1.19.4-fabric.jar",
+        "sha512": "4f7a42847040dd743cb4f8563756ea8216404c7e274670612c72ec7499c01c4b39281df720b8e0a5cab2337c1831115045f24839715cf5ba81d467d51a901334"
+      },
+      "3_0_2": {
+        "name": "do-a-barrel-roll-3.0.2+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5wwdjkF4/do-a-barrel-roll-3.0.2%2B1.19.4-fabric.jar",
+        "sha512": "f03423435d26701c965f01874d283e4c4c9f0f73c24f00c8384f3e17d66eaecc6b2a4b6604ece3add49dcd8b77450d440ac36066bbe69ea16bbef6656a64caa7"
+      },
+      "3_0_1": {
+        "name": "do-a-barrel-roll-3.0.1+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/B47f6kqW/do-a-barrel-roll-3.0.1%2B1.19.4-fabric.jar",
+        "sha512": "f1f39587dfc7c145fa34b747eb4f8f7c719e1f5b1ed14e205ee80f3172e7b558c7e6fe08d9ff4353999bb918b00dd5bb5b76eb882c2ad532e33557623eb1cfaa"
+      },
+      "3_0_0": {
+        "name": "do-a-barrel-roll-3.0.0+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/ln8C5QJj/do-a-barrel-roll-3.0.0%2B1.19.4-fabric.jar",
+        "sha512": "3c608cf101a0f37b44b489d73b0baec3fca3fdb06575afd5899260aac6f458bd7809ec65c11c39813e006b901831aaa4d8ef8cadcc2107f1608cbe35e675a435"
+      },
+      "2_8_3": {
+        "name": "do-a-barrel-roll-2.8.3+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cXepeLYw/do-a-barrel-roll-2.8.3%2B1.19.4-fabric.jar",
+        "sha512": "18d2802b72a984ffc8d83e1d741a0f9d4b0d67108257fe744672ac43f82201492fef1324743cc461795eab40332a3fd50c844dc3afad480d0a9576d71c28bd90"
+      },
+      "2_8_2": {
+        "name": "do-a-barrel-roll-2.8.2+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/IfRYowB0/do-a-barrel-roll-2.8.2%2B1.19.4-fabric.jar",
+        "sha512": "0071fa8483d1e38627954f7bea36e8cead7ed3b145825a6529951e54d45e64537c7e9360fb179477668ee2ea64aafcf3ee9dbb209a9107b3ef194050e925245c"
+      },
+      "2_8_1": {
+        "name": "do-a-barrel-roll-2.8.1+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/QcCmwDIK/do-a-barrel-roll-2.8.1%2B1.19.4-fabric.jar",
+        "sha512": "44d1527c68ba3d6d8d9d63520de8556e1999cafbaafcffb8db0d98795b9dad4a7d7057c537b840972348a58889164205722d2085beedd4391ce83177b4bb999c"
+      },
+      "2_8_0": {
+        "name": "do-a-barrel-roll-2.8.0+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/lPiCk49y/do-a-barrel-roll-2.8.0%2B1.19.4-fabric.jar",
+        "sha512": "4cba83a2af2284406309250a10e798b4002ae57e69eaa7f547c98e5b6001220a274b07caa56dda374a0612a2b33469d8e09a7cae5463cd7bb82eacc0cfe106dc"
+      },
+      "2_7_5": {
+        "name": "do-a-barrel-roll-2.7.5+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/1CTfnpHI/do-a-barrel-roll-2.7.5%2B1.19.4-fabric.jar",
+        "sha512": "250e7d1ee87cbb5a9230986851569cb15794283c92c751c75edebb1952d3d3f3c2af409e93bc4e306cdaaf2f7a4a5b273b364bcab9bf927e9a4f7d5a90968136"
+      },
+      "2_7_4": {
+        "name": "do-a-barrel-roll-2.7.4+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2f37LU7J/do-a-barrel-roll-2.7.4%2B1.19.4-fabric.jar",
+        "sha512": "55235c2a41861ee120988062817b1bf38e934ac4d244ae8b829454f7fc6c0011132f81bfa73de384a4b012f484d78605dce8cfe34c46ad1ea3e2083e82408151"
+      },
+      "2_7_3": {
+        "name": "do-a-barrel-roll-2.7.3+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/c8TlDgSJ/do-a-barrel-roll-2.7.3%2B1.19.4-fabric.jar",
+        "sha512": "32e2c20c483154c32c3fdb2f8643858f0947d19168227d822d437ce11d0de3d2573130756c3716925037c13b29b688c47c3c15a0d27bb1d4d275d9942cfa82f8"
+      },
+      "2_7_2": {
+        "name": "do-a-barrel-roll-2.7.2+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/7a5Vl6bt/do-a-barrel-roll-2.7.2%2B1.19.4-fabric.jar",
+        "sha512": "74f11f781f0e1c6e1713c0671f9916a777df31e90f4ba35efb13e8ad9caff6f4b1cb391c06fd109c150319a6044f023a950ac23ae1938595dab2ed43f17926db"
+      },
+      "2_7_1": {
+        "name": "do-a-barrel-roll-2.7.1+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jveY9zir/do-a-barrel-roll-2.7.1%2B1.19.4-fabric.jar",
+        "sha512": "abd7c4abab393210b1309b025c99360cd41fafb5a7c1b6182633d7e468bfdab0d5ff5d0f96b7eaacb9fda5222128178d8e03f09d47935d1a111a082205923c3c"
+      },
+      "2_7_0": {
+        "name": "do-a-barrel-roll-2.7.0+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/jD6tD3Ck/do-a-barrel-roll-2.7.0%2B1.19.4-fabric.jar",
+        "sha512": "0c44fc3e31211f52a25a37265d87543c3b6b067c9dd55372019fccdb9296140295f55a5206624d480559ca1c42e9a5095521687d7fa0e190606a60e070cba377"
+      },
+      "2_6_3": {
+        "name": "do-a-barrel-roll-2.6.3+1.19.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/gtLI94FF/do-a-barrel-roll-2.6.3%2B1.19.4-fabric.jar",
+        "sha512": "341c051e223c50dbe1b7acee3984af20c0b18eb9aea04365b4c9a76169588d1f608cdb0b5183ab5c43df277e59fb0fb3eebd1cd9728516b5ff03ee9a7094ea1d"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/NeQj3Fz9/do-a-barrel-roll-2.6.2%2B1.19.3-fabric.jar",
+        "sha512": "82e5d4a737bbf543bf8cb518d9996881f993ec80aa42ed989ac3dd32567d45cdbfc01fcdd4e0276e428d7baab6c0017604b360407f45f0f17d3cdf1715ab5367"
+      },
+      "2_6_2": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/NeQj3Fz9/do-a-barrel-roll-2.6.2%2B1.19.3-fabric.jar",
+        "sha512": "82e5d4a737bbf543bf8cb518d9996881f993ec80aa42ed989ac3dd32567d45cdbfc01fcdd4e0276e428d7baab6c0017604b360407f45f0f17d3cdf1715ab5367"
+      },
+      "2_6_1": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Vm945UCb/do-a-barrel-roll-2.6.1%2B1.19.3-fabric.jar",
+        "sha512": "144e6fc32401a2334fc57dd9d214ad1ff9dd292807d841392b65420405bc53ac5e68e59e66c3f42cac6f64bc50a5b6725d08b24ade27bcadfe93a156588443f8"
+      },
+      "2_6_0": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/FGguxlbf/do-a-barrel-roll-2.6.0%2B1.19.3-fabric.jar",
+        "sha512": "b392e3869a64d63185b4eb45ba9088b3250c65fdd7b34a94c3c7d30357d295c60ff6dc66aff98ad03fbfc20c26a81a36762d74f31753cd30a105b371f2c9b1e6"
+      },
+      "2_5_3": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/B7cLLqEG/do-a-barrel-roll-2.5.3%2B1.19.3-fabric.jar",
+        "sha512": "09ff223d8357ec34d1d778d8b3d2c554f1c0ca4871e633657ef41789d986be50977fe6897226cab18cba476edb038547f2c5519dfd9e3226fd3dc2dd49ce7480"
+      },
+      "2_5_2": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/lmCjE3pH/do-a-barrel-roll-2.5.2%2B1.19.3-fabric.jar",
+        "sha512": "a03aaaf6bb5cc9cf0df3e0709ace820a820842cb9b066d6301454939ddeed5fc40f319fa92e54711d1ab5efde5cfd265d8d1cdaeb1342bf20d6961cfcefcf30c"
+      },
+      "2_5_1": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9nFs4ToQ/do-a-barrel-roll-2.5.1%2B1.19.3-fabric.jar",
+        "sha512": "9318b87e1ab7cef8aab24d42d34f1d40eb24975530e51336c0ee93dd1d989124f27eee526b956bf5eee4407d800eecb741a225b02b7ffa0fb04eb33716b348fe"
+      },
+      "2_5_0": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oszZ7uZz/do-a-barrel-roll-2.5.0%2B1.19.3-fabric.jar",
+        "sha512": "21ba56460ece42a763f9f5feecfbcd5401396b835c530d684ed0c3b90372ca8b9d68f8db7e8035ee8b325c3e86d5733f1c7150bc32eef1b94ab473487deac8b4"
+      },
+      "2_4_0": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/pcOcGh6r/do-a-barrel-roll-2.4.0%2B1.19.3-fabric.jar",
+        "sha512": "f2ffbc6e5c7b5d3a413ce725a9187e61160c66069ddf30e3ea3ebc376d220a3491667ae4d481e43af93014ba2703616da2faddf50d696c7e8d268784e105b0f6"
+      },
+      "2_3_4": {
+        "name": "do-a-barrel-roll-2.3.4+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9mMDXR35/do-a-barrel-roll-2.3.4%2B1.19.3-fabric.jar",
+        "sha512": "291f3e51a1110fe4e5fcecc77dfdb90d79a28f6410b0cef2b8507e32cc0b101d724064dcfcaa2bba14df1c273e71995b9751ecb77712a7046d263ff5c98ae828"
+      },
+      "2_3_3": {
+        "name": "do-a-barrel-roll-2.3.3+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XqkJ2I6G/do-a-barrel-roll-2.3.3%2B1.19.3-fabric.jar",
+        "sha512": "6f86cad66c8a68bbca9d8a5acde707bc30d64aaf9b4abe05fac3a77c3e0fb3e83e5067b88d5121a6000569c431128e60c0edd1e6acf3edc59ab1b261c3fd2efd"
+      },
+      "2_3_2": {
+        "name": "do-a-barrel-roll-2.3.2+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/ehY7RHs7/do-a-barrel-roll-2.3.2%2B1.19.3-fabric.jar",
+        "sha512": "40c6f5417f635771f6e9bbd63bed658bc77243b14e238c34f6add0f5fc1a1894edc7ad3db6b25f0c3242d074db4cd638d6c3cef7ef31936ec010432622f9731b"
+      },
+      "2_3_1": {
+        "name": "do-a-barrel-roll-2.3.1+1.19.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UyB2v0D5/do-a-barrel-roll-2.3.1%2B1.19.3-fabric.jar",
+        "sha512": "5724c4943863bceb1df21c108de3b64470deb38e11326da6c57e9013017c9ec83e7c71094c4e5d47c785d9e509d90746d9634eb8ee05434cf28a5e81e358cdb4"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2GZpcF7N/do-a-barrel-roll-2.6.2%2B1.19.2-fabric.jar",
+        "sha512": "669ae0054d37aa3bd399713b4e196c9a3f045a37b072ff0580695bbe2eaba5f7080e42d9be40f2e05b4d6e49079122311f2dcba257040cac797be400c00df921"
+      },
+      "2_6_2+1_19": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2GZpcF7N/do-a-barrel-roll-2.6.2%2B1.19.2-fabric.jar",
+        "sha512": "669ae0054d37aa3bd399713b4e196c9a3f045a37b072ff0580695bbe2eaba5f7080e42d9be40f2e05b4d6e49079122311f2dcba257040cac797be400c00df921"
+      },
+      "2_6_1+1_19": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/e1JDHe9b/do-a-barrel-roll-2.6.1%2B1.19.2-fabric.jar",
+        "sha512": "67f6032f53c9351f69789d4ca8417745d6e67472d1aad2a19c0b1da974adec68f3f5d62f278d9b96409ea5af62a70829e833930cb3565ec7623f95d45bd5293e"
+      },
+      "2_6_0+1_19": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/49BAMaJx/do-a-barrel-roll-2.6.0%2B1.19.2-fabric.jar",
+        "sha512": "b175d2d4f1ec7ad2042c769f2e3c78a075d512192808920a4e77a5d263d7c376f9f820e055cb94e4a67bf3785ac4ebe886e6e5e0757c20f282309b512103581b"
+      },
+      "2_5_3+1_19": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9mAq86OS/do-a-barrel-roll-2.5.3%2B1.19.2-fabric.jar",
+        "sha512": "147d6c2f8093bac7a8ff445047e4ec8aa90ee89258e2109db971dd55e2af859fd732597000e5a70c5bef75ce9dd9c395dc906bab1b83a33d65da35d1fad43758"
+      },
+      "2_5_2+1_19": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DNIT5vUX/do-a-barrel-roll-2.5.2%2B1.19.2-fabric.jar",
+        "sha512": "777e0a3c4d69f776bf4857c3262534c626796d2b06b87e24fba6e81a56a76a9a7c6e01cb56ae222c00ea5e640b2160d930b2ef0733171469c540c1d06707b6dc"
+      },
+      "2_5_1+1_19": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XjHa44dr/do-a-barrel-roll-2.5.1%2B1.19.2-fabric.jar",
+        "sha512": "ffb41bc332d44703e60239069ba7f9536b4788baa3d31476b912c981a8da82d5f4f558b1a15d3992faa02b7bc0293dd3ec4ec74c1f2ed330600b3632b9255d03"
+      },
+      "2_5_0+1_19": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/thu8z32t/do-a-barrel-roll-2.5.0%2B1.19.2-fabric.jar",
+        "sha512": "b214ded91c3e8a0dc8376d46ca768449579cc22ffadbb2439ad683fa9b14a15a05177a426510e67bb7a1120cf4dff175d4f459d95396a0e1520f41ed6bd7cfd7"
+      },
+      "2_4_0+1_19": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UA9IRVr3/do-a-barrel-roll-2.4.0%2B1.19.2-fabric.jar",
+        "sha512": "3272a9c6e8d8acd715a375589a5c78f14a66d22f3c8bba131565f9ea712d8b0c63e08bf79ad858dd6b91a2f212afb89b350642a120712343a1e529ee2af26268"
+      },
+      "2_3_4+1_19": {
+        "name": "do-a-barrel-roll-2.3.4+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/wTBxfiYI/do-a-barrel-roll-2.3.4%2B1.19.2-fabric.jar",
+        "sha512": "1686bc573e06aa5830f181e574b4f38a9ff2020e58544280562e1c5db4b6fcbec496c9864f6d310ff4fd65a7c1e2a64dacd5b074b3433b724e984ebff06b6799"
+      },
+      "2_3_3+1_19": {
+        "name": "do-a-barrel-roll-2.3.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cQpF8MVo/do-a-barrel-roll-2.3.3%2B1.19.2-fabric.jar",
+        "sha512": "125491f0cd51b0050303d5298cca3c51b3c34c46f1b385643f809f36147f21bb2003e7044e5215f1c9c42f705186fa95bee6d731d6ef9bac6cc676a163e60939"
+      },
+      "2_3_2+1_19": {
+        "name": "do-a-barrel-roll-2.3.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Eunepnp9/do-a-barrel-roll-2.3.2%2B1.19.2-fabric.jar",
+        "sha512": "38c927ef6b0855721f7f921c68b5d156b9a19fd571f3d894c393cd1182cc5afd4b76e35093d5bc8e96323bdc17612de7845c5f60e8adda88830c56f76468e054"
+      },
+      "2_3_1+1_19": {
+        "name": "do-a-barrel-roll-2.3.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/15oiPLsb/do-a-barrel-roll-2.3.1%2B1.19.2-fabric.jar",
+        "sha512": "0fa53b93043983a1bf6f89eb451cd2399b11d1394c369197dd8358ca8e5a55b3066317a3fb77929b8828d0699df75ca9b725c7b1de41b2d13ed13c1ebbf26543"
+      },
+      "2_3_0+1_19": {
+        "name": "do-a-barrel-roll-2.3.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/m0uwZ4Md/do-a-barrel-roll-2.3.0%2B1.19.2-fabric.jar",
+        "sha512": "e061b0246904a82a9af8ccfc165a1b80f664281c6070c541c6fcb2fdfa3d9995d907a08fab8f0a39bd3e789de729898b5721977106ab6b55189d72bf35c0e230"
+      },
+      "2_2_1+1_19": {
+        "name": "do-a-barrel-roll-2.2.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Hfw3cWFy/do-a-barrel-roll-2.2.1%2B1.19.2-fabric.jar",
+        "sha512": "0f262dbf1f7117d3e6ec94d9f63385e560c06f291d084a82ef12447688b0b71f72e659e901c7780bf055581df40ef8c04a5065b71f306e27e4f80aa02aeb2a03"
+      },
+      "2_2_0+1_19": {
+        "name": "do-a-barrel-roll-2.2.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Ws8I3F28/do-a-barrel-roll-2.2.0%2B1.19.2-fabric.jar",
+        "sha512": "a99c4d2ffd72be71dfbdf162d300cb260657fa29324f58b1c23ab328cfb6e633043d5a5645b246f69dfba584acf1e1069b94b56c7f162b1775893b31b7896dda"
+      },
+      "2_1_0+1_19": {
+        "name": "do-a-barrel-roll-2.1.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/AWbu44WI/do-a-barrel-roll-2.1.0%2B1.19.2-fabric.jar",
+        "sha512": "2ef5b4207f403663cad420332064925dff6b527bdefa3fa09b727ab8ced5b4210c588b39eb704db94367c609d004f2d1df935158101de248f451344a17e12880"
+      },
+      "2_0_3+1_19": {
+        "name": "do-a-barrel-roll-2.0.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/veIjf9eb/do-a-barrel-roll-2.0.3%2B1.19.2-fabric.jar",
+        "sha512": "d2a98fa744cf05c493e5099e78852628fbef0f974ddf75356539d8243ab3194ab730ba16d2e981293cf7fb5db977e0a743af377b8aee045e6150ad1a27e04f62"
+      },
+      "2_0_2+1_19": {
+        "name": "do-a-barrel-roll-2.0.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/yEP0r6Ew/do-a-barrel-roll-2.0.2%2B1.19.2-fabric.jar",
+        "sha512": "6e05d70e0dfc4172236083e73fd2e587a69f30faff7152298db51845cdcfa9e1cfcbcf59cdc3d87580a311b4bb18c6cf30330ae2aee0ad4306ab3f86bcc4362b"
+      },
+      "2_0_1+1_19": {
+        "name": "do-a-barrel-roll-2.0.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/ydgYYE9t/do-a-barrel-roll-2.0.1%2B1.19.2-fabric.jar",
+        "sha512": "302b1d71fbcc631a04bac405e872515f590aa2de8fafed505f53f2c0cdcf6dd8b9fd50bd0b613b8c49c8061a4691e2362044852ee93b031ef6b893610eb3ff29"
+      },
+      "2_0_0+1_19": {
+        "name": "do-a-barrel-roll-2.0.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/1sryaevE/do-a-barrel-roll-2.0.0%2B1.19.2-fabric.jar",
+        "sha512": "8e22e9dab62137faf32347f69a74018a6ab8b6d2525b61890147d081efe88bde26520cac0b649ee466800aeb9cd8482a3976a6b0a2632d7e040f782a961d9ff8"
+      },
+      "1_3_3+1_19": {
+        "name": "do-a-barrel-roll-1.3.3+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/O7xueryC/do-a-barrel-roll-1.3.3%2B1.19.jar",
+        "sha512": "0898e1e2e47e7bfdde7e9cc0e5e7e6a2ea4a0da0463c7aa49d4c02ef0b86466a982ee286611c1878e7c43c8e16eeb12805eef475ee8ce2dd8ac5a7e777fd1c2d"
+      },
+      "1_3_2+1_19": {
+        "name": "do-a-barrel-roll-1.3.2+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/65fVXLz3/do-a-barrel-roll-1.3.2%2B1.19.jar",
+        "sha512": "e497ae43e0692969f5c760c60e5e391c9c64338b921d53ca9d5fe14565957be760265967f61d99fdd40593ddee7e195f0fce02c1dbc101da1246baf00225ecd1"
+      },
+      "1_3_1+1_19": {
+        "name": "do-a-barrel-roll-1.3.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/htOChW49/do-a-barrel-roll-1.3.1%2B1.19.jar",
+        "sha512": "f8df0c4372a3b42dda3ce050c78b7218cab4fcdead39873998626d39547b907a2ca239daec10c02a7bab0436376c5d01963be213094b378202bb5035d07b6258"
+      },
+      "1_3_0+1_19": {
+        "name": "do-a-barrel-roll-1.3.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KzcdQ9FU/do-a-barrel-roll-1.3.0%2B1.19.jar",
+        "sha512": "ee2ab07cea321a7caaede540b18f5a27cd5824cd5d51df9283ba0c6bf90d533a6d8f780d8dc309d756340654d8035f91017f68e3fd12374ff4359f990bc36a26"
+      },
+      "1_2_3+1_19": {
+        "name": "do-a-barrel-roll-1.2.3+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5O3dPR9X/do-a-barrel-roll-1.2.3%2B1.19.jar",
+        "sha512": "f8346b4b75131233776482d1c09cfe96d2fb232048719e072f306c5906c2600ac367e0c868180702195c57b30f442555d4db69255e8be76748a6f5e364685bce"
+      },
+      "1_2_2+1_19": {
+        "name": "do-a-barrel-roll-1.2.2+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/afCcLQ1c/do-a-barrel-roll-1.2.2%2B1.19.jar",
+        "sha512": "e6fd9569c00af1514b60853de33c8e46f858655c1f6b0924e0519152761b0fb6af9eb4d72657f47e43c5ebea3ff1b4610b109dc3b0ea676797cb5036f63c4a73"
+      },
+      "1_2_1+1_19": {
+        "name": "do-a-barrel-roll-1.2.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XcYpP7ig/do-a-barrel-roll-1.2.1%2B1.19.jar",
+        "sha512": "dfcdaa77cf6739a0a9a04c84d26af741086d9f8ff9216013935c02d571d55e340e3a045757fe0aea9d63f26b6d5286ded1ac1e123ac9da2aa06675cdfc5c7744"
+      },
+      "1_2_0+1_19": {
+        "name": "do-a-barrel-roll-1.2.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/RdGeOLDB/do-a-barrel-roll-1.2.0%2B1.19.jar",
+        "sha512": "36b9daf1ec8a21619d8ecb0353a420183808820283c8df26622f9307d3ae8d5506bf99497e52f73d3a89ca1c3f7a9a8cb6186ed0a25a5b26296e7fabef058ce0"
+      },
+      "1_1_0+1_19": {
+        "name": "do-a-barrel-roll-1.1.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/NlqhjyCI/do-a-barrel-roll-1.1.0%2B1.19.jar",
+        "sha512": "c4ca3d081877d8c21cd463db7d219f14ea6875d4d4c9a3ea1bd98f6c97bafdfc0fca3fa47d716057f0668e31c2a748f5101fdbdc8f15d69d8bbe82ffc1b2a351"
+      },
+      "1_0_0+1_19": {
+        "name": "do-a-barrel-roll-1.0.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/FBF1osil/do-a-barrel-roll-1.0.0%2B1.19.jar",
+        "sha512": "a4700b13cb8870b8c00a314220340da34d659a278742c3f2baf093f296c53dbbb0823cd68cddfb88632788547dd5c149af5d19e431a4709740560baaba1b2840"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2GZpcF7N/do-a-barrel-roll-2.6.2%2B1.19.2-fabric.jar",
+        "sha512": "669ae0054d37aa3bd399713b4e196c9a3f045a37b072ff0580695bbe2eaba5f7080e42d9be40f2e05b4d6e49079122311f2dcba257040cac797be400c00df921"
+      },
+      "2_6_2+1_19": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2GZpcF7N/do-a-barrel-roll-2.6.2%2B1.19.2-fabric.jar",
+        "sha512": "669ae0054d37aa3bd399713b4e196c9a3f045a37b072ff0580695bbe2eaba5f7080e42d9be40f2e05b4d6e49079122311f2dcba257040cac797be400c00df921"
+      },
+      "2_6_1+1_19": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/e1JDHe9b/do-a-barrel-roll-2.6.1%2B1.19.2-fabric.jar",
+        "sha512": "67f6032f53c9351f69789d4ca8417745d6e67472d1aad2a19c0b1da974adec68f3f5d62f278d9b96409ea5af62a70829e833930cb3565ec7623f95d45bd5293e"
+      },
+      "2_6_0+1_19": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/49BAMaJx/do-a-barrel-roll-2.6.0%2B1.19.2-fabric.jar",
+        "sha512": "b175d2d4f1ec7ad2042c769f2e3c78a075d512192808920a4e77a5d263d7c376f9f820e055cb94e4a67bf3785ac4ebe886e6e5e0757c20f282309b512103581b"
+      },
+      "2_5_3+1_19": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9mAq86OS/do-a-barrel-roll-2.5.3%2B1.19.2-fabric.jar",
+        "sha512": "147d6c2f8093bac7a8ff445047e4ec8aa90ee89258e2109db971dd55e2af859fd732597000e5a70c5bef75ce9dd9c395dc906bab1b83a33d65da35d1fad43758"
+      },
+      "2_5_2+1_19": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DNIT5vUX/do-a-barrel-roll-2.5.2%2B1.19.2-fabric.jar",
+        "sha512": "777e0a3c4d69f776bf4857c3262534c626796d2b06b87e24fba6e81a56a76a9a7c6e01cb56ae222c00ea5e640b2160d930b2ef0733171469c540c1d06707b6dc"
+      },
+      "2_5_1+1_19": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XjHa44dr/do-a-barrel-roll-2.5.1%2B1.19.2-fabric.jar",
+        "sha512": "ffb41bc332d44703e60239069ba7f9536b4788baa3d31476b912c981a8da82d5f4f558b1a15d3992faa02b7bc0293dd3ec4ec74c1f2ed330600b3632b9255d03"
+      },
+      "2_5_0+1_19": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/thu8z32t/do-a-barrel-roll-2.5.0%2B1.19.2-fabric.jar",
+        "sha512": "b214ded91c3e8a0dc8376d46ca768449579cc22ffadbb2439ad683fa9b14a15a05177a426510e67bb7a1120cf4dff175d4f459d95396a0e1520f41ed6bd7cfd7"
+      },
+      "2_4_0+1_19": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UA9IRVr3/do-a-barrel-roll-2.4.0%2B1.19.2-fabric.jar",
+        "sha512": "3272a9c6e8d8acd715a375589a5c78f14a66d22f3c8bba131565f9ea712d8b0c63e08bf79ad858dd6b91a2f212afb89b350642a120712343a1e529ee2af26268"
+      },
+      "2_3_4+1_19": {
+        "name": "do-a-barrel-roll-2.3.4+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/wTBxfiYI/do-a-barrel-roll-2.3.4%2B1.19.2-fabric.jar",
+        "sha512": "1686bc573e06aa5830f181e574b4f38a9ff2020e58544280562e1c5db4b6fcbec496c9864f6d310ff4fd65a7c1e2a64dacd5b074b3433b724e984ebff06b6799"
+      },
+      "2_3_3+1_19": {
+        "name": "do-a-barrel-roll-2.3.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cQpF8MVo/do-a-barrel-roll-2.3.3%2B1.19.2-fabric.jar",
+        "sha512": "125491f0cd51b0050303d5298cca3c51b3c34c46f1b385643f809f36147f21bb2003e7044e5215f1c9c42f705186fa95bee6d731d6ef9bac6cc676a163e60939"
+      },
+      "2_3_2+1_19": {
+        "name": "do-a-barrel-roll-2.3.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Eunepnp9/do-a-barrel-roll-2.3.2%2B1.19.2-fabric.jar",
+        "sha512": "38c927ef6b0855721f7f921c68b5d156b9a19fd571f3d894c393cd1182cc5afd4b76e35093d5bc8e96323bdc17612de7845c5f60e8adda88830c56f76468e054"
+      },
+      "2_3_1+1_19": {
+        "name": "do-a-barrel-roll-2.3.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/15oiPLsb/do-a-barrel-roll-2.3.1%2B1.19.2-fabric.jar",
+        "sha512": "0fa53b93043983a1bf6f89eb451cd2399b11d1394c369197dd8358ca8e5a55b3066317a3fb77929b8828d0699df75ca9b725c7b1de41b2d13ed13c1ebbf26543"
+      },
+      "2_3_0+1_19": {
+        "name": "do-a-barrel-roll-2.3.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/m0uwZ4Md/do-a-barrel-roll-2.3.0%2B1.19.2-fabric.jar",
+        "sha512": "e061b0246904a82a9af8ccfc165a1b80f664281c6070c541c6fcb2fdfa3d9995d907a08fab8f0a39bd3e789de729898b5721977106ab6b55189d72bf35c0e230"
+      },
+      "2_2_1+1_19": {
+        "name": "do-a-barrel-roll-2.2.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Hfw3cWFy/do-a-barrel-roll-2.2.1%2B1.19.2-fabric.jar",
+        "sha512": "0f262dbf1f7117d3e6ec94d9f63385e560c06f291d084a82ef12447688b0b71f72e659e901c7780bf055581df40ef8c04a5065b71f306e27e4f80aa02aeb2a03"
+      },
+      "2_2_0+1_19": {
+        "name": "do-a-barrel-roll-2.2.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Ws8I3F28/do-a-barrel-roll-2.2.0%2B1.19.2-fabric.jar",
+        "sha512": "a99c4d2ffd72be71dfbdf162d300cb260657fa29324f58b1c23ab328cfb6e633043d5a5645b246f69dfba584acf1e1069b94b56c7f162b1775893b31b7896dda"
+      },
+      "2_1_0+1_19": {
+        "name": "do-a-barrel-roll-2.1.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/AWbu44WI/do-a-barrel-roll-2.1.0%2B1.19.2-fabric.jar",
+        "sha512": "2ef5b4207f403663cad420332064925dff6b527bdefa3fa09b727ab8ced5b4210c588b39eb704db94367c609d004f2d1df935158101de248f451344a17e12880"
+      },
+      "2_0_3+1_19": {
+        "name": "do-a-barrel-roll-2.0.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/veIjf9eb/do-a-barrel-roll-2.0.3%2B1.19.2-fabric.jar",
+        "sha512": "d2a98fa744cf05c493e5099e78852628fbef0f974ddf75356539d8243ab3194ab730ba16d2e981293cf7fb5db977e0a743af377b8aee045e6150ad1a27e04f62"
+      },
+      "2_0_2+1_19": {
+        "name": "do-a-barrel-roll-2.0.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/yEP0r6Ew/do-a-barrel-roll-2.0.2%2B1.19.2-fabric.jar",
+        "sha512": "6e05d70e0dfc4172236083e73fd2e587a69f30faff7152298db51845cdcfa9e1cfcbcf59cdc3d87580a311b4bb18c6cf30330ae2aee0ad4306ab3f86bcc4362b"
+      },
+      "2_0_1+1_19": {
+        "name": "do-a-barrel-roll-2.0.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/ydgYYE9t/do-a-barrel-roll-2.0.1%2B1.19.2-fabric.jar",
+        "sha512": "302b1d71fbcc631a04bac405e872515f590aa2de8fafed505f53f2c0cdcf6dd8b9fd50bd0b613b8c49c8061a4691e2362044852ee93b031ef6b893610eb3ff29"
+      },
+      "2_0_0+1_19": {
+        "name": "do-a-barrel-roll-2.0.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/1sryaevE/do-a-barrel-roll-2.0.0%2B1.19.2-fabric.jar",
+        "sha512": "8e22e9dab62137faf32347f69a74018a6ab8b6d2525b61890147d081efe88bde26520cac0b649ee466800aeb9cd8482a3976a6b0a2632d7e040f782a961d9ff8"
+      },
+      "1_3_3+1_19": {
+        "name": "do-a-barrel-roll-1.3.3+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/O7xueryC/do-a-barrel-roll-1.3.3%2B1.19.jar",
+        "sha512": "0898e1e2e47e7bfdde7e9cc0e5e7e6a2ea4a0da0463c7aa49d4c02ef0b86466a982ee286611c1878e7c43c8e16eeb12805eef475ee8ce2dd8ac5a7e777fd1c2d"
+      },
+      "1_3_2+1_19": {
+        "name": "do-a-barrel-roll-1.3.2+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/65fVXLz3/do-a-barrel-roll-1.3.2%2B1.19.jar",
+        "sha512": "e497ae43e0692969f5c760c60e5e391c9c64338b921d53ca9d5fe14565957be760265967f61d99fdd40593ddee7e195f0fce02c1dbc101da1246baf00225ecd1"
+      },
+      "1_3_1+1_19": {
+        "name": "do-a-barrel-roll-1.3.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/htOChW49/do-a-barrel-roll-1.3.1%2B1.19.jar",
+        "sha512": "f8df0c4372a3b42dda3ce050c78b7218cab4fcdead39873998626d39547b907a2ca239daec10c02a7bab0436376c5d01963be213094b378202bb5035d07b6258"
+      },
+      "1_3_0+1_19": {
+        "name": "do-a-barrel-roll-1.3.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KzcdQ9FU/do-a-barrel-roll-1.3.0%2B1.19.jar",
+        "sha512": "ee2ab07cea321a7caaede540b18f5a27cd5824cd5d51df9283ba0c6bf90d533a6d8f780d8dc309d756340654d8035f91017f68e3fd12374ff4359f990bc36a26"
+      },
+      "1_2_3+1_19": {
+        "name": "do-a-barrel-roll-1.2.3+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5O3dPR9X/do-a-barrel-roll-1.2.3%2B1.19.jar",
+        "sha512": "f8346b4b75131233776482d1c09cfe96d2fb232048719e072f306c5906c2600ac367e0c868180702195c57b30f442555d4db69255e8be76748a6f5e364685bce"
+      },
+      "1_2_2+1_19": {
+        "name": "do-a-barrel-roll-1.2.2+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/afCcLQ1c/do-a-barrel-roll-1.2.2%2B1.19.jar",
+        "sha512": "e6fd9569c00af1514b60853de33c8e46f858655c1f6b0924e0519152761b0fb6af9eb4d72657f47e43c5ebea3ff1b4610b109dc3b0ea676797cb5036f63c4a73"
+      },
+      "1_2_1+1_19": {
+        "name": "do-a-barrel-roll-1.2.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XcYpP7ig/do-a-barrel-roll-1.2.1%2B1.19.jar",
+        "sha512": "dfcdaa77cf6739a0a9a04c84d26af741086d9f8ff9216013935c02d571d55e340e3a045757fe0aea9d63f26b6d5286ded1ac1e123ac9da2aa06675cdfc5c7744"
+      },
+      "1_2_0+1_19": {
+        "name": "do-a-barrel-roll-1.2.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/RdGeOLDB/do-a-barrel-roll-1.2.0%2B1.19.jar",
+        "sha512": "36b9daf1ec8a21619d8ecb0353a420183808820283c8df26622f9307d3ae8d5506bf99497e52f73d3a89ca1c3f7a9a8cb6186ed0a25a5b26296e7fabef058ce0"
+      },
+      "1_1_0+1_19": {
+        "name": "do-a-barrel-roll-1.1.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/NlqhjyCI/do-a-barrel-roll-1.1.0%2B1.19.jar",
+        "sha512": "c4ca3d081877d8c21cd463db7d219f14ea6875d4d4c9a3ea1bd98f6c97bafdfc0fca3fa47d716057f0668e31c2a748f5101fdbdc8f15d69d8bbe82ffc1b2a351"
+      },
+      "1_0_0+1_19": {
+        "name": "do-a-barrel-roll-1.0.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/FBF1osil/do-a-barrel-roll-1.0.0%2B1.19.jar",
+        "sha512": "a4700b13cb8870b8c00a314220340da34d659a278742c3f2baf093f296c53dbbb0823cd68cddfb88632788547dd5c149af5d19e431a4709740560baaba1b2840"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2GZpcF7N/do-a-barrel-roll-2.6.2%2B1.19.2-fabric.jar",
+        "sha512": "669ae0054d37aa3bd399713b4e196c9a3f045a37b072ff0580695bbe2eaba5f7080e42d9be40f2e05b4d6e49079122311f2dcba257040cac797be400c00df921"
+      },
+      "2_6_2": {
+        "name": "do-a-barrel-roll-2.6.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2GZpcF7N/do-a-barrel-roll-2.6.2%2B1.19.2-fabric.jar",
+        "sha512": "669ae0054d37aa3bd399713b4e196c9a3f045a37b072ff0580695bbe2eaba5f7080e42d9be40f2e05b4d6e49079122311f2dcba257040cac797be400c00df921"
+      },
+      "2_6_1": {
+        "name": "do-a-barrel-roll-2.6.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/e1JDHe9b/do-a-barrel-roll-2.6.1%2B1.19.2-fabric.jar",
+        "sha512": "67f6032f53c9351f69789d4ca8417745d6e67472d1aad2a19c0b1da974adec68f3f5d62f278d9b96409ea5af62a70829e833930cb3565ec7623f95d45bd5293e"
+      },
+      "2_6_0": {
+        "name": "do-a-barrel-roll-2.6.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/49BAMaJx/do-a-barrel-roll-2.6.0%2B1.19.2-fabric.jar",
+        "sha512": "b175d2d4f1ec7ad2042c769f2e3c78a075d512192808920a4e77a5d263d7c376f9f820e055cb94e4a67bf3785ac4ebe886e6e5e0757c20f282309b512103581b"
+      },
+      "2_5_3": {
+        "name": "do-a-barrel-roll-2.5.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/9mAq86OS/do-a-barrel-roll-2.5.3%2B1.19.2-fabric.jar",
+        "sha512": "147d6c2f8093bac7a8ff445047e4ec8aa90ee89258e2109db971dd55e2af859fd732597000e5a70c5bef75ce9dd9c395dc906bab1b83a33d65da35d1fad43758"
+      },
+      "2_5_2": {
+        "name": "do-a-barrel-roll-2.5.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DNIT5vUX/do-a-barrel-roll-2.5.2%2B1.19.2-fabric.jar",
+        "sha512": "777e0a3c4d69f776bf4857c3262534c626796d2b06b87e24fba6e81a56a76a9a7c6e01cb56ae222c00ea5e640b2160d930b2ef0733171469c540c1d06707b6dc"
+      },
+      "2_5_1": {
+        "name": "do-a-barrel-roll-2.5.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XjHa44dr/do-a-barrel-roll-2.5.1%2B1.19.2-fabric.jar",
+        "sha512": "ffb41bc332d44703e60239069ba7f9536b4788baa3d31476b912c981a8da82d5f4f558b1a15d3992faa02b7bc0293dd3ec4ec74c1f2ed330600b3632b9255d03"
+      },
+      "2_5_0": {
+        "name": "do-a-barrel-roll-2.5.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/thu8z32t/do-a-barrel-roll-2.5.0%2B1.19.2-fabric.jar",
+        "sha512": "b214ded91c3e8a0dc8376d46ca768449579cc22ffadbb2439ad683fa9b14a15a05177a426510e67bb7a1120cf4dff175d4f459d95396a0e1520f41ed6bd7cfd7"
+      },
+      "2_4_0": {
+        "name": "do-a-barrel-roll-2.4.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/UA9IRVr3/do-a-barrel-roll-2.4.0%2B1.19.2-fabric.jar",
+        "sha512": "3272a9c6e8d8acd715a375589a5c78f14a66d22f3c8bba131565f9ea712d8b0c63e08bf79ad858dd6b91a2f212afb89b350642a120712343a1e529ee2af26268"
+      },
+      "2_3_4": {
+        "name": "do-a-barrel-roll-2.3.4+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/wTBxfiYI/do-a-barrel-roll-2.3.4%2B1.19.2-fabric.jar",
+        "sha512": "1686bc573e06aa5830f181e574b4f38a9ff2020e58544280562e1c5db4b6fcbec496c9864f6d310ff4fd65a7c1e2a64dacd5b074b3433b724e984ebff06b6799"
+      },
+      "2_3_3": {
+        "name": "do-a-barrel-roll-2.3.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/cQpF8MVo/do-a-barrel-roll-2.3.3%2B1.19.2-fabric.jar",
+        "sha512": "125491f0cd51b0050303d5298cca3c51b3c34c46f1b385643f809f36147f21bb2003e7044e5215f1c9c42f705186fa95bee6d731d6ef9bac6cc676a163e60939"
+      },
+      "2_3_2": {
+        "name": "do-a-barrel-roll-2.3.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Eunepnp9/do-a-barrel-roll-2.3.2%2B1.19.2-fabric.jar",
+        "sha512": "38c927ef6b0855721f7f921c68b5d156b9a19fd571f3d894c393cd1182cc5afd4b76e35093d5bc8e96323bdc17612de7845c5f60e8adda88830c56f76468e054"
+      },
+      "2_3_1": {
+        "name": "do-a-barrel-roll-2.3.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/15oiPLsb/do-a-barrel-roll-2.3.1%2B1.19.2-fabric.jar",
+        "sha512": "0fa53b93043983a1bf6f89eb451cd2399b11d1394c369197dd8358ca8e5a55b3066317a3fb77929b8828d0699df75ca9b725c7b1de41b2d13ed13c1ebbf26543"
+      },
+      "2_3_0": {
+        "name": "do-a-barrel-roll-2.3.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/m0uwZ4Md/do-a-barrel-roll-2.3.0%2B1.19.2-fabric.jar",
+        "sha512": "e061b0246904a82a9af8ccfc165a1b80f664281c6070c541c6fcb2fdfa3d9995d907a08fab8f0a39bd3e789de729898b5721977106ab6b55189d72bf35c0e230"
+      },
+      "2_2_1": {
+        "name": "do-a-barrel-roll-2.2.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Hfw3cWFy/do-a-barrel-roll-2.2.1%2B1.19.2-fabric.jar",
+        "sha512": "0f262dbf1f7117d3e6ec94d9f63385e560c06f291d084a82ef12447688b0b71f72e659e901c7780bf055581df40ef8c04a5065b71f306e27e4f80aa02aeb2a03"
+      },
+      "2_2_0": {
+        "name": "do-a-barrel-roll-2.2.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Ws8I3F28/do-a-barrel-roll-2.2.0%2B1.19.2-fabric.jar",
+        "sha512": "a99c4d2ffd72be71dfbdf162d300cb260657fa29324f58b1c23ab328cfb6e633043d5a5645b246f69dfba584acf1e1069b94b56c7f162b1775893b31b7896dda"
+      },
+      "2_1_0": {
+        "name": "do-a-barrel-roll-2.1.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/AWbu44WI/do-a-barrel-roll-2.1.0%2B1.19.2-fabric.jar",
+        "sha512": "2ef5b4207f403663cad420332064925dff6b527bdefa3fa09b727ab8ced5b4210c588b39eb704db94367c609d004f2d1df935158101de248f451344a17e12880"
+      },
+      "2_0_3": {
+        "name": "do-a-barrel-roll-2.0.3+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/veIjf9eb/do-a-barrel-roll-2.0.3%2B1.19.2-fabric.jar",
+        "sha512": "d2a98fa744cf05c493e5099e78852628fbef0f974ddf75356539d8243ab3194ab730ba16d2e981293cf7fb5db977e0a743af377b8aee045e6150ad1a27e04f62"
+      },
+      "2_0_2": {
+        "name": "do-a-barrel-roll-2.0.2+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/yEP0r6Ew/do-a-barrel-roll-2.0.2%2B1.19.2-fabric.jar",
+        "sha512": "6e05d70e0dfc4172236083e73fd2e587a69f30faff7152298db51845cdcfa9e1cfcbcf59cdc3d87580a311b4bb18c6cf30330ae2aee0ad4306ab3f86bcc4362b"
+      },
+      "2_0_1": {
+        "name": "do-a-barrel-roll-2.0.1+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/ydgYYE9t/do-a-barrel-roll-2.0.1%2B1.19.2-fabric.jar",
+        "sha512": "302b1d71fbcc631a04bac405e872515f590aa2de8fafed505f53f2c0cdcf6dd8b9fd50bd0b613b8c49c8061a4691e2362044852ee93b031ef6b893610eb3ff29"
+      },
+      "2_0_0": {
+        "name": "do-a-barrel-roll-2.0.0+1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/1sryaevE/do-a-barrel-roll-2.0.0%2B1.19.2-fabric.jar",
+        "sha512": "8e22e9dab62137faf32347f69a74018a6ab8b6d2525b61890147d081efe88bde26520cac0b649ee466800aeb9cd8482a3976a6b0a2632d7e040f782a961d9ff8"
+      },
+      "1_3_3": {
+        "name": "do-a-barrel-roll-1.3.3+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/O7xueryC/do-a-barrel-roll-1.3.3%2B1.19.jar",
+        "sha512": "0898e1e2e47e7bfdde7e9cc0e5e7e6a2ea4a0da0463c7aa49d4c02ef0b86466a982ee286611c1878e7c43c8e16eeb12805eef475ee8ce2dd8ac5a7e777fd1c2d"
+      },
+      "1_3_2": {
+        "name": "do-a-barrel-roll-1.3.2+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/65fVXLz3/do-a-barrel-roll-1.3.2%2B1.19.jar",
+        "sha512": "e497ae43e0692969f5c760c60e5e391c9c64338b921d53ca9d5fe14565957be760265967f61d99fdd40593ddee7e195f0fce02c1dbc101da1246baf00225ecd1"
+      },
+      "1_3_1": {
+        "name": "do-a-barrel-roll-1.3.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/htOChW49/do-a-barrel-roll-1.3.1%2B1.19.jar",
+        "sha512": "f8df0c4372a3b42dda3ce050c78b7218cab4fcdead39873998626d39547b907a2ca239daec10c02a7bab0436376c5d01963be213094b378202bb5035d07b6258"
+      },
+      "1_3_0": {
+        "name": "do-a-barrel-roll-1.3.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/KzcdQ9FU/do-a-barrel-roll-1.3.0%2B1.19.jar",
+        "sha512": "ee2ab07cea321a7caaede540b18f5a27cd5824cd5d51df9283ba0c6bf90d533a6d8f780d8dc309d756340654d8035f91017f68e3fd12374ff4359f990bc36a26"
+      },
+      "1_2_3": {
+        "name": "do-a-barrel-roll-1.2.3+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5O3dPR9X/do-a-barrel-roll-1.2.3%2B1.19.jar",
+        "sha512": "f8346b4b75131233776482d1c09cfe96d2fb232048719e072f306c5906c2600ac367e0c868180702195c57b30f442555d4db69255e8be76748a6f5e364685bce"
+      },
+      "1_2_2": {
+        "name": "do-a-barrel-roll-1.2.2+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/afCcLQ1c/do-a-barrel-roll-1.2.2%2B1.19.jar",
+        "sha512": "e6fd9569c00af1514b60853de33c8e46f858655c1f6b0924e0519152761b0fb6af9eb4d72657f47e43c5ebea3ff1b4610b109dc3b0ea676797cb5036f63c4a73"
+      },
+      "1_2_1": {
+        "name": "do-a-barrel-roll-1.2.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/XcYpP7ig/do-a-barrel-roll-1.2.1%2B1.19.jar",
+        "sha512": "dfcdaa77cf6739a0a9a04c84d26af741086d9f8ff9216013935c02d571d55e340e3a045757fe0aea9d63f26b6d5286ded1ac1e123ac9da2aa06675cdfc5c7744"
+      },
+      "1_2_0": {
+        "name": "do-a-barrel-roll-1.2.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/RdGeOLDB/do-a-barrel-roll-1.2.0%2B1.19.jar",
+        "sha512": "36b9daf1ec8a21619d8ecb0353a420183808820283c8df26622f9307d3ae8d5506bf99497e52f73d3a89ca1c3f7a9a8cb6186ed0a25a5b26296e7fabef058ce0"
+      },
+      "1_1_0": {
+        "name": "do-a-barrel-roll-1.1.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/NlqhjyCI/do-a-barrel-roll-1.1.0%2B1.19.jar",
+        "sha512": "c4ca3d081877d8c21cd463db7d219f14ea6875d4d4c9a3ea1bd98f6c97bafdfc0fca3fa47d716057f0668e31c2a748f5101fdbdc8f15d69d8bbe82ffc1b2a351"
+      },
+      "1_0_0": {
+        "name": "do-a-barrel-roll-1.0.0+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/FBF1osil/do-a-barrel-roll-1.0.0%2B1.19.jar",
+        "sha512": "a4700b13cb8870b8c00a314220340da34d659a278742c3f2baf093f296c53dbbb0823cd68cddfb88632788547dd5c149af5d19e431a4709740560baaba1b2840"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "do-a-barrel-roll-2.6.2+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eE2kjsho/do-a-barrel-roll-2.6.2%2B1.18.2-fabric.jar",
+        "sha512": "162430ba89acb8c7525d31d446249509164af1aea40d8729bf213393eda673268e9935d1163376b5c961e114886b5ae045c348c94173d3497b6fd9b2379e509c"
+      },
+      "2_6_2": {
+        "name": "do-a-barrel-roll-2.6.2+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/eE2kjsho/do-a-barrel-roll-2.6.2%2B1.18.2-fabric.jar",
+        "sha512": "162430ba89acb8c7525d31d446249509164af1aea40d8729bf213393eda673268e9935d1163376b5c961e114886b5ae045c348c94173d3497b6fd9b2379e509c"
+      },
+      "2_6_1": {
+        "name": "do-a-barrel-roll-2.6.1+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/hxUi39OJ/do-a-barrel-roll-2.6.1%2B1.18.2-fabric.jar",
+        "sha512": "5372214ecd725e247441c64d491fbaed0072c46283f3fe6fff1d84bf336704a4427e85aece3d932b8ed2f92297591cab3570a0064ef915037c7c09d6b614405b"
+      },
+      "2_6_0": {
+        "name": "do-a-barrel-roll-2.6.0+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/p2kiit3r/do-a-barrel-roll-2.6.0%2B1.18.2-fabric.jar",
+        "sha512": "81b4b15fd4ea2bf203a4909d9ff22084edd5b07c62d81a91213123047772bf1777fe9c14c2d20318cc9770556c90a1126c1f3b78736f3f8b6a420401d79c021c"
+      },
+      "2_5_3": {
+        "name": "do-a-barrel-roll-2.5.3+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/JdhmWEXC/do-a-barrel-roll-2.5.3%2B1.18.2-fabric.jar",
+        "sha512": "68f9754e4bd1dfc1f1b2acdd9e60ccfddaa4f500f189eb708d0b388b833d9b19ed077643afe8dc079e3b2809733a9cfc7fe7b3b760a57e4b2b0af2ad98c5178b"
+      },
+      "2_5_2": {
+        "name": "do-a-barrel-roll-2.5.2+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/a2ikZBtM/do-a-barrel-roll-2.5.2%2B1.18.2-fabric.jar",
+        "sha512": "0e700c21774d6173366831f952ddfe3ff73402666089f03e3904d61ecbc4b8dd2b5279b9169613810d81cf608d66151e06536bd7ef1a2ed670da3f0ff648a364"
+      },
+      "2_5_1": {
+        "name": "do-a-barrel-roll-2.5.1+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/EWRGHy3g/do-a-barrel-roll-2.5.1%2B1.18.2-fabric.jar",
+        "sha512": "24d23f5cfebdbab6ac6316cb32b7481de9481fe197b2444dce85ee9660880a2189b9146eea4c863e445ec3b7ca3c4cabf847c957e44d00b77fba28b74a91a858"
+      },
+      "2_5_0": {
+        "name": "do-a-barrel-roll-2.5.0+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/i3cCcNIa/do-a-barrel-roll-2.5.0%2B1.18.2-fabric.jar",
+        "sha512": "0bc74bc3fcc3735c5014546ff7055eb8f71dc3fa429b77f31c9bc50522eb4247fd7ef7ebb97d0a49369d65766a3148c267f7f07a1b48c0b45eca097a014bf252"
+      },
+      "2_4_0": {
+        "name": "do-a-barrel-roll-2.4.0+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/ZIVSKDMl/do-a-barrel-roll-2.4.0%2B1.18.2-fabric.jar",
+        "sha512": "0042b1f5d8c03cba73b2687d8f23221dc1979032322bc61d903dc80e67468e40288358c046afcc0fc197aab75028e24f632e0b919b69ce47ebc118254b0b7453"
+      },
+      "2_3_4": {
+        "name": "do-a-barrel-roll-2.3.4+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/WJIph4ys/do-a-barrel-roll-2.3.4%2B1.18.2-fabric.jar",
+        "sha512": "ff2dd0c1bf922439b2b450f77cfe4a81fd77ade4fef8ced949539cbf734e34c0835506223b1efd84e4d86e875631946c8ada3c6bcc9f0c255226a3e065c5840b"
+      },
+      "2_3_3": {
+        "name": "do-a-barrel-roll-2.3.3+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/v0Hg3qaE/do-a-barrel-roll-2.3.3%2B1.18.2-fabric.jar",
+        "sha512": "24f26ec12c75b0df10007e0275aeb06e239c1e3a2b9062a1b5c0822934ba21ae985c0e8513b069fb0abc0593560d0787b3dd56c377a9e38e673d9e8224150415"
+      },
+      "2_3_2": {
+        "name": "do-a-barrel-roll-2.3.1+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Va6KeLzG/do-a-barrel-roll-2.3.1%2B1.18.2-fabric.jar",
+        "sha512": "e902df03db5d524aec7e1d059b6148fddbe5d1529ca01383d4746ef5758bfd3215e0802ff6b40c9a4b14697350818c32c5bf82dadcce42a3d9f487d89974fa79"
+      },
+      "2_3_1": {
+        "name": "do-a-barrel-roll-2.3.1+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/psj0IIJ5/do-a-barrel-roll-2.3.1%2B1.18.2-fabric.jar",
+        "sha512": "725f374116161e44f4ed953ce6eb30f1fda88ebd500e7b06150066000a18e3efd24a0ef13ef2aac96bb40388d6b933f540073a1e31c2d535149c4cf0cc7bcd7d"
+      },
+      "2_3_0": {
+        "name": "do-a-barrel-roll-2.3.0+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/vLiy6emu/do-a-barrel-roll-2.3.0%2B1.18.2-fabric.jar",
+        "sha512": "5c63b9fd120a86492fc64ae26cc0270a5ac72b6c7dcd36c14e439443331aa82ebc0342a85bd87a9e9b267837b1ebc4db8753a5a766a1a4b9f6026c7112fdbf7f"
+      },
+      "2_2_1": {
+        "name": "do-a-barrel-roll-2.2.1+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/u01IgEvL/do-a-barrel-roll-2.2.1%2B1.18.2-fabric.jar",
+        "sha512": "ee1a0640ed305ba47a4888996e9cca19a3135c6eb71b85c48e212ae130479dcead95271aac328cdc551dff61b0e7f508a6395665834ace4eb828790d24c5bb3c"
+      },
+      "2_2_0": {
+        "name": "do-a-barrel-roll-2.2.0+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2bKiSrV1/do-a-barrel-roll-2.2.0%2B1.18.2-fabric.jar",
+        "sha512": "7ce19e330322bea9b784becb0dc0befcd4729f992587d493c1f270fc29afbbf0b3ae15bb908a12784acea0c6970fc24880cd8ccc9372c465ea4b40335dafa622"
+      },
+      "2_1_0": {
+        "name": "do-a-barrel-roll-2.1.0+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DwcmCwIe/do-a-barrel-roll-2.1.0%2B1.18.2-fabric.jar",
+        "sha512": "f6436d85ccdffe5b76670dace59f6c463b4b331474f1c1392f8fe738aef88db6cee363019c27b0e5a843846ef25dfad49d214f906e21756fa42ee9622af26613"
+      },
+      "2_0_3": {
+        "name": "do-a-barrel-roll-2.0.3+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/D1sCy5H6/do-a-barrel-roll-2.0.3%2B1.18.2-fabric.jar",
+        "sha512": "269f2db72538019580febd98a1260a119c9fbe43b45beddf4da44c8577db0a203f953a2c6cfcaf543f25b33cd867dd73f00dfd0eefbe8fac9f9fd2cb5b5b7279"
+      },
+      "2_0_2": {
+        "name": "do-a-barrel-roll-2.0.2+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/l1OtiztH/do-a-barrel-roll-2.0.2%2B1.18.2-fabric.jar",
+        "sha512": "e2cce7b4d9b2107b100e121e226f20be47906489b324ad8b422126ae7ac5d6dee48637afaf06145c86c65fe41044362d5b03cf050a5241cd7c43904865a4d275"
+      },
+      "2_0_1": {
+        "name": "do-a-barrel-roll-2.0.1+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/By23e8Rx/do-a-barrel-roll-2.0.1%2B1.18.2-fabric.jar",
+        "sha512": "086b9f030a7d667a701e6458c1935d3b37e020f12cfada3ac2699253a6334c528399c3b3cd3d2c039d22425a492e361be9bae2128c0f9b57b5f3ce8fa1759a77"
+      },
+      "2_0_0": {
+        "name": "do-a-barrel-roll-2.0.0+1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5GlNCgf2/do-a-barrel-roll-2.0.0%2B1.18.2-fabric.jar",
+        "sha512": "0c0fa3e037d669dd0cb48047cc30c2db8ef407f822b69de9e7337a814f03df18e12706e3d6a04c8e8c0800c0a892f05ef0d468916464fe94d1368b186c7060c9"
+      },
+      "1_3_3": {
+        "name": "do-a-barrel-roll-1.3.3+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/2NVQ8FN1/do-a-barrel-roll-1.3.3%2B1.18.2.jar",
+        "sha512": "2cbb799f731d13ea27330e74407a41d25b35d90feedd2a12cf7890c818b5418f834de244bcb270597e030d5da694108540879baeaf9b0d77a49135b53d8f2752"
+      },
+      "1_3_2": {
+        "name": "do-a-barrel-roll-1.3.2+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/sRNui8uR/do-a-barrel-roll-1.3.2%2B1.18.2.jar",
+        "sha512": "ebd15b76442f6b13d7a56a02c5bc3f7eb0717f065a7b4bed6369fb107aa5c1582657af1e331a5b9bba782ae7b7866554d6b01e04220b46cf358ffdc4999b42e5"
+      },
+      "1_3_1": {
+        "name": "do-a-barrel-roll-1.3.1+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/q0stzwqc/do-a-barrel-roll-1.3.1%2B1.18.2.jar",
+        "sha512": "b391f8c3c3a88184dfa32be2553ade534fcbb89497673a8414d5259dd42ea9cbfd1277004d6aa4441b83fc5c6eb7cccbbfef3b8b294ba5e9e0534748a21c2853"
+      },
+      "1_3_0": {
+        "name": "do-a-barrel-roll-1.3.0+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/oIbVdzDn/do-a-barrel-roll-1.3.0%2B1.18.2.jar",
+        "sha512": "867b59ec528bbc5f70c57019a640d4a2540241db997f1fa070b94923047dc031a6907fa507972a239899530a738eb788fc14a6a457d05b59aa5f8b330ba3633d"
+      },
+      "1_2_3": {
+        "name": "do-a-barrel-roll-1.2.3+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/DtlcR4vt/do-a-barrel-roll-1.2.3%2B1.18.2.jar",
+        "sha512": "d13271068952aad48cd897297143000fb2b83c0d64872f2ff83d559438ca63900ae3ec3a731bd3fbb1973af213ff3bcdafd1ecb22e8e4f9bd75882ddd2e89216"
+      },
+      "1_2_2+1_18": {
+        "name": "do-a-barrel-roll-1.2.2+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/LactAtLB/do-a-barrel-roll-1.2.2%2B1.18.jar",
+        "sha512": "d56999d6f0bcd593abaa5a500a9059ab4b73dedad925a6111d0ba57e8f7589ea43aa7abaa6a9d5a112d5efe7eade8d2248f440d148290c8298082d5b1e249697"
+      },
+      "1_2_0+1_18": {
+        "name": "do-a-barrel-roll-1.2.0+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Tne4pAY5/do-a-barrel-roll-1.2.0%2B1.18.jar",
+        "sha512": "381f5a90d7c9c17ec0a1e747042ffed8aa4943ceb5689cbcb0743f49c9beaddce07f558b2d33d0d5075e1bcf18780fc8034b0389f510cb5fa45b544db4e86105"
+      }
+    },
+    "1_17_1": {
+      "latest": {
+        "name": "do-a-barrel-roll-1.3.3+1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5te3CHsv/do-a-barrel-roll-1.3.3%2B1.17.1.jar",
+        "sha512": "2fde717d0371ad9d49242780089cdb288ed9d5a971703ca771e913653916ea75c7b7e987ad362eb88523a0e5b7a668ab3088c71122f3b12dc292d8d40e25dbb4"
+      },
+      "1_3_3": {
+        "name": "do-a-barrel-roll-1.3.3+1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/5te3CHsv/do-a-barrel-roll-1.3.3%2B1.17.1.jar",
+        "sha512": "2fde717d0371ad9d49242780089cdb288ed9d5a971703ca771e913653916ea75c7b7e987ad362eb88523a0e5b7a668ab3088c71122f3b12dc292d8d40e25dbb4"
+      }
     }
   }
 }

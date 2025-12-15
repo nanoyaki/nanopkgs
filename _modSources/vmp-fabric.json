@@ -1,139 +1,2267 @@
 {
   "fabric": {
-    "1.21.11": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DWcuGNuY/vmp-fabric-mc1.21.11-rc3-0.2.0%2Bbeta.7.219-all.jar",
-      "sha512": "8fc53de6b79c32cd356af9d47a05320b9382ca157bfa25483f60434d6d0a60aafa9b12301a4617ec5d04170a5bb688206b1f53e9ac77e7d5a440fdb61488cfa4",
-      "name": "vmp-fabric-mc1.21.11-rc3-0.2.0+beta.7.219-all.jar"
+    "1_21_11-pre5": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.11-pre5-0.2.0+beta.7.218-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/HjgM9mAS/vmp-fabric-mc1.21.11-pre5-0.2.0%2Bbeta.7.218-all.jar",
+        "sha512": "f967add1bccb1ebd0f5fa0d465ce39a5040484815f8a33a9065d3ded8c53254b0aac4df6082839bcfa19d393aa4d7e9587380c970122ab50f7f3dc140dca5970"
+      },
+      "0_2_0+beta_7_218": {
+        "name": "vmp-fabric-mc1.21.11-pre5-0.2.0+beta.7.218-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/HjgM9mAS/vmp-fabric-mc1.21.11-pre5-0.2.0%2Bbeta.7.218-all.jar",
+        "sha512": "f967add1bccb1ebd0f5fa0d465ce39a5040484815f8a33a9065d3ded8c53254b0aac4df6082839bcfa19d393aa4d7e9587380c970122ab50f7f3dc140dca5970"
+      }
     },
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/AArVFbHr/vmp-fabric-mc1.21.10-rc1-0.2.0%2Bbeta.7.214-all.jar",
-      "sha512": "407cc3bc8cce7602a26d6a03579376980b64ca121c90301bb81b60c8affecb71c10dcbd249dd9a02ea016b6210585c154de66a7ed680deb02294b2e6cf6a4193",
-      "name": "vmp-fabric-mc1.21.10-rc1-0.2.0+beta.7.214-all.jar"
+    "1_21_11-rc3": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.11-rc3-0.2.0+beta.7.219-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DWcuGNuY/vmp-fabric-mc1.21.11-rc3-0.2.0%2Bbeta.7.219-all.jar",
+        "sha512": "8fc53de6b79c32cd356af9d47a05320b9382ca157bfa25483f60434d6d0a60aafa9b12301a4617ec5d04170a5bb688206b1f53e9ac77e7d5a440fdb61488cfa4"
+      },
+      "0_2_0+beta_7_219": {
+        "name": "vmp-fabric-mc1.21.11-rc3-0.2.0+beta.7.219-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DWcuGNuY/vmp-fabric-mc1.21.11-rc3-0.2.0%2Bbeta.7.219-all.jar",
+        "sha512": "8fc53de6b79c32cd356af9d47a05320b9382ca157bfa25483f60434d6d0a60aafa9b12301a4617ec5d04170a5bb688206b1f53e9ac77e7d5a440fdb61488cfa4"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5W9z3D3I/vmp-fabric-mc1.21.9-rc1-0.2.0%2Bbeta.7.211-all.jar",
-      "sha512": "169d556d2f5141af60e824bb58db71cf9daea88931c89dbc6794c4f565cb4df6bc0abdef2825fe15e12e98be82337f1a7d0fb4c648472ae9b90968a242e12c8e",
-      "name": "vmp-fabric-mc1.21.9-rc1-0.2.0+beta.7.211-all.jar"
+    "1_21_11": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.11-0.2.0+beta.7.223-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sH60MMGd/vmp-fabric-mc1.21.11-0.2.0%2Bbeta.7.223-all.jar",
+        "sha512": "9e15d50f218a23969b44e1b42d9d2a344061df27336837779a7abb3bc8318caf80613d9b17bd78e606091427200566f7ed24201844721ff2779f103aebe4cd14"
+      },
+      "0_2_0+beta_7_223": {
+        "name": "vmp-fabric-mc1.21.11-0.2.0+beta.7.223-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sH60MMGd/vmp-fabric-mc1.21.11-0.2.0%2Bbeta.7.223-all.jar",
+        "sha512": "9e15d50f218a23969b44e1b42d9d2a344061df27336837779a7abb3bc8318caf80613d9b17bd78e606091427200566f7ed24201844721ff2779f103aebe4cd14"
+      },
+      "0_2_0+beta_7_222": {
+        "name": "vmp-fabric-mc1.21.11-0.2.0+beta.7.222-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/kC38mzUE/vmp-fabric-mc1.21.11-0.2.0%2Bbeta.7.222-all.jar",
+        "sha512": "efde05a47d0bbec39dea0a22e4daa9846b0bc1bf3a41f6595331a15745d3179e54d7394da77a38668f6aade519244f4ed824e18ad14a35315158ce9c6292d5b5"
+      },
+      "0_2_0+beta_7_220": {
+        "name": "vmp-fabric-mc1.21.11-0.2.0+beta.7.220-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5g3zA3bb/vmp-fabric-mc1.21.11-0.2.0%2Bbeta.7.220-all.jar",
+        "sha512": "5548b84e3604688c3ee04af705e18e6e84eca47492eeb9542db6e4eaf845d373c994c85b4fb3bcdea9576aa527622eed9792f3b00549743301ec3fedf50dc62d"
+      },
+      "0_2_0+beta_7_219rc3": {
+        "name": "vmp-fabric-mc1.21.11-rc3-0.2.0+beta.7.219-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DWcuGNuY/vmp-fabric-mc1.21.11-rc3-0.2.0%2Bbeta.7.219-all.jar",
+        "sha512": "8fc53de6b79c32cd356af9d47a05320b9382ca157bfa25483f60434d6d0a60aafa9b12301a4617ec5d04170a5bb688206b1f53e9ac77e7d5a440fdb61488cfa4"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/BNFjRpkj/vmp-fabric-mc1.21.8-0.2.0%2Bbeta.7.205-all.jar",
-      "sha512": "19307816323dbcba9e554a2d04417e0e7fb0cdf3ca2f4d1aff8ce66b0ef76dc3f748e6216ab03f179578364ba35df5bf867560cbf941cbc51b137199cd5da6dc",
-      "name": "vmp-fabric-mc1.21.8-0.2.0+beta.7.205-all.jar"
+    "1_21_10-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.10-rc1-0.2.0+beta.7.214-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/AArVFbHr/vmp-fabric-mc1.21.10-rc1-0.2.0%2Bbeta.7.214-all.jar",
+        "sha512": "407cc3bc8cce7602a26d6a03579376980b64ca121c90301bb81b60c8affecb71c10dcbd249dd9a02ea016b6210585c154de66a7ed680deb02294b2e6cf6a4193"
+      },
+      "0_2_0+beta_7_214": {
+        "name": "vmp-fabric-mc1.21.10-rc1-0.2.0+beta.7.214-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/AArVFbHr/vmp-fabric-mc1.21.10-rc1-0.2.0%2Bbeta.7.214-all.jar",
+        "sha512": "407cc3bc8cce7602a26d6a03579376980b64ca121c90301bb81b60c8affecb71c10dcbd249dd9a02ea016b6210585c154de66a7ed680deb02294b2e6cf6a4193"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fcuAO34V/vmp-fabric-mc1.21.7-0.2.0%2Bbeta.7.202-all.jar",
-      "sha512": "f2830ee9403f26caf6189ba3d9f185bf77c087bba6973cc2960cf01623076e5935689ee366fe88087aa43f92a73128208e50333789acd433e59feccb9f371f55",
-      "name": "vmp-fabric-mc1.21.7-0.2.0+beta.7.202-all.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.10-0.2.0+beta.7.217-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/nCucW7Sl/vmp-fabric-mc1.21.10-0.2.0%2Bbeta.7.217-all.jar",
+        "sha512": "b49e312a32fbc6cac4d495b8987acf41f674b411c909533af334def20ca714448f7f109808dbac6b3cca2a2ff9ab97148484d55d51c32b8d756d453cf0fe7ea1"
+      },
+      "0_2_0+beta_7_217": {
+        "name": "vmp-fabric-mc1.21.10-0.2.0+beta.7.217-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/nCucW7Sl/vmp-fabric-mc1.21.10-0.2.0%2Bbeta.7.217-all.jar",
+        "sha512": "b49e312a32fbc6cac4d495b8987acf41f674b411c909533af334def20ca714448f7f109808dbac6b3cca2a2ff9ab97148484d55d51c32b8d756d453cf0fe7ea1"
+      },
+      "0_2_0+beta_7_216": {
+        "name": "vmp-fabric-mc1.21.10-0.2.0+beta.7.216-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Xvc4dJV7/vmp-fabric-mc1.21.10-0.2.0%2Bbeta.7.216-all.jar",
+        "sha512": "2b0b711f9928cd0fa644890dd85c9dd7b08ed1a13527090a180faa0d02bb7292f1bce64681f7135260668aba8c19bc5e2593f4effdd14dba123422f8af847252"
+      },
+      "0_2_0+beta_7_215": {
+        "name": "vmp-fabric-mc1.21.10-0.2.0+beta.7.215-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ppncuwIK/vmp-fabric-mc1.21.10-0.2.0%2Bbeta.7.215-all.jar",
+        "sha512": "4c8026c7a2ee1cfd6b4113565543f87874e5da755640123561371f7ef0bf8d86e0ea4aadd5f96ee527b3903db5b3f01c00cb8052f72e802cee2dd4f32830df59"
+      },
+      "0_2_0+beta_7_214rc1": {
+        "name": "vmp-fabric-mc1.21.10-rc1-0.2.0+beta.7.214-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/AArVFbHr/vmp-fabric-mc1.21.10-rc1-0.2.0%2Bbeta.7.214-all.jar",
+        "sha512": "407cc3bc8cce7602a26d6a03579376980b64ca121c90301bb81b60c8affecb71c10dcbd249dd9a02ea016b6210585c154de66a7ed680deb02294b2e6cf6a4193"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/aWatA9pi/vmp-fabric-mc1.21.6-0.2.0%2Bbeta.7.200-all.jar",
-      "sha512": "185e9ea7f7ded136cd781845a2d422fbdeb6daa04bad605b9f59c001e0b90bad6f2a1ed4ff78bcdabd0bd13f2be09c636783ee4205101f2a919ade9e64bcde98",
-      "name": "vmp-fabric-mc1.21.6-0.2.0+beta.7.200-all.jar"
+    "1_21_9-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.9-rc1-0.2.0+beta.7.211-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5W9z3D3I/vmp-fabric-mc1.21.9-rc1-0.2.0%2Bbeta.7.211-all.jar",
+        "sha512": "169d556d2f5141af60e824bb58db71cf9daea88931c89dbc6794c4f565cb4df6bc0abdef2825fe15e12e98be82337f1a7d0fb4c648472ae9b90968a242e12c8e"
+      },
+      "0_2_0+beta_7_211": {
+        "name": "vmp-fabric-mc1.21.9-rc1-0.2.0+beta.7.211-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5W9z3D3I/vmp-fabric-mc1.21.9-rc1-0.2.0%2Bbeta.7.211-all.jar",
+        "sha512": "169d556d2f5141af60e824bb58db71cf9daea88931c89dbc6794c4f565cb4df6bc0abdef2825fe15e12e98be82337f1a7d0fb4c648472ae9b90968a242e12c8e"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QxChA7de/vmp-fabric-mc1.21.5-rc1-0.2.0%2Bbeta.7.192-all.jar",
-      "sha512": "7a7baa498cc9f4dd9f3ed51ef66b334f616a2dd386fffbf1b1037065261d7a55094f8d2729cf045f2e6dd8ae01148a7db4ff07d6b63b964c32cc1dc6e106f9ff",
-      "name": "vmp-fabric-mc1.21.5-rc1-0.2.0+beta.7.192-all.jar"
+    "1_21_9-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.9-pre1-0.2.0+beta.7.210-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/YTErf7Cf/vmp-fabric-mc1.21.9-pre1-0.2.0%2Bbeta.7.210-all.jar",
+        "sha512": "23774bd1c8746445461bcf5287ac6280918c1fc7d2c8c17699446b51fd6e6b25806a12285d2d7679b688afd80063dd4595b9f492864275093d3313109d5961fb"
+      },
+      "0_2_0+beta_7_210": {
+        "name": "vmp-fabric-mc1.21.9-pre1-0.2.0+beta.7.210-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/YTErf7Cf/vmp-fabric-mc1.21.9-pre1-0.2.0%2Bbeta.7.210-all.jar",
+        "sha512": "23774bd1c8746445461bcf5287ac6280918c1fc7d2c8c17699446b51fd6e6b25806a12285d2d7679b688afd80063dd4595b9f492864275093d3313109d5961fb"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/JPSbekr6/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.186-all.jar",
-      "sha512": "7f40cd22e86f3ea9b128a6d01b67563a5d4b4a0e8bdfe46f3932cf80ea190c664b1354de8644184c11349cdb03b1975840d75fc0f270c239c8b4cc60d20c60fb",
-      "name": "vmp-fabric-mc1.21.4-0.2.0+beta.7.186-all.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.9-0.2.0+beta.7.212-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/2Cz5TBGp/vmp-fabric-mc1.21.9-0.2.0%2Bbeta.7.212-all.jar",
+        "sha512": "bf812729b9a060289036ac2a19ef44b6c8cd610f1f9d562e501c8c589d96b713fd58cdc2bebaedef9203234d2488c8dd36c2c9b4488162fc762004ae15c64f49"
+      },
+      "0_2_0+beta_7_212": {
+        "name": "vmp-fabric-mc1.21.9-0.2.0+beta.7.212-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/2Cz5TBGp/vmp-fabric-mc1.21.9-0.2.0%2Bbeta.7.212-all.jar",
+        "sha512": "bf812729b9a060289036ac2a19ef44b6c8cd610f1f9d562e501c8c589d96b713fd58cdc2bebaedef9203234d2488c8dd36c2c9b4488162fc762004ae15c64f49"
+      },
+      "0_2_0+beta_7_211rc1": {
+        "name": "vmp-fabric-mc1.21.9-rc1-0.2.0+beta.7.211-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5W9z3D3I/vmp-fabric-mc1.21.9-rc1-0.2.0%2Bbeta.7.211-all.jar",
+        "sha512": "169d556d2f5141af60e824bb58db71cf9daea88931c89dbc6794c4f565cb4df6bc0abdef2825fe15e12e98be82337f1a7d0fb4c648472ae9b90968a242e12c8e"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/IIH63ssE/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.177-all.jar",
-      "sha512": "6d03091fd417e324ad3ba7803b07acb1d4c5922b772315f98ef81341fd7e80e02bcd0605a75b515122ecfdd34fd4704aa9d6cd824b79d05cc9cab40ef6b50efc",
-      "name": "vmp-fabric-mc1.21.3-0.2.0+beta.7.177-all.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.8-0.2.0+beta.7.207-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/KvcCuByh/vmp-fabric-mc1.21.8-0.2.0%2Bbeta.7.207-all.jar",
+        "sha512": "1ae5f0ddf1f037c1cd7cc580168f57394c86f197203ef19ee1232cf327ab82c66d10d5baf431bf2d880fb2127c264e0749dc7c7b79eb1ede8cd1cbd9cc6b5221"
+      },
+      "0_2_0+beta_7_207": {
+        "name": "vmp-fabric-mc1.21.8-0.2.0+beta.7.207-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/KvcCuByh/vmp-fabric-mc1.21.8-0.2.0%2Bbeta.7.207-all.jar",
+        "sha512": "1ae5f0ddf1f037c1cd7cc580168f57394c86f197203ef19ee1232cf327ab82c66d10d5baf431bf2d880fb2127c264e0749dc7c7b79eb1ede8cd1cbd9cc6b5221"
+      },
+      "0_2_0+beta_7_206": {
+        "name": "vmp-fabric-mc1.21.8-0.2.0+beta.7.206-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/GKphp1nS/vmp-fabric-mc1.21.8-0.2.0%2Bbeta.7.206-all.jar",
+        "sha512": "04ca7eba0e5d92d12a6ff3f8b507f75b20b66ea962dd2511104c3658c66aa743aec2fc50c612afb8feafb103e83e5ddae38be966233df3f113e59425f64c7bdb"
+      },
+      "0_2_0+beta_7_205": {
+        "name": "vmp-fabric-mc1.21.8-0.2.0+beta.7.205-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/BNFjRpkj/vmp-fabric-mc1.21.8-0.2.0%2Bbeta.7.205-all.jar",
+        "sha512": "19307816323dbcba9e554a2d04417e0e7fb0cdf3ca2f4d1aff8ce66b0ef76dc3f748e6216ab03f179578364ba35df5bf867560cbf941cbc51b137199cd5da6dc"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/S1sjicnO/vmp-fabric-mc1.21.2-0.2.0%2Bbeta.7.176-all.jar",
-      "sha512": "8e1614ec9b59a9709d0fa31fecd646b12b32e8ebe913e443a1d34736c89e0720f3615611dec7c2b0ac18507fbfe226713091cb3871025ce74687df3b670e8153",
-      "name": "vmp-fabric-mc1.21.2-0.2.0+beta.7.176-all.jar"
+    "1_21_7-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.7-rc1-0.2.0+beta.7.201-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/o2KxRuzP/vmp-fabric-mc1.21.7-rc1-0.2.0%2Bbeta.7.201-all.jar",
+        "sha512": "c86a86765ed1d2cede303b14ecb5145e2bd1fa5f97ea28a3124ae71efdab2f08538584bb5d64c59ba280d986c2d892a30ee692d935e3bcf1726f9b47a669438a"
+      },
+      "0_2_0+beta_7_201": {
+        "name": "vmp-fabric-mc1.21.7-rc1-0.2.0+beta.7.201-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/o2KxRuzP/vmp-fabric-mc1.21.7-rc1-0.2.0%2Bbeta.7.201-all.jar",
+        "sha512": "c86a86765ed1d2cede303b14ecb5145e2bd1fa5f97ea28a3124ae71efdab2f08538584bb5d64c59ba280d986c2d892a30ee692d935e3bcf1726f9b47a669438a"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PT5DZrQC/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.163-all.jar",
-      "sha512": "0449ade761cc4b7dcb51e68907f02211393ea999d4799f79f10750dad84ea263661c002a171c77c90d8a6fe9b8c14effa3d15a6df76436e5f4c7432d8a291383",
-      "name": "vmp-fabric-mc1.21-0.2.0+beta.7.163-all.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.7-0.2.0+beta.7.202-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fcuAO34V/vmp-fabric-mc1.21.7-0.2.0%2Bbeta.7.202-all.jar",
+        "sha512": "f2830ee9403f26caf6189ba3d9f185bf77c087bba6973cc2960cf01623076e5935689ee366fe88087aa43f92a73128208e50333789acd433e59feccb9f371f55"
+      },
+      "0_2_0+beta_7_202": {
+        "name": "vmp-fabric-mc1.21.7-0.2.0+beta.7.202-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fcuAO34V/vmp-fabric-mc1.21.7-0.2.0%2Bbeta.7.202-all.jar",
+        "sha512": "f2830ee9403f26caf6189ba3d9f185bf77c087bba6973cc2960cf01623076e5935689ee366fe88087aa43f92a73128208e50333789acd433e59feccb9f371f55"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OPdBcjR7/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.162-all.jar",
-      "sha512": "1e67d04d1000721c380343fd456324b903a536b8d5c73d8469af631084fa8d10e830ef4a9ce2d4f0aadd18337e5b0e1801bcb48b5668f6ccfc278edbfbc41299",
-      "name": "vmp-fabric-mc1.21-0.2.0+beta.7.162-all.jar"
+    "1_21_6-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.6-rc1-0.2.0+beta.7.199-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NRfENMQ4/vmp-fabric-mc1.21.6-rc1-0.2.0%2Bbeta.7.199-all.jar",
+        "sha512": "0b0cbb79ebb7a38f1f6aaf6da63a2fe683ec0286dccc3d0a51b99943f2e9006d3f87ae4683172288fe54afc9e4614c805e723914e0666745efa3c9c1384ef7bf"
+      },
+      "0_2_0+beta_7_199": {
+        "name": "vmp-fabric-mc1.21.6-rc1-0.2.0+beta.7.199-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NRfENMQ4/vmp-fabric-mc1.21.6-rc1-0.2.0%2Bbeta.7.199-all.jar",
+        "sha512": "0b0cbb79ebb7a38f1f6aaf6da63a2fe683ec0286dccc3d0a51b99943f2e9006d3f87ae4683172288fe54afc9e4614c805e723914e0666745efa3c9c1384ef7bf"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/83ET13o3/vmp-fabric-mc1.20.6-0.2.0%2Bbeta.7.155-all.jar",
-      "sha512": "3b94d1cb477bfadfa7315664571e745029f764d168511b2848f0a3cb8aaf54da8f12caa921a1e7abf2c5906326fb1159a8fd457b35281a0fb4221fbb98465bcb",
-      "name": "vmp-fabric-mc1.20.6-0.2.0+beta.7.155-all.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.6-0.2.0+beta.7.200-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/aWatA9pi/vmp-fabric-mc1.21.6-0.2.0%2Bbeta.7.200-all.jar",
+        "sha512": "185e9ea7f7ded136cd781845a2d422fbdeb6daa04bad605b9f59c001e0b90bad6f2a1ed4ff78bcdabd0bd13f2be09c636783ee4205101f2a919ade9e64bcde98"
+      },
+      "0_2_0+beta_7_200": {
+        "name": "vmp-fabric-mc1.21.6-0.2.0+beta.7.200-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/aWatA9pi/vmp-fabric-mc1.21.6-0.2.0%2Bbeta.7.200-all.jar",
+        "sha512": "185e9ea7f7ded136cd781845a2d422fbdeb6daa04bad605b9f59c001e0b90bad6f2a1ed4ff78bcdabd0bd13f2be09c636783ee4205101f2a919ade9e64bcde98"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/qL1lw30r/vmp-fabric-mc1.20.5-0.2.0%2Bbeta.7.151-all.jar",
-      "sha512": "7ec3bb9afdbe6fdd78a9051b32df8621aff193d1501a92c3111d1838da81bd359ab298411eca57ac59121bce43c8137e40fb96c27946a5b8a003ce94c4af6060",
-      "name": "vmp-fabric-mc1.20.5-0.2.0+beta.7.151-all.jar"
+    "1_21_5-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.5-rc1-0.2.0+beta.7.192-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QxChA7de/vmp-fabric-mc1.21.5-rc1-0.2.0%2Bbeta.7.192-all.jar",
+        "sha512": "7a7baa498cc9f4dd9f3ed51ef66b334f616a2dd386fffbf1b1037065261d7a55094f8d2729cf045f2e6dd8ae01148a7db4ff07d6b63b964c32cc1dc6e106f9ff"
+      },
+      "0_2_0+beta_7_192": {
+        "name": "vmp-fabric-mc1.21.5-rc1-0.2.0+beta.7.192-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QxChA7de/vmp-fabric-mc1.21.5-rc1-0.2.0%2Bbeta.7.192-all.jar",
+        "sha512": "7a7baa498cc9f4dd9f3ed51ef66b334f616a2dd386fffbf1b1037065261d7a55094f8d2729cf045f2e6dd8ae01148a7db4ff07d6b63b964c32cc1dc6e106f9ff"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fIIwTkB2/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.134-all.jar",
-      "sha512": "a4830d863008ab07377cca0d2d048c455ddaa0b9f7ccb37e06ffd82e5b46dfa694cede8b155401e26addf185cffcd116757adcf40b82063d221f3be22472b35c",
-      "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.134-all.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.5-0.2.0+beta.7.198-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/EKg6v67t/vmp-fabric-mc1.21.5-0.2.0%2Bbeta.7.198-all.jar",
+        "sha512": "f6be6fcf949243bcca460acc113f799cb657ce81320c8f6fa4054e584d32512c538d30b5c6f6713f247fbb6122f4ab951a91c2a6c839e4680e196c707e1d4ffd"
+      },
+      "0_2_0+beta_7_198": {
+        "name": "vmp-fabric-mc1.21.5-0.2.0+beta.7.198-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/EKg6v67t/vmp-fabric-mc1.21.5-0.2.0%2Bbeta.7.198-all.jar",
+        "sha512": "f6be6fcf949243bcca460acc113f799cb657ce81320c8f6fa4054e584d32512c538d30b5c6f6713f247fbb6122f4ab951a91c2a6c839e4680e196c707e1d4ffd"
+      },
+      "0_2_0+beta_7_197": {
+        "name": "vmp-fabric-mc1.21.5-0.2.0+beta.7.197-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/S6IwIw0D/vmp-fabric-mc1.21.5-0.2.0%2Bbeta.7.197-all.jar",
+        "sha512": "bf4c5a69f47acfaffb92e55ad7523df691ba0aef2617406b0963373c452f33c9ebb5f7a215a897bbd78fbdd0e17ec9ae9c0d947ab360d4ce73d82a870eb265c4"
+      },
+      "0_2_0+beta_7_192rc1": {
+        "name": "vmp-fabric-mc1.21.5-rc1-0.2.0+beta.7.192-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QxChA7de/vmp-fabric-mc1.21.5-rc1-0.2.0%2Bbeta.7.192-all.jar",
+        "sha512": "7a7baa498cc9f4dd9f3ed51ef66b334f616a2dd386fffbf1b1037065261d7a55094f8d2729cf045f2e6dd8ae01148a7db4ff07d6b63b964c32cc1dc6e106f9ff"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/4x4ufV3O/vmp-fabric-mc1.20.3-0.2.0%2Bbeta.7.133-all.jar",
-      "sha512": "20865887d5aec3cf831acb277840c7e403a2b7cc9f1b51da840d0cd6ab62c7ad799957051e941857b0dc003eae80a02de1664a236f0ca3fef4df542f342272fc",
-      "name": "vmp-fabric-mc1.20.3-0.2.0+beta.7.133-all.jar"
+    "1_21_4-pre2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.4-pre2-0.2.0+beta.7.184-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/KtVNn5Om/vmp-fabric-mc1.21.4-pre2-0.2.0%2Bbeta.7.184-all.jar",
+        "sha512": "08bfb760c22d65eafb60dcb5534ec10002c922b0235418167cc1743810ba5091882aee7917998bff56af54c77f209b8c4a585d5de0dc429f1a33c434a3b975ed"
+      },
+      "0_2_0+beta_7_184": {
+        "name": "vmp-fabric-mc1.21.4-pre2-0.2.0+beta.7.184-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/KtVNn5Om/vmp-fabric-mc1.21.4-pre2-0.2.0%2Bbeta.7.184-all.jar",
+        "sha512": "08bfb760c22d65eafb60dcb5534ec10002c922b0235418167cc1743810ba5091882aee7917998bff56af54c77f209b8c4a585d5de0dc429f1a33c434a3b975ed"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XHRLuI9m/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.115-all.jar",
-      "sha512": "2762d8dcbc68c4a6301e5970cfe87faa9f9e2b0523b2d8e3b311b755e08592ebf4f5e347898577511300cf40e49a7284bd2fc7ae27dcf05362c2ee8d5ec009aa",
-      "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.115-all.jar"
+    "1_21_4-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.4-pre1-0.2.0+beta.7.183-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/JITsTxCt/vmp-fabric-mc1.21.4-pre1-0.2.0%2Bbeta.7.183-all.jar",
+        "sha512": "5160088f9cbbdb5287f96cfa11262c6b7725e2d70974ae4dd669c93bd8cbf308f7a86dba093b7d833d2972ab08d9a36912b74d27b9f0d0bc85675967b7ce29a9"
+      },
+      "0_2_0+beta_7_183": {
+        "name": "vmp-fabric-mc1.21.4-pre1-0.2.0+beta.7.183-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/JITsTxCt/vmp-fabric-mc1.21.4-pre1-0.2.0%2Bbeta.7.183-all.jar",
+        "sha512": "5160088f9cbbdb5287f96cfa11262c6b7725e2d70974ae4dd669c93bd8cbf308f7a86dba093b7d833d2972ab08d9a36912b74d27b9f0d0bc85675967b7ce29a9"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NYa4FfQN/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.96-all.jar",
-      "sha512": "6cd4802673e03308837bfa67b8db192edc55bfb0bb43d6ed63c8ff725fbb23e956e900ec9536a0df19daa14557510a4f09e90f45651c2bfb582772420a60d660",
-      "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.96-all.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.4-0.2.0+beta.7.192-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/61Gy0NAD/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.192-all.jar",
+        "sha512": "4e13cfbb97099784bb27fbb87eebc163974ba6c31081829d01ae435920d2604df03c625d5daecbefa1a0cca40b699840d5e964819993b451b1c9c7a7bd7c80d2"
+      },
+      "0_2_0+beta_7_192": {
+        "name": "vmp-fabric-mc1.21.4-0.2.0+beta.7.192-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/61Gy0NAD/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.192-all.jar",
+        "sha512": "4e13cfbb97099784bb27fbb87eebc163974ba6c31081829d01ae435920d2604df03c625d5daecbefa1a0cca40b699840d5e964819993b451b1c9c7a7bd7c80d2"
+      },
+      "0_2_0+beta_7_191": {
+        "name": "vmp-fabric-mc1.21.4-0.2.0+beta.7.191-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/u6k08AVM/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.191-all.jar",
+        "sha512": "5c1f026afd64024feb2c2e77f65382109a23a20a4acd34fe7c4100ec71700b34bee64beeb4656b9df76a56061cc5345ccf8a92d4324c304fb44321b2183587ff"
+      },
+      "0_2_0+beta_7_190": {
+        "name": "vmp-fabric-mc1.21.4-0.2.0+beta.7.190-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ovEBHzIZ/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.190-all.jar",
+        "sha512": "d1d71e6f29daa07f0c6cea23704f438955ed0b7d3c3c3a65fe78b3c9bb597e5e5d9bc5ca17c1b475553029ab3d37fea70189e7b6ed2663b435d942914b155135"
+      },
+      "0_2_0+beta_7_187": {
+        "name": "vmp-fabric-mc1.21.4-0.2.0+beta.7.187-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/k1tcjmTr/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.187-all.jar",
+        "sha512": "a9ead8757aa38f5d6384a4ceac7f81a512794ad1e1e5a8906c5d175b63b698b5eea631d58d5648d5ae846b6debb46e93725cbfb39cbed907770d728b5bc2d0cc"
+      },
+      "0_2_0+beta_7_186": {
+        "name": "vmp-fabric-mc1.21.4-0.2.0+beta.7.186-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/JPSbekr6/vmp-fabric-mc1.21.4-0.2.0%2Bbeta.7.186-all.jar",
+        "sha512": "7f40cd22e86f3ea9b128a6d01b67563a5d4b4a0e8bdfe46f3932cf80ea190c664b1354de8644184c11349cdb03b1975840d75fc0f270c239c8b4cc60d20c60fb"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/E9rNlgEw/vmp-fabric-mc1.20-0.2.0%2Bbeta.7.93-all.jar",
-      "sha512": "e309d94603646b541c43495433f7aa561a97fd9753c1b9e1fd2e0233752976769df297475b988b6190f416d97b9a6fc48846c19e4cd83235affb876ba0dc1aa0",
-      "name": "vmp-fabric-mc1.20-0.2.0+beta.7.93-all.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.3-0.2.0+beta.7.181-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9jPWZqdL/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.181-all.jar",
+        "sha512": "6d514ead6fbf8dcc3be6792db631c5f22068021bb4117fe4d60be6def067d9bbaf7e5a993baf5b75e69a639ebbc33da95a50aafd98fdad184e62961eb75517df"
+      },
+      "0_2_0+beta_7_181": {
+        "name": "vmp-fabric-mc1.21.3-0.2.0+beta.7.181-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9jPWZqdL/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.181-all.jar",
+        "sha512": "6d514ead6fbf8dcc3be6792db631c5f22068021bb4117fe4d60be6def067d9bbaf7e5a993baf5b75e69a639ebbc33da95a50aafd98fdad184e62961eb75517df"
+      },
+      "0_2_0+beta_7_180": {
+        "name": "vmp-fabric-mc1.21.3-0.2.0+beta.7.180-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/lJQrQPiF/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.180-all.jar",
+        "sha512": "8b9edbcd7edf062631fcc91789392911a98c54418eccf4788499e4e70e4827bae9dcf03572f487afb52114fab941aefdd7656a9bc27d5d4dae4738584fe63d1a"
+      },
+      "0_2_0+beta_7_179": {
+        "name": "vmp-fabric-mc1.21.3-0.2.0+beta.7.179-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/6ForsS2u/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.179-all.jar",
+        "sha512": "3b91dbcd2a71b56ca14c955b192728dc750db35e37c5b52de069efae145bd2211eddb3912d1e150c4134ce4e30a88bbc2f4d6aef1a53087b364c217e121608ca"
+      },
+      "0_2_0+beta_7_177": {
+        "name": "vmp-fabric-mc1.21.3-0.2.0+beta.7.177-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/IIH63ssE/vmp-fabric-mc1.21.3-0.2.0%2Bbeta.7.177-all.jar",
+        "sha512": "6d03091fd417e324ad3ba7803b07acb1d4c5922b772315f98ef81341fd7e80e02bcd0605a75b515122ecfdd34fd4704aa9d6cd824b79d05cc9cab40ef6b50efc"
+      }
     },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bFssby6r/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.64-all.jar",
-      "sha512": "e493bab2ab7154dcce8f41e5c9eca04aeb080b10fc3836684206e965e876d8bd857d4e28d8046f1bb2c605e978ea6a1b7d6a92fcdff865b6d7559c560e994d5a",
-      "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.64-all.jar"
+    "1_21_2-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.2-rc1-0.2.0+beta.7.175-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/IYwRAcC8/vmp-fabric-mc1.21.2-rc1-0.2.0%2Bbeta.7.175-all.jar",
+        "sha512": "ed8802a99f55f32aab9d49c560d6cb6e49ad3875a2e467cf52a8ae83ff9fe9edd78a28f23892e07c912dfb76912bbbdba55fcf483b0db0b8617da0ca24d65521"
+      },
+      "0_2_0+beta_7_175": {
+        "name": "vmp-fabric-mc1.21.2-rc1-0.2.0+beta.7.175-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/IYwRAcC8/vmp-fabric-mc1.21.2-rc1-0.2.0%2Bbeta.7.175-all.jar",
+        "sha512": "ed8802a99f55f32aab9d49c560d6cb6e49ad3875a2e467cf52a8ae83ff9fe9edd78a28f23892e07c912dfb76912bbbdba55fcf483b0db0b8617da0ca24d65521"
+      },
+      "0_2_0+beta_7_174": {
+        "name": "vmp-fabric-mc1.21.2-rc1-0.2.0+beta.7.174-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/D9j7h24N/vmp-fabric-mc1.21.2-rc1-0.2.0%2Bbeta.7.174-all.jar",
+        "sha512": "27f9d96fbcc4f8e59e4867f5c42cac288f682cacf05fc1af1ce589df11556ce32c68c00bc87d887eec0341c40626e2df704b3d4cc9e297bfb94d8291cd69a95f"
+      }
     },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/nbm0pOjY/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.29-all.jar",
-      "sha512": "ce22fc031dbd78e02c3553c877997291e176a410295b0532b6e68c7fbdde12fc01352743a99969934dba5fa85d25ddd76b576ad1cfca73474b66237d8637fb3c",
-      "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.29-all.jar"
+    "1_21_2-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.2-pre1-0.2.0+beta.7.173-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bBHBXTn1/vmp-fabric-mc1.21.2-pre1-0.2.0%2Bbeta.7.173-all.jar",
+        "sha512": "eaa4b412b0f8b1c2026bb46c784849631a49328808f3b60d77353170a65cd22a6c54cc7710c9e0d6188cd691326a539ddf52bccc297a2f58ad547c052ba8c02f"
+      },
+      "0_2_0+beta_7_173": {
+        "name": "vmp-fabric-mc1.21.2-pre1-0.2.0+beta.7.173-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bBHBXTn1/vmp-fabric-mc1.21.2-pre1-0.2.0%2Bbeta.7.173-all.jar",
+        "sha512": "eaa4b412b0f8b1c2026bb46c784849631a49328808f3b60d77353170a65cd22a6c54cc7710c9e0d6188cd691326a539ddf52bccc297a2f58ad547c052ba8c02f"
+      }
     },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.43%2B1.19.2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.43-all.jar",
-      "sha512": "e7f7efef7c5169e981a4f1f8e66832fc8684b7092b8d389c5d246fed6456398c277f703daaeabbed1b5e2b9c4eb576b564b96c6ea00957339e1b499eedd44707",
-      "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.43-all.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.2-0.2.0+beta.7.176-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/S1sjicnO/vmp-fabric-mc1.21.2-0.2.0%2Bbeta.7.176-all.jar",
+        "sha512": "8e1614ec9b59a9709d0fa31fecd646b12b32e8ebe913e443a1d34736c89e0720f3615611dec7c2b0ac18507fbfe226713091cb3871025ce74687df3b670e8153"
+      },
+      "0_2_0+beta_7_176": {
+        "name": "vmp-fabric-mc1.21.2-0.2.0+beta.7.176-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/S1sjicnO/vmp-fabric-mc1.21.2-0.2.0%2Bbeta.7.176-all.jar",
+        "sha512": "8e1614ec9b59a9709d0fa31fecd646b12b32e8ebe913e443a1d34736c89e0720f3615611dec7c2b0ac18507fbfe226713091cb3871025ce74687df3b670e8153"
+      }
     },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.31%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.31-all.jar",
-      "sha512": "f08f892f19269ec3f0e16477f4c2d52bfae6a2e2513ac9f1d544dcd460167c42e41525be449712804c285e1e91c62da30ef429cda1270ca5837d697f93e56697",
-      "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.31-all.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VmlY7QTx/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.172-all.jar",
+        "sha512": "39731bb9a2eb844f156a0c2ddfe5fe97a811c3e5e854c074d3aa142bca1c746c0cb749315440ddfa6bebe3c49ce88bbb7902440aea84ca3689a2c2168803d6d9"
+      },
+      "0_2_0+beta_7_172": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VmlY7QTx/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.172-all.jar",
+        "sha512": "39731bb9a2eb844f156a0c2ddfe5fe97a811c3e5e854c074d3aa142bca1c746c0cb749315440ddfa6bebe3c49ce88bbb7902440aea84ca3689a2c2168803d6d9"
+      },
+      "0_2_0+beta_7_171": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.171-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/o4X18ta7/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.171-all.jar",
+        "sha512": "605431b8773ca4f87ec63d57fe1b559fdd8dd8f232e40fbf5acf16129ea2130cfc4d80e76ada3256817877fd4c2d3980aee84afc9c5ed3e1d84ada6dd5160059"
+      },
+      "0_2_0+beta_7_170": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.170-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sG4EaatO/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.170-all.jar",
+        "sha512": "645f0250de64a56c90a2cf0510cccf5df87f234737a531d2051ed9caa0cd2fcd5aa9a2b6fc4b9fae8f491156c2ddbbc95c4062ee0bc0c63aed645fa713677734"
+      },
+      "0_2_0+beta_7_169": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.169-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/mUvDaDZl/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.169-all.jar",
+        "sha512": "c7e1d9421200e5728e51f23a2fc0886720c98c24f912f4d0d48d697c20e6f83451572d4f572c486b9c3f94b4770a58166b5818a0f3eed50799aab964ae91f2dd"
+      },
+      "0_2_0+beta_7_168": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.168-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VuFHjBNh/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.168-all.jar",
+        "sha512": "5e2360e91a36d0e76ff0e805c504c773a1449252572ae218edf4430bdf179ac50b1a080d3ca25ecca266499b5637b5b92a228d1c6516e742a7c9f560791c4059"
+      },
+      "0_2_0+beta_7_167": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.167-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Zf4JROY5/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.167-all.jar",
+        "sha512": "7aa64ee290fbbe6366cb8a4d2fa4d935ed4cb5034e6aa23437e9396ad79a32402d483d79df93e79436fda05983c5fd0feacdae110df09ebafb444a2992414039"
+      },
+      "0_2_0+beta_7_165+1_21": {
+        "name": "vmp-fabric-mc1.21-0.2.0+beta.7.165-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QGcLqbQu/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.165-all.jar",
+        "sha512": "a87369ec14ad790e3b29a247af369793fded8f7eec8e60b7ea6be64d5a9767582aa5ac72ed3f3dba641eecb935449c049ec3c7863ed3273a5b6aacf87681a729"
+      },
+      "0_2_0+beta_7_163+1_21": {
+        "name": "vmp-fabric-mc1.21-0.2.0+beta.7.163-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PT5DZrQC/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.163-all.jar",
+        "sha512": "0449ade761cc4b7dcb51e68907f02211393ea999d4799f79f10750dad84ea263661c002a171c77c90d8a6fe9b8c14effa3d15a6df76436e5f4c7432d8a291383"
+      }
     },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.25%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.3.25-all.jar",
-      "sha512": "3343ee286078bcd80dd56399279b17b089bb6608a28cff07a8fd282ed691a453a47fd0f498d9a3c818d8abe416d9c935b00311c4a8f5e881ae527e05bd4f9ade",
-      "name": "vmp-fabric-mc1.19-0.2.0+beta.3.25-all.jar"
+    "1_21-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21-rc1-0.2.0+beta.7.160-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/MQHEx3q7/vmp-fabric-mc1.21-rc1-0.2.0%2Bbeta.7.160-all.jar",
+        "sha512": "33deae346f72e811cc1e74db808705285f78245732f2a3df9633303b40fa58c318858f41683583f013937f7b7f41e5370c326df7d2b761c10bc2de5e1e2b8678"
+      },
+      "0_2_0+beta_7_160": {
+        "name": "vmp-fabric-mc1.21-rc1-0.2.0+beta.7.160-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/MQHEx3q7/vmp-fabric-mc1.21-rc1-0.2.0%2Bbeta.7.160-all.jar",
+        "sha512": "33deae346f72e811cc1e74db808705285f78245732f2a3df9633303b40fa58c318858f41683583f013937f7b7f41e5370c326df7d2b761c10bc2de5e1e2b8678"
+      }
     },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.17%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.17-all.jar",
-      "sha512": "b93339fec6fa102739d95184d4fef7982fa902e784dafa6c4144a2b97dfb2a501fe74ada5a930e6e45bafeb562e88eaca9b0140a752279f50ceb5eaa348adef2",
-      "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.17-all.jar"
+    "1_21": {
+      "latest": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VmlY7QTx/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.172-all.jar",
+        "sha512": "39731bb9a2eb844f156a0c2ddfe5fe97a811c3e5e854c074d3aa142bca1c746c0cb749315440ddfa6bebe3c49ce88bbb7902440aea84ca3689a2c2168803d6d9"
+      },
+      "0_2_0+beta_7_172_1": {
+        "name": "vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VmlY7QTx/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.172-all.jar",
+        "sha512": "39731bb9a2eb844f156a0c2ddfe5fe97a811c3e5e854c074d3aa142bca1c746c0cb749315440ddfa6bebe3c49ce88bbb7902440aea84ca3689a2c2168803d6d9"
+      },
+      "0_2_0+beta_7_165": {
+        "name": "vmp-fabric-mc1.21-0.2.0+beta.7.165-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QGcLqbQu/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.165-all.jar",
+        "sha512": "a87369ec14ad790e3b29a247af369793fded8f7eec8e60b7ea6be64d5a9767582aa5ac72ed3f3dba641eecb935449c049ec3c7863ed3273a5b6aacf87681a729"
+      },
+      "0_2_0+beta_7_164": {
+        "name": "vmp-fabric-mc1.21-0.2.0+beta.7.164-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/BkKRFQ3P/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.164-all.jar",
+        "sha512": "3747c0c12bb02e9deef7f62ec27ae4e2cba2ac53bdc5d867344a205f535e745c3152d3ac92753f026262a7bf2e0f520e6ebc668881589c53760abb7518f7ae73"
+      },
+      "0_2_0+beta_7_163": {
+        "name": "vmp-fabric-mc1.21-0.2.0+beta.7.163-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PT5DZrQC/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.163-all.jar",
+        "sha512": "0449ade761cc4b7dcb51e68907f02211393ea999d4799f79f10750dad84ea263661c002a171c77c90d8a6fe9b8c14effa3d15a6df76436e5f4c7432d8a291383"
+      },
+      "0_2_0+beta_7_162": {
+        "name": "vmp-fabric-mc1.21-0.2.0+beta.7.162-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OPdBcjR7/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.162-all.jar",
+        "sha512": "1e67d04d1000721c380343fd456324b903a536b8d5c73d8469af631084fa8d10e830ef4a9ce2d4f0aadd18337e5b0e1801bcb48b5668f6ccfc278edbfbc41299"
+      }
     },
-    "1.18.1": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.1.5%201.18.1/vmp-fabric-mc1.18.1-0.2.0%2Bbeta.1.5-all.jar",
-      "sha512": "df5c5dde91c16bea8a3dce92a91072d68e6d861634889ad3db60f52ac396884886a14b4461c0a14440b780f2b9ee7cbddc9d1228daf9899a105d3b0aca0e58ec",
-      "name": "vmp-fabric-mc1.18.1-0.2.0+beta.1.5-all.jar"
+    "1_20-pre7": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-pre7-0.2.0+beta.7.91-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/1RVjTO9u/vmp-fabric-mc1.20-pre7-0.2.0%2Bbeta.7.91-all.jar",
+        "sha512": "b0350f967d6011b78d483004938236ae577bb5be39f52c462cd27c89e97d768cb6d87aa6cf0b020553629c1b68dc0c5b2210d32d6da26e779e72fff1f1164243"
+      },
+      "0_2_0+beta_7_91": {
+        "name": "vmp-fabric-mc1.20-pre7-0.2.0+beta.7.91-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/1RVjTO9u/vmp-fabric-mc1.20-pre7-0.2.0%2Bbeta.7.91-all.jar",
+        "sha512": "b0350f967d6011b78d483004938236ae577bb5be39f52c462cd27c89e97d768cb6d87aa6cf0b020553629c1b68dc0c5b2210d32d6da26e779e72fff1f1164243"
+      }
     },
-    "1.18": {
-      "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.1%201.18.1-pre1/vmp-fabric-mc1.18.1-pre1-0.2.0%2Bbeta.1-all.jar",
-      "sha512": "f2008357dc8e35b3def98c932f0d80992729eb506e2ecb7d3e94977cd9888a9d26457d6938ad108886ae841e98552838f61f4148218d4b873c8edf01e04a40d3",
-      "name": "vmp-fabric-mc1.18.1-pre1-0.2.0+beta.1-all.jar"
+    "1_20_6-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.6-rc1-0.2.0+beta.7.153-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ofimHCvk/vmp-fabric-mc1.20.6-rc1-0.2.0%2Bbeta.7.153-all.jar",
+        "sha512": "f5b1fa6a1a022ff6dc1f6f8c2ba18f98e9a7a4f712bd1d2cb925446ea467cbd7cb187c82cd102e06eb1f758a54e5af8d8b9c2a4652bceb06030ae3f3773959ed"
+      },
+      "0_2_0+beta_7_153": {
+        "name": "vmp-fabric-mc1.20.6-rc1-0.2.0+beta.7.153-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ofimHCvk/vmp-fabric-mc1.20.6-rc1-0.2.0%2Bbeta.7.153-all.jar",
+        "sha512": "f5b1fa6a1a022ff6dc1f6f8c2ba18f98e9a7a4f712bd1d2cb925446ea467cbd7cb187c82cd102e06eb1f758a54e5af8d8b9c2a4652bceb06030ae3f3773959ed"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.6-0.2.0+beta.7.155-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/83ET13o3/vmp-fabric-mc1.20.6-0.2.0%2Bbeta.7.155-all.jar",
+        "sha512": "3b94d1cb477bfadfa7315664571e745029f764d168511b2848f0a3cb8aaf54da8f12caa921a1e7abf2c5906326fb1159a8fd457b35281a0fb4221fbb98465bcb"
+      },
+      "0_2_0+beta_7_155": {
+        "name": "vmp-fabric-mc1.20.6-0.2.0+beta.7.155-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/83ET13o3/vmp-fabric-mc1.20.6-0.2.0%2Bbeta.7.155-all.jar",
+        "sha512": "3b94d1cb477bfadfa7315664571e745029f764d168511b2848f0a3cb8aaf54da8f12caa921a1e7abf2c5906326fb1159a8fd457b35281a0fb4221fbb98465bcb"
+      }
+    },
+    "1_20-pre6": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-pre6-0.2.0+beta.7.90-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/k7qvCTOd/vmp-fabric-mc1.20-pre6-0.2.0%2Bbeta.7.90-all.jar",
+        "sha512": "6c0949d9802de517feb6aa2df0f33667e13a8b9f7353baafbb9aee52c1ffb1309f718bcbab5232957e0ff33aeec138f1b5ce0800b28117fc9a94f27ed6e54f60"
+      },
+      "0_2_0+beta_7_90": {
+        "name": "vmp-fabric-mc1.20-pre6-0.2.0+beta.7.90-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/k7qvCTOd/vmp-fabric-mc1.20-pre6-0.2.0%2Bbeta.7.90-all.jar",
+        "sha512": "6c0949d9802de517feb6aa2df0f33667e13a8b9f7353baafbb9aee52c1ffb1309f718bcbab5232957e0ff33aeec138f1b5ce0800b28117fc9a94f27ed6e54f60"
+      },
+      "0_2_0+beta_7_87": {
+        "name": "vmp-fabric-mc1.20-pre6-0.2.0+beta.7.87-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/p6bi95Xk/vmp-fabric-mc1.20-pre6-0.2.0%2Bbeta.7.87-all.jar",
+        "sha512": "25fa31c438b24e5ab80be65daf53b5f62b89c243e4920190f1f463cde077c5bdb5cf556ba5d60bcf536a4fdfff784cfd24b132cdd8306a1d6b7769b544aa4566"
+      }
+    },
+    "1_20_5-rc2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.5-rc2-0.2.0+beta.7.150-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/TralONZz/vmp-fabric-mc1.20.5-rc2-0.2.0%2Bbeta.7.150-all.jar",
+        "sha512": "99a6d9a0bde808366c7232982e9347ddb74cc9fc3b892c86642d4cd484bbb9d68ac0fcc0a8fff923dd75efb1fd3d7d8a21f77dbd898dd5ee79ffc399d87cc281"
+      },
+      "0_2_0+beta_7_150": {
+        "name": "vmp-fabric-mc1.20.5-rc2-0.2.0+beta.7.150-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/TralONZz/vmp-fabric-mc1.20.5-rc2-0.2.0%2Bbeta.7.150-all.jar",
+        "sha512": "99a6d9a0bde808366c7232982e9347ddb74cc9fc3b892c86642d4cd484bbb9d68ac0fcc0a8fff923dd75efb1fd3d7d8a21f77dbd898dd5ee79ffc399d87cc281"
+      },
+      "0_2_0+beta_7_149": {
+        "name": "vmp-fabric-mc1.20.5-rc2-0.2.0+beta.7.149-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/FdeACOnd/vmp-fabric-mc1.20.5-rc2-0.2.0%2Bbeta.7.149-all.jar",
+        "sha512": "0f06dfd4865312e4fce9cfb57b0f33a3b28715e246aedc55e7ecb6706e61a5afac06f46fa8048c78261593f1f67389531f003d333be4e16986e32927affe777d"
+      }
+    },
+    "1_20_5-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.5-pre1-0.2.0+beta.7.148-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/W4ImLfOi/vmp-fabric-mc1.20.5-pre1-0.2.0%2Bbeta.7.148-all.jar",
+        "sha512": "80594f211e80af89954147aeb46c4c2643d44b2df5564a3c7a6d2e098772c1154d0b27f110f7bb661a11a44e604c1d4cf1d685dd9cc1d6a3d40405f2e6bcc3d4"
+      },
+      "0_2_0+beta_7_148": {
+        "name": "vmp-fabric-mc1.20.5-pre1-0.2.0+beta.7.148-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/W4ImLfOi/vmp-fabric-mc1.20.5-pre1-0.2.0%2Bbeta.7.148-all.jar",
+        "sha512": "80594f211e80af89954147aeb46c4c2643d44b2df5564a3c7a6d2e098772c1154d0b27f110f7bb661a11a44e604c1d4cf1d685dd9cc1d6a3d40405f2e6bcc3d4"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.5-0.2.0+beta.7.151-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/qL1lw30r/vmp-fabric-mc1.20.5-0.2.0%2Bbeta.7.151-all.jar",
+        "sha512": "7ec3bb9afdbe6fdd78a9051b32df8621aff193d1501a92c3111d1838da81bd359ab298411eca57ac59121bce43c8137e40fb96c27946a5b8a003ce94c4af6060"
+      },
+      "0_2_0+beta_7_151": {
+        "name": "vmp-fabric-mc1.20.5-0.2.0+beta.7.151-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/qL1lw30r/vmp-fabric-mc1.20.5-0.2.0%2Bbeta.7.151-all.jar",
+        "sha512": "7ec3bb9afdbe6fdd78a9051b32df8621aff193d1501a92c3111d1838da81bd359ab298411eca57ac59121bce43c8137e40fb96c27946a5b8a003ce94c4af6060"
+      }
+    },
+    "1_20-pre5": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-pre5-0.2.0+beta.7.86-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DROcDXlU/vmp-fabric-mc1.20-pre5-0.2.0%2Bbeta.7.86-all.jar",
+        "sha512": "01af923e397247b6b2eb83b112b12471f589269a4e2c9f45963804a4c4b66e11471a738e5f29819488cee265233fc18c567c6ca66fbeb3e1b5a27c30e9a4d0e8"
+      },
+      "0_2_0+beta_7_86": {
+        "name": "vmp-fabric-mc1.20-pre5-0.2.0+beta.7.86-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DROcDXlU/vmp-fabric-mc1.20-pre5-0.2.0%2Bbeta.7.86-all.jar",
+        "sha512": "01af923e397247b6b2eb83b112b12471f589269a4e2c9f45963804a4c4b66e11471a738e5f29819488cee265233fc18c567c6ca66fbeb3e1b5a27c30e9a4d0e8"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.139-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/I8LNJvF3/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.139-all.jar",
+        "sha512": "527056a673a2d9d0bc39a197f998497bf17ff304cccc8472fd215cc7a816a48fb88ce252dc185bdcbd162d099c5cbf59291b5bcbeb318f71f578bfb2c77513a6"
+      },
+      "0_2_0+beta_7_139": {
+        "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.139-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/I8LNJvF3/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.139-all.jar",
+        "sha512": "527056a673a2d9d0bc39a197f998497bf17ff304cccc8472fd215cc7a816a48fb88ce252dc185bdcbd162d099c5cbf59291b5bcbeb318f71f578bfb2c77513a6"
+      },
+      "0_2_0+beta_7_138": {
+        "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.138-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Y7Ul6jCd/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.138-all.jar",
+        "sha512": "df05b637eff59b1e351a01ba2e1ff3d0017d017590cecee2278b1882a3350e600501dd6533d2c91549d3998f67c95e886040a5f37b1f290de07779a375db9df3"
+      },
+      "0_2_0+beta_7_137": {
+        "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.137-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/TSM3ps1S/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.137-all.jar",
+        "sha512": "3ce97f04b044b417e84f2c3c8e3a6c468e83ac1e505e0a75cade3029e5b753cd577db0b23a4b956b96a78acb1c35715834f8fda4456678bfa5ddfff788968a10"
+      },
+      "0_2_0+beta_7_136": {
+        "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.136-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/nnYi9x5f/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.136-all.jar",
+        "sha512": "cbf1ecba6a8a78a63b2f002323668520a9153ef33c6b5adb85f1a0568c87f510b4fa99512ce7b87b9bba85a67143f498be426f57cb20547b388a5f69ed4a1b51"
+      },
+      "0_2_0+beta_7_135": {
+        "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.135-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7ORmCVy9/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.135-all.jar",
+        "sha512": "13d87cd1c18b142b753544f152c55e0e359ba720e37f9c364eaea7ab101fb6b517e3dd8a605efdabd12c1ba00c2e852ca37a08d563761950415b17a121daffd6"
+      },
+      "0_2_0+beta_7_134": {
+        "name": "vmp-fabric-mc1.20.4-0.2.0+beta.7.134-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fIIwTkB2/vmp-fabric-mc1.20.4-0.2.0%2Bbeta.7.134-all.jar",
+        "sha512": "a4830d863008ab07377cca0d2d048c455ddaa0b9f7ccb37e06ffd82e5b46dfa694cede8b155401e26addf185cffcd116757adcf40b82063d221f3be22472b35c"
+      }
+    },
+    "1_20-pre4": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-pre4-0.2.0+beta.7.84-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/W7ThAuku/vmp-fabric-mc1.20-pre4-0.2.0%2Bbeta.7.84-all.jar",
+        "sha512": "8d75474c366fbac5658245180e7a1d7033380db8646b1f012d3656b23238e5dc2ebb6c348937dafed693734034da66bc2d0a79c62fffa014287f1c8bf03c67b8"
+      },
+      "0_2_0+beta_7_84": {
+        "name": "vmp-fabric-mc1.20-pre4-0.2.0+beta.7.84-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/W7ThAuku/vmp-fabric-mc1.20-pre4-0.2.0%2Bbeta.7.84-all.jar",
+        "sha512": "8d75474c366fbac5658245180e7a1d7033380db8646b1f012d3656b23238e5dc2ebb6c348937dafed693734034da66bc2d0a79c62fffa014287f1c8bf03c67b8"
+      },
+      "0_2_0+beta_7_83": {
+        "name": "vmp-fabric-mc1.20-pre4-0.2.0+beta.7.83-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/cSZtdEEa/vmp-fabric-mc1.20-pre4-0.2.0%2Bbeta.7.83-all.jar",
+        "sha512": "f508700789fd332ff2e7f401d04585d15cb0457970dca2aa38275ce617367af974dd86fd75ef6cdb1142ec33cadfb0e158b0bf2aca7a5141dc1a8742ca23d5f1"
+      }
+    },
+    "1_20_3-pre4": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.3-pre4-0.2.0+beta.7.130-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ZO8fgg3n/vmp-fabric-mc1.20.3-pre4-0.2.0%2Bbeta.7.130-all.jar",
+        "sha512": "aad94189e01a91baef63064860f4e6b926e6922146652c61a2c9f0d0aa8f0a143f2b43879d88efcd1812ff85e486fa30e63929cf6197294863e28b8fa8fdd643"
+      },
+      "0_2_0+beta_7_130": {
+        "name": "vmp-fabric-mc1.20.3-pre4-0.2.0+beta.7.130-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ZO8fgg3n/vmp-fabric-mc1.20.3-pre4-0.2.0%2Bbeta.7.130-all.jar",
+        "sha512": "aad94189e01a91baef63064860f4e6b926e6922146652c61a2c9f0d0aa8f0a143f2b43879d88efcd1812ff85e486fa30e63929cf6197294863e28b8fa8fdd643"
+      }
+    },
+    "1_20_3-pre2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.3-pre1-0.2.0+beta.7.129-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wLek2FVm/vmp-fabric-mc1.20.3-pre1-0.2.0%2Bbeta.7.129-all.jar",
+        "sha512": "b9a8315d7b9cd1f06d617d2a5da37d2bfc2ee7c0628147cf9003faeeb82cfffa4858824ba8c0c232944c0593e8b3fcc094d71cded7577c2424fb6c9103fd3e91"
+      },
+      "0_2_0+beta_7_129+1_20_3-pre1": {
+        "name": "vmp-fabric-mc1.20.3-pre1-0.2.0+beta.7.129-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wLek2FVm/vmp-fabric-mc1.20.3-pre1-0.2.0%2Bbeta.7.129-all.jar",
+        "sha512": "b9a8315d7b9cd1f06d617d2a5da37d2bfc2ee7c0628147cf9003faeeb82cfffa4858824ba8c0c232944c0593e8b3fcc094d71cded7577c2424fb6c9103fd3e91"
+      }
+    },
+    "1_20_3-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.3-rc1-0.2.0+beta.7.132-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/X2paW40d/vmp-fabric-mc1.20.3-rc1-0.2.0%2Bbeta.7.132-all.jar",
+        "sha512": "cff61b63d060c9068c20fdcae2da366b507b75363546066e6586988c14c410eaded3a0dc6862b77d79afe14a25cb36121817f9d3082c819086b31c8eeb8b44f5"
+      },
+      "0_2_0+beta_7_132": {
+        "name": "vmp-fabric-mc1.20.3-rc1-0.2.0+beta.7.132-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/X2paW40d/vmp-fabric-mc1.20.3-rc1-0.2.0%2Bbeta.7.132-all.jar",
+        "sha512": "cff61b63d060c9068c20fdcae2da366b507b75363546066e6586988c14c410eaded3a0dc6862b77d79afe14a25cb36121817f9d3082c819086b31c8eeb8b44f5"
+      }
+    },
+    "1_20_3-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.3-pre1-0.2.0+beta.7.129-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wLek2FVm/vmp-fabric-mc1.20.3-pre1-0.2.0%2Bbeta.7.129-all.jar",
+        "sha512": "b9a8315d7b9cd1f06d617d2a5da37d2bfc2ee7c0628147cf9003faeeb82cfffa4858824ba8c0c232944c0593e8b3fcc094d71cded7577c2424fb6c9103fd3e91"
+      },
+      "0_2_0+beta_7_129": {
+        "name": "vmp-fabric-mc1.20.3-pre1-0.2.0+beta.7.129-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wLek2FVm/vmp-fabric-mc1.20.3-pre1-0.2.0%2Bbeta.7.129-all.jar",
+        "sha512": "b9a8315d7b9cd1f06d617d2a5da37d2bfc2ee7c0628147cf9003faeeb82cfffa4858824ba8c0c232944c0593e8b3fcc094d71cded7577c2424fb6c9103fd3e91"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.3-0.2.0+beta.7.133-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/4x4ufV3O/vmp-fabric-mc1.20.3-0.2.0%2Bbeta.7.133-all.jar",
+        "sha512": "20865887d5aec3cf831acb277840c7e403a2b7cc9f1b51da840d0cd6ab62c7ad799957051e941857b0dc003eae80a02de1664a236f0ca3fef4df542f342272fc"
+      },
+      "0_2_0+beta_7_133": {
+        "name": "vmp-fabric-mc1.20.3-0.2.0+beta.7.133-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/4x4ufV3O/vmp-fabric-mc1.20.3-0.2.0%2Bbeta.7.133-all.jar",
+        "sha512": "20865887d5aec3cf831acb277840c7e403a2b7cc9f1b51da840d0cd6ab62c7ad799957051e941857b0dc003eae80a02de1664a236f0ca3fef4df542f342272fc"
+      }
+    },
+    "1_20_2-pre4": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.2-pre4-0.2.0+beta.7.109-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fYCY1Xd4/vmp-fabric-mc1.20.2-pre4-0.2.0%2Bbeta.7.109-all.jar",
+        "sha512": "5086bef3b2e1efaccc9a996323d96f22c40415ccace8cb55fd08d52314f3d4a7512cae09918231db884e9ee35d697cb3b0a75567a71945def3fe5ecd6f9bcce6"
+      },
+      "0_2_0+beta_7_109": {
+        "name": "vmp-fabric-mc1.20.2-pre4-0.2.0+beta.7.109-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fYCY1Xd4/vmp-fabric-mc1.20.2-pre4-0.2.0%2Bbeta.7.109-all.jar",
+        "sha512": "5086bef3b2e1efaccc9a996323d96f22c40415ccace8cb55fd08d52314f3d4a7512cae09918231db884e9ee35d697cb3b0a75567a71945def3fe5ecd6f9bcce6"
+      }
+    },
+    "1_20_2-pre3": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.2-pre3-0.2.0+beta.7.108-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/50Ocfqq1/vmp-fabric-mc1.20.2-pre3-0.2.0%2Bbeta.7.108-all.jar",
+        "sha512": "5e7b67220a9ed3b909f65b9cb7a79599313c6cba52228fea477087c9d52ce7a18222649a0d42faef905721bec95dd85259b1b2a8f2cf80a49fe0785827e6fb3a"
+      },
+      "0_2_0+beta_7_108": {
+        "name": "vmp-fabric-mc1.20.2-pre3-0.2.0+beta.7.108-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/50Ocfqq1/vmp-fabric-mc1.20.2-pre3-0.2.0%2Bbeta.7.108-all.jar",
+        "sha512": "5e7b67220a9ed3b909f65b9cb7a79599313c6cba52228fea477087c9d52ce7a18222649a0d42faef905721bec95dd85259b1b2a8f2cf80a49fe0785827e6fb3a"
+      }
+    },
+    "1_20_2-rc2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.2-rc2-0.2.0+beta.7.114-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PZpD4bVJ/vmp-fabric-mc1.20.2-rc2-0.2.0%2Bbeta.7.114-all.jar",
+        "sha512": "f1bbc96c6d3fef2d166a2e3981c078aacddfd6acdd35fb84027c766b11738c67c9e08e1d6543f4438b530fb8e12fc0273eb8dc767b4f3fce9d4e96f79061d1a7"
+      },
+      "0_2_0+beta_7_114": {
+        "name": "vmp-fabric-mc1.20.2-rc2-0.2.0+beta.7.114-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PZpD4bVJ/vmp-fabric-mc1.20.2-rc2-0.2.0%2Bbeta.7.114-all.jar",
+        "sha512": "f1bbc96c6d3fef2d166a2e3981c078aacddfd6acdd35fb84027c766b11738c67c9e08e1d6543f4438b530fb8e12fc0273eb8dc767b4f3fce9d4e96f79061d1a7"
+      }
+    },
+    "1_20_2-pre2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.2-pre2-0.2.0+beta.7.107-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9dTKiPek/vmp-fabric-mc1.20.2-pre2-0.2.0%2Bbeta.7.107-all.jar",
+        "sha512": "8595c7c5d5283e94464ebfed855329f1443983027a4169252219f8769f8531fd8abf17fd3421af745b31bfb181f2e655855e89558ef373aec2f8e5c5f4d6cf01"
+      },
+      "0_2_0+beta_7_107": {
+        "name": "vmp-fabric-mc1.20.2-pre2-0.2.0+beta.7.107-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9dTKiPek/vmp-fabric-mc1.20.2-pre2-0.2.0%2Bbeta.7.107-all.jar",
+        "sha512": "8595c7c5d5283e94464ebfed855329f1443983027a4169252219f8769f8531fd8abf17fd3421af745b31bfb181f2e655855e89558ef373aec2f8e5c5f4d6cf01"
+      }
+    },
+    "1_20_2-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.2-rc1-0.2.0+beta.7.113-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/6QB4YpoB/vmp-fabric-mc1.20.2-rc1-0.2.0%2Bbeta.7.113-all.jar",
+        "sha512": "145664f6229c1b5b08e9ebb16b4af31ef7dc0f36035396c4c058092846aefcfc895cf4e10a2f868d7c183b324c7bd37e51ccc79e2a8616eb0acfe483cdd7f799"
+      },
+      "0_2_0+beta_7_113": {
+        "name": "vmp-fabric-mc1.20.2-rc1-0.2.0+beta.7.113-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/6QB4YpoB/vmp-fabric-mc1.20.2-rc1-0.2.0%2Bbeta.7.113-all.jar",
+        "sha512": "145664f6229c1b5b08e9ebb16b4af31ef7dc0f36035396c4c058092846aefcfc895cf4e10a2f868d7c183b324c7bd37e51ccc79e2a8616eb0acfe483cdd7f799"
+      },
+      "0_2_0+beta_7_110": {
+        "name": "vmp-fabric-mc1.20.2-rc1-0.2.0+beta.7.110-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bmNoXOn8/vmp-fabric-mc1.20.2-rc1-0.2.0%2Bbeta.7.110-all.jar",
+        "sha512": "9a982fd73bf41f1a22acadcc56eceef238aef3e64277b166ae6da45786acebc32a3189b1f5a5ca395daff7c3910e816bd8b9aea1ba41a42969f79465b23c9abd"
+      }
+    },
+    "1_20_2-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.2-pre1-0.2.0+beta.7.106-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OWAZaI1t/vmp-fabric-mc1.20.2-pre1-0.2.0%2Bbeta.7.106-all.jar",
+        "sha512": "1d4ab936930af42f18f77994999c45f325ab09bf548f85572a396990fe95b615cef52a815d6320b5604dfea8e9c97be60993ba8af0ab08ec30e11a0f0a637156"
+      },
+      "0_2_0+beta_7_106": {
+        "name": "vmp-fabric-mc1.20.2-pre1-0.2.0+beta.7.106-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OWAZaI1t/vmp-fabric-mc1.20.2-pre1-0.2.0%2Bbeta.7.106-all.jar",
+        "sha512": "1d4ab936930af42f18f77994999c45f325ab09bf548f85572a396990fe95b615cef52a815d6320b5604dfea8e9c97be60993ba8af0ab08ec30e11a0f0a637156"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.122-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/HkkjZIkA/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.122-all.jar",
+        "sha512": "441b87582dbb96e3d58c3efd6dc75eef94f8d535778acf8ac80084033ab921ab3540a538469cae4d12c64089d72b7bd56765129efa8cecac4e9740555105dd54"
+      },
+      "0_2_0+beta_7_122": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.122-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/HkkjZIkA/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.122-all.jar",
+        "sha512": "441b87582dbb96e3d58c3efd6dc75eef94f8d535778acf8ac80084033ab921ab3540a538469cae4d12c64089d72b7bd56765129efa8cecac4e9740555105dd54"
+      },
+      "0_2_0+beta_7_121": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.121-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/JFPfvz8w/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.121-all.jar",
+        "sha512": "e1278fc499fc472e92004c87f50a9e936273a88b4c852e6475b4080c1a50f4919daa3e65013e10802b2d4ba894081bccfa0a384d5071c3aa9978decd1e240a21"
+      },
+      "0_2_0+beta_7_120": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.120-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PLbYlCF2/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.120-all.jar",
+        "sha512": "370a93c58876dca54e733dea6565b41b61b1e6c7975b6ff86e59c21cc429e2a929e8f6ab273f64a13c4395605e02b341e6de223d79d2bfa5d96bddac256dd411"
+      },
+      "0_2_0+beta_7_118": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.118-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bh3HKiH3/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.118-all.jar",
+        "sha512": "25709e5de101b836a6873990d732cdfc2845430412d50b7a1a47e0d0ad736306ebef00ef934088d57946d84365ffbab1795cd4264297183c826130ad0698ff53"
+      },
+      "0_2_0+beta_7_117": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.117-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DlPOhM11/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.117-all.jar",
+        "sha512": "2aed9c086bf5332b3853eef39713656e94e78e1be5ee54bf6df3d906705fe4c5acbb6bb953b88beda066cbdceb0dd88ea452e31a29cdf0198eaaad808acc7027"
+      },
+      "0_2_0+beta_7_116": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.116-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/rVN8tvNO/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.116-all.jar",
+        "sha512": "a08b1025d54a215ec8aff76ad19527b9b4a41d5c6849183a47f64cc1711f3c7509cb60832c8e8f4d206cbdb45f2986885a011d00ae52cf00dea683f276149520"
+      },
+      "0_2_0+beta_7_115": {
+        "name": "vmp-fabric-mc1.20.2-0.2.0+beta.7.115-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XHRLuI9m/vmp-fabric-mc1.20.2-0.2.0%2Bbeta.7.115-all.jar",
+        "sha512": "2762d8dcbc68c4a6301e5970cfe87faa9f9e2b0523b2d8e3b311b755e08592ebf4f5e347898577511300cf40e49a7284bd2fc7ae27dcf05362c2ee8d5ec009aa"
+      }
+    },
+    "1_20-pre2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-pre2-0.2.0+beta.7.82-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/kf103Ux9/vmp-fabric-mc1.20-pre2-0.2.0%2Bbeta.7.82-all.jar",
+        "sha512": "44b6f279227869054fc47aa4d03fa159829c38e2978933b25ed24e8cb31ed7722545759dba101be6271e07fec1aa3403566a33a2d19a0965ba04909c5180685a"
+      },
+      "0_2_0+beta_7_82": {
+        "name": "vmp-fabric-mc1.20-pre2-0.2.0+beta.7.82-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/kf103Ux9/vmp-fabric-mc1.20-pre2-0.2.0%2Bbeta.7.82-all.jar",
+        "sha512": "44b6f279227869054fc47aa4d03fa159829c38e2978933b25ed24e8cb31ed7722545759dba101be6271e07fec1aa3403566a33a2d19a0965ba04909c5180685a"
+      }
+    },
+    "1_20_1-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.1-rc1-0.2.0+beta.7.95-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sC5StyWM/vmp-fabric-mc1.20.1-rc1-0.2.0%2Bbeta.7.95-all.jar",
+        "sha512": "222fa9446f128826b9dd73a4c884e57bb143480e5089120c71957d9b420e1f5c391c83b5903fab41f299351897cbc74a4aa7ac8dfb4db0add4442ffbb88bf0c4"
+      },
+      "0_2_0+beta_7_95": {
+        "name": "vmp-fabric-mc1.20.1-rc1-0.2.0+beta.7.95-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sC5StyWM/vmp-fabric-mc1.20.1-rc1-0.2.0%2Bbeta.7.95-all.jar",
+        "sha512": "222fa9446f128826b9dd73a4c884e57bb143480e5089120c71957d9b420e1f5c391c83b5903fab41f299351897cbc74a4aa7ac8dfb4db0add4442ffbb88bf0c4"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sV8lIBhJ/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.102-all.jar",
+        "sha512": "38ba14d870ddbcef233c9baa399005aaccde95d7b77175aa3a795eb9fed1086492b4ac5c6bbc05909dd76dce1b19b5c26613585161c2f3d20f2494beb8b23fe4"
+      },
+      "0_2_0+beta_7_102": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sV8lIBhJ/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.102-all.jar",
+        "sha512": "38ba14d870ddbcef233c9baa399005aaccde95d7b77175aa3a795eb9fed1086492b4ac5c6bbc05909dd76dce1b19b5c26613585161c2f3d20f2494beb8b23fe4"
+      },
+      "0_2_0+beta_7_101": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/J2WKvX2m/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.101-all.jar",
+        "sha512": "26b7db56353ce4ee88629c12727275170354db6c912d93eb728bc434edc753d6c1525e482308153c2abb0b96cb54d2334cb5db1b2bc19af597b3e00322125606"
+      },
+      "0_2_0+beta_7_100": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.100-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/CFUsBP6G/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.100-all.jar",
+        "sha512": "f00f76864ca8d7b5339e8774995dea6c3186bd6e283031e69dcc4dc9337c8d8c3e505b424081b02a0b780a36525009fcf9289aa8122104fee7abc01d54dfdcf5"
+      },
+      "0_2_0+beta_7_99": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.99-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/1D8E3qF2/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.99-all.jar",
+        "sha512": "8ade81a5c01fb2f04ae18ece56e82ca84bd986e5c817541bdc4c41f59dbe76767344cc5cc5f4d4b7b0d1179d44cf35e1876eeb9dded53f77420dda057dfc6c8e"
+      },
+      "0_2_0+beta_7_98": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.98-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/INwYKQHA/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.98-all.jar",
+        "sha512": "9887575b368d2c2a1521c1eda440457d03c567b9585911d2db1fe9b8506f31505846b6c0b8b40d9c6251e1303ba4ae50652e7353958e1bc685f0923da43d605e"
+      },
+      "0_2_0+beta_7_97": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.97-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/xcvUv3qy/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.97-all.jar",
+        "sha512": "521b80316c675551d305c5fb3c8927abc11e031dcb7bad6bf690a436bdaf6319d2de783562e442f8a27846915a6344a17cf1e6e3ad7756388ceba291d945bc38"
+      },
+      "0_2_0+beta_7_96": {
+        "name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.96-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NYa4FfQN/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.96-all.jar",
+        "sha512": "6cd4802673e03308837bfa67b8db192edc55bfb0bb43d6ed63c8ff725fbb23e956e900ec9536a0df19daa14557510a4f09e90f45651c2bfb582772420a60d660"
+      }
+    },
+    "1_20-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-rc1-0.2.0+beta.7.92-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wEI9hgC1/vmp-fabric-mc1.20-rc1-0.2.0%2Bbeta.7.92-all.jar",
+        "sha512": "f5648f8e4be757f397c37055a33b64717c2be1126553446522243f839600a7014d4bedd6d2e1c4e9ecbd3237fdcf061db63be349d095d284c493e9b783c5846e"
+      },
+      "0_2_0+beta_7_92": {
+        "name": "vmp-fabric-mc1.20-rc1-0.2.0+beta.7.92-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wEI9hgC1/vmp-fabric-mc1.20-rc1-0.2.0%2Bbeta.7.92-all.jar",
+        "sha512": "f5648f8e4be757f397c37055a33b64717c2be1126553446522243f839600a7014d4bedd6d2e1c4e9ecbd3237fdcf061db63be349d095d284c493e9b783c5846e"
+      }
+    },
+    "1_20-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-pre1-0.2.0+beta.7.81-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/SMri1Ks6/vmp-fabric-mc1.20-pre1-0.2.0%2Bbeta.7.81-all.jar",
+        "sha512": "1ac4c5df036fb31465b902cf72fd5ef6ea39271b3bab9ab16b08b19ad66b954c14113d870835d5f2f67d283c4acbd8594a96410ac13a21ee517e19c799d5e967"
+      },
+      "0_2_0+beta_7_81": {
+        "name": "vmp-fabric-mc1.20-pre1-0.2.0+beta.7.81-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/SMri1Ks6/vmp-fabric-mc1.20-pre1-0.2.0%2Bbeta.7.81-all.jar",
+        "sha512": "1ac4c5df036fb31465b902cf72fd5ef6ea39271b3bab9ab16b08b19ad66b954c14113d870835d5f2f67d283c4acbd8594a96410ac13a21ee517e19c799d5e967"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "vmp-fabric-mc1.20-0.2.0+beta.7.93-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/E9rNlgEw/vmp-fabric-mc1.20-0.2.0%2Bbeta.7.93-all.jar",
+        "sha512": "e309d94603646b541c43495433f7aa561a97fd9753c1b9e1fd2e0233752976769df297475b988b6190f416d97b9a6fc48846c19e4cd83235affb876ba0dc1aa0"
+      },
+      "0_2_0+beta_7_93": {
+        "name": "vmp-fabric-mc1.20-0.2.0+beta.7.93-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/E9rNlgEw/vmp-fabric-mc1.20-0.2.0%2Bbeta.7.93-all.jar",
+        "sha512": "e309d94603646b541c43495433f7aa561a97fd9753c1b9e1fd2e0233752976769df297475b988b6190f416d97b9a6fc48846c19e4cd83235affb876ba0dc1aa0"
+      }
+    },
+    "1_19_4-pre4": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.4-pre4-0.2.0+beta.7.61-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Y7YEkIYx/vmp-fabric-mc1.19.4-pre4-0.2.0%2Bbeta.7.61-all.jar",
+        "sha512": "d551f589bdfdf9af390a014f470e55f0d3da556058394421891c0d80f438a7294e10449870063eb92c3266ae2f8e7e0caaca4fee434e3940a592380d5be9fb7e"
+      },
+      "0_2_0+beta_7_61": {
+        "name": "vmp-fabric-mc1.19.4-pre4-0.2.0+beta.7.61-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Y7YEkIYx/vmp-fabric-mc1.19.4-pre4-0.2.0%2Bbeta.7.61-all.jar",
+        "sha512": "d551f589bdfdf9af390a014f470e55f0d3da556058394421891c0d80f438a7294e10449870063eb92c3266ae2f8e7e0caaca4fee434e3940a592380d5be9fb7e"
+      }
+    },
+    "1_19_4-pre3": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.4-pre3-0.2.0+beta.7.60-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7G0K87GH/vmp-fabric-mc1.19.4-pre3-0.2.0%2Bbeta.7.60-all.jar",
+        "sha512": "823b1c2bcb307ed88a06e629e11a4d40dc68ae2876bdc6b9b57ad597b289d46fa1aed4ebd6c773c4907a6f2bd2dfdd496bf61d1314492049d6ef6be87df13675"
+      },
+      "0_2_0+beta_7_60": {
+        "name": "vmp-fabric-mc1.19.4-pre3-0.2.0+beta.7.60-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7G0K87GH/vmp-fabric-mc1.19.4-pre3-0.2.0%2Bbeta.7.60-all.jar",
+        "sha512": "823b1c2bcb307ed88a06e629e11a4d40dc68ae2876bdc6b9b57ad597b289d46fa1aed4ebd6c773c4907a6f2bd2dfdd496bf61d1314492049d6ef6be87df13675"
+      }
+    },
+    "1_19_4-rc2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.4-rc2-0.2.0+beta.7.63-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/2kwymCk2/vmp-fabric-mc1.19.4-rc2-0.2.0%2Bbeta.7.63-all.jar",
+        "sha512": "59dcec3f0a7f53a7e6c305518d7c6420116b87962f7cec2b1ca48195497fa7e9e77633e329f9111fc6efb80e280a105629ba24e85dd25069e416ba1f45ea3e8c"
+      },
+      "0_2_0+beta_7_63": {
+        "name": "vmp-fabric-mc1.19.4-rc2-0.2.0+beta.7.63-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/2kwymCk2/vmp-fabric-mc1.19.4-rc2-0.2.0%2Bbeta.7.63-all.jar",
+        "sha512": "59dcec3f0a7f53a7e6c305518d7c6420116b87962f7cec2b1ca48195497fa7e9e77633e329f9111fc6efb80e280a105629ba24e85dd25069e416ba1f45ea3e8c"
+      },
+      "0_2_0+beta_7_62": {
+        "name": "vmp-fabric-mc1.19.4-rc2-0.2.0+beta.7.62-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/q0kuC381/vmp-fabric-mc1.19.4-rc2-0.2.0%2Bbeta.7.62-all.jar",
+        "sha512": "5919ccf53106ca52cbb586c42c9bc831ff009832d0ba675fb115daaee36cbb02b883f9cd3ef13364ad0f51af1fab88f7d0ca00eed2cbe5308d8b644aafb9dcfd"
+      }
+    },
+    "1_19_4-pre2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.4-pre2-0.2.0+beta.7.59-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/dtjwT57d/vmp-fabric-mc1.19.4-pre2-0.2.0%2Bbeta.7.59-all.jar",
+        "sha512": "e71a42e5428f9f60f659607ba44dc162a969335401c543f89f0100b2716e31ccfe3b5aa7136b2b698a5fff31501a515a8537ed767e3a8566ed3dbfb5f2929d83"
+      },
+      "0_2_0+beta_7_59": {
+        "name": "vmp-fabric-mc1.19.4-pre2-0.2.0+beta.7.59-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/dtjwT57d/vmp-fabric-mc1.19.4-pre2-0.2.0%2Bbeta.7.59-all.jar",
+        "sha512": "e71a42e5428f9f60f659607ba44dc162a969335401c543f89f0100b2716e31ccfe3b5aa7136b2b698a5fff31501a515a8537ed767e3a8566ed3dbfb5f2929d83"
+      }
+    },
+    "1_19_4-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.4-pre1-0.2.0+beta.7.58-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XwGawZIB/vmp-fabric-mc1.19.4-pre1-0.2.0%2Bbeta.7.58-all.jar",
+        "sha512": "2852a97ac19fd4137d2fa28f7815e8a56f6b92e872027f7f3d7f6690697341b4426d1a0e56528cdb2d1914a0ed39657d1b1870ec3ecff52c8ffcab6511220850"
+      },
+      "0_2_0+beta_7_58": {
+        "name": "vmp-fabric-mc1.19.4-pre1-0.2.0+beta.7.58-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XwGawZIB/vmp-fabric-mc1.19.4-pre1-0.2.0%2Bbeta.7.58-all.jar",
+        "sha512": "2852a97ac19fd4137d2fa28f7815e8a56f6b92e872027f7f3d7f6690697341b4426d1a0e56528cdb2d1914a0ed39657d1b1870ec3ecff52c8ffcab6511220850"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.73-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NkCv7j6N/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.73-all.jar",
+        "sha512": "f40605c41d348e7be648694d5855984be46ed154181735e0c5449c3f32f07c2db1f8698c573c6122c673f9d8a1363be79e8630a27a9ec47016e8d66a8d8d3296"
+      },
+      "0_2_0+beta_7_73": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.73-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NkCv7j6N/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.73-all.jar",
+        "sha512": "f40605c41d348e7be648694d5855984be46ed154181735e0c5449c3f32f07c2db1f8698c573c6122c673f9d8a1363be79e8630a27a9ec47016e8d66a8d8d3296"
+      },
+      "0_2_0+beta_7_72": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.72-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/gdYFga6D/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.72-all.jar",
+        "sha512": "84cd9c8be8595d7d46ff7f04e40d52da34f7f33ee426726da1fb1fb54ecb5b80df36bbc92f997cb336da294853ee3e9b76c6c9052f79a511809ebf47653c98a5"
+      },
+      "0_2_0+beta_7_71": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.71-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Dp9cnhMy/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.71-all.jar",
+        "sha512": "399be2327c548ddf9700a2408a92ed8c1612a481c0e498c9b1751841be59eedc6a63e35cc13618259d24ce179b7b7a86c5fa2614b31c890405bc8a98df0d1df2"
+      },
+      "0_2_0+beta_7_70": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.70-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/SiTwKKgZ/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.70-all.jar",
+        "sha512": "5fc74ac5c9a29a45a163a9ccf53ffaa59fa7ca3a1ba2b4af4099e702d8b793aa08424e800e8727bd698961f0a5a7d51cd3ae802fd675cf1e025a82448ad96546"
+      },
+      "0_2_0+beta_7_69": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.69-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9ElVzUFW/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.69-all.jar",
+        "sha512": "6f085f44ffecd4b14a60defee8ff6dbc971c39948aa2e21766302ced31409dce002627f321c64b6284e4156bf9df03c3b385cb3be5018e53ab427c5e8785e879"
+      },
+      "0_2_0+beta_7_68": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.68-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/b3wY0cz1/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.68-all.jar",
+        "sha512": "12b7291c4d4d2cde3985499c6766b48452a656c59c9dad70cff54c99580088a92a2f3ac430731d26fe9b906b0eee5b1f5b86c4dcd135ed7f08fabe85b1fdb559"
+      },
+      "0_2_0+beta_7_67": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.67-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/v1Z3pLhJ/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.67-all.jar",
+        "sha512": "bc24c43819c3aadb5603c636866fb6e491ede7ab4d3313121594748eb11e27bf914025105b514c4875c8f91ab38d0bb68b2ad6884bd7063b381c7203c299589c"
+      },
+      "0_2_0+beta_7_66": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.66-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/WymTdXV3/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.66-all.jar",
+        "sha512": "4e8082f6ed937fcfb3d9b35722c570b8dda13f49f95d983732f15cca58527395654a0d5897326945adc833ccd9a2e7f2e2c708070e75fcab89233e8112327160"
+      },
+      "0_2_0+beta_7_65": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.65-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/hEMyQTCy/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.65-all.jar",
+        "sha512": "b95613bac790bba8128330622dd888dcab1a5882e301140c68953d86b4665c4479a9e6aaf42ae4077fdd227b0b27511d833b93c27e39c80d46f03d0c63c6f089"
+      },
+      "0_2_0+beta_7_64": {
+        "name": "vmp-fabric-mc1.19.4-0.2.0+beta.7.64-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bFssby6r/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.64-all.jar",
+        "sha512": "e493bab2ab7154dcce8f41e5c9eca04aeb080b10fc3836684206e965e876d8bd857d4e28d8046f1bb2c605e978ea6a1b7d6a92fcdff865b6d7559c560e994d5a"
+      }
+    },
+    "1_19_3-rc2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.3-rc1-0.2.0+beta.7.27-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/I457rnzw/vmp-fabric-mc1.19.3-rc1-0.2.0%2Bbeta.7.27-all.jar",
+        "sha512": "10e2aa0b6fda83aebd5432b5c78ae4732a23da82af339a406c96786f8a07a7f4d88f128d34e007008c1c3a918c2080ba4af4dd28945d3a99940823d1425fe016"
+      },
+      "0_2_0+beta_7_27+1_19_3-rc1": {
+        "name": "vmp-fabric-mc1.19.3-rc1-0.2.0+beta.7.27-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/I457rnzw/vmp-fabric-mc1.19.3-rc1-0.2.0%2Bbeta.7.27-all.jar",
+        "sha512": "10e2aa0b6fda83aebd5432b5c78ae4732a23da82af339a406c96786f8a07a7f4d88f128d34e007008c1c3a918c2080ba4af4dd28945d3a99940823d1425fe016"
+      }
+    },
+    "1_19_3-pre2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.3-pre2-0.2.0+beta.7.24-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/AV1GVe8M/vmp-fabric-mc1.19.3-pre2-0.2.0%2Bbeta.7.24-all.jar",
+        "sha512": "c5e802e26c36bcfe0b38bc5891af41cdb00596ff7f80aea27106cfb0607f9f588f6a7d7f701055d6f29646f16a023087347f86399989e4bee69e6101f37efda9"
+      },
+      "0_2_0+beta_7_24": {
+        "name": "vmp-fabric-mc1.19.3-pre2-0.2.0+beta.7.24-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/AV1GVe8M/vmp-fabric-mc1.19.3-pre2-0.2.0%2Bbeta.7.24-all.jar",
+        "sha512": "c5e802e26c36bcfe0b38bc5891af41cdb00596ff7f80aea27106cfb0607f9f588f6a7d7f701055d6f29646f16a023087347f86399989e4bee69e6101f37efda9"
+      },
+      "0_2_0+beta_7_21": {
+        "name": "vmp-fabric-mc1.19.3-pre2-0.2.0+beta.7.21-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/k54agBXC/vmp-fabric-mc1.19.3-pre2-0.2.0%2Bbeta.7.21-all.jar",
+        "sha512": "23923af2c9e0509a633ce7832700c933da7899f7b076593d7d86c433664612ecdd348f028598ee279cbf7fb86435e8f36c11f23d317a69b751d10f886389677b"
+      },
+      "0_2_0+beta_7_20": {
+        "name": "vmp-fabric-mc1.19.3-pre2-0.2.0+beta.7.20-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PKFcuxdI/vmp-fabric-mc1.19.3-pre2-0.2.0%2Bbeta.7.20-all.jar",
+        "sha512": "e744feeeb8d0d95600a1e290832fd4d90842dca7304a2f4ad272c4952ecedb958244640bdf2ae0abc962ba5936d23d7e5cd20fee41db26d9e6ec878eeb0bb705"
+      }
+    },
+    "1_19_3-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.3-rc1-0.2.0+beta.7.27-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/I457rnzw/vmp-fabric-mc1.19.3-rc1-0.2.0%2Bbeta.7.27-all.jar",
+        "sha512": "10e2aa0b6fda83aebd5432b5c78ae4732a23da82af339a406c96786f8a07a7f4d88f128d34e007008c1c3a918c2080ba4af4dd28945d3a99940823d1425fe016"
+      },
+      "0_2_0+beta_7_27": {
+        "name": "vmp-fabric-mc1.19.3-rc1-0.2.0+beta.7.27-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/I457rnzw/vmp-fabric-mc1.19.3-rc1-0.2.0%2Bbeta.7.27-all.jar",
+        "sha512": "10e2aa0b6fda83aebd5432b5c78ae4732a23da82af339a406c96786f8a07a7f4d88f128d34e007008c1c3a918c2080ba4af4dd28945d3a99940823d1425fe016"
+      },
+      "0_2_0+beta_7_25": {
+        "name": "vmp-fabric-mc1.19.3-rc1-0.2.0+beta.7.25-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/6T0wkTkc/vmp-fabric-mc1.19.3-rc1-0.2.0%2Bbeta.7.25-all.jar",
+        "sha512": "88d5d61e1b2a6fed39e1073a016c930f309d462e47cb3fc7b8936a2ebe1b5c0951b64a035d506af28b4ae03efa06227b02347d8e8f7d432c24d4ea46cfbba07b"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.47-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/4HYfawHv/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.47-all.jar",
+        "sha512": "c4adf102fc512b61bdda7bb7334e5f1426fb054c2b9dae7ffc39e82102f8bc9ce33efa7559ca9a796a315bee2f1f4c562dee54a29e5bce009eb51fea30725429"
+      },
+      "0_2_0+beta_7_47": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.47-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/4HYfawHv/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.47-all.jar",
+        "sha512": "c4adf102fc512b61bdda7bb7334e5f1426fb054c2b9dae7ffc39e82102f8bc9ce33efa7559ca9a796a315bee2f1f4c562dee54a29e5bce009eb51fea30725429"
+      },
+      "0_2_0+beta_7_46": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.46-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/tcCOpTom/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.46-all.jar",
+        "sha512": "50abfcf3e82922b221ea39ecbb5668e6cb6dc47b31206cb2daff244709dd11bd0480972c39ed77bf348c32b19e1a0efbb9b3f3f9bfdd411559e7cb835657ac5e"
+      },
+      "0_2_0+beta_7_45": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.45-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/tc6EbelN/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.45-all.jar",
+        "sha512": "385b39a96da0b4b9d3f9d2c69f4ba3210cd4695da0e3f22dee62a6b83c05b2861fd7ab96279723550ba3cc01f83a5f81bbbba08416453088a0368e732df9d5d5"
+      },
+      "0_2_0+beta_7_44": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.44-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/H9Z7Tw6l/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.44-all.jar",
+        "sha512": "cbb5a302107b21f72661079b810f22294bcd7f792c4018fb3b6a022016a54c9fe5b848b0f1cc8631fca67de7fd67967d42fa873a3486af9ffa7c6d52d04af46e"
+      },
+      "0_2_0+beta_7_43": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.43-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/FSqZPu2O/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.43-all.jar",
+        "sha512": "82740694159608ffc05d8411463d1103acbf51869f9dc12f754f9721736642abebee0d0feac4c43da1583963dcca5b8e88245fa5bc2dd4cf00330891fada8d4d"
+      },
+      "0_2_0+beta_7_41": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.41-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/TDvktjyB/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.41-all.jar",
+        "sha512": "e93655fc62c72c3a1be1ec9408ac0222493293baf41b3b8d4afcd029d21ae0c57464a87550017c60c6f883ad85a1ba0e765e6ae81bba90e2c9263a2383c301d9"
+      },
+      "0_2_0+beta_7_38": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.38-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/AFPKrtwP/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.38-all.jar",
+        "sha512": "42f3a9375aa59d8f9b1cc036eafae720bc81975cf0b11ca1b3205438f4ad59357cbd2b0ed7083bb525ceb1acec55856efe819085bd0cd972465ef95149f94f8b"
+      },
+      "0_2_0+beta_7_35": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.35-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/m9Y7WTaw/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.35-all.jar",
+        "sha512": "94b91685fd74203a8ab27281925203a6b516b74433d394425d9720adf12f6aecae55777fed649fa0dbad43aebc69b5b797ef314d76e5f97c3d4202727b462e2d"
+      },
+      "0_2_0+beta_7_33": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.33-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/KDSAgCAQ/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.33-all.jar",
+        "sha512": "948e239047abbcac92c7de19e06b0dd2e36d2e3b06a198e1ac281b5628e43dda44fd7b8258167ead63e03816d0a6a5f2d16224347ee9ff22110326f25db6160b"
+      },
+      "0_2_0+beta_7_32": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.32-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QKZPHGbO/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.32-all.jar",
+        "sha512": "00482e331e38235f863430a95c28d86383ceaea51ffbe0c1b05df211f786bfd71d383c63d955d4679bf7457abfc6d5217f71a8578b1e7580e5787366af0f55c6"
+      },
+      "0_2_0+beta_7_31": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.31-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/84wyXmZB/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.31-all.jar",
+        "sha512": "e65853ee7deaab86c58184646b6a2dc4fbe238ee8a23dcafbaa138933b8d568137b9e2b72bf2121de5c124fab676cb181e8bb1a4e70ac459dada52c159ac7743"
+      },
+      "0_2_0+beta_7_30": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.30-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/u3myys8v/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.30-all.jar",
+        "sha512": "010d236c1cf3d4654af56906209dbc6a574b37e9f14b27881e16077037b0dd77cefe7b2566fead90042d75c39b07271b8129afdb3c8d9943b86946e9dcfc12ef"
+      },
+      "0_2_0+beta_7_29": {
+        "name": "vmp-fabric-mc1.19.3-0.2.0+beta.7.29-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/nbm0pOjY/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.29-all.jar",
+        "sha512": "ce22fc031dbd78e02c3553c877997291e176a410295b0532b6e68c7fbdde12fc01352743a99969934dba5fa85d25ddd76b576ad1cfca73474b66237d8637fb3c"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.30-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/orfeALA0/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.30-all.jar",
+        "sha512": "6e881f2592de42c82ba11aa9749a62670931b8ff0b414ba21b22035fa350dbb873ebb487647bb495c999246b8c7edc5997654b501b861937ddfc4e6135f12ec4"
+      },
+      "0_2_0+beta_7_30": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.30-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/orfeALA0/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.30-all.jar",
+        "sha512": "6e881f2592de42c82ba11aa9749a62670931b8ff0b414ba21b22035fa350dbb873ebb487647bb495c999246b8c7edc5997654b501b861937ddfc4e6135f12ec4"
+      },
+      "0_2_0+beta_7_29": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.29-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/hg1CfB4u/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.29-all.jar",
+        "sha512": "ba25bcf198823f56eaa0023b9c37e41ddb47e27043e6bee06993a8bf7acb9836716afe5e127dfc1c2874b1c67db6d95c08df3e0deefc1965d1b57adf9604e9e0"
+      },
+      "0_2_0+beta_7_28": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.28-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/rHDIg1ab/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.28-all.jar",
+        "sha512": "7f577bd7738e5adfe4eb000f8784aeaf485d027b0098545203b9186d1360b38f959983dd21d8815e74d2eea83ffe7ccb408c77d7db4f65588105713ff02d3c25"
+      },
+      "0_2_0+beta_7_27": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.27-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Q8RWN8R4/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.27-all.jar",
+        "sha512": "4ef85f9c3b8fab4860b3ada778a19164624fc41ab2702c90fd436d52b502fb3ff791f49685cea51038af6e189df814b971ea0ab88190915949fe4742bc36c70a"
+      },
+      "0_2_0+beta_7_23": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.23-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/2tNVStHO/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.23-all.jar",
+        "sha512": "40c6290dc43b1efeae002753eaccaa7c9cb0a6c1d6a762a887028c016806a2ce88f00f5c4c685cd290a950f9ac670eede325a0b446a6cbbd74955d7033a7dc32"
+      },
+      "0_2_0+beta_7_17": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.17-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5OpRna2Y/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.17-all.jar",
+        "sha512": "2a87c872a9522c8eb5a21fc5e98d66cb668894b84f996f441d75168d5ef4ffd6e9754324eba8cab79b06d9efc27ee671898e4b33c3849e1b3465123a8d981011"
+      },
+      "0_2_0+beta_7_15": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.15-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ZJ7yhESe/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.15-all.jar",
+        "sha512": "8351e6562633bfd1b2946bd3f9f0178a298e73237bb042d33f3cc7dcbcdb1db8f8bd8711a8d17e83ba164efe5545ca8cfde599984aeda9c69ec4e949b8f83042"
+      },
+      "0_2_0+beta_7_14": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.14-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bJuxxTXw/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.14-all.jar",
+        "sha512": "02696cf02abe59d8476ce28eccb519c1a299ea7e4567af970b552a947731eff5345300b8ca24c8bc685bdb0789993071b7b66e9cec92eccb210e6f510cd31b0b"
+      },
+      "0_2_0+beta_7_13": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.13-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/hLm9Y7dH/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.13-all.jar",
+        "sha512": "8025695d550d60052a6c6c3f1a90e150c8c3db06331b2d927129625c2b3ae49239a3de8081e6a51b2915e7888bdf837892e8c4c6ce757149a1899cb1b5ac6ecc"
+      },
+      "0_2_0+beta_7_12": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.12-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/rLSNJBj9/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.12-all.jar",
+        "sha512": "42f3454e79bb3e08a38e9a07111f7f30106faf1af78d2cddf5323334973ed105d9f39c2db5ec25c64cd66683906fdec5dac1a72f2168cbcb01f4ceeb46a2c32b"
+      },
+      "0_2_0+beta_7_11": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.11-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/22OZGeiM/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.11-all.jar",
+        "sha512": "fb122a6c00cbac0c21035f2aa894265b021f1d0c283e5d18ab37d7525d4d823e7f37ec1e6a73cc6a1701117e15224e0138b9a570eda88cd39923e4f3afd3c3c8"
+      },
+      "0_2_0+beta_7_10": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.10-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/g8EnMrso/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.10-all.jar",
+        "sha512": "63408cb70bffb04b968d6c4de710218c9fb3b691b6338fa4e2e2bdfb5a8a6487e5cc4b466f17f50cb560d97672c47b22b08ebb5303134b21610570009c9cfda6"
+      },
+      "0_2_0+beta_7_8": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.8-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/cg7ZmLB5/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.8-all.jar",
+        "sha512": "75b4c57ebbaad1fa3985951fd8a39336eb3603ecc81d2070d0fe30687140507e7744c9881be866097834764b898e8048490b5f2b80c7650a95fff36ef04d1fbd"
+      },
+      "0_2_0+beta_7_7": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.7-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/GIfBOfe0/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.7-all.jar",
+        "sha512": "ac8a862f76fe04c1693bb8df621cce5d9c4869ad5fd4294b6559c4945e4331552a427d2d9d492834e841924b250956beeb602a203b6295cd2e25a88b562101eb"
+      },
+      "0_2_0+beta_7_5": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.5-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9PAeeTRi/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.5-all.jar",
+        "sha512": "d26a0a2fe08dc5295cfa015d0c45ab02e82a80ede9b38c033f52675d26fc9389b7457989e4189d83a43d117266fb8dfaeef887a5c6b7f20b5732b8bb43de6f20"
+      },
+      "0_2_0+beta_7_4": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.4-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wDGAwLEy/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.4-all.jar",
+        "sha512": "c6412fca72dcec826b5ff4ca24011a8f9bce7f9960011b619723ded10d856ade292b7b7bd6320f1355aadc25391e2bfe0d8c5841036738d55f96efe788e4d08d"
+      },
+      "0_2_0+beta_7_3": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.3-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bIjD0ksZ/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.3-all.jar",
+        "sha512": "c80099762cb5e9e0187c0bb0d0762e22ce57fe6bb7ab9221aa5a8ee00a9c89eab6d4e4821111b0245a21d5c0e6c2c7c56a7c65d91dcab9b4f1c47ef1958b79b5"
+      },
+      "0_2_0+beta_7_1": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/aETDkrVW/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.1-all.jar",
+        "sha512": "66b0012c30a7f22d5804f30ef0b81fce475d95756890176922e87620ee85132c0d53de3d50e9b8793942e7bb36be96d056c16f30a3114b60555ec3931d1b3abc"
+      },
+      "0_2_0+beta_7_0": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.7.0-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wOpsyYUU/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.0-all.jar",
+        "sha512": "589eba2c253d46677be201258e71100b6420cb10ee16d6ab64a379371167419e796f7d55f2447a6cdaabb44f3627ae2a2197affee211182d8bb4df11dcd069f6"
+      },
+      "0_2_0+beta_6_61": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.61-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bnR9NRz2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.61-all.jar",
+        "sha512": "029ebd2fc044eced6a20ff58c9387f5656ce0cb785b503120d867faa21f73f5e9453077131641bfad3b69c8e639982fd7161e0dff74c4242f1ffea3832894cac"
+      },
+      "0_2_0+beta_6_58": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.58-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/hgiUSboX/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.58-all.jar",
+        "sha512": "08d70d9711a1e48d16ed68cd57975ae471537b1c5dcb9dcda6577e1436461a84b9b67df556f40cf98b6edb167807f64fa02d5e3145c5637ab90ef4082fb86c93"
+      },
+      "0_2_0+beta_6_56": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.56-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/p6hBEuHF/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.56-all.jar",
+        "sha512": "2707c67db4d966937e659f72a906dfe900b232ac644d8e01e7b131bfafea7c830139b4148eb8f850958b746531cc63543d2822256c21566a452b6c748b13806e"
+      },
+      "0_2_0+beta_6_55": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.55-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/4dZGgZw9/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.55-all.jar",
+        "sha512": "f7c4eaccec04067f187f32035a8daaba0db25eaf322d1c1d182ff68e65bcb5b04fe28a015a95b3d6bc0a800021c1b198b6120bf18872d349199163f5d4db05ca"
+      },
+      "0_2_0+beta_6_52": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.52-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/uMSs809J/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.52-all.jar",
+        "sha512": "46bc2525cfa112ecb3bfaae4f5bb8ae7506648773a7e0339dda18e8df765e1253094d0278590bf5afbdecc211637bc5c734b876de284549c339636d89fa2ba78"
+      },
+      "0_2_0+beta_6_50": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.50-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/qBJWA5xP/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.50-all.jar",
+        "sha512": "3e0a1ac7f1a5e986b64034314450ce6bf03440fe944eb720896d7ca238eeae16bbc3013402b83cbfbd8990dd097f75223ebe163b7fe525ab9293c8e9a1166db4"
+      },
+      "0_2_0+beta_6_49": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.49-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wvPISmOj/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.49-all.jar",
+        "sha512": "c71b08b9facd23850ce5e4f4c0d2ef83f444d36774181065e099c12151d6dd2cf4efaa56c26c562de9f5ee85a0f9a4787b8b339b0418bfb81f051052f77af139"
+      },
+      "0_2_0+beta_6_47": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.47-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.47%2B1.19.2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.47-all.jar",
+        "sha512": "034c40198a32c1e747da4470e4d1a5a77727421003371ccfcbc0a91aea40cb382777a6fe10b6bdaa0a2cd475b6e3848938f912a53e8562c26d4704975bdd0e40"
+      },
+      "0_2_0+beta_6_46": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.46-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.46%2B1.19.2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.46-all.jar",
+        "sha512": "0cd5d9863ad7cadb53badd984ecd457cd3204baca19f490c6b1b5decaa67c0b818fb10420867755364d4cac9fdfd1e188d04d60caf0168f3e8506b710739ec8e"
+      },
+      "0_2_0+beta_6_45": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.45-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.45%2B1.19.2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.45-all.jar",
+        "sha512": "2852f10fe4ca4d8cd6f0d11b44031ea2cb4118f66146812de2bc448a8af58d4f097aa48600039689d61ab0c007b798217de8f5485c759c7622153431d35e56aa"
+      },
+      "0_2_0+beta_6_44": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.44-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.44%2B1.19.2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.44-all.jar",
+        "sha512": "d1261e326406dac6874aac1036aa1d04a37db9b85f6c7ba477b1a4ab920d86ca66d0f01e23b73804db61606e11648f8e3afdc471be1a21e54c138c9c9031703c"
+      },
+      "0_2_0+beta_6_43": {
+        "name": "vmp-fabric-mc1.19.2-0.2.0+beta.6.43-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.43%2B1.19.2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.43-all.jar",
+        "sha512": "e7f7efef7c5169e981a4f1f8e66832fc8684b7092b8d389c5d246fed6456398c277f703daaeabbed1b5e2b9c4eb576b564b96c6ea00957339e1b499eedd44707"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.41-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.41%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.41-all.jar",
+        "sha512": "df07b525be4e73beb31e0f559ffa8413e210f4d5f57b8ce0383fb619794d8d0dcfda12a5ddc254ed5a0773605927c926f13dfdd24f486a858d644d5c200e42a9"
+      },
+      "0_2_0+beta_6_41": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.41-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.41%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.41-all.jar",
+        "sha512": "df07b525be4e73beb31e0f559ffa8413e210f4d5f57b8ce0383fb619794d8d0dcfda12a5ddc254ed5a0773605927c926f13dfdd24f486a858d644d5c200e42a9"
+      },
+      "0_2_0+beta_6_40": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.40-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.40%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.40-all.jar",
+        "sha512": "529f0e62724811af09e4f0b36003f1a01793853c6e8cac455f3e3e3865dcdd5e9e01733d0bf72dfeebd34aab400110ab3ad0771c18b9274b5a262d0d39156e8f"
+      },
+      "0_2_0+beta_6_39": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.39-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.39%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.39-all.jar",
+        "sha512": "48bb1533e1d3b57e721294cad86dff0b26182c87e310e1da8988dbadafa8e214ad761e6c5b777ba661339a5de53a7b07d44f116e6178bd0bef0e5fcc078e25d8"
+      },
+      "0_2_0+beta_6_37": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.37-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.37%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.37-all.jar",
+        "sha512": "be28500251d9923c05b09be04fb00e6b0ef7794669a49adab16d8bf08e8b5d8f6b224e9c4788273b76d8e0862ab3abe5c02afe12a5881e18c62e5a8bd1f320cb"
+      },
+      "0_2_0+beta_6_36": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.36-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.36%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.36-all.jar",
+        "sha512": "4b3a74d451634f7295d597bc079c410702150e789542c34e87b3bac8d4957a9d6ba2fddaca05cd7210081895aada142dbe79ed8e710039f67e1aa539eb94ebef"
+      },
+      "0_2_0+beta_6_34": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.34-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.34%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.34-all.jar",
+        "sha512": "72af02d2e23bd225555bb1c8de2099939b7ff1726c72d85040c172fdf75e576dbf489d97d48c6d6f21c114bb104ac06a591c3a7315e761a672da656d3ba2e4b6"
+      },
+      "0_2_0+beta_6_33": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.33-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.33%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.33-all.jar",
+        "sha512": "20e3bccad40dc04ce714625a04627b9e3cc3f6641d89075d4e844e915f46eaf59ffc3ae41f5406aef4922b70bdbe3b4e625b6fa4501b246820be1eaf4ac0a6df"
+      },
+      "0_2_0+beta_6_32": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.32-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.32%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.32-all.jar",
+        "sha512": "7f94850b901142d0c660666d085b3c05a14a866c90231ac9558af742e06a2bddda88e74b36c243a29e7e848d2ffc58fb446e43fc6a6e7e7935794dcceeae0181"
+      },
+      "0_2_0+beta_6_31": {
+        "name": "vmp-fabric-mc1.19.1-0.2.0+beta.6.31-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.31%2B1.19.1/vmp-fabric-mc1.19.1-0.2.0%2Bbeta.6.31-all.jar",
+        "sha512": "f08f892f19269ec3f0e16477f4c2d52bfae6a2e2513ac9f1d544dcd460167c42e41525be449712804c285e1e91c62da30ef429cda1270ca5837d697f93e56697"
+      }
+    },
+    "1_19-rc1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19-rc1-0.2.0+beta.3.24-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.24%2B1.19-rc1/vmp-fabric-mc1.19-rc1-0.2.0%2Bbeta.3.24-all.jar",
+        "sha512": "13c169a64b0ee62d7f5dd033cf3cac478bffc91ed5f8ff96e9eb9eca25694fc9d7b6877a44aae6a3100f2d350c314858fa5b488ddfa90b8335629cc1a6565b5b"
+      },
+      "0_2_0+beta_3_24": {
+        "name": "vmp-fabric-mc1.19-rc1-0.2.0+beta.3.24-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.24%2B1.19-rc1/vmp-fabric-mc1.19-rc1-0.2.0%2Bbeta.3.24-all.jar",
+        "sha512": "13c169a64b0ee62d7f5dd033cf3cac478bffc91ed5f8ff96e9eb9eca25694fc9d7b6877a44aae6a3100f2d350c314858fa5b488ddfa90b8335629cc1a6565b5b"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.45-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.45%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.45-all.jar",
+        "sha512": "68079f350fe4074009f881d12edb7723d313bedc727524317cfb77908f6a7a053f6da240c938db3d928df16449d9cc6e4a4ec62c2e7e9fa9ef8c886299fea638"
+      },
+      "0_2_0+beta_6_45": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.45-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.45%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.45-all.jar",
+        "sha512": "68079f350fe4074009f881d12edb7723d313bedc727524317cfb77908f6a7a053f6da240c938db3d928df16449d9cc6e4a4ec62c2e7e9fa9ef8c886299fea638"
+      },
+      "0_2_0+beta_6_44": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.44-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.44%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.44-all.jar",
+        "sha512": "fd51431d56a3443a58f6b3215810f3113508ece43599e1d8ddce471e7a7f33ff1c98bece67de8b6811cdd62e5d81956f21a52e2bd955f14868c5b356b6643eca"
+      },
+      "0_2_0+beta_6_43": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.43-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.43%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.43-all.jar",
+        "sha512": "33208e7fef36a66f27c44a8cea27819d6421e1b0a77c9c8b524337d62e0d33a42f880b02c2902866f519e76f60b411257631d89d59c2bb31bc6041d5d9e1a619"
+      },
+      "0_2_0+beta_6_41": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.41-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.41%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.41-all.jar",
+        "sha512": "79e870abddf755895c70f953d5a6d2604d2cb93c5cd520de43727b8589c2bc650b4e11aa20eb53d65be6acf05ba02007a849293d65a505f4a04a879354d4d0bc"
+      },
+      "0_2_0+beta_6_37": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.37-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.37%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.37-all.jar",
+        "sha512": "97d0660fa9bb8ae37009a2535b55b7acc037c4340bb761e53b1bdb9d9b946361b5fc529ce9c788ac3c733152d32825c61f67ca407dc86299a55010c9fbd55262"
+      },
+      "0_2_0+beta_6_36": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.36-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.36%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.36-all.jar",
+        "sha512": "868875bf44f0125bf1f4f15b1cc684edc4a8070511fcf798af6872e0ce3301bd8a25bded3b5790e8c27ebf94c2e151941e359e41a0e9b746c063db5c6be75867"
+      },
+      "0_2_0+beta_6_34": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.34-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.34%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.34-all.jar",
+        "sha512": "9ef01386aeb3581bcb319150d9a5ec6c9f73a985fd65c8cadf168b14a6620ac6fe697886e869b13e5204afc8e3b2533181fc9fa1a9a0874f4a418df706f656a6"
+      },
+      "0_2_0+beta_6_33": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.33-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.33%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.33-all.jar",
+        "sha512": "c0e1429bf0b0534d5cf937634658e87b5bcedc92b64bf96f6b3c02d0e8c0608c73489c92948580ffa1863250521b42c6dee2378eb0cdd5360804881e84a832bb"
+      },
+      "0_2_0+beta_6_31": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.31-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.31%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.31-all.jar",
+        "sha512": "e278473aaab6970fce472303ca89e41eee22baf61d58182c3028350e034891d986912d18888bdbce8cc4447171f909d3e2773033cd45ca3176d7cb12062f0f03"
+      },
+      "0_2_0+beta_6_28": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.28-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.28%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.28-all.jar",
+        "sha512": "c30c0c89ce597ca1a4aa440886883a475d6726057128babe2d2af2566f4099d10889c1a540f98ef82e311bf3fe4a21344b8ec20b550efef9de13366481bc9b2c"
+      },
+      "0_2_0+beta_6_27": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.27-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.27%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.27-all.jar",
+        "sha512": "ad6f908b5945d1f20f6e5112c53b0d433eeae0685332d5929bb863f8f737c74e9e1c5919bd8b3164be8b2d2734d5d9c38f657d0476f469bc2c44b6908ac7d658"
+      },
+      "0_2_0+beta_6_26": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.26-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.26%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.26-all.jar",
+        "sha512": "dcdafc1c4f63ca724d60a5061bf0e21d2fbe5b72d2de5fd66469782215b4a8b2af17f605977a58aa0f9a60871be7cf49a8aa4238201eeb6cf1f748a0e79e5cbd"
+      },
+      "0_2_0+beta_6_25": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.25-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.25%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.25-all.jar",
+        "sha512": "0cf764244b1426dc52227b6b6382e2647f51bf5446f1bd41d94236f2d3891724d31394681677561442c34d5386f167dabdd4d57cdf9d86c5bce890df31565509"
+      },
+      "0_2_0+beta_6_23": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.23-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.23%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.23-all.jar",
+        "sha512": "c80cf71fcc1f3c12cf7251c3af0c180775a9901159706a34be12dae57141d99c6ec49871565825d931cc7f0dfad21183a8b14c60701bc3b72fccc9bc8dc6f135"
+      },
+      "0_2_0+beta_6_22": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.22-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.22%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.22-all.jar",
+        "sha512": "36be53c04f9843bca9cc61cee518addc99fc64c5bb2156757d4724b090e89aae3a9018726a38f6378d43b7714ae2ef3a1288fc39efc93444f47462c311f02be7"
+      },
+      "0_2_0+beta_6_21": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.21-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.21%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.21-all.jar",
+        "sha512": "28bf5f5589f5e0af624b4d1b00e99a6c54671ff470c4ecea9675f28ca3ba61621661be7c8f393a4b8b739e7a73eec36cd6876cea175bb8f60ce1eae60f683390"
+      },
+      "0_2_0+beta_6_20": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.20-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.20%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.20-all.jar",
+        "sha512": "0d98477f1c852b51812379df1ca48d892d2f66e0fb3c100ec30fe50292ac8f8a84df1171f43456b9795514884d5d247e385b337d5c14fcdc533d88cd97c3c01f"
+      },
+      "0_2_0+beta_6_19": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.19-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.19%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.19-all.jar",
+        "sha512": "72a66e45d196c98afc8eb6071c29527835e060fa9014235c297d796f6d4fe2adc685541ef47b99276633febef1177ddcb8e99c8bdca760ab336c49aefa2638c8"
+      },
+      "0_2_0+beta_6_14": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.14-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.14%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.14-all.jar",
+        "sha512": "f5e8186bde59fcf3134641990f6963a597c05f37d89e6245c6956a4efdd3306ca38396445da7cacd707441d4720506441048e039e08a7d3cd27e9cff4c283919"
+      },
+      "0_2_0+beta_6_13": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.13-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.13%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.13-all.jar",
+        "sha512": "60ea1d12d900f9dd308061690fbce78898dda942d6d366c6a277293cce0e2b83a0f77476dd40c5842767dd6a94db051bf10902e91ab50449e7f247581c2fccdc"
+      },
+      "0_2_0+beta_6_12": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.12-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.12%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.12-all.jar",
+        "sha512": "efccfaf4afe12475fe5617e418233909de48df1689797b4a4df2ed1a23f3939d9127d2312d7a5963e71e14b636411898ec5f9b4f0d1a481ff32a9a37f908a316"
+      },
+      "0_2_0+beta_6_10": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.10-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.10%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.10-all.jar",
+        "sha512": "cd222f37cbbc2b0f804d383c920b9b3d88c183d9de626d9c0d105912ba55627d79684c6967b467faaecc7c5d975e3ebe395bc6132fb2d98898c962afef1356a3"
+      },
+      "0_2_0+beta_6_0": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.6.0-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.6.0%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.6.0-all.jar",
+        "sha512": "e408aaa51c43e594f3b6c495145ba6f39bf795a9e1f51e34376e637a8c05da39c46f680bf80a91ab43972795f9edc6545f84d745c27181df8dbae3c4a1e90771"
+      },
+      "0_2_0+beta_5_0": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.5.0-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.5.0%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.5.0-all.jar",
+        "sha512": "8142be05ba6b170b4f6f454459f91065878c5ab7e3afcc62a6197098b02e73faaefcd50e17e5f2f50b03ac7f2581b4fcd677f5e88d1760a7f1d78171d55a9fa5"
+      },
+      "0_2_0+beta_4_0": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.4.0-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.4.0%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.4.0-all.jar",
+        "sha512": "47f0485a117afb3c5e29cbab91f737ff96a0687ac262eaf9683e1b13a38681f411ac4a58173fd4334703c2888c978b85dacc271b2753f38029cd81a46c9109ba"
+      },
+      "0_2_0+beta_3_28": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.3.28-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.28%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.3.28-all.jar",
+        "sha512": "d3f1d0c6567140ac1466a73b3009fe149478c32b7c40a11c07bdf11562d91aa2b00629ac6b6caa3fcfaa8f0694ba4124fbab31cfe5da12368c41b2dfdfe1500d"
+      },
+      "0_2_0+beta_3_25": {
+        "name": "vmp-fabric-mc1.19-0.2.0+beta.3.25-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.25%2B1.19/vmp-fabric-mc1.19-0.2.0%2Bbeta.3.25-all.jar",
+        "sha512": "3343ee286078bcd80dd56399279b17b089bb6608a28cff07a8fd282ed691a453a47fd0f498d9a3c818d8abe416d9c935b00311c4a8f5e881ae527e05bd4f9ade"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.126-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NSvU1ngo/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.126-all.jar",
+        "sha512": "80e877ad8031bdcb81cd318af31a291ceb89f39f4f9f368a3f1037179476873678e8b6a92253abaec5d2aec51028fb4acd12bd4f72101d3fade4a17ace066492"
+      },
+      "0_2_0+beta_3_126": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.126-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NSvU1ngo/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.126-all.jar",
+        "sha512": "80e877ad8031bdcb81cd318af31a291ceb89f39f4f9f368a3f1037179476873678e8b6a92253abaec5d2aec51028fb4acd12bd4f72101d3fade4a17ace066492"
+      },
+      "0_2_0+beta_3_125": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.125-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/3SYTWaUW/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.125-all.jar",
+        "sha512": "09a380b868bba1d537c1b628f54f3f640c5d64563baa7da08ae76af0d61e393f908c3bc86122f0b4ce2567d3aae065266aba8d40d0ca900c0e60a6b56bf240d6"
+      },
+      "0_2_0+beta_3_120": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.120-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/dzVQZNGP/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.120-all.jar",
+        "sha512": "ad4167ada66d1afe53993f802a270c1cf98e02a2011a75e0f40a32e4056c0eaf8f43ad77faba1e7f0096e455f62f97f4a62efcba851b3d4b0dae0ade76d20c82"
+      },
+      "0_2_0+beta_3_115": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.115-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/UowsCyyz/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.115-all.jar",
+        "sha512": "5e5005a09c076a7c40f3331569012d5b578a2e2c73bc655a253c72f105b571e26e046e79d8aae7a6c4b98d2380391840baba2dbca80fa624b6237b190188535a"
+      },
+      "0_2_0+beta_3_113": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.113-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/DOWbS9wT/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.113-all.jar",
+        "sha512": "4b550c482dc50790ce988f74cf75f6499b7f02f8f7bfd48a536482ecaee630324777117c6a581f1de7e333c9ee4c1726ada52e384ed9ce368128be8ea0202b95"
+      },
+      "0_2_0+beta_3_112": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.112-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/jfnHTqAe/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.112-all.jar",
+        "sha512": "6f520260358d2e91b78a5f074aacc5111c94379777e464a5cc11ca2c024598bb76450691e102cb016c69232c3dd6192e2ef407bf61d220907a9826dc12a146a1"
+      },
+      "0_2_0+beta_3_111": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.111-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/hLLZSmX7/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.111-all.jar",
+        "sha512": "ed9f5083c4f0d1cbb82c12043fb66eb54b4f3258451b67dc665fc83badddb7d998da0f1a9c7c8d67bb29468b0674021e0b58f49855e574a5735413769ddffd0c"
+      },
+      "0_2_0+beta_3_110": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.110-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/4FRRKh1b/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.110-all.jar",
+        "sha512": "6994741a309ea79a17a1b32fa8a5609ed5e3c4b52924ce25e22081e5dd087f93b82108e1d30fafcce987a6b2a90670158d7190c7b1ccc6313c1ce796d45b680e"
+      },
+      "0_2_0+beta_3_109": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.109-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/dd0e7QLh/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.109-all.jar",
+        "sha512": "41b4e4b642cd0e5209c8b0c7c276d294547e467ddcf9c9f6fbbf7d9159a405269fd24a2f313d4adb157da513d82b296a28f06f26e9a5eb79c8c99e1f015b1213"
+      },
+      "0_2_0+beta_3_108": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.108-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/PYjYghKm/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.108-all.jar",
+        "sha512": "1c3d32106797e76c991a525d3f6399fb6711603beda28b562ecbc456d04c54ae8291965d96e43f00b7a3664ccb14027abcaf0afffc11b8bc2ee5e568964ed6c2"
+      },
+      "0_2_0+beta_3_106": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.106-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7otzyw0E/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.106-all.jar",
+        "sha512": "2d2b0387aff62812c882711e521f23957224568b94a1f7ef267837f165d6350b81be6f55f4d8e84e3c080eceb57f5b3af3591a24c41813e094da8eec8f0c247f"
+      },
+      "0_2_0+beta_3_105": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.105-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Nxjgskdq/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.105-all.jar",
+        "sha512": "38ab79373a072d424170f64d614ed4ef70f3edfeceb0b381ec430504b3443dfd7a4003bfd7a330941c16accf39204c8a0249b2efe3eca071a2e39b8d44aab80e"
+      },
+      "0_2_0+beta_3_103": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.103-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wgZfHxp7/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.103-all.jar",
+        "sha512": "620aa76b4a947550c3c3570f3af8cdbc1cafaa81bbcf48c971de35397312ba2440f9eecb20ed3e51689d1645845ff982e47f75a240fbc637246ee222090911d0"
+      },
+      "0_2_0+beta_3_102": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.102-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OfMsvAgY/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.102-all.jar",
+        "sha512": "3375f68ea612360770189bc447de179f36fe2ef93968b85a819409d03667a5869a6c03fd6d134257516caa98c719565fcd8dc4e4f27a7d35e0092852da907cd4"
+      },
+      "0_2_0+beta_3_101": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.101-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/YIEGbQYF/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.101-all.jar",
+        "sha512": "df529e1495b9e4ea5d8119f873eb8d7342b084546fa823c80208dd1b3a9a26c4e12e734998bd58313cc474563cadc403f7e674cfabd91d0c026c003c746dbc46"
+      },
+      "0_2_0+beta_3_99": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.99-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/x4YJwPLe/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.99-all.jar",
+        "sha512": "b8b9ae8abff3f926d48b9559d5446117d40823f4e1f0040656ff1d0b424d9ea8a1e632e0fc0fbafeb1974af92e4b60be58a2dca07fde8dbb7476c0d5b86e3b08"
+      },
+      "0_2_0+beta_3_98": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.98-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/F1xrnQ2u/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.98-all.jar",
+        "sha512": "3ac2c21ad410d54c8904f8150e408ee3d59ea5c5e38a03766eec2a525321364d5986e8bc3b194a75b6269dd90846b19c8cbd2bcef6a1e087e0f9345f7473fbb8"
+      },
+      "0_2_0+beta_3_94": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.94-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/lXWd7CRY/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.94-all.jar",
+        "sha512": "3da30ad095e7c47a0dba83701cd435092456728f107a5101caabd188ee7bc896c2d26b2de77ba71b08af5080ca2904c1acfdc6c52a33831c421aad65e159dc57"
+      },
+      "0_2_0+beta_3_93": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.93-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/BJc8BIol/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.93-all.jar",
+        "sha512": "27604d8902608a4d57bcccd70b9f19058b9f3182bfc3ecd9c23b7c88552bd5fec88cb9872fbe1e262b4b5ee0fca280f2b6d09fe076a40104b21f1738b47ddf93"
+      },
+      "0_2_0+beta_3_90": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.90-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/FuS32ztL/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.90-all.jar",
+        "sha512": "19645ce388d6e719d4ab40b2a955ed6d8749ceb2ebc43fc3c68edd6a4d210afddf51310a3bbe0f8d27f8dc003e8493b31b0d627787eb6536b937a6729bdf8ed2"
+      },
+      "0_2_0+beta_3_88": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.88-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/T2Rhxon4/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.88-all.jar",
+        "sha512": "ffe2c84f973674170495c98b855c307802bb6102e1cf5568d35d820b7c508cd896de71c8c515dcc86e7fc66cbd0e07233e198df274468551269ac68184199706"
+      },
+      "0_2_0+beta_3_87": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.87-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/NqExfaKT/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.87-all.jar",
+        "sha512": "5e0bae10cf330969fca1e4985e1c1aed6ced410df6a5f2f0cb3472ce70f86476dcf758822142f0774f23ac7683912f61e06756bc75dabb12315aa8e2d4189daf"
+      },
+      "0_2_0+beta_3_85": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.85-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.85%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.85-all.jar",
+        "sha512": "999bff614c16f26875c3c91600a65ab69489bc2ef01564a6c05ca80ab9b89b42bb53c04ef9ef05f1aaab4c251af69d61e37cb28597bc86f2f17ba34ed331163c"
+      },
+      "0_2_0+beta_3_84": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.84-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.84%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.84-all.jar",
+        "sha512": "b227c0649e895b3e486215b38d9745356763de67f061ab30dbf8bfcc2d15f90d9a954a17ac594c32926a3b93b50b62598662733632e2d59115b9b0cb90e610b6"
+      },
+      "0_2_0+beta_3_83": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.83-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.83%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.83-all.jar",
+        "sha512": "253f1729afc1da1783eec5281c66c2817901b565acb1729417bcfcb4f1851b4bdd4e0caaca400f74c96cb68383c1f2845a994b2d215e38ffe89397c98856d4f1"
+      },
+      "0_2_0+beta_3_81": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.81-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.81%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.81-all.jar",
+        "sha512": "acb0d89bf45b168dea7a561a7a879e56801709fde158e4a0994cf88c0cb573a81d0bc4838c027895b9a8e336789ac6845fc75170eaa643c3911f2f79b0db630e"
+      },
+      "0_2_0+beta_3_79": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.79-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.79%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.79-all.jar",
+        "sha512": "87c29ea28d93e875e7a0e2afc5bc441dd34ef1206fc14cb6f107a6b3620f94cacf9b25c07681d1a462b35758d89f5ecf5231c21a9d8d375cb349c62c2a42607b"
+      },
+      "0_2_0+beta_3_77": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.77-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.77%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.77-all.jar",
+        "sha512": "8a9ee515c7995f9c1ca46c070cdfd8e83766c050353768b62f9bcf28f6c5cd80748a9543aed23d4ab62ef12233547b9622c16fd0d4f7fe944833bb7f584557cd"
+      },
+      "0_2_0+beta_3_76": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.76-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.76%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.76-all.jar",
+        "sha512": "4de639d8bbee46cf92518613744e31457d9991ed8a2cc36317596ba4fadf534daeb5c2e2022057f4f6a5d0f0b3e77e3e4ee97f170999b1a6ab7fd0939e8a9f03"
+      },
+      "0_2_0+beta_3_74": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.74-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.74%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.74-all.jar",
+        "sha512": "e99f0ab966bc8a382f999248e9b2a1dbb789a87d8dddbf12737b7e244eeb1925fbb2e11f49a25440e9fb5ed605a0bdc139e013280e778217ab040bc895ef60f5"
+      },
+      "0_2_0+beta_3_73": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.73-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.73%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.73-all.jar",
+        "sha512": "266719bb8c1bac1eca7dba7143bdb24abc3579dee48da82f16c794e5de186f18102c156122d593ed3ce9c5d509d7a88aa55442127ff587b33b643a83efbc90ea"
+      },
+      "0_2_0+beta_3_69": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.69-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.69%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.69-all.jar",
+        "sha512": "5fdae8c9fc0f9a1471a1b761f2182eaf5f9e7c162fa40c4952867b7b4a95647f701ee7899d025b13e11e22011465e67b08a6924e05c9267225b7b9eb6f7829db"
+      },
+      "0_2_0+beta_3_68": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.68-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.68%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.68-all.jar",
+        "sha512": "218929588253fd02ffdb86307ddee769b45e4014834286e55ffe32ac4c56068e226be473898791a4d3f8603311a39d633bb227468d14319f86afd48d5f58e1ac"
+      },
+      "0_2_0+beta_3_63": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.63-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.63%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.63-all.jar",
+        "sha512": "196351de78827d56c938117e6bc6796bd3fb0636f732ad6836305df7f096c1569e4fa26983654384132d5e6ab0a3bbdc6e2e567f2d82fd15243843885ed3c7e1"
+      },
+      "0_2_0+beta_3_50": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.50-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.50%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.50-all.jar",
+        "sha512": "d4388a051958ba332ddc8f7279a1f7673794a732a1658025e26395cc492d94e078a16fed99f3195d1a70dc32561c4c81e31cbe5cfa71fc1a8abe9fcc289f17c8"
+      },
+      "0_2_0+beta_3_47": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.47-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.47%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.47-all.jar",
+        "sha512": "a4d053d0974085ee49b9c36ff1b066668400675f48d802a352ace74752b7e78dccbda191a56c8f7fec7ea9c76c9669f4eaed9069e0b16485cf0363fd203d3c0b"
+      },
+      "0_2_0+beta_3_46": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.46-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.46%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.46-all.jar",
+        "sha512": "43ffac9b3dea4e4fc10d24b4fb31cdffb093979004c40a00cc3d4c0c2e933e2b8b84f90cd2a796fc314d9572abd0c536865f78fe0d6bff11a7b46b533b3208c4"
+      },
+      "0_2_0+beta_3_44": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.44-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.44%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.44-all.jar",
+        "sha512": "aae70c1e437a3af2ff65df52758d41eb1f31bfe70ab3d91f36f468430a93f3ef8258bec29244587333171efa8add7d28676162ac6cd4f66a5e70c3fcd8c95ad4"
+      },
+      "0_2_0+beta_3_42": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.42-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.42%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.42-all.jar",
+        "sha512": "c5493fe9bfa314ce1a6dd36c283f5de219bde4cd0595eafc677ddd31a936462e31e36029c59ba92c4ff52be2d65565f7b131567ae9e1518ded52e7adb32ef0c2"
+      },
+      "0_2_0+beta_3_17": {
+        "name": "vmp-fabric-mc1.18.2-0.2.0+beta.3.17-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.17%2B1.18.2/vmp-fabric-mc1.18.2-0.2.0%2Bbeta.3.17-all.jar",
+        "sha512": "b93339fec6fa102739d95184d4fef7982fa902e784dafa6c4144a2b97dfb2a501fe74ada5a930e6e45bafeb562e88eaca9b0140a752279f50ceb5eaa348adef2"
+      }
+    },
+    "1_18_1-pre1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.18.1-pre1-0.2.0+beta.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.1%201.18.1-pre1/vmp-fabric-mc1.18.1-pre1-0.2.0%2Bbeta.1-all.jar",
+        "sha512": "f2008357dc8e35b3def98c932f0d80992729eb506e2ecb7d3e94977cd9888a9d26457d6938ad108886ae841e98552838f61f4148218d4b873c8edf01e04a40d3"
+      },
+      "0_2_0+beta_1 ": {
+        "name": "vmp-fabric-mc1.18.1-pre1-0.2.0+beta.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.1%201.18.1-pre1/vmp-fabric-mc1.18.1-pre1-0.2.0%2Bbeta.1-all.jar",
+        "sha512": "f2008357dc8e35b3def98c932f0d80992729eb506e2ecb7d3e94977cd9888a9d26457d6938ad108886ae841e98552838f61f4148218d4b873c8edf01e04a40d3"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "vmp-fabric-mc1.18.1-0.2.0+beta.3.8-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.8%201.18.1/vmp-fabric-mc1.18.1-0.2.0%2Bbeta.3.8-all.jar",
+        "sha512": "1bbf215f46e1c507c3ca86b083fef90b5d4f93d890aff4ad2ebb018580a7635d1e0ffd8648bc57c4fc64a684f16df4d55d89d1dbcd2743e9b4110e5b5aca42e8"
+      },
+      "0_2_0+beta_3_8 ": {
+        "name": "vmp-fabric-mc1.18.1-0.2.0+beta.3.8-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.8%201.18.1/vmp-fabric-mc1.18.1-0.2.0%2Bbeta.3.8-all.jar",
+        "sha512": "1bbf215f46e1c507c3ca86b083fef90b5d4f93d890aff4ad2ebb018580a7635d1e0ffd8648bc57c4fc64a684f16df4d55d89d1dbcd2743e9b4110e5b5aca42e8"
+      },
+      "0_2_0+beta_3_0 ": {
+        "name": "vmp-fabric-mc1.18.1-0.2.0+beta.3.0-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.3.0%201.18.1/vmp-fabric-mc1.18.1-0.2.0%2Bbeta.3.0-all.jar",
+        "sha512": "0d12511055a0cfdf774531723bd0eaebc3af8866249ed3fc74eaa76b200f86335f22886ee65f02582ad5767f2295347206d17a159b5035d5787d48474ba78b05"
+      },
+      "0_2_0+beta_2_18 ": {
+        "name": "vmp-fabric-mc1.18.1-0.2.0+beta.2.18-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.2.18%201.18.1/vmp-fabric-mc1.18.1-0.2.0%2Bbeta.2.18-all.jar",
+        "sha512": "9ab1663e80757ee3e51102a3a104d061c7b902a6064d6710b3de492467a2831490ffbe88effea27829b983ebd0fbb9a144e670896bef412d6bb86aeb0096792c"
+      },
+      "0_2_0+beta_2 ": {
+        "name": "vmp-fabric-mc1.18.1-0.2.0+beta.2.0-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.2%201.18.1/vmp-fabric-mc1.18.1-0.2.0%2Bbeta.2.0-all.jar",
+        "sha512": "77680f821e6e3d013ab8b6112c77a5c35c2bda439560e0505289da674ec17afde89e4000bfdb66ad5b386e54355ddb259aebf0e35fbb8cece8828f772f4e4d71"
+      },
+      "0_2_0+beta_1_5 ": {
+        "name": "vmp-fabric-mc1.18.1-0.2.0+beta.1.5-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.1.5%201.18.1/vmp-fabric-mc1.18.1-0.2.0%2Bbeta.1.5-all.jar",
+        "sha512": "df5c5dde91c16bea8a3dce92a91072d68e6d861634889ad3db60f52ac396884886a14b4461c0a14440b780f2b9ee7cbddc9d1228daf9899a105d3b0aca0e58ec"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "vmp-fabric-mc1.18.1-pre1-0.2.0+beta.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.1%201.18.1-pre1/vmp-fabric-mc1.18.1-pre1-0.2.0%2Bbeta.1-all.jar",
+        "sha512": "f2008357dc8e35b3def98c932f0d80992729eb506e2ecb7d3e94977cd9888a9d26457d6938ad108886ae841e98552838f61f4148218d4b873c8edf01e04a40d3"
+      },
+      "0_2_0+beta_1 _1-pre1": {
+        "name": "vmp-fabric-mc1.18.1-pre1-0.2.0+beta.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0%2Bbeta.1%201.18.1-pre1/vmp-fabric-mc1.18.1-pre1-0.2.0%2Bbeta.1-all.jar",
+        "sha512": "f2008357dc8e35b3def98c932f0d80992729eb506e2ecb7d3e94977cd9888a9d26457d6938ad108886ae841e98552838f61f4148218d4b873c8edf01e04a40d3"
+      }
+    },
+    "25w31a": {
+      "latest": {
+        "name": "vmp-fabric-mc25w31a-0.2.0+beta.7.209-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/qfdXXcZZ/vmp-fabric-mc25w31a-0.2.0%2Bbeta.7.209-all.jar",
+        "sha512": "dbab6cef88fc003b1f3fdecec6238bdbebfab807137e0fde2c96a9d32871787c99af7fb34b1806c0b30d6a512ba2ecb7c3dc13eb9f8656405247e78916cfb6f5"
+      },
+      "0_2_0+beta_7_209": {
+        "name": "vmp-fabric-mc25w31a-0.2.0+beta.7.209-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/qfdXXcZZ/vmp-fabric-mc25w31a-0.2.0%2Bbeta.7.209-all.jar",
+        "sha512": "dbab6cef88fc003b1f3fdecec6238bdbebfab807137e0fde2c96a9d32871787c99af7fb34b1806c0b30d6a512ba2ecb7c3dc13eb9f8656405247e78916cfb6f5"
+      },
+      "0_2_0+beta_7_208": {
+        "name": "vmp-fabric-mc25w31a-0.2.0+beta.7.208-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/ghR1RXFO/vmp-fabric-mc25w31a-0.2.0%2Bbeta.7.208-all.jar",
+        "sha512": "93cab398758d4e55b501dde2519144d5c0ef55dbaf5358a9f683e24593e7566adeb949d106a8766d6e1a156c3bdd8c970aa7e3bd4481cc31506fd12ee4d71873"
+      }
+    },
+    "24w46a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w46a-0.2.0+beta.7.182-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/eKKyfGxJ/vmp-fabric-mc24w46a-0.2.0%2Bbeta.7.182-all.jar",
+        "sha512": "64562c478d01516341619cdfd8220a63942a1e3d486c0a019e7b93dd59b16ad6f1447f81d7aed0441c4d55d057606e12ef2a5bcb12db134887154367f3a7a43b"
+      },
+      "0_2_0+beta_7_182": {
+        "name": "vmp-fabric-mc24w46a-0.2.0+beta.7.182-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/eKKyfGxJ/vmp-fabric-mc24w46a-0.2.0%2Bbeta.7.182-all.jar",
+        "sha512": "64562c478d01516341619cdfd8220a63942a1e3d486c0a019e7b93dd59b16ad6f1447f81d7aed0441c4d55d057606e12ef2a5bcb12db134887154367f3a7a43b"
+      }
+    },
+    "24w44a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w44a-0.2.0+beta.7.181-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/vTIX0t1J/vmp-fabric-mc24w44a-0.2.0%2Bbeta.7.181-all.jar",
+        "sha512": "c913241c7627bbe847e8cbf324c5005e75a5aadda0a901c62afdd1d4cf96c229f5249c1ff96654f8d94381e804c603954f79a7424c38ba0d42b9d1a89da3b14e"
+      },
+      "0_2_0+beta_7_181": {
+        "name": "vmp-fabric-mc24w44a-0.2.0+beta.7.181-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/vTIX0t1J/vmp-fabric-mc24w44a-0.2.0%2Bbeta.7.181-all.jar",
+        "sha512": "c913241c7627bbe847e8cbf324c5005e75a5aadda0a901c62afdd1d4cf96c229f5249c1ff96654f8d94381e804c603954f79a7424c38ba0d42b9d1a89da3b14e"
+      }
+    },
+    "24w38a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w38a-0.2.0+beta.7.172-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/uCAHYT5G/vmp-fabric-mc24w38a-0.2.0%2Bbeta.7.172-all.jar",
+        "sha512": "ea5139e2b6cfd8cebee1320c73bf03ecf3ace918cbed8ae26f57531c7c163aa5ee0d36a1141738b8c7931812cefea27ea5866fc0ffef0b73f2876b91352e54cf"
+      },
+      "0_2_0+beta_7_172": {
+        "name": "vmp-fabric-mc24w38a-0.2.0+beta.7.172-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/uCAHYT5G/vmp-fabric-mc24w38a-0.2.0%2Bbeta.7.172-all.jar",
+        "sha512": "ea5139e2b6cfd8cebee1320c73bf03ecf3ace918cbed8ae26f57531c7c163aa5ee0d36a1141738b8c7931812cefea27ea5866fc0ffef0b73f2876b91352e54cf"
+      }
+    },
+    "24w37a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w37a-0.2.0+beta.7.171-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Z6eRfqYE/vmp-fabric-mc24w37a-0.2.0%2Bbeta.7.171-all.jar",
+        "sha512": "bd9506999550a77ad0294a18eae9c2619d614454259f967c231999ad4d9cc08dca814f8817f878f200b21bcd4b83c47c89440a9a19799e3ad288bf36acde8cdb"
+      },
+      "0_2_0+beta_7_171": {
+        "name": "vmp-fabric-mc24w37a-0.2.0+beta.7.171-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Z6eRfqYE/vmp-fabric-mc24w37a-0.2.0%2Bbeta.7.171-all.jar",
+        "sha512": "bd9506999550a77ad0294a18eae9c2619d614454259f967c231999ad4d9cc08dca814f8817f878f200b21bcd4b83c47c89440a9a19799e3ad288bf36acde8cdb"
+      }
+    },
+    "24w35a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w35a-0.2.0+beta.7.170-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/6Uo3MK1c/vmp-fabric-mc24w35a-0.2.0%2Bbeta.7.170-all.jar",
+        "sha512": "17e62c51c8ea6f22e3299d57820c1d33e208b6689eef52d930141922e382194f9203216946779aae3366b3f840687f291655568e314d213ee98857b7f7c7ede5"
+      },
+      "0_2_0+beta_7_170": {
+        "name": "vmp-fabric-mc24w35a-0.2.0+beta.7.170-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/6Uo3MK1c/vmp-fabric-mc24w35a-0.2.0%2Bbeta.7.170-all.jar",
+        "sha512": "17e62c51c8ea6f22e3299d57820c1d33e208b6689eef52d930141922e382194f9203216946779aae3366b3f840687f291655568e314d213ee98857b7f7c7ede5"
+      }
+    },
+    "24w34a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w34a-0.2.0+beta.7.169-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/SuuXQDU2/vmp-fabric-mc24w34a-0.2.0%2Bbeta.7.169-all.jar",
+        "sha512": "bab8a7b52e085f9707ecdae87192be03539f9519aa0616b030c23f8735d7a9974e874329d9661d907bf8426a154e0fd8ae82f92965edfb0476a0828266675bf3"
+      },
+      "0_2_0+beta_7_169": {
+        "name": "vmp-fabric-mc24w34a-0.2.0+beta.7.169-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/SuuXQDU2/vmp-fabric-mc24w34a-0.2.0%2Bbeta.7.169-all.jar",
+        "sha512": "bab8a7b52e085f9707ecdae87192be03539f9519aa0616b030c23f8735d7a9974e874329d9661d907bf8426a154e0fd8ae82f92965edfb0476a0828266675bf3"
+      }
+    },
+    "24w33a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w33a-0.2.0+beta.7.168-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5VVwqAcN/vmp-fabric-mc24w33a-0.2.0%2Bbeta.7.168-all.jar",
+        "sha512": "bfdb442e134b23ffca08f25fd623ff87ea4dea59910d380a780685d705e561c18d4f4910d4c25d47cee213c1d8f770457def8323d84cd01c3358df08ddbdff0f"
+      },
+      "0_2_0+beta_7_168": {
+        "name": "vmp-fabric-mc24w33a-0.2.0+beta.7.168-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5VVwqAcN/vmp-fabric-mc24w33a-0.2.0%2Bbeta.7.168-all.jar",
+        "sha512": "bfdb442e134b23ffca08f25fd623ff87ea4dea59910d380a780685d705e561c18d4f4910d4c25d47cee213c1d8f770457def8323d84cd01c3358df08ddbdff0f"
+      }
+    },
+    "24w20a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w20a-0.2.0+beta.7.159-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7BY6DJ2i/vmp-fabric-mc24w20a-0.2.0%2Bbeta.7.159-all.jar",
+        "sha512": "899588e8cc1ae0675af7509705a00fedc6a75edb060dd43d4e11d5d7e2c2cd984e0c1346b1ffb60d78905c577d0ce0b07f55054d7c2a19ad6a2890c95abaa868"
+      },
+      "0_2_0+beta_7_159": {
+        "name": "vmp-fabric-mc24w20a-0.2.0+beta.7.159-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/7BY6DJ2i/vmp-fabric-mc24w20a-0.2.0%2Bbeta.7.159-all.jar",
+        "sha512": "899588e8cc1ae0675af7509705a00fedc6a75edb060dd43d4e11d5d7e2c2cd984e0c1346b1ffb60d78905c577d0ce0b07f55054d7c2a19ad6a2890c95abaa868"
+      }
+    },
+    "24w19b": {
+      "latest": {
+        "name": "vmp-fabric-mc24w19b-0.2.0+beta.7.158-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bUMn1BnX/vmp-fabric-mc24w19b-0.2.0%2Bbeta.7.158-all.jar",
+        "sha512": "d51abab96cb6e9f6cbf0d3596c481c6756bb05a4eb656d587a2be01a628837bcf9c786f18677f130f5707b41eaa5f59c832f49f21cfebbc92c9d94f31da2d2ab"
+      },
+      "0_2_0+beta_7_158": {
+        "name": "vmp-fabric-mc24w19b-0.2.0+beta.7.158-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/bUMn1BnX/vmp-fabric-mc24w19b-0.2.0%2Bbeta.7.158-all.jar",
+        "sha512": "d51abab96cb6e9f6cbf0d3596c481c6756bb05a4eb656d587a2be01a628837bcf9c786f18677f130f5707b41eaa5f59c832f49f21cfebbc92c9d94f31da2d2ab"
+      },
+      "0_2_0+beta_7_157": {
+        "name": "vmp-fabric-mc24w19b-0.2.0+beta.7.157-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/MK8VYDZc/vmp-fabric-mc24w19b-0.2.0%2Bbeta.7.157-all.jar",
+        "sha512": "28ffe9a746ee18438b568830c3f4a87b643c40894835c75e0cc4d9f091dd439af19989a6111e35c959f6a9c973907203736e5cc6a6c1ca9bb54cf4d2c8b2fc0c"
+      }
+    },
+    "24w14a": {
+      "latest": {
+        "name": "vmp-fabric-mc24w14a-0.2.0+beta.7.147-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/cN13rZDa/vmp-fabric-mc24w14a-0.2.0%2Bbeta.7.147-all.jar",
+        "sha512": "098b01c5dc485268faf86f45eb4a29182c7b96024b955bb11fb874f3566fdb8a91c3169b22ecdbc41de1bdb472aa460823c288cca6dd1cc0918fcc4f336b3283"
+      },
+      "0_2_0+beta_7_147": {
+        "name": "vmp-fabric-mc24w14a-0.2.0+beta.7.147-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/cN13rZDa/vmp-fabric-mc24w14a-0.2.0%2Bbeta.7.147-all.jar",
+        "sha512": "098b01c5dc485268faf86f45eb4a29182c7b96024b955bb11fb874f3566fdb8a91c3169b22ecdbc41de1bdb472aa460823c288cca6dd1cc0918fcc4f336b3283"
+      }
+    },
+    "24w05b": {
+      "latest": {
+        "name": "vmp-fabric-mc24w05b-0.2.0+beta.7.138-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OUsczO0i/vmp-fabric-mc24w05b-0.2.0%2Bbeta.7.138-all.jar",
+        "sha512": "e076176f52370122eddcd17fa4fa7403b3364eba2afc8f5c89074500b50f921c11fda376a5eb7ee67a92a4a66869a74783f07d7c203aeb801d27028983e811f7"
+      },
+      "0_2_0+beta_7_138": {
+        "name": "vmp-fabric-mc24w05b-0.2.0+beta.7.138-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OUsczO0i/vmp-fabric-mc24w05b-0.2.0%2Bbeta.7.138-all.jar",
+        "sha512": "e076176f52370122eddcd17fa4fa7403b3364eba2afc8f5c89074500b50f921c11fda376a5eb7ee67a92a4a66869a74783f07d7c203aeb801d27028983e811f7"
+      }
+    },
+    "23w51b": {
+      "latest": {
+        "name": "vmp-fabric-mc23w51b-0.2.0+beta.7.137-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Hc7ETHXO/vmp-fabric-mc23w51b-0.2.0%2Bbeta.7.137-all.jar",
+        "sha512": "91f9d5276490c9f8e70eb19c4e72df4de07367920f738a5d6a4685f4874be4bb624181fdb0d93f2df9d4c0f2725ebbeda20d35330a460cd7f52e49f4159353f1"
+      },
+      "0_2_0+beta_7_137": {
+        "name": "vmp-fabric-mc23w51b-0.2.0+beta.7.137-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Hc7ETHXO/vmp-fabric-mc23w51b-0.2.0%2Bbeta.7.137-all.jar",
+        "sha512": "91f9d5276490c9f8e70eb19c4e72df4de07367920f738a5d6a4685f4874be4bb624181fdb0d93f2df9d4c0f2725ebbeda20d35330a460cd7f52e49f4159353f1"
+      },
+      "0_2_0+beta_7_136": {
+        "name": "vmp-fabric-mc23w51b-0.2.0+beta.7.136-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/WAZkLEMw/vmp-fabric-mc23w51b-0.2.0%2Bbeta.7.136-all.jar",
+        "sha512": "7a411dd9fc0729e397cf7188711af2a51a9c734059c2e659628c2520fe5c65760dbb2ae7bb4e87260b6319fe1b34b6f35c2b6e12604efde7fbe143e30342f330"
+      }
+    },
+    "23w45a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w45a-0.2.0+beta.7.128-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XLtbiKMF/vmp-fabric-mc23w45a-0.2.0%2Bbeta.7.128-all.jar",
+        "sha512": "2bb3e26b43332364ee6853f9a4da5a0289ace6cb9bb4fcfb510cc4dc144534cecbc9c663b3e018a8206b239f65df0665f8fbff7bd144aa0d8c345c1a5ce7515d"
+      },
+      "0_2_0+beta_7_128": {
+        "name": "vmp-fabric-mc23w45a-0.2.0+beta.7.128-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XLtbiKMF/vmp-fabric-mc23w45a-0.2.0%2Bbeta.7.128-all.jar",
+        "sha512": "2bb3e26b43332364ee6853f9a4da5a0289ace6cb9bb4fcfb510cc4dc144534cecbc9c663b3e018a8206b239f65df0665f8fbff7bd144aa0d8c345c1a5ce7515d"
+      }
+    },
+    "23w43a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w43a-0.2.0+beta.7.120-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/aByevwp6/vmp-fabric-mc23w43a-0.2.0%2Bbeta.7.120-all.jar",
+        "sha512": "cd417f564219122c56f80eda57e532370d2eb0ecb1e041f5e4784e20768a459317924867b0486dab6b9f01e51b2f00ddf1ff9f67fb612e673a6e1604471f04c5"
+      },
+      "0_2_0+beta_7_120": {
+        "name": "vmp-fabric-mc23w43a-0.2.0+beta.7.120-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/aByevwp6/vmp-fabric-mc23w43a-0.2.0%2Bbeta.7.120-all.jar",
+        "sha512": "cd417f564219122c56f80eda57e532370d2eb0ecb1e041f5e4784e20768a459317924867b0486dab6b9f01e51b2f00ddf1ff9f67fb612e673a6e1604471f04c5"
+      }
+    },
+    "23w42a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w42a-0.2.0+beta.7.118-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5fBcfwoR/vmp-fabric-mc23w42a-0.2.0%2Bbeta.7.118-all.jar",
+        "sha512": "5bd15d2bc850082e6a132b6085cac1dbb4aefc2ff5c4ae96a63558e578c2ccb2fdbeb192f66d48e900fe09c3acf457f3ed859b531b92f36ad3c15b8c8ac8c45c"
+      },
+      "0_2_0+beta_7_118": {
+        "name": "vmp-fabric-mc23w42a-0.2.0+beta.7.118-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/5fBcfwoR/vmp-fabric-mc23w42a-0.2.0%2Bbeta.7.118-all.jar",
+        "sha512": "5bd15d2bc850082e6a132b6085cac1dbb4aefc2ff5c4ae96a63558e578c2ccb2fdbeb192f66d48e900fe09c3acf457f3ed859b531b92f36ad3c15b8c8ac8c45c"
+      }
+    },
+    "23w41a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w41a-0.2.0+beta.7.117-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ut4su4BE/vmp-fabric-mc23w41a-0.2.0%2Bbeta.7.117-all.jar",
+        "sha512": "d0f5546e1d99e10db8b32fdbe9018d989d52c8fd19920ad040716695a26abe3731ac346eb38f6c12338d92f24ca27a192629c9e3a58f64e5aedac2e54902eb43"
+      },
+      "0_2_0+beta_7_117": {
+        "name": "vmp-fabric-mc23w41a-0.2.0+beta.7.117-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ut4su4BE/vmp-fabric-mc23w41a-0.2.0%2Bbeta.7.117-all.jar",
+        "sha512": "d0f5546e1d99e10db8b32fdbe9018d989d52c8fd19920ad040716695a26abe3731ac346eb38f6c12338d92f24ca27a192629c9e3a58f64e5aedac2e54902eb43"
+      }
+    },
+    "23w40a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w40a-0.2.0+beta.7.116-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/3ebZgsMg/vmp-fabric-mc23w40a-0.2.0%2Bbeta.7.116-all.jar",
+        "sha512": "6b247641687680261dc15e96dc35e82d385f5b235d262560ecf68e8e67fdc30b2a6a97c3bf779c1e358b7eef726e5d639d19db5c692f2718a967063fbe1f35e1"
+      },
+      "0_2_0+beta_7_116": {
+        "name": "vmp-fabric-mc23w40a-0.2.0+beta.7.116-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/3ebZgsMg/vmp-fabric-mc23w40a-0.2.0%2Bbeta.7.116-all.jar",
+        "sha512": "6b247641687680261dc15e96dc35e82d385f5b235d262560ecf68e8e67fdc30b2a6a97c3bf779c1e358b7eef726e5d639d19db5c692f2718a967063fbe1f35e1"
+      }
+    },
+    "23w35a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w35a-0.2.0+beta.7.105-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/P0JvsZxZ/vmp-fabric-mc23w35a-0.2.0%2Bbeta.7.105-all.jar",
+        "sha512": "8446e69ec4e143b6ee6ecde896a69d2854cc4ed606f01cb59b6606049d0d04cc3fcc21a5a66f7e3cf138e38d59040498833d0fc791f676d8e6d40957c39e2178"
+      },
+      "0_2_0+beta_7_105": {
+        "name": "vmp-fabric-mc23w35a-0.2.0+beta.7.105-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/P0JvsZxZ/vmp-fabric-mc23w35a-0.2.0%2Bbeta.7.105-all.jar",
+        "sha512": "8446e69ec4e143b6ee6ecde896a69d2854cc4ed606f01cb59b6606049d0d04cc3fcc21a5a66f7e3cf138e38d59040498833d0fc791f676d8e6d40957c39e2178"
+      }
+    },
+    "23w33a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w33a-0.2.0+beta.7.103-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QjGdQWNG/vmp-fabric-mc23w33a-0.2.0%2Bbeta.7.103-all.jar",
+        "sha512": "53f8b6009342f4cbd8b31bc84c54b0b4234487f5fcc8eab2de206a25af983af3e7cfc2786d1fbfaf8f371bab8112e7ac4d7ad6964c543b78e8cd2141fa097943"
+      },
+      "0_2_0+beta_7_103": {
+        "name": "vmp-fabric-mc23w33a-0.2.0+beta.7.103-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/QjGdQWNG/vmp-fabric-mc23w33a-0.2.0%2Bbeta.7.103-all.jar",
+        "sha512": "53f8b6009342f4cbd8b31bc84c54b0b4234487f5fcc8eab2de206a25af983af3e7cfc2786d1fbfaf8f371bab8112e7ac4d7ad6964c543b78e8cd2141fa097943"
+      }
+    },
+    "23w32a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w32a-0.2.0+beta.7.102-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VmlNWiZs/vmp-fabric-mc23w32a-0.2.0%2Bbeta.7.102-all.jar",
+        "sha512": "13df8a265c4ce594bc4473f56d1c1ba937d2fe6cffbbcb13e8362c566e5b6c354e86fd3133dfebf74780c66b88d2d7388e36929dc56e25009c40be24d3fbd466"
+      },
+      "0_2_0+beta_7_102": {
+        "name": "vmp-fabric-mc23w32a-0.2.0+beta.7.102-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VmlNWiZs/vmp-fabric-mc23w32a-0.2.0%2Bbeta.7.102-all.jar",
+        "sha512": "13df8a265c4ce594bc4473f56d1c1ba937d2fe6cffbbcb13e8362c566e5b6c354e86fd3133dfebf74780c66b88d2d7388e36929dc56e25009c40be24d3fbd466"
+      }
+    },
+    "23w31a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w31a-0.2.0+beta.7.101-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XiFaL5u2/vmp-fabric-mc23w31a-0.2.0%2Bbeta.7.101-all.jar",
+        "sha512": "a041e553419bbe6fb788e21ad8bbe3020c25bfaae53799973d611ff03256552903ba725ada39ae76909d2611fadf68a1f572d769109861a3903654c8e9e122a5"
+      },
+      "0_2_0+beta_7_101": {
+        "name": "vmp-fabric-mc23w31a-0.2.0+beta.7.101-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XiFaL5u2/vmp-fabric-mc23w31a-0.2.0%2Bbeta.7.101-all.jar",
+        "sha512": "a041e553419bbe6fb788e21ad8bbe3020c25bfaae53799973d611ff03256552903ba725ada39ae76909d2611fadf68a1f572d769109861a3903654c8e9e122a5"
+      }
+    },
+    "23w18a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w18a-0.2.0+beta.7.80-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ll7rYDRu/vmp-fabric-mc23w18a-0.2.0%2Bbeta.7.80-all.jar",
+        "sha512": "be54c2623d5740bed95d2a5635a09636d0b9ff7a2d1a9f94736a6c12c8e8a3a5d5af9fe08d09f11ef5644ad4a0ce2ed8e4598f286ffa8d4cb44e555006ef4600"
+      },
+      "0_2_0+beta_7_80": {
+        "name": "vmp-fabric-mc23w18a-0.2.0+beta.7.80-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ll7rYDRu/vmp-fabric-mc23w18a-0.2.0%2Bbeta.7.80-all.jar",
+        "sha512": "be54c2623d5740bed95d2a5635a09636d0b9ff7a2d1a9f94736a6c12c8e8a3a5d5af9fe08d09f11ef5644ad4a0ce2ed8e4598f286ffa8d4cb44e555006ef4600"
+      }
+    },
+    "23w17a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w17a-0.2.0+beta.7.79-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/72Ni3vU4/vmp-fabric-mc23w17a-0.2.0%2Bbeta.7.79-all.jar",
+        "sha512": "d5a24565629af2ba9026b484cbba11fd9f9a4c4715584fcf8c995ec2401424608b96b6fde4d56e7f6b8e7aa9f25876fc588a3b20faadfad2a9a844c8dc50d92d"
+      },
+      "0_2_0+beta_7_79": {
+        "name": "vmp-fabric-mc23w17a-0.2.0+beta.7.79-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/72Ni3vU4/vmp-fabric-mc23w17a-0.2.0%2Bbeta.7.79-all.jar",
+        "sha512": "d5a24565629af2ba9026b484cbba11fd9f9a4c4715584fcf8c995ec2401424608b96b6fde4d56e7f6b8e7aa9f25876fc588a3b20faadfad2a9a844c8dc50d92d"
+      }
+    },
+    "23w16a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w16a-0.2.0+beta.7.75-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/1qzzlTiw/vmp-fabric-mc23w16a-0.2.0%2Bbeta.7.75-all.jar",
+        "sha512": "b0d94bd7d3648c813a84870db2d80f63699c696886c4db55f1c1e8ba8c8c3f4bae4df222fff11d0c178dc2bc9577afc943f35af1beb5f93e0e1f40e41574d375"
+      },
+      "0_2_0+beta_7_75": {
+        "name": "vmp-fabric-mc23w16a-0.2.0+beta.7.75-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/1qzzlTiw/vmp-fabric-mc23w16a-0.2.0%2Bbeta.7.75-all.jar",
+        "sha512": "b0d94bd7d3648c813a84870db2d80f63699c696886c4db55f1c1e8ba8c8c3f4bae4df222fff11d0c178dc2bc9577afc943f35af1beb5f93e0e1f40e41574d375"
+      }
+    },
+    "23w14a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w14a-0.2.0+beta.7.74-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fKiKF2c8/vmp-fabric-mc23w14a-0.2.0%2Bbeta.7.74-all.jar",
+        "sha512": "0aea28c2e1d086d92dda4ec97a275bebf77b593570579a6544f97910e76db71dd585e65587f4196178531dec246529af584b4468aa31101a027d7482efd8b8a8"
+      },
+      "0_2_0+beta_7_74": {
+        "name": "vmp-fabric-mc23w14a-0.2.0+beta.7.74-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fKiKF2c8/vmp-fabric-mc23w14a-0.2.0%2Bbeta.7.74-all.jar",
+        "sha512": "0aea28c2e1d086d92dda4ec97a275bebf77b593570579a6544f97910e76db71dd585e65587f4196178531dec246529af584b4468aa31101a027d7482efd8b8a8"
+      }
+    },
+    "23w13a_or_b": {
+      "latest": {
+        "name": "vmp-fabric-mc23w13a_or_b-0.2.0+beta.7.76-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/3C5erKMX/vmp-fabric-mc23w13a_or_b-0.2.0%2Bbeta.7.76-all.jar",
+        "sha512": "81b8958e8f9c85fe962057d9d9d82d7391fbd1f4e759f3e0a952e97c620c28629eef8dbd094fd31e0746ad74d0b58a0080d90ceadb4f32d23b162c1dae23e33e"
+      },
+      "0_2_0+beta_7_76": {
+        "name": "vmp-fabric-mc23w13a_or_b-0.2.0+beta.7.76-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/3C5erKMX/vmp-fabric-mc23w13a_or_b-0.2.0%2Bbeta.7.76-all.jar",
+        "sha512": "81b8958e8f9c85fe962057d9d9d82d7391fbd1f4e759f3e0a952e97c620c28629eef8dbd094fd31e0746ad74d0b58a0080d90ceadb4f32d23b162c1dae23e33e"
+      },
+      "0_2_0+beta_7_72": {
+        "name": "vmp-fabric-mc23w13a_or_b-0.2.0+beta.7.72-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ag9lSfdd/vmp-fabric-mc23w13a_or_b-0.2.0%2Bbeta.7.72-all.jar",
+        "sha512": "c4524649690539ab40ab1a6016c12d1d9e532dd6e955dde25344d22b5bc0961f467f9fbf64d253e184b2d5a7e608aaad68901f6130c85f4f3b9a1692c8bbd35b"
+      }
+    },
+    "23w13a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w13a-0.2.0+beta.7.73-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/rrLF4lWN/vmp-fabric-mc23w13a-0.2.0%2Bbeta.7.73-all.jar",
+        "sha512": "842b3561d6577a8319ebf5718e71e39be9ddf904a69bf2daa038e372c5c3a9ada7ef0d1bd339c89c1e14e9b640d38665d744fb93f7339ec1b0eed161fab2c0f8"
+      },
+      "0_2_0+beta_7_73": {
+        "name": "vmp-fabric-mc23w13a-0.2.0+beta.7.73-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/rrLF4lWN/vmp-fabric-mc23w13a-0.2.0%2Bbeta.7.73-all.jar",
+        "sha512": "842b3561d6577a8319ebf5718e71e39be9ddf904a69bf2daa038e372c5c3a9ada7ef0d1bd339c89c1e14e9b640d38665d744fb93f7339ec1b0eed161fab2c0f8"
+      },
+      "0_2_0+beta_7_71": {
+        "name": "vmp-fabric-mc23w13a-0.2.0+beta.7.71-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/fLwn9Z2Y/vmp-fabric-mc23w13a-0.2.0%2Bbeta.7.71-all.jar",
+        "sha512": "800621ce5e878aa2309fc6d6fcf469cffd06c7a0bbb311602e8682d8f9773c21594fd26d03b3fd216ce5bcd7491232a744eb196e8a6882968d60beae6f81ac4a"
+      }
+    },
+    "23w12a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w12a-0.2.0+beta.7.65-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/YAsxWhOQ/vmp-fabric-mc23w12a-0.2.0%2Bbeta.7.65-all.jar",
+        "sha512": "57c12b284467c778d96ef2f73e9a9bdab9775c125d763369153ac2ba24669139202a604fee811dfa1f01143d772c4421bb3449e7d9ba8d18f7415667e91e5f8f"
+      },
+      "0_2_0+beta_7_65": {
+        "name": "vmp-fabric-mc23w12a-0.2.0+beta.7.65-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/YAsxWhOQ/vmp-fabric-mc23w12a-0.2.0%2Bbeta.7.65-all.jar",
+        "sha512": "57c12b284467c778d96ef2f73e9a9bdab9775c125d763369153ac2ba24669139202a604fee811dfa1f01143d772c4421bb3449e7d9ba8d18f7415667e91e5f8f"
+      }
+    },
+    "23w07a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w07a-0.2.0+beta.7.57-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OutRWTBF/vmp-fabric-mc23w07a-0.2.0%2Bbeta.7.57-all.jar",
+        "sha512": "7db925f05662e5239d77d53c40932541bf742553e45f2b7fabc0e17dd5be52bf4d6c3a42b12a30c0e39cdfef29a90d4e8ca8a9a6038f9644ebd3cd9f9d99808f"
+      },
+      "0_2_0+beta_7_57": {
+        "name": "vmp-fabric-mc23w07a-0.2.0+beta.7.57-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/OutRWTBF/vmp-fabric-mc23w07a-0.2.0%2Bbeta.7.57-all.jar",
+        "sha512": "7db925f05662e5239d77d53c40932541bf742553e45f2b7fabc0e17dd5be52bf4d6c3a42b12a30c0e39cdfef29a90d4e8ca8a9a6038f9644ebd3cd9f9d99808f"
+      }
+    },
+    "23w06a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w06a-0.2.0+beta.7.56-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/g7HHShkV/vmp-fabric-mc23w06a-0.2.0%2Bbeta.7.56-all.jar",
+        "sha512": "0bc93689d54c9644d1e238067e7e66f8a342e3f097d957a27492414f1d98d65a49a4c1b113a4172426ee67398da2f0535f84cfacde94818937f3b5d7fe7f35c7"
+      },
+      "0_2_0+beta_7_56": {
+        "name": "vmp-fabric-mc23w06a-0.2.0+beta.7.56-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/g7HHShkV/vmp-fabric-mc23w06a-0.2.0%2Bbeta.7.56-all.jar",
+        "sha512": "0bc93689d54c9644d1e238067e7e66f8a342e3f097d957a27492414f1d98d65a49a4c1b113a4172426ee67398da2f0535f84cfacde94818937f3b5d7fe7f35c7"
+      }
+    },
+    "23w05a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w05a-0.2.0+beta.7.53-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/q9Pmoqti/vmp-fabric-mc23w05a-0.2.0%2Bbeta.7.53-all.jar",
+        "sha512": "2bb63ad94149569239b850693b7fbe680b82d3e4ba77f6829903f2c00a8671570c626e5e0dbfc847340ce714b3a7ab69a0880edf1bf6cd6437aabe7cfd1c2e01"
+      },
+      "0_2_0+beta_7_53": {
+        "name": "vmp-fabric-mc23w05a-0.2.0+beta.7.53-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/q9Pmoqti/vmp-fabric-mc23w05a-0.2.0%2Bbeta.7.53-all.jar",
+        "sha512": "2bb63ad94149569239b850693b7fbe680b82d3e4ba77f6829903f2c00a8671570c626e5e0dbfc847340ce714b3a7ab69a0880edf1bf6cd6437aabe7cfd1c2e01"
+      }
+    },
+    "23w04a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w04a-0.2.0+beta.7.50-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ojr53dLL/vmp-fabric-mc23w04a-0.2.0%2Bbeta.7.50-all.jar",
+        "sha512": "6697b19dbaff241ced1784a6f11d461fc922b90aba223a1efc8f16aaa8441862f160c8c66ff6752d84f5bf4826d7466863fd022115651cb39ff6bcb0eb240481"
+      },
+      "0_2_0+beta_7_50": {
+        "name": "vmp-fabric-mc23w04a-0.2.0+beta.7.50-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ojr53dLL/vmp-fabric-mc23w04a-0.2.0%2Bbeta.7.50-all.jar",
+        "sha512": "6697b19dbaff241ced1784a6f11d461fc922b90aba223a1efc8f16aaa8441862f160c8c66ff6752d84f5bf4826d7466863fd022115651cb39ff6bcb0eb240481"
+      }
+    },
+    "23w03a": {
+      "latest": {
+        "name": "vmp-fabric-mc23w03a-0.2.0+beta.7.44-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VfO3VVHW/vmp-fabric-mc23w03a-0.2.0%2Bbeta.7.44-all.jar",
+        "sha512": "e3ffa2b00681acff64a15b2ea9e001684d0817cefb9d24dafd429b66a3830444999604bcbb3d76d7bee802f12eca4b84b361cd5a0504281526d72798147fb27f"
+      },
+      "0_2_0+beta_7_44": {
+        "name": "vmp-fabric-mc23w03a-0.2.0+beta.7.44-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VfO3VVHW/vmp-fabric-mc23w03a-0.2.0%2Bbeta.7.44-all.jar",
+        "sha512": "e3ffa2b00681acff64a15b2ea9e001684d0817cefb9d24dafd429b66a3830444999604bcbb3d76d7bee802f12eca4b84b361cd5a0504281526d72798147fb27f"
+      },
+      "0_2_0+beta_7_43": {
+        "name": "vmp-fabric-mc23w03a-0.2.0+beta.7.43-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/XOcpyWZl/vmp-fabric-mc23w03a-0.2.0%2Bbeta.7.43-all.jar",
+        "sha512": "b9f424ded719ceb9f382161b13bdf707301f98ff6aa0528eb15297cc1e02f01c5356162731f58872f0169bdf5c59758d8a397b2dd9453fafaa3b819684b6f074"
+      }
+    },
+    "22w46a": {
+      "latest": {
+        "name": "vmp-fabric-mc22w46a-0.2.0+beta.7.19-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wrE0LM4I/vmp-fabric-mc22w46a-0.2.0%2Bbeta.7.19-all.jar",
+        "sha512": "9586ee7fb4e62fc97d56490287859a8f3a0cc54c704695893d59eff3ac9509a990da7b3de19a5bec64f493b81c2bc270301bbb4bf1445e86ccfbc65ed2423ddf"
+      },
+      "0_2_0+beta_7_19": {
+        "name": "vmp-fabric-mc22w46a-0.2.0+beta.7.19-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/wrE0LM4I/vmp-fabric-mc22w46a-0.2.0%2Bbeta.7.19-all.jar",
+        "sha512": "9586ee7fb4e62fc97d56490287859a8f3a0cc54c704695893d59eff3ac9509a990da7b3de19a5bec64f493b81c2bc270301bbb4bf1445e86ccfbc65ed2423ddf"
+      },
+      "0_2_0+beta_7_18": {
+        "name": "vmp-fabric-mc22w46a-0.2.0+beta.7.18-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/i1cA0p3N/vmp-fabric-mc22w46a-0.2.0%2Bbeta.7.18-all.jar",
+        "sha512": "cd12c1ddce3177fdb21c9175a6509d9a26287362f26b842ffdd13b9ed825aa7c74fa05d9c7a8ecb1378441ca697bd0668bc816c4fd8537ce0a6ed15110d7cc54"
+      }
+    },
+    "22w45a": {
+      "latest": {
+        "name": "vmp-fabric-mc22w45a-0.2.0+beta.7.15-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ep0EBam1/vmp-fabric-mc22w45a-0.2.0%2Bbeta.7.15-all.jar",
+        "sha512": "8e61a7e3f1f759651ab4e27deadb23951f64b52b2ba0fa3b784602b3522c05f450f8bab7f7f65a85bd0e379842319bf05e7ff55d9453dcc7c4d4e3151ace1157"
+      },
+      "0_2_0+beta_7_15": {
+        "name": "vmp-fabric-mc22w45a-0.2.0+beta.7.15-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/Ep0EBam1/vmp-fabric-mc22w45a-0.2.0%2Bbeta.7.15-all.jar",
+        "sha512": "8e61a7e3f1f759651ab4e27deadb23951f64b52b2ba0fa3b784602b3522c05f450f8bab7f7f65a85bd0e379842319bf05e7ff55d9453dcc7c4d4e3151ace1157"
+      }
+    },
+    "22w44a": {
+      "latest": {
+        "name": "vmp-fabric-mc22w44a-0.2.0+beta.7.14-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/kMOzUViy/vmp-fabric-mc22w44a-0.2.0%2Bbeta.7.14-all.jar",
+        "sha512": "80ea5a1501d57f436d16dc948e88ff9586dcefdd7341cd5b51aa0f798b6c3db2fe20721192d5772e0dc276ac8d0113b624a2ea60dad1b3204aed34a7c7d79db2"
+      },
+      "0_2_0+beta_7_14": {
+        "name": "vmp-fabric-mc22w44a-0.2.0+beta.7.14-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/kMOzUViy/vmp-fabric-mc22w44a-0.2.0%2Bbeta.7.14-all.jar",
+        "sha512": "80ea5a1501d57f436d16dc948e88ff9586dcefdd7341cd5b51aa0f798b6c3db2fe20721192d5772e0dc276ac8d0113b624a2ea60dad1b3204aed34a7c7d79db2"
+      }
+    },
+    "22w43a": {
+      "latest": {
+        "name": "vmp-fabric-mc22w43a-0.2.0+beta.7.13-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/goGFYjfV/vmp-fabric-mc22w43a-0.2.0%2Bbeta.7.13-all.jar",
+        "sha512": "1bc4a75a6c610d4bec96fad001f29f6039f868006eb37167f1fa3a6b96d598a20a3cfa17ab7567295314b15169f58b7bd17b345102016eb93e92179f7fe32e3f"
+      },
+      "0_2_0+beta_7_13": {
+        "name": "vmp-fabric-mc22w43a-0.2.0+beta.7.13-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/goGFYjfV/vmp-fabric-mc22w43a-0.2.0%2Bbeta.7.13-all.jar",
+        "sha512": "1bc4a75a6c610d4bec96fad001f29f6039f868006eb37167f1fa3a6b96d598a20a3cfa17ab7567295314b15169f58b7bd17b345102016eb93e92179f7fe32e3f"
+      },
+      "0_2_0+beta_7_12": {
+        "name": "vmp-fabric-mc22w43a-0.2.0+beta.7.12-all.jar",
+        "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/HZRc7L8f/vmp-fabric-mc22w43a-0.2.0%2Bbeta.7.12-all.jar",
+        "sha512": "475403ec3c9d6d9f0c35e8d6ab187fce3fcb94992ac9c492b61be1f6e84900cdc44db5336cf74c9bd52ce84eb8a76ea1846db80faeace3c93885c4e2fe4c01d3"
+      }
     }
   }
 }

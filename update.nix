@@ -30,7 +30,6 @@
                 attrNames
                 filterAttrs
                 isDerivation
-                importJSON
                 ;
 
               packageUpdates =
@@ -43,11 +42,6 @@
                       filterAttrs (_: pkg: isDerivation pkg && pkg ? passthru.updateScript) self'.legacyPackages
                     )
                   );
-
-              modrinthUpdates = concatMapStrings (project: ''
-                nix run ${self}#mod-source -- "${project}"
-                sleep 0.01
-              '') (importJSON ./_modSources/_projects.json);
             in
             ''
               set -ex
@@ -56,7 +50,7 @@
 
               nix flake update
               ${packageUpdates}
-              ${modrinthUpdates}
+              nix run .#update-mods
 
               nix fmt
 
@@ -67,6 +61,26 @@
 
               exit 0
             '';
+        };
+
+        meta.description = ''
+          Update pkgs
+        '';
+      };
+
+      apps.update-mods = {
+        type = "app";
+        program = pkgs.writeShellApplication {
+          name = "update-mods";
+          runtimeInputs = [ pkgs.nix ];
+          text = ''
+            set -ex
+
+            ${lib.concatMapStrings (project: ''
+              nix run ${self}#mod-source -- "${project}"
+              sleep 0.01
+            '') (lib.importJSON ./_modSources/_projects.json)}
+          '';
         };
 
         meta.description = ''
@@ -86,20 +100,45 @@
             project="$1"
             # shellcheck disable=SC2016
             jq_query='
-              reduce .[] as $version ({};
-                .[$version.loaders[0]] += (
-                  $version.game_versions | reduce .[] as $game_version ({};
-                    if $game_version | test("^\\d\\.\\d{1,2}(\\.\\d{1,2})?$") then
-                      .[$game_version] = (
-                        $version.files[0] | {url, sha512: .hashes.sha512, name: .filename}
-                      )
-                    else
-                      .
-                    end
-                  )
-                )
-              ) | map_values(
-                to_entries | sort_by(.key | split(".") | map(tonumber? // 0)) | reverse | from_entries
+              [
+                .[]
+                | .version_number as $raw_version
+                | .files[0] as $file
+                | .loaders[] as $loader
+                | .game_versions[] as $game_version
+                | {
+                  loader: $loader,
+                  game_version: $game_version | gsub("\\."; "_"),
+                  version: (
+                    $raw_version
+                    | gsub(
+                      "(^v?|[\\-\\+]?"
+                      + $game_version
+                      + "[\\-\\+]?|[\\-\\+]?("
+                      + "fabric|quilt|"
+                      + $loader
+                      + ")[\\-\\+]?)"
+                      ; ""
+                    )
+                    | gsub("\\."; "_")
+                  ),
+                  file: {
+                    name: ($file.filename | gsub(" "; "-")),
+                    url: $file.url,
+                    sha512: $file.hashes.sha512
+                  }
+                }
+              ]
+              | sort_by(
+                .loader,
+                (.game_version | test("^\\d+\\_\\d+")),
+                (.game_version | [scan("\\d+") | tonumber]),
+                (.version      | [scan("\\d+") | tonumber])
+              )
+              | reverse
+              | reduce .[] as $i ({};
+                .[$i.loader][$i.game_version].latest //= $i.file
+                | .[$i.loader][$i.game_version][$i.version] = $i.file
               )
             '
 

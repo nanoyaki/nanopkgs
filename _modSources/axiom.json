@@ -1,94 +1,1277 @@
 {
   "fabric": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/TibxxJrx/Axiom-5.1.1-for-MC1.21.10.jar",
-      "sha512": "7175d1c7ef4f5764a070e8d46076fc24d9005469a096d0a21a04ea45f96d7d47a3a1309a9627af3ef73b7584c1bbc56bc584a196914ba684762e4970609d65c0",
-      "name": "Axiom-5.1.1-for-MC1.21.10.jar"
+    "1_21_11": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/M0Jr2ivY/Axiom-5.2.1-for-MC1.21.11.jar",
+        "sha512": "00be4c7e6652d8f36855b222effa19a23a532659da932b4321f4f786f169be3d98977e3d4271deb6b415f4692eb87d9a8fd78295a55bbe887771302e64bb1c58"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/M0Jr2ivY/Axiom-5.2.1-for-MC1.21.11.jar",
+        "sha512": "00be4c7e6652d8f36855b222effa19a23a532659da932b4321f4f786f169be3d98977e3d4271deb6b415f4692eb87d9a8fd78295a55bbe887771302e64bb1c58"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/RUKyB65n/Axiom-5.1.0-for-MC1.21.9.jar",
-      "sha512": "311632ab835f5492a3d1fad29b63b4c6401ff83ef1635cb9dc2e2bd73808628dadf3c9896f438a7dd711747b306fdf187036db54c99e86361d5e5c7848bcb5ea",
-      "name": "Axiom-5.1.0-for-MC1.21.9.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/lTAyg01U/Axiom-5.2.1-for-MC1.21.10.jar",
+        "sha512": "2fe925f70e3a531e2c1244ef4865341af5d860c9663456726dd4ee20027ef8fd6cef5cc1f90a2322f91dae4a745cdb97494ee2a851a99980ec3e3ecdf287848c"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/lTAyg01U/Axiom-5.2.1-for-MC1.21.10.jar",
+        "sha512": "2fe925f70e3a531e2c1244ef4865341af5d860c9663456726dd4ee20027ef8fd6cef5cc1f90a2322f91dae4a745cdb97494ee2a851a99980ec3e3ecdf287848c"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/TibxxJrx/Axiom-5.1.1-for-MC1.21.10.jar",
+        "sha512": "7175d1c7ef4f5764a070e8d46076fc24d9005469a096d0a21a04ea45f96d7d47a3a1309a9627af3ef73b7584c1bbc56bc584a196914ba684762e4970609d65c0"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CRjwbqnJ/Axiom-4.9.1-for-MC1.21.6.jar",
-      "sha512": "4aafc025ad5e652060f7cff74dade9fcc6ec770a5f310fe970eedd6f6c7154c6cc10a33e0fbe9c648bed736b552ea645c530ce92f371acbcd6c93a6f313ca4b5",
-      "name": "Axiom-4.9.1-for-MC1.21.6.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/lTAyg01U/Axiom-5.2.1-for-MC1.21.10.jar",
+        "sha512": "2fe925f70e3a531e2c1244ef4865341af5d860c9663456726dd4ee20027ef8fd6cef5cc1f90a2322f91dae4a745cdb97494ee2a851a99980ec3e3ecdf287848c"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/lTAyg01U/Axiom-5.2.1-for-MC1.21.10.jar",
+        "sha512": "2fe925f70e3a531e2c1244ef4865341af5d860c9663456726dd4ee20027ef8fd6cef5cc1f90a2322f91dae4a745cdb97494ee2a851a99980ec3e3ecdf287848c"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/TibxxJrx/Axiom-5.1.1-for-MC1.21.10.jar",
+        "sha512": "7175d1c7ef4f5764a070e8d46076fc24d9005469a096d0a21a04ea45f96d7d47a3a1309a9627af3ef73b7584c1bbc56bc584a196914ba684762e4970609d65c0"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/RUKyB65n/Axiom-5.1.0-for-MC1.21.9.jar",
+        "sha512": "311632ab835f5492a3d1fad29b63b4c6401ff83ef1635cb9dc2e2bd73808628dadf3c9896f438a7dd711747b306fdf187036db54c99e86361d5e5c7848bcb5ea"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CRjwbqnJ/Axiom-4.9.1-for-MC1.21.6.jar",
-      "sha512": "4aafc025ad5e652060f7cff74dade9fcc6ec770a5f310fe970eedd6f6c7154c6cc10a33e0fbe9c648bed736b552ea645c530ce92f371acbcd6c93a6f313ca4b5",
-      "name": "Axiom-4.9.1-for-MC1.21.6.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AWl6aGqc/Axiom-5.2.1-for-MC1.21.8.jar",
+        "sha512": "edd1b88fc9533ff2f52483485a3d3e5fca9e5b3419b0326ed98adaa46acd8011c330b4a2524f9fd89e179b7d7affd55ba47f041cf17cce3c3a000728f47b959c"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AWl6aGqc/Axiom-5.2.1-for-MC1.21.8.jar",
+        "sha512": "edd1b88fc9533ff2f52483485a3d3e5fca9e5b3419b0326ed98adaa46acd8011c330b4a2524f9fd89e179b7d7affd55ba47f041cf17cce3c3a000728f47b959c"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/wXXBPuQc/Axiom-5.1.1-for-MC1.21.8.jar",
+        "sha512": "b3c8bf595f79be89c6e62791c28f872c4c42e3ae5b1b569ff2b5171ed4e2bf624fe98256be2352852923bef5f2b53e055cc0bfe44d1dfceffb5b004090a50de4"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/xEkOhZte/Axiom-5.1.0-for-MC1.21.8.jar",
+        "sha512": "3954990f50f679c23692ef6c2e76fd4093adc5eb7649c610b09c993c82abf67a16f5fd3840b213f18563b7fa5d828fb5a0d3af368a67b75c872f6c02717ca3cd"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/qsljLO3K/Axiom-5.0.1-for-MC1.21.8.jar",
+        "sha512": "e218cafe3041b316abd5bca9a9a5ef47d2a0b49ca9b6a7b8527ed1e38cc88a2052d3c545cf052f32ce4b2bfb91baf67eace8d77c4e99e6427e3a7b8567beb271"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/yX9NwISE/Axiom-5.0.0-for-MC1.21.8.jar",
+        "sha512": "ac7279305ad9c5f6ffdeee771edfa9dc1568c7356ad0a0feb2773565da73b42326933ac8221c206cb57ba39ac770be3f2e9d37b543d2cf993d5dbb054013cdd4"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CRjwbqnJ/Axiom-4.9.1-for-MC1.21.6.jar",
+        "sha512": "4aafc025ad5e652060f7cff74dade9fcc6ec770a5f310fe970eedd6f6c7154c6cc10a33e0fbe9c648bed736b552ea645c530ce92f371acbcd6c93a6f313ca4b5"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/rxGIe9FY/Axiom-4.9.0-for-MC1.21.6.jar",
-      "sha512": "61f9af22296b04f6d0f198f1a238330d75845c9d8330ac5397e61f5f1c2b63d40089b2a2f67090cddbb19728805a8a73a118ce307c41b2c9378d6a365224958c",
-      "name": "Axiom-4.9.0-for-MC1.21.6.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AWl6aGqc/Axiom-5.2.1-for-MC1.21.8.jar",
+        "sha512": "edd1b88fc9533ff2f52483485a3d3e5fca9e5b3419b0326ed98adaa46acd8011c330b4a2524f9fd89e179b7d7affd55ba47f041cf17cce3c3a000728f47b959c"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AWl6aGqc/Axiom-5.2.1-for-MC1.21.8.jar",
+        "sha512": "edd1b88fc9533ff2f52483485a3d3e5fca9e5b3419b0326ed98adaa46acd8011c330b4a2524f9fd89e179b7d7affd55ba47f041cf17cce3c3a000728f47b959c"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/wXXBPuQc/Axiom-5.1.1-for-MC1.21.8.jar",
+        "sha512": "b3c8bf595f79be89c6e62791c28f872c4c42e3ae5b1b569ff2b5171ed4e2bf624fe98256be2352852923bef5f2b53e055cc0bfe44d1dfceffb5b004090a50de4"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/xEkOhZte/Axiom-5.1.0-for-MC1.21.8.jar",
+        "sha512": "3954990f50f679c23692ef6c2e76fd4093adc5eb7649c610b09c993c82abf67a16f5fd3840b213f18563b7fa5d828fb5a0d3af368a67b75c872f6c02717ca3cd"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/qsljLO3K/Axiom-5.0.1-for-MC1.21.8.jar",
+        "sha512": "e218cafe3041b316abd5bca9a9a5ef47d2a0b49ca9b6a7b8527ed1e38cc88a2052d3c545cf052f32ce4b2bfb91baf67eace8d77c4e99e6427e3a7b8567beb271"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/yX9NwISE/Axiom-5.0.0-for-MC1.21.8.jar",
+        "sha512": "ac7279305ad9c5f6ffdeee771edfa9dc1568c7356ad0a0feb2773565da73b42326933ac8221c206cb57ba39ac770be3f2e9d37b543d2cf993d5dbb054013cdd4"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CRjwbqnJ/Axiom-4.9.1-for-MC1.21.6.jar",
+        "sha512": "4aafc025ad5e652060f7cff74dade9fcc6ec770a5f310fe970eedd6f6c7154c6cc10a33e0fbe9c648bed736b552ea645c530ce92f371acbcd6c93a6f313ca4b5"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Ww9uleCZ/Axiom-4.7.0-for-MC1.21.5.jar",
-      "sha512": "b9e21f25174f53e1a8e22ef2b75235529993483b9e64206a8529e8280d2370c60f15e72993cedeb5a0b2dfc1384620a0e87bfeb6acdf373d2705b010bb0b4a2f",
-      "name": "Axiom-4.7.0-for-MC1.21.5.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AWl6aGqc/Axiom-5.2.1-for-MC1.21.8.jar",
+        "sha512": "edd1b88fc9533ff2f52483485a3d3e5fca9e5b3419b0326ed98adaa46acd8011c330b4a2524f9fd89e179b7d7affd55ba47f041cf17cce3c3a000728f47b959c"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AWl6aGqc/Axiom-5.2.1-for-MC1.21.8.jar",
+        "sha512": "edd1b88fc9533ff2f52483485a3d3e5fca9e5b3419b0326ed98adaa46acd8011c330b4a2524f9fd89e179b7d7affd55ba47f041cf17cce3c3a000728f47b959c"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/wXXBPuQc/Axiom-5.1.1-for-MC1.21.8.jar",
+        "sha512": "b3c8bf595f79be89c6e62791c28f872c4c42e3ae5b1b569ff2b5171ed4e2bf624fe98256be2352852923bef5f2b53e055cc0bfe44d1dfceffb5b004090a50de4"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/xEkOhZte/Axiom-5.1.0-for-MC1.21.8.jar",
+        "sha512": "3954990f50f679c23692ef6c2e76fd4093adc5eb7649c610b09c993c82abf67a16f5fd3840b213f18563b7fa5d828fb5a0d3af368a67b75c872f6c02717ca3cd"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/qsljLO3K/Axiom-5.0.1-for-MC1.21.8.jar",
+        "sha512": "e218cafe3041b316abd5bca9a9a5ef47d2a0b49ca9b6a7b8527ed1e38cc88a2052d3c545cf052f32ce4b2bfb91baf67eace8d77c4e99e6427e3a7b8567beb271"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/yX9NwISE/Axiom-5.0.0-for-MC1.21.8.jar",
+        "sha512": "ac7279305ad9c5f6ffdeee771edfa9dc1568c7356ad0a0feb2773565da73b42326933ac8221c206cb57ba39ac770be3f2e9d37b543d2cf993d5dbb054013cdd4"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CRjwbqnJ/Axiom-4.9.1-for-MC1.21.6.jar",
+        "sha512": "4aafc025ad5e652060f7cff74dade9fcc6ec770a5f310fe970eedd6f6c7154c6cc10a33e0fbe9c648bed736b552ea645c530ce92f371acbcd6c93a6f313ca4b5"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/rxGIe9FY/Axiom-4.9.0-for-MC1.21.6.jar",
+        "sha512": "61f9af22296b04f6d0f198f1a238330d75845c9d8330ac5397e61f5f1c2b63d40089b2a2f67090cddbb19728805a8a73a118ce307c41b2c9378d6a365224958c"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/GTUzbXZI/Axiom-4.4.0-for-MC1.21.4.jar",
-      "sha512": "e642a6f02209669ee418961e6ab43e8989e108ce7253b74bb56bb15d21425e8c1d16b50fe3f928b14a2acc822ad877c7035eaa6606399660c9196d323fc640e7",
-      "name": "Axiom-4.4.0-for-MC1.21.4.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/IJw4PV3n/Axiom-5.2.1-for-MC1.21.5.jar",
+        "sha512": "aaabee3d53056bd7b1d6f93c720749ba3faafea19afb67c5231d7c3927857541266545deef843ebb4697780e0b25b9a93008d094f0eb6996f1460ef990d6c397"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/IJw4PV3n/Axiom-5.2.1-for-MC1.21.5.jar",
+        "sha512": "aaabee3d53056bd7b1d6f93c720749ba3faafea19afb67c5231d7c3927857541266545deef843ebb4697780e0b25b9a93008d094f0eb6996f1460ef990d6c397"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/zRzjeNxB/Axiom-5.1.1-for-MC1.21.5.jar",
+        "sha512": "8707609c6846d99c4a88197e8b0900bc5b20ad6a220510d5d8ff70bd7459db65de9f0f08f5eac1bdf5ff8c89e2f85c73f3b3682742307f0be754cdb4dd65552b"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/1ddERRDN/Axiom-5.1.0-for-MC1.21.5.jar",
+        "sha512": "b5eccd4d008fd51ac54dcb1a58fc233561f9863bcb5457cd59b146068ba9f17a67fdb899f1ec1291003067687ad0f9e9a7c61e0800ce78710d6dcdb77dc421e1"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/IYaO2xSS/Axiom-5.0.1-for-MC1.21.5.jar",
+        "sha512": "efd1d2c64dcfb138eb27ad6097d5415a11d89c7e8c76c54f89eb8cd509a9bbd402dbdfa84ca6a34448cb06ec9aadda19720e1dfd92c44b4756292308ef0bab57"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/y26lPTRv/Axiom-5.0.0-for-MC1.21.5.jar",
+        "sha512": "76120d20591a78ba4d2771cdceb6d9cdf7191688462eb601c1ccac54677269efb7c0f020bbc9ca5d3bd8aa27d1d3a1e5421f856fac400649bb2c6b228272985b"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/BOOIX7Wq/Axiom-4.9.1-for-MC1.21.5.jar",
+        "sha512": "ce20dda43e5755908eb28736c29a7f9e35c0ce5b83f2c6567b4b8dc023d10a75f1d4d776985fe867de8e435b7176114dc0ae7da99669682d87da36c5a642649e"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/KWF7xiWe/Axiom-4.9.0-for-MC1.21.5.jar",
+        "sha512": "e29695644da8a3efe608fd6f885d5e863e73ec6435c16bf868e193277aa73191f9dca1e6a50535c9383796633bbc6a365c8293b63cd07129ad5c8b45d02003c0"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/VnZbmqqs/Axiom-4.8.0-for-MC1.21.5.jar",
+        "sha512": "04e8532b979432b008c382329cdd5b8039b7ed2099c302352591a1903bbb905b580c11ce0b875a976b2c4fe6fed499268eb4becf83dfeb685a01745052101bbd"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/dI9AgpkF/Axiom-4.7.1-for-MC1.21.5.jar",
+        "sha512": "25a04a4e01746cde6cf76c7adae22385c18a194e066bdefb5c4b3a2c3ed11823cb2aa5ffa68e3dc7a0739a6ab65ce7e499197b3c844c676e9424be55b6dd3d61"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Ww9uleCZ/Axiom-4.7.0-for-MC1.21.5.jar",
+        "sha512": "b9e21f25174f53e1a8e22ef2b75235529993483b9e64206a8529e8280d2370c60f15e72993cedeb5a0b2dfc1384620a0e87bfeb6acdf373d2705b010bb0b4a2f"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/LmiTkWIt/Axiom-4.2.1-for-MC1.21.3.jar",
-      "sha512": "fba4c37da2c10c680e4c4f75ac70900e20b62fbd2f18679b64c5bac8f536627efcfeec41d6fad0a2605a53c7f3ba937e51f4b2a5df37b1c2322df05afcadb1d1",
-      "name": "Axiom-4.2.1-for-MC1.21.3.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6h1KD9MS/Axiom-5.2.1-for-MC1.21.4.jar",
+        "sha512": "77d9881db525a96f1ec77a1b1fd3e3ad6fbfa437623a5bd75f659d90973cb8d859b8ed65bf31f47b3f538e5e826e6bcdf17fd9f8b5421b728d4b668e0a4bfd8a"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6h1KD9MS/Axiom-5.2.1-for-MC1.21.4.jar",
+        "sha512": "77d9881db525a96f1ec77a1b1fd3e3ad6fbfa437623a5bd75f659d90973cb8d859b8ed65bf31f47b3f538e5e826e6bcdf17fd9f8b5421b728d4b668e0a4bfd8a"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/MEGUcf8J/Axiom-5.1.1-for-MC1.21.4.jar",
+        "sha512": "21874eb807b95866dc905ced7867ea543667f9a5781925c9450b0bf21025d71e41247cf3789aaf4e228b7a4df4f5614b396405d1585816f107ce3706a9e29e89"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Q0sWusmT/Axiom-5.1.0-for-MC1.21.4.jar",
+        "sha512": "ea59e6636f19794631660e31565c41c2a457eaa0266c629ddb503597aae64a43f9ab11086ec20fc08a9bc5ea49dde267b476f99ef9df2039ca9cfb451fda83a6"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ssZBfxpk/Axiom-5.0.1-for-MC1.21.4.jar",
+        "sha512": "6a6a1f0004fbfe2190e488a11567c5f96af9b786d187c5796b04459a2494f4f10fec2870a595e54b59c2c3348b0021a837e6f7790a90ab0b630194bb23e8d1f4"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ICBVSdbW/Axiom-5.0.0-for-MC1.21.4.jar",
+        "sha512": "79a121709e3c01af746db7567b9e4bec5276c4a8fea03b963772781a2e05a2c6510635bb853d3ab4d1330c9085c1a765ec380d92d23a1c07cbdc57625f7b22d1"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/OETzA790/Axiom-4.9.1-for-MC1.21.4.jar",
+        "sha512": "9f16fe44aab478ef949124077412b89811ed12f6ab09ac7ec0436a0ac363fab2b0eb8dcab833c6474b5836423a018c154377c024bb0dceaee454d3f1e8ebe979"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/BPCQZHxC/Axiom-4.9.0-for-MC1.21.4.jar",
+        "sha512": "b7f009ff292fcd11c84de8275eb4dc72dd3e5d100edee35c0b888e9c355a66eb6e634fd7cee92cf19558751588a03b3327f3c74820f4c216340622d99b11d2f3"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Qwv7JrYl/Axiom-4.8.0-for-MC1.21.4.jar",
+        "sha512": "9721af9342bf0a8f4d37e47939bd9538072f118095d8e29d5b13e8382083ab00c811e9d247bfe80205c5ece5606cea4f6744e1c81043a84d04e0903c130ba372"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/NuPjm36A/Axiom-4.7.1-for-MC1.21.4.jar",
+        "sha512": "e55739c6640a911971bf36ff0ddee3417b71d2900cf5c1f93c24fa900b67df073346b5ad1f6c8cf7f45a83924b154e65a516208534cab1e07b96d4745d2f8959"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/59nc9VGC/Axiom-4.7.0-for-MC1.21.4.jar",
+        "sha512": "25c4204d20b2059f1ac7f0cc0226e10c4777f3868fb4a018224f5d4bb8a6338f7b8a3fe1ed13be90980fc0497c35987a57041f58ab0fd07735c465745760f7f0"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/fUyrbtfH/Axiom-4.6.2-for-MC1.21.4.jar",
+        "sha512": "ee3cabf7c50118a3fb1bf27a243464a0ffa9aa7ebb909dce9532e6b4dbd30c2c650a8be4f006e2d66227e897b67ca473239cdeba6ec0baf94598f1da28efd646"
+      },
+      "4_5_3": {
+        "name": "Axiom-4.5.3-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/WTVYndOG/Axiom-4.5.3-for-MC1.21.4.jar",
+        "sha512": "77df91ba4b0b89ee6905649cd36105ee7cbe03d6c227d5c56ac025ee8c3f4962d4ddbbfaf434711e4d49157f947c6183a1005899ef119665afacaaa9a2752637"
+      },
+      "4_5_1": {
+        "name": "Axiom-4.5.1-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6Pbt6YHj/Axiom-4.5.1-for-MC1.21.4.jar",
+        "sha512": "f6701e1e77244ffab5f54a1be8e803b6d6d3cafa2e54b8013d788669b6b36faddd90b0e45eecfb0775f612bb5f4816ab2875dfc3f185004bdf4ae66795610099"
+      },
+      "4_4_0": {
+        "name": "Axiom-4.4.0-for-MC1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/GTUzbXZI/Axiom-4.4.0-for-MC1.21.4.jar",
+        "sha512": "e642a6f02209669ee418961e6ab43e8989e108ce7253b74bb56bb15d21425e8c1d16b50fe3f928b14a2acc822ad877c7035eaa6606399660c9196d323fc640e7"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/LmiTkWIt/Axiom-4.2.1-for-MC1.21.3.jar",
-      "sha512": "fba4c37da2c10c680e4c4f75ac70900e20b62fbd2f18679b64c5bac8f536627efcfeec41d6fad0a2605a53c7f3ba937e51f4b2a5df37b1c2322df05afcadb1d1",
-      "name": "Axiom-4.2.1-for-MC1.21.3.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/5jYjOqZI/Axiom-5.2.1-for-MC1.21.3.jar",
+        "sha512": "abe96960af418392205b3394b632f2c5725a7910f2faea8b1292d2594695c25be6716ee053c1f99f326dba7c2f891326793263ab1ed557f32c2b8c0637b300dd"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/5jYjOqZI/Axiom-5.2.1-for-MC1.21.3.jar",
+        "sha512": "abe96960af418392205b3394b632f2c5725a7910f2faea8b1292d2594695c25be6716ee053c1f99f326dba7c2f891326793263ab1ed557f32c2b8c0637b300dd"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/n8RqGZ2b/Axiom-5.1.1-for-MC1.21.3.jar",
+        "sha512": "a2b86457490f93099be2dee92b314d75c39a0d37574f62aeb706df4cb9e27d8097b1bc991384a690f2764ce9216aa3fe24310501de75e52701eab2817dece9f9"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/MN8zG0UC/Axiom-5.1.0-for-MC1.21.3.jar",
+        "sha512": "84320bc902d9ec68e0e9ceeefcf79cbf8dc1c19936afc703d64813bc94f35ecdb2d9e7cdc30f2a4fc02e543ce5d34f8a660cecdf11112898f65ee807a5fd0ccb"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/hus0K8c6/Axiom-5.0.1-for-MC1.21.3.jar",
+        "sha512": "8b9e6740737ebd2a79ab6ff9d222e32f048fa5ba5647f26073823ba4f75a2a08fb7c9a221d645bbb0ecf05d06306df650a5649c016ed77441efcff9dbaf6c80f"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/EMPizoLC/Axiom-5.0.0-for-MC1.21.3.jar",
+        "sha512": "55f269a024b8d0729675af83ad0bc4fdbb4bcbc9ab06881fed26a5cf410fa4373ab1c61c411c24597b14433f6a5641466c893da1f177fef0f8c1eb7c3f10533a"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/8FfuXLhW/Axiom-4.9.1-for-MC1.21.3.jar",
+        "sha512": "2602ab6a1cf6ea6e9dbcbc4b9f60803754efb4d2daac88ab4fef9f63cace4bf7b4c1137aa8f8b9cf8718327a5fc550c7342d17aed9dbcb465660574a0e0e8136"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/TcAOeVBY/Axiom-4.9.0-for-MC1.21.3.jar",
+        "sha512": "066e65841d1c5499c3e9a910962cbb9effe11c186248ac2c5d9772b7eba9f4b600a91f51a8f782189c5f1b6b90282bf252b2b055eae2f3c06e9d44515c92c1bf"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/r9BqqFvR/Axiom-4.8.0-for-MC1.21.3.jar",
+        "sha512": "1e5068ca8f12950122a67812054d4dbf1c408283db47d602c5f441234275f469d2bb0510943dd1cbf2e48d0121debd8205cc303cd076698289254e1b9c1866be"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Xt0xMBKX/Axiom-4.7.1-for-MC1.21.3.jar",
+        "sha512": "586ce10414e648e8d88612510ed9d1411bb30c6e164b357826cb77f4b666ef642efda9c8fb81d8f40a5258e0d8ebb59c830bddecd1cf93b7c5d8ee2cdb451bf2"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/7vbsS7qd/Axiom-4.7.0-for-MC1.21.3.jar",
+        "sha512": "8300a989fe298adf04b423bf2cc43d7f35dc2caac761f3039e84819e5bec4101722931be9a672343ff0e87db0ce5607f072e0f45021d6687a1a4130a377ed7db"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/qMI0pBnr/Axiom-4.6.2-for-MC1.21.3.jar",
+        "sha512": "11a5de78597ff0f3e6b6e549b32b9b57b1d1ca25ae5d4e823095348bc9b1cc224beae5c5bd0b52d4e7407eb981ca45427fac2bfe6b1fd27dcac2405171fac250"
+      },
+      "4_3_3": {
+        "name": "Axiom-4.3.3-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jMEXGFSh/Axiom-4.3.3-for-MC1.21.3.jar",
+        "sha512": "fdec176a9ab537c5ec7db9d2619f369fb82361f4e9e1e3da360ee8928d721ed13d894d6df871877c88db1f2fb95f804b52687af65a0de604ae8d076e8979e2d1"
+      },
+      "4_2_1": {
+        "name": "Axiom-4.2.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/LmiTkWIt/Axiom-4.2.1-for-MC1.21.3.jar",
+        "sha512": "fba4c37da2c10c680e4c4f75ac70900e20b62fbd2f18679b64c5bac8f536627efcfeec41d6fad0a2605a53c7f3ba937e51f4b2a5df37b1c2322df05afcadb1d1"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/J7bFfUEz/Axiom-4.0.0-for-MC1.21.jar",
-      "sha512": "89f4da45595f19307f34f6c350ca2198321456300f89cbaf68a3f6b340486759c79c1c3b028fd5cc6fa329e7b9f6015a592411bc08456552eb35742e2bfb4a2d",
-      "name": "Axiom-4.0.0-for-MC1.21.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/5jYjOqZI/Axiom-5.2.1-for-MC1.21.3.jar",
+        "sha512": "abe96960af418392205b3394b632f2c5725a7910f2faea8b1292d2594695c25be6716ee053c1f99f326dba7c2f891326793263ab1ed557f32c2b8c0637b300dd"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/5jYjOqZI/Axiom-5.2.1-for-MC1.21.3.jar",
+        "sha512": "abe96960af418392205b3394b632f2c5725a7910f2faea8b1292d2594695c25be6716ee053c1f99f326dba7c2f891326793263ab1ed557f32c2b8c0637b300dd"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/n8RqGZ2b/Axiom-5.1.1-for-MC1.21.3.jar",
+        "sha512": "a2b86457490f93099be2dee92b314d75c39a0d37574f62aeb706df4cb9e27d8097b1bc991384a690f2764ce9216aa3fe24310501de75e52701eab2817dece9f9"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/MN8zG0UC/Axiom-5.1.0-for-MC1.21.3.jar",
+        "sha512": "84320bc902d9ec68e0e9ceeefcf79cbf8dc1c19936afc703d64813bc94f35ecdb2d9e7cdc30f2a4fc02e543ce5d34f8a660cecdf11112898f65ee807a5fd0ccb"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/hus0K8c6/Axiom-5.0.1-for-MC1.21.3.jar",
+        "sha512": "8b9e6740737ebd2a79ab6ff9d222e32f048fa5ba5647f26073823ba4f75a2a08fb7c9a221d645bbb0ecf05d06306df650a5649c016ed77441efcff9dbaf6c80f"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/EMPizoLC/Axiom-5.0.0-for-MC1.21.3.jar",
+        "sha512": "55f269a024b8d0729675af83ad0bc4fdbb4bcbc9ab06881fed26a5cf410fa4373ab1c61c411c24597b14433f6a5641466c893da1f177fef0f8c1eb7c3f10533a"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/8FfuXLhW/Axiom-4.9.1-for-MC1.21.3.jar",
+        "sha512": "2602ab6a1cf6ea6e9dbcbc4b9f60803754efb4d2daac88ab4fef9f63cace4bf7b4c1137aa8f8b9cf8718327a5fc550c7342d17aed9dbcb465660574a0e0e8136"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/TcAOeVBY/Axiom-4.9.0-for-MC1.21.3.jar",
+        "sha512": "066e65841d1c5499c3e9a910962cbb9effe11c186248ac2c5d9772b7eba9f4b600a91f51a8f782189c5f1b6b90282bf252b2b055eae2f3c06e9d44515c92c1bf"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/r9BqqFvR/Axiom-4.8.0-for-MC1.21.3.jar",
+        "sha512": "1e5068ca8f12950122a67812054d4dbf1c408283db47d602c5f441234275f469d2bb0510943dd1cbf2e48d0121debd8205cc303cd076698289254e1b9c1866be"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Xt0xMBKX/Axiom-4.7.1-for-MC1.21.3.jar",
+        "sha512": "586ce10414e648e8d88612510ed9d1411bb30c6e164b357826cb77f4b666ef642efda9c8fb81d8f40a5258e0d8ebb59c830bddecd1cf93b7c5d8ee2cdb451bf2"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/7vbsS7qd/Axiom-4.7.0-for-MC1.21.3.jar",
+        "sha512": "8300a989fe298adf04b423bf2cc43d7f35dc2caac761f3039e84819e5bec4101722931be9a672343ff0e87db0ce5607f072e0f45021d6687a1a4130a377ed7db"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/qMI0pBnr/Axiom-4.6.2-for-MC1.21.3.jar",
+        "sha512": "11a5de78597ff0f3e6b6e549b32b9b57b1d1ca25ae5d4e823095348bc9b1cc224beae5c5bd0b52d4e7407eb981ca45427fac2bfe6b1fd27dcac2405171fac250"
+      },
+      "4_3_3": {
+        "name": "Axiom-4.3.3-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jMEXGFSh/Axiom-4.3.3-for-MC1.21.3.jar",
+        "sha512": "fdec176a9ab537c5ec7db9d2619f369fb82361f4e9e1e3da360ee8928d721ed13d894d6df871877c88db1f2fb95f804b52687af65a0de604ae8d076e8979e2d1"
+      },
+      "4_2_1": {
+        "name": "Axiom-4.2.1-for-MC1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/LmiTkWIt/Axiom-4.2.1-for-MC1.21.3.jar",
+        "sha512": "fba4c37da2c10c680e4c4f75ac70900e20b62fbd2f18679b64c5bac8f536627efcfeec41d6fad0a2605a53c7f3ba937e51f4b2a5df37b1c2322df05afcadb1d1"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ZJKNixEj/Axiom-3.1.0-for-MC1.21.jar",
-      "sha512": "ed818a54ae169495ec5b105d43ea1a7ecc30360408839088ab6d8e182d14a32e81942ba2efde9910c502973a68cc8e24abaaa14537f2c862b4b97b2e45a5d4bc",
-      "name": "Axiom-3.1.0-for-MC1.21.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar",
+        "sha512": "2fda388a48f29e298c36bd16031ecbe728c95c753afbb9696f02d3eb538b72758af5a8010de1b26385dec1e6549ab27fa19e1c5a070a571dce7be2b304cc3d78"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar",
+        "sha512": "2fda388a48f29e298c36bd16031ecbe728c95c753afbb9696f02d3eb538b72758af5a8010de1b26385dec1e6549ab27fa19e1c5a070a571dce7be2b304cc3d78"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/PSqi3Keg/Axiom-5.1.1-for-MC1.21.1.jar",
+        "sha512": "95fc5cdb8bf8b35fbeaaf85293004248993c7b1188800fd9ccca77e3be4b02c4c9933c4327907d2d6be224c5d1a255a6b52678b5006eb05f84ab45fe7fced223"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/3CDQu1Wy/Axiom-5.1.0-for-MC1.21.1.jar",
+        "sha512": "be2b7a473537c47896042a0fae7669e23e13e8fa42901dda606a89d632708e8cc915ac1b67a9f366dc6cde61d89691bed56a4a395f85826b0dbf0e593ff43eae"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6BFd0w5s/Axiom-5.0.1-for-MC1.21.1.jar",
+        "sha512": "798262b4de777a7fab2b32e325ca26a072e40e792301a7ad54f8ee18f97c66578828063b92ee8a1968db2f96520bc2285b8302d0ee907af3128277e7992cc901"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/YcPugeD4/Axiom-5.0.0-for-MC1.21.1.jar",
+        "sha512": "60f6b2b3761893b9f2db7632bdb2c8aefe133be54fdfe4af7193474d88a025d3ce785819446649b55d1347aa4c26bac44824104c8c97934101b8a03dc7000f83"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/fANn8SLL/Axiom-4.9.1-for-MC1.21.jar",
+        "sha512": "376b86738a80cb41c60233d5d1d6c07a513b8fba15782d7c36429bbafe15fb0a56e04c1536388ec9e768b2350b21bacc458fa9484e0268b2687851a669cd18d7"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/hZLUO9h8/Axiom-4.9.0-for-MC1.21.jar",
+        "sha512": "ee6b718a123f5e61e78d326a4207fbbb72ed624e24d9ccbcf90cb5a2c8481169ef33f39cf78578822cc3b40b85e886dffe5b6998df6466455965e6545fd60e85"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/rRNZPehD/Axiom-4.8.0-for-MC1.21.jar",
+        "sha512": "7c0107f9c8e9ac4c68be4f9e481c3537adadb23e327ea7c992186525fff0c5f97c04ec21d5a18f784f8453e69d7cca603ee3677489829de6e0648894d32cec50"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/zLBFWRoy/Axiom-4.7.1-for-MC1.21.jar",
+        "sha512": "10b7948e4ec750efe654705aeb3a98dfa571ddc90ea390c135e7b5ebe4a6719081dd6f71d7a3108996b9b4e31651e030f78d52eec646669114696cd33e480693"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Wh87z3xN/Axiom-4.7.0-for-MC1.21.jar",
+        "sha512": "05e5c0cd69d72093414725af4355aaf27aea94817cc6585dd647dbd97eb8dd2f309ce48535e5b652a745a0ff833abde59bf3f2021a503cd2bef10355020eca22"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/XhYMtBB9/Axiom-4.6.2-for-MC1.21.jar",
+        "sha512": "26c3c85998f3bd6d14207be9c05d19de223b11249d071127cbd4f90b4b2c92adaaf9c2178a6ea4db6f3fb1fe170250cd8d0a4055b28dcd4bffc40a8f53cc4c20"
+      },
+      "4_3_3": {
+        "name": "Axiom-4.3.3-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/SV5tgbW3/Axiom-4.3.3-for-MC1.21.jar",
+        "sha512": "775a3df575bc66dead7e14bb3d8687156b1e7afa900f008bdd4183a9ace9e2ae467a646fe5c35159fbb69bc9c18588cab09a61d7b9665c0216d6068c55644c04"
+      },
+      "4_2_0": {
+        "name": "Axiom-4.2.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CzIcKw68/Axiom-4.2.0-for-MC1.21.jar",
+        "sha512": "ff39087093d72bdd965fc80b7986ecb2bcd026dc9a25c1989153c2a1a346caadca4fd8704679dbc8215739ba5a232abad42e8631bd91e18a837aa74f2ce083a4"
+      },
+      "4_1_1": {
+        "name": "Axiom-4.1.1-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/G5Wd4EHm/Axiom-4.1.1-for-MC1.21.jar",
+        "sha512": "bdde91554e01acb4a7bd8b29d99d8d088ce8f92a6839c58ee9108ab1418ac56cff71b5c9831fe7eb9264e780b0b30560a3108018464a7141efdbbbf7345f8079"
+      },
+      "4_1_0": {
+        "name": "Axiom-4.1.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jKJqWu2o/Axiom-4.1.0-for-MC1.21.jar",
+        "sha512": "ec3ee9262c0acba81eeda51bd7b04ea224df6f937e20be26c2d4517841a2fb4932269c9e4426877e47a7fd4d7e084a452e0c63d8e614cc2a65a6c247b1de7fd4"
+      },
+      "4_0_0": {
+        "name": "Axiom-4.0.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/J7bFfUEz/Axiom-4.0.0-for-MC1.21.jar",
+        "sha512": "89f4da45595f19307f34f6c350ca2198321456300f89cbaf68a3f6b340486759c79c1c3b028fd5cc6fa329e7b9f6015a592411bc08456552eb35742e2bfb4a2d"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/JMpH3gnj/Axiom-2.8.1-for-MC1.20.6.jar",
-      "sha512": "00ba70c93f5aece20613b5272f782e3ad59e8f9c06bf3dbb0afd438d85d4f3ffe608721b825c5d82d27fc23c39e0cd9ff2f8f00942f09197eeaf5c42557ec9f4",
-      "name": "Axiom-2.8.1-for-MC1.20.6.jar"
+    "1_21": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar",
+        "sha512": "2fda388a48f29e298c36bd16031ecbe728c95c753afbb9696f02d3eb538b72758af5a8010de1b26385dec1e6549ab27fa19e1c5a070a571dce7be2b304cc3d78"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar",
+        "sha512": "2fda388a48f29e298c36bd16031ecbe728c95c753afbb9696f02d3eb538b72758af5a8010de1b26385dec1e6549ab27fa19e1c5a070a571dce7be2b304cc3d78"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/PSqi3Keg/Axiom-5.1.1-for-MC1.21.1.jar",
+        "sha512": "95fc5cdb8bf8b35fbeaaf85293004248993c7b1188800fd9ccca77e3be4b02c4c9933c4327907d2d6be224c5d1a255a6b52678b5006eb05f84ab45fe7fced223"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/3CDQu1Wy/Axiom-5.1.0-for-MC1.21.1.jar",
+        "sha512": "be2b7a473537c47896042a0fae7669e23e13e8fa42901dda606a89d632708e8cc915ac1b67a9f366dc6cde61d89691bed56a4a395f85826b0dbf0e593ff43eae"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6BFd0w5s/Axiom-5.0.1-for-MC1.21.1.jar",
+        "sha512": "798262b4de777a7fab2b32e325ca26a072e40e792301a7ad54f8ee18f97c66578828063b92ee8a1968db2f96520bc2285b8302d0ee907af3128277e7992cc901"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/YcPugeD4/Axiom-5.0.0-for-MC1.21.1.jar",
+        "sha512": "60f6b2b3761893b9f2db7632bdb2c8aefe133be54fdfe4af7193474d88a025d3ce785819446649b55d1347aa4c26bac44824104c8c97934101b8a03dc7000f83"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/fANn8SLL/Axiom-4.9.1-for-MC1.21.jar",
+        "sha512": "376b86738a80cb41c60233d5d1d6c07a513b8fba15782d7c36429bbafe15fb0a56e04c1536388ec9e768b2350b21bacc458fa9484e0268b2687851a669cd18d7"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/hZLUO9h8/Axiom-4.9.0-for-MC1.21.jar",
+        "sha512": "ee6b718a123f5e61e78d326a4207fbbb72ed624e24d9ccbcf90cb5a2c8481169ef33f39cf78578822cc3b40b85e886dffe5b6998df6466455965e6545fd60e85"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/rRNZPehD/Axiom-4.8.0-for-MC1.21.jar",
+        "sha512": "7c0107f9c8e9ac4c68be4f9e481c3537adadb23e327ea7c992186525fff0c5f97c04ec21d5a18f784f8453e69d7cca603ee3677489829de6e0648894d32cec50"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/zLBFWRoy/Axiom-4.7.1-for-MC1.21.jar",
+        "sha512": "10b7948e4ec750efe654705aeb3a98dfa571ddc90ea390c135e7b5ebe4a6719081dd6f71d7a3108996b9b4e31651e030f78d52eec646669114696cd33e480693"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Wh87z3xN/Axiom-4.7.0-for-MC1.21.jar",
+        "sha512": "05e5c0cd69d72093414725af4355aaf27aea94817cc6585dd647dbd97eb8dd2f309ce48535e5b652a745a0ff833abde59bf3f2021a503cd2bef10355020eca22"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/XhYMtBB9/Axiom-4.6.2-for-MC1.21.jar",
+        "sha512": "26c3c85998f3bd6d14207be9c05d19de223b11249d071127cbd4f90b4b2c92adaaf9c2178a6ea4db6f3fb1fe170250cd8d0a4055b28dcd4bffc40a8f53cc4c20"
+      },
+      "4_3_3": {
+        "name": "Axiom-4.3.3-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/SV5tgbW3/Axiom-4.3.3-for-MC1.21.jar",
+        "sha512": "775a3df575bc66dead7e14bb3d8687156b1e7afa900f008bdd4183a9ace9e2ae467a646fe5c35159fbb69bc9c18588cab09a61d7b9665c0216d6068c55644c04"
+      },
+      "4_2_0": {
+        "name": "Axiom-4.2.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CzIcKw68/Axiom-4.2.0-for-MC1.21.jar",
+        "sha512": "ff39087093d72bdd965fc80b7986ecb2bcd026dc9a25c1989153c2a1a346caadca4fd8704679dbc8215739ba5a232abad42e8631bd91e18a837aa74f2ce083a4"
+      },
+      "4_1_1": {
+        "name": "Axiom-4.1.1-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/G5Wd4EHm/Axiom-4.1.1-for-MC1.21.jar",
+        "sha512": "bdde91554e01acb4a7bd8b29d99d8d088ce8f92a6839c58ee9108ab1418ac56cff71b5c9831fe7eb9264e780b0b30560a3108018464a7141efdbbbf7345f8079"
+      },
+      "4_1_0": {
+        "name": "Axiom-4.1.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jKJqWu2o/Axiom-4.1.0-for-MC1.21.jar",
+        "sha512": "ec3ee9262c0acba81eeda51bd7b04ea224df6f937e20be26c2d4517841a2fb4932269c9e4426877e47a7fd4d7e084a452e0c63d8e614cc2a65a6c247b1de7fd4"
+      },
+      "4_0_0": {
+        "name": "Axiom-4.0.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/J7bFfUEz/Axiom-4.0.0-for-MC1.21.jar",
+        "sha512": "89f4da45595f19307f34f6c350ca2198321456300f89cbaf68a3f6b340486759c79c1c3b028fd5cc6fa329e7b9f6015a592411bc08456552eb35742e2bfb4a2d"
+      },
+      "3_2_1": {
+        "name": "Axiom-3.2.1-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/D3uDJmiB/Axiom-3.2.1-for-MC1.21.jar",
+        "sha512": "8636d92120df7fa3752dbf229cf80775359b6420b4f80622363aa8c90101351b35719388122f7cdb8cbee10d6e20e92597f5d393ec8955742de0df4827c502d4"
+      },
+      "3_1_0": {
+        "name": "Axiom-3.1.0-for-MC1.21.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ZJKNixEj/Axiom-3.1.0-for-MC1.21.jar",
+        "sha512": "ed818a54ae169495ec5b105d43ea1a7ecc30360408839088ab6d8e182d14a32e81942ba2efde9910c502973a68cc8e24abaaa14537f2c862b4b97b2e45a5d4bc"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ZsIoFrWf/Axiom-5.0.0-for-MC1.20.6.jar",
-      "sha512": "c89b7f5de4553d22d5024c697aa69a4e0a98366f3796240bdc9787116873e447f7528c290c7eb438eed44a4b6fccc76ffd981ec69172fc4d8a75e22a0b060ca0",
-      "name": "Axiom-5.0.0-for-MC1.20.6.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/g9XCAdk4/Axiom-5.2.1-for-MC1.20.6.jar",
+        "sha512": "8305ff3cb6cc487364fa29210160d6423bf1776bef78573392765fc53bc0cef1ab802c9379ff86f1e23a3c3c89b7184751c4edc920fe431b111c6ea042f9a538"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/g9XCAdk4/Axiom-5.2.1-for-MC1.20.6.jar",
+        "sha512": "8305ff3cb6cc487364fa29210160d6423bf1776bef78573392765fc53bc0cef1ab802c9379ff86f1e23a3c3c89b7184751c4edc920fe431b111c6ea042f9a538"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/N3sfGBGp/Axiom-5.1.1-for-MC1.20.6.jar",
+        "sha512": "a01b00bb8f3ef5bb69f8c6f89ac6155e29c43d6fda724ddd8ca5d50186b432c26ffe0c20f9fb476019bc77e390f9a3f9a1ec78422003d0cf999ec500854fda2e"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/z8OpTB0D/Axiom-5.1.0-for-MC1.20.6.jar",
+        "sha512": "04bdffa2d236696f138cb191b571656ab2a8ad32c927ff029db85d5ea9e11eeda5a3b3072715cbb21071a38713c2ca2f9e380be9171da0a8c327ab2c01a1a91a"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/tEdHj0i1/Axiom-5.0.1-for-MC1.20.6.jar",
+        "sha512": "b10c123dc2b977e5c4b85985ebe888ad60a4f375ef7db09b950f43bff7f3eaa2497343bffce3dc046ed581a40ecad3ec76c365046d10f47c17fd3d562519c255"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ZsIoFrWf/Axiom-5.0.0-for-MC1.20.6.jar",
+        "sha512": "c89b7f5de4553d22d5024c697aa69a4e0a98366f3796240bdc9787116873e447f7528c290c7eb438eed44a4b6fccc76ffd981ec69172fc4d8a75e22a0b060ca0"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/CwkGvhgL/Axiom-4.9.1-for-MC1.20.6.jar",
+        "sha512": "f5c337651a0f280ff3e74354604432d05e8462ce3f0b8d725b0b7ed4f2c10b9af2edb4e35f5e0ac572e85344910d2260be5b27302d7a5e1603ef1ad8c1756afd"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/aAycepEy/Axiom-4.9.0-for-MC1.20.6.jar",
+        "sha512": "a4ae6978b5279b0e159df6ce670fb54bf33c3622e3feda0f0521fe5064293c5bc475bb0bc962e21953466f74b30528bdc036142650614cc3ac0f2c55abc5806a"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/FmPASn7E/Axiom-4.8.0-for-MC1.20.6.jar",
+        "sha512": "5fc99c643a0624498ba74eac1775ae71e764900b792ab84ada5b46d567d764b0ce2e2213375676f9c5491985cc987e9f9004a8654db965c8a47020c1cd3bef0d"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/dUQ7K8JJ/Axiom-4.7.1-for-MC1.20.6.jar",
+        "sha512": "7d617d5c162a65f787051ce8ef929ce19da996447cab0ebf88ce5a4f3203b37903c9a79f7f22145e4838f0f317484bae872fa9bfd0e9998b6d150fc34a62c72f"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Aday5EW8/Axiom-4.7.0-for-MC1.20.6.jar",
+        "sha512": "36b1b4905e20ee45aa6d30ef5489abf52df78531485d766478dfee70eeb43b0906c401477423c7cd7376f838ae5d2c6ad887f264718a2981049a2c65c4515ce7"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/gIflHdOq/Axiom-4.6.2-for-MC1.20.6.jar",
+        "sha512": "923f0a15194f48254ea9bbf50a2daa7d3094751108d2b38191a1bdef61c2cfc494dc822533734116b36dee119d7a2cce75c721f12e9a3210a44f7f81be4c4c3e"
+      },
+      "4_1_1": {
+        "name": "Axiom-4.1.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/DmI7RgbI/Axiom-4.1.1-for-MC1.20.6.jar",
+        "sha512": "af2d1f8c50a1420b00685450b091a8ee51e9d74be65aecceef110d94d5bf13790141cd1c8770dca6664743b98de8507a036c358ec3a6d7f27a22e4fd1ad07863"
+      },
+      "4_1_0": {
+        "name": "Axiom-4.1.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/X2yKm1Y9/Axiom-4.1.0-for-MC1.20.6.jar",
+        "sha512": "afc5f99eae6014fb4b1297949f8addfc8a7906e22c888da7cb1c5da610460dce58e66bfb3daba6fab5d1fc1c5aacacc90fe92e2a7f30ca8fa1e7dffb0dbe6561"
+      },
+      "4_0_0": {
+        "name": "Axiom-4.0.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/wSAFwkzx/Axiom-4.0.0-for-MC1.20.6.jar",
+        "sha512": "40d98ef7e617f5d790e00fee614b0ae4cb31f83cedb51ab9e537ff3188a7f207762cf2694fe820f42b5a024001008c157ee19421eed0465c6fc61944cb6495f6"
+      },
+      "3_1_0": {
+        "name": "Axiom-3.1.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AhuJ1BUW/Axiom-3.1.0-for-MC1.20.6.jar",
+        "sha512": "802da161f017ff1383d15afd6947c8eb2e6303a550ea7c4afde658d605c72432409ac06e27e2bbc5140aad955fa6ea6ec6fce539dd03de58fe5c9065e4f8eaf2"
+      },
+      "3_0_0": {
+        "name": "Axiom-3.0.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/sJP1pto6/Axiom-3.0.0-for-MC1.20.6.jar",
+        "sha512": "b5cb5edb5705534c86243c03735cea4c808161b84bbcbd638b86e16990c88a0ab6f2c56449d218ce6c1ceb7ff194b43e3dae83f10123ce6bc3bcea81ba2af1cc"
+      },
+      "2_8_1": {
+        "name": "Axiom-2.8.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/JMpH3gnj/Axiom-2.8.1-for-MC1.20.6.jar",
+        "sha512": "00ba70c93f5aece20613b5272f782e3ad59e8f9c06bf3dbb0afd438d85d4f3ffe608721b825c5d82d27fc23c39e0cd9ff2f8f00942f09197eeaf5c42557ec9f4"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/XezVlNgX/Axiom-2.1.1-for-MC1.20.4.jar",
-      "sha512": "7cd60dbd47c4e452d4ef59331f141f3228a2b4f3594358178e66f9f75d80c424c7a2f09829633c9ca7af42161ef6fffbd7f545fdec934d9985727308b8fbc60d",
-      "name": "Axiom-2.1.1-for-MC1.20.4.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/g9XCAdk4/Axiom-5.2.1-for-MC1.20.6.jar",
+        "sha512": "8305ff3cb6cc487364fa29210160d6423bf1776bef78573392765fc53bc0cef1ab802c9379ff86f1e23a3c3c89b7184751c4edc920fe431b111c6ea042f9a538"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/g9XCAdk4/Axiom-5.2.1-for-MC1.20.6.jar",
+        "sha512": "8305ff3cb6cc487364fa29210160d6423bf1776bef78573392765fc53bc0cef1ab802c9379ff86f1e23a3c3c89b7184751c4edc920fe431b111c6ea042f9a538"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/N3sfGBGp/Axiom-5.1.1-for-MC1.20.6.jar",
+        "sha512": "a01b00bb8f3ef5bb69f8c6f89ac6155e29c43d6fda724ddd8ca5d50186b432c26ffe0c20f9fb476019bc77e390f9a3f9a1ec78422003d0cf999ec500854fda2e"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/z8OpTB0D/Axiom-5.1.0-for-MC1.20.6.jar",
+        "sha512": "04bdffa2d236696f138cb191b571656ab2a8ad32c927ff029db85d5ea9e11eeda5a3b3072715cbb21071a38713c2ca2f9e380be9171da0a8c327ab2c01a1a91a"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/tEdHj0i1/Axiom-5.0.1-for-MC1.20.6.jar",
+        "sha512": "b10c123dc2b977e5c4b85985ebe888ad60a4f375ef7db09b950f43bff7f3eaa2497343bffce3dc046ed581a40ecad3ec76c365046d10f47c17fd3d562519c255"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ZsIoFrWf/Axiom-5.0.0-for-MC1.20.6.jar",
+        "sha512": "c89b7f5de4553d22d5024c697aa69a4e0a98366f3796240bdc9787116873e447f7528c290c7eb438eed44a4b6fccc76ffd981ec69172fc4d8a75e22a0b060ca0"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/V0EbdJ3q/Axiom-5.0.0-for-MC1.20.4.jar",
-      "sha512": "1124cff760f454b2cd1ebbca14ce3aa1cc88d470b5f5fa7b076c591e68d2b28f8a93a83c5f3bcfcc6f84ce23e74a8d089359f281b38dae3cd033fa989f9a1004",
-      "name": "Axiom-5.0.0-for-MC1.20.4.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Vyl4ZdvR/Axiom-5.2.1-for-MC1.20.4.jar",
+        "sha512": "b70958a43853fb88b39871e8f3622be70656c552bd6d8aac2de8f315c695b4ce7f9b650a51a799b09a37fa562f378db933abb09f4ad24c69e2ba894e36a29ea5"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Vyl4ZdvR/Axiom-5.2.1-for-MC1.20.4.jar",
+        "sha512": "b70958a43853fb88b39871e8f3622be70656c552bd6d8aac2de8f315c695b4ce7f9b650a51a799b09a37fa562f378db933abb09f4ad24c69e2ba894e36a29ea5"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/PIJpPlWn/Axiom-5.1.1-for-MC1.20.4.jar",
+        "sha512": "7b591ca2cdc22576d6f37ef29e7534abf8e9943681a7c25953a64a7d4c67d8c3364d779d34424a5573d3224f946b9b27754c3c863761e39625ac2f6ec285eab3"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/kSpygzWR/Axiom-5.1.0-for-MC1.20.4.jar",
+        "sha512": "53ddd0db608dc6b95e2a262599649eeb720b500d27b2b9993fd9da93f479b7e3ee8f9e2e16ed95990c145ae6877027bfad057dc424e75b8d4f990198d3624289"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/EZW81noG/Axiom-5.0.1-for-MC1.20.4.jar",
+        "sha512": "42d0cffd4448df4a024a321d310716dd80ed28ff32cc55353c237a0725b537bc98e1243e076907fac1d5df84e6d357359909d65de400e7a8aaa101ae763b35a8"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/V0EbdJ3q/Axiom-5.0.0-for-MC1.20.4.jar",
+        "sha512": "1124cff760f454b2cd1ebbca14ce3aa1cc88d470b5f5fa7b076c591e68d2b28f8a93a83c5f3bcfcc6f84ce23e74a8d089359f281b38dae3cd033fa989f9a1004"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/qFuaR7JD/Axiom-4.9.1-for-MC1.20.4.jar",
+        "sha512": "dadabfb8aa1e8c0004b7ea44ea151fc5d20dedd70f04336e5c2dde6a1cfaa88f72c196d1eec407a88a11535b0488f066bf08566cff35be1bf0e360a9c4eeb11a"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/BGkdjhjR/Axiom-4.9.0-for-MC1.20.4.jar",
+        "sha512": "2d372d083368d0c52ab76e123974e7471b793187375e6707d1607d23227d584786a8737a62cc4648cf5314c04ec7feb443293981d4715fde8d06324e3ed7dfe8"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/FdK96v6F/Axiom-4.8.0-for-MC1.20.4.jar",
+        "sha512": "f639513cdd8eb62779eba28987ed7a6da340a6b9e363e02226f83e7843263868d919adb2f4df0403c811ec93244a18dadf2e65ab1dd7d1c579638d5d962ed893"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/rXP5zfGB/Axiom-4.7.1-for-MC1.20.4.jar",
+        "sha512": "35f084b22d87e49cdabdf1a16b2a9640d8ec9b1ce58d01afaf9e4a7133e7ee5d1ed80a1ebddcd4d904cf8f84ccd3485198740c8909528ce307b85d14281354c4"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Fh45USLO/Axiom-4.7.0-for-MC1.20.4.jar",
+        "sha512": "3a7c2293938ddf3088bed4c7bf3a9c5ec17cd768d3f86a74bfa85844acb054cf4d26d06127b3fbd3f50574c2dc416df2dccd28ae6c10a850da87696fb853a696"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/fkVGbVbX/Axiom-4.6.2-for-MC1.20.4.jar",
+        "sha512": "ae504514a25d7afd6daf5afff37064999ad27cd46b1df9881a1bcdc4a75bd8d123d9f4e153bb837d5f685edce7b0059c0177fee0743f5141a2cefc38a263eb5e"
+      },
+      "4_1_1": {
+        "name": "Axiom-4.1.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/7m2g6326/Axiom-4.1.1-for-MC1.20.4.jar",
+        "sha512": "5fe1cab07e7e2027f6741791f4a48ba217a1793b72024d577513bb1f884e98ce3b7f7bd01a8a7cd2f885dff2f593fa36895ee5146aea30770da77e813580261e"
+      },
+      "4_1_0": {
+        "name": "Axiom-4.1.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/X5usXHie/Axiom-4.1.0-for-MC1.20.4.jar",
+        "sha512": "0c44231494a6cae4d089a1e3bb0daefabefd0f23b50b1f4eaf1a5ff8ad5a3306dbbbdf6872aa4c0f39eff0244d124a16d317514f7ea45c51e67719e6e2d2c3b5"
+      },
+      "4_0_0": {
+        "name": "Axiom-4.0.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/hioxSab7/Axiom-4.0.0-for-MC1.20.4.jar",
+        "sha512": "58d2bf6023ec71a8fe631438a1e8a750ae5b6842b4eed59abc2b3296522d97653b1caf887b53167e77d162038ee2247f28dcefc64330923a79177913b813f2e7"
+      },
+      "3_0_0": {
+        "name": "Axiom-3.0.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/YxeYxQyz/Axiom-3.0.0-for-MC1.20.4.jar",
+        "sha512": "ec9c702d4ba18c71e5c91574cf5f82067d66fe2e2784c66dbbeab7b008d978674b27f1d7e9f60bdbd8c101a0240f975faa4a10d89bc27aa8b711ccd16a936977"
+      },
+      "2_8_1": {
+        "name": "Axiom-2.8.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/nvx3oDkz/Axiom-2.8.1-for-MC1.20.4.jar",
+        "sha512": "69d03406c41c788808c3ec57afb236c31e88f8757c6a01d4b9f19e2bc3cd01be949e5473d3cd872d9cd6d803e28c8ed4f3efaa61da8fcde519101f1bcf793c23"
+      },
+      "2_7_0": {
+        "name": "Axiom-2.7.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/R8ZupM8Z/Axiom-2.7.0-for-MC1.20.4.jar",
+        "sha512": "425fa7de95d6307db286944cac451992f478e632b03288a6b9d2e7afd9cb6328f25deaa1893ab98b442390f2740ac9d77b47c65b31d1893999e67590d30a48bf"
+      },
+      "2_6_1": {
+        "name": "Axiom-2.6.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/HwpT3Iuk/Axiom-2.6.1-for-MC1.20.4.jar",
+        "sha512": "c59f06d4dcd090c7a8a8bab1d633c2bcc1d11dc7c1ce34445190a76563c4582122bad8148b39c621162e43727a7308932c2eb6b8e6d28ea852f3d9e208aa6d85"
+      },
+      "2_6_0": {
+        "name": "Axiom-2.6.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/dHxHtCQF/Axiom-2.6.0-for-MC1.20.4.jar",
+        "sha512": "79ee88dab9a08dd783c564f032b46ddc39cb3c1396ac59b77d76f0935bf304eac78de31f80d74aed6954b162867d9e7195bfa9eab99e4c312eac065fba5ac834"
+      },
+      "2_5_0": {
+        "name": "Axiom-2.5.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/iOKTCwk8/Axiom-2.5.0-for-MC1.20.4.jar",
+        "sha512": "dc7a249af64aa6be0240ccd0c095d478a359dd49f0009de11b447965eba2272f26fcea15f919a94be571a00faf5cac9f30c2244aea59f0c7ab3b64417f4fe873"
+      },
+      "2_4_2": {
+        "name": "Axiom-2.4.2-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/EEgSHSxj/Axiom-2.4.2-for-MC1.20.4.jar",
+        "sha512": "27b5b4a25ea51b1683cb14f0097909b2f7394473c2dd067f779c79193ab67b29ed7a0be9eeef838311eda057d7e0274c6c14963e332fb076a20f0e1ecb019c09"
+      },
+      "2_3_1": {
+        "name": "Axiom-2.3.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Ltd8ZQ1T/Axiom-2.3.1-for-MC1.20.4.jar",
+        "sha512": "592915c99a2112290d825704acca3bda211aa47530cbeb17c371863da274da251fa12a1cd595e8a6e299dd643fbd01e7892b0ed6309ed97591c3e1bae5ebb61a"
+      },
+      "2_3_0": {
+        "name": "Axiom-2.3.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/C9raUOD6/Axiom-2.3.0-for-MC1.20.4.jar",
+        "sha512": "ca3eae8777047278aaff2f9f46045587624a58807cd2656a0a1b6e07444548646b783936dd6db8489bfa1128f54c3d280d5ce740971ca8d1028df9844ae1d77a"
+      },
+      "2_2_1": {
+        "name": "Axiom-2.2.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/mDyIR8uL/Axiom-2.2.1-for-MC1.20.4.jar",
+        "sha512": "cec07c563aba5368d4179a118df0d419d5d4902250ba79967e452dc2b2fe442c09e920d51e36567a4a5d15d208380321fbbb23e7e63c4ef7fb906b013055fb19"
+      },
+      "2_1_1": {
+        "name": "Axiom-2.1.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/XezVlNgX/Axiom-2.1.1-for-MC1.20.4.jar",
+        "sha512": "7cd60dbd47c4e452d4ef59331f141f3228a2b4f3594358178e66f9f75d80c424c7a2f09829633c9ca7af42161ef6fffbd7f545fdec934d9985727308b8fbc60d"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/adSSax3d/Axiom-1.4.1-for-MC1.20.2.jar",
-      "sha512": "c9f8e5832acd1dfb4516ae2e15643865a57b8d2ef7b18431ee45f72210227935a0d698ac92a99c658809b4fac56857b84f61b900690f8ea7d487bc2dd5261a13",
-      "name": "Axiom-1.4.1-for-MC1.20.2.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Vyl4ZdvR/Axiom-5.2.1-for-MC1.20.4.jar",
+        "sha512": "b70958a43853fb88b39871e8f3622be70656c552bd6d8aac2de8f315c695b4ce7f9b650a51a799b09a37fa562f378db933abb09f4ad24c69e2ba894e36a29ea5"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Vyl4ZdvR/Axiom-5.2.1-for-MC1.20.4.jar",
+        "sha512": "b70958a43853fb88b39871e8f3622be70656c552bd6d8aac2de8f315c695b4ce7f9b650a51a799b09a37fa562f378db933abb09f4ad24c69e2ba894e36a29ea5"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/PIJpPlWn/Axiom-5.1.1-for-MC1.20.4.jar",
+        "sha512": "7b591ca2cdc22576d6f37ef29e7534abf8e9943681a7c25953a64a7d4c67d8c3364d779d34424a5573d3224f946b9b27754c3c863761e39625ac2f6ec285eab3"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/kSpygzWR/Axiom-5.1.0-for-MC1.20.4.jar",
+        "sha512": "53ddd0db608dc6b95e2a262599649eeb720b500d27b2b9993fd9da93f479b7e3ee8f9e2e16ed95990c145ae6877027bfad057dc424e75b8d4f990198d3624289"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/EZW81noG/Axiom-5.0.1-for-MC1.20.4.jar",
+        "sha512": "42d0cffd4448df4a024a321d310716dd80ed28ff32cc55353c237a0725b537bc98e1243e076907fac1d5df84e6d357359909d65de400e7a8aaa101ae763b35a8"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/V0EbdJ3q/Axiom-5.0.0-for-MC1.20.4.jar",
+        "sha512": "1124cff760f454b2cd1ebbca14ce3aa1cc88d470b5f5fa7b076c591e68d2b28f8a93a83c5f3bcfcc6f84ce23e74a8d089359f281b38dae3cd033fa989f9a1004"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/MmM7vlcE/Axiom-1.2.4-for-MC1.20.1.jar",
-      "sha512": "c830b272ae86c41e13c82b935669246c656927227ed049575933328beb25a6ac7695ecf207228ead4c281e12e48590cfc62e12657ee238f8951c672384a12338",
-      "name": "Axiom-1.2.4-for-MC1.20.1.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6u8F62c5/Axiom-5.2.1-for-MC1.20.2.jar",
+        "sha512": "144e465b38a0ef5db3f810b66addf715dc530ccce28d22ae7e91cc70f12b239ebdbdba27787f1a30ed190f16e8ff83fbd53eb5011bc323d249dc28259ac3af3a"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/6u8F62c5/Axiom-5.2.1-for-MC1.20.2.jar",
+        "sha512": "144e465b38a0ef5db3f810b66addf715dc530ccce28d22ae7e91cc70f12b239ebdbdba27787f1a30ed190f16e8ff83fbd53eb5011bc323d249dc28259ac3af3a"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/cngISjX5/Axiom-5.1.1-for-MC1.20.2.jar",
+        "sha512": "3e52ff8bfc54e4481d62a3f9d11ae2bed8b04592ada296a4fe09cdc14e88d3ceebc9666c8f5cb6a1fbf851182443e7036993132588a2baf2412566897c18135f"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/dHXhOQ4V/Axiom-5.1.0-for-MC1.20.2.jar",
+        "sha512": "db75b0d39523ba42c4744f262fc944d192f076bcf79c6d8b404935c51148036b45fb446edfbac9e1f27f70f439ebadf54ffa4e64ca4d1b19c4118445e78e4178"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/KmC5yP3s/Axiom-5.0.1-for-MC1.20.2.jar",
+        "sha512": "26a79ee3ec52d98bccccbf8d04e4d8b3f1bc9b361840c215e27724daa7c9177b7060ab9398ed99dafa9cf13aa701ddf20ea7a8127631ef246451f22267cd2536"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/in3p3MAW/Axiom-5.0.0-for-MC1.20.2.jar",
+        "sha512": "334551d32ca40f6a93e91ec10409382fad42497a85cb4cf587ec14596e2a7b73cddec37f94683fa8bd13cbdf0dc199e6e134c11e1ab39b1652c87b7b733ed137"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/1S5EtGR4/Axiom-4.9.1-for-MC1.20.2.jar",
+        "sha512": "76159faa2d8601f080cedffaa5893c73ae1706e82f7942e29b9a4ebc88716fcab8208c258735b3bd45feb0743dd62f636727f1e1986ba36dd4131fc15cbfbfc2"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/F10ejR44/Axiom-4.9.0-for-MC1.20.2.jar",
+        "sha512": "836ffc6c2836bc9e8a8c175d09677a62ae63974947c2a96af2a0847024862c185a7cdfedd84396f80fdd144d2038e667620f2a435a786dc5b553bc4dc8e99e47"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/pfQdFwoU/Axiom-4.8.0-for-MC1.20.2.jar",
+        "sha512": "e74630924ce635603e72a4a1a93c8e4acb6282dc5a559309cc8221c5c7aa60bf32107f147dece9e193bbd345a43f16dd6371f2eb0d0c272cd46711b773ceadde"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/GDcXcALH/Axiom-4.7.1-for-MC1.20.2.jar",
+        "sha512": "fd12b06ef86608d2c41934b7c3ab13b37d4c9e4fe71dd0d670939702c54865293c3a5ac83f3c517cae579f98d7b943e22dce67bc0acaf7531d81f24a2bbe7f11"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/5zLq0WjY/Axiom-4.7.0-for-MC1.20.2.jar",
+        "sha512": "0126062755b5105c378b0aab8b84a52da81a6b419910df8dba555a5f1acd6192d4fc7974f9f9e87538a4c8a229c9575fa137fec5818db296cf00a923b4c391f7"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/fHzVxZtS/Axiom-4.6.2-for-MC1.20.2.jar",
+        "sha512": "5f95f061704b7b327242895af5e6058c5b469930f1ee1678c2b95911558d4bfcbf608b936dee6faaae69cbe24a72d2ed4947e14df930924fed829e4057de0136"
+      },
+      "4_1_1": {
+        "name": "Axiom-4.1.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/xh0psFMC/Axiom-4.1.1-for-MC1.20.2.jar",
+        "sha512": "1276b40462b14f996e97a7ff7d593d66cdfd9410c1795f5941e8d6d136cd0018b7da4155d774b7827fa0782afb40b93d96c15ee0c58bc1cd23a1cd2cbf2d29f0"
+      },
+      "4_1_0": {
+        "name": "Axiom-4.1.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/D5vfdfLZ/Axiom-4.1.0-for-MC1.20.2.jar",
+        "sha512": "46834dd9a1714c59eb66479211fac34f685865d7df79795cbb8b3ddbbd3bfb3c2598132e2c0b22675f700369c89263e6ccb9498da440c7ab960263464487057d"
+      },
+      "4_0_0": {
+        "name": "Axiom-4.0.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/TpMqeuC1/Axiom-4.0.0-for-MC1.20.2.jar",
+        "sha512": "ab2c60d43124d8ab8da5a55c6d6e300ed78f7d61b8d7c451454a477802f017ee3fdae7477fc8cf7120ac8522963838be7f3d59baba135dcd49c01e484e31fc88"
+      },
+      "3_0_0": {
+        "name": "Axiom-3.0.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/44K4HMS0/Axiom-3.0.0-for-MC1.20.2.jar",
+        "sha512": "81f330ad62b00d20a8ae39605fa511bc8d5cd504300a26bdb18dc384c6d9c7c65641803c55ec5e39bbd8d5df7523896585779dc83ee01f5a2b045e8250850183"
+      },
+      "2_8_1": {
+        "name": "Axiom-2.8.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/mQ4Cy8Zr/Axiom-2.8.1-for-MC1.20.2.jar",
+        "sha512": "041b89dbb2a5282f2dfa56b43e43eac0a628ae23442b0c29c93b4fdb80104ceef77608c116c1df855a03e35bb1441fdd8dd90e75ea6d15c52dcfc4ddafb08102"
+      },
+      "2_7_0": {
+        "name": "Axiom-2.7.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/EHj9GjgU/Axiom-2.7.0-for-MC1.20.2.jar",
+        "sha512": "c6ed38ecd8e8e6d4c2d3d000d2f54777cee55fdf3e381fa0e22b54f6a5cf627c443d4d0238751db26dba96f38f0f8ca27204e37b24558b6a47d8d3be92d877bc"
+      },
+      "2_6_1": {
+        "name": "Axiom-2.6.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/LHORZ9jq/Axiom-2.6.1-for-MC1.20.2.jar",
+        "sha512": "ab3de7dfd57b1d8d6f688ae9dba8c3d894826cf676e6c8cfcb8241afa45cd4383daee671103482b139a3bf39ad18c5a8a338583c4a0b104410becc97e0e97de8"
+      },
+      "2_6_0": {
+        "name": "Axiom-2.6.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/O8IVH1mN/Axiom-2.6.0-for-MC1.20.2.jar",
+        "sha512": "48840702c64030b6734fa03a3acd0a10339ba8f0a297a36d1412d62dd6b8901aa49c1d6c8d1146db60590fdac7a7cffcf4d9c55fef18311a346d0b89bb2245c3"
+      },
+      "2_5_0": {
+        "name": "Axiom-2.5.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/i5FK63uT/Axiom-2.5.0-for-MC1.20.2.jar",
+        "sha512": "b875a7e63593baa4736452a4616ba1d7a197a4bd3efc22f2a579c71c09c501ab1ecb3bb4679aa5eb38fb9d6779ff293c9ee669080e2b11151bb60f19e1ff9830"
+      },
+      "2_4_2": {
+        "name": "Axiom-2.4.2-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/QzvetMRk/Axiom-2.4.2-for-MC1.20.2.jar",
+        "sha512": "2ac63d2964567d68e38a733df69c3bfb9984ce8d0971a80902ed47c6cb7061d907aa96951e5d25915fb1979a08745d85c2fee8594d7c3a3ad4f285e2e69dafe2"
+      },
+      "2_3_1": {
+        "name": "Axiom-2.3.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/VQgZdjLa/Axiom-2.3.1-for-MC1.20.2.jar",
+        "sha512": "7928e6bd8c6ce982f70a1f38a003d546eb061c0c16eb9ecd8f0e6a45522d8825a08b9a71446544a85b393f28cf6e570f4377cf7a8e3df003d55790253c6ca600"
+      },
+      "2_3_0": {
+        "name": "Axiom-2.3.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/N6gqKPhv/Axiom-2.3.0-for-MC1.20.2.jar",
+        "sha512": "f3bd32b66c9bfb9266ef3f53ae231fb65bcc31fefa25932e8a17cfec687e3128f1b14ff99f15fdafc81e382ce9ae66f33ae73a94bf3a995c2ed3752c1ea62c6c"
+      },
+      "2_2_1": {
+        "name": "Axiom-2.2.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/ACv2vsdT/Axiom-2.2.1-for-MC1.20.2.jar",
+        "sha512": "4585a997dcc304f0c55a8db640dd94bd5ec558c06ceeeb599bade3bea67ad06ef519f949a9126c819babdb1047ed196114665e0fa442188fe6aa7fe404e1f5e8"
+      },
+      "2_1": {
+        "name": "Axiom-2.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/1uBNErGJ/Axiom-2.1-for-MC1.20.2.jar",
+        "sha512": "18d5b3b30226c313f899c4eb0868fbca604c9b92b845bb79beb2ace48d858c871dcb2739981ec31a0c72ee13b3a60b5398ef4b8013e5569d8908add74948ac8b"
+      },
+      "2_0_0": {
+        "name": "Axiom-2.0.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/PHQTt8T9/Axiom-2.0.0-for-MC1.20.2.jar",
+        "sha512": "cca28c46dcb00690a73bb3136d9f2c11014ea97e5122b7f07b698ecb8c8265e6795065e4d46e90bd6ee7477b07c38f447de48dfe2f538f68cf8fc507d66292af"
+      },
+      "1_5_1": {
+        "name": "Axiom-1.5.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/IMAETzr8/Axiom-1.5.1-for-MC1.20.2.jar",
+        "sha512": "a432f542a6c07581b30343fb21aca07c77d302841b584d232e684f0b7875ffdb631ee63d46b464e731509679e88aae65de90f3bf7a0cc1e5ad482e178d12478f"
+      },
+      "1_5_0": {
+        "name": "Axiom-1.5.0-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/AMDwf8zs/Axiom-1.5.0-for-MC1.20.2.jar",
+        "sha512": "18c870106086fd68fcb849fd848276e0058ce86551e1c1af55f4bbf82593576f851496e49d55110f716b1e9ba962e11b1539827a660bd704457d06bbfacbff7f"
+      },
+      "1_4_1": {
+        "name": "Axiom-1.4.1-for-MC1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/adSSax3d/Axiom-1.4.1-for-MC1.20.2.jar",
+        "sha512": "c9f8e5832acd1dfb4516ae2e15643865a57b8d2ef7b18431ee45f72210227935a0d698ac92a99c658809b4fac56857b84f61b900690f8ea7d487bc2dd5261a13"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/MmM7vlcE/Axiom-1.2.4-for-MC1.20.1.jar",
-      "sha512": "c830b272ae86c41e13c82b935669246c656927227ed049575933328beb25a6ac7695ecf207228ead4c281e12e48590cfc62e12657ee238f8951c672384a12338",
-      "name": "Axiom-1.2.4-for-MC1.20.1.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/KYfgWqQU/Axiom-5.2.1-for-MC1.20.1.jar",
+        "sha512": "f73c23ed91f4313da7385ea015d27d044703b00a0608870aa836554061bb056b07e709111e8ba33b97ddf31a9a71aa83d482a76f6b8fc83951bba492d2c019c7"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/KYfgWqQU/Axiom-5.2.1-for-MC1.20.1.jar",
+        "sha512": "f73c23ed91f4313da7385ea015d27d044703b00a0608870aa836554061bb056b07e709111e8ba33b97ddf31a9a71aa83d482a76f6b8fc83951bba492d2c019c7"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/XVGX75oo/Axiom-5.1.1-for-MC1.20.1.jar",
+        "sha512": "28aaa25ae532b29a03222202dfe17d3c18b8d6680d8f0b15657e335e3e7ea2242b3e835c32bd9378254b140d823f18733be83e3a53907f27ffbf7cc2734c8caa"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/hO2LX0sy/Axiom-5.1.0-for-MC1.20.1.jar",
+        "sha512": "3940e681133bf025d39f761de410689d73cf4cdb62bf1d92cdc0881160112bf7ea09377e2f7d562df9a5f4902cc58b262d5f283d6f5e73e123d51269cfed340c"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/vB362zR0/Axiom-5.0.1-for-MC1.20.1.jar",
+        "sha512": "186f8cce6cd067354da665a6da8f1c8174efbfe3345d8136c5edc11211435260dae6728d248fd4fb61b16f54d73f0d7047367510e3d06e2735a820a89e41a07f"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/SN8waVps/Axiom-5.0.0-for-MC1.20.1.jar",
+        "sha512": "b2b552525f4c64488746d499b3eaa8862679d07cbb57e6284c51af312376d7fbabda7a1fbbf19b00b401045723692684f5b77034d84dcddc507f7b0b141238a3"
+      },
+      "4_9_1": {
+        "name": "Axiom-4.9.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/PJcr6FKc/Axiom-4.9.1-for-MC1.20.1.jar",
+        "sha512": "7325338b80a637dab01e67ed685204ed092b3420c295e529b77ef1607adfdc326489def942d364e9ee5f8e36b4f83b79ff9e57d11b4094229b42790d226b0526"
+      },
+      "4_9_0": {
+        "name": "Axiom-4.9.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/WAZZ843m/Axiom-4.9.0-for-MC1.20.1.jar",
+        "sha512": "3fa4e841491e4d3568468cb3a6f0b6db220f84ac011287dc49fd4987cc1d84c9e35c8d7b5e11986263e09a153142a72b0f8ac62f68dd86e33799958f15eb4f8f"
+      },
+      "4_8_0": {
+        "name": "Axiom-4.8.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/61myQqfU/Axiom-4.8.0-for-MC1.20.1.jar",
+        "sha512": "a55f572c5daa7afb90f7008c43672b5e3ffe9a5265b45cff684edf4e8817d3a78656fb9f1abcca71cdcb38ddadab0b9d4570a321a29f30aafeadd07bb64cce9f"
+      },
+      "4_7_1": {
+        "name": "Axiom-4.7.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/V2yrnNhH/Axiom-4.7.1-for-MC1.20.1.jar",
+        "sha512": "df46824e9a43a75782e4892290f7ecf3ec0d7234ab9cc86c0909583072ea4e8f112e2becf270d51b425a0e7f03423e36b7f8b099d9bfc2391f36b55365702702"
+      },
+      "4_7_0": {
+        "name": "Axiom-4.7.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/lFGSWhUT/Axiom-4.7.0-for-MC1.20.1.jar",
+        "sha512": "b93faf17285e4a2799593b1110387cc3d6816174faa94efdad940ffae6523d4351494e9da3a2bb3b4cca14ac0966a16125afcdd9e101ac0255d5fae766f31a91"
+      },
+      "4_6_2": {
+        "name": "Axiom-4.6.2-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jGbJ87UX/Axiom-4.6.2-for-MC1.20.1.jar",
+        "sha512": "0530d968aad55fe15df2bbb0a92c32cc84a8d6b7152054fccfdee376683cd543c4690852654531c8e335dee01470d5516576613a37dbc5b01fd333acaf675618"
+      },
+      "4_1_1": {
+        "name": "Axiom-4.1.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/fF4DLfEA/Axiom-4.1.1-for-MC1.20.1.jar",
+        "sha512": "6262a8ccc41502510e87ea1a7e2b9f36adce3c874ec0169ee9191fde42247f342ce8fc2aa8fe30ba3ce540f6422365d0db9a0b707ed9ef470ea4e69a84feb192"
+      },
+      "4_1_0": {
+        "name": "Axiom-4.1.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/QFc9AHOI/Axiom-4.1.0-for-MC1.20.1.jar",
+        "sha512": "fa393066d74f828b0a06415cb26345641f35686451f759c1e33604d1cdb96663165c09b4d0d891b3dbad49df9848ff7ece8081d82a76e77a76759456cb6541a7"
+      },
+      "4_0_0": {
+        "name": "Axiom-4.0.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/M88XraTI/Axiom-4.0.0-for-MC1.20.1.jar",
+        "sha512": "777c42178761aed245fcbf4d0b376523ee73f760429fe201097d030354b915858b097efe7e75e7ee784057bfa1de6f1c8eaa06768d0c09c16bb4a0c095c81e9a"
+      },
+      "3_2_1": {
+        "name": "Axiom-3.2.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/f9pguExv/Axiom-3.2.1-for-MC1.20.1.jar",
+        "sha512": "7bc42ccd93383a096743423de40fdcca15d3a2e9d5ce4d3fa334b2e12590e1c3ea57910a0258bcd12f611d234b0b550e7b611abc41abd29ef90aec102eafd773"
+      },
+      "3_0_0": {
+        "name": "Axiom-3.0.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Mq7PFqq2/Axiom-3.0.0-for-MC1.20.1.jar",
+        "sha512": "2e89b4ead41188c6b72f898c3709f30a7a2f5f2f6cb63df4fa22269930225c8ff267eada1dc3aef44f1917c7f56401e44ad9b70832c108310e77638b9db97fec"
+      },
+      "2_8_1": {
+        "name": "Axiom-2.8.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/JJt0NDC2/Axiom-2.8.1-for-MC1.20.1.jar",
+        "sha512": "e8505478e4917302cd04439519eb908cf32115eb4c0219d417e18baddc45277ff13c99090ea84d2a5192986fc147b36aeee77fde165d65895104d76ec8212a54"
+      },
+      "2_7_0": {
+        "name": "Axiom-2.7.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/mtS53yIh/Axiom-2.7.0-for-MC1.20.1.jar",
+        "sha512": "96dc8da1357d7848818abd0bf76b9e532a7f1a8f226895847c97b4ba1859f456cca01509807309b93191c0c71fd3d31ecbc8f08d9ee73e93893852951196514f"
+      },
+      "2_6_1": {
+        "name": "Axiom-2.6.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/U3qYoEkI/Axiom-2.6.1-for-MC1.20.1.jar",
+        "sha512": "53f5b53e064416d179b8117a802b0cb37efdefeee2b6f9d1535ab52cbe30ba6b80a8a7efea8c77dd7cb3778590744a3f249f3eee0c00dc53c94bb132b34e1805"
+      },
+      "2_6_0": {
+        "name": "Axiom-2.6.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/DA6n6owm/Axiom-2.6.0-for-MC1.20.1.jar",
+        "sha512": "bd9f63a9a78199e99215ae7a84a55fee813721c4b55f4efbabf842d8a5b2cb01a775f208a66a08488fb73575010235e1bdf777687d8280bbe27195383fcb46c2"
+      },
+      "2_5_0": {
+        "name": "Axiom-2.5.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/zbfjgSFu/Axiom-2.5.0-for-MC1.20.1.jar",
+        "sha512": "b33b718044289cabe69e254af3226ef4e477caded3d2741b4569e346827ffac28ab08b20dcf3fe8b94cba0ec3dca3abdc8d6948d7ddd3bbbc768f0519086a052"
+      },
+      "2_4_2": {
+        "name": "Axiom-2.4.2-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/xxOxKTE4/Axiom-2.4.2-for-MC1.20.1.jar",
+        "sha512": "c261d5afa643d029853c601b92cf04fb237fef262e1428dcab538516facfdd850107354c1f4c511a15fcc1fcbed6761efc6b253df8688dfa674225c4fba2dbd7"
+      },
+      "2_3_1": {
+        "name": "Axiom-2.3.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/JHkjf3Fe/Axiom-2.3.1-for-MC1.20.1.jar",
+        "sha512": "93f4d61d01d6dcb7c6deb93bd5ff6f331ad57b01c9ad11b8dbcef819ad64a135ab446b349dcf9c914503147e00dacfb284ef64a2146c6738d15e8d0cfbf7e49a"
+      },
+      "2_3_0": {
+        "name": "Axiom-2.3.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/NzYRD4Y9/Axiom-2.3.0-for-MC1.20.1.jar",
+        "sha512": "90eaee02fa047c6674e3fd0674f8d4360d81e6874ca2de197621a0fd7a636d6205b8ce0571ba004cc7abb8ca2e9bf67d60d808e930dcc0a5e807d56f74fc31de"
+      },
+      "1_5_1": {
+        "name": "Axiom-1.5.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jAGJoszd/Axiom-1.5.1-for-MC1.20.1.jar",
+        "sha512": "4b1bdbb2fc84221b331fd8d6cecf070d5fc5773eb2c891490db4c34e2b301467faba57fba0a900fb789f7ee6d7a1bcaad83a9169acd718278adfc3245c14f27f"
+      },
+      "1_4_0": {
+        "name": "Axiom-1.4.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/7wc4Pk29/Axiom-1.4.0-for-MC1.20.1.jar",
+        "sha512": "2e3e015b73ae96b1607de9951df51986aba374e65f6e341d2acf9059041ddad6c8596172c3f64ddc3cc3cdfef7352ead146fa1a4a817a0e5062297a1387cc655"
+      },
+      "1_3_2": {
+        "name": "Axiom-1.3.2-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Ky4AtMTv/Axiom-1.3.2-for-MC1.20.1.jar",
+        "sha512": "4f5c03ea45aa73dad1a4fb096502eed43cd5e3e8b853f83a0b3c9888d13219cbf0a94c56ca39636d308f448f13d53e81a01ca89be57e51acc70e19e87b2b962e"
+      },
+      "1_3_0": {
+        "name": "Axiom-1.3.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/urm6fIfj/Axiom-1.3.0-for-MC1.20.1.jar",
+        "sha512": "47bd80f975de5601b192846d386f80e7fb492ad44ee70dbdd5accdc937d974a84004094a08b575a5f80789553a8aa19c39d6f8f9d90ef2a97f8172e62425b0fe"
+      },
+      "1_2_4": {
+        "name": "Axiom-1.2.4-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/MmM7vlcE/Axiom-1.2.4-for-MC1.20.1.jar",
+        "sha512": "c830b272ae86c41e13c82b935669246c656927227ed049575933328beb25a6ac7695ecf207228ead4c281e12e48590cfc62e12657ee238f8951c672384a12338"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "Axiom-5.2.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/KYfgWqQU/Axiom-5.2.1-for-MC1.20.1.jar",
+        "sha512": "f73c23ed91f4313da7385ea015d27d044703b00a0608870aa836554061bb056b07e709111e8ba33b97ddf31a9a71aa83d482a76f6b8fc83951bba492d2c019c7"
+      },
+      "5_2_1": {
+        "name": "Axiom-5.2.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/KYfgWqQU/Axiom-5.2.1-for-MC1.20.1.jar",
+        "sha512": "f73c23ed91f4313da7385ea015d27d044703b00a0608870aa836554061bb056b07e709111e8ba33b97ddf31a9a71aa83d482a76f6b8fc83951bba492d2c019c7"
+      },
+      "5_1_1": {
+        "name": "Axiom-5.1.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/XVGX75oo/Axiom-5.1.1-for-MC1.20.1.jar",
+        "sha512": "28aaa25ae532b29a03222202dfe17d3c18b8d6680d8f0b15657e335e3e7ea2242b3e835c32bd9378254b140d823f18733be83e3a53907f27ffbf7cc2734c8caa"
+      },
+      "5_1_0": {
+        "name": "Axiom-5.1.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/hO2LX0sy/Axiom-5.1.0-for-MC1.20.1.jar",
+        "sha512": "3940e681133bf025d39f761de410689d73cf4cdb62bf1d92cdc0881160112bf7ea09377e2f7d562df9a5f4902cc58b262d5f283d6f5e73e123d51269cfed340c"
+      },
+      "5_0_1": {
+        "name": "Axiom-5.0.1-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/vB362zR0/Axiom-5.0.1-for-MC1.20.1.jar",
+        "sha512": "186f8cce6cd067354da665a6da8f1c8174efbfe3345d8136c5edc11211435260dae6728d248fd4fb61b16f54d73f0d7047367510e3d06e2735a820a89e41a07f"
+      },
+      "5_0_0": {
+        "name": "Axiom-5.0.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/SN8waVps/Axiom-5.0.0-for-MC1.20.1.jar",
+        "sha512": "b2b552525f4c64488746d499b3eaa8862679d07cbb57e6284c51af312376d7fbabda7a1fbbf19b00b401045723692684f5b77034d84dcddc507f7b0b141238a3"
+      },
+      "1_4_0": {
+        "name": "Axiom-1.4.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/7wc4Pk29/Axiom-1.4.0-for-MC1.20.1.jar",
+        "sha512": "2e3e015b73ae96b1607de9951df51986aba374e65f6e341d2acf9059041ddad6c8596172c3f64ddc3cc3cdfef7352ead146fa1a4a817a0e5062297a1387cc655"
+      },
+      "1_3_2": {
+        "name": "Axiom-1.3.2-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/Ky4AtMTv/Axiom-1.3.2-for-MC1.20.1.jar",
+        "sha512": "4f5c03ea45aa73dad1a4fb096502eed43cd5e3e8b853f83a0b3c9888d13219cbf0a94c56ca39636d308f448f13d53e81a01ca89be57e51acc70e19e87b2b962e"
+      },
+      "1_3_0": {
+        "name": "Axiom-1.3.0-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/urm6fIfj/Axiom-1.3.0-for-MC1.20.1.jar",
+        "sha512": "47bd80f975de5601b192846d386f80e7fb492ad44ee70dbdd5accdc937d974a84004094a08b575a5f80789553a8aa19c39d6f8f9d90ef2a97f8172e62425b0fe"
+      },
+      "1_2_4": {
+        "name": "Axiom-1.2.4-for-MC1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/MmM7vlcE/Axiom-1.2.4-for-MC1.20.1.jar",
+        "sha512": "c830b272ae86c41e13c82b935669246c656927227ed049575933328beb25a6ac7695ecf207228ead4c281e12e48590cfc62e12657ee238f8951c672384a12338"
+      }
     }
   }
 }

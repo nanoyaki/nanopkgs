@@ -1,163 +1,1314 @@
 {
-  "neoforge": {
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/w7CLpegm/noisium-neoforge-2.7.0%2Bmc1.21.6.jar",
-      "sha512": "630c548e15d161c56991083d0ec2fc788bb873344628ca1ae65cc799278fad2dfa88e761b3a28456822d351fd687cf3ce7d967426cd2bd4e879984a028369809",
-      "name": "noisium-neoforge-2.7.0+mc1.21.6.jar"
+  "quilt": {
+    "1_21_6": {
+      "latest": {
+        "name": "noisium-fabric-2.7.0+mc1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/V9mMIy0f/noisium-fabric-2.7.0%2Bmc1.21.6.jar",
+        "sha512": "80cc286f3a51b2d12304ef6a44f84c11d67cedec1a02fbaf59e2e816d9b5f0abd17cc6b5a0ca5880935e9dadfea3b951b790ee1e54300c009bc419c1c7451785"
+      },
+      "2_7_0+mc": {
+        "name": "noisium-fabric-2.7.0+mc1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/V9mMIy0f/noisium-fabric-2.7.0%2Bmc1.21.6.jar",
+        "sha512": "80cc286f3a51b2d12304ef6a44f84c11d67cedec1a02fbaf59e2e816d9b5f0abd17cc6b5a0ca5880935e9dadfea3b951b790ee1e54300c009bc419c1c7451785"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/O5zHGVkQ/noisium-neoforge-2.6.0%2Bmc1.21.5.jar",
-      "sha512": "b404a6d9a77143f7c2c9a2f0db854f204f10544d359dc1fb5211bbe5ae9e12b5853c42a39db107c7bd18f8bdff394bb2914d86ce398fd8d856f69528b57677ad",
-      "name": "noisium-neoforge-2.6.0+mc1.21.5.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "noisium-fabric-2.6.0+mc1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/sUh67T4Y/noisium-fabric-2.6.0%2Bmc1.21.5.jar",
+        "sha512": "4471b6137de7e2109987df8fe62ac836741e68ba3c57303a0f2dc362c0ab8e7aca656d28046e250362316c1144396132a5531dfb12b5a664c68eb294991af938"
+      },
+      "2_6_0+mc": {
+        "name": "noisium-fabric-2.6.0+mc1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/sUh67T4Y/noisium-fabric-2.6.0%2Bmc1.21.5.jar",
+        "sha512": "4471b6137de7e2109987df8fe62ac836741e68ba3c57303a0f2dc362c0ab8e7aca656d28046e250362316c1144396132a5531dfb12b5a664c68eb294991af938"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5JoGTWve/noisium-neoforge-2.5.0%2Bmc1.21.4.jar",
-      "sha512": "c54ebd29b21936b660ac32a2fbe174e6f3c7ea855054de016581754ae5afd968ecd67bd49fd23b70ce84b38e28b1ed82fc32d292712769e47be48684254f62ba",
-      "name": "noisium-neoforge-2.5.0+mc1.21.4.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "noisium-fabric-2.5.0+mc1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/9NHdQfkN/noisium-fabric-2.5.0%2Bmc1.21.4.jar",
+        "sha512": "3119f9325a9ce13d851d4f6eddabade382222c80296266506a155f8e12f32a195a00a75c40a8d062e4439f5a7ef66f3af9a46f9f3b3cb799f3b66b73ca2edee8"
+      },
+      "2_5_0+mc": {
+        "name": "noisium-fabric-2.5.0+mc1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/9NHdQfkN/noisium-fabric-2.5.0%2Bmc1.21.4.jar",
+        "sha512": "3119f9325a9ce13d851d4f6eddabade382222c80296266506a155f8e12f32a195a00a75c40a8d062e4439f5a7ef66f3af9a46f9f3b3cb799f3b66b73ca2edee8"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rx8Lh6ko/noisium-neoforge-2.4.0%2Bmc1.21.2-1.21.3.jar",
-      "sha512": "0ea3020a4fe1ef871ce2d941ed8ab45a859f91661595a43884d92188ff1429439c81b8962f27ae4e209c5594210e7ddc722bfd3b6767fef232a433c823f3c26a",
-      "name": "noisium-neoforge-2.4.0+mc1.21.2-1.21.3.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      },
+      "2_4_0+mc1_21_2": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rx8Lh6ko/noisium-neoforge-2.4.0%2Bmc1.21.2-1.21.3.jar",
-      "sha512": "0ea3020a4fe1ef871ce2d941ed8ab45a859f91661595a43884d92188ff1429439c81b8962f27ae4e209c5594210e7ddc722bfd3b6767fef232a433c823f3c26a",
-      "name": "noisium-neoforge-2.4.0+mc1.21.2-1.21.3.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      },
+      "2_4_0+mc1_21_3": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/nJBE6tif/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar",
-      "sha512": "b50c37d2f69d51742d4407d272cea525b428784d2a39338d34b692937320495cd77d47b2d2321b3976713447028f50823e9ba44ca618900eba4ced907985ec84",
-      "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      },
+      "2_3_0+mc_21_1": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/a8Lct5Zz/noisium-neoforge-2.2.0%2Bmc1.21.jar",
-      "sha512": "9d3ea4377fdaa7ab8ad37593a2b2201db122388e28c92276a94f652026d8012653941bec3ce759c778b6be87cf808895c08ca64ad0bfbd6cfde98816203a9b59",
-      "name": "noisium-neoforge-2.2.0+mc1.21.jar"
+    "1_21": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      },
+      "2_3_0+mc_1": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      },
+      "2_2_1+mc": {
+        "name": "noisium-fabric-2.2.1+mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/W8V2bkLB/noisium-fabric-2.2.1%2Bmc1.21.jar",
+        "sha512": "24a280f59981f0ea8ecdc1a517ed74ac7d57e33b519e950c393061f299443e3487e4eab4dfe986a1934f38a2c636819c9f0d027c729dffccdd58ff5f8e04807b"
+      },
+      "2_2_0+mc": {
+        "name": "noisium-fabric-2.2.0+mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZXBMeSZ0/noisium-fabric-2.2.0%2Bmc1.21.jar",
+        "sha512": "fdc8bf7ebca158993f92e51563fa4e2622f66cb18d11b7a17b02421203b6921a6fcc26d04ae7779ca5e76b0e452415b05c5c9b8c29ecb1331c44ea4da186db98"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4UzpW73F/noisium-neoforge-2.1.0%2Bmc1.20.5-1.20.6.jar",
-      "sha512": "6afb877769120695e12df453f33deaf2cee877751144004b57b32841d6687d1820d33f5fda7071053dfc3d5c7ef7b3f0907172a2056aed02138415b650832f76",
-      "name": "noisium-neoforge-2.1.0+mc1.20.5-1.20.6.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_3_0+mc1_20_5": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_2_2+mc1_20_5": {
+        "name": "noisium-fabric-2.2.2+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/J0TGYoKa/noisium-fabric-2.2.2%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "3ff51ba01249b073f29e15a4cb2369767b6d7d59bc1d34b178248779ba39c4cb93dc1b5ccf61bc847cc7ec33757810b7a179f9d669db016ff4671a1b90574495"
+      },
+      "2_1_0+mc1_20_5": {
+        "name": "noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lT2Jvcwv/noisium-fabric-2.1.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "a5eea5981be51d0aaa8e13568197454d27e58c34091e535e27bd8729f3085ddb53b0fa11e374b182f8230986341d1c1143c80f32e7eecf19709f4eba3b509052"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4UzpW73F/noisium-neoforge-2.1.0%2Bmc1.20.5-1.20.6.jar",
-      "sha512": "6afb877769120695e12df453f33deaf2cee877751144004b57b32841d6687d1820d33f5fda7071053dfc3d5c7ef7b3f0907172a2056aed02138415b650832f76",
-      "name": "noisium-neoforge-2.1.0+mc1.20.5-1.20.6.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_3_0+mc1_20_6": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_2_2+mc1_20_6": {
+        "name": "noisium-fabric-2.2.2+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/J0TGYoKa/noisium-fabric-2.2.2%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "3ff51ba01249b073f29e15a4cb2369767b6d7d59bc1d34b178248779ba39c4cb93dc1b5ccf61bc847cc7ec33757810b7a179f9d669db016ff4671a1b90574495"
+      },
+      "2_1_0+mc1_20_6": {
+        "name": "noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lT2Jvcwv/noisium-fabric-2.1.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "a5eea5981be51d0aaa8e13568197454d27e58c34091e535e27bd8729f3085ddb53b0fa11e374b182f8230986341d1c1143c80f32e7eecf19709f4eba3b509052"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Lb9x1xj2/noisium-neoforge-2.0.2%2Bmc1.20.2-1.20.4.jar",
-      "sha512": "d81d61f4a9f443fd10832a431bea652e9a2f5fb9eff30f235bf95598dff0cc836521bc116aca4248a410c6cf7fb66c47f42d4a8d2bde1fc29d358c95c3803d39",
-      "name": "noisium-neoforge-2.0.2+mc1.20.2-1.20.4.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_3_0+mc1_20_2": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_2_2+mc1_20_2": {
+        "name": "noisium-fabric-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yYC221hL/noisium-fabric-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "b98cb7d386ce3b1bb16b78430272e80a72c7fb303ac656ae025aeba9f01cb72a1d7c9cf30d529c9236e74e253140e113ad3f08bb52f97fb8993853c3c397cd56"
+      },
+      "2_0_3+mc1_20_2": {
+        "name": "noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Eie3f6ki/noisium-fabric-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "55a73e9df7b51ef7632b14955faa0a536a75fedfc8bbf7a4fea02d082e121f989480ba9276f3e2461b787dd79e98c439402f7d5355c0b0d27f15b38189448698"
+      },
+      "2_0_2+mc1_20_2": {
+        "name": "noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZgEmwDsG/noisium-fabric-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "8bc599d66e5d8bd4a7a3aa119b242262b9148b40bfcacd44ffdfe5e4f49332338d21c269916b85acea5e66dbb2819e72eb25f91d0cee12398fab54da63830948"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Lb9x1xj2/noisium-neoforge-2.0.2%2Bmc1.20.2-1.20.4.jar",
-      "sha512": "d81d61f4a9f443fd10832a431bea652e9a2f5fb9eff30f235bf95598dff0cc836521bc116aca4248a410c6cf7fb66c47f42d4a8d2bde1fc29d358c95c3803d39",
-      "name": "noisium-neoforge-2.0.2+mc1.20.2-1.20.4.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_3_0+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_2_2+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yYC221hL/noisium-fabric-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "b98cb7d386ce3b1bb16b78430272e80a72c7fb303ac656ae025aeba9f01cb72a1d7c9cf30d529c9236e74e253140e113ad3f08bb52f97fb8993853c3c397cd56"
+      },
+      "2_0_3+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Eie3f6ki/noisium-fabric-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "55a73e9df7b51ef7632b14955faa0a536a75fedfc8bbf7a4fea02d082e121f989480ba9276f3e2461b787dd79e98c439402f7d5355c0b0d27f15b38189448698"
+      },
+      "2_0_2+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZgEmwDsG/noisium-fabric-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "8bc599d66e5d8bd4a7a3aa119b242262b9148b40bfcacd44ffdfe5e4f49332338d21c269916b85acea5e66dbb2819e72eb25f91d0cee12398fab54da63830948"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Lb9x1xj2/noisium-neoforge-2.0.2%2Bmc1.20.2-1.20.4.jar",
-      "sha512": "d81d61f4a9f443fd10832a431bea652e9a2f5fb9eff30f235bf95598dff0cc836521bc116aca4248a410c6cf7fb66c47f42d4a8d2bde1fc29d358c95c3803d39",
-      "name": "noisium-neoforge-2.0.2+mc1.20.2-1.20.4.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_3_0+mc1_20_4": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_2_2+mc1_20_4": {
+        "name": "noisium-fabric-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yYC221hL/noisium-fabric-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "b98cb7d386ce3b1bb16b78430272e80a72c7fb303ac656ae025aeba9f01cb72a1d7c9cf30d529c9236e74e253140e113ad3f08bb52f97fb8993853c3c397cd56"
+      },
+      "2_0_3+mc1_20_4": {
+        "name": "noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Eie3f6ki/noisium-fabric-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "55a73e9df7b51ef7632b14955faa0a536a75fedfc8bbf7a4fea02d082e121f989480ba9276f3e2461b787dd79e98c439402f7d5355c0b0d27f15b38189448698"
+      },
+      "2_0_2+mc1_20_4": {
+        "name": "noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZgEmwDsG/noisium-fabric-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "8bc599d66e5d8bd4a7a3aa119b242262b9148b40bfcacd44ffdfe5e4f49332338d21c269916b85acea5e66dbb2819e72eb25f91d0cee12398fab54da63830948"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_3_0+mc_20_1": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_2_2+mc_20_1": {
+        "name": "noisium-fabric-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/XwoottNU/noisium-fabric-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e61568046d1c3ff89073d6a411de7baf4291ea95edf4e5240a90796ec4685557c9437b751c2034f2b75a447fb3d8b3a854a764bb20a5a875a971b9844953aa6e"
+      },
+      "2_0_3+mc_20_1": {
+        "name": "noisium-fabric-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/uTdy9g9c/noisium-fabric-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "630416bf312a55eb33ca95fcc94105f901bc01131d318782d73f4237e72e18885f22262863bcbe85f5d7709efcafe6799305bf1e590054aa0e4de9745fd7b0b7"
+      },
+      "2_0_2+mc_20_1": {
+        "name": "noisium-fabric-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/QW2gKBHw/noisium-fabric-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "c293eca2f3ffb5dd860976f37560155a7bca2d3f6269173607b839b6aec722eae75e3b08e2b309f106126779cd6b599f064dc5c733d966b6005c8da0704b6395"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_3_0+mc_1": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_2_2+mc_1": {
+        "name": "noisium-fabric-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/XwoottNU/noisium-fabric-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e61568046d1c3ff89073d6a411de7baf4291ea95edf4e5240a90796ec4685557c9437b751c2034f2b75a447fb3d8b3a854a764bb20a5a875a971b9844953aa6e"
+      },
+      "2_0_3+mc_1": {
+        "name": "noisium-fabric-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/uTdy9g9c/noisium-fabric-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "630416bf312a55eb33ca95fcc94105f901bc01131d318782d73f4237e72e18885f22262863bcbe85f5d7709efcafe6799305bf1e590054aa0e4de9745fd7b0b7"
+      },
+      "2_0_2+mc_1": {
+        "name": "noisium-fabric-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/QW2gKBHw/noisium-fabric-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "c293eca2f3ffb5dd860976f37560155a7bca2d3f6269173607b839b6aec722eae75e3b08e2b309f106126779cd6b599f064dc5c733d966b6005c8da0704b6395"
+      },
+      "2_0_1+mc_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
     }
   },
-  "fabric": {
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/V9mMIy0f/noisium-fabric-2.7.0%2Bmc1.21.6.jar",
-      "sha512": "80cc286f3a51b2d12304ef6a44f84c11d67cedec1a02fbaf59e2e816d9b5f0abd17cc6b5a0ca5880935e9dadfea3b951b790ee1e54300c009bc419c1c7451785",
-      "name": "noisium-fabric-2.7.0+mc1.21.6.jar"
+  "neoforge": {
+    "1_21_6": {
+      "latest": {
+        "name": "noisium-neoforge-2.7.0+mc1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/w7CLpegm/noisium-neoforge-2.7.0%2Bmc1.21.6.jar",
+        "sha512": "630c548e15d161c56991083d0ec2fc788bb873344628ca1ae65cc799278fad2dfa88e761b3a28456822d351fd687cf3ce7d967426cd2bd4e879984a028369809"
+      },
+      "2_7_0+mc": {
+        "name": "noisium-neoforge-2.7.0+mc1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/w7CLpegm/noisium-neoforge-2.7.0%2Bmc1.21.6.jar",
+        "sha512": "630c548e15d161c56991083d0ec2fc788bb873344628ca1ae65cc799278fad2dfa88e761b3a28456822d351fd687cf3ce7d967426cd2bd4e879984a028369809"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/sUh67T4Y/noisium-fabric-2.6.0%2Bmc1.21.5.jar",
-      "sha512": "4471b6137de7e2109987df8fe62ac836741e68ba3c57303a0f2dc362c0ab8e7aca656d28046e250362316c1144396132a5531dfb12b5a664c68eb294991af938",
-      "name": "noisium-fabric-2.6.0+mc1.21.5.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "noisium-neoforge-2.6.0+mc1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/O5zHGVkQ/noisium-neoforge-2.6.0%2Bmc1.21.5.jar",
+        "sha512": "b404a6d9a77143f7c2c9a2f0db854f204f10544d359dc1fb5211bbe5ae9e12b5853c42a39db107c7bd18f8bdff394bb2914d86ce398fd8d856f69528b57677ad"
+      },
+      "2_6_0+mc": {
+        "name": "noisium-neoforge-2.6.0+mc1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/O5zHGVkQ/noisium-neoforge-2.6.0%2Bmc1.21.5.jar",
+        "sha512": "b404a6d9a77143f7c2c9a2f0db854f204f10544d359dc1fb5211bbe5ae9e12b5853c42a39db107c7bd18f8bdff394bb2914d86ce398fd8d856f69528b57677ad"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/9NHdQfkN/noisium-fabric-2.5.0%2Bmc1.21.4.jar",
-      "sha512": "3119f9325a9ce13d851d4f6eddabade382222c80296266506a155f8e12f32a195a00a75c40a8d062e4439f5a7ef66f3af9a46f9f3b3cb799f3b66b73ca2edee8",
-      "name": "noisium-fabric-2.5.0+mc1.21.4.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "noisium-neoforge-2.5.0+mc1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5JoGTWve/noisium-neoforge-2.5.0%2Bmc1.21.4.jar",
+        "sha512": "c54ebd29b21936b660ac32a2fbe174e6f3c7ea855054de016581754ae5afd968ecd67bd49fd23b70ce84b38e28b1ed82fc32d292712769e47be48684254f62ba"
+      },
+      "2_5_0+mc": {
+        "name": "noisium-neoforge-2.5.0+mc1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5JoGTWve/noisium-neoforge-2.5.0%2Bmc1.21.4.jar",
+        "sha512": "c54ebd29b21936b660ac32a2fbe174e6f3c7ea855054de016581754ae5afd968ecd67bd49fd23b70ce84b38e28b1ed82fc32d292712769e47be48684254f62ba"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
-      "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844",
-      "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "noisium-neoforge-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rx8Lh6ko/noisium-neoforge-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "0ea3020a4fe1ef871ce2d941ed8ab45a859f91661595a43884d92188ff1429439c81b8962f27ae4e209c5594210e7ddc722bfd3b6767fef232a433c823f3c26a"
+      },
+      "2_4_0+mc1_21_2": {
+        "name": "noisium-neoforge-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rx8Lh6ko/noisium-neoforge-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "0ea3020a4fe1ef871ce2d941ed8ab45a859f91661595a43884d92188ff1429439c81b8962f27ae4e209c5594210e7ddc722bfd3b6767fef232a433c823f3c26a"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
-      "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844",
-      "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "noisium-neoforge-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rx8Lh6ko/noisium-neoforge-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "0ea3020a4fe1ef871ce2d941ed8ab45a859f91661595a43884d92188ff1429439c81b8962f27ae4e209c5594210e7ddc722bfd3b6767fef232a433c823f3c26a"
+      },
+      "2_4_0+mc1_21_3": {
+        "name": "noisium-neoforge-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rx8Lh6ko/noisium-neoforge-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "0ea3020a4fe1ef871ce2d941ed8ab45a859f91661595a43884d92188ff1429439c81b8962f27ae4e209c5594210e7ddc722bfd3b6767fef232a433c823f3c26a"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
-      "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e",
-      "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/nJBE6tif/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "b50c37d2f69d51742d4407d272cea525b428784d2a39338d34b692937320495cd77d47b2d2321b3976713447028f50823e9ba44ca618900eba4ced907985ec84"
+      },
+      "2_3_0+mc_21_1": {
+        "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/nJBE6tif/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "b50c37d2f69d51742d4407d272cea525b428784d2a39338d34b692937320495cd77d47b2d2321b3976713447028f50823e9ba44ca618900eba4ced907985ec84"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZXBMeSZ0/noisium-fabric-2.2.0%2Bmc1.21.jar",
-      "sha512": "fdc8bf7ebca158993f92e51563fa4e2622f66cb18d11b7a17b02421203b6921a6fcc26d04ae7779ca5e76b0e452415b05c5c9b8c29ecb1331c44ea4da186db98",
-      "name": "noisium-fabric-2.2.0+mc1.21.jar"
+    "1_21": {
+      "latest": {
+        "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/nJBE6tif/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "b50c37d2f69d51742d4407d272cea525b428784d2a39338d34b692937320495cd77d47b2d2321b3976713447028f50823e9ba44ca618900eba4ced907985ec84"
+      },
+      "2_3_0+mc_1": {
+        "name": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/nJBE6tif/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "b50c37d2f69d51742d4407d272cea525b428784d2a39338d34b692937320495cd77d47b2d2321b3976713447028f50823e9ba44ca618900eba4ced907985ec84"
+      },
+      "2_2_1+mc": {
+        "name": "noisium-neoforge-2.2.1+mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/P6U3Rw6d/noisium-neoforge-2.2.1%2Bmc1.21.jar",
+        "sha512": "704eb9d4f947a997b13458cec910c260805676e8a4e923051efbb106b041f6940b1e2b7a90fbc965b2cd0c1430fc4582eeb50dc106615aa664755a6c129b1bc6"
+      },
+      "2_2_0+mc": {
+        "name": "noisium-neoforge-2.2.0+mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/a8Lct5Zz/noisium-neoforge-2.2.0%2Bmc1.21.jar",
+        "sha512": "9d3ea4377fdaa7ab8ad37593a2b2201db122388e28c92276a94f652026d8012653941bec3ce759c778b6be87cf808895c08ca64ad0bfbd6cfde98816203a9b59"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lT2Jvcwv/noisium-fabric-2.1.0%2Bmc1.20.5-1.20.6.jar",
-      "sha512": "a5eea5981be51d0aaa8e13568197454d27e58c34091e535e27bd8729f3085ddb53b0fa11e374b182f8230986341d1c1143c80f32e7eecf19709f4eba3b509052",
-      "name": "noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Oclohbu0/noisium-neoforge-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "6e5068e53d868fb5725ea6bacf179ae920eff8a5bb02ac23b8b0acf9a1517be8e6bf5330463b4cd910fc3e2ecc62f3367c6059b73705984b9603b412a4085798"
+      },
+      "2_3_0+mc1_20_5": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Oclohbu0/noisium-neoforge-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "6e5068e53d868fb5725ea6bacf179ae920eff8a5bb02ac23b8b0acf9a1517be8e6bf5330463b4cd910fc3e2ecc62f3367c6059b73705984b9603b412a4085798"
+      },
+      "2_2_2+mc1_20_5": {
+        "name": "noisium-neoforge-2.2.2+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/LOBsEDwp/noisium-neoforge-2.2.2%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "828dbdb4aa28024b4b5a94e614ccf82c32c69851b4266a3d20e80b982d88e3693e6c92b131eacc836141c2bf3aa1543375ebf28c93c5969f8ae1257a3556f3df"
+      },
+      "2_1_0+mc1_20_5": {
+        "name": "noisium-neoforge-2.1.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4UzpW73F/noisium-neoforge-2.1.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "6afb877769120695e12df453f33deaf2cee877751144004b57b32841d6687d1820d33f5fda7071053dfc3d5c7ef7b3f0907172a2056aed02138415b650832f76"
+      }
     },
-    "1.20.5": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lT2Jvcwv/noisium-fabric-2.1.0%2Bmc1.20.5-1.20.6.jar",
-      "sha512": "a5eea5981be51d0aaa8e13568197454d27e58c34091e535e27bd8729f3085ddb53b0fa11e374b182f8230986341d1c1143c80f32e7eecf19709f4eba3b509052",
-      "name": "noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar"
+    "1_20_5": {
+      "latest": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Oclohbu0/noisium-neoforge-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "6e5068e53d868fb5725ea6bacf179ae920eff8a5bb02ac23b8b0acf9a1517be8e6bf5330463b4cd910fc3e2ecc62f3367c6059b73705984b9603b412a4085798"
+      },
+      "2_3_0+mc1_20_6": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Oclohbu0/noisium-neoforge-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "6e5068e53d868fb5725ea6bacf179ae920eff8a5bb02ac23b8b0acf9a1517be8e6bf5330463b4cd910fc3e2ecc62f3367c6059b73705984b9603b412a4085798"
+      },
+      "2_2_2+mc1_20_6": {
+        "name": "noisium-neoforge-2.2.2+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/LOBsEDwp/noisium-neoforge-2.2.2%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "828dbdb4aa28024b4b5a94e614ccf82c32c69851b4266a3d20e80b982d88e3693e6c92b131eacc836141c2bf3aa1543375ebf28c93c5969f8ae1257a3556f3df"
+      },
+      "2_1_0+mc1_20_6": {
+        "name": "noisium-neoforge-2.1.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4UzpW73F/noisium-neoforge-2.1.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "6afb877769120695e12df453f33deaf2cee877751144004b57b32841d6687d1820d33f5fda7071053dfc3d5c7ef7b3f0907172a2056aed02138415b650832f76"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
-      "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323",
-      "name": "noisium-1.0.0+mc1.20.x.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e"
+      },
+      "2_3_0+mc1_20_2": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e"
+      },
+      "2_2_2+mc1_20_2": {
+        "name": "noisium-neoforge-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/8EcAJbKS/noisium-neoforge-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "bb317454cc9c8e6d2690b93b06e5064f3a5679c4f5e90c92cd5d9d7cbe714a316d89ef0f33cc8753294595fbf2c12ffdbcf219b55066f760130793f642dcdf5d"
+      },
+      "2_0_3+mc1_20_2": {
+        "name": "noisium-neoforge-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rS9OSRtd/noisium-neoforge-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "98bbba62ea4c3ac600238598bc15e96583065604528ac33a1dd56aacf4f8d66cb450bf0f83e7b4bcd00c154aed311f409547a68c3a9bd48140b5555c68d81c67"
+      },
+      "2_0_2+mc1_20_2": {
+        "name": "noisium-neoforge-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Lb9x1xj2/noisium-neoforge-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d81d61f4a9f443fd10832a431bea652e9a2f5fb9eff30f235bf95598dff0cc836521bc116aca4248a410c6cf7fb66c47f42d4a8d2bde1fc29d358c95c3803d39"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
-      "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323",
-      "name": "noisium-1.0.0+mc1.20.x.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e"
+      },
+      "2_3_0+mc1_20_2-1_20_4": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e"
+      },
+      "2_2_2+mc1_20_2-1_20_4": {
+        "name": "noisium-neoforge-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/8EcAJbKS/noisium-neoforge-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "bb317454cc9c8e6d2690b93b06e5064f3a5679c4f5e90c92cd5d9d7cbe714a316d89ef0f33cc8753294595fbf2c12ffdbcf219b55066f760130793f642dcdf5d"
+      },
+      "2_0_3+mc1_20_2-1_20_4": {
+        "name": "noisium-neoforge-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rS9OSRtd/noisium-neoforge-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "98bbba62ea4c3ac600238598bc15e96583065604528ac33a1dd56aacf4f8d66cb450bf0f83e7b4bcd00c154aed311f409547a68c3a9bd48140b5555c68d81c67"
+      },
+      "2_0_2+mc1_20_2-1_20_4": {
+        "name": "noisium-neoforge-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Lb9x1xj2/noisium-neoforge-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d81d61f4a9f443fd10832a431bea652e9a2f5fb9eff30f235bf95598dff0cc836521bc116aca4248a410c6cf7fb66c47f42d4a8d2bde1fc29d358c95c3803d39"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
-      "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323",
-      "name": "noisium-1.0.0+mc1.20.x.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e"
+      },
+      "2_3_0+mc1_20_4": {
+        "name": "noisium-neoforge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rjcZ5G3m/noisium-neoforge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "745c4fb06e012f25582f5ead5167be1ba75804921b72e493778319f933f6072444fa926716530515970fe151073922018e80c7220c29a7c2359b52c92205f78e"
+      },
+      "2_2_2+mc1_20_4": {
+        "name": "noisium-neoforge-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/8EcAJbKS/noisium-neoforge-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "bb317454cc9c8e6d2690b93b06e5064f3a5679c4f5e90c92cd5d9d7cbe714a316d89ef0f33cc8753294595fbf2c12ffdbcf219b55066f760130793f642dcdf5d"
+      },
+      "2_0_3+mc1_20_4": {
+        "name": "noisium-neoforge-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/rS9OSRtd/noisium-neoforge-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "98bbba62ea4c3ac600238598bc15e96583065604528ac33a1dd56aacf4f8d66cb450bf0f83e7b4bcd00c154aed311f409547a68c3a9bd48140b5555c68d81c67"
+      },
+      "2_0_2+mc1_20_4": {
+        "name": "noisium-neoforge-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Lb9x1xj2/noisium-neoforge-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d81d61f4a9f443fd10832a431bea652e9a2f5fb9eff30f235bf95598dff0cc836521bc116aca4248a410c6cf7fb66c47f42d4a8d2bde1fc29d358c95c3803d39"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
-      "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323",
-      "name": "noisium-1.0.0+mc1.20.x.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_3_0+mc_20_1": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_2_2+mc_20_1": {
+        "name": "noisium-forge-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/xwm7o9FD/noisium-forge-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "3232c59e8d294faa17292ee1e1bbfdb315b947fb315e03d9ec2e41c18dd36f8f7bc90c95601db872eaf1ddb06f71222d10eb0a377db23d82aaf026ade15f85d0"
+      },
+      "2_0_3+mc_20_1": {
+        "name": "noisium-forge-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/EuQErqo9/noisium-forge-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "05a8573a7810d302d8e954f8afc83bf528ffa3874319cea495c0c00581bc46deac4f437fcb26dd279d024cdf61c7eadc12f7731af820b3607134cd7727782e33"
+      },
+      "2_0_2+mc_20_1": {
+        "name": "noisium-forge-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lloc2Q9r/noisium-forge-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e20f478e55f6d71e7c01a2d2e21c086dbc488b84bcac2642ed5c5f468e036a66bf0acb8f3da1f8cbd75775125bfb6a3aa6370a2206a2c4b30d5dcf514024fc56"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
-      "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323",
-      "name": "noisium-1.0.0+mc1.20.x.jar"
+    "1_20": {
+      "latest": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_3_0+mc_1": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_2_2+mc_1": {
+        "name": "noisium-forge-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/xwm7o9FD/noisium-forge-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "3232c59e8d294faa17292ee1e1bbfdb315b947fb315e03d9ec2e41c18dd36f8f7bc90c95601db872eaf1ddb06f71222d10eb0a377db23d82aaf026ade15f85d0"
+      },
+      "2_0_3+mc_1": {
+        "name": "noisium-forge-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/EuQErqo9/noisium-forge-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "05a8573a7810d302d8e954f8afc83bf528ffa3874319cea495c0c00581bc46deac4f437fcb26dd279d024cdf61c7eadc12f7731af820b3607134cd7727782e33"
+      },
+      "2_0_2+mc_1": {
+        "name": "noisium-forge-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lloc2Q9r/noisium-forge-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e20f478e55f6d71e7c01a2d2e21c086dbc488b84bcac2642ed5c5f468e036a66bf0acb8f3da1f8cbd75775125bfb6a3aa6370a2206a2c4b30d5dcf514024fc56"
+      },
+      "2_0_1+mc_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     }
   },
   "forge": {
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gNpsN3Vw/noisium-forge-2.0.2%2Bmc1.20.2-1.20.4.jar",
-      "sha512": "92c7f0dcc7a2a57f02b98db4835e9f0f5f52cf8b77aa82d3e9ee5c9d2d8ab69db38e2f3f404fa314d6ea1d806e9cf6e9fd110224d5f21ed1bb120d2af350e9d0",
-      "name": "noisium-forge-2.0.2+mc1.20.2-1.20.4.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "noisium-forge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ivLgwUFH/noisium-forge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d16e2057de03868cfb2e8d89b2617736030ff77936c28d10411c8129c1278ec27ce7fbc860c9cdc92fb17335ed416c87f2133d525a35aaa3afa802044c3ad7f8"
+      },
+      "2_3_0+mc1_20_2": {
+        "name": "noisium-forge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ivLgwUFH/noisium-forge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d16e2057de03868cfb2e8d89b2617736030ff77936c28d10411c8129c1278ec27ce7fbc860c9cdc92fb17335ed416c87f2133d525a35aaa3afa802044c3ad7f8"
+      },
+      "2_2_2+mc1_20_2": {
+        "name": "noisium-forge-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yiyoSmRX/noisium-forge-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "aedacdc74e6f0041dd9cd63b587459768b9545267ad63352933ee458a240a6441993b6ab0872562bc84e534841bac43cc917a729c5cc09750f007dd93fe3fc1f"
+      },
+      "2_0_3+mc1_20_2": {
+        "name": "noisium-forge-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Wocv5ya7/noisium-forge-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "5a64c2fd9857f74daee5cbb5ae7e269db10174b30602b22c24e7d2f4a1079f57c5924c8d31244e2d2ec4423e7f4497539fd8497ffa03599ac8cfcac447ff9dcf"
+      },
+      "2_0_2+mc1_20_2": {
+        "name": "noisium-forge-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gNpsN3Vw/noisium-forge-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "92c7f0dcc7a2a57f02b98db4835e9f0f5f52cf8b77aa82d3e9ee5c9d2d8ab69db38e2f3f404fa314d6ea1d806e9cf6e9fd110224d5f21ed1bb120d2af350e9d0"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20.3": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gNpsN3Vw/noisium-forge-2.0.2%2Bmc1.20.2-1.20.4.jar",
-      "sha512": "92c7f0dcc7a2a57f02b98db4835e9f0f5f52cf8b77aa82d3e9ee5c9d2d8ab69db38e2f3f404fa314d6ea1d806e9cf6e9fd110224d5f21ed1bb120d2af350e9d0",
-      "name": "noisium-forge-2.0.2+mc1.20.2-1.20.4.jar"
+    "1_20_3": {
+      "latest": {
+        "name": "noisium-forge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ivLgwUFH/noisium-forge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d16e2057de03868cfb2e8d89b2617736030ff77936c28d10411c8129c1278ec27ce7fbc860c9cdc92fb17335ed416c87f2133d525a35aaa3afa802044c3ad7f8"
+      },
+      "2_3_0+mc1_20_2-1_20_4": {
+        "name": "noisium-forge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ivLgwUFH/noisium-forge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d16e2057de03868cfb2e8d89b2617736030ff77936c28d10411c8129c1278ec27ce7fbc860c9cdc92fb17335ed416c87f2133d525a35aaa3afa802044c3ad7f8"
+      },
+      "2_2_2+mc1_20_2-1_20_4": {
+        "name": "noisium-forge-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yiyoSmRX/noisium-forge-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "aedacdc74e6f0041dd9cd63b587459768b9545267ad63352933ee458a240a6441993b6ab0872562bc84e534841bac43cc917a729c5cc09750f007dd93fe3fc1f"
+      },
+      "2_0_3+mc1_20_2-1_20_4": {
+        "name": "noisium-forge-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Wocv5ya7/noisium-forge-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "5a64c2fd9857f74daee5cbb5ae7e269db10174b30602b22c24e7d2f4a1079f57c5924c8d31244e2d2ec4423e7f4497539fd8497ffa03599ac8cfcac447ff9dcf"
+      },
+      "2_0_2+mc1_20_2-1_20_4": {
+        "name": "noisium-forge-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gNpsN3Vw/noisium-forge-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "92c7f0dcc7a2a57f02b98db4835e9f0f5f52cf8b77aa82d3e9ee5c9d2d8ab69db38e2f3f404fa314d6ea1d806e9cf6e9fd110224d5f21ed1bb120d2af350e9d0"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gNpsN3Vw/noisium-forge-2.0.2%2Bmc1.20.2-1.20.4.jar",
-      "sha512": "92c7f0dcc7a2a57f02b98db4835e9f0f5f52cf8b77aa82d3e9ee5c9d2d8ab69db38e2f3f404fa314d6ea1d806e9cf6e9fd110224d5f21ed1bb120d2af350e9d0",
-      "name": "noisium-forge-2.0.2+mc1.20.2-1.20.4.jar"
+    "1_20_2": {
+      "latest": {
+        "name": "noisium-forge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ivLgwUFH/noisium-forge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d16e2057de03868cfb2e8d89b2617736030ff77936c28d10411c8129c1278ec27ce7fbc860c9cdc92fb17335ed416c87f2133d525a35aaa3afa802044c3ad7f8"
+      },
+      "2_3_0+mc1_20_4": {
+        "name": "noisium-forge-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ivLgwUFH/noisium-forge-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "d16e2057de03868cfb2e8d89b2617736030ff77936c28d10411c8129c1278ec27ce7fbc860c9cdc92fb17335ed416c87f2133d525a35aaa3afa802044c3ad7f8"
+      },
+      "2_2_2+mc1_20_4": {
+        "name": "noisium-forge-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yiyoSmRX/noisium-forge-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "aedacdc74e6f0041dd9cd63b587459768b9545267ad63352933ee458a240a6441993b6ab0872562bc84e534841bac43cc917a729c5cc09750f007dd93fe3fc1f"
+      },
+      "2_0_3+mc1_20_4": {
+        "name": "noisium-forge-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Wocv5ya7/noisium-forge-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "5a64c2fd9857f74daee5cbb5ae7e269db10174b30602b22c24e7d2f4a1079f57c5924c8d31244e2d2ec4423e7f4497539fd8497ffa03599ac8cfcac447ff9dcf"
+      },
+      "2_0_2+mc1_20_4": {
+        "name": "noisium-forge-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gNpsN3Vw/noisium-forge-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "92c7f0dcc7a2a57f02b98db4835e9f0f5f52cf8b77aa82d3e9ee5c9d2d8ab69db38e2f3f404fa314d6ea1d806e9cf6e9fd110224d5f21ed1bb120d2af350e9d0"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lloc2Q9r/noisium-forge-2.0.2%2Bmc1.20-1.20.1.jar",
-      "sha512": "e20f478e55f6d71e7c01a2d2e21c086dbc488b84bcac2642ed5c5f468e036a66bf0acb8f3da1f8cbd75775125bfb6a3aa6370a2206a2c4b30d5dcf514024fc56",
-      "name": "noisium-forge-2.0.2+mc1.20-1.20.1.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_3_0+mc_20_1": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_2_2+mc_20_1": {
+        "name": "noisium-forge-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/xwm7o9FD/noisium-forge-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "3232c59e8d294faa17292ee1e1bbfdb315b947fb315e03d9ec2e41c18dd36f8f7bc90c95601db872eaf1ddb06f71222d10eb0a377db23d82aaf026ade15f85d0"
+      },
+      "2_0_3+mc_20_1": {
+        "name": "noisium-forge-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/EuQErqo9/noisium-forge-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "05a8573a7810d302d8e954f8afc83bf528ffa3874319cea495c0c00581bc46deac4f437fcb26dd279d024cdf61c7eadc12f7731af820b3607134cd7727782e33"
+      },
+      "2_0_2+mc_20_1": {
+        "name": "noisium-forge-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lloc2Q9r/noisium-forge-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e20f478e55f6d71e7c01a2d2e21c086dbc488b84bcac2642ed5c5f468e036a66bf0acb8f3da1f8cbd75775125bfb6a3aa6370a2206a2c4b30d5dcf514024fc56"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lloc2Q9r/noisium-forge-2.0.2%2Bmc1.20-1.20.1.jar",
-      "sha512": "e20f478e55f6d71e7c01a2d2e21c086dbc488b84bcac2642ed5c5f468e036a66bf0acb8f3da1f8cbd75775125bfb6a3aa6370a2206a2c4b30d5dcf514024fc56",
-      "name": "noisium-forge-2.0.2+mc1.20-1.20.1.jar"
+    "1_20": {
+      "latest": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_3_0+mc_1": {
+        "name": "noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
+      },
+      "2_2_2+mc_1": {
+        "name": "noisium-forge-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/xwm7o9FD/noisium-forge-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "3232c59e8d294faa17292ee1e1bbfdb315b947fb315e03d9ec2e41c18dd36f8f7bc90c95601db872eaf1ddb06f71222d10eb0a377db23d82aaf026ade15f85d0"
+      },
+      "2_0_3+mc_1": {
+        "name": "noisium-forge-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/EuQErqo9/noisium-forge-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "05a8573a7810d302d8e954f8afc83bf528ffa3874319cea495c0c00581bc46deac4f437fcb26dd279d024cdf61c7eadc12f7731af820b3607134cd7727782e33"
+      },
+      "2_0_2+mc_1": {
+        "name": "noisium-forge-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lloc2Q9r/noisium-forge-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e20f478e55f6d71e7c01a2d2e21c086dbc488b84bcac2642ed5c5f468e036a66bf0acb8f3da1f8cbd75775125bfb6a3aa6370a2206a2c4b30d5dcf514024fc56"
+      },
+      "2_0_1+mc_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_6": {
+      "latest": {
+        "name": "noisium-fabric-2.7.0+mc1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/V9mMIy0f/noisium-fabric-2.7.0%2Bmc1.21.6.jar",
+        "sha512": "80cc286f3a51b2d12304ef6a44f84c11d67cedec1a02fbaf59e2e816d9b5f0abd17cc6b5a0ca5880935e9dadfea3b951b790ee1e54300c009bc419c1c7451785"
+      },
+      "2_7_0+mc": {
+        "name": "noisium-fabric-2.7.0+mc1.21.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/V9mMIy0f/noisium-fabric-2.7.0%2Bmc1.21.6.jar",
+        "sha512": "80cc286f3a51b2d12304ef6a44f84c11d67cedec1a02fbaf59e2e816d9b5f0abd17cc6b5a0ca5880935e9dadfea3b951b790ee1e54300c009bc419c1c7451785"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "noisium-fabric-2.6.0+mc1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/sUh67T4Y/noisium-fabric-2.6.0%2Bmc1.21.5.jar",
+        "sha512": "4471b6137de7e2109987df8fe62ac836741e68ba3c57303a0f2dc362c0ab8e7aca656d28046e250362316c1144396132a5531dfb12b5a664c68eb294991af938"
+      },
+      "2_6_0+mc": {
+        "name": "noisium-fabric-2.6.0+mc1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/sUh67T4Y/noisium-fabric-2.6.0%2Bmc1.21.5.jar",
+        "sha512": "4471b6137de7e2109987df8fe62ac836741e68ba3c57303a0f2dc362c0ab8e7aca656d28046e250362316c1144396132a5531dfb12b5a664c68eb294991af938"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "noisium-fabric-2.5.0+mc1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/9NHdQfkN/noisium-fabric-2.5.0%2Bmc1.21.4.jar",
+        "sha512": "3119f9325a9ce13d851d4f6eddabade382222c80296266506a155f8e12f32a195a00a75c40a8d062e4439f5a7ef66f3af9a46f9f3b3cb799f3b66b73ca2edee8"
+      },
+      "2_5_0+mc": {
+        "name": "noisium-fabric-2.5.0+mc1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/9NHdQfkN/noisium-fabric-2.5.0%2Bmc1.21.4.jar",
+        "sha512": "3119f9325a9ce13d851d4f6eddabade382222c80296266506a155f8e12f32a195a00a75c40a8d062e4439f5a7ef66f3af9a46f9f3b3cb799f3b66b73ca2edee8"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      },
+      "2_4_0+mc1_21_2": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      },
+      "2_4_0+mc1_21_3": {
+        "name": "noisium-fabric-2.4.0+mc1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/M4c8aGZ4/noisium-fabric-2.4.0%2Bmc1.21.2-1.21.3.jar",
+        "sha512": "cc049b37fce73ea4d12b42753a0abecc8f29104bb0b397e3b79fab2f6c957794a8e704c339d87789e3217d0371e31c49d71eff5ca31d1a042e5b5ab869aca844"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      },
+      "2_3_0+mc_21_1": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      },
+      "2_3_0+mc_1": {
+        "name": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+        "sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
+      },
+      "2_2_1+mc": {
+        "name": "noisium-fabric-2.2.1+mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/W8V2bkLB/noisium-fabric-2.2.1%2Bmc1.21.jar",
+        "sha512": "24a280f59981f0ea8ecdc1a517ed74ac7d57e33b519e950c393061f299443e3487e4eab4dfe986a1934f38a2c636819c9f0d027c729dffccdd58ff5f8e04807b"
+      },
+      "2_2_0+mc": {
+        "name": "noisium-fabric-2.2.0+mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZXBMeSZ0/noisium-fabric-2.2.0%2Bmc1.21.jar",
+        "sha512": "fdc8bf7ebca158993f92e51563fa4e2622f66cb18d11b7a17b02421203b6921a6fcc26d04ae7779ca5e76b0e452415b05c5c9b8c29ecb1331c44ea4da186db98"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_3_0+mc1_20_5": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_2_2+mc1_20_5": {
+        "name": "noisium-fabric-2.2.2+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/J0TGYoKa/noisium-fabric-2.2.2%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "3ff51ba01249b073f29e15a4cb2369767b6d7d59bc1d34b178248779ba39c4cb93dc1b5ccf61bc847cc7ec33757810b7a179f9d669db016ff4671a1b90574495"
+      },
+      "2_1_0+mc1_20_5": {
+        "name": "noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lT2Jvcwv/noisium-fabric-2.1.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "a5eea5981be51d0aaa8e13568197454d27e58c34091e535e27bd8729f3085ddb53b0fa11e374b182f8230986341d1c1143c80f32e7eecf19709f4eba3b509052"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_3_0+mc1_20_6": {
+        "name": "noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/5LXPGdF1/noisium-fabric-2.3.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "b9e6629589c4fecadc5acc9f0eea7afbfd3d4b3ba3a4e63f07cdb4005c8d19dd878ecaf6be5d5389745875fe064f4e24edb673f311c817fc62af190a488a1bd4"
+      },
+      "2_2_2+mc1_20_6": {
+        "name": "noisium-fabric-2.2.2+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/J0TGYoKa/noisium-fabric-2.2.2%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "3ff51ba01249b073f29e15a4cb2369767b6d7d59bc1d34b178248779ba39c4cb93dc1b5ccf61bc847cc7ec33757810b7a179f9d669db016ff4671a1b90574495"
+      },
+      "2_1_0+mc1_20_6": {
+        "name": "noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/lT2Jvcwv/noisium-fabric-2.1.0%2Bmc1.20.5-1.20.6.jar",
+        "sha512": "a5eea5981be51d0aaa8e13568197454d27e58c34091e535e27bd8729f3085ddb53b0fa11e374b182f8230986341d1c1143c80f32e7eecf19709f4eba3b509052"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_3_0+mc1_20_2": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_2_2+mc1_20_2": {
+        "name": "noisium-fabric-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yYC221hL/noisium-fabric-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "b98cb7d386ce3b1bb16b78430272e80a72c7fb303ac656ae025aeba9f01cb72a1d7c9cf30d529c9236e74e253140e113ad3f08bb52f97fb8993853c3c397cd56"
+      },
+      "2_0_3+mc1_20_2": {
+        "name": "noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Eie3f6ki/noisium-fabric-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "55a73e9df7b51ef7632b14955faa0a536a75fedfc8bbf7a4fea02d082e121f989480ba9276f3e2461b787dd79e98c439402f7d5355c0b0d27f15b38189448698"
+      },
+      "2_0_2+mc1_20_2": {
+        "name": "noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZgEmwDsG/noisium-fabric-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "8bc599d66e5d8bd4a7a3aa119b242262b9148b40bfcacd44ffdfe5e4f49332338d21c269916b85acea5e66dbb2819e72eb25f91d0cee12398fab54da63830948"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_3_0+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_2_2+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yYC221hL/noisium-fabric-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "b98cb7d386ce3b1bb16b78430272e80a72c7fb303ac656ae025aeba9f01cb72a1d7c9cf30d529c9236e74e253140e113ad3f08bb52f97fb8993853c3c397cd56"
+      },
+      "2_0_3+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Eie3f6ki/noisium-fabric-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "55a73e9df7b51ef7632b14955faa0a536a75fedfc8bbf7a4fea02d082e121f989480ba9276f3e2461b787dd79e98c439402f7d5355c0b0d27f15b38189448698"
+      },
+      "2_0_2+mc1_20_2-1_20_4": {
+        "name": "noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZgEmwDsG/noisium-fabric-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "8bc599d66e5d8bd4a7a3aa119b242262b9148b40bfcacd44ffdfe5e4f49332338d21c269916b85acea5e66dbb2819e72eb25f91d0cee12398fab54da63830948"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_3_0+mc1_20_4": {
+        "name": "noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "249cf90051e808a224a22b6d45812831793368297c5873512a25a7e5f4b866c3d2a625b04f74ed8d9987b6171e7cca085ed8d7a100336f395cc037f1493e0e2b"
+      },
+      "2_2_2+mc1_20_4": {
+        "name": "noisium-fabric-2.2.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/yYC221hL/noisium-fabric-2.2.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "b98cb7d386ce3b1bb16b78430272e80a72c7fb303ac656ae025aeba9f01cb72a1d7c9cf30d529c9236e74e253140e113ad3f08bb52f97fb8993853c3c397cd56"
+      },
+      "2_0_3+mc1_20_4": {
+        "name": "noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/Eie3f6ki/noisium-fabric-2.0.3%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "55a73e9df7b51ef7632b14955faa0a536a75fedfc8bbf7a4fea02d082e121f989480ba9276f3e2461b787dd79e98c439402f7d5355c0b0d27f15b38189448698"
+      },
+      "2_0_2+mc1_20_4": {
+        "name": "noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZgEmwDsG/noisium-fabric-2.0.2%2Bmc1.20.2-1.20.4.jar",
+        "sha512": "8bc599d66e5d8bd4a7a3aa119b242262b9148b40bfcacd44ffdfe5e4f49332338d21c269916b85acea5e66dbb2819e72eb25f91d0cee12398fab54da63830948"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_3_0+mc_20_1": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_2_2+mc_20_1": {
+        "name": "noisium-fabric-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/XwoottNU/noisium-fabric-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e61568046d1c3ff89073d6a411de7baf4291ea95edf4e5240a90796ec4685557c9437b751c2034f2b75a447fb3d8b3a854a764bb20a5a875a971b9844953aa6e"
+      },
+      "2_0_3+mc_20_1": {
+        "name": "noisium-fabric-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/uTdy9g9c/noisium-fabric-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "630416bf312a55eb33ca95fcc94105f901bc01131d318782d73f4237e72e18885f22262863bcbe85f5d7709efcafe6799305bf1e590054aa0e4de9745fd7b0b7"
+      },
+      "2_0_2+mc_20_1": {
+        "name": "noisium-fabric-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/QW2gKBHw/noisium-fabric-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "c293eca2f3ffb5dd860976f37560155a7bca2d3f6269173607b839b6aec722eae75e3b08e2b309f106126779cd6b599f064dc5c733d966b6005c8da0704b6395"
+      },
+      "2_0_1+mc1_20_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc1_20_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc1_20_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc1_20_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc1_20_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_3_0+mc_1": {
+        "name": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/erSJnRcq/noisium-fabric-2.3.0%2Bmc1.20-1.20.1.jar",
+        "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417"
+      },
+      "2_2_2+mc_1": {
+        "name": "noisium-fabric-2.2.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/XwoottNU/noisium-fabric-2.2.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "e61568046d1c3ff89073d6a411de7baf4291ea95edf4e5240a90796ec4685557c9437b751c2034f2b75a447fb3d8b3a854a764bb20a5a875a971b9844953aa6e"
+      },
+      "2_0_3+mc_1": {
+        "name": "noisium-fabric-2.0.3+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/uTdy9g9c/noisium-fabric-2.0.3%2Bmc1.20-1.20.1.jar",
+        "sha512": "630416bf312a55eb33ca95fcc94105f901bc01131d318782d73f4237e72e18885f22262863bcbe85f5d7709efcafe6799305bf1e590054aa0e4de9745fd7b0b7"
+      },
+      "2_0_2+mc_1": {
+        "name": "noisium-fabric-2.0.2+mc1.20-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/QW2gKBHw/noisium-fabric-2.0.2%2Bmc1.20-1.20.1.jar",
+        "sha512": "c293eca2f3ffb5dd860976f37560155a7bca2d3f6269173607b839b6aec722eae75e3b08e2b309f106126779cd6b599f064dc5c733d966b6005c8da0704b6395"
+      },
+      "2_0_1+mc_x": {
+        "name": "noisium-merged-2.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/AfjBJbK1/noisium-merged-2.0.1%2Bmc1.20.x.jar",
+        "sha512": "f86140544ce261402447d003e99d677b2d35a95a0da04afb9046dd4995f2bfb82d74562b38325a6bb511632690a11d00d463e6d951ccd7e32bd5779f6bcbe56b"
+      },
+      "2_0_0+mc_x": {
+        "name": "noisium-merged-2.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/k1JxepR1/noisium-merged-2.0.0%2Bmc1.20.x.jar",
+        "sha512": "cf7507d9e463dd3696738052a93aca376f1eef18a037646a10f47366dde9fd1ed0ca31f340471df71b4971fd181fa265f2dea136a83d6b2ea95542de42d38eb5"
+      },
+      "1_0_2+mc_x": {
+        "name": "noisium-1.0.2+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar",
+        "sha512": "037a0696ba20d053568d9733f9fc0d1dc2b3f980036eaa67eed970b84b5d37f9c1b2ebabdd91de401a27472fcf98383be00fe8e8edb5cb96c5c69d4a3c101ee5"
+      },
+      "1_0_1+mc_x": {
+        "name": "noisium-1.0.1+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/BcqAoKZi/noisium-1.0.1%2Bmc1.20.x.jar",
+        "sha512": "f455d1b3d87acce96678b96e458015ee77065688399c90ef8f90b433abe1b75e921068338bb5ea7f9aa4ee9fa2886aabb3630ee5601c7cf9cd6d343c42ac50da"
+      },
+      "1_0_0+mc_x": {
+        "name": "noisium-1.0.0+mc1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/qbCZ1ELe/noisium-1.0.0%2Bmc1.20.x.jar",
+        "sha512": "bd8388dee8c75be78603b819754bd8c18735919ea2d4c13edfe691b2a9633242e9a4a4d58dae212a9f5b927d6d7beb524c542dc6b08f3da51c33ba66a877c323"
+      }
     }
   }
 }

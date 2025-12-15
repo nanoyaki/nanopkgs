@@ -1,59 +1,466 @@
 {
   "fabric": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/jETQe6nt/bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar",
-      "sha512": "093e61e686b18cc718813b919fd814293e56d93ce5d64ba80dc5cb63568029bba75f320153a669e1bfa14ffd993d3c14174434d13f63ed642322a64c2ba9d8b4",
-      "name": "bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/jETQe6nt/bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar",
+        "sha512": "093e61e686b18cc718813b919fd814293e56d93ce5d64ba80dc5cb63568029bba75f320153a669e1bfa14ffd993d3c14174434d13f63ed642322a64c2ba9d8b4"
+      },
+      "1_21_10-0_14_0_65-alpha": {
+        "name": "bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/jETQe6nt/bluemapsignmarkers-1.21.10-0.14.0.65-alpha.jar",
+        "sha512": "093e61e686b18cc718813b919fd814293e56d93ce5d64ba80dc5cb63568029bba75f320153a669e1bfa14ffd993d3c14174434d13f63ed642322a64c2ba9d8b4"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/I8MjlNSD/bluemapsignmarkers-1.21.9-0.12.0.59-alpha.jar",
-      "sha512": "50d9d7a898d8b770f9674fa63963cdace4e2fde26a99226843600ce905ba1deca538ed95af4f1dd6d815e1d15ae49c9520dbc7dca1c8bcde07b1da6b5ae40d04",
-      "name": "bluemapsignmarkers-1.21.9-0.12.0.59-alpha.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.9-0.13.0.64.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Y0zBx9R1/bluemapsignmarkers-1.21.9-0.13.0.64.jar",
+        "sha512": "97078215fd7838f457d3860ff4108bb0d1cb5871fef030991cffb58e9eb6e439b9ec35f88adcf8de2f8fb98ff10062925a29f96387e197b17403122d745838f6"
+      },
+      "1_21_9-0_13_0_64": {
+        "name": "bluemapsignmarkers-1.21.9-0.13.0.64.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Y0zBx9R1/bluemapsignmarkers-1.21.9-0.13.0.64.jar",
+        "sha512": "97078215fd7838f457d3860ff4108bb0d1cb5871fef030991cffb58e9eb6e439b9ec35f88adcf8de2f8fb98ff10062925a29f96387e197b17403122d745838f6"
+      },
+      "1_21_9-0_13_0_63-alpha": {
+        "name": "bluemapsignmarkers-1.21.9-0.13.0.63-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/smsWp41j/bluemapsignmarkers-1.21.9-0.13.0.63-alpha.jar",
+        "sha512": "97078215fd7838f457d3860ff4108bb0d1cb5871fef030991cffb58e9eb6e439b9ec35f88adcf8de2f8fb98ff10062925a29f96387e197b17403122d745838f6"
+      },
+      "1_21_9-0_12_1_62": {
+        "name": "bluemapsignmarkers-1.21.9-0.12.1.62.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/4yEeWlbP/bluemapsignmarkers-1.21.9-0.12.1.62.jar",
+        "sha512": "d240be9ca015f7fc3000c3c70efb2b3869a0a015a3268d147fba1f2e96f12be34cbf7fd939b63ba46371971c924437e8e7a7d4b69078f64cba29ee9cbbd2f179"
+      },
+      "1_21_9-0_12_1_61-alpha": {
+        "name": "bluemapsignmarkers-1.21.9-0.12.1.61-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/FWwrAUcA/bluemapsignmarkers-1.21.9-0.12.1.61-alpha.jar",
+        "sha512": "d240be9ca015f7fc3000c3c70efb2b3869a0a015a3268d147fba1f2e96f12be34cbf7fd939b63ba46371971c924437e8e7a7d4b69078f64cba29ee9cbbd2f179"
+      },
+      "1_21_9-0_12_0_60": {
+        "name": "bluemapsignmarkers-1.21.9-0.12.0.60.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/SzNsT1GV/bluemapsignmarkers-1.21.9-0.12.0.60.jar",
+        "sha512": "50d9d7a898d8b770f9674fa63963cdace4e2fde26a99226843600ce905ba1deca538ed95af4f1dd6d815e1d15ae49c9520dbc7dca1c8bcde07b1da6b5ae40d04"
+      },
+      "1_21_9-0_12_0_59-alpha": {
+        "name": "bluemapsignmarkers-1.21.9-0.12.0.59-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/I8MjlNSD/bluemapsignmarkers-1.21.9-0.12.0.59-alpha.jar",
+        "sha512": "50d9d7a898d8b770f9674fa63963cdace4e2fde26a99226843600ce905ba1deca538ed95af4f1dd6d815e1d15ae49c9520dbc7dca1c8bcde07b1da6b5ae40d04"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/1T0BCaBZ/bluemapsignmarkers-1.21.8-0.11.0.57-alpha.jar",
-      "sha512": "a4b0704422c629d5d4a932d216bf59d3abec00836123c7879d54adae6c45c6866e62c7af25a0313b403dfb33517145ef70f20fad40c0eb6766bfc4e9776987d6",
-      "name": "bluemapsignmarkers-1.21.8-0.11.0.57-alpha.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.8-0.11.0.58.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/EnSuoK0p/bluemapsignmarkers-1.21.8-0.11.0.58.jar",
+        "sha512": "a4b0704422c629d5d4a932d216bf59d3abec00836123c7879d54adae6c45c6866e62c7af25a0313b403dfb33517145ef70f20fad40c0eb6766bfc4e9776987d6"
+      },
+      "1_21_8-0_11_0_58": {
+        "name": "bluemapsignmarkers-1.21.8-0.11.0.58.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/EnSuoK0p/bluemapsignmarkers-1.21.8-0.11.0.58.jar",
+        "sha512": "a4b0704422c629d5d4a932d216bf59d3abec00836123c7879d54adae6c45c6866e62c7af25a0313b403dfb33517145ef70f20fad40c0eb6766bfc4e9776987d6"
+      },
+      "1_21_8-0_11_0_57-alpha": {
+        "name": "bluemapsignmarkers-1.21.8-0.11.0.57-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/1T0BCaBZ/bluemapsignmarkers-1.21.8-0.11.0.57-alpha.jar",
+        "sha512": "a4b0704422c629d5d4a932d216bf59d3abec00836123c7879d54adae6c45c6866e62c7af25a0313b403dfb33517145ef70f20fad40c0eb6766bfc4e9776987d6"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/AoSJ3jvb/bluemapsignmarkers-1.21.7-0.11.0.55-alpha.jar",
-      "sha512": "d3efb15a03ef3dcc02bcd2395c578afdc2d413d5e4dfcf65c9cad891e755ade9d6a7961e7b0f07e7e229b831d11d6459efdb5a935d0e5597c1782ec9ca8e2b41",
-      "name": "bluemapsignmarkers-1.21.7-0.11.0.55-alpha.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.7-0.11.0.56.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/vCOKmCcE/bluemapsignmarkers-1.21.7-0.11.0.56.jar",
+        "sha512": "d3efb15a03ef3dcc02bcd2395c578afdc2d413d5e4dfcf65c9cad891e755ade9d6a7961e7b0f07e7e229b831d11d6459efdb5a935d0e5597c1782ec9ca8e2b41"
+      },
+      "1_21_7-0_11_0_56": {
+        "name": "bluemapsignmarkers-1.21.7-0.11.0.56.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/vCOKmCcE/bluemapsignmarkers-1.21.7-0.11.0.56.jar",
+        "sha512": "d3efb15a03ef3dcc02bcd2395c578afdc2d413d5e4dfcf65c9cad891e755ade9d6a7961e7b0f07e7e229b831d11d6459efdb5a935d0e5597c1782ec9ca8e2b41"
+      },
+      "1_21_7-0_11_0_55-alpha": {
+        "name": "bluemapsignmarkers-1.21.7-0.11.0.55-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/AoSJ3jvb/bluemapsignmarkers-1.21.7-0.11.0.55-alpha.jar",
+        "sha512": "d3efb15a03ef3dcc02bcd2395c578afdc2d413d5e4dfcf65c9cad891e755ade9d6a7961e7b0f07e7e229b831d11d6459efdb5a935d0e5597c1782ec9ca8e2b41"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Vcsu36YH/bluemapsignmarkers-1.21.6-0.11.0.53-alpha.jar",
-      "sha512": "a931168e889881658c9df4ceb6f56daa76cdfc1cf9a33776dd37f4bf9d9a361b577ae9969745dbf0fda2dd2350018c88de37450791a0efea15156321205acd0f",
-      "name": "bluemapsignmarkers-1.21.6-0.11.0.53-alpha.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.6-0.11.0.54.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/hkzddNzg/bluemapsignmarkers-1.21.6-0.11.0.54.jar",
+        "sha512": "a931168e889881658c9df4ceb6f56daa76cdfc1cf9a33776dd37f4bf9d9a361b577ae9969745dbf0fda2dd2350018c88de37450791a0efea15156321205acd0f"
+      },
+      "1_21_6-0_11_0_54": {
+        "name": "bluemapsignmarkers-1.21.6-0.11.0.54.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/hkzddNzg/bluemapsignmarkers-1.21.6-0.11.0.54.jar",
+        "sha512": "a931168e889881658c9df4ceb6f56daa76cdfc1cf9a33776dd37f4bf9d9a361b577ae9969745dbf0fda2dd2350018c88de37450791a0efea15156321205acd0f"
+      },
+      "1_21_6-0_11_0_53-alpha": {
+        "name": "bluemapsignmarkers-1.21.6-0.11.0.53-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Vcsu36YH/bluemapsignmarkers-1.21.6-0.11.0.53-alpha.jar",
+        "sha512": "a931168e889881658c9df4ceb6f56daa76cdfc1cf9a33776dd37f4bf9d9a361b577ae9969745dbf0fda2dd2350018c88de37450791a0efea15156321205acd0f"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/TDdyJFUJ/bluemapsignmarkers-1.21.5-0.8.0.43-alpha.jar",
-      "sha512": "4a13cb8e6b6eebe6ce66b6489b5518f5dad3a71dbb73eb918629dc5aa5a14cb74406b2ebc2b69284737ebc267f3431692269390882be1a7c08ce727acedba6fd",
-      "name": "bluemapsignmarkers-1.21.5-0.8.0.43-alpha.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.5-0.10.1.52.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/UdNMNKB3/bluemapsignmarkers-1.21.5-0.10.1.52.jar",
+        "sha512": "d29737b88bbd41beae3d1b28c6f7ed2aa97595335be614ede3677dcd76b2c3339950d968ebb8a7874e8ea1620e8c02d867de6c36ac556363e8fe5f7ad366bf72"
+      },
+      "1_21_5-0_10_1_52": {
+        "name": "bluemapsignmarkers-1.21.5-0.10.1.52.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/UdNMNKB3/bluemapsignmarkers-1.21.5-0.10.1.52.jar",
+        "sha512": "d29737b88bbd41beae3d1b28c6f7ed2aa97595335be614ede3677dcd76b2c3339950d968ebb8a7874e8ea1620e8c02d867de6c36ac556363e8fe5f7ad366bf72"
+      },
+      "1_21_5-0_10_1_51-alpha": {
+        "name": "bluemapsignmarkers-1.21.5-0.10.1.51-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/niO2m4AR/bluemapsignmarkers-1.21.5-0.10.1.51-alpha.jar",
+        "sha512": "d29737b88bbd41beae3d1b28c6f7ed2aa97595335be614ede3677dcd76b2c3339950d968ebb8a7874e8ea1620e8c02d867de6c36ac556363e8fe5f7ad366bf72"
+      },
+      "1_21_5-0_10_0_50-alpha": {
+        "name": "bluemapsignmarkers-1.21.5-0.10.0.50-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/GWIbfTVs/bluemapsignmarkers-1.21.5-0.10.0.50-alpha.jar",
+        "sha512": "4b327280271c37748278ed6cb539d87423580f9d314ddcbae9cb554b72ef66bf55665bee42333da2daa32a8885385cbddb5372d4d660a8d7f2929f7640428ef7"
+      },
+      "1_21_5-0_10_0_49": {
+        "name": "bluemapsignmarkers-1.21.5-0.10.0.49.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/kniLSa9l/bluemapsignmarkers-1.21.5-0.10.0.49.jar",
+        "sha512": "4b327280271c37748278ed6cb539d87423580f9d314ddcbae9cb554b72ef66bf55665bee42333da2daa32a8885385cbddb5372d4d660a8d7f2929f7640428ef7"
+      },
+      "1_21_5-0_10_0_48-alpha": {
+        "name": "bluemapsignmarkers-1.21.5-0.10.0.48-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Hf1aV7sw/bluemapsignmarkers-1.21.5-0.10.0.48-alpha.jar",
+        "sha512": "4b327280271c37748278ed6cb539d87423580f9d314ddcbae9cb554b72ef66bf55665bee42333da2daa32a8885385cbddb5372d4d660a8d7f2929f7640428ef7"
+      },
+      "1_21_5-0_9_0_47": {
+        "name": "bluemapsignmarkers-1.21.5-0.9.0.47.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/2IKjTW1p/bluemapsignmarkers-1.21.5-0.9.0.47.jar",
+        "sha512": "ef6b494f92dbc1d29933669ac35d0189b1494468eedaa8bd167dfa3faf0f422536bedf514be5260ce18bd99ce1ecb39fd3d4c9ceb0d058f39e5d1cddc107084e"
+      },
+      "1_21_5-0_9_0_46-alpha": {
+        "name": "bluemapsignmarkers-1.21.5-0.9.0.46-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/E9B9vx8V/bluemapsignmarkers-1.21.5-0.9.0.46-alpha.jar",
+        "sha512": "ef6b494f92dbc1d29933669ac35d0189b1494468eedaa8bd167dfa3faf0f422536bedf514be5260ce18bd99ce1ecb39fd3d4c9ceb0d058f39e5d1cddc107084e"
+      },
+      "1_21_5-0_8_0_45": {
+        "name": "bluemapsignmarkers-1.21.5-0.8.0.45.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/g6gGbUcz/bluemapsignmarkers-1.21.5-0.8.0.45.jar",
+        "sha512": "b8699167742a39f2af6750c7dcb588216a674f4d3edf69ff3e0f9cb828aaf8a2a4c510db3592f7a43a79c39da0013f11c134be5da110d5f744c6a30ed89d2148"
+      },
+      "1_21_5-0_8_0_44-alpha": {
+        "name": "bluemapsignmarkers-1.21.5-0.8.0.44-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Q1NGLmaA/bluemapsignmarkers-1.21.5-0.8.0.44-alpha.jar",
+        "sha512": "b8699167742a39f2af6750c7dcb588216a674f4d3edf69ff3e0f9cb828aaf8a2a4c510db3592f7a43a79c39da0013f11c134be5da110d5f744c6a30ed89d2148"
+      },
+      "1_21_5-0_8_0_43-alpha": {
+        "name": "bluemapsignmarkers-1.21.5-0.8.0.43-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/TDdyJFUJ/bluemapsignmarkers-1.21.5-0.8.0.43-alpha.jar",
+        "sha512": "4a13cb8e6b6eebe6ce66b6489b5518f5dad3a71dbb73eb918629dc5aa5a14cb74406b2ebc2b69284737ebc267f3431692269390882be1a7c08ce727acedba6fd"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/r6dv0rGr/bluemapsignmarkers-1.21.4-0.7.1.39-alpha.jar",
-      "sha512": "6fe867732bd4d12dbfe1f74c696973a8ae780df8b671548e42f53c04ed82ffb8e9164c5ba884e36af79bce9a9e849964b6d8c1f1753063d8f92bd7e8e7456c6c",
-      "name": "bluemapsignmarkers-1.21.4-0.7.1.39-alpha.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.4-0.7.1.40.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/cC2uWgOu/bluemapsignmarkers-1.21.4-0.7.1.40.jar",
+        "sha512": "6fe867732bd4d12dbfe1f74c696973a8ae780df8b671548e42f53c04ed82ffb8e9164c5ba884e36af79bce9a9e849964b6d8c1f1753063d8f92bd7e8e7456c6c"
+      },
+      "1_21_4-0_7_1_40": {
+        "name": "bluemapsignmarkers-1.21.4-0.7.1.40.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/cC2uWgOu/bluemapsignmarkers-1.21.4-0.7.1.40.jar",
+        "sha512": "6fe867732bd4d12dbfe1f74c696973a8ae780df8b671548e42f53c04ed82ffb8e9164c5ba884e36af79bce9a9e849964b6d8c1f1753063d8f92bd7e8e7456c6c"
+      },
+      "1_21_4-0_7_1_39-alpha": {
+        "name": "bluemapsignmarkers-1.21.4-0.7.1.39-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/r6dv0rGr/bluemapsignmarkers-1.21.4-0.7.1.39-alpha.jar",
+        "sha512": "6fe867732bd4d12dbfe1f74c696973a8ae780df8b671548e42f53c04ed82ffb8e9164c5ba884e36af79bce9a9e849964b6d8c1f1753063d8f92bd7e8e7456c6c"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/PMstGvVp/bluemapsignmarkers-1.21.3-0.5.2.41.jar",
-      "sha512": "7f9a1a5423db4c682125a7d8f0ad41ba0ae72e50fae2920fdd1a8fef14b62ae1d14ca1b13f75f04ed58b8abdd79aec9b037f72b4913e697eb151c613a99c5777",
-      "name": "bluemapsignmarkers-1.21.3-0.5.2.41.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.3-0.5.2.41.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/PMstGvVp/bluemapsignmarkers-1.21.3-0.5.2.41.jar",
+        "sha512": "7f9a1a5423db4c682125a7d8f0ad41ba0ae72e50fae2920fdd1a8fef14b62ae1d14ca1b13f75f04ed58b8abdd79aec9b037f72b4913e697eb151c613a99c5777"
+      },
+      "1_21_3-0_5_2_41": {
+        "name": "bluemapsignmarkers-1.21.3-0.5.2.41.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/PMstGvVp/bluemapsignmarkers-1.21.3-0.5.2.41.jar",
+        "sha512": "7f9a1a5423db4c682125a7d8f0ad41ba0ae72e50fae2920fdd1a8fef14b62ae1d14ca1b13f75f04ed58b8abdd79aec9b037f72b4913e697eb151c613a99c5777"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/TdhIiGHS/bluemapsignmarkers-1.21.1-0.3.3.22-alpha.jar",
-      "sha512": "f529865cad585d9eced2913bee8d6078ef3bde81f5c67c334dd4036e6ed3539aa2ab3b199c34a94f2e51367755abc4c85b78a82483c1ce12cac4be2d231f8ada",
-      "name": "bluemapsignmarkers-1.21.1-0.3.3.22-alpha.jar"
+    "1_21": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.21.4-0.7.0.38.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/xsq8wY3e/bluemapsignmarkers-1.21.4-0.7.0.38.jar",
+        "sha512": "27232c40e1282c7f07bad3e67fe1302dd239a684683532df259bda4951b710dc925126c05c573e41ad53aec75352732d412a48e1702b52fa246ff5f7f6e56208"
+      },
+      "1_21_4-0_7_0_38": {
+        "name": "bluemapsignmarkers-1.21.4-0.7.0.38.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/xsq8wY3e/bluemapsignmarkers-1.21.4-0.7.0.38.jar",
+        "sha512": "27232c40e1282c7f07bad3e67fe1302dd239a684683532df259bda4951b710dc925126c05c573e41ad53aec75352732d412a48e1702b52fa246ff5f7f6e56208"
+      },
+      "1_21_4-0_6_1_36-alpha": {
+        "name": "bluemapsignmarkers-1.21.4-0.6.1.36-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/6dDULgO7/bluemapsignmarkers-1.21.4-0.6.1.36-alpha.jar",
+        "sha512": "6b8eb5590d40088d66790acc68b3622a3afed9ff3e4e15f5335c3a887e56f8fa22ddb94a12f79ef3aa8c1c717c800dfd9056df570036ab20ec6b81f67bb73262"
+      },
+      "1_21_4-0_6_0_37": {
+        "name": "bluemapsignmarkers-1.21.4-0.6.0.37.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/HQLwuTDm/bluemapsignmarkers-1.21.4-0.6.0.37.jar",
+        "sha512": "5d1cc89d0050b24542d4c639e62e12b7188c22c6742d610f2bc68c207368619179f225b1cd7587afaa2da503420ef253834107ca3608a7beed997df0c922e58f"
+      },
+      "1_21_3-0_5_1_35": {
+        "name": "bluemapsignmarkers-1.21.3-0.5.1.35.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/GrpdNFyD/bluemapsignmarkers-1.21.3-0.5.1.35.jar",
+        "sha512": "813de1164e0e36d4e76dfabf44773382a00cf654008817c08657fca501992cd36b56d048442bf9f7489ad6ac3a2c17c2dc7f1785fdbd136e0219c19e7f07b717"
+      },
+      "1_21_3-0_5_1_34-alpha": {
+        "name": "bluemapsignmarkers-1.21.3-0.5.1.34-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/WWDSZ8t5/bluemapsignmarkers-1.21.3-0.5.1.34-alpha.jar",
+        "sha512": "813de1164e0e36d4e76dfabf44773382a00cf654008817c08657fca501992cd36b56d048442bf9f7489ad6ac3a2c17c2dc7f1785fdbd136e0219c19e7f07b717"
+      },
+      "1_21_3-0_5_0_31": {
+        "name": "bluemapsignmarkers-1.21.3-0.5.0.31.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/bRGMwWmj/bluemapsignmarkers-1.21.3-0.5.0.31.jar",
+        "sha512": "0ebff8f79f892977459fec4c6bbf7520f78ee6a2d276b40b116adf5f437f1d64e0a74abe1cfe437963a5ec198cc96db6d1120f578dfdda3a624a584c0b88d0a5"
+      },
+      "1_21_1-0_3_5_26": {
+        "name": "bluemapsignmarkers-1.21.1-0.3.5.26.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/UbgBZqMf/bluemapsignmarkers-1.21.1-0.3.5.26.jar",
+        "sha512": "ccf3858d78a1be929eaf0450717d42831873e7cbc0a2c017c08a3dff790e4a26211d6577c8e44799e3608802bd121769b3c843baa1011c04089987f971a5acd6"
+      },
+      "1_21_1-0_3_5_25-alpha": {
+        "name": "bluemapsignmarkers-1.21.1-0.3.5.25-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/lRMuRYUl/bluemapsignmarkers-1.21.1-0.3.5.25-alpha.jar",
+        "sha512": "ccf3858d78a1be929eaf0450717d42831873e7cbc0a2c017c08a3dff790e4a26211d6577c8e44799e3608802bd121769b3c843baa1011c04089987f971a5acd6"
+      },
+      "1_21_1-0_3_4_24-alpha": {
+        "name": "bluemapsignmarkers-1.21.1-0.3.4.24-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/NzqSlgw0/bluemapsignmarkers-1.21.1-0.3.4.24-alpha.jar",
+        "sha512": "ce6e2c7c088b205af1301934a9aa6f05eb0e92a3b6ac7ec2356046ce061abafb1ac1723bd30738cad7a45a82210dba24dade5baf19fbb57dc562145a68d1e051"
+      },
+      "1_21_1-0_3_3_23-alpha": {
+        "name": "bluemapsignmarkers-1.21.1-0.3.3.23-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/fxJPxcKC/bluemapsignmarkers-1.21.1-0.3.3.23-alpha.jar",
+        "sha512": "f529865cad585d9eced2913bee8d6078ef3bde81f5c67c334dd4036e6ed3539aa2ab3b199c34a94f2e51367755abc4c85b78a82483c1ce12cac4be2d231f8ada"
+      },
+      "1_21_1-0_3_3_22-alpha": {
+        "name": "bluemapsignmarkers-1.21.1-0.3.3.22-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/TdhIiGHS/bluemapsignmarkers-1.21.1-0.3.3.22-alpha.jar",
+        "sha512": "f529865cad585d9eced2913bee8d6078ef3bde81f5c67c334dd4036e6ed3539aa2ab3b199c34a94f2e51367755abc4c85b78a82483c1ce12cac4be2d231f8ada"
+      },
+      "1_21-0_4_1_33": {
+        "name": "bluemapsignmarkers-1.21-0.4.1.33.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/AaI8kDsr/bluemapsignmarkers-1.21-0.4.1.33.jar",
+        "sha512": "bbb8e2e17e4a5dbff693fcd587fb7d884d4de11d2c60642d3c9ecab1a40fa25601e7e7b9b254817d8fc58418eecd553651117507add4197ecb4d07b42e098234"
+      },
+      "1_21-0_4_1_32-alpha": {
+        "name": "bluemapsignmarkers-1.21-0.4.1.32-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/SQOW5ynI/bluemapsignmarkers-1.21-0.4.1.32-alpha.jar",
+        "sha512": "bbb8e2e17e4a5dbff693fcd587fb7d884d4de11d2c60642d3c9ecab1a40fa25601e7e7b9b254817d8fc58418eecd553651117507add4197ecb4d07b42e098234"
+      },
+      "1_21-0_4_0_30": {
+        "name": "bluemapsignmarkers-1.21-0.4.0.30.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/VHRVIH7k/bluemapsignmarkers-1.21-0.4.0.30.jar",
+        "sha512": "9a76c6cee63e4a36e2dd264ce728255de2b63dcc32dbbdee2954b21d5669415f9f28199af639da7159b24e159fbd97cb76e38958f242c508c34770c93043fe64"
+      },
+      "1_21-0_4_0_29-alpha": {
+        "name": "bluemapsignmarkers-1.21-0.4.0.29-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/nsWCnSWI/bluemapsignmarkers-1.21-0.4.0.29-alpha.jar",
+        "sha512": "9a76c6cee63e4a36e2dd264ce728255de2b63dcc32dbbdee2954b21d5669415f9f28199af639da7159b24e159fbd97cb76e38958f242c508c34770c93043fe64"
+      }
     },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/1iG2EUti/bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar",
-      "sha512": "8056044f18afba6f8bedee35dff228baca36fdc8a7a1e11a0fb0b2265d6368b4ac515d40c33dd290abaf1598e8dae653ad494e3c762cfb67380d9322961306cf",
-      "name": "bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar"
+    "1_20_1": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/FWCxQJGx/bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "sha512": "4ffa85516205e248ac40ad533d2215c13e6307efd2690f7cd5c805c6591b13b366e08eef26dfa46328dc85ff2118239006aa146d7cafd1cbc95c0bc9912ad8fa"
+      },
+      "1_20_1-0_2_4_28": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/FWCxQJGx/bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "sha512": "4ffa85516205e248ac40ad533d2215c13e6307efd2690f7cd5c805c6591b13b366e08eef26dfa46328dc85ff2118239006aa146d7cafd1cbc95c0bc9912ad8fa"
+      },
+      "1_20_1-0_2_4_27-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.4.27-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/lD8640p6/bluemapsignmarkers-1.20.1-0.2.4.27-alpha.jar",
+        "sha512": "4ffa85516205e248ac40ad533d2215c13e6307efd2690f7cd5c805c6591b13b366e08eef26dfa46328dc85ff2118239006aa146d7cafd1cbc95c0bc9912ad8fa"
+      },
+      "1_20_1-0_2_3_20": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.3.20.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/z3yB40sT/bluemapsignmarkers-1.20.1-0.2.3.20.jar",
+        "sha512": "1019d31a798251a8f494923589628d409161315d59f7c1e1e2b0e0bda63ea085b2f5c11bf918cefe0efe2c45b292a2b2c934e0f51e28abc7a8c6ac6381e30f51"
+      },
+      "1_20_1-0_2_3_19-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.3.19-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/AV9C8kgF/bluemapsignmarkers-1.20.1-0.2.3.19-alpha.jar",
+        "sha512": "1019d31a798251a8f494923589628d409161315d59f7c1e1e2b0e0bda63ea085b2f5c11bf918cefe0efe2c45b292a2b2c934e0f51e28abc7a8c6ac6381e30f51"
+      },
+      "1_20_1-0_2_2_18-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.2.18-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/VXHU2BwA/bluemapsignmarkers-1.20.1-0.2.2.18-alpha.jar",
+        "sha512": "8d48a1a5247ab681c201de6a467a1eafd148a1e0ca0471923791f293c0e2304e2e5cecd516106b81d09508f36a12eb55d3db08cf5dd7e684c0e9b48d735b6caa"
+      },
+      "1_20_1-0_2_1_17-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.1.17-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/eabJ0rIe/bluemapsignmarkers-1.20.1-0.2.1.17-alpha.jar",
+        "sha512": "3046e15c8c2527ae36aa8f1656cc612db8dbfe0260d1332bdb25d9fec779f8c36bdf37ecdd5be2fe2ac99048e5d9db396e0a4ad25d9a8a2f287f509c97ed72c4"
+      },
+      "1_20_1-0_2_1_16-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.1.16-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/SD1JdZCs/bluemapsignmarkers-1.20.1-0.2.1.16-alpha.jar",
+        "sha512": "e4a68d3db1cf3350b3e9cb5353fc46e82d08ef85b9235e6014e01d1c2a0e28518cd159257057d67cdb6c1012fc79c34d2163e9bca0c5fc6e9550d7d5d4b1986b"
+      },
+      "1_20_1-0_2_0_15": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.0.15.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/zUxqrjdK/bluemapsignmarkers-1.20.1-0.2.0.15.jar",
+        "sha512": "22df40d61ab09fb77123a5142e5f2b98a1bb930cac0ae0b1f837aed26bd76d393157ce35877a6f6301336fd72bba0017fa76e98976b902bfd55b73e9bbf96829"
+      },
+      "1_20_1-0_2_0_14-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.0.14-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/JrBZgJVp/bluemapsignmarkers-1.20.1-0.2.0.14-alpha.jar",
+        "sha512": "22df40d61ab09fb77123a5142e5f2b98a1bb930cac0ae0b1f837aed26bd76d393157ce35877a6f6301336fd72bba0017fa76e98976b902bfd55b73e9bbf96829"
+      },
+      "1_20_1-0_1_2_13": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.2.13.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/ue3yQUBe/bluemapsignmarkers-1.20.1-0.1.2.13.jar",
+        "sha512": "314ea9d566c666c57d5c668ab6c2ae95d9d89c7777d83f42fae7a5a63635bb05e37ad22439583d6f14a87502fc942f0ff43c34ab476c4a82a8af382b52723960"
+      },
+      "1_20_1-0_1_2_12-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.2.12-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/KCQLs5Uv/bluemapsignmarkers-1.20.1-0.1.2.12-alpha.jar",
+        "sha512": "314ea9d566c666c57d5c668ab6c2ae95d9d89c7777d83f42fae7a5a63635bb05e37ad22439583d6f14a87502fc942f0ff43c34ab476c4a82a8af382b52723960"
+      },
+      "1_20_1-0_1_1_10": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.1.10.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/ZLr8LIpw/bluemapsignmarkers-1.20.1-0.1.1.10.jar",
+        "sha512": "903038f5d2e20de3165fe646317a900fb26b79130947d8d166a38ffd55361acb54def5442fd98424d34f7155513bbd278903b046cd13947c9fe47c7d9bf9675c"
+      },
+      "1_20_1-0_1_1_9-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.1.9-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Qohep13x/bluemapsignmarkers-1.20.1-0.1.1.9-alpha.jar",
+        "sha512": "903038f5d2e20de3165fe646317a900fb26b79130947d8d166a38ffd55361acb54def5442fd98424d34f7155513bbd278903b046cd13947c9fe47c7d9bf9675c"
+      },
+      "1_20_1-0_1_0_8": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/IrMCXF7I/bluemapsignmarkers-1.20.1-0.1.0.8.jar",
+        "sha512": "8327c2b9460654a96488a979e0a04307da0692905cab5066e168741476c2a60dd0cd806fbac911a568f24003855472afa9d137f313024c4791bd28ee19668f81"
+      },
+      "1_20_1-0_0_4_7-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.4.7-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/CKNeGVly/bluemapsignmarkers-1.20.1-0.0.4.7-alpha.jar",
+        "sha512": "2e85730ba335a885fb0c1ef41143f0c925df7e51a73f2bac51aa9b903fa861acc33251305b10cc8c455c8c1649212ffa14e6894f8e62d0fb9424fe16e664d968"
+      },
+      "1_20_1-0_0_3_6": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.3.6.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/kcjHLYkE/bluemapsignmarkers-1.20.1-0.0.3.6.jar",
+        "sha512": "37de16d9f4cfde3f2d441a955abd18eba9fdb2c9b2d104ff2ac2fd7eef42b5f5a07cdeef50593fa0ff03d2355a5c05d658a3e3bd64100f573e6b7a69bcee0408"
+      },
+      "1_20_1-0_0_2_5": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/HCISrHli/bluemapsignmarkers-1.20.1-0.0.2.5.jar",
+        "sha512": "8056044f18afba6f8bedee35dff228baca36fdc8a7a1e11a0fb0b2265d6368b4ac515d40c33dd290abaf1598e8dae653ad494e3c762cfb67380d9322961306cf"
+      },
+      "1_20_1-0_0_2_4-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/1iG2EUti/bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar",
+        "sha512": "8056044f18afba6f8bedee35dff228baca36fdc8a7a1e11a0fb0b2265d6368b4ac515d40c33dd290abaf1598e8dae653ad494e3c762cfb67380d9322961306cf"
+      }
     },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/1iG2EUti/bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar",
-      "sha512": "8056044f18afba6f8bedee35dff228baca36fdc8a7a1e11a0fb0b2265d6368b4ac515d40c33dd290abaf1598e8dae653ad494e3c762cfb67380d9322961306cf",
-      "name": "bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar"
+    "1_20": {
+      "latest": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/FWCxQJGx/bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "sha512": "4ffa85516205e248ac40ad533d2215c13e6307efd2690f7cd5c805c6591b13b366e08eef26dfa46328dc85ff2118239006aa146d7cafd1cbc95c0bc9912ad8fa"
+      },
+      "1_20_1-0_2_4_28": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/FWCxQJGx/bluemapsignmarkers-1.20.1-0.2.4.28.jar",
+        "sha512": "4ffa85516205e248ac40ad533d2215c13e6307efd2690f7cd5c805c6591b13b366e08eef26dfa46328dc85ff2118239006aa146d7cafd1cbc95c0bc9912ad8fa"
+      },
+      "1_20_1-0_2_4_27-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.4.27-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/lD8640p6/bluemapsignmarkers-1.20.1-0.2.4.27-alpha.jar",
+        "sha512": "4ffa85516205e248ac40ad533d2215c13e6307efd2690f7cd5c805c6591b13b366e08eef26dfa46328dc85ff2118239006aa146d7cafd1cbc95c0bc9912ad8fa"
+      },
+      "1_20_1-0_2_3_20": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.3.20.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/z3yB40sT/bluemapsignmarkers-1.20.1-0.2.3.20.jar",
+        "sha512": "1019d31a798251a8f494923589628d409161315d59f7c1e1e2b0e0bda63ea085b2f5c11bf918cefe0efe2c45b292a2b2c934e0f51e28abc7a8c6ac6381e30f51"
+      },
+      "1_20_1-0_2_3_19-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.3.19-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/AV9C8kgF/bluemapsignmarkers-1.20.1-0.2.3.19-alpha.jar",
+        "sha512": "1019d31a798251a8f494923589628d409161315d59f7c1e1e2b0e0bda63ea085b2f5c11bf918cefe0efe2c45b292a2b2c934e0f51e28abc7a8c6ac6381e30f51"
+      },
+      "1_20_1-0_2_2_18-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.2.18-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/VXHU2BwA/bluemapsignmarkers-1.20.1-0.2.2.18-alpha.jar",
+        "sha512": "8d48a1a5247ab681c201de6a467a1eafd148a1e0ca0471923791f293c0e2304e2e5cecd516106b81d09508f36a12eb55d3db08cf5dd7e684c0e9b48d735b6caa"
+      },
+      "1_20_1-0_2_1_17-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.1.17-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/eabJ0rIe/bluemapsignmarkers-1.20.1-0.2.1.17-alpha.jar",
+        "sha512": "3046e15c8c2527ae36aa8f1656cc612db8dbfe0260d1332bdb25d9fec779f8c36bdf37ecdd5be2fe2ac99048e5d9db396e0a4ad25d9a8a2f287f509c97ed72c4"
+      },
+      "1_20_1-0_2_1_16-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.1.16-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/SD1JdZCs/bluemapsignmarkers-1.20.1-0.2.1.16-alpha.jar",
+        "sha512": "e4a68d3db1cf3350b3e9cb5353fc46e82d08ef85b9235e6014e01d1c2a0e28518cd159257057d67cdb6c1012fc79c34d2163e9bca0c5fc6e9550d7d5d4b1986b"
+      },
+      "1_20_1-0_2_0_15": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.0.15.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/zUxqrjdK/bluemapsignmarkers-1.20.1-0.2.0.15.jar",
+        "sha512": "22df40d61ab09fb77123a5142e5f2b98a1bb930cac0ae0b1f837aed26bd76d393157ce35877a6f6301336fd72bba0017fa76e98976b902bfd55b73e9bbf96829"
+      },
+      "1_20_1-0_2_0_14-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.2.0.14-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/JrBZgJVp/bluemapsignmarkers-1.20.1-0.2.0.14-alpha.jar",
+        "sha512": "22df40d61ab09fb77123a5142e5f2b98a1bb930cac0ae0b1f837aed26bd76d393157ce35877a6f6301336fd72bba0017fa76e98976b902bfd55b73e9bbf96829"
+      },
+      "1_20_1-0_1_2_13": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.2.13.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/ue3yQUBe/bluemapsignmarkers-1.20.1-0.1.2.13.jar",
+        "sha512": "314ea9d566c666c57d5c668ab6c2ae95d9d89c7777d83f42fae7a5a63635bb05e37ad22439583d6f14a87502fc942f0ff43c34ab476c4a82a8af382b52723960"
+      },
+      "1_20_1-0_1_2_12-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.2.12-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/KCQLs5Uv/bluemapsignmarkers-1.20.1-0.1.2.12-alpha.jar",
+        "sha512": "314ea9d566c666c57d5c668ab6c2ae95d9d89c7777d83f42fae7a5a63635bb05e37ad22439583d6f14a87502fc942f0ff43c34ab476c4a82a8af382b52723960"
+      },
+      "1_20_1-0_1_1_10": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.1.10.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/ZLr8LIpw/bluemapsignmarkers-1.20.1-0.1.1.10.jar",
+        "sha512": "903038f5d2e20de3165fe646317a900fb26b79130947d8d166a38ffd55361acb54def5442fd98424d34f7155513bbd278903b046cd13947c9fe47c7d9bf9675c"
+      },
+      "1_20_1-0_1_1_9-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.1.9-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/Qohep13x/bluemapsignmarkers-1.20.1-0.1.1.9-alpha.jar",
+        "sha512": "903038f5d2e20de3165fe646317a900fb26b79130947d8d166a38ffd55361acb54def5442fd98424d34f7155513bbd278903b046cd13947c9fe47c7d9bf9675c"
+      },
+      "1_20_1-0_1_0_8": {
+        "name": "bluemapsignmarkers-1.20.1-0.1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/IrMCXF7I/bluemapsignmarkers-1.20.1-0.1.0.8.jar",
+        "sha512": "8327c2b9460654a96488a979e0a04307da0692905cab5066e168741476c2a60dd0cd806fbac911a568f24003855472afa9d137f313024c4791bd28ee19668f81"
+      },
+      "1_20_1-0_0_4_7-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.4.7-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/CKNeGVly/bluemapsignmarkers-1.20.1-0.0.4.7-alpha.jar",
+        "sha512": "2e85730ba335a885fb0c1ef41143f0c925df7e51a73f2bac51aa9b903fa861acc33251305b10cc8c455c8c1649212ffa14e6894f8e62d0fb9424fe16e664d968"
+      },
+      "1_20_1-0_0_3_6": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.3.6.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/kcjHLYkE/bluemapsignmarkers-1.20.1-0.0.3.6.jar",
+        "sha512": "37de16d9f4cfde3f2d441a955abd18eba9fdb2c9b2d104ff2ac2fd7eef42b5f5a07cdeef50593fa0ff03d2355a5c05d658a3e3bd64100f573e6b7a69bcee0408"
+      },
+      "1_20_1-0_0_2_5": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/HCISrHli/bluemapsignmarkers-1.20.1-0.0.2.5.jar",
+        "sha512": "8056044f18afba6f8bedee35dff228baca36fdc8a7a1e11a0fb0b2265d6368b4ac515d40c33dd290abaf1598e8dae653ad494e3c762cfb67380d9322961306cf"
+      },
+      "1_20_1-0_0_2_4-alpha": {
+        "name": "bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/i5ZtmNIW/versions/1iG2EUti/bluemapsignmarkers-1.20.1-0.0.2.4-alpha.jar",
+        "sha512": "8056044f18afba6f8bedee35dff228baca36fdc8a7a1e11a0fb0b2265d6368b4ac515d40c33dd290abaf1598e8dae653ad494e3c762cfb67380d9322961306cf"
+      }
     }
   }
 }

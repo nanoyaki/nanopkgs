@@ -1,91 +1,354 @@
 {
   "neoforge": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/IFl82cRt/ScalableLux-0.1.6%2Bneoforge.d31dbcf-all.jar",
-      "sha512": "bbc649d68ee18a48e56cc9b2ba5113b58ef6d9dc3a7776a5cc92f25c3a601fece1697f1f0a625bc39667426847889ad328a539408b52d37656ec2530406aee76",
-      "name": "ScalableLux-0.1.6+neoforge.d31dbcf-all.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "ScalableLux-0.1.6+neoforge.d31dbcf-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/IFl82cRt/ScalableLux-0.1.6%2Bneoforge.d31dbcf-all.jar",
+        "sha512": "bbc649d68ee18a48e56cc9b2ba5113b58ef6d9dc3a7776a5cc92f25c3a601fece1697f1f0a625bc39667426847889ad328a539408b52d37656ec2530406aee76"
+      },
+      "0_1_6_d31dbcf": {
+        "name": "ScalableLux-0.1.6+neoforge.d31dbcf-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/IFl82cRt/ScalableLux-0.1.6%2Bneoforge.d31dbcf-all.jar",
+        "sha512": "bbc649d68ee18a48e56cc9b2ba5113b58ef6d9dc3a7776a5cc92f25c3a601fece1697f1f0a625bc39667426847889ad328a539408b52d37656ec2530406aee76"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/IFl82cRt/ScalableLux-0.1.6%2Bneoforge.d31dbcf-all.jar",
-      "sha512": "bbc649d68ee18a48e56cc9b2ba5113b58ef6d9dc3a7776a5cc92f25c3a601fece1697f1f0a625bc39667426847889ad328a539408b52d37656ec2530406aee76",
-      "name": "ScalableLux-0.1.6+neoforge.d31dbcf-all.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "ScalableLux-0.1.6+neoforge.d31dbcf-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/IFl82cRt/ScalableLux-0.1.6%2Bneoforge.d31dbcf-all.jar",
+        "sha512": "bbc649d68ee18a48e56cc9b2ba5113b58ef6d9dc3a7776a5cc92f25c3a601fece1697f1f0a625bc39667426847889ad328a539408b52d37656ec2530406aee76"
+      },
+      "0_1_6_d31dbcf": {
+        "name": "ScalableLux-0.1.6+neoforge.d31dbcf-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/IFl82cRt/ScalableLux-0.1.6%2Bneoforge.d31dbcf-all.jar",
+        "sha512": "bbc649d68ee18a48e56cc9b2ba5113b58ef6d9dc3a7776a5cc92f25c3a601fece1697f1f0a625bc39667426847889ad328a539408b52d37656ec2530406aee76"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ADL9jVT2/ScalableLux-0.1.5%2Bneoforge.4c941f5-all.jar",
-      "sha512": "03a7b799ceceae72579ac15689669bb4c9f0e1954f8b84dd053c16c904934b1c808fa01e8ed298851ec488572d925c694ca426e3beb03385459d703e946d2e18",
-      "name": "ScalableLux-0.1.5+neoforge.4c941f5-all.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "ScalableLux-0.1.5+neoforge.4c941f5-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ADL9jVT2/ScalableLux-0.1.5%2Bneoforge.4c941f5-all.jar",
+        "sha512": "03a7b799ceceae72579ac15689669bb4c9f0e1954f8b84dd053c16c904934b1c808fa01e8ed298851ec488572d925c694ca426e3beb03385459d703e946d2e18"
+      },
+      "0_1_5_4c941f5": {
+        "name": "ScalableLux-0.1.5+neoforge.4c941f5-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ADL9jVT2/ScalableLux-0.1.5%2Bneoforge.4c941f5-all.jar",
+        "sha512": "03a7b799ceceae72579ac15689669bb4c9f0e1954f8b84dd053c16c904934b1c808fa01e8ed298851ec488572d925c694ca426e3beb03385459d703e946d2e18"
+      },
+      "0_1_5_1_f7c210f": {
+        "name": "ScalableLux-0.1.5.1+neoforge.f7c210f-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/3omiNULV/ScalableLux-0.1.5.1%2Bneoforge.f7c210f-all.jar",
+        "sha512": "125c646f3540c658813a0e61505b1bb67a5246d5ab1e62dc755a1dcdc71d511f1eab7c18b49adfcd4dd35cb330927036d18e2b9fde9dabbfda679241b1db6700"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/5BWDA5mK/ScalableLux-0.1.3%2Bbeta.1%2Bneoforge.835ef64-all.jar",
-      "sha512": "8e2490c0dd14f5fcdd98e0e7121c57f70a01ed9c8a1c108db5c8288bb31f58f718d3e4348ad8535a7255c31a22261a82ad15f6413f58daf7483d0f4ce00e38ff",
-      "name": "ScalableLux-0.1.3+beta.1+neoforge.835ef64-all.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "ScalableLux-0.1.3+beta.1+neoforge.835ef64-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/5BWDA5mK/ScalableLux-0.1.3%2Bbeta.1%2Bneoforge.835ef64-all.jar",
+        "sha512": "8e2490c0dd14f5fcdd98e0e7121c57f70a01ed9c8a1c108db5c8288bb31f58f718d3e4348ad8535a7255c31a22261a82ad15f6413f58daf7483d0f4ce00e38ff"
+      },
+      "0_1_3+beta_1_835ef64": {
+        "name": "ScalableLux-0.1.3+beta.1+neoforge.835ef64-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/5BWDA5mK/ScalableLux-0.1.3%2Bbeta.1%2Bneoforge.835ef64-all.jar",
+        "sha512": "8e2490c0dd14f5fcdd98e0e7121c57f70a01ed9c8a1c108db5c8288bb31f58f718d3e4348ad8535a7255c31a22261a82ad15f6413f58daf7483d0f4ce00e38ff"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/hMikF7m6/ScalableLux-0.1.0%2Bbeta.1%2Bneoforge.00d9474-all.jar",
-      "sha512": "086a2cdc277df62a56bebc4f3905957602daa7dc8bcb5fb922650ae6ebb46780c195c236a38485f5a21a0bbc055d86744ff0df9a2731a2cd9595943d74f2507e",
-      "name": "ScalableLux-0.1.0+beta.1+neoforge.00d9474-all.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "ScalableLux-0.1.0+beta.2+neoforge.1a07a27-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/KWMX8X1a/ScalableLux-0.1.0%2Bbeta.2%2Bneoforge.1a07a27-all.jar",
+        "sha512": "64309469e3c46104294cfde31af4d840a38cfed7e49a35d289bb25b86321f7f01cf77109ba0800fb9fde49b34e52a1e5a0b5f0c2407804b799551aa5f720164e"
+      },
+      "0_1_0+beta_2_1a07a27": {
+        "name": "ScalableLux-0.1.0+beta.2+neoforge.1a07a27-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/KWMX8X1a/ScalableLux-0.1.0%2Bbeta.2%2Bneoforge.1a07a27-all.jar",
+        "sha512": "64309469e3c46104294cfde31af4d840a38cfed7e49a35d289bb25b86321f7f01cf77109ba0800fb9fde49b34e52a1e5a0b5f0c2407804b799551aa5f720164e"
+      },
+      "0_1_0_1_1cb1e91": {
+        "name": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/j10HNoNf/ScalableLux-0.1.0.1%2Bneoforge.1cb1e91-all.jar",
+        "sha512": "9378b6a70eca81b018121c01a1467c16245ee3f0bb3cfeece6e9045508ae18834256aed4a72d045df9fc3feca94f006518788260e47094173fa64c39d8450223"
+      },
+      "0_1_0+beta_1_00d9474": {
+        "name": "ScalableLux-0.1.0+beta.1+neoforge.00d9474-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/hMikF7m6/ScalableLux-0.1.0%2Bbeta.1%2Bneoforge.00d9474-all.jar",
+        "sha512": "086a2cdc277df62a56bebc4f3905957602daa7dc8bcb5fb922650ae6ebb46780c195c236a38485f5a21a0bbc055d86744ff0df9a2731a2cd9595943d74f2507e"
+      }
     }
   },
   "fabric": {
-    "1.21.11": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
-      "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7",
-      "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar"
+    "1_21_11": {
+      "latest": {
+        "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
+        "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7"
+      },
+      "0_1_6_c25518a": {
+        "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
+        "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7"
+      }
     },
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
-      "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7",
-      "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
+        "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7"
+      },
+      "0_1_6_c25518a": {
+        "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
+        "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
-      "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7",
-      "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
+        "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7"
+      },
+      "0_1_6_c25518a": {
+        "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
+        "sha512": "729515c1e75cf8d9cd704f12b3487ddb9664cf9928e7b85b12289c8fbbc7ed82d0211e1851375cbd5b385820b4fedbc3f617038fff5e30b302047b0937042ae7"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
-      "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a",
-      "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
+        "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a"
+      },
+      "0_1_5_e4acdcb": {
+        "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
+        "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a"
+      },
+      "0_1_5_1_abdeefa": {
+        "name": "ScalableLux-0.1.5.1+fabric.abdeefa-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Bi5i8Ema/ScalableLux-0.1.5.1%2Bfabric.abdeefa-all.jar",
+        "sha512": "421e1691e8d9506def48910bb15c99413eaf69b1c4fe5b729f513f4c2e1cd25ddb8155397e9c9ebab353ce72850a7ca62619c85fdd06d39bc87cfa7520af0281"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
-      "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a",
-      "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
+        "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a"
+      },
+      "0_1_5_e4acdcb": {
+        "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
+        "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a"
+      },
+      "0_1_5_1_abdeefa": {
+        "name": "ScalableLux-0.1.5.1+fabric.abdeefa-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Bi5i8Ema/ScalableLux-0.1.5.1%2Bfabric.abdeefa-all.jar",
+        "sha512": "421e1691e8d9506def48910bb15c99413eaf69b1c4fe5b729f513f4c2e1cd25ddb8155397e9c9ebab353ce72850a7ca62619c85fdd06d39bc87cfa7520af0281"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/vNOezq1q/ScalableLux-0.1.4%2Bfabric.b88b7b4-all.jar",
-      "sha512": "08519ef0071d269bd716fe6fe4f3d2e9e9ed11246db1f361928388cc8e4a4d4125cd0d9500e8b4328f9058cde64e54e66cea77a619f2dff03f654176a6b4c798",
-      "name": "ScalableLux-0.1.4+fabric.b88b7b4-all.jar"
+    "1_21_6-rc1": {
+      "latest": {
+        "name": "ScalableLux-0.1.4+fabric.b88b7b4-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/vNOezq1q/ScalableLux-0.1.4%2Bfabric.b88b7b4-all.jar",
+        "sha512": "08519ef0071d269bd716fe6fe4f3d2e9e9ed11246db1f361928388cc8e4a4d4125cd0d9500e8b4328f9058cde64e54e66cea77a619f2dff03f654176a6b4c798"
+      },
+      "0_1_4_b88b7b4": {
+        "name": "ScalableLux-0.1.4+fabric.b88b7b4-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/vNOezq1q/ScalableLux-0.1.4%2Bfabric.b88b7b4-all.jar",
+        "sha512": "08519ef0071d269bd716fe6fe4f3d2e9e9ed11246db1f361928388cc8e4a4d4125cd0d9500e8b4328f9058cde64e54e66cea77a619f2dff03f654176a6b4c798"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar",
-      "sha512": "144dd32f5f7b9c015ae2ff2efc8ba58c561d0fae7a22aba071f0d45f8b3154ae8d23783e9a0308c80eee51857a0ef68191c444830e5da3b44021f03b55a26da2",
-      "name": "ScalableLux-0.1.3+beta.1+fabric.4039a8d-all.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
+        "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a"
+      },
+      "0_1_5_e4acdcb": {
+        "name": "ScalableLux-0.1.5+fabric.e4acdcb-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PQLHDg2Q/ScalableLux-0.1.5%2Bfabric.e4acdcb-all.jar",
+        "sha512": "ec8fabc3bf991fbcbe064c1e97ded3e70f145a87e436056241cbb1e14c57ea9f59ef312f24c205160ccbda43f693e05d652b7f19aa71f730caec3bb5f7f7820a"
+      },
+      "0_1_5_1_abdeefa": {
+        "name": "ScalableLux-0.1.5.1+fabric.abdeefa-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Bi5i8Ema/ScalableLux-0.1.5.1%2Bfabric.abdeefa-all.jar",
+        "sha512": "421e1691e8d9506def48910bb15c99413eaf69b1c4fe5b729f513f4c2e1cd25ddb8155397e9c9ebab353ce72850a7ca62619c85fdd06d39bc87cfa7520af0281"
+      },
+      "0_1_4_b88b7b4": {
+        "name": "ScalableLux-0.1.4+fabric.b88b7b4-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/vNOezq1q/ScalableLux-0.1.4%2Bfabric.b88b7b4-all.jar",
+        "sha512": "08519ef0071d269bd716fe6fe4f3d2e9e9ed11246db1f361928388cc8e4a4d4125cd0d9500e8b4328f9058cde64e54e66cea77a619f2dff03f654176a6b4c798"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/DUpB8IQV/ScalableLux-0.1.1%2Bfabric.452731d-all.jar",
-      "sha512": "2f985e3bcca07eea0771ab5a88eca433460510f11af0efdfa01d2ffeb5f8628b3a12100ec50db2d2aa9567dd11684e027d9442be16f7e658ce5946706d9e4f6b",
-      "name": "ScalableLux-0.1.1+fabric.452731d-all.jar"
+    "1_21_5-rc2": {
+      "latest": {
+        "name": "ScalableLux-0.1.3+beta.1+fabric.4039a8d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar",
+        "sha512": "144dd32f5f7b9c015ae2ff2efc8ba58c561d0fae7a22aba071f0d45f8b3154ae8d23783e9a0308c80eee51857a0ef68191c444830e5da3b44021f03b55a26da2"
+      },
+      "0_1_3+beta_1_4039a8d": {
+        "name": "ScalableLux-0.1.3+beta.1+fabric.4039a8d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar",
+        "sha512": "144dd32f5f7b9c015ae2ff2efc8ba58c561d0fae7a22aba071f0d45f8b3154ae8d23783e9a0308c80eee51857a0ef68191c444830e5da3b44021f03b55a26da2"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/JN1Vih6F/ScalableLux-0.1.1%2Bbeta.3%2Bfabric.30cf95d-all.jar",
-      "sha512": "56e38a4432f7eab4964d2552a80a4b785abfe64995e6af026a63b1b0d25dadbf325d0a2b8bb24a537e46a03f94e1893f865104ad401824eeab7bc2580c2d7f43",
-      "name": "ScalableLux-0.1.1+beta.3+fabric.30cf95d-all.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "ScalableLux-0.1.3+beta.1+fabric.4039a8d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar",
+        "sha512": "144dd32f5f7b9c015ae2ff2efc8ba58c561d0fae7a22aba071f0d45f8b3154ae8d23783e9a0308c80eee51857a0ef68191c444830e5da3b44021f03b55a26da2"
+      },
+      "0_1_3+beta_1_4039a8d": {
+        "name": "ScalableLux-0.1.3+beta.1+fabric.4039a8d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar",
+        "sha512": "144dd32f5f7b9c015ae2ff2efc8ba58c561d0fae7a22aba071f0d45f8b3154ae8d23783e9a0308c80eee51857a0ef68191c444830e5da3b44021f03b55a26da2"
+      },
+      "0_1_3_1_ce1e005": {
+        "name": "ScalableLux-0.1.3.1+fabric.ce1e005-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/HOeUVEEY/ScalableLux-0.1.3.1%2Bfabric.ce1e005-all.jar",
+        "sha512": "243abfc8c2bc2a2ea27574888b5321604bd4c07335e85b869f077ab3b6fe55a80a7384f34fa0493b015b0c9b962ee077625ea151663dfc3b64b26b0c38492275"
+      }
     },
-    "1.21.2": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/JN1Vih6F/ScalableLux-0.1.1%2Bbeta.3%2Bfabric.30cf95d-all.jar",
-      "sha512": "56e38a4432f7eab4964d2552a80a4b785abfe64995e6af026a63b1b0d25dadbf325d0a2b8bb24a537e46a03f94e1893f865104ad401824eeab7bc2580c2d7f43",
-      "name": "ScalableLux-0.1.1+beta.3+fabric.30cf95d-all.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "ScalableLux-0.1.2+fabric.87468e8-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/brerLvPf/ScalableLux-0.1.2%2Bfabric.87468e8-all.jar",
+        "sha512": "ba4223be1e5f983f9ab0a186f2e63f07034e0d39ab009d6b4e59cb1f37e18d6139c669f0ea043b892c4211f79a68f61ebf6d500c0c8742babfa7a49b551cd68a"
+      },
+      "0_1_2_87468e8": {
+        "name": "ScalableLux-0.1.2+fabric.87468e8-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/brerLvPf/ScalableLux-0.1.2%2Bfabric.87468e8-all.jar",
+        "sha512": "ba4223be1e5f983f9ab0a186f2e63f07034e0d39ab009d6b4e59cb1f37e18d6139c669f0ea043b892c4211f79a68f61ebf6d500c0c8742babfa7a49b551cd68a"
+      },
+      "0_1_2+beta_1_6d46f24": {
+        "name": "ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/otxwJ9w3/ScalableLux-0.1.2%2Bbeta.1%2Bfabric.6d46f24-all.jar",
+        "sha512": "c830a166205b5238bf9409fe4e7c975a33077401d125bfbf5b5b966a2345c456f858142db12b8c85bb20f298a7970a3a82a9d15bd2b83990179fb6ba0f014aa2"
+      },
+      "0_1_1_452731d": {
+        "name": "ScalableLux-0.1.1+fabric.452731d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/DUpB8IQV/ScalableLux-0.1.1%2Bfabric.452731d-all.jar",
+        "sha512": "2f985e3bcca07eea0771ab5a88eca433460510f11af0efdfa01d2ffeb5f8628b3a12100ec50db2d2aa9567dd11684e027d9442be16f7e658ce5946706d9e4f6b"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/yGBzVpiV/ScalableLux-0.1.0%2Brc.1%2Bfabric.43c9882-all.jar",
-      "sha512": "02d2ed9472101816fff10d98b17df8120e23369f81306a6e6da1bbe8da037b39f5ddfa704087ac124be7da51f0a6bd63bc23c58924aa551b949658fb81daf569",
-      "name": "ScalableLux-0.1.0+rc.1+fabric.43c9882-all.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/otxwJ9w3/ScalableLux-0.1.2%2Bbeta.1%2Bfabric.6d46f24-all.jar",
+        "sha512": "c830a166205b5238bf9409fe4e7c975a33077401d125bfbf5b5b966a2345c456f858142db12b8c85bb20f298a7970a3a82a9d15bd2b83990179fb6ba0f014aa2"
+      },
+      "0_1_2+beta_1_6d46f24": {
+        "name": "ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/otxwJ9w3/ScalableLux-0.1.2%2Bbeta.1%2Bfabric.6d46f24-all.jar",
+        "sha512": "c830a166205b5238bf9409fe4e7c975a33077401d125bfbf5b5b966a2345c456f858142db12b8c85bb20f298a7970a3a82a9d15bd2b83990179fb6ba0f014aa2"
+      },
+      "0_1_1_452731d": {
+        "name": "ScalableLux-0.1.1+fabric.452731d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/DUpB8IQV/ScalableLux-0.1.1%2Bfabric.452731d-all.jar",
+        "sha512": "2f985e3bcca07eea0771ab5a88eca433460510f11af0efdfa01d2ffeb5f8628b3a12100ec50db2d2aa9567dd11684e027d9442be16f7e658ce5946706d9e4f6b"
+      },
+      "0_1_1+beta_4_9c7b699": {
+        "name": "ScalableLux-0.1.1+beta.4+fabric.9c7b699-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/lAjbB41i/ScalableLux-0.1.1%2Bbeta.4%2Bfabric.9c7b699-all.jar",
+        "sha512": "caf48153b9d7fcb27d5638e412b8727021dbf926db30a3b0e144a6a52f1c66c607c98767d0e2aef9d0b047e819622bdfb454e52a752e0644f64bd738fc9dddb6"
+      },
+      "0_1_1+beta_3_30cf95d": {
+        "name": "ScalableLux-0.1.1+beta.3+fabric.30cf95d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/JN1Vih6F/ScalableLux-0.1.1%2Bbeta.3%2Bfabric.30cf95d-all.jar",
+        "sha512": "56e38a4432f7eab4964d2552a80a4b785abfe64995e6af026a63b1b0d25dadbf325d0a2b8bb24a537e46a03f94e1893f865104ad401824eeab7bc2580c2d7f43"
+      },
+      "0_1_1+rc_2_3ed8e44": {
+        "name": "ScalableLux-0.1.1+rc.2+fabric.3ed8e44-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/RLWPV10v/ScalableLux-0.1.1%2Brc.2%2Bfabric.3ed8e44-all.jar",
+        "sha512": "b5bb8a089c0a1d6deec3ae6a8d85c54cc24d1006f4c40d058bef935d95b746df3f9091990a289a2781bb71a5e782ab6ea73b453cd4487bea812dacf1f7d14f54"
+      },
+      "0_1_1+rc_1_dac63da": {
+        "name": "ScalableLux-0.1.1+rc.1+fabric.dac63da-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/tSPt7q5O/ScalableLux-0.1.1%2Brc.1%2Bfabric.dac63da-all.jar",
+        "sha512": "540e9fd45df96c3682086729de54b7a7a287b646ca90e14094c8e8533bc6e756113bc66fce0578cf609ea72ee17bb8ec26e90cc85ef87d5aa555a47e600c61de"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/V7KCULea/ScalableLux-0.1.0%2Bbeta.1%2Bfabric.fc82f44-all.jar",
-      "sha512": "d9726175aa83b022f16af0d44dda3f0fd8477572eef3db7b02d37c177bd0427bc93bc51ad0a179f3df2f490bc86d541e1de06102835b09266c75fe993ac386f9",
-      "name": "ScalableLux-0.1.0+beta.1+fabric.fc82f44-all.jar"
+    "1_21_2": {
+      "latest": {
+        "name": "ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/otxwJ9w3/ScalableLux-0.1.2%2Bbeta.1%2Bfabric.6d46f24-all.jar",
+        "sha512": "c830a166205b5238bf9409fe4e7c975a33077401d125bfbf5b5b966a2345c456f858142db12b8c85bb20f298a7970a3a82a9d15bd2b83990179fb6ba0f014aa2"
+      },
+      "0_1_2+beta_1_6d46f24": {
+        "name": "ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/otxwJ9w3/ScalableLux-0.1.2%2Bbeta.1%2Bfabric.6d46f24-all.jar",
+        "sha512": "c830a166205b5238bf9409fe4e7c975a33077401d125bfbf5b5b966a2345c456f858142db12b8c85bb20f298a7970a3a82a9d15bd2b83990179fb6ba0f014aa2"
+      },
+      "0_1_1_452731d": {
+        "name": "ScalableLux-0.1.1+fabric.452731d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/DUpB8IQV/ScalableLux-0.1.1%2Bfabric.452731d-all.jar",
+        "sha512": "2f985e3bcca07eea0771ab5a88eca433460510f11af0efdfa01d2ffeb5f8628b3a12100ec50db2d2aa9567dd11684e027d9442be16f7e658ce5946706d9e4f6b"
+      },
+      "0_1_1+beta_4_9c7b699": {
+        "name": "ScalableLux-0.1.1+beta.4+fabric.9c7b699-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/lAjbB41i/ScalableLux-0.1.1%2Bbeta.4%2Bfabric.9c7b699-all.jar",
+        "sha512": "caf48153b9d7fcb27d5638e412b8727021dbf926db30a3b0e144a6a52f1c66c607c98767d0e2aef9d0b047e819622bdfb454e52a752e0644f64bd738fc9dddb6"
+      },
+      "0_1_1+beta_3_30cf95d": {
+        "name": "ScalableLux-0.1.1+beta.3+fabric.30cf95d-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/JN1Vih6F/ScalableLux-0.1.1%2Bbeta.3%2Bfabric.30cf95d-all.jar",
+        "sha512": "56e38a4432f7eab4964d2552a80a4b785abfe64995e6af026a63b1b0d25dadbf325d0a2b8bb24a537e46a03f94e1893f865104ad401824eeab7bc2580c2d7f43"
+      },
+      "0_1_1+rc_2_3ed8e44": {
+        "name": "ScalableLux-0.1.1+rc.2+fabric.3ed8e44-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/RLWPV10v/ScalableLux-0.1.1%2Brc.2%2Bfabric.3ed8e44-all.jar",
+        "sha512": "b5bb8a089c0a1d6deec3ae6a8d85c54cc24d1006f4c40d058bef935d95b746df3f9091990a289a2781bb71a5e782ab6ea73b453cd4487bea812dacf1f7d14f54"
+      },
+      "0_1_1+rc_1_dac63da": {
+        "name": "ScalableLux-0.1.1+rc.1+fabric.dac63da-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/tSPt7q5O/ScalableLux-0.1.1%2Brc.1%2Bfabric.dac63da-all.jar",
+        "sha512": "540e9fd45df96c3682086729de54b7a7a287b646ca90e14094c8e8533bc6e756113bc66fce0578cf609ea72ee17bb8ec26e90cc85ef87d5aa555a47e600c61de"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "ScalableLux-0.1.0+fabric.26c6e72-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar",
+        "sha512": "586b45d542827f65b08d9ecae2c2367133b7a204da064b6d578dcf0119629e0b595343035e84dc4a86254c1e21cd64c5ed393fd746b28d5472f1e119b3d08923"
+      },
+      "0_1_0_26c6e72": {
+        "name": "ScalableLux-0.1.0+fabric.26c6e72-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar",
+        "sha512": "586b45d542827f65b08d9ecae2c2367133b7a204da064b6d578dcf0119629e0b595343035e84dc4a86254c1e21cd64c5ed393fd746b28d5472f1e119b3d08923"
+      },
+      "0_1_0+rc_1_43c9882": {
+        "name": "ScalableLux-0.1.0+rc.1+fabric.43c9882-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/yGBzVpiV/ScalableLux-0.1.0%2Brc.1%2Bfabric.43c9882-all.jar",
+        "sha512": "02d2ed9472101816fff10d98b17df8120e23369f81306a6e6da1bbe8da037b39f5ddfa704087ac124be7da51f0a6bd63bc23c58924aa551b949658fb81daf569"
+      },
+      "0_1_0_1_d0d58ab": {
+        "name": "ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Yx1tgJMI/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar",
+        "sha512": "bbfe02184c3bf3b0da28175574a5a236ce7c9acc00069addd69770857f2ac572924893f3eb033bbbc965afa9779c7a7f8fc54168f9e90481a40de92f6ee3645f"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "ScalableLux-0.1.0+fabric.26c6e72-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar",
+        "sha512": "586b45d542827f65b08d9ecae2c2367133b7a204da064b6d578dcf0119629e0b595343035e84dc4a86254c1e21cd64c5ed393fd746b28d5472f1e119b3d08923"
+      },
+      "0_1_0_26c6e72": {
+        "name": "ScalableLux-0.1.0+fabric.26c6e72-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Oh80nTJ5/ScalableLux-0.1.0%2Bfabric.26c6e72-all.jar",
+        "sha512": "586b45d542827f65b08d9ecae2c2367133b7a204da064b6d578dcf0119629e0b595343035e84dc4a86254c1e21cd64c5ed393fd746b28d5472f1e119b3d08923"
+      },
+      "0_1_0+beta_1_fc82f44": {
+        "name": "ScalableLux-0.1.0+beta.1+fabric.fc82f44-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/V7KCULea/ScalableLux-0.1.0%2Bbeta.1%2Bfabric.fc82f44-all.jar",
+        "sha512": "d9726175aa83b022f16af0d44dda3f0fd8477572eef3db7b02d37c177bd0427bc93bc51ad0a179f3df2f490bc86d541e1de06102835b09266c75fe993ac386f9"
+      },
+      "0_1_0+rc_1_43c9882": {
+        "name": "ScalableLux-0.1.0+rc.1+fabric.43c9882-all.jar",
+        "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/yGBzVpiV/ScalableLux-0.1.0%2Brc.1%2Bfabric.43c9882-all.jar",
+        "sha512": "02d2ed9472101816fff10d98b17df8120e23369f81306a6e6da1bbe8da037b39f5ddfa704087ac124be7da51f0a6bd63bc23c58924aa551b949658fb81daf569"
+      }
     }
   }
 }

@@ -1,151 +1,2549 @@
 {
-  "fabric": {
-    "1.21.10": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9N4UxA0o/DistantHorizons-2.3.5-b-1.21.10-fabric-neoforge.jar",
-      "sha512": "7fa13555b496285424c19a0c42dbc66589ef0dddc05f9691a792c40f1c2496893ad3baeac3a018db2dd3aae6768848151ece2623dc7f9fca15f668b2463d5c28",
-      "name": "DistantHorizons-2.3.5-b-1.21.10-fabric-neoforge.jar"
+  "neoforge": {
+    "1_21_11": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TkrPgySM/DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "sha512": "c66a18922270e51204123182804a380b7fbfe0baecb3b9dfa2ace12d4dae838966649ce25533aaadc572bbe6c647f6d513c4b292b091e8981f8506eeede809bf"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TkrPgySM/DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "sha512": "c66a18922270e51204123182804a380b7fbfe0baecb3b9dfa2ace12d4dae838966649ce25533aaadc572bbe6c647f6d513c4b292b091e8981f8506eeede809bf"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.11-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rdwJawR9/DistantHorizons-2.4.0-b-1.21.11-fabric-neoforge.jar",
+        "sha512": "99ea302d7093103dece067ad3dc3e59444a4ca321b116706cd0b1ef8325c0854b627395454f8c4773f457ccf95fcf1f52ac1bceb08fc8c5dc9fc1d444a36223c"
+      }
     },
-    "1.21.9": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/JNL5smuQ/DistantHorizons-2.3.6-b-1.21.9-fabric-neoforge.jar",
-      "sha512": "b4dd4bc4742f2cdbb47cce21e1eac1ea8fe718678ffa523491571c5ec9e6e9eb4eab750ed4acbf8f400afd67a4f07a7ceae9294972ef49a046b4e7c6217253f8",
-      "name": "DistantHorizons-2.3.6-b-1.21.9-fabric-neoforge.jar"
+    "1_21_10": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/llR9IxHY/DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "784ac4ded14bb0f25133d65f0429ed4f406a30de127838d59cf958d486bf58b08d188c416f535a59d2782672088165c804fd32d43d6989c02bb5a6c2ae3b4ec4"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/llR9IxHY/DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "784ac4ded14bb0f25133d65f0429ed4f406a30de127838d59cf958d486bf58b08d188c416f535a59d2782672088165c804fd32d43d6989c02bb5a6c2ae3b4ec4"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9gPQQBEc/DistantHorizons-2.4.0-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "edddf13ddc72c0b94d4756c9fe5e0307363b58d78be47c53c97494bd30512105d9ef3079bfe7fb07548884b2d169197e22ba0e9ec8c4287dc7ddee830acf0d74"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9Y10ZuWP/DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "1b1b70b7ec6290d152a5f9fa3f2e68ea7895f407c561b56e91aba3fdadef277cd259879676198d6481dcc76a226ff1aa857c01ae9c41be3e963b59546074a1fc"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9N4UxA0o/DistantHorizons-2.3.5-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "7fa13555b496285424c19a0c42dbc66589ef0dddc05f9691a792c40f1c2496893ad3baeac3a018db2dd3aae6768848151ece2623dc7f9fca15f668b2463d5c28"
+      }
     },
-    "1.21.8": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
-      "sha512": "593b16b03917d9385eb275ace9505e27a954043e834425c1b50e8347f427bd85a0f00403e2b6eba20634fe6b7019d31218b849a807116cbe1115bbf81e320440",
-      "name": "DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar"
+    "1_21_9": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Yk9feNkq/DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "770c97d318ffad6fc9417c57ea934ae506bcf0b9c7d28b2bebf339a838657bb59d7c41f785b6f675581837465384d0fd06d9cafbca013e41cca2639e0f017b6f"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Yk9feNkq/DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "770c97d318ffad6fc9417c57ea934ae506bcf0b9c7d28b2bebf339a838657bb59d7c41f785b6f675581837465384d0fd06d9cafbca013e41cca2639e0f017b6f"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QmmIyyml/DistantHorizons-2.4.0-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "222fdb26df76efc2d586dce6730bfdaad3877290ebaa31e3e6c37ed14cf4474f6525bdc1447f6425e43d70dff23d1b72ce57e6409df494046fe3fd238a2195dd"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/JNL5smuQ/DistantHorizons-2.3.6-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "b4dd4bc4742f2cdbb47cce21e1eac1ea8fe718678ffa523491571c5ec9e6e9eb4eab750ed4acbf8f400afd67a4f07a7ceae9294972ef49a046b4e7c6217253f8"
+      }
     },
-    "1.21.7": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/2mY04ehi/DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
-      "sha512": "5f8d4e564f65dcbe5e039af8605da4df8a8edcc2218a46aad827aaa8d1e8848adb302672735f579715be1c480956dd6dd7548a2bff9bacc4f0ef0592eeceb238",
-      "name": "DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar"
+    "1_21_8": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3CpJdiTl/DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "8edf72e7f8179df7e77bd79fc2cbefdbea61eab871500f92d9980fed9ae56b28df9e4ad1728c5bbecd6ac382f62df8ba267225466811b37a4278bb7fbc22f68f"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3CpJdiTl/DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "8edf72e7f8179df7e77bd79fc2cbefdbea61eab871500f92d9980fed9ae56b28df9e4ad1728c5bbecd6ac382f62df8ba267225466811b37a4278bb7fbc22f68f"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f45HajCV/DistantHorizons-2.4.0-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "5d687d35fc6578fb814f76780c93ea902aacb027e5d90b67c80094176fb9b0662348d7c54936c4b52bb48984011b6527826bb8ee71e9e4aa7b47b36559894966"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/iej5xqn2/DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "56c7cc29bc57075252573220ceab01fc1a4697cc6361ec42f96cbfb418c87b19bcce73e252a47d7dde08e126c56d0df99788964843593c3f88fd8c8938e7f28f"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fiAPHcqb/DistantHorizons-2.3.5-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "40263060b1a344d9fbea5f7f3feaaf8d67b388341fa3cf9b45513e223f47cf6104bf7fd88bc4f92a47b54ae450c2ea8408c2041e8754d145057e31a0d27d9270"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "593b16b03917d9385eb275ace9505e27a954043e834425c1b50e8347f427bd85a0f00403e2b6eba20634fe6b7019d31218b849a807116cbe1115bbf81e320440"
+      }
     },
-    "1.21.6": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ckv2xorP/DistantHorizons-2.3.4-b-1.21.6-fabric-neoforge.jar",
-      "sha512": "e3600af8ac1cdf220be160c45954abce10fe3bca228510ce7073ac346244d3b05c74fe7021fd6e0d7e8a808eb65b6c893ba94a9797f74fabcf5c23ba9767d610",
-      "name": "DistantHorizons-2.3.4-b-1.21.6-fabric-neoforge.jar"
+    "1_21_7": {
+      "latest": {
+        "name": "DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/2mY04ehi/DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "sha512": "5f8d4e564f65dcbe5e039af8605da4df8a8edcc2218a46aad827aaa8d1e8848adb302672735f579715be1c480956dd6dd7548a2bff9bacc4f0ef0592eeceb238"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/2mY04ehi/DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "sha512": "5f8d4e564f65dcbe5e039af8605da4df8a8edcc2218a46aad827aaa8d1e8848adb302672735f579715be1c480956dd6dd7548a2bff9bacc4f0ef0592eeceb238"
+      }
     },
-    "1.21.5": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar",
-      "sha512": "e17d845f5ddb71a9ca644875a02b845e045bb5c7e72429e120271636936a816b416bb4ba13789de18c3af6a1a5f5b7ed5dbe07326c60d5c49534a382310dab1f",
-      "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar"
+    "1_21_6": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aYRzYrET/DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "fdecdcce3ff69d72dbf379be1a47f5e53cc97102ab0acb75b2fc8a0823b1a9a2788fc444372ba32c6a854ecb1edbec99a5eccd435cb55966efb24dfcd9cb7459"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aYRzYrET/DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "fdecdcce3ff69d72dbf379be1a47f5e53cc97102ab0acb75b2fc8a0823b1a9a2788fc444372ba32c6a854ecb1edbec99a5eccd435cb55966efb24dfcd9cb7459"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dhfXtbUI/DistantHorizons-2.4.0-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "0aba71323e75a9fe88124a3cc33b642b466e136f94bb0a4ec1291ba971ca5e76a1a279013bb40702c32b2e7bfd5ac3bb72950822b4a197178d76ccdf884de386"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9whDqmNE/DistantHorizons-2.3.6-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "03ac5cf14ec26963bfd1163c3e062e467cee71b9489dc3dd2e445ebf636c669b6b5d9261bb87490a6009d366c0e0e82806210636a33b1f46314f4f8ea30d042d"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/NINYMTRW/DistantHorizons-2.3.5-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "7bda4c6b88b80aaccc93129ba0e57cc404a6e17827412034455bbcb7101399eec35829d182d71aadca0bf2972dc928e9338fceceea372f6fbde122d7f81050d9"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ckv2xorP/DistantHorizons-2.3.4-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "e3600af8ac1cdf220be160c45954abce10fe3bca228510ce7073ac346244d3b05c74fe7021fd6e0d7e8a808eb65b6c893ba94a9797f74fabcf5c23ba9767d610"
+      }
     },
-    "1.21.4": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/DTFSZmMF/DistantHorizons-neoforge-fabric-2.3.0-b-1.21.4.jar",
-      "sha512": "7337d486cde3dd43f5bed5f81277170d0dab4257f5d355e1dc88d5cfb5577a8592a35a3df80d35e1ec81b799ebc7b398c348cec6e73a0d37e7952883e49d06dd",
-      "name": "DistantHorizons-neoforge-fabric-2.3.0-b-1.21.4.jar"
+    "1_21_5": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ucg5Gbd9/DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "bc0d0dbcb770054803fc8cff837a67ca2f8e285a48d37e4e535a998d84258b50fde54dbc87799a4bbfd90333dbc673d123581df0d66663109d8ac0db8ee28a2a"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ucg5Gbd9/DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "bc0d0dbcb770054803fc8cff837a67ca2f8e285a48d37e4e535a998d84258b50fde54dbc87799a4bbfd90333dbc673d123581df0d66663109d8ac0db8ee28a2a"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/5d808mgo/DistantHorizons-2.4.0-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "aa09083f5f7bf58094a1c193c0818b6d307639ad07dab1bfed7411c8adc138f65c9b4da8702f8c923f8000e8724511c5d505731774c215668c9cd38564761565"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jbc81Nwj/DistantHorizons-2.3.6-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "edeb2c78b7de7b3c7320ce131b5869447b30f0ea57f38825d5feb502e4e5589f003e8b7cf5ad6daa98e23fabc2bdf96e875e694eedf2cdab7d4d931d128c261c"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/EOztwHKg/DistantHorizons-2.3.5-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "471f0fde91d9b54c3ef58b160cd2ca5ce4eb28b79a6cd78b50ad5767dcab66a61d8fe1c959508af0ca1cfbddfcfe140062ab9c73e3ce5c8c946d928886f32a6b"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AfpfSizB/DistantHorizons-2.3.4-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "2c8cb8c924cbe9e93b61bf675403b017d492e8f3bc39b67ba0438c45eb35c388db00874144123a307331cd2d76b6edac7d691795a3bac69326abe180bbef4ea5"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TkcJk6jC/DistantHorizons-2.3.3-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "88cc4e78a610225191d5bedafcd117e0a714dee4378d613e2248a4bd965ea9903fbcfd1a246dcdb2f1e4d9d4e964361760b9b77597c3169d5cf7d45870c16c13"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar",
+        "sha512": "e17d845f5ddb71a9ca644875a02b845e045bb5c7e72429e120271636936a816b416bb4ba13789de18c3af6a1a5f5b7ed5dbe07326c60d5c49534a382310dab1f"
+      }
     },
-    "1.21.3": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gwqnI0zh/DistantHorizons-neoforge-fabric-2.3.0-b-1.21.3.jar",
-      "sha512": "35f00f87787a08caceaf65fd2aac3873988349f38290bc6a8a0b2f01f92a43b10958a7587381e674da9f5f2ce9bda42279955fe0b4f1b54aaae4c9c2bed00d5d",
-      "name": "DistantHorizons-neoforge-fabric-2.3.0-b-1.21.3.jar"
+    "1_21_4": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KK4ILfMf/DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "99c6bac4ddb042194b93e84b3e7f706f2ea0ea6558d9c04c70608f53c0d8ced0fa232652d84c1b5074e1940f478255f3552fabe9caaa8477e7260ca6901339a3"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KK4ILfMf/DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "99c6bac4ddb042194b93e84b3e7f706f2ea0ea6558d9c04c70608f53c0d8ced0fa232652d84c1b5074e1940f478255f3552fabe9caaa8477e7260ca6901339a3"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/VNiTFTIB/DistantHorizons-2.4.0-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "d52c0c30dacd10d3b38e14ed1715d4dad2b64e04e2f1f5799329c531699e48e9c9547084735d1e32c5bdafe6d22421fe4e9cb0c01b1a63cdc72f49a25a15f9db"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/kolLa0aT/DistantHorizons-2.3.6-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "14084d225ea71d868ffa1f3fc1c4de5f4d0dc4acf13950fd9891bdf8ca289271ae8f1f5f8a289e4030b7e28f85184730f3b076df50616732d9b441e4cc85e107"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rU64fz59/DistantHorizons-2.3.5-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "92edf64a71125d6e6c8694619091d93b2c1dc686ea86f681251268176dc739fb460d29886ea727394d7bc47390bcb26014d38fe0bde94d49b01a5d7ca5cba899"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/icIr6dPy/DistantHorizons-2.3.4-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "2ceea3d147c2045ed2deeb5e778b1ea76a8c4e5186400a0ead3c965743ef0d165e3764e1767eed31552d9c8fb4df66809bb1597fe9b221c7d3a0e0371f802b86"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/l3memwO4/DistantHorizons-2.3.3-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "aa6b882c4c0b460d13fd01d9574f15138ba5e8afd2dd10679f8fa6f78151040e36ae609c71b4ef07be1c55304ae78d4790d30a5f364f6c96529e8f79d979daa0"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/94McsAoL/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar",
+        "sha512": "f5c16f004b708251d1442c95728defb938de23d3bb21c060042c2b761544d859fb31019db418ceda190d4c97ed8ecd7e03f2fabfcb406c6a01156a6525da0911"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.0-b-1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/DTFSZmMF/DistantHorizons-neoforge-fabric-2.3.0-b-1.21.4.jar",
+        "sha512": "7337d486cde3dd43f5bed5f81277170d0dab4257f5d355e1dc88d5cfb5577a8592a35a3df80d35e1ec81b799ebc7b398c348cec6e73a0d37e7952883e49d06dd"
+      }
     },
-    "1.21.1": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/G0Er1cyB/DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
-      "sha512": "9ec4428e173d61c6661942370e34951a9f344f0c7d167621afdab6c81702c0a948cca0c6f0d35b5648ef334fb97548f8b82996cd2311cc911a5f81f99f7e78df",
-      "name": "DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar"
+    "1_21_3": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AjyR7UOM/DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "59689bdda45e7b53686158d7730cea96bd0a0dde5d1afbe8c87cfc792c60db434fd3c8567d41a08345f6678439534147ddab7444b4d709796028b28f520290ab"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AjyR7UOM/DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "59689bdda45e7b53686158d7730cea96bd0a0dde5d1afbe8c87cfc792c60db434fd3c8567d41a08345f6678439534147ddab7444b4d709796028b28f520290ab"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/x9Rp9oki/DistantHorizons-2.4.0-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "aabeeddae6e105d1a1578cc7a0220c9c2a78b45e5dec3b7606a533f0f4268bed15c842712eddff8afc999f06b4dc6460d3719e1b11d16c7be67a90ad2de0df0c"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KEEaPl8S/DistantHorizons-2.3.6-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "48f39092a4b356058f5cbaa076032b1304630670d340bf5b2e0b863ce87307f351ba1086f1a3b6af1e16ebbb11558efdedf11307e608de5964c6dbffecdf0d57"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QiFIOlU5/DistantHorizons-2.3.5-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "fedbb73348d7fa3c7aa941d87068fdb66cb84ccebfdd441d750c8e0a5804b4c7dfd4d0eebd9103b3be3ddab36ca13c8d05191d0d850feeaab8b1caec095e02fa"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f8tkHD7f/DistantHorizons-2.3.4-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "4c35e40a6e899eeea31d17ace6cee37429b5d799ae5e91a5e7da1ee80e32615364a385f9d4381cce91f62f9493e4f630109bce24a50788e8b8f5e903b72fbd10"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aI1lh6pR/DistantHorizons-2.3.3-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "369d47e63dc7a42226c9360437d159cc08070a29c2935c1cdf1e1362546e5a50be2fc97be2b0af4582988db90dac1d3cde4e2b188289361632b89ef7b09c9a02"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Hg8WxbND/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.3.jar",
+        "sha512": "ae61809f005a09a8fd0f5076881e723f09c1efff677b836a8fda69342fc2af02a80f66aca9e186e242f7f9d4d37e52368f5c58c6f2f4038c1fc7c358998090d8"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.0-b-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gwqnI0zh/DistantHorizons-neoforge-fabric-2.3.0-b-1.21.3.jar",
+        "sha512": "35f00f87787a08caceaf65fd2aac3873988349f38290bc6a8a0b2f01f92a43b10958a7587381e674da9f5f2ce9bda42279955fe0b4f1b54aaae4c9c2bed00d5d"
+      }
     },
-    "1.21": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/NCz4yZ3v/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar",
-      "sha512": "8088878d2e78d0cb18cfd8d5d3833141861fdb15c686867ab249337a9561f3573d88ab5a6e2a2acb759c8a539a60a5229c951bc8e5db9479bd5e544875ba621c",
-      "name": "DistantHorizons-2.1.2-a-1.21-neo-fabric.jar"
+    "1_21_1": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dMF3XvNI/DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "c848afd1b7eb5d954881e7df39ca5a88a643b228a65ffb99488fc9bf67a01b3a224183dbc47850e0ca38c49684ac16a8e8a68cfd60e3c67f829c29a0162bbba2"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dMF3XvNI/DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "c848afd1b7eb5d954881e7df39ca5a88a643b228a65ffb99488fc9bf67a01b3a224183dbc47850e0ca38c49684ac16a8e8a68cfd60e3c67f829c29a0162bbba2"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pvvV97Wp/DistantHorizons-2.4.0-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "a265e826c2bec08122453249c1cfad9f7cb89b3bfae77d37eab17fe81712fb6ce2019f47afefd61ece8ea83568187d32aa4ed0d4c8cabd4e80d381fe24024a6b"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/uzLZ00HG/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "c3373812cb65b98cf524e387d3f032ebcbf3bd4e874d42f46b700be9b895ca15c8568cd0c2e0244a277104f42a3fe0b0446305b29e9abe89c0146c96b1b97f82"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9xxidKse/DistantHorizons-2.3.5-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "7f82bb9247ff55634bcc62700ca1ef616bba3e8e3d3d2fc136e2a62e20597c12f238a5e185ae0c1a0f29cce7922584eff26afcf02232b6e4320e7d19e138c443"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P14vqscU/DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "5514def7741ae61517c4b678294b2672c767c3bbe15f4beb3dfb60761a3bf367ed480136c9c1f6e6fcd302d0e4f79984215dbd348cfda983dacc714f377392dd"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Wqd1N9MJ/DistantHorizons-2.3.3-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "e6749f6b978a47bbae7bf5208afb2feefd787228e35288b60f4c4eb2bb900821836d4bfef2c460e024dafe165ff569a663ef0d57bc40c837733ff11ec1065a05"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jkSxZOJh/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar",
+        "sha512": "7dc7f295b8e132799520435c2de603c5ba1fe7b7d1c2de7a8c7106eba2d57dd2b46ac7559a7ebcd21790398472690fd3ad5ddeeec3c2648c54fae267f87b508b"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-neoforge-2.3.0-b-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vA2Ju8Tu/DistantHorizons-fabric-neoforge-2.3.0-b-1.21.1.jar",
+        "sha512": "b8b91bb4bb664fe4c7521154f057e4a01fc3c58794cecf5d035347041c55e7f0f976a1a4794a79519f92b8e8f9cb661b6d33544c7f489918648972c070e7e565"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pEvLEY5E/DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "sha512": "915d15ac4bd898ee50c3e451e9c48e8f9aed86c421e56604cdbc1704035b9e5140f73cdecb783a4a6e87b7438ebc76f135eaad6eff2dacc6c8dba6ffb34cc0f8"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/G0Er1cyB/DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "sha512": "9ec4428e173d61c6661942370e34951a9f344f0c7d167621afdab6c81702c0a948cca0c6f0d35b5648ef334fb97548f8b82996cd2311cc911a5f81f99f7e78df"
+      }
     },
-    "1.20.6": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/13xaVT4W/DistantHorizons-2.1.0-a-1.20.6-noForge.jar",
-      "sha512": "6d10ffcba2cd605b0e893b9a6f89f2e0c207b6a458dcd193d0ce619fc5bfdcae941df79af2c8234837110800785dce0084057c0aa0aa2f89b8f2eb4d60f2df98",
-      "name": "DistantHorizons-2.1.0-a-1.20.6-noForge.jar"
+    "1_21": {
+      "latest": {
+        "name": "DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pEvLEY5E/DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "sha512": "915d15ac4bd898ee50c3e451e9c48e8f9aed86c421e56604cdbc1704035b9e5140f73cdecb783a4a6e87b7438ebc76f135eaad6eff2dacc6c8dba6ffb34cc0f8"
+      },
+      "2_2_1-a_1": {
+        "name": "DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pEvLEY5E/DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "sha512": "915d15ac4bd898ee50c3e451e9c48e8f9aed86c421e56604cdbc1704035b9e5140f73cdecb783a4a6e87b7438ebc76f135eaad6eff2dacc6c8dba6ffb34cc0f8"
+      },
+      "2_2_0-a_1": {
+        "name": "DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/G0Er1cyB/DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "sha512": "9ec4428e173d61c6661942370e34951a9f344f0c7d167621afdab6c81702c0a948cca0c6f0d35b5648ef334fb97548f8b82996cd2311cc911a5f81f99f7e78df"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.21-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/NCz4yZ3v/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar",
+        "sha512": "8088878d2e78d0cb18cfd8d5d3833141861fdb15c686867ab249337a9561f3573d88ab5a6e2a2acb759c8a539a60a5229c951bc8e5db9479bd5e544875ba621c"
+      }
     },
-    "1.20.4": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HbiwjG8y/DistantHorizons-2.1.0-a-1.20.4.jar",
-      "sha512": "518da7f7754a3466065ed18cfbac89a54595810eecb043deb22c3a5ed6397bf05012c5bda639cb4026f61429572b267a55a5b3bf29c65499ff20016d728476a9",
-      "name": "DistantHorizons-2.1.0-a-1.20.4.jar"
-    },
-    "1.20.2": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/mjIVHovM/DistantHorizons-2.0.0-a-1.20.2.jar",
-      "sha512": "3c551cd7357a1ae1d9fdcd807d2d3af36133c701e1caa2d77a1670ae03cd53a90cbb705292fff463c15df1e6d950c081e12562f5a1d49bfd27c8a4e57b76911f",
-      "name": "DistantHorizons-2.0.0-a-1.20.2.jar"
-    },
-    "1.20.1": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f5ukM1Qm/DistantHorizons-2.0.0-a-1.20.1.jar",
-      "sha512": "c5a2c503e3f3f2f9fd47edcd78195ea5ed0812e4a712080ef6d3a9a12a6e9de59df9423a5a4c8ee830ee0155f9c3d7e200932af971f8d1d431934723fb10f928",
-      "name": "DistantHorizons-2.0.0-a-1.20.1.jar"
-    },
-    "1.20": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f5ukM1Qm/DistantHorizons-2.0.0-a-1.20.1.jar",
-      "sha512": "c5a2c503e3f3f2f9fd47edcd78195ea5ed0812e4a712080ef6d3a9a12a6e9de59df9423a5a4c8ee830ee0155f9c3d7e200932af971f8d1d431934723fb10f928",
-      "name": "DistantHorizons-2.0.0-a-1.20.1.jar"
-    },
-    "1.19.4": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/xBHpiuwg/DistantHorizons-1.6.11a-1.19.4.jar",
-      "sha512": "f5921bb691be840595e62925edbcfb101c02631e9433098e960d6bb80f81b4bb8199434e6668e8a652de85714518efe10f0e17c09fd4c868d40ffc0c02358bdf",
-      "name": "DistantHorizons-1.6.11a-1.19.4.jar"
-    },
-    "1.19.3": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P4psgCf3/DistantHorizons-1.6.10a-1.19.3.jar",
-      "sha512": "bd163811138b39652671e7323f20b3d09e544e09dc01e6f128d31271db72e5ed2838eaf797e5096c2aea03a5c014f49604ccac251fc92ee471a30c203ed683b7",
-      "name": "DistantHorizons-1.6.10a-1.19.3.jar"
-    },
-    "1.19.2": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar",
-      "sha512": "87daee673995dd70759b3f51056ea2ee3f8c316b09fea9d4ffd898eb8aab6c9042d34bd468a0a9369649ed05fa3b004211d6d7685578291f17743090500081cd",
-      "name": "DistantHorizons-1.6.9a-1.19.2.jar"
-    },
-    "1.19.1": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.8a-1.19.1/DistantHorizons-1.6.8a-1.19.1.jar",
-      "sha512": "4cb9ad70136a61ccfff0044580355fb60e05aa6d9817b42e710038d9bbddb057298d45861fc61ef933f1e7e1e50eaded1196b24de16ed4e70c751559c247ee0e",
-      "name": "DistantHorizons-1.6.8a-1.19.1.jar"
-    },
-    "1.19": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.19/DistantHorizons-1.6.5a-1.19.jar",
-      "sha512": "93a9a432b460b4b892ad95a5082c6efd75d2bd61c07e96e604bfd82d6d4861036e23065765ef65a5a5f06a4cab2baba7b01b2ba6b2c7944a9841c4a97a3c0ba8",
-      "name": "DistantHorizons-1.6.5a-1.19.jar"
-    },
-    "1.18.2": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.2/DistantHorizons-1.6.3a-1.18.2.jar",
-      "sha512": "d64ac7304326f984d3336c851002ac5fe928466c691045b078a2c3b219b1578444926735ddfd1586a3670295b1435caab3ed7d2677202f71dad716a5c665fe73",
-      "name": "DistantHorizons-1.6.3a-1.18.2.jar"
-    },
-    "1.18.1": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a/DistantHorizons-1.6.0a-1.18.1.jar",
-      "sha512": "4a9e260090aba19a807e6beb84d2b0df26f57f6fa57a493f88fb4505f4f05acc844e0d12d0403ec36f617a49f5e6a376a604f258a6f730f9168c0c9a172ac28e",
-      "name": "DistantHorizons-1.6.0a-1.18.1.jar"
-    },
-    "1.18": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a/DistantHorizons-1.6.0a-1.18.1.jar",
-      "sha512": "4a9e260090aba19a807e6beb84d2b0df26f57f6fa57a493f88fb4505f4f05acc844e0d12d0403ec36f617a49f5e6a376a604f258a6f730f9168c0c9a172ac28e",
-      "name": "DistantHorizons-1.6.0a-1.18.1.jar"
-    },
-    "1.17.1": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a-1.17.1/DistantHorizons-1.6.0a-1.17.1.jar",
-      "sha512": "4cb2bc616c241d8662c2d0dbe2308d8e0ac06137e9ad4e357a8207a28ea2484956b7ccaf917a5fa30aaab87de5a830dda96d02843b436b4ff0f7706a80088804",
-      "name": "DistantHorizons-1.6.0a-1.17.1.jar"
-    },
-    "1.17": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.17.1/DistantHorizons-1.6.2a-1.17.1.jar",
-      "sha512": "6aca566f7066d8f0c243de6a49aee05f797eecc30c99fe4937dfbb0462201c3f696d51ed8027cd1a503239fc5a2b04b5398b97e0bc86c58e78b9facf089bc589",
-      "name": "DistantHorizons-1.6.2a-1.17.1.jar"
-    },
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a-1.16.5/DistantHorizons-1.6.0a-1.16.5.jar",
-      "sha512": "06593a03f814e93373509c88773ca861db944997d152a63af9b71a22fe8926840993d3a297cc5edb9172b5ab8ddb6c4011874b49b81c4698237b65ff9aaa0b09",
-      "name": "DistantHorizons-1.6.0a-1.16.5.jar"
-    },
-    "1.16.4": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
-      "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd",
-      "name": "DistantHorizons-1.6.5a-1.16.5.jar"
-    },
-    "1.16.3": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
-      "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd",
-      "name": "DistantHorizons-1.6.5a-1.16.5.jar"
+    "1_20_6": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Lo7paKSE/DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "fe07fd5e3a6a2b911a4f73f5cc2bc65ab8f57f07d8fb71a547beb4bd946c315a19319c630495bc6dc1d3c3f740952a20eebbbc99cf6597fa6fabb9873ebd9b60"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Lo7paKSE/DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "fe07fd5e3a6a2b911a4f73f5cc2bc65ab8f57f07d8fb71a547beb4bd946c315a19319c630495bc6dc1d3c3f740952a20eebbbc99cf6597fa6fabb9873ebd9b60"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/m9SnpHGZ/DistantHorizons-2.4.0-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "cb6f11324add6b16f9c5435095446fbe54f4c7f0af6f5689221b079d908d5c2493d8b2f643e8bb9356f55a4b5ff4d9936f29c274262b260ead94028343fd024a"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/FhKcOXpF/DistantHorizons-2.3.6-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "48f8993d5e13e1aa3349e19f61101fb0daedb1c5c8756abdae9cbeb4e424d69f7d7410468c314c266d6d3bf93f0ddddea106ea5b9cb424c12a138d9c327ba8bd"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/7sTPYWkm/DistantHorizons-2.3.5-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "276190f7795ae6e006ddc28c5a15fe77bfd3bfb3fd65766b46990d99a715cdfb4c31bd51db942397d3f519ee926471b39693738cba2bd218d1d4b89a52f4b56e"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/sVV25Cj9/DistantHorizons-2.3.4-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "cdacec2b86f44d997adb1e9f371f7b88e3e5b082e4db599b15567b071d4bd966fa47afdc1b403dfa7894c1d8e30e5959ad542aa5536e5d4af3a25b61542f829a"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dmjFVlnj/DistantHorizons-2.3.3-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "98a1636a2d245c0299c185012eca668ed93c3f30eeedca760d2eeee1a5626b77c00d301b997df6efa4977447915894a19b5383cce634b90552477e20a8e11581"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1nexV1Jx/DistantHorizons-neoforge-fabric-2.3.2-b-1.20.6.jar",
+        "sha512": "dc996b073c91c2551a1c93aa1a933d8525a35a740067684cd18949a8e5a76395608855b049bb8272c02959cd31be94ba37c5463ed444676112628a8b0fbc19b3"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-neoforge-2.3.0-b-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/h9r9wQUM/DistantHorizons-fabric-neoforge-2.3.0-b-1.20.6.jar",
+        "sha512": "f3570d0ed508a5ccf63a983c01124bd9cd62a3b03aeb4d3263aa0eb27be16df92a8621dd513dabe12d23888f6f313801e3009a91443b5e48907c06e0797bc5cc"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.6-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/DxfJkenv/DistantHorizons-2.2.1-a-1.20.6-neo-fabric.jar",
+        "sha512": "7a1c1c0db3822c5af23dc4667eefa35cf0c21f0c51e13597c804ca4eba05e0468100fb0ee03013a592f5df83adab108b552d4b22c68c1b7d66ca8c1b3ca03f66"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.6-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3l7Cv7w1/DistantHorizons-2.2.0-a-1.20.6-neo-fabric.jar",
+        "sha512": "26da4077e3d5bbc00222a12bd65ad22103fccd9a8d24541dfa6b16b29badeac2c3df48b2cc96543a64a27e7b358b00908749a4b59214e8aaa1f0e9132c2efa27"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.6-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9dof9TBP/DistantHorizons-2.1.2-a-1.20.6-neo-fabric.jar",
+        "sha512": "34a7d43b3c457556931665dc926e3a5a3cfdb41c3624cba14b58b33afc448f10c01fd8221cfb54ddd07fc512287ca0cca43eee9e42921f21ea1169ad2f55da0a"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.6-noForge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/13xaVT4W/DistantHorizons-2.1.0-a-1.20.6-noForge.jar",
+        "sha512": "6d10ffcba2cd605b0e893b9a6f89f2e0c207b6a458dcd193d0ce619fc5bfdcae941df79af2c8234837110800785dce0084057c0aa0aa2f89b8f2eb4d60f2df98"
+      }
     }
   },
   "forge": {
-    "1.16.5": {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/a1.5.4/Distant-Horizons_1.16.5-a1.5.4.jar",
-      "sha512": "ffd8c86ad1e29457a4363912e553ffb088fe86f5e1a2746cd10bc919f4e70adb5ea0ca2b225e875b142c3324272fd60fa7127372184431e8f56a2cf891b8d961",
-      "name": "Distant-Horizons_1.16.5-a1.5.4.jar"
+    "1_20_4": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/d9crl8I1/DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "sha512": "40a05a1b6c41db7d3706e78d9931b7ad5c5ad773d6c94c1e642c1e7a40a70d691d71ed4a508635326dcea3eb5b29daccf9936d2849744f12fdcfc93168acaf41"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/d9crl8I1/DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "sha512": "40a05a1b6c41db7d3706e78d9931b7ad5c5ad773d6c94c1e642c1e7a40a70d691d71ed4a508635326dcea3eb5b29daccf9936d2849744f12fdcfc93168acaf41"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/PVJ1xVq5/DistantHorizons-2.4.0-b-1.20.4-fabric-forge.jar",
+        "sha512": "69a6f9584fa60d3e9881a7fba6bd3f14af572d3a37d2a1907e76ab4dba5340feef41202711cba816485c308309f5d100cb1c71381ebc2962f8f82acce8a1de75"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/GlMWwgyU/DistantHorizons-2.3.6-b-1.20.4-fabric-forge.jar",
+        "sha512": "1c51eda930437c7eb64ec6ee459769974074f0a5e52f24949249eacb8b08a6b963155a6bb8cd23f2608bb3b04c6ea3628d060b32b7a2bb839af2a63bbe6e046f"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/4qzROjts/DistantHorizons-2.3.5-b-1.20.4-fabric-forge.jar",
+        "sha512": "ae08cd0ab6d53062b5766d043b1f00a57fcef5102a169ec63411fe45d4a2076ce2c88340a1dcab874c5b48b5b5c07437d905b99949aa5db06d1b20b9e757ee96"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/CpKi1usB/DistantHorizons-2.3.4-b-1.20.4-fabric-forge.jar",
+        "sha512": "f8d53f084122742e62e5cfb8bd1cc88fc8f3ae7e5b228fb776ea212ffb68b976b9158908c798987035faff58ad1d3d7c5a65df9e5a53e05b5f758d8710264b8f"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AbURwIKO/DistantHorizons-2.3.3-b-1.20.4-fabric-forge.jar",
+        "sha512": "d88bd4302ba5234923ac4b8718473ca24ba6233a5106b637b364ddd406baf69ca098ae4784740495ba01f2e04542e6eae3b59c539ebd45ae754bac957ce88c40"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vwdaEiYA/DistantHorizons-fabric-forge-2.3.2-b-1.20.4.jar",
+        "sha512": "0ff22e43bc7e6ddaccb06aef4c494e69742d1cbb9d07d1c0581824e19c8fed3ac8587dcb7ed7ebc6f783282d691a9f0bb42268a345dbfbc344ab0e60485d50f2"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/GC9tFkn8/DistantHorizons-fabric-forge-2.3.0-b-1.20.4.jar",
+        "sha512": "78e524bc2c48aad20ed312390f87998a2f3c28c3761f23c81a35c20a27f1be06337f5f033b1baef530cf55497772fd5c8e806d41673d565855ca6b1915982652"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jptcCdp2/DistantHorizons-2.2.1-a-1.20.4-forge-fabric.jar",
+        "sha512": "47368d91099d0b5f364339a69f4e425f8fb1e3a7c3250a8b649da76135e68a22f1a76b191c87e15a5cdc0a1d36bc57f2fa825490d96711d09d96807be97d575d"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/SWIs5hwb/DistantHorizons-2.2.0-a-1.20.4-forge-fabric.jar",
+        "sha512": "248412308078edbbbcdebe468d9edaa3e8634d974be004daaf1d8041ea57014e7234371d462658d0daff2f5469f32ee19dd18f740efb33f7c99f5ee1d037d04a"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/YN8jhotL/DistantHorizons-2.1.2-a-1.20.4-forge-fabric.jar",
+        "sha512": "160d5886747c3c5451389fa82e95ed9d933b21e4b9c9406b4e84e4c7c17457fcab1877a665b8d0370a20a7b1d4d24094ec4f3a7ea7686cd0665bf7e95964f0d1"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HbiwjG8y/DistantHorizons-2.1.0-a-1.20.4.jar",
+        "sha512": "518da7f7754a3466065ed18cfbac89a54595810eecb043deb22c3a5ed6397bf05012c5bda639cb4026f61429572b267a55a5b3bf29c65499ff20016d728476a9"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qUYtfwAX/DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "sha512": "86ffb7898701691bd27021082afbd15719d615dbd175d4f384b26beffc76b253b8f41806e6bfbb871ca24c254ac011466fb411c29318b912cdd24261bbb2cd02"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qUYtfwAX/DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "sha512": "86ffb7898701691bd27021082afbd15719d615dbd175d4f384b26beffc76b253b8f41806e6bfbb871ca24c254ac011466fb411c29318b912cdd24261bbb2cd02"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/obnbihOn/DistantHorizons-2.4.0-b-1.20.2-fabric-forge.jar",
+        "sha512": "3d6278f0c66165451f59b772070df6d7d8e287776f3fd250be4e088de359e20dc6bd3f7721dc2a87f3579e4820a8e01d558d1703422bc78a0061d08263ca878b"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qnh7YcPb/DistantHorizons-2.3.6-b-1.20.2-fabric-forge.jar",
+        "sha512": "9e233e53f990aed7f3a1c5da5f77b894ff2e8ba1a40d338319b471a3b5b67cd2176f69e320469db94f83e454d707c2238360fd9f82702405c7e9bc647a04514c"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f7OoFL2o/DistantHorizons-2.3.5-b-1.20.2-fabric-forge.jar",
+        "sha512": "f7d3daf1dc28671f75aa7420d98da292e8f459986422c04ba5b6cd58aa25d98b47f343161802c47624d7822f56fa7d523500698693042405afd7e0db738754e7"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ak1pG9sE/DistantHorizons-2.3.4-b-1.20.2-fabric-forge.jar",
+        "sha512": "8ddfaa185e975fc1ed0e85522939727ec060c5e5d2ae20568abddec3829e3147fa84961fcfcfa8b9ff031e308011758413753e4ed84b611920c197403b21563b"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/LLTomBru/DistantHorizons-2.3.3-b-1.20.2-fabric-forge.jar",
+        "sha512": "6f08cf9ef5313eaa30863593f091238b4c0fa4bb2c41cfa3dfd4ce33f20f9ea1eae70332738236dd49c7b96d8a2954539f82692cb54febd6909c29139c745ff6"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pp2oAE8h/DistantHorizons-fabric-forge-2.3.2-b-1.20.2.jar",
+        "sha512": "1109f4627562fa31a33ea125a03007b4b6f7fe61642effd915efa19155265c2949845f2d9f5753984f79c74b04dfe33e144c42961fe4fafe97601e49283c9a1f"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/5XsVLQbE/DistantHorizons-fabric-forge-2.3.0-b-1.20.2.jar",
+        "sha512": "3fac19900675f5dd1fd7c031a49c949b5b821cbc942ed9dc000d510cdc2c970768b9135153956978eb4960593681ab2121c7d2a79f100a2a4bc723790cbc1f8c"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/k3j3gYfs/DistantHorizons-2.2.1-a-1.20.2-forge-fabric.jar",
+        "sha512": "ffcb8c0cb0a9f8d34b8bb8b5b40bf6dc3db2a1fd21205555bdc3cb47b033593b2936118258aaa009fd1c77a3a21692c489da0c90dd08f47eed7e98bc879272ee"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rIVCtBS4/DistantHorizons-2.2.0-a-1.20.2-forge-fabric.jar",
+        "sha512": "0daddf6e62cedaa055de62dfbfc72a56ecb3666860eb7cf12fe18ab8afa1aba20936f4cb7ef8fdc8c8df0632bf9523ef5ffe917036534497ac8c0cb621e3d046"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/VPs4DNbT/DistantHorizons-2.1.2-a-1.20.2-forge-fabric.jar",
+        "sha512": "ddad5ce789468d9b3643709bbe4d41161870182cc7722e6732c21ea4f1d8661e617672fe609ebd2a028c8479deb95c7c20ec6aef058e580661857ba7dfac9508"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3B15sgvb/DistantHorizons-2.1.0-a-1.20.2.jar",
+        "sha512": "6c37950fb5178614ec33385a186b072648cb91803df680b8b99bc03d5663694627fde528bb89c94cb23f492e2206156cc6264a0e0778d2c32c88883618f987f1"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3yoHVgxZ/DistantHorizons-2.0.1-a-1.20.2.jar",
+        "sha512": "7d7db38b46770387aae3edd2316b1adcf413449f34c4b1b820ecb6f381d166ec08f9941861a57bf39dd7d2cb6c136883c2730207938363c2dcb7b4ae25d05b2b"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/mjIVHovM/DistantHorizons-2.0.0-a-1.20.2.jar",
+        "sha512": "3c551cd7357a1ae1d9fdcd807d2d3af36133c701e1caa2d77a1670ae03cd53a90cbb705292fff463c15df1e6d950c081e12562f5a1d49bfd27c8a4e57b76911f"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gfMVyAgO/DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "sha512": "d7b26be06eef6640e37ff96c57f3694c57942b30ca4a8e301f1d3c17c68dbfcb69effb97845fd25e6ee4c8612677a264d3f16a9f9a5578b4dc7fc112f47d714c"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gfMVyAgO/DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "sha512": "d7b26be06eef6640e37ff96c57f3694c57942b30ca4a8e301f1d3c17c68dbfcb69effb97845fd25e6ee4c8612677a264d3f16a9f9a5578b4dc7fc112f47d714c"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/FcSiScgQ/DistantHorizons-2.4.0-b-1.20.1-fabric-forge.jar",
+        "sha512": "e273d562e845ef6f50c0a044a52aa5be0fa036703036369fc57d7d7bfee0e9d9a7f83c861488df0cd1e909a4c112e038c83bd00e134f5fd3beb9a8848ae6ad67"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HSc151Xv/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+        "sha512": "33ef25a118872298d546a954bfb625e0b9573286392a4df15a929cfc382bd7224c056bb97b680b6cbb109814150cf56173cfe086295d741ef15b08259bed1e33"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fKDD0aOG/DistantHorizons-2.3.5-b-1.20.1-fabric-forge.jar",
+        "sha512": "d5cac6c965c5d4883d80fa2ff912dd0b2f73c955d04706fb5992647778851fe5e1c2743919beb29186b8154d5fff30ab4b82d882fa59ec384fcc6a104ad12c14"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/MhxUKxWI/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+        "sha512": "85bb5245abb723cee7c10ae471e811266a66e5f78bd4a09a35bf45e64d463d244989c6e4d301c2b97b896e7513d75fc8000460148554a245f6e630bdf9a68c45"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AY1b2ZU9/DistantHorizons-2.3.3-b-1.20.1-fabric-forge.jar",
+        "sha512": "a063a151c738183220b105575a269e6928214c021c6ae0d0a1e2b05cd9ec0770464de187a6d27fd0eb547caaf10c2a1ee264a4b18a07315decea9d6e815eedf3"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vSDePnsB/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+        "sha512": "14f5548cffa24fabdcfce6626fc813db42e28350a126833a54e1c54e13e6b393e232b5a0d55fe6bc6f7e273061adaade67f8a8bbee9503cdaf869c28db0995b7"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "sha512": "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb6001349683251160189ee4a1701c21cfdc39d543a816abd232422f4ca8b7e20d"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+        "sha512": "a5059a249283f686bc49bc4c2606fce7b665102983f396996f47c11245fee21059554db5f9bdf63fa41ec954282a9ee3646ea42997f37bedb0af8b14944704f4"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HH9YLh1q/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar",
+        "sha512": "b7d71356cf249296ba3ffa49cdb503f374c643a7e6cd3580007ef042d1937cc85fe4c4644e2b3d9a739f3c86b1f81352aaa924626c132b90f0eb38e77fc335a3"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar",
+        "sha512": "f68f8c2bcbab3db5ce78e5d2fdaca60d1352c9d3b7a4af5bd69009795dd10551d527f566323fd28e3e5ba6691545680cf5501524ec58ae948ab7a1034019f88d"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/xbRHd92j/DistantHorizons-2.1.0-a-1.20.1.jar",
+        "sha512": "aa88befed67304efc24a536104f88feb9bae5cd278f400ca2588804d1d1c3e307059b4de85e5c7430e2ccda0116d79bae8770696d67cee4a59b0ed17a643796b"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar",
+        "sha512": "26c20c1b83cef03dbe4839f7ef32aad858264e450c2ea84ff238057acf6929281685a72f89ffc58de1e9b3f8af5581f7dabe998c09cf53b33cfc19f86d45cf1f"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f5ukM1Qm/DistantHorizons-2.0.0-a-1.20.1.jar",
+        "sha512": "c5a2c503e3f3f2f9fd47edcd78195ea5ed0812e4a712080ef6d3a9a12a6e9de59df9423a5a4c8ee830ee0155f9c3d7e200932af971f8d1d431934723fb10f928"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "sha512": "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb6001349683251160189ee4a1701c21cfdc39d543a816abd232422f4ca8b7e20d"
+      },
+      "2_3_0-b_1": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "sha512": "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb6001349683251160189ee4a1701c21cfdc39d543a816abd232422f4ca8b7e20d"
+      },
+      "2_0_1-a_1": {
+        "name": "DistantHorizons-2.0.1-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar",
+        "sha512": "26c20c1b83cef03dbe4839f7ef32aad858264e450c2ea84ff238057acf6929281685a72f89ffc58de1e9b3f8af5581f7dabe998c09cf53b33cfc19f86d45cf1f"
+      },
+      "2_0_0-a_1": {
+        "name": "DistantHorizons-2.0.0-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f5ukM1Qm/DistantHorizons-2.0.0-a-1.20.1.jar",
+        "sha512": "c5a2c503e3f3f2f9fd47edcd78195ea5ed0812e4a712080ef6d3a9a12a6e9de59df9423a5a4c8ee830ee0155f9c3d7e200932af971f8d1d431934723fb10f928"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Gi4W1PHY/DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "sha512": "ed8523bef714f4b56d0b422e47f87903270e4e8cefad38aa86fc6e12e2d7c8a18215543f2a223d0f1d952ca59a7bf4c634f13da0ebcd751404d124ca220bcb14"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Gi4W1PHY/DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "sha512": "ed8523bef714f4b56d0b422e47f87903270e4e8cefad38aa86fc6e12e2d7c8a18215543f2a223d0f1d952ca59a7bf4c634f13da0ebcd751404d124ca220bcb14"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HipEFTRz/DistantHorizons-2.4.0-b-1.19.4-fabric-forge.jar",
+        "sha512": "d8ef7fd52581c47cdd8eac16edbc051e0f07b130541b91d1e6539a11a3e8504ec36642c45a56e3ea89b72c62aabe8b0edc06653e8a19ab9314b10cf943a3b99a"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/hcl2fNZ0/DistantHorizons-2.3.6-b-1.19.4-fabric-forge.jar",
+        "sha512": "9af15af4ed601c1e60dd28c0d12cb892d3cd2e32cd528f458e3119b4adfc0117fe3371b2dc7a92aa6cbfa472d18b234e9d50305f0f7abafebee45ba5b3554f45"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Eej5I79d/DistantHorizons-2.3.5-b-1.19.4-fabric-forge.jar",
+        "sha512": "5cd9f821b68efaa7db566af6ada6adaee8c701917e7537c8ccbcd64c8820eb0420ec4ec5c23080f6f90f42651a2195aeafeab032ae2230383a1abed0ce670561"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/lMQSF0ti/DistantHorizons-2.3.4-b-1.19.4-fabric-forge.jar",
+        "sha512": "9fc298244915a6b8eb6b772e52f8f9e57aa9c0fa18aa11f7d42326861f55516e4c87db7731a97f781c40ec605171bf14689179e73f12bcfb8d7d7e5d04e4cd9d"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aW06hfIy/DistantHorizons-2.3.3-b-1.19.4-fabric-forge.jar",
+        "sha512": "7003cedbd93b770a3c90a0fbf99527b1b12a5f2ce4da1c10f7eb00f7b62c49040df78c20baa7079a7ee265c7acdad0fad29a9e250feb1fbc267cb57ea23835ae"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/EmlxfbwP/DistantHorizons-fabric-forge-2.3.2-b-1.19.4.jar",
+        "sha512": "5be3fb476af8ccfbea717c22f9766b96f23819061085b72b6ef04a09844e5e19db37a7b26e3913ca4c7e1d2d1e411fb696e8e5b488f26e83e0bcc9086c03f056"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/OdIBe26G/DistantHorizons-fabric-forge-2.3.0-b-1.19.4.jar",
+        "sha512": "2c95d78d7ab888842887948cec5ce50cc08f56a003e366615dcc6bdd67785a32047f255dfeb63d282352582a716833ecc131a02f2ba0625f3b1667d4c58c36ce"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.19.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/62qsfv5b/DistantHorizons-2.2.1-a-1.19.4-forge-fabric.jar",
+        "sha512": "bd1c3195a06cb9fb2f8d25c35a96c6e5a8f8d7aa18800982e8140f1bc8d59d7d1669a6604b44e8333055d7275dc26e9f34477902b301bad598066ba2efeaa5b2"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.19.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwelBX7Y/DistantHorizons-2.2.0-a-1.19.4-forge-fabric.jar",
+        "sha512": "c95d4300cfa653316d8db47aad25d13d853c3428f651a075fd33408d979d9f44d834014cf557894a3231654c39f52029d76d9c017066c86e28482f9059254730"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.19.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/T98hbY34/DistantHorizons-2.1.2-a-1.19.4-forge-fabric.jar",
+        "sha512": "430e2ee654b0f92fc32a0e8d4db8b596b8d8166d1c37adcb0866a8471a762417d025ebf4cba158e223720651bdd1b53b1151d148999b0f6634d4937b8b0c6011"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/hsb0wIeu/DistantHorizons-2.1.0-a-1.19.4.jar",
+        "sha512": "ba244d73fe49ca3d6ab5839022d337e113509681ec9ae816193b3fb4852e1506d34aef3febee12feba6888bfd25d9b43e9975a5b43a7f4c1f8b9fdaf3816b4d2"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/r8OABIpt/DistantHorizons-2.0.1-a-1.19.4.jar",
+        "sha512": "3aca7d6efe4c80d7a9b74990c737f8e82c4d603a0f995c25fc78f4ec8a9c895f11219192edbabf2f4af0284508a9b1428f2b1a0cfd43068b4bb937200234a22c"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/yqCZe843/DistantHorizons-2.0.0-a-1.19.4.jar",
+        "sha512": "edc72b0117e1430aa5a7f75562df50f1ca39330167f3ac16234ddf3bd44cf454ad857f7ad7f96b123a07bbd725d5bcca632b4ba3351a2a1ada3ef4ff1eb13617"
+      },
+      "1_6_11a": {
+        "name": "DistantHorizons-1.6.11a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/xBHpiuwg/DistantHorizons-1.6.11a-1.19.4.jar",
+        "sha512": "f5921bb691be840595e62925edbcfb101c02631e9433098e960d6bb80f81b4bb8199434e6668e8a652de85714518efe10f0e17c09fd4c868d40ffc0c02358bdf"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "DistantHorizons-1.6.10a-1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P4psgCf3/DistantHorizons-1.6.10a-1.19.3.jar",
+        "sha512": "bd163811138b39652671e7323f20b3d09e544e09dc01e6f128d31271db72e5ed2838eaf797e5096c2aea03a5c014f49604ccac251fc92ee471a30c203ed683b7"
+      },
+      "1_6_10a": {
+        "name": "DistantHorizons-1.6.10a-1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P4psgCf3/DistantHorizons-1.6.10a-1.19.3.jar",
+        "sha512": "bd163811138b39652671e7323f20b3d09e544e09dc01e6f128d31271db72e5ed2838eaf797e5096c2aea03a5c014f49604ccac251fc92ee471a30c203ed683b7"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nMvw6FLp/DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "sha512": "699ec768c852430f591dec8af37a75bd138a99f04711f3405c99b3ddca9da0bacd8eeb0d2d53f1187d7b2f538ae716d8b3052bd3125b7fde6ac714f2f57b2b89"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nMvw6FLp/DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "sha512": "699ec768c852430f591dec8af37a75bd138a99f04711f3405c99b3ddca9da0bacd8eeb0d2d53f1187d7b2f538ae716d8b3052bd3125b7fde6ac714f2f57b2b89"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qQgPP501/DistantHorizons-2.4.0-b-1.19.2-fabric-forge.jar",
+        "sha512": "fc89d7f0b28a95628a16cee4a6a74d79cff9a473dce2d253029323f34a23c050c1d714b23cdcf60cee9ea567fa1fe6afb410c74429da49e1035076fa655c0d3e"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/kWG8jweJ/DistantHorizons-2.3.6-b-1.19.2-fabric-forge.jar",
+        "sha512": "acb83b7798923ae7a647d7dc49195e41b3a04dd6d0775eb494d03b66137abc6108d14096fb9a3d6de2e2ef4163bb72b432501d743a8d5febd93b409fe135a3f6"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/676hlrwj/DistantHorizons-2.3.5-b-1.19.2-fabric-forge.jar",
+        "sha512": "6d9b819213b192203ce56544be48c0317c72ca424142828037deb385f47c9e73ea36915a628a35f166d564a00c0b0edd342c6c270e7501d4d9781ef4ab44dacc"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/r2BiBqdI/DistantHorizons-2.3.4-b-1.19.2-fabric-forge.jar",
+        "sha512": "d78e1e643c7cbc1e99db957920eaf17a1b6171be1d011aec33de24970e64475ae0e7da23f83b918017f158626ab81bec6d3a04f813d34cd87418dbdf5ea2034e"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fUpFLIYi/DistantHorizons-2.3.3-b-1.19.2-fabric-forge.jar",
+        "sha512": "b7fe3cee0cf633772cd0e31e0bde529a012fd152bdba0af471683d8e985a7add8cbac7dac0659aa062da9681281fd9c29bdc2eeeab79c3b9d5854f1b91162b49"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/V3l08ywE/DistantHorizons-fabric-forge-2.3.2-b-1.19.2.jar",
+        "sha512": "812eabbb76a967608c6a34adb9dc6fe12f94f512c57ef6c95db40122e0ffa74c8dc5bc5f6db43dbbfa818db7633bac51028a2cb8887bdafafd9d8f8fdb3ecde6"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gsahwZPK/DistantHorizons-fabric-forge-2.3.0-b-1.19.2.jar",
+        "sha512": "d5b80a8ffd1c1663f72e0c9dabc5f45f72e1ad6eef64f77ef9b2996649599695f4c4af8dd947758128200d6430c47fb61d89fe5174c3a7a748f66c07381f63bf"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.19.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jsIYH2nN/DistantHorizons-2.2.1-a-1.19.2-forge-fabric.jar",
+        "sha512": "1b81e1ac90e98e8296129a4affa271e115aaaeba446559b22149aff53823158f9f65236bbe14a4ce86b13e20694ecfec02aaeb8859965f2a6150e4cbb8a334b7"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.19.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/N5Qu6xDq/DistantHorizons-2.2.0-a-1.19.2-forge-fabric.jar",
+        "sha512": "a83845b99b2f04714b852c719bfc1a35cc04e5ff20b1a62b0980b6082dc86490fe93b0ff638b1fc46c1ca1f1b26ab2a278ada0f0deffeea69430107fcf4506f6"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.19.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/8z7hnzLN/DistantHorizons-2.1.2-a-1.19.2-forge-fabric.jar",
+        "sha512": "005acc0cb9958d5d363534c40702b1c4935534cfd254b8d68d81339e3343a72ddeb345eeacb86b891c69101c8fc6085a5be4cc07c856b64201bdd41229694704"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/XLWDF2NT/DistantHorizons-2.1.0-a-1.19.2.jar",
+        "sha512": "25002998b7a0b29f03dc53b39993c3eebfaa7196e201d30a6ab45381d93bf12452960941e60883fad5ed3eb7f760938e5d33cce274ecbbd929f415544a2d16f6"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aOWEQ1nc/DistantHorizons-2.0.1-a-1.19.2.jar",
+        "sha512": "9d004062f07da250594cc6a7d01ea4470f100e314924c8de63443bcedcd688331c22c035ea982cf4d56053ec6011239e315b627ceb687259f5ee584d916cb50f"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/oYqpZUCe/DistantHorizons-2.0.0-a-1.19.2.jar",
+        "sha512": "ed093caebc457e04c610dbb1401e1dc82474fba40e1b66287da35b528c82b98906ffdb440b6c330c781cdbe133fcadaa7ed2944f114f10c348c42d0f775c98ec"
+      },
+      "1_6_9a": {
+        "name": "DistantHorizons-1.6.9a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar",
+        "sha512": "87daee673995dd70759b3f51056ea2ee3f8c316b09fea9d4ffd898eb8aab6c9042d34bd468a0a9369649ed05fa3b004211d6d7685578291f17743090500081cd"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "DistantHorizons-1.6.8a-1.19.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.8a-1.19.1/DistantHorizons-1.6.8a-1.19.1.jar",
+        "sha512": "4cb9ad70136a61ccfff0044580355fb60e05aa6d9817b42e710038d9bbddb057298d45861fc61ef933f1e7e1e50eaded1196b24de16ed4e70c751559c247ee0e"
+      },
+      "1_6_8a": {
+        "name": "DistantHorizons-1.6.8a-1.19.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.8a-1.19.1/DistantHorizons-1.6.8a-1.19.1.jar",
+        "sha512": "4cb9ad70136a61ccfff0044580355fb60e05aa6d9817b42e710038d9bbddb057298d45861fc61ef933f1e7e1e50eaded1196b24de16ed4e70c751559c247ee0e"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "DistantHorizons-1.6.7a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.7a-1.19/DistantHorizons-1.6.7a-1.19.jar",
+        "sha512": "4d5159230cb3c9639331995357ba840430b55c764768aecdfd8d14896462af1de44c11fe6b363b104cd65ce0d3b6df315e9264a7281c9dce10eb8a829f0a1205"
+      },
+      "1_6_7a": {
+        "name": "DistantHorizons-1.6.7a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.7a-1.19/DistantHorizons-1.6.7a-1.19.jar",
+        "sha512": "4d5159230cb3c9639331995357ba840430b55c764768aecdfd8d14896462af1de44c11fe6b363b104cd65ce0d3b6df315e9264a7281c9dce10eb8a829f0a1205"
+      },
+      "1_6_6a": {
+        "name": "DistantHorizons-1.6.6a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.6a-1.19/DistantHorizons-1.6.6a-1.19.jar",
+        "sha512": "f78c35bfd63a15045e41d4c4bf616dd9fade3ca12e7953baaad490e5dd3134e34df9dc9adf46a1e748ea57097130142216d3679a5ef4bc89529581cf51682713"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.19/DistantHorizons-1.6.5a-1.19.jar",
+        "sha512": "93a9a432b460b4b892ad95a5082c6efd75d2bd61c07e96e604bfd82d6d4861036e23065765ef65a5a5f06a4cab2baba7b01b2ba6b2c7944a9841c4a97a3c0ba8"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/4zFR2HKI/DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "sha512": "50960840ed22623eaac6667c4fdcd2c96629cedd8017d8c3d42a17d43ded6c7e6cb085cdf60220fbc961323fd3493aad82ed5cd52024f3f97aa1806c714cbfc8"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/4zFR2HKI/DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "sha512": "50960840ed22623eaac6667c4fdcd2c96629cedd8017d8c3d42a17d43ded6c7e6cb085cdf60220fbc961323fd3493aad82ed5cd52024f3f97aa1806c714cbfc8"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ceddlQG9/DistantHorizons-2.4.0-b-1.18.2-fabric-forge.jar",
+        "sha512": "54b179b9675740a24efbd238515af9c076f8323d4b9aa679eb92f9110f144b7129166a472bcb68ac386b3df370977625c778d590017770c0d961e24eadd4f7b7"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fZTRhf5G/DistantHorizons-2.3.6-b-1.18.2-fabric-forge.jar",
+        "sha512": "e644d038202e2fc0db7b231fc2fb7643ab62b58463e769a1345d77813a385f7cbf3893df06d7e95832c896babd8ed0f4da8eba721521ca0433572e8b302f7c48"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/xTntlMRr/DistantHorizons-2.3.5-b-1.18.2-fabric-forge.jar",
+        "sha512": "5fff6d659718e9835d07d29b9868e992254bebd0eb5059274e30d76e9d8591d573a40d3125b20ea653489d8417f676eb2120a3d71d89c86e66fb97c1b5f1326e"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/GIw7onUS/DistantHorizons-2.3.4-b-1.18.2-fabric-forge.jar",
+        "sha512": "5096c5c0d5aaac9d5e59ce1d05d154967c0cd66fd90c92bc1721237305d34c3672498ff94a0f0a268404230211d748ad26c48823495199efe006144f41442c2b"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/UIAiPEAR/DistantHorizons-2.3.3-b-1.18.2-fabric-forge.jar",
+        "sha512": "278ea274bcaede946056f7453674077033b617ebe3b488dec7d67454e7cc06df774d0fb63283fadc329957ee07d13c330088dc217f3104fbf10331b54317f2b1"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9XascLsJ/DistantHorizons-fabric-forge-2.3.2-b-1.18.2.jar",
+        "sha512": "54bc26bad910659f550bc98438e05fe8fed3e19a4fc836137ec1400cef1a88c11cef3950aef1f3576c332346da3fee80a17ca38809cb286cebc50ce445b42ce6"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/trPCtnMC/DistantHorizons-fabric-forge-2.3.0-b-1.18.2.jar",
+        "sha512": "2a2333d698bd82994f1ce95352ce35e29f5cc0006427a9695c62db8be441fc69ac17f713d0500c41b548fc2f477a561e13c3e2db708735df2e1281839ddef4a7"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.18.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/XrsGtQEe/DistantHorizons-2.2.1-a-1.18.2-forge-fabric.jar",
+        "sha512": "0a10be8ee56888a0e6e90a3efdf51165d584777c71c2c67d61579a2d58ef73f86d16d7836fcd38d4b0d10415c97cff7e20272759af6e32a87f9df16d2bee1ebd"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.18.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/UjP6Ft1p/DistantHorizons-2.2.0-a-1.18.2-forge-fabric.jar",
+        "sha512": "d958e9a2e25e93922b818ca2fef2d67b62280849124999d918d5c787f473a31c3e2e9f431d5d53a27ab06989ecc021ca77908c83967d717dea1f0694b7162668"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.18.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TSpsYWzW/DistantHorizons-2.1.2-a-1.18.2-forge-fabric.jar",
+        "sha512": "6a715fba9ca211039e53314420a2b7af1d88673a5be74b2e277dbfbd1c508687eb6a5ba8335a236d80c5cb4590722aff1513c05d46f6b888b36687f24127c564"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P8tkVBXd/DistantHorizons-2.1.0-a-1.18.2.jar",
+        "sha512": "dc1c167a56080f090a5dfdd641fd3a5b47ebca97a17c391e7862f9f1f04110dc895ba1e8aa835d8430fef1da822a7ce2851c8ac9b7aad42818d8fcc0906f9f26"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/s3sNOqn2/DistantHorizons-2.0.1-a-1.18.2.jar",
+        "sha512": "38465226a69736b73f913193f73eb1bc314af5e5fda19c1ac33023cc31fbfb1368dbe08f7c98d057abfea919ad8ebf77ef762496e71c3d8f15ca0ca87c5490b0"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/mxvQyywi/DistantHorizons-2.0.0-a-1.18.2.jar",
+        "sha512": "b709af20620dc4798284a0b275693f07e08cb2c8afa91f56a059f200a46f5933dae6b8ecb41ac6550060f95d9377579088e69b82704789af2c6b3a6b92a30071"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.2/DistantHorizons-1.6.5a-1.18.2.jar",
+        "sha512": "9efce2721a437ffb128eeea7ab81cc6f3afb29c498dea1072d3a3f1dece0b1ccce4c0c30f349483eda0f8da6d5031d569840d0ec99399a80cb1975e874b2d51f"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.2/DistantHorizons-1.6.3a-1.18.2.jar",
+        "sha512": "d64ac7304326f984d3336c851002ac5fe928466c691045b078a2c3b219b1578444926735ddfd1586a3670295b1435caab3ed7d2677202f71dad716a5c665fe73"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.1/DistantHorizons-1.6.3a-1.18.1.jar",
+        "sha512": "c78a26df0ac640931635ad71cff87a8a7f87f96b17612a1bfcf2c43363d61220e407d82523e39967b47d7891998ea2588944710a22fb08486c741173733131a8"
+      },
+      "1_6_2a": {
+        "name": "DistantHorizons-1.6.2a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.18.1/DistantHorizons-1.6.2a-1.18.1.jar",
+        "sha512": "ffbe20452906a51484188e55f38f9d6c2b401c71889426825376ab82d1f5daac09ce7f25cccb4ba90cc70a133f117aca20af6a09a2ca1ae948aa8d3b8bc65288"
+      },
+      "1_6_1a": {
+        "name": "DistantHorizons-1.6.1a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.1a-1.18.1/DistantHorizons-1.6.1a-1.18.1.jar",
+        "sha512": "89776297cdbb7debb9be81dec65fbc2607f85d3036b67b664456bd28fb68430066a1a4c05ace1b5900e98e371a009422f437cbaaebb4959ce94b82d7b509d975"
+      },
+      "1_6_0a": {
+        "name": "DistantHorizons-1.6.0a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a/DistantHorizons-1.6.0a-1.18.1.jar",
+        "sha512": "4a9e260090aba19a807e6beb84d2b0df26f57f6fa57a493f88fb4505f4f05acc844e0d12d0403ec36f617a49f5e6a376a604f258a6f730f9168c0c9a172ac28e"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_5a_1": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_3a_1": {
+        "name": "DistantHorizons-1.6.3a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.1/DistantHorizons-1.6.3a-1.18.1.jar",
+        "sha512": "c78a26df0ac640931635ad71cff87a8a7f87f96b17612a1bfcf2c43363d61220e407d82523e39967b47d7891998ea2588944710a22fb08486c741173733131a8"
+      },
+      "1_6_2a_1": {
+        "name": "DistantHorizons-1.6.2a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.18.1/DistantHorizons-1.6.2a-1.18.1.jar",
+        "sha512": "ffbe20452906a51484188e55f38f9d6c2b401c71889426825376ab82d1f5daac09ce7f25cccb4ba90cc70a133f117aca20af6a09a2ca1ae948aa8d3b8bc65288"
+      },
+      "1_6_0a_1": {
+        "name": "DistantHorizons-1.6.0a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a/DistantHorizons-1.6.0a-1.18.1.jar",
+        "sha512": "4a9e260090aba19a807e6beb84d2b0df26f57f6fa57a493f88fb4505f4f05acc844e0d12d0403ec36f617a49f5e6a376a604f258a6f730f9168c0c9a172ac28e"
+      }
+    },
+    "1_17_1": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/BegKTgDy/DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "sha512": "ebc0b7b22d5e431a7fec6c1237bde85e68c3d043c1b6f5c7d755ba0af17c8f4251963b7ef5cab7d60279bc3e64267d259db26cda9ee18106177cc1c69f962947"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/BegKTgDy/DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "sha512": "ebc0b7b22d5e431a7fec6c1237bde85e68c3d043c1b6f5c7d755ba0af17c8f4251963b7ef5cab7d60279bc3e64267d259db26cda9ee18106177cc1c69f962947"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Qlo3eVOM/DistantHorizons-2.4.0-b-1.17.1-fabric-forge.jar",
+        "sha512": "71839a289b05a33c504a4e06ec3a27e3caa0ccb4d6d235ce224651e08126212ad29bf9709d03ec041ab81f6f278f1c3326cbd07b29977a4d56c9c49b05aafc96"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QmMfA57h/DistantHorizons-2.3.6-b-1.17.1-fabric-forge.jar",
+        "sha512": "c0ac4e0aa260c70f1ebf3b0678e8ac09edbbf01688f215b6010239fddfdd267081e96d2d689e14a9ee52f27dafd6e29a12ece91a2c711a16e687bc88b1642932"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Kqh7cLmF/DistantHorizons-2.3.5-b-1.17.1-fabric-forge.jar",
+        "sha512": "891701dc848b3f8c1c41349a19c67778ed07f892ab8ed6ee3cdce95aef7bef7319866a68965b35df74e0b3134763ae747c52db53c5134677f948cb71dc7a07cb"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/spsGrMVF/DistantHorizons-2.3.4-b-1.17.1-fabric-forge.jar",
+        "sha512": "f9d35c2b760ab2edfa1d79941ab9a9ab7b40a07e7883dca432eb7097679c449f3907d092cd5d2eed06e5aa88322da83850d0a28d3f82897fc26800557d131ecf"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1hVQ2s33/DistantHorizons-2.3.3-b-1.17.1-fabric-forge.jar",
+        "sha512": "fe2b3ef8b89dd1e29a312c3ed117f2530760a618c2603fb0934b56f1fd8b826750ee2282794eb3379dbf17a82e79e0ed3609fc8c90eddd1609ae0613e24719cd"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QS9UZICe/DistantHorizons-fabric-forge-2.3.2-b-1.17.1.jar",
+        "sha512": "8b706a845aec064a54c9fa378ecaf1f71e6ad03963c85d73945c323ff30f3e8ae924eabb08689eeb10621b89130140bac184164012edea8872c913cb809e52a6"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pLTJPgin/DistantHorizons-fabric-forge-2.3.0-b-1.17.1.jar",
+        "sha512": "e9e220ca72077f5ccacb6a6d6d40d1aad3327a75a636d3711544d5c519ad175579a16c50bb352dee098e88a128e8c0d851d125235b0db195924144c91ab6fea9"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.17.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/sdQQzem3/DistantHorizons-2.2.1-a-1.17.1-forge-fabric.jar",
+        "sha512": "85998166984a0e128edc545113f3bc966c473c0427037321c6b49b2320d55046189f476e94286569c65c7a9678d20bfe2c408fc4307edcfab8d3d544b0f2a80b"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.17.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/osyU5xyr/DistantHorizons-2.2.0-a-1.17.1-forge-fabric.jar",
+        "sha512": "e20780412362de41619df1f05c4c9d4ef1984e8a53b8ee49d8f7c8da5d5fe67ee780e5836f969502cd8a8476d70b5aa747ea27fc93efbc99585760a8907a0965"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.17.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pllFih8s/DistantHorizons-2.1.2-a-1.17.1-forge-fabric.jar",
+        "sha512": "19183bfc27e09a6b17cf9532bbc417778a45e6c8a9a62d9fa17579de8cad9cc138ddf60ad5b5dd6986f63c40e66779a5eea3ce9d0deb466fdebad17bf99537f5"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/VnKmHe1I/DistantHorizons-2.1.0-a-1.17.1.jar",
+        "sha512": "327306206c85d1f94b739dbe19e0ce92f6fb8cacd99cd9f8eb73d15eb36d94d9e6667cb6a74005b80d21f9584742838995bf5f50858586d406b5779c6d6c9df0"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nLshnREE/DistantHorizons-2.0.1-a-1.17.1.jar",
+        "sha512": "9432d57906169e8f4f2f842545013629c0f62c4ffe102a7965783dd57f109dfb8bbbc66810107dcdfc3f49cda7f6cb77796600236130dba5655d125673e1296f"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QLrBlpYY/DistantHorizons-2.0.0-a-1.17.1.jar",
+        "sha512": "c51b3b32bb212b3ee3daac1de358c84ce5fe462736e8d9dfc7ee7c4e59b6bb096b38783b2b5b69a28b13e708253e77fc8dd3217ea847974a4d7f08653cc9d144"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.17.1/DistantHorizons-1.6.5a-1.17.1.jar",
+        "sha512": "dffc7c7b4e135890c3b4ea6f5a2b132fb92b66435e41aae177f72f20703aeeae803baad15e2e451e1f95c04d32e58761f51305933a5349dd4f246a712b1dac3e"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.17.1/DistantHorizons-1.6.3a-1.17.1.jar",
+        "sha512": "f82d8f3ebd72a1a9779b92c7bad654c2ce9c7d0fc7f4d4b8940e07c424ca68e39ec24fe5703c00044728dcef5dbae9988ee6ff87f3cd6ddcae97aca7fb9cb7ed"
+      },
+      "1_6_2a": {
+        "name": "DistantHorizons-1.6.2a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.17.1/DistantHorizons-1.6.2a-1.17.1.jar",
+        "sha512": "6aca566f7066d8f0c243de6a49aee05f797eecc30c99fe4937dfbb0462201c3f696d51ed8027cd1a503239fc5a2b04b5398b97e0bc86c58e78b9facf089bc589"
+      },
+      "1_6_1a": {
+        "name": "DistantHorizons-1.6.1a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.1a-1.17.1/DistantHorizons-1.6.1a-1.17.1.jar",
+        "sha512": "20bb97d97d1d4572e680552ab23fd300786a0e92a9f9d696b9fb866c0efca89759d9d1b8cc5a2ec7df5638b92be17a72707f24bbd0e08e7ea85678d37270eb63"
+      },
+      "1_6_0a": {
+        "name": "DistantHorizons-1.6.0a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a-1.17.1/DistantHorizons-1.6.0a-1.17.1.jar",
+        "sha512": "4cb2bc616c241d8662c2d0dbe2308d8e0ac06137e9ad4e357a8207a28ea2484956b7ccaf917a5fa30aaab87de5a830dda96d02843b436b4ff0f7706a80088804"
+      }
+    },
+    "1_17": {
+      "latest": {
+        "name": "DistantHorizons-2.0.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QLrBlpYY/DistantHorizons-2.0.0-a-1.17.1.jar",
+        "sha512": "c51b3b32bb212b3ee3daac1de358c84ce5fe462736e8d9dfc7ee7c4e59b6bb096b38783b2b5b69a28b13e708253e77fc8dd3217ea847974a4d7f08653cc9d144"
+      },
+      "2_0_0-a_1": {
+        "name": "DistantHorizons-2.0.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QLrBlpYY/DistantHorizons-2.0.0-a-1.17.1.jar",
+        "sha512": "c51b3b32bb212b3ee3daac1de358c84ce5fe462736e8d9dfc7ee7c4e59b6bb096b38783b2b5b69a28b13e708253e77fc8dd3217ea847974a4d7f08653cc9d144"
+      },
+      "1_6_2a_1": {
+        "name": "DistantHorizons-1.6.2a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.17.1/DistantHorizons-1.6.2a-1.17.1.jar",
+        "sha512": "6aca566f7066d8f0c243de6a49aee05f797eecc30c99fe4937dfbb0462201c3f696d51ed8027cd1a503239fc5a2b04b5398b97e0bc86c58e78b9facf089bc589"
+      }
+    },
+    "1_16_5": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/h9P0hp4h/DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "sha512": "0c5f6ff67b9d7bf1e09495ee282c824df45c07bd4c13f55fba76c2212d8005bd9339aa7b629c89973c6c49f1761f1b86eabf135fb1a04e952e0e14301f7950ec"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/h9P0hp4h/DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "sha512": "0c5f6ff67b9d7bf1e09495ee282c824df45c07bd4c13f55fba76c2212d8005bd9339aa7b629c89973c6c49f1761f1b86eabf135fb1a04e952e0e14301f7950ec"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/w7nPm0N8/DistantHorizons-2.4.0-b-1.16.5-fabric-forge.jar",
+        "sha512": "4f1dc1c8a761f03687aa1a3da625c2c586e8af51ac686f78866ddfaca00c8cc5391d7bee6966b2552779cc29c06cdb17cc4bf24615ce7fcb4d1ddbb834c7daba"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/hx6wT9xr/DistantHorizons-2.3.6-b-1.16.5-fabric-forge.jar",
+        "sha512": "079e45c6cdafa8b49c93069bcf219c6d7ff9cc16587b354ea2c78a14c3a31a2de1d32a14f261229ba663428837626ee134bcce82fac334b229380bcefaa27dbd"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/RdM8qwkP/DistantHorizons-2.3.5-b-1.16.5-fabric-forge.jar",
+        "sha512": "1f9dafe63518a2c4517987c181ae8048d6d631d8d5dbc14c5020430a9178592b2fcb6b503e864b1ed47a9160b3f65d073fa3dd31fb8d8ab3be9d67a1eb219646"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/wtHg2yzz/DistantHorizons-2.3.4-b-1.16.5-fabric-forge.jar",
+        "sha512": "36f9769ad905b9b68ea1ed70ae2791380c9a7a66c6bccb953534eb80bb0421dcee8d727895b4eff8f2e52926c052a4ea16f02ebf69b7b9c1a98d68e891b15bae"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vebumqX9/DistantHorizons-2.3.3-b-1.16.5-fabric-forge.jar",
+        "sha512": "7f7ce6a2160e36c19c51fa72ab0c25f8c916f28a64a0057658cc48df911fb7b294cb42a1281f99698f149086fdefee09a7a8f49a640eea3a19a4c96695bf75e1"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/LoGOdHER/DistantHorizons-fabric-forge-2.3.2-b-1.16.5.jar",
+        "sha512": "770bd409d00b562c479be001850c6bf9013428c064f2f50d64b7d21789eed311f992a360b862ceae83409ec8e64317a7b096a17c9b03b090fa362f141dd1a78f"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/bECNHbXD/DistantHorizons-fabric-forge-2.3.0-b-1.16.5.jar",
+        "sha512": "3347aeefb8f9d97760532d8dd4f1fb91d48ad472e1c29efc7b323405f8e24f1db2aca2619641d68d7c6adf12f498934e0d5a3a14bbffb22962b2c40fa5939e8a"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.16.5-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9rysX1IB/DistantHorizons-2.2.1-a-1.16.5-forge-fabric.jar",
+        "sha512": "addb38805c5f57d1ff3e9ca87d0ed1767b6b8b08deb2f6758142aaf4fd625a06c3db0e83e556b95fcc433fb5cf0bbc91be9a53e649412451a5fe2b75b8eae612"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.16.5-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ja9vQCaE/DistantHorizons-2.2.0-a-1.16.5-forge-fabric.jar",
+        "sha512": "0d72ecacdae83404489ad59b0f6d0e40569767606ac01145a844cb76abce5d125965f136196e06782d700d66c4ef3fa1393de272ced1811648a86969ca17c1b3"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.16.5-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rvEYu8Iv/DistantHorizons-2.1.2-a-1.16.5-forge-fabric.jar",
+        "sha512": "3d56a5960b9e7305350fbc54878b4828eb9fbfdf87a73adae3c16b54e64262bad31a37e5d6ac3c57c8ef138e3fc930cfc6e040255175001b13dc315c10212d45"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/6pQHeelV/DistantHorizons-2.1.0-a-1.16.5.jar",
+        "sha512": "04d7695e508e91be05172c6dab0d887ac83f52e9b4b2694fd9c72f0aa490e51c8435686cfed030d1bf5f52387a5fd44edebd358f1ce8a451f4270c303e497dc8"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/zhP09epG/DistantHorizons-2.0.1-a-1.16.5.jar",
+        "sha512": "6dcd1aa157c574cd2664e7c1e56dd9f7e60fb9e77642ee0ba16b8e6888435ea30e22a901eaa20437c28f638ab938d335bf8ef85d1d717cfb72c7ebc0a7b01427"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qT4v0LBa/DistantHorizons-2.0.0-a-1.16.5.jar",
+        "sha512": "bb1f2179f8dff3d7b00959396ddedab594085911553821ce9d9692d365d3c908e97e90bd6f48d8dac49fa1bb93f56eb4fddb5dc8a357fb1ab2628f62419d8475"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.16.5/DistantHorizons-1.6.3a-1.16.5.jar",
+        "sha512": "9ad7a93d2b7019ba086923b511b60f4dcaa699512f8fbea98bac229b026e9354476fa16282da67b84e8e1e8200ed3b6351a00260ca083b144984a3cb2336048e"
+      },
+      "1_6_2a": {
+        "name": "DistantHorizons-1.6.2a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.16.5/DistantHorizons-1.6.2a-1.16.5.jar",
+        "sha512": "d1abcf260decc0f5136b9869b63db2014167ea66323d3ecfc020577bf9f5c6c71859b391e1219c4168fa8b94c3c8be57f9af74d26f7724c554dff8c719f08066"
+      },
+      "1_6_1a": {
+        "name": "DistantHorizons-1.6.1a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.1a-1.16.5/DistantHorizons-1.6.1a-1.16.5.jar",
+        "sha512": "58243c7aaeb935b2c08081509f9ff22df725ee49239363cbee15582a15c7cb3b34179d68f7f0a6f72b5eda41003253b50942e0d41f516ea3dca60653c82841ee"
+      },
+      "1_6_0a": {
+        "name": "DistantHorizons-1.6.0a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a-1.16.5/DistantHorizons-1.6.0a-1.16.5.jar",
+        "sha512": "06593a03f814e93373509c88773ca861db944997d152a63af9b71a22fe8926840993d3a297cc5edb9172b5ab8ddb6c4011874b49b81c4698237b65ff9aaa0b09"
+      },
+      "a1_5_4": {
+        "name": "Distant-Horizons_1.16.5-a1.5.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/a1.5.4/Distant-Horizons_1.16.5-a1.5.4.jar",
+        "sha512": "ffd8c86ad1e29457a4363912e553ffb088fe86f5e1a2746cd10bc919f4e70adb5ea0ca2b225e875b142c3324272fd60fa7127372184431e8f56a2cf891b8d961"
+      }
+    },
+    "1_16_4": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      },
+      "1_6_5a-1_16_5": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      }
+    },
+    "1_16_3": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      },
+      "1_6_5a-1_16_5": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_11": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TkrPgySM/DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "sha512": "c66a18922270e51204123182804a380b7fbfe0baecb3b9dfa2ace12d4dae838966649ce25533aaadc572bbe6c647f6d513c4b292b091e8981f8506eeede809bf"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TkrPgySM/DistantHorizons-2.4.1-b-1.21.11-fabric-neoforge.jar",
+        "sha512": "c66a18922270e51204123182804a380b7fbfe0baecb3b9dfa2ace12d4dae838966649ce25533aaadc572bbe6c647f6d513c4b292b091e8981f8506eeede809bf"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.11-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rdwJawR9/DistantHorizons-2.4.0-b-1.21.11-fabric-neoforge.jar",
+        "sha512": "99ea302d7093103dece067ad3dc3e59444a4ca321b116706cd0b1ef8325c0854b627395454f8c4773f457ccf95fcf1f52ac1bceb08fc8c5dc9fc1d444a36223c"
+      }
+    },
+    "1_21_10": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/llR9IxHY/DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "784ac4ded14bb0f25133d65f0429ed4f406a30de127838d59cf958d486bf58b08d188c416f535a59d2782672088165c804fd32d43d6989c02bb5a6c2ae3b4ec4"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/llR9IxHY/DistantHorizons-2.4.1-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "784ac4ded14bb0f25133d65f0429ed4f406a30de127838d59cf958d486bf58b08d188c416f535a59d2782672088165c804fd32d43d6989c02bb5a6c2ae3b4ec4"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9gPQQBEc/DistantHorizons-2.4.0-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "edddf13ddc72c0b94d4756c9fe5e0307363b58d78be47c53c97494bd30512105d9ef3079bfe7fb07548884b2d169197e22ba0e9ec8c4287dc7ddee830acf0d74"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9Y10ZuWP/DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "1b1b70b7ec6290d152a5f9fa3f2e68ea7895f407c561b56e91aba3fdadef277cd259879676198d6481dcc76a226ff1aa857c01ae9c41be3e963b59546074a1fc"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.10-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9N4UxA0o/DistantHorizons-2.3.5-b-1.21.10-fabric-neoforge.jar",
+        "sha512": "7fa13555b496285424c19a0c42dbc66589ef0dddc05f9691a792c40f1c2496893ad3baeac3a018db2dd3aae6768848151ece2623dc7f9fca15f668b2463d5c28"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Yk9feNkq/DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "770c97d318ffad6fc9417c57ea934ae506bcf0b9c7d28b2bebf339a838657bb59d7c41f785b6f675581837465384d0fd06d9cafbca013e41cca2639e0f017b6f"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Yk9feNkq/DistantHorizons-2.4.1-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "770c97d318ffad6fc9417c57ea934ae506bcf0b9c7d28b2bebf339a838657bb59d7c41f785b6f675581837465384d0fd06d9cafbca013e41cca2639e0f017b6f"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QmmIyyml/DistantHorizons-2.4.0-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "222fdb26df76efc2d586dce6730bfdaad3877290ebaa31e3e6c37ed14cf4474f6525bdc1447f6425e43d70dff23d1b72ce57e6409df494046fe3fd238a2195dd"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.9-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/JNL5smuQ/DistantHorizons-2.3.6-b-1.21.9-fabric-neoforge.jar",
+        "sha512": "b4dd4bc4742f2cdbb47cce21e1eac1ea8fe718678ffa523491571c5ec9e6e9eb4eab750ed4acbf8f400afd67a4f07a7ceae9294972ef49a046b4e7c6217253f8"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3CpJdiTl/DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "8edf72e7f8179df7e77bd79fc2cbefdbea61eab871500f92d9980fed9ae56b28df9e4ad1728c5bbecd6ac382f62df8ba267225466811b37a4278bb7fbc22f68f"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3CpJdiTl/DistantHorizons-2.4.1-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "8edf72e7f8179df7e77bd79fc2cbefdbea61eab871500f92d9980fed9ae56b28df9e4ad1728c5bbecd6ac382f62df8ba267225466811b37a4278bb7fbc22f68f"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f45HajCV/DistantHorizons-2.4.0-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "5d687d35fc6578fb814f76780c93ea902aacb027e5d90b67c80094176fb9b0662348d7c54936c4b52bb48984011b6527826bb8ee71e9e4aa7b47b36559894966"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/iej5xqn2/DistantHorizons-2.3.6-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "56c7cc29bc57075252573220ceab01fc1a4697cc6361ec42f96cbfb418c87b19bcce73e252a47d7dde08e126c56d0df99788964843593c3f88fd8c8938e7f28f"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fiAPHcqb/DistantHorizons-2.3.5-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "40263060b1a344d9fbea5f7f3feaaf8d67b388341fa3cf9b45513e223f47cf6104bf7fd88bc4f92a47b54ae450c2ea8408c2041e8754d145057e31a0d27d9270"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar",
+        "sha512": "593b16b03917d9385eb275ace9505e27a954043e834425c1b50e8347f427bd85a0f00403e2b6eba20634fe6b7019d31218b849a807116cbe1115bbf81e320440"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/2mY04ehi/DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "sha512": "5f8d4e564f65dcbe5e039af8605da4df8a8edcc2218a46aad827aaa8d1e8848adb302672735f579715be1c480956dd6dd7548a2bff9bacc4f0ef0592eeceb238"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/2mY04ehi/DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar",
+        "sha512": "5f8d4e564f65dcbe5e039af8605da4df8a8edcc2218a46aad827aaa8d1e8848adb302672735f579715be1c480956dd6dd7548a2bff9bacc4f0ef0592eeceb238"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aYRzYrET/DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "fdecdcce3ff69d72dbf379be1a47f5e53cc97102ab0acb75b2fc8a0823b1a9a2788fc444372ba32c6a854ecb1edbec99a5eccd435cb55966efb24dfcd9cb7459"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aYRzYrET/DistantHorizons-2.4.1-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "fdecdcce3ff69d72dbf379be1a47f5e53cc97102ab0acb75b2fc8a0823b1a9a2788fc444372ba32c6a854ecb1edbec99a5eccd435cb55966efb24dfcd9cb7459"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dhfXtbUI/DistantHorizons-2.4.0-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "0aba71323e75a9fe88124a3cc33b642b466e136f94bb0a4ec1291ba971ca5e76a1a279013bb40702c32b2e7bfd5ac3bb72950822b4a197178d76ccdf884de386"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9whDqmNE/DistantHorizons-2.3.6-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "03ac5cf14ec26963bfd1163c3e062e467cee71b9489dc3dd2e445ebf636c669b6b5d9261bb87490a6009d366c0e0e82806210636a33b1f46314f4f8ea30d042d"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/NINYMTRW/DistantHorizons-2.3.5-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "7bda4c6b88b80aaccc93129ba0e57cc404a6e17827412034455bbcb7101399eec35829d182d71aadca0bf2972dc928e9338fceceea372f6fbde122d7f81050d9"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ckv2xorP/DistantHorizons-2.3.4-b-1.21.6-fabric-neoforge.jar",
+        "sha512": "e3600af8ac1cdf220be160c45954abce10fe3bca228510ce7073ac346244d3b05c74fe7021fd6e0d7e8a808eb65b6c893ba94a9797f74fabcf5c23ba9767d610"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ucg5Gbd9/DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "bc0d0dbcb770054803fc8cff837a67ca2f8e285a48d37e4e535a998d84258b50fde54dbc87799a4bbfd90333dbc673d123581df0d66663109d8ac0db8ee28a2a"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ucg5Gbd9/DistantHorizons-2.4.1-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "bc0d0dbcb770054803fc8cff837a67ca2f8e285a48d37e4e535a998d84258b50fde54dbc87799a4bbfd90333dbc673d123581df0d66663109d8ac0db8ee28a2a"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/5d808mgo/DistantHorizons-2.4.0-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "aa09083f5f7bf58094a1c193c0818b6d307639ad07dab1bfed7411c8adc138f65c9b4da8702f8c923f8000e8724511c5d505731774c215668c9cd38564761565"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jbc81Nwj/DistantHorizons-2.3.6-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "edeb2c78b7de7b3c7320ce131b5869447b30f0ea57f38825d5feb502e4e5589f003e8b7cf5ad6daa98e23fabc2bdf96e875e694eedf2cdab7d4d931d128c261c"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/EOztwHKg/DistantHorizons-2.3.5-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "471f0fde91d9b54c3ef58b160cd2ca5ce4eb28b79a6cd78b50ad5767dcab66a61d8fe1c959508af0ca1cfbddfcfe140062ab9c73e3ce5c8c946d928886f32a6b"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AfpfSizB/DistantHorizons-2.3.4-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "2c8cb8c924cbe9e93b61bf675403b017d492e8f3bc39b67ba0438c45eb35c388db00874144123a307331cd2d76b6edac7d691795a3bac69326abe180bbef4ea5"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.5-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TkcJk6jC/DistantHorizons-2.3.3-b-1.21.5-fabric-neoforge.jar",
+        "sha512": "88cc4e78a610225191d5bedafcd117e0a714dee4378d613e2248a4bd965ea9903fbcfd1a246dcdb2f1e4d9d4e964361760b9b77597c3169d5cf7d45870c16c13"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar",
+        "sha512": "e17d845f5ddb71a9ca644875a02b845e045bb5c7e72429e120271636936a816b416bb4ba13789de18c3af6a1a5f5b7ed5dbe07326c60d5c49534a382310dab1f"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KK4ILfMf/DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "99c6bac4ddb042194b93e84b3e7f706f2ea0ea6558d9c04c70608f53c0d8ced0fa232652d84c1b5074e1940f478255f3552fabe9caaa8477e7260ca6901339a3"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KK4ILfMf/DistantHorizons-2.4.1-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "99c6bac4ddb042194b93e84b3e7f706f2ea0ea6558d9c04c70608f53c0d8ced0fa232652d84c1b5074e1940f478255f3552fabe9caaa8477e7260ca6901339a3"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/VNiTFTIB/DistantHorizons-2.4.0-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "d52c0c30dacd10d3b38e14ed1715d4dad2b64e04e2f1f5799329c531699e48e9c9547084735d1e32c5bdafe6d22421fe4e9cb0c01b1a63cdc72f49a25a15f9db"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/kolLa0aT/DistantHorizons-2.3.6-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "14084d225ea71d868ffa1f3fc1c4de5f4d0dc4acf13950fd9891bdf8ca289271ae8f1f5f8a289e4030b7e28f85184730f3b076df50616732d9b441e4cc85e107"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rU64fz59/DistantHorizons-2.3.5-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "92edf64a71125d6e6c8694619091d93b2c1dc686ea86f681251268176dc739fb460d29886ea727394d7bc47390bcb26014d38fe0bde94d49b01a5d7ca5cba899"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/icIr6dPy/DistantHorizons-2.3.4-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "2ceea3d147c2045ed2deeb5e778b1ea76a8c4e5186400a0ead3c965743ef0d165e3764e1767eed31552d9c8fb4df66809bb1597fe9b221c7d3a0e0371f802b86"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.4-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/l3memwO4/DistantHorizons-2.3.3-b-1.21.4-fabric-neoforge.jar",
+        "sha512": "aa6b882c4c0b460d13fd01d9574f15138ba5e8afd2dd10679f8fa6f78151040e36ae609c71b4ef07be1c55304ae78d4790d30a5f364f6c96529e8f79d979daa0"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/94McsAoL/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar",
+        "sha512": "f5c16f004b708251d1442c95728defb938de23d3bb21c060042c2b761544d859fb31019db418ceda190d4c97ed8ecd7e03f2fabfcb406c6a01156a6525da0911"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.0-b-1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/DTFSZmMF/DistantHorizons-neoforge-fabric-2.3.0-b-1.21.4.jar",
+        "sha512": "7337d486cde3dd43f5bed5f81277170d0dab4257f5d355e1dc88d5cfb5577a8592a35a3df80d35e1ec81b799ebc7b398c348cec6e73a0d37e7952883e49d06dd"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AjyR7UOM/DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "59689bdda45e7b53686158d7730cea96bd0a0dde5d1afbe8c87cfc792c60db434fd3c8567d41a08345f6678439534147ddab7444b4d709796028b28f520290ab"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AjyR7UOM/DistantHorizons-2.4.1-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "59689bdda45e7b53686158d7730cea96bd0a0dde5d1afbe8c87cfc792c60db434fd3c8567d41a08345f6678439534147ddab7444b4d709796028b28f520290ab"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/x9Rp9oki/DistantHorizons-2.4.0-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "aabeeddae6e105d1a1578cc7a0220c9c2a78b45e5dec3b7606a533f0f4268bed15c842712eddff8afc999f06b4dc6460d3719e1b11d16c7be67a90ad2de0df0c"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KEEaPl8S/DistantHorizons-2.3.6-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "48f39092a4b356058f5cbaa076032b1304630670d340bf5b2e0b863ce87307f351ba1086f1a3b6af1e16ebbb11558efdedf11307e608de5964c6dbffecdf0d57"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QiFIOlU5/DistantHorizons-2.3.5-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "fedbb73348d7fa3c7aa941d87068fdb66cb84ccebfdd441d750c8e0a5804b4c7dfd4d0eebd9103b3be3ddab36ca13c8d05191d0d850feeaab8b1caec095e02fa"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f8tkHD7f/DistantHorizons-2.3.4-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "4c35e40a6e899eeea31d17ace6cee37429b5d799ae5e91a5e7da1ee80e32615364a385f9d4381cce91f62f9493e4f630109bce24a50788e8b8f5e903b72fbd10"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.3-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aI1lh6pR/DistantHorizons-2.3.3-b-1.21.3-fabric-neoforge.jar",
+        "sha512": "369d47e63dc7a42226c9360437d159cc08070a29c2935c1cdf1e1362546e5a50be2fc97be2b0af4582988db90dac1d3cde4e2b188289361632b89ef7b09c9a02"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Hg8WxbND/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.3.jar",
+        "sha512": "ae61809f005a09a8fd0f5076881e723f09c1efff677b836a8fda69342fc2af02a80f66aca9e186e242f7f9d4d37e52368f5c58c6f2f4038c1fc7c358998090d8"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.0-b-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gwqnI0zh/DistantHorizons-neoforge-fabric-2.3.0-b-1.21.3.jar",
+        "sha512": "35f00f87787a08caceaf65fd2aac3873988349f38290bc6a8a0b2f01f92a43b10958a7587381e674da9f5f2ce9bda42279955fe0b4f1b54aaae4c9c2bed00d5d"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dMF3XvNI/DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "c848afd1b7eb5d954881e7df39ca5a88a643b228a65ffb99488fc9bf67a01b3a224183dbc47850e0ca38c49684ac16a8e8a68cfd60e3c67f829c29a0162bbba2"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dMF3XvNI/DistantHorizons-2.4.1-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "c848afd1b7eb5d954881e7df39ca5a88a643b228a65ffb99488fc9bf67a01b3a224183dbc47850e0ca38c49684ac16a8e8a68cfd60e3c67f829c29a0162bbba2"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pvvV97Wp/DistantHorizons-2.4.0-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "a265e826c2bec08122453249c1cfad9f7cb89b3bfae77d37eab17fe81712fb6ce2019f47afefd61ece8ea83568187d32aa4ed0d4c8cabd4e80d381fe24024a6b"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/uzLZ00HG/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "c3373812cb65b98cf524e387d3f032ebcbf3bd4e874d42f46b700be9b895ca15c8568cd0c2e0244a277104f42a3fe0b0446305b29e9abe89c0146c96b1b97f82"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9xxidKse/DistantHorizons-2.3.5-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "7f82bb9247ff55634bcc62700ca1ef616bba3e8e3d3d2fc136e2a62e20597c12f238a5e185ae0c1a0f29cce7922584eff26afcf02232b6e4320e7d19e138c443"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P14vqscU/DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "5514def7741ae61517c4b678294b2672c767c3bbe15f4beb3dfb60761a3bf367ed480136c9c1f6e6fcd302d0e4f79984215dbd348cfda983dacc714f377392dd"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Wqd1N9MJ/DistantHorizons-2.3.3-b-1.21.1-fabric-neoforge.jar",
+        "sha512": "e6749f6b978a47bbae7bf5208afb2feefd787228e35288b60f4c4eb2bb900821836d4bfef2c460e024dafe165ff569a663ef0d57bc40c837733ff11ec1065a05"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jkSxZOJh/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar",
+        "sha512": "7dc7f295b8e132799520435c2de603c5ba1fe7b7d1c2de7a8c7106eba2d57dd2b46ac7559a7ebcd21790398472690fd3ad5ddeeec3c2648c54fae267f87b508b"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-neoforge-2.3.0-b-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vA2Ju8Tu/DistantHorizons-fabric-neoforge-2.3.0-b-1.21.1.jar",
+        "sha512": "b8b91bb4bb664fe4c7521154f057e4a01fc3c58794cecf5d035347041c55e7f0f976a1a4794a79519f92b8e8f9cb661b6d33544c7f489918648972c070e7e565"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pEvLEY5E/DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "sha512": "915d15ac4bd898ee50c3e451e9c48e8f9aed86c421e56604cdbc1704035b9e5140f73cdecb783a4a6e87b7438ebc76f135eaad6eff2dacc6c8dba6ffb34cc0f8"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/G0Er1cyB/DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "sha512": "9ec4428e173d61c6661942370e34951a9f344f0c7d167621afdab6c81702c0a948cca0c6f0d35b5648ef334fb97548f8b82996cd2311cc911a5f81f99f7e78df"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pEvLEY5E/DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "sha512": "915d15ac4bd898ee50c3e451e9c48e8f9aed86c421e56604cdbc1704035b9e5140f73cdecb783a4a6e87b7438ebc76f135eaad6eff2dacc6c8dba6ffb34cc0f8"
+      },
+      "2_2_1-a_1": {
+        "name": "DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pEvLEY5E/DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar",
+        "sha512": "915d15ac4bd898ee50c3e451e9c48e8f9aed86c421e56604cdbc1704035b9e5140f73cdecb783a4a6e87b7438ebc76f135eaad6eff2dacc6c8dba6ffb34cc0f8"
+      },
+      "2_2_0-a_1": {
+        "name": "DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/G0Er1cyB/DistantHorizons-2.2.0-a-1.21.1-neo-fabric.jar",
+        "sha512": "9ec4428e173d61c6661942370e34951a9f344f0c7d167621afdab6c81702c0a948cca0c6f0d35b5648ef334fb97548f8b82996cd2311cc911a5f81f99f7e78df"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.21-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/NCz4yZ3v/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar",
+        "sha512": "8088878d2e78d0cb18cfd8d5d3833141861fdb15c686867ab249337a9561f3573d88ab5a6e2a2acb759c8a539a60a5229c951bc8e5db9479bd5e544875ba621c"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Lo7paKSE/DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "fe07fd5e3a6a2b911a4f73f5cc2bc65ab8f57f07d8fb71a547beb4bd946c315a19319c630495bc6dc1d3c3f740952a20eebbbc99cf6597fa6fabb9873ebd9b60"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Lo7paKSE/DistantHorizons-2.4.1-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "fe07fd5e3a6a2b911a4f73f5cc2bc65ab8f57f07d8fb71a547beb4bd946c315a19319c630495bc6dc1d3c3f740952a20eebbbc99cf6597fa6fabb9873ebd9b60"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/m9SnpHGZ/DistantHorizons-2.4.0-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "cb6f11324add6b16f9c5435095446fbe54f4c7f0af6f5689221b079d908d5c2493d8b2f643e8bb9356f55a4b5ff4d9936f29c274262b260ead94028343fd024a"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/FhKcOXpF/DistantHorizons-2.3.6-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "48f8993d5e13e1aa3349e19f61101fb0daedb1c5c8756abdae9cbeb4e424d69f7d7410468c314c266d6d3bf93f0ddddea106ea5b9cb424c12a138d9c327ba8bd"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/7sTPYWkm/DistantHorizons-2.3.5-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "276190f7795ae6e006ddc28c5a15fe77bfd3bfb3fd65766b46990d99a715cdfb4c31bd51db942397d3f519ee926471b39693738cba2bd218d1d4b89a52f4b56e"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/sVV25Cj9/DistantHorizons-2.3.4-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "cdacec2b86f44d997adb1e9f371f7b88e3e5b082e4db599b15567b071d4bd966fa47afdc1b403dfa7894c1d8e30e5959ad542aa5536e5d4af3a25b61542f829a"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.6-fabric-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/dmjFVlnj/DistantHorizons-2.3.3-b-1.20.6-fabric-neoforge.jar",
+        "sha512": "98a1636a2d245c0299c185012eca668ed93c3f30eeedca760d2eeee1a5626b77c00d301b997df6efa4977447915894a19b5383cce634b90552477e20a8e11581"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-neoforge-fabric-2.3.2-b-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1nexV1Jx/DistantHorizons-neoforge-fabric-2.3.2-b-1.20.6.jar",
+        "sha512": "dc996b073c91c2551a1c93aa1a933d8525a35a740067684cd18949a8e5a76395608855b049bb8272c02959cd31be94ba37c5463ed444676112628a8b0fbc19b3"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-neoforge-2.3.0-b-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/h9r9wQUM/DistantHorizons-fabric-neoforge-2.3.0-b-1.20.6.jar",
+        "sha512": "f3570d0ed508a5ccf63a983c01124bd9cd62a3b03aeb4d3263aa0eb27be16df92a8621dd513dabe12d23888f6f313801e3009a91443b5e48907c06e0797bc5cc"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.6-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/DxfJkenv/DistantHorizons-2.2.1-a-1.20.6-neo-fabric.jar",
+        "sha512": "7a1c1c0db3822c5af23dc4667eefa35cf0c21f0c51e13597c804ca4eba05e0468100fb0ee03013a592f5df83adab108b552d4b22c68c1b7d66ca8c1b3ca03f66"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.6-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3l7Cv7w1/DistantHorizons-2.2.0-a-1.20.6-neo-fabric.jar",
+        "sha512": "26da4077e3d5bbc00222a12bd65ad22103fccd9a8d24541dfa6b16b29badeac2c3df48b2cc96543a64a27e7b358b00908749a4b59214e8aaa1f0e9132c2efa27"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.6-neo-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9dof9TBP/DistantHorizons-2.1.2-a-1.20.6-neo-fabric.jar",
+        "sha512": "34a7d43b3c457556931665dc926e3a5a3cfdb41c3624cba14b58b33afc448f10c01fd8221cfb54ddd07fc512287ca0cca43eee9e42921f21ea1169ad2f55da0a"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.6-noForge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/13xaVT4W/DistantHorizons-2.1.0-a-1.20.6-noForge.jar",
+        "sha512": "6d10ffcba2cd605b0e893b9a6f89f2e0c207b6a458dcd193d0ce619fc5bfdcae941df79af2c8234837110800785dce0084057c0aa0aa2f89b8f2eb4d60f2df98"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/d9crl8I1/DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "sha512": "40a05a1b6c41db7d3706e78d9931b7ad5c5ad773d6c94c1e642c1e7a40a70d691d71ed4a508635326dcea3eb5b29daccf9936d2849744f12fdcfc93168acaf41"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/d9crl8I1/DistantHorizons-2.4.1-b-1.20.4-fabric-forge.jar",
+        "sha512": "40a05a1b6c41db7d3706e78d9931b7ad5c5ad773d6c94c1e642c1e7a40a70d691d71ed4a508635326dcea3eb5b29daccf9936d2849744f12fdcfc93168acaf41"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/PVJ1xVq5/DistantHorizons-2.4.0-b-1.20.4-fabric-forge.jar",
+        "sha512": "69a6f9584fa60d3e9881a7fba6bd3f14af572d3a37d2a1907e76ab4dba5340feef41202711cba816485c308309f5d100cb1c71381ebc2962f8f82acce8a1de75"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/GlMWwgyU/DistantHorizons-2.3.6-b-1.20.4-fabric-forge.jar",
+        "sha512": "1c51eda930437c7eb64ec6ee459769974074f0a5e52f24949249eacb8b08a6b963155a6bb8cd23f2608bb3b04c6ea3628d060b32b7a2bb839af2a63bbe6e046f"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/4qzROjts/DistantHorizons-2.3.5-b-1.20.4-fabric-forge.jar",
+        "sha512": "ae08cd0ab6d53062b5766d043b1f00a57fcef5102a169ec63411fe45d4a2076ce2c88340a1dcab874c5b48b5b5c07437d905b99949aa5db06d1b20b9e757ee96"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/CpKi1usB/DistantHorizons-2.3.4-b-1.20.4-fabric-forge.jar",
+        "sha512": "f8d53f084122742e62e5cfb8bd1cc88fc8f3ae7e5b228fb776ea212ffb68b976b9158908c798987035faff58ad1d3d7c5a65df9e5a53e05b5f758d8710264b8f"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AbURwIKO/DistantHorizons-2.3.3-b-1.20.4-fabric-forge.jar",
+        "sha512": "d88bd4302ba5234923ac4b8718473ca24ba6233a5106b637b364ddd406baf69ca098ae4784740495ba01f2e04542e6eae3b59c539ebd45ae754bac957ce88c40"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vwdaEiYA/DistantHorizons-fabric-forge-2.3.2-b-1.20.4.jar",
+        "sha512": "0ff22e43bc7e6ddaccb06aef4c494e69742d1cbb9d07d1c0581824e19c8fed3ac8587dcb7ed7ebc6f783282d691a9f0bb42268a345dbfbc344ab0e60485d50f2"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/GC9tFkn8/DistantHorizons-fabric-forge-2.3.0-b-1.20.4.jar",
+        "sha512": "78e524bc2c48aad20ed312390f87998a2f3c28c3761f23c81a35c20a27f1be06337f5f033b1baef530cf55497772fd5c8e806d41673d565855ca6b1915982652"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jptcCdp2/DistantHorizons-2.2.1-a-1.20.4-forge-fabric.jar",
+        "sha512": "47368d91099d0b5f364339a69f4e425f8fb1e3a7c3250a8b649da76135e68a22f1a76b191c87e15a5cdc0a1d36bc57f2fa825490d96711d09d96807be97d575d"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/SWIs5hwb/DistantHorizons-2.2.0-a-1.20.4-forge-fabric.jar",
+        "sha512": "248412308078edbbbcdebe468d9edaa3e8634d974be004daaf1d8041ea57014e7234371d462658d0daff2f5469f32ee19dd18f740efb33f7c99f5ee1d037d04a"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/YN8jhotL/DistantHorizons-2.1.2-a-1.20.4-forge-fabric.jar",
+        "sha512": "160d5886747c3c5451389fa82e95ed9d933b21e4b9c9406b4e84e4c7c17457fcab1877a665b8d0370a20a7b1d4d24094ec4f3a7ea7686cd0665bf7e95964f0d1"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HbiwjG8y/DistantHorizons-2.1.0-a-1.20.4.jar",
+        "sha512": "518da7f7754a3466065ed18cfbac89a54595810eecb043deb22c3a5ed6397bf05012c5bda639cb4026f61429572b267a55a5b3bf29c65499ff20016d728476a9"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qUYtfwAX/DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "sha512": "86ffb7898701691bd27021082afbd15719d615dbd175d4f384b26beffc76b253b8f41806e6bfbb871ca24c254ac011466fb411c29318b912cdd24261bbb2cd02"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qUYtfwAX/DistantHorizons-2.4.1-b-1.20.2-fabric-forge.jar",
+        "sha512": "86ffb7898701691bd27021082afbd15719d615dbd175d4f384b26beffc76b253b8f41806e6bfbb871ca24c254ac011466fb411c29318b912cdd24261bbb2cd02"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/obnbihOn/DistantHorizons-2.4.0-b-1.20.2-fabric-forge.jar",
+        "sha512": "3d6278f0c66165451f59b772070df6d7d8e287776f3fd250be4e088de359e20dc6bd3f7721dc2a87f3579e4820a8e01d558d1703422bc78a0061d08263ca878b"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qnh7YcPb/DistantHorizons-2.3.6-b-1.20.2-fabric-forge.jar",
+        "sha512": "9e233e53f990aed7f3a1c5da5f77b894ff2e8ba1a40d338319b471a3b5b67cd2176f69e320469db94f83e454d707c2238360fd9f82702405c7e9bc647a04514c"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f7OoFL2o/DistantHorizons-2.3.5-b-1.20.2-fabric-forge.jar",
+        "sha512": "f7d3daf1dc28671f75aa7420d98da292e8f459986422c04ba5b6cd58aa25d98b47f343161802c47624d7822f56fa7d523500698693042405afd7e0db738754e7"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ak1pG9sE/DistantHorizons-2.3.4-b-1.20.2-fabric-forge.jar",
+        "sha512": "8ddfaa185e975fc1ed0e85522939727ec060c5e5d2ae20568abddec3829e3147fa84961fcfcfa8b9ff031e308011758413753e4ed84b611920c197403b21563b"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/LLTomBru/DistantHorizons-2.3.3-b-1.20.2-fabric-forge.jar",
+        "sha512": "6f08cf9ef5313eaa30863593f091238b4c0fa4bb2c41cfa3dfd4ce33f20f9ea1eae70332738236dd49c7b96d8a2954539f82692cb54febd6909c29139c745ff6"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pp2oAE8h/DistantHorizons-fabric-forge-2.3.2-b-1.20.2.jar",
+        "sha512": "1109f4627562fa31a33ea125a03007b4b6f7fe61642effd915efa19155265c2949845f2d9f5753984f79c74b04dfe33e144c42961fe4fafe97601e49283c9a1f"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/5XsVLQbE/DistantHorizons-fabric-forge-2.3.0-b-1.20.2.jar",
+        "sha512": "3fac19900675f5dd1fd7c031a49c949b5b821cbc942ed9dc000d510cdc2c970768b9135153956978eb4960593681ab2121c7d2a79f100a2a4bc723790cbc1f8c"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/k3j3gYfs/DistantHorizons-2.2.1-a-1.20.2-forge-fabric.jar",
+        "sha512": "ffcb8c0cb0a9f8d34b8bb8b5b40bf6dc3db2a1fd21205555bdc3cb47b033593b2936118258aaa009fd1c77a3a21692c489da0c90dd08f47eed7e98bc879272ee"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rIVCtBS4/DistantHorizons-2.2.0-a-1.20.2-forge-fabric.jar",
+        "sha512": "0daddf6e62cedaa055de62dfbfc72a56ecb3666860eb7cf12fe18ab8afa1aba20936f4cb7ef8fdc8c8df0632bf9523ef5ffe917036534497ac8c0cb621e3d046"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/VPs4DNbT/DistantHorizons-2.1.2-a-1.20.2-forge-fabric.jar",
+        "sha512": "ddad5ce789468d9b3643709bbe4d41161870182cc7722e6732c21ea4f1d8661e617672fe609ebd2a028c8479deb95c7c20ec6aef058e580661857ba7dfac9508"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3B15sgvb/DistantHorizons-2.1.0-a-1.20.2.jar",
+        "sha512": "6c37950fb5178614ec33385a186b072648cb91803df680b8b99bc03d5663694627fde528bb89c94cb23f492e2206156cc6264a0e0778d2c32c88883618f987f1"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/3yoHVgxZ/DistantHorizons-2.0.1-a-1.20.2.jar",
+        "sha512": "7d7db38b46770387aae3edd2316b1adcf413449f34c4b1b820ecb6f381d166ec08f9941861a57bf39dd7d2cb6c136883c2730207938363c2dcb7b4ae25d05b2b"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/mjIVHovM/DistantHorizons-2.0.0-a-1.20.2.jar",
+        "sha512": "3c551cd7357a1ae1d9fdcd807d2d3af36133c701e1caa2d77a1670ae03cd53a90cbb705292fff463c15df1e6d950c081e12562f5a1d49bfd27c8a4e57b76911f"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gfMVyAgO/DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "sha512": "d7b26be06eef6640e37ff96c57f3694c57942b30ca4a8e301f1d3c17c68dbfcb69effb97845fd25e6ee4c8612677a264d3f16a9f9a5578b4dc7fc112f47d714c"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gfMVyAgO/DistantHorizons-2.4.1-b-1.20.1-fabric-forge.jar",
+        "sha512": "d7b26be06eef6640e37ff96c57f3694c57942b30ca4a8e301f1d3c17c68dbfcb69effb97845fd25e6ee4c8612677a264d3f16a9f9a5578b4dc7fc112f47d714c"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/FcSiScgQ/DistantHorizons-2.4.0-b-1.20.1-fabric-forge.jar",
+        "sha512": "e273d562e845ef6f50c0a044a52aa5be0fa036703036369fc57d7d7bfee0e9d9a7f83c861488df0cd1e909a4c112e038c83bd00e134f5fd3beb9a8848ae6ad67"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HSc151Xv/DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+        "sha512": "33ef25a118872298d546a954bfb625e0b9573286392a4df15a929cfc382bd7224c056bb97b680b6cbb109814150cf56173cfe086295d741ef15b08259bed1e33"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fKDD0aOG/DistantHorizons-2.3.5-b-1.20.1-fabric-forge.jar",
+        "sha512": "d5cac6c965c5d4883d80fa2ff912dd0b2f73c955d04706fb5992647778851fe5e1c2743919beb29186b8154d5fff30ab4b82d882fa59ec384fcc6a104ad12c14"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/MhxUKxWI/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
+        "sha512": "85bb5245abb723cee7c10ae471e811266a66e5f78bd4a09a35bf45e64d463d244989c6e4d301c2b97b896e7513d75fc8000460148554a245f6e630bdf9a68c45"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.20.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/AY1b2ZU9/DistantHorizons-2.3.3-b-1.20.1-fabric-forge.jar",
+        "sha512": "a063a151c738183220b105575a269e6928214c021c6ae0d0a1e2b05cd9ec0770464de187a6d27fd0eb547caaf10c2a1ee264a4b18a07315decea9d6e815eedf3"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vSDePnsB/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+        "sha512": "14f5548cffa24fabdcfce6626fc813db42e28350a126833a54e1c54e13e6b393e232b5a0d55fe6bc6f7e273061adaade67f8a8bbee9503cdaf869c28db0995b7"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "sha512": "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb6001349683251160189ee4a1701c21cfdc39d543a816abd232422f4ca8b7e20d"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar",
+        "sha512": "a5059a249283f686bc49bc4c2606fce7b665102983f396996f47c11245fee21059554db5f9bdf63fa41ec954282a9ee3646ea42997f37bedb0af8b14944704f4"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HH9YLh1q/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar",
+        "sha512": "b7d71356cf249296ba3ffa49cdb503f374c643a7e6cd3580007ef042d1937cc85fe4c4644e2b3d9a739f3c86b1f81352aaa924626c132b90f0eb38e77fc335a3"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwcStAhe/DistantHorizons-2.1.2-a-1.20.1-forge-fabric.jar",
+        "sha512": "f68f8c2bcbab3db5ce78e5d2fdaca60d1352c9d3b7a4af5bd69009795dd10551d527f566323fd28e3e5ba6691545680cf5501524ec58ae948ab7a1034019f88d"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/xbRHd92j/DistantHorizons-2.1.0-a-1.20.1.jar",
+        "sha512": "aa88befed67304efc24a536104f88feb9bae5cd278f400ca2588804d1d1c3e307059b4de85e5c7430e2ccda0116d79bae8770696d67cee4a59b0ed17a643796b"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar",
+        "sha512": "26c20c1b83cef03dbe4839f7ef32aad858264e450c2ea84ff238057acf6929281685a72f89ffc58de1e9b3f8af5581f7dabe998c09cf53b33cfc19f86d45cf1f"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f5ukM1Qm/DistantHorizons-2.0.0-a-1.20.1.jar",
+        "sha512": "c5a2c503e3f3f2f9fd47edcd78195ea5ed0812e4a712080ef6d3a9a12a6e9de59df9423a5a4c8ee830ee0155f9c3d7e200932af971f8d1d431934723fb10f928"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "sha512": "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb6001349683251160189ee4a1701c21cfdc39d543a816abd232422f4ca8b7e20d"
+      },
+      "2_3_0-b_1": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar",
+        "sha512": "15f1cf301c82083603d31758ef92e198703f7e5a178520ca0fed299ee1b041eb6001349683251160189ee4a1701c21cfdc39d543a816abd232422f4ca8b7e20d"
+      },
+      "2_0_1-a_1": {
+        "name": "DistantHorizons-2.0.1-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar",
+        "sha512": "26c20c1b83cef03dbe4839f7ef32aad858264e450c2ea84ff238057acf6929281685a72f89ffc58de1e9b3f8af5581f7dabe998c09cf53b33cfc19f86d45cf1f"
+      },
+      "2_0_0-a_1": {
+        "name": "DistantHorizons-2.0.0-a-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/f5ukM1Qm/DistantHorizons-2.0.0-a-1.20.1.jar",
+        "sha512": "c5a2c503e3f3f2f9fd47edcd78195ea5ed0812e4a712080ef6d3a9a12a6e9de59df9423a5a4c8ee830ee0155f9c3d7e200932af971f8d1d431934723fb10f928"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Gi4W1PHY/DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "sha512": "ed8523bef714f4b56d0b422e47f87903270e4e8cefad38aa86fc6e12e2d7c8a18215543f2a223d0f1d952ca59a7bf4c634f13da0ebcd751404d124ca220bcb14"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Gi4W1PHY/DistantHorizons-2.4.1-b-1.19.4-fabric-forge.jar",
+        "sha512": "ed8523bef714f4b56d0b422e47f87903270e4e8cefad38aa86fc6e12e2d7c8a18215543f2a223d0f1d952ca59a7bf4c634f13da0ebcd751404d124ca220bcb14"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/HipEFTRz/DistantHorizons-2.4.0-b-1.19.4-fabric-forge.jar",
+        "sha512": "d8ef7fd52581c47cdd8eac16edbc051e0f07b130541b91d1e6539a11a3e8504ec36642c45a56e3ea89b72c62aabe8b0edc06653e8a19ab9314b10cf943a3b99a"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/hcl2fNZ0/DistantHorizons-2.3.6-b-1.19.4-fabric-forge.jar",
+        "sha512": "9af15af4ed601c1e60dd28c0d12cb892d3cd2e32cd528f458e3119b4adfc0117fe3371b2dc7a92aa6cbfa472d18b234e9d50305f0f7abafebee45ba5b3554f45"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Eej5I79d/DistantHorizons-2.3.5-b-1.19.4-fabric-forge.jar",
+        "sha512": "5cd9f821b68efaa7db566af6ada6adaee8c701917e7537c8ccbcd64c8820eb0420ec4ec5c23080f6f90f42651a2195aeafeab032ae2230383a1abed0ce670561"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/lMQSF0ti/DistantHorizons-2.3.4-b-1.19.4-fabric-forge.jar",
+        "sha512": "9fc298244915a6b8eb6b772e52f8f9e57aa9c0fa18aa11f7d42326861f55516e4c87db7731a97f781c40ec605171bf14689179e73f12bcfb8d7d7e5d04e4cd9d"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.19.4-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aW06hfIy/DistantHorizons-2.3.3-b-1.19.4-fabric-forge.jar",
+        "sha512": "7003cedbd93b770a3c90a0fbf99527b1b12a5f2ce4da1c10f7eb00f7b62c49040df78c20baa7079a7ee265c7acdad0fad29a9e250feb1fbc267cb57ea23835ae"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/EmlxfbwP/DistantHorizons-fabric-forge-2.3.2-b-1.19.4.jar",
+        "sha512": "5be3fb476af8ccfbea717c22f9766b96f23819061085b72b6ef04a09844e5e19db37a7b26e3913ca4c7e1d2d1e411fb696e8e5b488f26e83e0bcc9086c03f056"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/OdIBe26G/DistantHorizons-fabric-forge-2.3.0-b-1.19.4.jar",
+        "sha512": "2c95d78d7ab888842887948cec5ce50cc08f56a003e366615dcc6bdd67785a32047f255dfeb63d282352582a716833ecc131a02f2ba0625f3b1667d4c58c36ce"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.19.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/62qsfv5b/DistantHorizons-2.2.1-a-1.19.4-forge-fabric.jar",
+        "sha512": "bd1c3195a06cb9fb2f8d25c35a96c6e5a8f8d7aa18800982e8140f1bc8d59d7d1669a6604b44e8333055d7275dc26e9f34477902b301bad598066ba2efeaa5b2"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.19.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/OwelBX7Y/DistantHorizons-2.2.0-a-1.19.4-forge-fabric.jar",
+        "sha512": "c95d4300cfa653316d8db47aad25d13d853c3428f651a075fd33408d979d9f44d834014cf557894a3231654c39f52029d76d9c017066c86e28482f9059254730"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.19.4-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/T98hbY34/DistantHorizons-2.1.2-a-1.19.4-forge-fabric.jar",
+        "sha512": "430e2ee654b0f92fc32a0e8d4db8b596b8d8166d1c37adcb0866a8471a762417d025ebf4cba158e223720651bdd1b53b1151d148999b0f6634d4937b8b0c6011"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/hsb0wIeu/DistantHorizons-2.1.0-a-1.19.4.jar",
+        "sha512": "ba244d73fe49ca3d6ab5839022d337e113509681ec9ae816193b3fb4852e1506d34aef3febee12feba6888bfd25d9b43e9975a5b43a7f4c1f8b9fdaf3816b4d2"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/r8OABIpt/DistantHorizons-2.0.1-a-1.19.4.jar",
+        "sha512": "3aca7d6efe4c80d7a9b74990c737f8e82c4d603a0f995c25fc78f4ec8a9c895f11219192edbabf2f4af0284508a9b1428f2b1a0cfd43068b4bb937200234a22c"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/yqCZe843/DistantHorizons-2.0.0-a-1.19.4.jar",
+        "sha512": "edc72b0117e1430aa5a7f75562df50f1ca39330167f3ac16234ddf3bd44cf454ad857f7ad7f96b123a07bbd725d5bcca632b4ba3351a2a1ada3ef4ff1eb13617"
+      },
+      "1_6_11a": {
+        "name": "DistantHorizons-1.6.11a-1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/xBHpiuwg/DistantHorizons-1.6.11a-1.19.4.jar",
+        "sha512": "f5921bb691be840595e62925edbcfb101c02631e9433098e960d6bb80f81b4bb8199434e6668e8a652de85714518efe10f0e17c09fd4c868d40ffc0c02358bdf"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "DistantHorizons-1.6.10a-1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P4psgCf3/DistantHorizons-1.6.10a-1.19.3.jar",
+        "sha512": "bd163811138b39652671e7323f20b3d09e544e09dc01e6f128d31271db72e5ed2838eaf797e5096c2aea03a5c014f49604ccac251fc92ee471a30c203ed683b7"
+      },
+      "1_6_10a": {
+        "name": "DistantHorizons-1.6.10a-1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P4psgCf3/DistantHorizons-1.6.10a-1.19.3.jar",
+        "sha512": "bd163811138b39652671e7323f20b3d09e544e09dc01e6f128d31271db72e5ed2838eaf797e5096c2aea03a5c014f49604ccac251fc92ee471a30c203ed683b7"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nMvw6FLp/DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "sha512": "699ec768c852430f591dec8af37a75bd138a99f04711f3405c99b3ddca9da0bacd8eeb0d2d53f1187d7b2f538ae716d8b3052bd3125b7fde6ac714f2f57b2b89"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nMvw6FLp/DistantHorizons-2.4.1-b-1.19.2-fabric-forge.jar",
+        "sha512": "699ec768c852430f591dec8af37a75bd138a99f04711f3405c99b3ddca9da0bacd8eeb0d2d53f1187d7b2f538ae716d8b3052bd3125b7fde6ac714f2f57b2b89"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qQgPP501/DistantHorizons-2.4.0-b-1.19.2-fabric-forge.jar",
+        "sha512": "fc89d7f0b28a95628a16cee4a6a74d79cff9a473dce2d253029323f34a23c050c1d714b23cdcf60cee9ea567fa1fe6afb410c74429da49e1035076fa655c0d3e"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/kWG8jweJ/DistantHorizons-2.3.6-b-1.19.2-fabric-forge.jar",
+        "sha512": "acb83b7798923ae7a647d7dc49195e41b3a04dd6d0775eb494d03b66137abc6108d14096fb9a3d6de2e2ef4163bb72b432501d743a8d5febd93b409fe135a3f6"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/676hlrwj/DistantHorizons-2.3.5-b-1.19.2-fabric-forge.jar",
+        "sha512": "6d9b819213b192203ce56544be48c0317c72ca424142828037deb385f47c9e73ea36915a628a35f166d564a00c0b0edd342c6c270e7501d4d9781ef4ab44dacc"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/r2BiBqdI/DistantHorizons-2.3.4-b-1.19.2-fabric-forge.jar",
+        "sha512": "d78e1e643c7cbc1e99db957920eaf17a1b6171be1d011aec33de24970e64475ae0e7da23f83b918017f158626ab81bec6d3a04f813d34cd87418dbdf5ea2034e"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.19.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fUpFLIYi/DistantHorizons-2.3.3-b-1.19.2-fabric-forge.jar",
+        "sha512": "b7fe3cee0cf633772cd0e31e0bde529a012fd152bdba0af471683d8e985a7add8cbac7dac0659aa062da9681281fd9c29bdc2eeeab79c3b9d5854f1b91162b49"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/V3l08ywE/DistantHorizons-fabric-forge-2.3.2-b-1.19.2.jar",
+        "sha512": "812eabbb76a967608c6a34adb9dc6fe12f94f512c57ef6c95db40122e0ffa74c8dc5bc5f6db43dbbfa818db7633bac51028a2cb8887bdafafd9d8f8fdb3ecde6"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gsahwZPK/DistantHorizons-fabric-forge-2.3.0-b-1.19.2.jar",
+        "sha512": "d5b80a8ffd1c1663f72e0c9dabc5f45f72e1ad6eef64f77ef9b2996649599695f4c4af8dd947758128200d6430c47fb61d89fe5174c3a7a748f66c07381f63bf"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.19.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/jsIYH2nN/DistantHorizons-2.2.1-a-1.19.2-forge-fabric.jar",
+        "sha512": "1b81e1ac90e98e8296129a4affa271e115aaaeba446559b22149aff53823158f9f65236bbe14a4ce86b13e20694ecfec02aaeb8859965f2a6150e4cbb8a334b7"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.19.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/N5Qu6xDq/DistantHorizons-2.2.0-a-1.19.2-forge-fabric.jar",
+        "sha512": "a83845b99b2f04714b852c719bfc1a35cc04e5ff20b1a62b0980b6082dc86490fe93b0ff638b1fc46c1ca1f1b26ab2a278ada0f0deffeea69430107fcf4506f6"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.19.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/8z7hnzLN/DistantHorizons-2.1.2-a-1.19.2-forge-fabric.jar",
+        "sha512": "005acc0cb9958d5d363534c40702b1c4935534cfd254b8d68d81339e3343a72ddeb345eeacb86b891c69101c8fc6085a5be4cc07c856b64201bdd41229694704"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/XLWDF2NT/DistantHorizons-2.1.0-a-1.19.2.jar",
+        "sha512": "25002998b7a0b29f03dc53b39993c3eebfaa7196e201d30a6ab45381d93bf12452960941e60883fad5ed3eb7f760938e5d33cce274ecbbd929f415544a2d16f6"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/aOWEQ1nc/DistantHorizons-2.0.1-a-1.19.2.jar",
+        "sha512": "9d004062f07da250594cc6a7d01ea4470f100e314924c8de63443bcedcd688331c22c035ea982cf4d56053ec6011239e315b627ceb687259f5ee584d916cb50f"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/oYqpZUCe/DistantHorizons-2.0.0-a-1.19.2.jar",
+        "sha512": "ed093caebc457e04c610dbb1401e1dc82474fba40e1b66287da35b528c82b98906ffdb440b6c330c781cdbe133fcadaa7ed2944f114f10c348c42d0f775c98ec"
+      },
+      "1_6_9a": {
+        "name": "DistantHorizons-1.6.9a-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar",
+        "sha512": "87daee673995dd70759b3f51056ea2ee3f8c316b09fea9d4ffd898eb8aab6c9042d34bd468a0a9369649ed05fa3b004211d6d7685578291f17743090500081cd"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "DistantHorizons-1.6.8a-1.19.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.8a-1.19.1/DistantHorizons-1.6.8a-1.19.1.jar",
+        "sha512": "4cb9ad70136a61ccfff0044580355fb60e05aa6d9817b42e710038d9bbddb057298d45861fc61ef933f1e7e1e50eaded1196b24de16ed4e70c751559c247ee0e"
+      },
+      "1_6_8a": {
+        "name": "DistantHorizons-1.6.8a-1.19.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.8a-1.19.1/DistantHorizons-1.6.8a-1.19.1.jar",
+        "sha512": "4cb9ad70136a61ccfff0044580355fb60e05aa6d9817b42e710038d9bbddb057298d45861fc61ef933f1e7e1e50eaded1196b24de16ed4e70c751559c247ee0e"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "DistantHorizons-1.6.7a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.7a-1.19/DistantHorizons-1.6.7a-1.19.jar",
+        "sha512": "4d5159230cb3c9639331995357ba840430b55c764768aecdfd8d14896462af1de44c11fe6b363b104cd65ce0d3b6df315e9264a7281c9dce10eb8a829f0a1205"
+      },
+      "1_6_7a": {
+        "name": "DistantHorizons-1.6.7a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.7a-1.19/DistantHorizons-1.6.7a-1.19.jar",
+        "sha512": "4d5159230cb3c9639331995357ba840430b55c764768aecdfd8d14896462af1de44c11fe6b363b104cd65ce0d3b6df315e9264a7281c9dce10eb8a829f0a1205"
+      },
+      "1_6_6a": {
+        "name": "DistantHorizons-1.6.6a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.6a-1.19/DistantHorizons-1.6.6a-1.19.jar",
+        "sha512": "f78c35bfd63a15045e41d4c4bf616dd9fade3ca12e7953baaad490e5dd3134e34df9dc9adf46a1e748ea57097130142216d3679a5ef4bc89529581cf51682713"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.19.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.19/DistantHorizons-1.6.5a-1.19.jar",
+        "sha512": "93a9a432b460b4b892ad95a5082c6efd75d2bd61c07e96e604bfd82d6d4861036e23065765ef65a5a5f06a4cab2baba7b01b2ba6b2c7944a9841c4a97a3c0ba8"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/4zFR2HKI/DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "sha512": "50960840ed22623eaac6667c4fdcd2c96629cedd8017d8c3d42a17d43ded6c7e6cb085cdf60220fbc961323fd3493aad82ed5cd52024f3f97aa1806c714cbfc8"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/4zFR2HKI/DistantHorizons-2.4.1-b-1.18.2-fabric-forge.jar",
+        "sha512": "50960840ed22623eaac6667c4fdcd2c96629cedd8017d8c3d42a17d43ded6c7e6cb085cdf60220fbc961323fd3493aad82ed5cd52024f3f97aa1806c714cbfc8"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ceddlQG9/DistantHorizons-2.4.0-b-1.18.2-fabric-forge.jar",
+        "sha512": "54b179b9675740a24efbd238515af9c076f8323d4b9aa679eb92f9110f144b7129166a472bcb68ac386b3df370977625c778d590017770c0d961e24eadd4f7b7"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/fZTRhf5G/DistantHorizons-2.3.6-b-1.18.2-fabric-forge.jar",
+        "sha512": "e644d038202e2fc0db7b231fc2fb7643ab62b58463e769a1345d77813a385f7cbf3893df06d7e95832c896babd8ed0f4da8eba721521ca0433572e8b302f7c48"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/xTntlMRr/DistantHorizons-2.3.5-b-1.18.2-fabric-forge.jar",
+        "sha512": "5fff6d659718e9835d07d29b9868e992254bebd0eb5059274e30d76e9d8591d573a40d3125b20ea653489d8417f676eb2120a3d71d89c86e66fb97c1b5f1326e"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/GIw7onUS/DistantHorizons-2.3.4-b-1.18.2-fabric-forge.jar",
+        "sha512": "5096c5c0d5aaac9d5e59ce1d05d154967c0cd66fd90c92bc1721237305d34c3672498ff94a0f0a268404230211d748ad26c48823495199efe006144f41442c2b"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.18.2-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/UIAiPEAR/DistantHorizons-2.3.3-b-1.18.2-fabric-forge.jar",
+        "sha512": "278ea274bcaede946056f7453674077033b617ebe3b488dec7d67454e7cc06df774d0fb63283fadc329957ee07d13c330088dc217f3104fbf10331b54317f2b1"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9XascLsJ/DistantHorizons-fabric-forge-2.3.2-b-1.18.2.jar",
+        "sha512": "54bc26bad910659f550bc98438e05fe8fed3e19a4fc836137ec1400cef1a88c11cef3950aef1f3576c332346da3fee80a17ca38809cb286cebc50ce445b42ce6"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/trPCtnMC/DistantHorizons-fabric-forge-2.3.0-b-1.18.2.jar",
+        "sha512": "2a2333d698bd82994f1ce95352ce35e29f5cc0006427a9695c62db8be441fc69ac17f713d0500c41b548fc2f477a561e13c3e2db708735df2e1281839ddef4a7"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.18.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/XrsGtQEe/DistantHorizons-2.2.1-a-1.18.2-forge-fabric.jar",
+        "sha512": "0a10be8ee56888a0e6e90a3efdf51165d584777c71c2c67d61579a2d58ef73f86d16d7836fcd38d4b0d10415c97cff7e20272759af6e32a87f9df16d2bee1ebd"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.18.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/UjP6Ft1p/DistantHorizons-2.2.0-a-1.18.2-forge-fabric.jar",
+        "sha512": "d958e9a2e25e93922b818ca2fef2d67b62280849124999d918d5c787f473a31c3e2e9f431d5d53a27ab06989ecc021ca77908c83967d717dea1f0694b7162668"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.18.2-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TSpsYWzW/DistantHorizons-2.1.2-a-1.18.2-forge-fabric.jar",
+        "sha512": "6a715fba9ca211039e53314420a2b7af1d88673a5be74b2e277dbfbd1c508687eb6a5ba8335a236d80c5cb4590722aff1513c05d46f6b888b36687f24127c564"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/P8tkVBXd/DistantHorizons-2.1.0-a-1.18.2.jar",
+        "sha512": "dc1c167a56080f090a5dfdd641fd3a5b47ebca97a17c391e7862f9f1f04110dc895ba1e8aa835d8430fef1da822a7ce2851c8ac9b7aad42818d8fcc0906f9f26"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/s3sNOqn2/DistantHorizons-2.0.1-a-1.18.2.jar",
+        "sha512": "38465226a69736b73f913193f73eb1bc314af5e5fda19c1ac33023cc31fbfb1368dbe08f7c98d057abfea919ad8ebf77ef762496e71c3d8f15ca0ca87c5490b0"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/mxvQyywi/DistantHorizons-2.0.0-a-1.18.2.jar",
+        "sha512": "b709af20620dc4798284a0b275693f07e08cb2c8afa91f56a059f200a46f5933dae6b8ecb41ac6550060f95d9377579088e69b82704789af2c6b3a6b92a30071"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.2/DistantHorizons-1.6.5a-1.18.2.jar",
+        "sha512": "9efce2721a437ffb128eeea7ab81cc6f3afb29c498dea1072d3a3f1dece0b1ccce4c0c30f349483eda0f8da6d5031d569840d0ec99399a80cb1975e874b2d51f"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.2/DistantHorizons-1.6.3a-1.18.2.jar",
+        "sha512": "d64ac7304326f984d3336c851002ac5fe928466c691045b078a2c3b219b1578444926735ddfd1586a3670295b1435caab3ed7d2677202f71dad716a5c665fe73"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.1/DistantHorizons-1.6.3a-1.18.1.jar",
+        "sha512": "c78a26df0ac640931635ad71cff87a8a7f87f96b17612a1bfcf2c43363d61220e407d82523e39967b47d7891998ea2588944710a22fb08486c741173733131a8"
+      },
+      "1_6_2a": {
+        "name": "DistantHorizons-1.6.2a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.18.1/DistantHorizons-1.6.2a-1.18.1.jar",
+        "sha512": "ffbe20452906a51484188e55f38f9d6c2b401c71889426825376ab82d1f5daac09ce7f25cccb4ba90cc70a133f117aca20af6a09a2ca1ae948aa8d3b8bc65288"
+      },
+      "1_6_1a": {
+        "name": "DistantHorizons-1.6.1a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.1a-1.18.1/DistantHorizons-1.6.1a-1.18.1.jar",
+        "sha512": "89776297cdbb7debb9be81dec65fbc2607f85d3036b67b664456bd28fb68430066a1a4c05ace1b5900e98e371a009422f437cbaaebb4959ce94b82d7b509d975"
+      },
+      "1_6_0a": {
+        "name": "DistantHorizons-1.6.0a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a/DistantHorizons-1.6.0a-1.18.1.jar",
+        "sha512": "4a9e260090aba19a807e6beb84d2b0df26f57f6fa57a493f88fb4505f4f05acc844e0d12d0403ec36f617a49f5e6a376a604f258a6f730f9168c0c9a172ac28e"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_5a_1": {
+        "name": "DistantHorizons-1.6.5a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.1/DistantHorizons-1.6.5a-1.18.1.jar",
+        "sha512": "f84593b364bc4178b3316c3b361fb81a1f66a890500a9d57e515a8b06f474fe941d7d2389820e0113274d8c98c705446c5eaf0376744b04f75c9b564e09574f5"
+      },
+      "1_6_3a_1": {
+        "name": "DistantHorizons-1.6.3a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.18.1/DistantHorizons-1.6.3a-1.18.1.jar",
+        "sha512": "c78a26df0ac640931635ad71cff87a8a7f87f96b17612a1bfcf2c43363d61220e407d82523e39967b47d7891998ea2588944710a22fb08486c741173733131a8"
+      },
+      "1_6_2a_1": {
+        "name": "DistantHorizons-1.6.2a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.18.1/DistantHorizons-1.6.2a-1.18.1.jar",
+        "sha512": "ffbe20452906a51484188e55f38f9d6c2b401c71889426825376ab82d1f5daac09ce7f25cccb4ba90cc70a133f117aca20af6a09a2ca1ae948aa8d3b8bc65288"
+      },
+      "1_6_0a_1": {
+        "name": "DistantHorizons-1.6.0a-1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a/DistantHorizons-1.6.0a-1.18.1.jar",
+        "sha512": "4a9e260090aba19a807e6beb84d2b0df26f57f6fa57a493f88fb4505f4f05acc844e0d12d0403ec36f617a49f5e6a376a604f258a6f730f9168c0c9a172ac28e"
+      }
+    },
+    "1_17_1": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/BegKTgDy/DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "sha512": "ebc0b7b22d5e431a7fec6c1237bde85e68c3d043c1b6f5c7d755ba0af17c8f4251963b7ef5cab7d60279bc3e64267d259db26cda9ee18106177cc1c69f962947"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/BegKTgDy/DistantHorizons-2.4.1-b-1.17.1-fabric-forge.jar",
+        "sha512": "ebc0b7b22d5e431a7fec6c1237bde85e68c3d043c1b6f5c7d755ba0af17c8f4251963b7ef5cab7d60279bc3e64267d259db26cda9ee18106177cc1c69f962947"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Qlo3eVOM/DistantHorizons-2.4.0-b-1.17.1-fabric-forge.jar",
+        "sha512": "71839a289b05a33c504a4e06ec3a27e3caa0ccb4d6d235ce224651e08126212ad29bf9709d03ec041ab81f6f278f1c3326cbd07b29977a4d56c9c49b05aafc96"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QmMfA57h/DistantHorizons-2.3.6-b-1.17.1-fabric-forge.jar",
+        "sha512": "c0ac4e0aa260c70f1ebf3b0678e8ac09edbbf01688f215b6010239fddfdd267081e96d2d689e14a9ee52f27dafd6e29a12ece91a2c711a16e687bc88b1642932"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Kqh7cLmF/DistantHorizons-2.3.5-b-1.17.1-fabric-forge.jar",
+        "sha512": "891701dc848b3f8c1c41349a19c67778ed07f892ab8ed6ee3cdce95aef7bef7319866a68965b35df74e0b3134763ae747c52db53c5134677f948cb71dc7a07cb"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/spsGrMVF/DistantHorizons-2.3.4-b-1.17.1-fabric-forge.jar",
+        "sha512": "f9d35c2b760ab2edfa1d79941ab9a9ab7b40a07e7883dca432eb7097679c449f3907d092cd5d2eed06e5aa88322da83850d0a28d3f82897fc26800557d131ecf"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.17.1-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1hVQ2s33/DistantHorizons-2.3.3-b-1.17.1-fabric-forge.jar",
+        "sha512": "fe2b3ef8b89dd1e29a312c3ed117f2530760a618c2603fb0934b56f1fd8b826750ee2282794eb3379dbf17a82e79e0ed3609fc8c90eddd1609ae0613e24719cd"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QS9UZICe/DistantHorizons-fabric-forge-2.3.2-b-1.17.1.jar",
+        "sha512": "8b706a845aec064a54c9fa378ecaf1f71e6ad03963c85d73945c323ff30f3e8ae924eabb08689eeb10621b89130140bac184164012edea8872c913cb809e52a6"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pLTJPgin/DistantHorizons-fabric-forge-2.3.0-b-1.17.1.jar",
+        "sha512": "e9e220ca72077f5ccacb6a6d6d40d1aad3327a75a636d3711544d5c519ad175579a16c50bb352dee098e88a128e8c0d851d125235b0db195924144c91ab6fea9"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.17.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/sdQQzem3/DistantHorizons-2.2.1-a-1.17.1-forge-fabric.jar",
+        "sha512": "85998166984a0e128edc545113f3bc966c473c0427037321c6b49b2320d55046189f476e94286569c65c7a9678d20bfe2c408fc4307edcfab8d3d544b0f2a80b"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.17.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/osyU5xyr/DistantHorizons-2.2.0-a-1.17.1-forge-fabric.jar",
+        "sha512": "e20780412362de41619df1f05c4c9d4ef1984e8a53b8ee49d8f7c8da5d5fe67ee780e5836f969502cd8a8476d70b5aa747ea27fc93efbc99585760a8907a0965"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.17.1-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/pllFih8s/DistantHorizons-2.1.2-a-1.17.1-forge-fabric.jar",
+        "sha512": "19183bfc27e09a6b17cf9532bbc417778a45e6c8a9a62d9fa17579de8cad9cc138ddf60ad5b5dd6986f63c40e66779a5eea3ce9d0deb466fdebad17bf99537f5"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/VnKmHe1I/DistantHorizons-2.1.0-a-1.17.1.jar",
+        "sha512": "327306206c85d1f94b739dbe19e0ce92f6fb8cacd99cd9f8eb73d15eb36d94d9e6667cb6a74005b80d21f9584742838995bf5f50858586d406b5779c6d6c9df0"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/nLshnREE/DistantHorizons-2.0.1-a-1.17.1.jar",
+        "sha512": "9432d57906169e8f4f2f842545013629c0f62c4ffe102a7965783dd57f109dfb8bbbc66810107dcdfc3f49cda7f6cb77796600236130dba5655d125673e1296f"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QLrBlpYY/DistantHorizons-2.0.0-a-1.17.1.jar",
+        "sha512": "c51b3b32bb212b3ee3daac1de358c84ce5fe462736e8d9dfc7ee7c4e59b6bb096b38783b2b5b69a28b13e708253e77fc8dd3217ea847974a4d7f08653cc9d144"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.17.1/DistantHorizons-1.6.5a-1.17.1.jar",
+        "sha512": "dffc7c7b4e135890c3b4ea6f5a2b132fb92b66435e41aae177f72f20703aeeae803baad15e2e451e1f95c04d32e58761f51305933a5349dd4f246a712b1dac3e"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.17.1/DistantHorizons-1.6.3a-1.17.1.jar",
+        "sha512": "f82d8f3ebd72a1a9779b92c7bad654c2ce9c7d0fc7f4d4b8940e07c424ca68e39ec24fe5703c00044728dcef5dbae9988ee6ff87f3cd6ddcae97aca7fb9cb7ed"
+      },
+      "1_6_2a": {
+        "name": "DistantHorizons-1.6.2a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.17.1/DistantHorizons-1.6.2a-1.17.1.jar",
+        "sha512": "6aca566f7066d8f0c243de6a49aee05f797eecc30c99fe4937dfbb0462201c3f696d51ed8027cd1a503239fc5a2b04b5398b97e0bc86c58e78b9facf089bc589"
+      },
+      "1_6_1a": {
+        "name": "DistantHorizons-1.6.1a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.1a-1.17.1/DistantHorizons-1.6.1a-1.17.1.jar",
+        "sha512": "20bb97d97d1d4572e680552ab23fd300786a0e92a9f9d696b9fb866c0efca89759d9d1b8cc5a2ec7df5638b92be17a72707f24bbd0e08e7ea85678d37270eb63"
+      },
+      "1_6_0a": {
+        "name": "DistantHorizons-1.6.0a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a-1.17.1/DistantHorizons-1.6.0a-1.17.1.jar",
+        "sha512": "4cb2bc616c241d8662c2d0dbe2308d8e0ac06137e9ad4e357a8207a28ea2484956b7ccaf917a5fa30aaab87de5a830dda96d02843b436b4ff0f7706a80088804"
+      }
+    },
+    "1_17": {
+      "latest": {
+        "name": "DistantHorizons-2.0.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QLrBlpYY/DistantHorizons-2.0.0-a-1.17.1.jar",
+        "sha512": "c51b3b32bb212b3ee3daac1de358c84ce5fe462736e8d9dfc7ee7c4e59b6bb096b38783b2b5b69a28b13e708253e77fc8dd3217ea847974a4d7f08653cc9d144"
+      },
+      "2_0_0-a_1": {
+        "name": "DistantHorizons-2.0.0-a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/QLrBlpYY/DistantHorizons-2.0.0-a-1.17.1.jar",
+        "sha512": "c51b3b32bb212b3ee3daac1de358c84ce5fe462736e8d9dfc7ee7c4e59b6bb096b38783b2b5b69a28b13e708253e77fc8dd3217ea847974a4d7f08653cc9d144"
+      },
+      "1_6_2a_1": {
+        "name": "DistantHorizons-1.6.2a-1.17.1.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.17.1/DistantHorizons-1.6.2a-1.17.1.jar",
+        "sha512": "6aca566f7066d8f0c243de6a49aee05f797eecc30c99fe4937dfbb0462201c3f696d51ed8027cd1a503239fc5a2b04b5398b97e0bc86c58e78b9facf089bc589"
+      }
+    },
+    "1_16_5": {
+      "latest": {
+        "name": "DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/h9P0hp4h/DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "sha512": "0c5f6ff67b9d7bf1e09495ee282c824df45c07bd4c13f55fba76c2212d8005bd9339aa7b629c89973c6c49f1761f1b86eabf135fb1a04e952e0e14301f7950ec"
+      },
+      "2_4_1-b": {
+        "name": "DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/h9P0hp4h/DistantHorizons-2.4.1-b-1.16.5-fabric-forge.jar",
+        "sha512": "0c5f6ff67b9d7bf1e09495ee282c824df45c07bd4c13f55fba76c2212d8005bd9339aa7b629c89973c6c49f1761f1b86eabf135fb1a04e952e0e14301f7950ec"
+      },
+      "2_4_0-b": {
+        "name": "DistantHorizons-2.4.0-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/w7nPm0N8/DistantHorizons-2.4.0-b-1.16.5-fabric-forge.jar",
+        "sha512": "4f1dc1c8a761f03687aa1a3da625c2c586e8af51ac686f78866ddfaca00c8cc5391d7bee6966b2552779cc29c06cdb17cc4bf24615ce7fcb4d1ddbb834c7daba"
+      },
+      "2_3_6-b": {
+        "name": "DistantHorizons-2.3.6-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/hx6wT9xr/DistantHorizons-2.3.6-b-1.16.5-fabric-forge.jar",
+        "sha512": "079e45c6cdafa8b49c93069bcf219c6d7ff9cc16587b354ea2c78a14c3a31a2de1d32a14f261229ba663428837626ee134bcce82fac334b229380bcefaa27dbd"
+      },
+      "2_3_5-b": {
+        "name": "DistantHorizons-2.3.5-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/RdM8qwkP/DistantHorizons-2.3.5-b-1.16.5-fabric-forge.jar",
+        "sha512": "1f9dafe63518a2c4517987c181ae8048d6d631d8d5dbc14c5020430a9178592b2fcb6b503e864b1ed47a9160b3f65d073fa3dd31fb8d8ab3be9d67a1eb219646"
+      },
+      "2_3_4-b": {
+        "name": "DistantHorizons-2.3.4-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/wtHg2yzz/DistantHorizons-2.3.4-b-1.16.5-fabric-forge.jar",
+        "sha512": "36f9769ad905b9b68ea1ed70ae2791380c9a7a66c6bccb953534eb80bb0421dcee8d727895b4eff8f2e52926c052a4ea16f02ebf69b7b9c1a98d68e891b15bae"
+      },
+      "2_3_3-b": {
+        "name": "DistantHorizons-2.3.3-b-1.16.5-fabric-forge.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/vebumqX9/DistantHorizons-2.3.3-b-1.16.5-fabric-forge.jar",
+        "sha512": "7f7ce6a2160e36c19c51fa72ab0c25f8c916f28a64a0057658cc48df911fb7b294cb42a1281f99698f149086fdefee09a7a8f49a640eea3a19a4c96695bf75e1"
+      },
+      "2_3_2-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.2-b-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/LoGOdHER/DistantHorizons-fabric-forge-2.3.2-b-1.16.5.jar",
+        "sha512": "770bd409d00b562c479be001850c6bf9013428c064f2f50d64b7d21789eed311f992a360b862ceae83409ec8e64317a7b096a17c9b03b090fa362f141dd1a78f"
+      },
+      "2_3_0-b": {
+        "name": "DistantHorizons-fabric-forge-2.3.0-b-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/bECNHbXD/DistantHorizons-fabric-forge-2.3.0-b-1.16.5.jar",
+        "sha512": "3347aeefb8f9d97760532d8dd4f1fb91d48ad472e1c29efc7b323405f8e24f1db2aca2619641d68d7c6adf12f498934e0d5a3a14bbffb22962b2c40fa5939e8a"
+      },
+      "2_2_1-a": {
+        "name": "DistantHorizons-2.2.1-a-1.16.5-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9rysX1IB/DistantHorizons-2.2.1-a-1.16.5-forge-fabric.jar",
+        "sha512": "addb38805c5f57d1ff3e9ca87d0ed1767b6b8b08deb2f6758142aaf4fd625a06c3db0e83e556b95fcc433fb5cf0bbc91be9a53e649412451a5fe2b75b8eae612"
+      },
+      "2_2_0-a": {
+        "name": "DistantHorizons-2.2.0-a-1.16.5-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/Ja9vQCaE/DistantHorizons-2.2.0-a-1.16.5-forge-fabric.jar",
+        "sha512": "0d72ecacdae83404489ad59b0f6d0e40569767606ac01145a844cb76abce5d125965f136196e06782d700d66c4ef3fa1393de272ced1811648a86969ca17c1b3"
+      },
+      "2_1_2-a": {
+        "name": "DistantHorizons-2.1.2-a-1.16.5-forge-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/rvEYu8Iv/DistantHorizons-2.1.2-a-1.16.5-forge-fabric.jar",
+        "sha512": "3d56a5960b9e7305350fbc54878b4828eb9fbfdf87a73adae3c16b54e64262bad31a37e5d6ac3c57c8ef138e3fc930cfc6e040255175001b13dc315c10212d45"
+      },
+      "2_1_0-a": {
+        "name": "DistantHorizons-2.1.0-a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/6pQHeelV/DistantHorizons-2.1.0-a-1.16.5.jar",
+        "sha512": "04d7695e508e91be05172c6dab0d887ac83f52e9b4b2694fd9c72f0aa490e51c8435686cfed030d1bf5f52387a5fd44edebd358f1ce8a451f4270c303e497dc8"
+      },
+      "2_0_1-a": {
+        "name": "DistantHorizons-2.0.1-a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/zhP09epG/DistantHorizons-2.0.1-a-1.16.5.jar",
+        "sha512": "6dcd1aa157c574cd2664e7c1e56dd9f7e60fb9e77642ee0ba16b8e6888435ea30e22a901eaa20437c28f638ab938d335bf8ef85d1d717cfb72c7ebc0a7b01427"
+      },
+      "2_0_0-a": {
+        "name": "DistantHorizons-2.0.0-a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/qT4v0LBa/DistantHorizons-2.0.0-a-1.16.5.jar",
+        "sha512": "bb1f2179f8dff3d7b00959396ddedab594085911553821ce9d9692d365d3c908e97e90bd6f48d8dac49fa1bb93f56eb4fddb5dc8a357fb1ab2628f62419d8475"
+      },
+      "1_6_5a": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      },
+      "1_6_3a": {
+        "name": "DistantHorizons-1.6.3a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.3a-1.16.5/DistantHorizons-1.6.3a-1.16.5.jar",
+        "sha512": "9ad7a93d2b7019ba086923b511b60f4dcaa699512f8fbea98bac229b026e9354476fa16282da67b84e8e1e8200ed3b6351a00260ca083b144984a3cb2336048e"
+      },
+      "1_6_2a": {
+        "name": "DistantHorizons-1.6.2a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.2a-1.16.5/DistantHorizons-1.6.2a-1.16.5.jar",
+        "sha512": "d1abcf260decc0f5136b9869b63db2014167ea66323d3ecfc020577bf9f5c6c71859b391e1219c4168fa8b94c3c8be57f9af74d26f7724c554dff8c719f08066"
+      },
+      "1_6_1a": {
+        "name": "DistantHorizons-1.6.1a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.1a-1.16.5/DistantHorizons-1.6.1a-1.16.5.jar",
+        "sha512": "58243c7aaeb935b2c08081509f9ff22df725ee49239363cbee15582a15c7cb3b34179d68f7f0a6f72b5eda41003253b50942e0d41f516ea3dca60653c82841ee"
+      },
+      "1_6_0a": {
+        "name": "DistantHorizons-1.6.0a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.0a-1.16.5/DistantHorizons-1.6.0a-1.16.5.jar",
+        "sha512": "06593a03f814e93373509c88773ca861db944997d152a63af9b71a22fe8926840993d3a297cc5edb9172b5ab8ddb6c4011874b49b81c4698237b65ff9aaa0b09"
+      }
+    },
+    "1_16_4": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      },
+      "1_6_5a-1_16_5": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      }
+    },
+    "1_16_3": {
+      "latest": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      },
+      "1_6_5a-1_16_5": {
+        "name": "DistantHorizons-1.6.5a-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.16.5/DistantHorizons-1.6.5a-1.16.5.jar",
+        "sha512": "02bd1dfe832302542d04d096159c8dc83367d36278d6f28ae770a10e8896bcdc35bb2257725190b6553833fa1ce19f35a01adffeb9fc7899fc6eddfa0845ffbd"
+      }
     }
   }
 }
