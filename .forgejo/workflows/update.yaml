@@ -46,6 +46,7 @@ jobs:
           nix run .#update-readme
           git add README.md
           git commit --amend --no-edit
+          git push -u origin chore/auto-update
 
       - name: Create Forgejo Pull Request
         uses: https://git.theless.one/actions/create-pr@v2
