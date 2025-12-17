@@ -15,21 +15,21 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "wkeys";
-  version = "0.1.2-unstable-2025-10-07";
+  version = "0.1.2-unstable-2025-12-17";
 
   src = fetchgit {
     url = "https://github.com/ptazithos/wkeys.git";
-    rev = "4d7d373578d987719d9f5089d40697e8906c3753";
+    rev = "ad028fe73f4afb1cf541797a37c0393a55fb291a";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-312xCT9f3WyoB1C7+olQd/2G0UI0ryQ7SJ0jyvJi2ak=";
+    sha256 = "sha256-XUtXnBctGj+q81W4RGqj+v0MvvhfS3nBKENm9bqnbus=";
   };
 
   cargoDeps = rustPlatform.fetchCargoVendor {
     inherit (finalAttrs) src;
-    hash = "sha256-0itjjzZfcRQY19mVj4YGVC7hX9EVxK3hyNi3QL3j1Yo=";
+    hash = "sha256-deAiMKHkPKDWM57IL1xOvcqEzm0cLC6SktbKCDXZPZE=";
   };
 
   nativeBuildInputs = [
