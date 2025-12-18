@@ -23,21 +23,21 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `lidarr` -> `3.1.1.4876`
 - `luarenamer` -> `5.9.0-compat`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `02bff8d`
+- `midnight-theme` -> `0-unstable-2025-12-17`
 - `oldlibcosmicAppHook`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-12-16`
-- `osu-lazer-bin` -> `2025.1209.0-lazer`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-12-18`
+- `osu-lazer-bin` -> `2025.1218.0-lazer`
 - `prefetch`
 - `prowlarr` -> `2.3.1.5238`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
 - `shoko` -> `5.1.0-dev.149-unstable-2025-12-03`
-- `shoko-webui` -> `2.4.0-dev.6-unstable-2025-12-08`
-- `shokofin` -> `5.0.6-dev.16-unstable-2025-11-30`
+- `shoko-webui` -> `2.4.0-dev.7-unstable-2025-12-17`
+- `shokofin` -> `5.0.6-dev.17-unstable-2025-12-18`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1867-unstable-2025-12-09`
+- `suwayomi-server` -> `2.1.1867-unstable-2025-12-17`
 - `suwayomi-webui` -> `20250801.01-unstable-2025-12-06`
-- `whisparr` -> `3.0.2.1738`
+- `whisparr` -> `3.0.2.1753`
 - `wkeys` -> `0.1.2-unstable-2025-12-17`
 - `writeSystemdToggle`
 - `zigbee2mqtt` -> `2.7.1-unstable-2025-12-07`
