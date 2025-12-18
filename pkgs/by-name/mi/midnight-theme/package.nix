@@ -10,7 +10,7 @@
 
 stdenvNoCC.mkDerivation {
   pname = "midnight-theme";
-  version = "02bff8d4a51c1b2359f659610aa3004f3f70b685";
+  version = "0-unstable-2025-12-17";
 
   src = fetchgit {
     url = "https://github.com/refact0r/midnight-discord.git";
