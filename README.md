@@ -23,9 +23,9 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `lidarr` -> `3.1.1.4876`
 - `luarenamer` -> `5.9.0-compat`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `0-unstable-2025-12-19`
+- `midnight-theme` -> `0-unstable-2025-12-20`
 - `oldlibcosmicAppHook`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-12-19`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-12-20`
 - `osu-lazer-bin` -> `2025.1218.0-lazer`
 - `prefetch`
 - `prowlarr` -> `2.3.1.5238`
@@ -37,7 +37,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2025-12-17`
 - `suwayomi-webui` -> `20250801.01-unstable-2025-12-06`
-- `whisparr` -> `3.0.2.1760`
+- `whisparr` -> `3.0.2.1765`
 - `wkeys` -> `0.1.2-unstable-2025-12-17`
 - `writeSystemdToggle`
 - `zigbee2mqtt` -> `2.7.1-unstable-2025-12-07`
