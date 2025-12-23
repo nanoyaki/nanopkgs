@@ -1,5 +1,17 @@
 {
   "fabric": {
+    "26_1-snapshot-1": {
+      "latest": {
+        "name": "fabric-carpet-26.1-beta-1+v251217.jar",
+        "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/6FpFtZPE/fabric-carpet-26.1-beta-1%2Bv251217.jar",
+        "sha512": "4c6c94edbe633ef6ba4659722af8b5062fb0033ae523a948c6d94cd5c17a5342e0048544ef58bfb94fe940dbf8d695b95455045265cb56ca7b83b4ed98430856"
+      },
+      "26_1-beta-1": {
+        "name": "fabric-carpet-26.1-beta-1+v251217.jar",
+        "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/6FpFtZPE/fabric-carpet-26.1-beta-1%2Bv251217.jar",
+        "sha512": "4c6c94edbe633ef6ba4659722af8b5062fb0033ae523a948c6d94cd5c17a5342e0048544ef58bfb94fe940dbf8d695b95455045265cb56ca7b83b4ed98430856"
+      }
+    },
     "1_21_11-pre1": {
       "latest": {
         "name": "fabric-carpet-1.21.11-pre1-1.4.192+v251119.jar",
@@ -14,9 +26,14 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "fabric-carpet-1.21.11-1.4.193+v251211.jar",
-        "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/JV4Dlp7j/fabric-carpet-1.21.11-1.4.193%2Bv251211.jar",
-        "sha512": "7cc29adfe7de824aad4a32ba2b6d8c899c788a2e5d920e8e63dbddd23ca0702deeedc4948bf562d0326b24402806dc819e6132d26e5513a20495f819d8858dd6"
+        "name": "fabric-carpet-1.21.11-1.4.194+v251223.jar",
+        "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/HzPcczDK/fabric-carpet-1.21.11-1.4.194%2Bv251223.jar",
+        "sha512": "1135807e44b34a628c89674a4df94d617120aea932c24c7d4a375410103884e94713b4252d29035d1722d149cc65465afef24eafbfc476c51bc64b6fffff57e0"
+      },
+      "1_4_194": {
+        "name": "fabric-carpet-1.21.11-1.4.194+v251223.jar",
+        "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/HzPcczDK/fabric-carpet-1.21.11-1.4.194%2Bv251223.jar",
+        "sha512": "1135807e44b34a628c89674a4df94d617120aea932c24c7d4a375410103884e94713b4252d29035d1722d149cc65465afef24eafbfc476c51bc64b6fffff57e0"
       },
       "1_4_193": {
         "name": "fabric-carpet-1.21.11-1.4.193+v251211.jar",
