@@ -30,7 +30,7 @@ let
   self = stdenvNoCC.mkDerivation (finalAttrs: {
     pname = "suwayomi-server";
     version = "2.1.1867-unstable-2025-12-17";
-    revision = "";
+    revision = "2038";
 
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";

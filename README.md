@@ -36,8 +36,8 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shokofin` -> `5.0.6-dev.18-unstable-2025-12-19`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2025-12-17`
-- `suwayomi-webui` -> `20250801.01-unstable-2025-12-06`
-- `whisparr` -> `3.0.2.1798`
+- `suwayomi-webui` -> `20250801.01-unstable-2025-12-23`
+- `whisparr` -> `3.0.2.1822`
 - `wkeys` -> `0.1.2-unstable-2025-12-17`
 - `writeSystemdToggle`
 - `zigbee2mqtt` -> `2.7.1-unstable-2025-12-07`
