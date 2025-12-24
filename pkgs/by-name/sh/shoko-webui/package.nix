@@ -3,11 +3,13 @@
 #
 # SPDX-License-Identifier: MIT
 {
+  lib,
   stdenvNoCC,
   fetchgit,
   nodejs,
   pnpm,
-  # lib,
+  pnpmConfigHook,
+  fetchPnpmDeps,
   shoko,
   nix-update-script,
 }:
@@ -32,13 +34,15 @@ stdenvNoCC.mkDerivation (finalAttrs: {
 
   nativeBuildInputs = [
     nodejs
-    pnpm.configHook
+    pnpmConfigHook
+    pnpm
   ];
 
-  pnpmDeps = pnpm.fetchDeps {
+  pnpmDeps = fetchPnpmDeps {
     inherit (finalAttrs) pname version src;
-    fetcherVersion = 2;
-    hash = "sha256-aCBiFteBebq/kmeV5GIlp3yPeaE99U+WKokvYQAwZzg=";
+    inherit pnpm;
+    fetcherVersion = 3;
+    hash = "sha256-V3Yj9aIRv9ZpiV27DJc1nYexRT/qivsgiK5B0F/qDvM=";
   };
 
   buildPhase = ''
@@ -64,7 +68,10 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     homepage = "https://github.com/ShokoAnime/Shoko-WebUI";
     changelog = "https://github.com/ShokoAnime/Shoko-WebUI/releases/tag/v${finalAttrs.version}";
     description = "Web-based frontend for the Shoko anime management system";
-    # maintainers = [ lib.maintainers.diniamo ];
+    maintainers = with lib.maintainers; [
+      diniamo
+      nanoyaki
+    ];
     inherit (shoko.meta) license platforms;
   };
 })
