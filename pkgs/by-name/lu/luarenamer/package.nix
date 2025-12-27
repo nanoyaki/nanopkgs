@@ -10,6 +10,7 @@
   _experimental-update-script-combinators,
   nix-update-script,
   writeShellScript,
+  shokoPluginPostInstallHook,
 }:
 
 buildDotnetModule (finalAttrs: {
@@ -35,6 +36,10 @@ buildDotnetModule (finalAttrs: {
 
   nugetDeps = ./deps.json;
   projectFile = "LuaRenamer/LuaRenamer.csproj";
+
+  nativeBuildInputs = [
+    shokoPluginPostInstallHook
+  ];
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
     (nix-update-script {
