@@ -10,7 +10,6 @@
   nix-update-script,
   _experimental-update-script-combinators,
   writeShellScript,
-  shokoPluginPostInstallHook,
 }:
 
 buildDotnetModule (finalAttrs: {
@@ -35,10 +34,6 @@ buildDotnetModule (finalAttrs: {
   dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
 
   executables = [ ];
-
-  nativeBuildInputs = [
-    shokoPluginPostInstallHook
-  ];
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
     (nix-update-script {
