@@ -12,7 +12,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 
 - `avdump` -> `B9005-GitHubRelease-unstable-2024-03-10`
 - `check-project-conflicts`
-- `clipboard-manager` -> `0.1.0-unstable-2025-11-27`
+- `clipboard-manager` -> `0.1.0-unstable-2025-12-26`
 - `cosmic-classic-menu` -> `0.0.10-unstable-2025-12-21`
 - `cosmic-ext-applet-privacy-indicator` -> `0.1.2-unstable-2025-07-03`
 - `error-pages` -> `0-unstable-2024-11-22`
@@ -25,7 +25,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2025-12-25`
 - `oldlibcosmicAppHook`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-12-24`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2025-12-26`
 - `osu-lazer-bin` -> `2025.1218.0-lazer`
 - `prefetch`
 - `prowlarr` -> `2.3.1.5238`
@@ -37,7 +37,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2025-12-17`
 - `suwayomi-webui` -> `20250801.01-unstable-2025-12-23`
-- `whisparr` -> `3.0.2.1838`
+- `whisparr` -> `3.0.2.1858`
 - `wkeys` -> `0.1.2-unstable-2025-12-17`
 - `writeSystemdToggle`
 - `zigbee2mqtt` -> `2.7.1-unstable-2025-12-07`
