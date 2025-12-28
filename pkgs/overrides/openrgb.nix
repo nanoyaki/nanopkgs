@@ -9,8 +9,8 @@ final: prev: {
     src = final.fetchFromGitLab {
       owner = "CalcProgrammer1";
       repo = "OpenRGB";
-      rev = "298d80e05607337027ad642230febf9aaec63bca";
-      hash = "sha256-Im623uu+Yzmgm1Quj9IJ6kqvRmTJ6cf/w0qfAzdBihQ=";
+      rev = "5869e5ff31dab044e2780bbc11c4cb00bc0b93fc";
+      hash = "sha256-vgC9P82B0sB2i9a82I/YoVs5uiTvFw+fG9zxlEynkOY=";
     };
 
     patches = [ ];
