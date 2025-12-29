@@ -28,6 +28,11 @@
         "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/l6kw0FSN/servux-fabric-1.21.10-0.8.5.jar",
         "sha512": "13e67184315122f4b5411c78d2c6f3bf77b5dba05dd0c59732089a4916afce1a0b3dba548fc298c5f561fda15dd08ab521f9e98c22bed90c319cf2fe6b2feaf6"
       },
+      "0_8_5B": {
+        "name": "servux-fabric-1.21.10-0.8.5.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/edj0eGc8/servux-fabric-1.21.10-0.8.5.jar",
+        "sha512": "13e67184315122f4b5411c78d2c6f3bf77b5dba05dd0c59732089a4916afce1a0b3dba548fc298c5f561fda15dd08ab521f9e98c22bed90c319cf2fe6b2feaf6"
+      },
       "0_8_3": {
         "name": "servux-fabric-1.21.10-0.8.3.jar",
         "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/4NqOw9an/servux-fabric-1.21.10-0.8.3.jar",
@@ -55,6 +60,11 @@
         "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/l6kw0FSN/servux-fabric-1.21.10-0.8.5.jar",
         "sha512": "13e67184315122f4b5411c78d2c6f3bf77b5dba05dd0c59732089a4916afce1a0b3dba548fc298c5f561fda15dd08ab521f9e98c22bed90c319cf2fe6b2feaf6"
       },
+      "0_8_5B": {
+        "name": "servux-fabric-1.21.10-0.8.5.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/edj0eGc8/servux-fabric-1.21.10-0.8.5.jar",
+        "sha512": "13e67184315122f4b5411c78d2c6f3bf77b5dba05dd0c59732089a4916afce1a0b3dba548fc298c5f561fda15dd08ab521f9e98c22bed90c319cf2fe6b2feaf6"
+      },
       "0_8_3": {
         "name": "servux-fabric-1.21.10-0.8.3.jar",
         "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/4NqOw9an/servux-fabric-1.21.10-0.8.3.jar",
@@ -78,9 +88,14 @@
     },
     "1_21_8": {
       "latest": {
-        "name": "servux-fabric-1.21.8-0.7.5.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/SBUszkZr/servux-fabric-1.21.8-0.7.5.jar",
-        "sha512": "e5654e95d54321a17f5e35b1802f7c77e302ce73bd775b4cff51e37f4bed64f5a60e39ba861fcbd837a2c2151a88b5d592c6a9877cec4e9cfce06e881322d110"
+        "name": "servux-fabric-1.21.8-0.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/1IngywjN/servux-fabric-1.21.8-0.7.6.jar",
+        "sha512": "73c7fd1971e72c35060ce1307681dd703fefc87b75d9a9fbb6b52878600bd5ffb95e57529da163b7072afbcd5fcf512767a6a9434d59cd93e22cf3b07d8db31f"
+      },
+      "0_7_6": {
+        "name": "servux-fabric-1.21.8-0.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/1IngywjN/servux-fabric-1.21.8-0.7.6.jar",
+        "sha512": "73c7fd1971e72c35060ce1307681dd703fefc87b75d9a9fbb6b52878600bd5ffb95e57529da163b7072afbcd5fcf512767a6a9434d59cd93e22cf3b07d8db31f"
       },
       "0_7_5": {
         "name": "servux-fabric-1.21.8-0.7.5.jar",
@@ -100,9 +115,14 @@
     },
     "1_21_7": {
       "latest": {
-        "name": "servux-fabric-1.21.8-0.7.5.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/SBUszkZr/servux-fabric-1.21.8-0.7.5.jar",
-        "sha512": "e5654e95d54321a17f5e35b1802f7c77e302ce73bd775b4cff51e37f4bed64f5a60e39ba861fcbd837a2c2151a88b5d592c6a9877cec4e9cfce06e881322d110"
+        "name": "servux-fabric-1.21.8-0.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/1IngywjN/servux-fabric-1.21.8-0.7.6.jar",
+        "sha512": "73c7fd1971e72c35060ce1307681dd703fefc87b75d9a9fbb6b52878600bd5ffb95e57529da163b7072afbcd5fcf512767a6a9434d59cd93e22cf3b07d8db31f"
+      },
+      "0_7_6": {
+        "name": "servux-fabric-1.21.8-0.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/1IngywjN/servux-fabric-1.21.8-0.7.6.jar",
+        "sha512": "73c7fd1971e72c35060ce1307681dd703fefc87b75d9a9fbb6b52878600bd5ffb95e57529da163b7072afbcd5fcf512767a6a9434d59cd93e22cf3b07d8db31f"
       },
       "0_7_5": {
         "name": "servux-fabric-1.21.8-0.7.5.jar",
@@ -132,9 +152,14 @@
     },
     "1_21_6": {
       "latest": {
-        "name": "servux-fabric-1.21.8-0.7.5.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/SBUszkZr/servux-fabric-1.21.8-0.7.5.jar",
-        "sha512": "e5654e95d54321a17f5e35b1802f7c77e302ce73bd775b4cff51e37f4bed64f5a60e39ba861fcbd837a2c2151a88b5d592c6a9877cec4e9cfce06e881322d110"
+        "name": "servux-fabric-1.21.8-0.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/1IngywjN/servux-fabric-1.21.8-0.7.6.jar",
+        "sha512": "73c7fd1971e72c35060ce1307681dd703fefc87b75d9a9fbb6b52878600bd5ffb95e57529da163b7072afbcd5fcf512767a6a9434d59cd93e22cf3b07d8db31f"
+      },
+      "0_7_6": {
+        "name": "servux-fabric-1.21.8-0.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/1IngywjN/servux-fabric-1.21.8-0.7.6.jar",
+        "sha512": "73c7fd1971e72c35060ce1307681dd703fefc87b75d9a9fbb6b52878600bd5ffb95e57529da163b7072afbcd5fcf512767a6a9434d59cd93e22cf3b07d8db31f"
       },
       "0_7_5": {
         "name": "servux-fabric-1.21.8-0.7.5.jar",
@@ -169,9 +194,14 @@
     },
     "1_21_5": {
       "latest": {
-        "name": "servux-fabric-1.21.5-0.6.1.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/wmkcZoL1/servux-fabric-1.21.5-0.6.1.jar",
-        "sha512": "62b7f45a70329bd4481c4586a40dbb40fa48e128ae42243404c7955e3c2955463194a5cc45bf354e75c9ebba2b52133da129de2cc8fba4a502344b7fc4b34864"
+        "name": "servux-fabric-1.21.5-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/bH9OKuPt/servux-fabric-1.21.5-0.6.2.jar",
+        "sha512": "683372f92489232b470b9dc68934654b814abccc4af0f3b85749fbb9f4e6bbb0d716e009428e8df65ea9d2e4508f58b7481ef1ffd2eead9f862be969838db003"
+      },
+      "0_6_2": {
+        "name": "servux-fabric-1.21.5-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/bH9OKuPt/servux-fabric-1.21.5-0.6.2.jar",
+        "sha512": "683372f92489232b470b9dc68934654b814abccc4af0f3b85749fbb9f4e6bbb0d716e009428e8df65ea9d2e4508f58b7481ef1ffd2eead9f862be969838db003"
       },
       "0_6_1": {
         "name": "servux-fabric-1.21.5-0.6.1.jar",
@@ -186,9 +216,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "servux-fabric-1.21.4-0.5.4.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/QtByZXTq/servux-fabric-1.21.4-0.5.4.jar",
-        "sha512": "4044acb3c1155c51551f5ef6f2478fe9b1dfa46b8936ac7c3dd26b6d769ee3a5625a3de9dc09da822e0f1ce31f981408e283bbbb788910d3ae8951d728f8e519"
+        "name": "servux-fabric-1.21.4-0.5.5.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/aEtAjctT/servux-fabric-1.21.4-0.5.5.jar",
+        "sha512": "0e083284dce36145d627945ef66154d5cf5e7793ea18743a0509ac6a6ba6e7a72a83abf7323716c1b571f61c389962f8893b7c4ed708e750ff03d826c7628c88"
+      },
+      "0_5_5": {
+        "name": "servux-fabric-1.21.4-0.5.5.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/aEtAjctT/servux-fabric-1.21.4-0.5.5.jar",
+        "sha512": "0e083284dce36145d627945ef66154d5cf5e7793ea18743a0509ac6a6ba6e7a72a83abf7323716c1b571f61c389962f8893b7c4ed708e750ff03d826c7628c88"
       },
       "0_5_4": {
         "name": "servux-fabric-1.21.4-0.5.4.jar",
@@ -218,9 +253,14 @@
     },
     "1_21_3": {
       "latest": {
-        "name": "servux-fabric-1.21.3-0.4.5.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/G0nc29W6/servux-fabric-1.21.3-0.4.5.jar",
-        "sha512": "812a371cd92be8572c018b6f37d8d8449dc517801f8d59d8d58d59f30f1ea729a8b5264fb7a5000c78b936e8625103f93e8baf4b069cf55cf11575a257a16bce"
+        "name": "servux-fabric-1.21.3-0.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/5YhHM0tF/servux-fabric-1.21.3-0.4.6.jar",
+        "sha512": "d932cea69633efb75405411faf09be529d85f062d4562abaf4b1083fa63ddf18ce3d6e25183d7ee271f42886f6b04148b56ecdeab8c04a7eeb8bb9e0c5dacede"
+      },
+      "0_4_6": {
+        "name": "servux-fabric-1.21.3-0.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/5YhHM0tF/servux-fabric-1.21.3-0.4.6.jar",
+        "sha512": "d932cea69633efb75405411faf09be529d85f062d4562abaf4b1083fa63ddf18ce3d6e25183d7ee271f42886f6b04148b56ecdeab8c04a7eeb8bb9e0c5dacede"
       },
       "0_4_5": {
         "name": "servux-fabric-1.21.3-0.4.5.jar",
@@ -255,9 +295,14 @@
     },
     "1_21_2": {
       "latest": {
-        "name": "servux-fabric-1.21.3-0.4.5.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/G0nc29W6/servux-fabric-1.21.3-0.4.5.jar",
-        "sha512": "812a371cd92be8572c018b6f37d8d8449dc517801f8d59d8d58d59f30f1ea729a8b5264fb7a5000c78b936e8625103f93e8baf4b069cf55cf11575a257a16bce"
+        "name": "servux-fabric-1.21.3-0.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/5YhHM0tF/servux-fabric-1.21.3-0.4.6.jar",
+        "sha512": "d932cea69633efb75405411faf09be529d85f062d4562abaf4b1083fa63ddf18ce3d6e25183d7ee271f42886f6b04148b56ecdeab8c04a7eeb8bb9e0c5dacede"
+      },
+      "0_4_6": {
+        "name": "servux-fabric-1.21.3-0.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/5YhHM0tF/servux-fabric-1.21.3-0.4.6.jar",
+        "sha512": "d932cea69633efb75405411faf09be529d85f062d4562abaf4b1083fa63ddf18ce3d6e25183d7ee271f42886f6b04148b56ecdeab8c04a7eeb8bb9e0c5dacede"
       },
       "0_4_5": {
         "name": "servux-fabric-1.21.3-0.4.5.jar",
@@ -292,9 +337,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "servux-fabric-1.21-0.3.14.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/3VysYUUW/servux-fabric-1.21-0.3.14.jar",
-        "sha512": "f37ecf3dab88dfbbb9de7c3babf030da5cd898f583c18e93972f6395811c9a308c82fef0c8550311a808ed30516718f839b63fbc84366bb9876e65b8a9396139"
+        "name": "servux-fabric-1.21-0.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/VuAc9jPy/servux-fabric-1.21-0.3.15.jar",
+        "sha512": "cbfe1c83a39d91a808a451b8a305b40697406ea81250b83ead2b3014ddc4a903cf073fed7d4ff3cf894a8f3c1383f61e8c2e95d2487ab073a9b1de071a11beea"
+      },
+      "0_3_15": {
+        "name": "servux-fabric-1.21-0.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/VuAc9jPy/servux-fabric-1.21-0.3.15.jar",
+        "sha512": "cbfe1c83a39d91a808a451b8a305b40697406ea81250b83ead2b3014ddc4a903cf073fed7d4ff3cf894a8f3c1383f61e8c2e95d2487ab073a9b1de071a11beea"
       },
       "0_3_14": {
         "name": "servux-fabric-1.21-0.3.14.jar",
@@ -339,9 +389,14 @@
     },
     "1_21": {
       "latest": {
-        "name": "servux-fabric-1.21-0.3.14.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/3VysYUUW/servux-fabric-1.21-0.3.14.jar",
-        "sha512": "f37ecf3dab88dfbbb9de7c3babf030da5cd898f583c18e93972f6395811c9a308c82fef0c8550311a808ed30516718f839b63fbc84366bb9876e65b8a9396139"
+        "name": "servux-fabric-1.21-0.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/VuAc9jPy/servux-fabric-1.21-0.3.15.jar",
+        "sha512": "cbfe1c83a39d91a808a451b8a305b40697406ea81250b83ead2b3014ddc4a903cf073fed7d4ff3cf894a8f3c1383f61e8c2e95d2487ab073a9b1de071a11beea"
+      },
+      "0_3_15": {
+        "name": "servux-fabric-1.21-0.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/VuAc9jPy/servux-fabric-1.21-0.3.15.jar",
+        "sha512": "cbfe1c83a39d91a808a451b8a305b40697406ea81250b83ead2b3014ddc4a903cf073fed7d4ff3cf894a8f3c1383f61e8c2e95d2487ab073a9b1de071a11beea"
       },
       "0_3_14": {
         "name": "servux-fabric-1.21-0.3.14.jar",
