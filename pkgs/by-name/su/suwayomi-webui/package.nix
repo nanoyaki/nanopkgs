@@ -19,7 +19,7 @@
 stdenvNoCC.mkDerivation (finalAttrs: {
   pname = "suwayomi-webui";
   version = "20251230.01-unstable-2025-12-30";
-  revision = "2934";
+  revision = "2938";
 
   src = fetchgit {
     url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
