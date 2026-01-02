@@ -7,6 +7,7 @@
   fetchgit,
   fetchYarnDeps,
   yarnConfigHook,
+  yarnInstallHook,
   nodejs_22,
   husky,
   tsx,
@@ -38,6 +39,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
 
   nativeBuildInputs = [
     yarnConfigHook
+    yarnInstallHook
 
     nodejs
     husky
@@ -58,7 +60,6 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     patchShebangs node_modules/vite/bin/vite.js
     node_modules/vite/bin/vite.js build
 
-    yarn --offline build-md5
     echo "r${finalAttrs.revision}" > build/revision
 
     runHook postBuild
@@ -67,26 +68,23 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   installPhase = ''
     runHook preInstall
 
-    cp -a build $out
-    mv buildZip/md5sum $out
+    mv build $out
 
     runHook postInstall
   '';
 
   passthru.updateScript = _experimental-update-script-combinators.sequence [
+    [
+      ./update-rev.sh
+      finalAttrs.src.rev
+      "pkgs/by-name/su/suwayomi-webui/package.nix"
+    ]
     (nix-update-script {
       extraArgs = [
         "--version=branch"
         "-F"
       ];
     })
-    {
-      command = [
-        ./update-rev.sh
-        finalAttrs.src.rev
-        "pkgs/by-name/su/suwayomi-webui/package.nix"
-      ];
-    }
   ];
 
   meta = {
