@@ -2,9 +2,19 @@
   "fabric": {
     "26_1-snapshot-1": {
       "latest": {
-        "name": "fabric-api-0.140.3+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5veGhabU/fabric-api-0.140.3%2B26.1.jar",
-        "sha512": "00b30ed1205d72425557b6d10f3b163880760d42ebf701c3c371380e1022edf4dfebf21eb2b6b25679e6e6c3582ff740a8d2f8716034b2b41f768b65a0698c09"
+        "name": "fabric-api-0.141.1+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/PPiyRYXQ/fabric-api-0.141.1%2B26.1.jar",
+        "sha512": "440f3826752f28536b97a17ce4dd7392d4a7756412a7845d4f31a3ea75f9c6c89d31a407d2433db28ebb1e9031a83a49b2fc710154f46884556fa5e309abf087"
+      },
+      "0_141_1+26_1": {
+        "name": "fabric-api-0.141.1+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/PPiyRYXQ/fabric-api-0.141.1%2B26.1.jar",
+        "sha512": "440f3826752f28536b97a17ce4dd7392d4a7756412a7845d4f31a3ea75f9c6c89d31a407d2433db28ebb1e9031a83a49b2fc710154f46884556fa5e309abf087"
+      },
+      "0_141_0+26_1": {
+        "name": "fabric-api-0.141.0+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/z3e7vr3z/fabric-api-0.141.0%2B26.1.jar",
+        "sha512": "ee49ca63d739e8e000f9a22ea7ef197ea76c9ca01fd26743b3156bbd4b42e4330e0f0bed28c8648e6cec88c15d14fee3bf8590c7e9e7a2a7c27585b103e6f3e6"
       },
       "0_140_3+26_1": {
         "name": "fabric-api-0.140.3+26.1.jar",
@@ -65,9 +75,19 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "fabric-api-0.140.2+1.21.11.jar",
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/gB6TkYEJ/fabric-api-0.140.2%2B1.21.11.jar",
-        "sha512": "af4465797d80401021a6aefc8c547200e7c0f8cae134299bf3fafbc310fa81f055246b0614fc0e037538f4a844e55aad30abfa3c67460422853dfc426f086d00"
+        "name": "fabric-api-0.141.1+1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/DdVHbeR1/fabric-api-0.141.1%2B1.21.11.jar",
+        "sha512": "185b45dcbe22923039dfc998c90d6c7196610cf442c284ba3fbc7ee26116b8a20367bf931024fba66bba07bc4378fcbb8b9142c1b1c14ba4200d50a5aba0332f"
+      },
+      "0_141_1": {
+        "name": "fabric-api-0.141.1+1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/DdVHbeR1/fabric-api-0.141.1%2B1.21.11.jar",
+        "sha512": "185b45dcbe22923039dfc998c90d6c7196610cf442c284ba3fbc7ee26116b8a20367bf931024fba66bba07bc4378fcbb8b9142c1b1c14ba4200d50a5aba0332f"
+      },
+      "0_141_0": {
+        "name": "fabric-api-0.141.0+1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/rvdQiyMk/fabric-api-0.141.0%2B1.21.11.jar",
+        "sha512": "5b39a72d5fd229487149c486ab001886b3275cd942c47eeefc53cbe6f615a6d7547f9437536c5284fd6ef9ed1a190ce698d0243937f99f006329a1a4af7665a1"
       },
       "0_140_2": {
         "name": "fabric-api-0.140.2+1.21.11.jar",

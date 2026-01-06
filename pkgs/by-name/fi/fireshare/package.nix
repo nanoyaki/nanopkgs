@@ -25,12 +25,12 @@ python312Packages.buildPythonApplication rec {
 
   src = fetchgit {
     url = "https://github.com/ShaneIsrael/fireshare.git";
-    rev = "adfbb5c62a9dbb9ce67c8d5f82a004e6588c0883";
+    rev = "7ad7efd1a79abd17f21428913ff1dadfa78faf0e";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-IcXwWjuBMu5ztLp3gCZ2DzG1bdTL+L5K8UN3h7sZ/Ho=";
+    sha256 = "sha256-KzPiHdP2n21nj784OjqB9Bttn+BEd6QuE6j+X4nMDW0=";
   };
 
   pyproject = true;
