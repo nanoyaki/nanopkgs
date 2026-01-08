@@ -12,7 +12,7 @@ final: prev: {
 
     {
       pname = "prowlarr";
-      version = "2.3.1.5238";
+      version = "2.3.2.5245";
 
       src = final.applyPatches {
         src = final.fetchgit {
@@ -22,7 +22,7 @@ final: prev: {
           deepClone = false;
           leaveDotGit = false;
           sparseCheckout = [ ];
-          sha256 = "sha256-v6/q2oxXPsN0Yrie1cDk9YwtSHfos1oulYGdqBeUaMs=";
+          sha256 = "sha256-B5D66pEjOu3pVaULp6mUNaQ7AcFUdZjsfh+EaoZjMns=";
         };
 
         postPatch = ''
