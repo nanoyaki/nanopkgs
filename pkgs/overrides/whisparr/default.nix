@@ -5,12 +5,12 @@ final: prev: {
   whisparr = prev.whisparr.overrideAttrs (
     finalAttrs: prevAttrs: {
       pname = "whisparr";
-      version = "3.1.0.2060";
+      version = "3.1.0.2066";
 
       src = final.fetchurl {
         url = "https://whisparr.servarr.com/v1/update/eros/updatefile?version=${finalAttrs.version}&os=linux&runtime=netcore&arch=x64";
         name = "whisparr-src-${finalAttrs.version}.tar.gz";
-        sha256 = "sha256-y3Z6DVq3hO3iH+1uWM7tn1qh59w01JfHLsvmQJVMxek=";
+        sha256 = "sha256-9BZegu0lc52DInaz9REaOC4coE1ggp6Axymfr5pboLs=";
       };
 
       passthru = prevAttrs.passthru // {
