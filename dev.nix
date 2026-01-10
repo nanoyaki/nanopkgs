@@ -29,13 +29,13 @@
               packageOverrides.treefmt = config.treefmt.build.wrapper;
             };
 
-            statix = {
-              enable = true;
-              settings.config =
-                ((pkgs.formats.toml { }).generate "statix.toml" {
-                  disabled = [ "repeated_keys" ];
-                }).outPath;
-            };
+            # statix = {
+            #   enable = true;
+            #   settings.config =
+            #     ((pkgs.formats.toml { }).generate "statix.toml" {
+            #       disabled = [ "repeated_keys" ];
+            #     }).outPath;
+            # };
             flake-checker.enable = true;
             deadnix.enable = true;
 

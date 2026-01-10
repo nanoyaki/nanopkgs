@@ -1,7 +1,11 @@
 # SPDX-FileCopyrightText: 2025 Hana Kretzer <hanakretzer@gmail.com>
 #
 # SPDX-License-Identifier: MIT
-{ writeShellScriptBin, nix }:
+{
+  lib,
+  writeShellScriptBin,
+  nix,
+}:
 
 writeShellScriptBin "check-project-conflicts" ''
   PROJECTS=""
@@ -40,15 +44,15 @@ writeShellScriptBin "check-project-conflicts" ''
     exit 1
   fi
 
-  exec ${nix}/bin/nix eval --raw --impure --expr '
-    let
-      logic = import ${./projects-check-conflicts.nix};
-    in
-      logic {
-        projects = "'$PROJECTS'";
-        loader = "'$LOADER'";
-        fromVersion = "'$FROM_VERSION'";
-        toVersion = "'$TO_VERSION'";
-      }
-  '
+  exec ${lib.getExe nix} \
+    --extra-experimental-features 'pipe-operators nix-command flakes' \
+    eval \
+    --raw \
+    --impure \
+    --expr 'import ${./projects-check-conflicts.nix} {
+      projects = "'"$PROJECTS"'";
+      loader = "'"$LOADER"'";
+      fromVersion = "'"$FROM_VERSION"'";
+      toVersion = "'"$TO_VERSION"'";
+    }'
 ''
