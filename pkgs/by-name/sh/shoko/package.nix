@@ -20,7 +20,7 @@
 
 buildDotnetModule (finalAttrs: {
   pname = "shoko";
-  version = "5.1.0-dev.149-unstable-2025-12-03";
+  version = "5.2.0-unstable-2025-12-03";
 
   src = fetchgit {
     url = "https://github.com/ShokoAnime/ShokoServer.git";
