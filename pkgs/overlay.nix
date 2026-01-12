@@ -42,7 +42,7 @@ in
                     mapAttrs' (
                       gameVersion: projectVersions:
                       let
-                        mkVer = ver: if (builtins.match ''^[0-9].*'' ver) != null then "v${ver}" else ver;
+                        mkVer = ver: if (builtins.match "^[0-9].*" ver) != null then "v${ver}" else ver;
                       in
                       nameValuePair (mkVer gameVersion) (
                         recurseIntoAttrs (

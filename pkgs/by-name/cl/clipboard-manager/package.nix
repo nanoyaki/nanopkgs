@@ -65,7 +65,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
       extraArgs = [
         "-F"
         "--version"
-        ''branch=master''
+        "branch=master"
       ];
     };
 
