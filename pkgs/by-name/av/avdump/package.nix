@@ -73,7 +73,7 @@ buildDotnetModule (finalAttrs: {
     (nix-update-script {
       extraArgs = [
         "-F"
-        ''--version=branch=NET8''
+        "--version=branch=NET8"
         "--src-only"
       ];
     })
