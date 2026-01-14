@@ -1,8 +1,13 @@
 [
   {
     "pname": "KeraLua",
-    "version": "1.4.6",
-    "hash": "sha256-7lXJhhQlEuRoaF18XiZYJDyhA8RIWpYWNB9kr4aARQc="
+    "version": "1.4.5",
+    "hash": "sha256-O3ozcLw1IVc6ssc3SZfPIvp5s0+xLyLuTZw6qrjyEyE="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyInjection",
+    "version": "8.0.0",
+    "hash": "sha256-+qIDR8hRzreCHNEDtUcPfVHQdurzWPo/mqviCH78+EQ="
   },
   {
     "pname": "Microsoft.Extensions.DependencyInjection.Abstractions",
@@ -21,7 +26,7 @@
   },
   {
     "pname": "Shoko.Plugin.Abstractions",
-    "version": "4.1.0",
-    "hash": "sha256-vKC6VqCPxWygufs5mmj9pTrK/R04+ryFuo9EIaD4K94="
+    "version": "5.2.0",
+    "hash": "sha256-tNLOeum4rc30OEWRiH1zTzLk5+1MfSEOfvkON1MU/SY="
   }
 ]

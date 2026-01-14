@@ -14,7 +14,7 @@
 
 buildDotnetModule (finalAttrs: {
   pname = "luarenamer";
-  version = "5.9.0-compat";
+  version = "5.10.1";
 
   src = fetchgit {
     url = "https://github.com/Mik1ll/LuaRenamer.git";
@@ -23,7 +23,7 @@ buildDotnetModule (finalAttrs: {
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-EyA7UzRy8YzBmhXiANfbTyfK3DVp/F7KpgxSkNs/B1g=";
+    sha256 = "sha256-ZN7o9q3APgc7vL+IRpk6Phd0Btpzyqdp53aoGp6sA8o=";
   };
 
   patches = [
