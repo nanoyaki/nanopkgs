@@ -17,8 +17,9 @@ final: prev: {
         sha256 = "sha256-eIuIWjLsjpvgIgnQC3opsSYc34GD5vLvPvO7DhKyVFA=";
       };
 
-      pnpmDeps = final.pnpm_9.fetchDeps {
+      pnpmDeps = final.fetchPnpmDeps {
         inherit (finalAttrs) pname version src;
+        pnpm = final.pnpm_9;
         fetcherVersion = 1;
         hash = "sha256-HOYGJzcLyrvhhYnIIwhLiSiYyDdEob3+LNdlfmbspeQ=";
       };
