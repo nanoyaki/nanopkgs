@@ -18,22 +18,22 @@
 
 stdenvNoCC.mkDerivation (finalAttrs: {
   pname = "suwayomi-webui";
-  version = "20251230.01-unstable-2026-01-10";
+  version = "20251230.01-unstable-2026-01-13";
   revision = "2956";
 
   src = fetchgit {
     url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-    rev = "1c4debc0dbc61d8f470f784b15d27eb20ac21b7a";
+    rev = "65a9a905bea7ae0dd56ab935814b1f000fba06ff";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-w0y6SdVaIUutyFaj2M0XDmXg22NLPSsYlUz1aG0NCvg=";
+    sha256 = "sha256-/R5OLycitnPpQomO3aEKaiiNfOEhfReqF+L1JdqXrFI=";
   };
 
   yarnOfflineCache = fetchYarnDeps {
     yarnLock = "${finalAttrs.src}/yarn.lock";
-    hash = "sha256-UUp56kPe/RErsp3nMEpFDf7/rgrICfvur7CDIxTIFig=";
+    hash = "sha256-5hXSAJr0bi/Q/p2x/NcV1MDBUgxj6Kq1VQCsiqgQS8A=";
   };
 
   nativeBuildInputs = [
