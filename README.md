@@ -31,13 +31,13 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `prowlarr` -> `2.3.2.5245`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `5.2.1-unstable-2026-01-11`
-- `shoko-webui` -> `2.4.1-dev.2-unstable-2026-01-12`
-- `shokofin` -> `6.0.0-unstable-2026-01-13`
+- `shoko` -> `5.2.1-unstable-2026-01-14`
+- `shoko-webui` -> `2.5.0-dev.1-unstable-2026-01-14`
+- `shokofin` -> `6.0.0-dev.2-unstable-2026-01-14`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2026-01-11`
-- `suwayomi-webui` -> `20251230.01-unstable-2026-01-13`
-- `whisparr` -> `3.1.0.2111`
+- `suwayomi-webui` -> `20251230.01-unstable-2026-01-15`
+- `whisparr` -> `3.1.0.2116`
 - `wkeys` -> `0.1.2-unstable-2025-12-17`
 - `writeSystemdToggle`
 - `zigbee2mqtt` -> `2.7.2-unstable-2026-01-01`
