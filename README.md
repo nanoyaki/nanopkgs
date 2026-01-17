@@ -26,7 +26,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `midnight-theme` -> `0-unstable-2026-01-15`
 - `oldlibcosmicAppHook`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2026-01-15`
-- `osu-lazer-bin` -> `2026.112.0-tachyon`
+- `osu-lazer-bin` -> `2026.116.0-tachyon`
 - `prefetch`
 - `prowlarr` -> `2.3.2.5245`
 - `pyon` -> `0.1.0`
