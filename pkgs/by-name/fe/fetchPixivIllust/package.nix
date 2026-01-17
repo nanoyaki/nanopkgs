@@ -83,7 +83,7 @@ stdenvNoCC.mkDerivation {
   installPhase = ''
     runHook preInstall
 
-    mkdir -p $out
+    [[ ''${#pages[@]} > 1 ]] && mkdir -p $out
     cp "${parsedId}"* $out
 
     runHook postInstall
