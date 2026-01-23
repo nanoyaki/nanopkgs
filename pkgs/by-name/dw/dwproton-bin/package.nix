@@ -30,15 +30,16 @@ proton-ge-bin.overrideAttrs (
     passthru.updateScript = writeScript "update-dwproton" ''
       #!/usr/bin/env nix-shell
       #!nix-shell -i bash -p curl jq common-updater-scripts
+      # shellcheck disable=SC1008
       repo="https://dawn.wine/api/v1/repos/dawn-winery/dwproton"
-      version="''${$(
+      version="$(
         curl -X 'GET' \
           "$repo"'/releases?draft=false&pre-release=false&limit=1' \
           -H 'accept: application/json' \
         | jq -r '.[0].tag_name'
-      )##dwproton\-}"
+      )"
 
-      update-source-version dwproton-bin "$version"
+      update-source-version legacyPackages.x86_64-linux.dwproton-bin "''${version##dwproton\-}"
     '';
 
     meta.maintainers = [ lib.maintainers.nanoyaki ];
