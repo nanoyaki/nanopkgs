@@ -13,11 +13,11 @@
 proton-ge-bin.overrideAttrs (
   finalAttrs: _: {
     pname = "dwproton-bin";
-    version = "10.0-14";
+    version = "10.0-15";
 
     src = fetchzip {
       url = "https://dawn.wine/dawn-winery/dwproton/releases/download/dwproton-${finalAttrs.version}/dwproton-${finalAttrs.version}-x86_64.tar.xz";
-      hash = "sha256-5fDo7YUPhp0OwjdAXHfovSuFCgSPwHW0cSZk9E+FY98=";
+      hash = "sha256-Z59F/iLFM4CG7VAmGg74H7dpFhA4QveZgnXrkkUtwTI=";
     };
 
     preFixup = ''
@@ -39,7 +39,7 @@ proton-ge-bin.overrideAttrs (
         | jq -r '.[0].tag_name'
       )"
 
-      update-source-version legacyPackages.x86_64-linux.dwproton-bin "''${version##dwproton\-}"
+      update-source-version dwproton-bin "''${version##dwproton\-}"
     '';
 
     meta.maintainers = [ lib.maintainers.nanoyaki ];
