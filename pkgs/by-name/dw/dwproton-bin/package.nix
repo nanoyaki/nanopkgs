@@ -39,7 +39,7 @@ proton-ge-bin.overrideAttrs (
         | jq -r '.[0].tag_name'
       )"
 
-      nix-update -F dwproton-bin "''${version##dwproton\-}"
+      nix-update -F dwproton-bin --version="''${version##dwproton\-}"
     '';
 
     meta.maintainers = [ lib.maintainers.nanoyaki ];
