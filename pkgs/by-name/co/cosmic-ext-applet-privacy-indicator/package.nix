@@ -17,18 +17,18 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "cosmic-ext-applet-privacy-indicator";
-  version = "0.1.2-unstable-2025-07-03";
+  version = "0.1.3-unstable-2026-01-21";
 
   src = fetchFromGitHub {
     owner = "D-Brox";
     repo = "cosmic-ext-applet-privacy-indicator";
-    rev = "2d3b0efec5a95cf704e414f6e3005641f3aa3666";
-    hash = "sha256-iTdCn5IbOs+g9MeC+EDUGSYxlHTrmhouvL7Y6Y3rK/M=";
+    rev = "f94a5e37c0a3f2f183d7fbddff8e5c6a9b226be0";
+    hash = "sha256-ZswsyMvcD9b3GblNIB9VSHqlabL0hNcSaK2WGZYuqOs=";
   };
 
   cargoDeps = rustPlatform.fetchCargoVendor {
     inherit (finalAttrs) src;
-    hash = "sha256-Tbcjnbjyo+FoYtRe5KnPiEzV+1PkzHOnbVDRe/pJul0=";
+    hash = "sha256-ySjA8nQg9mSnGntcGdNGUSn2o2hMS4WDnq9U611ANF8=";
   };
 
   nativeBuildInputs = [
