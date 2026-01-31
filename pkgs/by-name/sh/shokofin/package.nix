@@ -32,6 +32,7 @@ buildDotnetModule (finalAttrs: {
   nugetDeps = ./deps.json;
   projectFile = "Shokofin/Shokofin.csproj";
   dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
+  dotnetInstallFlags = "-f net9.0";
 
   executables = [ ];
 
