@@ -69,32 +69,7 @@ python312Packages.buildPythonApplication rec {
     '';
   };
 
-  pythonRelaxDeps = [
-    "click"
-    "ffmpeg-python"
-    "Flask"
-    "Flask-Cors"
-    "Flask-Login"
-    "Flask-Migrate"
-    "Flask-SQLAlchemy"
-    "Flask-WTF"
-    "future"
-    "greenlet"
-    "gunicorn"
-    "importlib-metadata"
-    "itsdangerous"
-    "Jinja2"
-    "MarkupSafe"
-    "six"
-    "SQLAlchemy"
-    "Werkzeug"
-    "WTForms"
-    "zipp"
-    "xxhash"
-    "apscheduler"
-    "python-ldap"
-    "requests"
-  ];
+  pythonRelaxDeps = true;
 
   build-system = with python312Packages; [ setuptools ];
 
@@ -126,6 +101,7 @@ python312Packages.buildPythonApplication rec {
       apscheduler
       python-ldap
       requests
+      rapidfuzz
     ])
     ++ [
       ffmpeg
