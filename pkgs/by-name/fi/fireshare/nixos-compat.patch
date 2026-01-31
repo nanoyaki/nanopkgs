@@ -1,16 +1,3 @@
-diff --git a/fireshare/__init__.py b/fireshare/__init__.py
-index 93768f5..4c679d6 100644
---- a/fireshare/__init__.py
-+++ b/fireshare/__init__.py
-@@ -81,7 +81,7 @@ def create_app(init_schedule=False):
-     app.config['LDAP_ADMIN_GROUP'] = os.getenv("LDAP_ADMIN_GROUP")
- 
-     app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{app.config["DATA_DIRECTORY"]}/db.sqlite'
--    app.config['SCHEDULED_JOBS_DATABASE_URI'] = f'sqlite:///jobs.sqlite'
-+    app.config['SCHEDULED_JOBS_DATABASE_URI'] = f'sqlite:///{app.config["DATA_DIRECTORY"]}/jobs.sqlite'
-     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-     app.config['INIT_SCHEDULE'] = init_schedule
-     app.config['MINUTES_BETWEEN_VIDEO_SCANS'] = int(os.getenv('MINUTES_BETWEEN_VIDEO_SCANS', '5'))
 diff --git a/fireshare/auth.py b/fireshare/auth.py
 index 0b010dd..f2ed276 100644
 --- a/fireshare/auth.py
