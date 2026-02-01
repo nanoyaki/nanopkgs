@@ -93,6 +93,8 @@
         program = pkgs.writeShellApplication {
           name = "mod-source";
           runtimeInputs = with pkgs; [
+            nix
+            coreutils
             curl
             jq
           ];
@@ -142,8 +144,21 @@
               )
             '
 
+            jq -r \
+              --arg project "$project" \
+              '
+                if (. | index($project)) != null
+                then .
+                else . += [$project]
+                end
+              ' _modSources/_projects.json \
+              > "_modSources/_projects.json.tmp" \
+              && mv "_modSources/_projects.json.tmp" "_modSources/_projects.json"
+
             curl 'https://api.modrinth.com/v2/project/'"$project"'/version' \
               | jq -r "$jq_query" > "_modSources/$project.json"
+
+            nix fmt
           '';
           inheritPath = false;
         };
