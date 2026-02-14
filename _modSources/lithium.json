@@ -2,9 +2,14 @@
   "quilt": {
     "1_21_11": {
       "latest": {
-        "name": "lithium-fabric-0.21.2+mc1.21.11.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/gl30uZvp/lithium-fabric-0.21.2%2Bmc1.21.11.jar",
-        "sha512": "94625510013e0daaf1c2e2b6d8a463c932ff6220f91ba5b0cd5f868658215f046d94d07b3465660f576c4dc27a5aa183dfbdc1c9303f11894b5b25a1dc6c3bb6"
+        "name": "lithium-fabric-0.21.3+mc1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar",
+        "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
+      },
+      "mc0_21_3": {
+        "name": "lithium-fabric-0.21.3+mc1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar",
+        "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
       },
       "mc0_21_2": {
         "name": "lithium-fabric-0.21.2+mc1.21.11.jar",
@@ -247,9 +252,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "lithium-fabric-0.15.1+mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/E5eJVp4O/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
-        "sha512": "bb0d13b429c3f790b3f8d42312a104eb7f33dadc0b1eb3b037255af2d1b17a3c51db7d9a4cf8552f9410922f03ab030e124cb5c0661d2442e63bef8a1d133136"
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
+      },
+      "mc0_15_2": {
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
       },
       "mc0_15_1": {
         "name": "lithium-fabric-0.15.1+mc1.21.1.jar",
@@ -309,9 +319,14 @@
     },
     "1_21": {
       "latest": {
-        "name": "lithium-fabric-mc1.21-0.13.1.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/M7RXiitG/lithium-fabric-mc1.21-0.13.1.jar",
-        "sha512": "c42a3813398fc9cb99b9b8fdfc9af89fbce3245c1c5d54cd08edc05e519d3c1ee149c00f745a3a0eb216f3d1836ea35b4910f58e6312ea065e17e57422853217"
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
+      },
+      "mc_1-0_15_2": {
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
       },
       "mc0_13_1": {
         "name": "lithium-fabric-mc1.21-0.13.1.jar",
@@ -435,9 +450,14 @@
   "neoforge": {
     "1_21_11": {
       "latest": {
-        "name": "lithium-neoforge-0.21.2+mc1.21.11.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/D3MEJqPt/lithium-neoforge-0.21.2%2Bmc1.21.11.jar",
-        "sha512": "c4fb43178bf9e6ebeaf7137d08a0a88829b76cf9d0a97c2626ecf94009849459ae4d0cb119f660f39e72033df8a202a21a4270a61adce5266c1700a5c3ec559b"
+        "name": "lithium-neoforge-0.21.3+mc1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZsWAHkOs/lithium-neoforge-0.21.3%2Bmc1.21.11.jar",
+        "sha512": "ff9b7ae82a26ea1535e253a92add7a9cdb41499d3e5162409597280cf9d0eed8d5c06deaf5dd4771bdc2a9a2679a02996d18685443db047563f833274f9523af"
+      },
+      "mc0_21_3": {
+        "name": "lithium-neoforge-0.21.3+mc1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZsWAHkOs/lithium-neoforge-0.21.3%2Bmc1.21.11.jar",
+        "sha512": "ff9b7ae82a26ea1535e253a92add7a9cdb41499d3e5162409597280cf9d0eed8d5c06deaf5dd4771bdc2a9a2679a02996d18685443db047563f833274f9523af"
       },
       "mc0_21_2": {
         "name": "lithium-neoforge-0.21.2+mc1.21.11.jar",
@@ -695,9 +715,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "lithium-neoforge-0.15.1+mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/G5SDYehn/lithium-neoforge-0.15.1%2Bmc1.21.1.jar",
-        "sha512": "1975e74294798fe173d944d3e0b174b39dc8b7fa177340acb71c8a85772932b82c9406099c854d45fa4f71b80dbbb73602fd7cc36d1374dfc8402e4a30ccfe3b"
+        "name": "lithium-neoforge-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OLpCvF3o/lithium-neoforge-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "86ed9b0d2d267f6dab87e49e0757341fccc8c3efe3b734a496d2b72eee06e903c0f4a6852ec14e30b69bf65885975d2d838f1add73d222c60a22c93f25a0cfb0"
+      },
+      "mc0_15_2": {
+        "name": "lithium-neoforge-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OLpCvF3o/lithium-neoforge-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "86ed9b0d2d267f6dab87e49e0757341fccc8c3efe3b734a496d2b72eee06e903c0f4a6852ec14e30b69bf65885975d2d838f1add73d222c60a22c93f25a0cfb0"
       },
       "mc0_15_1": {
         "name": "lithium-neoforge-0.15.1+mc1.21.1.jar",
@@ -744,14 +769,31 @@
         "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/BrMIoIMv/lithium-neoforge-0.14.0-snapshot%2Bmc1.21.1-build.88.jar",
         "sha512": "773c7f7c34e05086c34acbcf7e5f3aede8c7e53cbf6198882a8025eb48ac45c559af8b518de0be69607460d03c0e1981cc58801201fb4a2c77367b3170b59d87"
       }
+    },
+    "1_21": {
+      "latest": {
+        "name": "lithium-neoforge-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OLpCvF3o/lithium-neoforge-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "86ed9b0d2d267f6dab87e49e0757341fccc8c3efe3b734a496d2b72eee06e903c0f4a6852ec14e30b69bf65885975d2d838f1add73d222c60a22c93f25a0cfb0"
+      },
+      "mc_1-0_15_2": {
+        "name": "lithium-neoforge-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OLpCvF3o/lithium-neoforge-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "86ed9b0d2d267f6dab87e49e0757341fccc8c3efe3b734a496d2b72eee06e903c0f4a6852ec14e30b69bf65885975d2d838f1add73d222c60a22c93f25a0cfb0"
+      }
     }
   },
   "fabric": {
     "1_21_11": {
       "latest": {
-        "name": "lithium-fabric-0.21.2+mc1.21.11.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/gl30uZvp/lithium-fabric-0.21.2%2Bmc1.21.11.jar",
-        "sha512": "94625510013e0daaf1c2e2b6d8a463c932ff6220f91ba5b0cd5f868658215f046d94d07b3465660f576c4dc27a5aa183dfbdc1c9303f11894b5b25a1dc6c3bb6"
+        "name": "lithium-fabric-0.21.3+mc1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar",
+        "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
+      },
+      "mc0_21_3": {
+        "name": "lithium-fabric-0.21.3+mc1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar",
+        "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
       },
       "mc0_21_2": {
         "name": "lithium-fabric-0.21.2+mc1.21.11.jar",
@@ -994,9 +1036,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "lithium-fabric-0.15.1+mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/E5eJVp4O/lithium-fabric-0.15.1%2Bmc1.21.1.jar",
-        "sha512": "bb0d13b429c3f790b3f8d42312a104eb7f33dadc0b1eb3b037255af2d1b17a3c51db7d9a4cf8552f9410922f03ab030e124cb5c0661d2442e63bef8a1d133136"
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
+      },
+      "mc0_15_2": {
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
       },
       "mc0_15_1": {
         "name": "lithium-fabric-0.15.1+mc1.21.1.jar",
@@ -1056,9 +1103,14 @@
     },
     "1_21": {
       "latest": {
-        "name": "lithium-fabric-mc1.21-0.13.1.jar",
-        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/M7RXiitG/lithium-fabric-mc1.21-0.13.1.jar",
-        "sha512": "c42a3813398fc9cb99b9b8fdfc9af89fbce3245c1c5d54cd08edc05e519d3c1ee149c00f745a3a0eb216f3d1836ea35b4910f58e6312ea065e17e57422853217"
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
+      },
+      "mc_1-0_15_2": {
+        "name": "lithium-fabric-0.15.2+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Yu6L8EnD/lithium-fabric-0.15.2%2Bmc1.21.1.jar",
+        "sha512": "0422a6694c997aa91ce01fa038bd5d46d7d8d64f0a5abae7420e5a2a10fdcd1e6cf9033f1d95b402a9ba0f07c8c7cf5cfcd3e50ae7c4fe2ac82f39a58583012e"
       },
       "mc0_13_1": {
         "name": "lithium-fabric-mc1.21-0.13.1.jar",
