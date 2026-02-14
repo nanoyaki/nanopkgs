@@ -16,21 +16,21 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "clipboard-manager";
-  version = "0.1.0-unstable-2026-01-29";
+  version = "0.1.0-unstable-2026-02-11";
 
   src = fetchgit {
     url = "https://github.com/cosmic-utils/clipboard-manager.git";
-    rev = "7cc5868882718a2994418f94b1330f20eae5c8e5";
+    rev = "9e0309b19eac7eb9124318f72d0cc2c0b3617d71";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-aciPTGN4yN4xmOB/9/MF+nhiF3JGYF7h4fsFHzL7Fws=";
+    sha256 = "sha256-VsUQNdXSU6QMYz7NSIOuFI4ecVUza1t7SydaIdhfYhA=";
   };
 
   cargoDeps = rustPlatform.fetchCargoVendor {
     inherit (finalAttrs) src;
-    hash = "sha256-DmxrlYhxC1gh5ZoPwYqJcAPu70gzivFaZQ7hVMwz3aY=";
+    hash = "sha256-0CziruLYJrku1FO7tBSJRNtS5JyhjDWxTEcOwUVYmSk=";
   };
 
   postPatch = ''
