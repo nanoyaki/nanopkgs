@@ -35,7 +35,7 @@
               packageUpdates =
                 concatMapStrings
                   (pkg: ''
-                    nix-update -uF ${pkg} --system x86_64-linux
+                    nix-update -uF ${pkg} --system x86_64-linux --commit
                   '')
                   (
                     attrNames (
@@ -49,7 +49,9 @@
               git stash
 
               nix flake update
+              set +e
               ${packageUpdates}
+              set -e
               nix run .#update-mods
 
               nix fmt
