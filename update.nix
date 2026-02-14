@@ -35,7 +35,7 @@
               packageUpdates =
                 concatMapStrings
                   (pkg: ''
-                    nix-update -uF ${pkg} --system x86_64-linux --commit
+                    nix-update -uF ${pkg} --system x86_64-linux --commit || echo "Failed to update ${pkg}" >> failures
                   '')
                   (
                     attrNames (
