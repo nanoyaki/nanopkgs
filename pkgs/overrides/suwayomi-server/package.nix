@@ -29,17 +29,17 @@
 let
   self = stdenvNoCC.mkDerivation (finalAttrs: {
     pname = "suwayomi-server";
-    version = "2.1.1867-unstable-2026-02-08";
-    revision = "2065";
+    version = "2.1.1867-unstable-2026-02-14";
+    revision = "2072";
 
     src = fetchgit {
       url = "https://github.com/Suwayomi/Suwayomi-Server.git";
-      rev = "44d89506d49fb89f68061eec7f88a773046b8d96";
+      rev = "f18e0f4a62dad6996c17931c157324d39e7db3c1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
       sparseCheckout = [ ];
-      sha256 = "sha256-Ubg3+BQRwMkJalSfuFaKwK4JKhosnkt2vZ/jpJJ04yg=";
+      sha256 = "sha256-Fc1BGku7cxgMU2z9RRcxfZUWZPXkDDxlATnPhxnz6HQ=";
     };
 
     patches = [
