@@ -1,0 +1,712 @@
+{
+  "quilt": {
+    "1_20_2": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_5-mc1_20_1": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_4-hotfix+mc1_20_1": {
+        "name": "bellsandwhistles-0.4.4-hotfix+1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/qZxVwvcx/bellsandwhistles-0.4.4-hotfix%2B1.20.1-fabric.jar",
+        "sha512": "7525d39710384b79d853cfe0d185a491776cc4e6ce3973d0d1439fe5f5c3008c1016e0c1a5d9af781de727c739a26bc5303ec83d6c4e2803c3eebd970ea38a19"
+      },
+      "0_4_4-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/u5lJsgAe/bellsandwhistles-0.4.4.jar",
+        "sha512": "8eb0d576cae07d1a6edf03d2f18410b1441c0bb4c733302283c1fb5b100543280ab19f2405f08f26d27166fc40bb0668134cccad4b7b87724550b1240fbc8795"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_5-mc": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_4-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/u5lJsgAe/bellsandwhistles-0.4.4.jar",
+        "sha512": "8eb0d576cae07d1a6edf03d2f18410b1441c0bb4c733302283c1fb5b100543280ab19f2405f08f26d27166fc40bb0668134cccad4b7b87724550b1240fbc8795"
+      },
+      "0_4_4-hotfix+mc": {
+        "name": "bellsandwhistles-0.4.4-hotfix+1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/qZxVwvcx/bellsandwhistles-0.4.4-hotfix%2B1.20.1-fabric.jar",
+        "sha512": "7525d39710384b79d853cfe0d185a491776cc4e6ce3973d0d1439fe5f5c3008c1016e0c1a5d9af781de727c739a26bc5303ec83d6c4e2803c3eebd970ea38a19"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_5-mc_1": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_4-mc_x": {
+        "name": "bellsandwhistles-0.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/u5lJsgAe/bellsandwhistles-0.4.4.jar",
+        "sha512": "8eb0d576cae07d1a6edf03d2f18410b1441c0bb4c733302283c1fb5b100543280ab19f2405f08f26d27166fc40bb0668134cccad4b7b87724550b1240fbc8795"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.4+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/aP2tFPwc/bellsandwhistles-0.4.4%2B1.19.2-12.jar",
+        "sha512": "8766cdc896fb4774d88a823e1a5d900b9e3fc211770071567f5fc4df318def2acebaec79132c730a2d16bff0898391c141dcb6068eebf1bec442762563cab983"
+      },
+      "0_4_4-mc": {
+        "name": "bellsandwhistles-0.4.4+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/aP2tFPwc/bellsandwhistles-0.4.4%2B1.19.2-12.jar",
+        "sha512": "8766cdc896fb4774d88a823e1a5d900b9e3fc211770071567f5fc4df318def2acebaec79132c730a2d16bff0898391c141dcb6068eebf1bec442762563cab983"
+      },
+      "0_4_2-mc": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_1-mc": {
+        "name": "bellsandwhistles-0.4.1+1.19.2-5.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/9KPnoeeH/bellsandwhistles-0.4.1%2B1.19.2-5.jar",
+        "sha512": "06b5daafcf58511191138bd34f836d44d91bea3e276c9c4df1fb5f3555d18859067649ae28e18888575a7773ab41235d8e88f284e63e156c0193e1a63a4e30ad"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_2-mc1_19_2": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_1-mc1_19_2": {
+        "name": "bellsandwhistles-0.4.1+1.19.2-5.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/9KPnoeeH/bellsandwhistles-0.4.1%2B1.19.2-5.jar",
+        "sha512": "06b5daafcf58511191138bd34f836d44d91bea3e276c9c4df1fb5f3555d18859067649ae28e18888575a7773ab41235d8e88f284e63e156c0193e1a63a4e30ad"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_2-mc_2": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_1-mc_2": {
+        "name": "bellsandwhistles-0.4.1+1.19.2-5.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/9KPnoeeH/bellsandwhistles-0.4.1%2B1.19.2-5.jar",
+        "sha512": "06b5daafcf58511191138bd34f836d44d91bea3e276c9c4df1fb5f3555d18859067649ae28e18888575a7773ab41235d8e88f284e63e156c0193e1a63a4e30ad"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.7-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
+        "sha512": "482ee096477b89ed8ec5ce008a4a8ac0ae853079a4f5ce16ad0e0dd9b2eb12b3326f17acaaca1eae0bc51ad238f4e51c8d5b93ded71fe7240717ac8600041c59"
+      },
+      "0_4_7": {
+        "name": "bellsandwhistles-0.4.7-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
+        "sha512": "482ee096477b89ed8ec5ce008a4a8ac0ae853079a4f5ce16ad0e0dd9b2eb12b3326f17acaaca1eae0bc51ad238f4e51c8d5b93ded71fe7240717ac8600041c59"
+      },
+      "0_4_6-mc": {
+        "name": "bellsandwhistles-0.4.6-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/lJSs0H26/bellsandwhistles-0.4.6-1.21.1.jar",
+        "sha512": "5dc19a912ba2f751670bc4f22028593a3c4224f6e385da5b97be10f8c38c6006fd2a046ee2bb46a747aa25c3121378537ebfb41e46a5030be8e8e905fcb100a5"
+      },
+      "0_4_5": {
+        "name": "bellsandwhistles-0.4.5-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/VIF3aQsw/bellsandwhistles-0.4.5-1.21.1.jar",
+        "sha512": "0b236c464020a56c9688265618c8b159fcbdaf46a68d2a5bdf2e02fa7475435cf488bbcfccb4d96c7f47dde9611519872b78cc4e26fe117c844b5354e8070fc0"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4_3-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4-1_20_x": {
+        "name": "bellsandwhistles-0.4-1.20.X.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/HriQgpzB/bellsandwhistles-0.4-1.20.X.jar",
+        "sha512": "cf9d66625513bf158c626e8fbc6c7a533684981c1a900565f9a1e77efd92bde57e62451351142bfc5c2f343e9a59998112e75803cbe471014555c88cc0526dca"
+      },
+      "0_4_1-1_20_x": {
+        "name": "bellsandwhistles-0.4.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/FFtk4Enh/bellsandwhistles-0.4.1-1.20.x.jar",
+        "sha512": "ccd0ec09c0defb4ce4520e36169f1631112973d66ae199011113f1fbe4eed78f8c9b0c9ea24e2d34805c56078d241d73cec863a1d3165d8f494ad70e47d85207"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
+        "sha512": "99fc8e509ff2ed5a3c521e17bb04e574f6cf5d1abc9adb170dd5d311b9cdc762f75bd133b63e1fd56e00fe030674cf87ee1760187fed1c3d30dae429ee00861c"
+      },
+      "0_4_5-1_20_x": {
+        "name": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
+        "sha512": "99fc8e509ff2ed5a3c521e17bb04e574f6cf5d1abc9adb170dd5d311b9cdc762f75bd133b63e1fd56e00fe030674cf87ee1760187fed1c3d30dae429ee00861c"
+      },
+      "0_4_3-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4-1_20_x": {
+        "name": "bellsandwhistles-0.4-1.20.X.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/HriQgpzB/bellsandwhistles-0.4-1.20.X.jar",
+        "sha512": "cf9d66625513bf158c626e8fbc6c7a533684981c1a900565f9a1e77efd92bde57e62451351142bfc5c2f343e9a59998112e75803cbe471014555c88cc0526dca"
+      },
+      "0_4_1-1_20_x": {
+        "name": "bellsandwhistles-0.4.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/FFtk4Enh/bellsandwhistles-0.4.1-1.20.x.jar",
+        "sha512": "ccd0ec09c0defb4ce4520e36169f1631112973d66ae199011113f1fbe4eed78f8c9b0c9ea24e2d34805c56078d241d73cec863a1d3165d8f494ad70e47d85207"
+      },
+      "0_1": {
+        "name": "bellsandwhistles-0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ECYKSqg4/bellsandwhistles-0.1-1.20.1.jar",
+        "sha512": "3b559426b7d57b5029f3fbeeac2ebafeeea36c7fe2431f0d6ef50a74a7d452dea9362b9f0ed08815ced8ee4e2b1f9b1af4fb1f1a8d8213c7dea66b3759ab30e9"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4_3-mc_x": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4_1_x": {
+        "name": "bellsandwhistles-0.4.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/FFtk4Enh/bellsandwhistles-0.4.1-1.20.x.jar",
+        "sha512": "ccd0ec09c0defb4ce4520e36169f1631112973d66ae199011113f1fbe4eed78f8c9b0c9ea24e2d34805c56078d241d73cec863a1d3165d8f494ad70e47d85207"
+      },
+      "0_4_x": {
+        "name": "bellsandwhistles-0.4-1.20.X.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/HriQgpzB/bellsandwhistles-0.4-1.20.X.jar",
+        "sha512": "cf9d66625513bf158c626e8fbc6c7a533684981c1a900565f9a1e77efd92bde57e62451351142bfc5c2f343e9a59998112e75803cbe471014555c88cc0526dca"
+      },
+      "0_1_1": {
+        "name": "bellsandwhistles-0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ECYKSqg4/bellsandwhistles-0.1-1.20.1.jar",
+        "sha512": "3b559426b7d57b5029f3fbeeac2ebafeeea36c7fe2431f0d6ef50a74a7d452dea9362b9f0ed08815ced8ee4e2b1f9b1af4fb1f1a8d8213c7dea66b3759ab30e9"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4_1-1_19_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4": {
+        "name": "bellsandwhistles-v0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/o5emOzDi/bellsandwhistles-v0.4.jar",
+        "sha512": "506f23d78f6211f6b6a466108edad165ee2928b22bc9929ce48e5acfb4dd0d4491050474a36ba86622f9b45510f18bd469f3878355c97ce8c9693d3ec335ce94"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4_1-1_19_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4": {
+        "name": "bellsandwhistles-v0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/o5emOzDi/bellsandwhistles-v0.4.jar",
+        "sha512": "506f23d78f6211f6b6a466108edad165ee2928b22bc9929ce48e5acfb4dd0d4491050474a36ba86622f9b45510f18bd469f3878355c97ce8c9693d3ec335ce94"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4_1": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4": {
+        "name": "bellsandwhistles-v0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/o5emOzDi/bellsandwhistles-v0.4.jar",
+        "sha512": "506f23d78f6211f6b6a466108edad165ee2928b22bc9929ce48e5acfb4dd0d4491050474a36ba86622f9b45510f18bd469f3878355c97ce8c9693d3ec335ce94"
+      },
+      "0_3": {
+        "name": "bellsandwhistles-v0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/BD6e90jQ/bellsandwhistles-v0.3.jar",
+        "sha512": "7e2648c32ec503627da9d3aa6bd517e5af0562704877877e900c80ab29fd8b7ae84ffe6e25b866fae01eda216a3d2f214ad8a9cef3918d6943769082cfe116a9"
+      },
+      "0_2": {
+        "name": "bellsandwhistles-v0.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/yMmjEyNB/bellsandwhistles-v0.2.jar",
+        "sha512": "2d8bdf1502706b874dc30d6c324fb039f7bfffeb672410cfe941929bca00973ffeafd861fafd9d32c390b49f9a1c91d081349b4b4219daca54c30b37bcab0bcb"
+      },
+      "0_2-hotfix": {
+        "name": "bellsandwhistles-v0.2-hotfix.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ndnQ6thV/bellsandwhistles-v0.2-hotfix.jar",
+        "sha512": "3c072d309b611297de0f4259d509fc6dadf65fd9c6e88bd48ce4b4d567b2b332d0b431f10fe10c3817d4f78cc9ec412dbc4e7e7325f03897dd363bcd3e9a14d8"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4_1-1_19_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_3": {
+        "name": "bellsandwhistles-v0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/BD6e90jQ/bellsandwhistles-v0.3.jar",
+        "sha512": "7e2648c32ec503627da9d3aa6bd517e5af0562704877877e900c80ab29fd8b7ae84ffe6e25b866fae01eda216a3d2f214ad8a9cef3918d6943769082cfe116a9"
+      },
+      "0_2": {
+        "name": "bellsandwhistles-v0.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/yMmjEyNB/bellsandwhistles-v0.2.jar",
+        "sha512": "2d8bdf1502706b874dc30d6c324fb039f7bfffeb672410cfe941929bca00973ffeafd861fafd9d32c390b49f9a1c91d081349b4b4219daca54c30b37bcab0bcb"
+      },
+      "0_2-hotfix": {
+        "name": "bellsandwhistles-v0.2-hotfix.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ndnQ6thV/bellsandwhistles-v0.2-hotfix.jar",
+        "sha512": "3c072d309b611297de0f4259d509fc6dadf65fd9c6e88bd48ce4b4d567b2b332d0b431f10fe10c3817d4f78cc9ec412dbc4e7e7325f03897dd363bcd3e9a14d8"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4_1_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_3": {
+        "name": "bellsandwhistles-v0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/BD6e90jQ/bellsandwhistles-v0.3.jar",
+        "sha512": "7e2648c32ec503627da9d3aa6bd517e5af0562704877877e900c80ab29fd8b7ae84ffe6e25b866fae01eda216a3d2f214ad8a9cef3918d6943769082cfe116a9"
+      },
+      "0_2": {
+        "name": "bellsandwhistles-v0.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/yMmjEyNB/bellsandwhistles-v0.2.jar",
+        "sha512": "2d8bdf1502706b874dc30d6c324fb039f7bfffeb672410cfe941929bca00973ffeafd861fafd9d32c390b49f9a1c91d081349b4b4219daca54c30b37bcab0bcb"
+      },
+      "0_2-hotfix": {
+        "name": "bellsandwhistles-v0.2-hotfix.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ndnQ6thV/bellsandwhistles-v0.2-hotfix.jar",
+        "sha512": "3c072d309b611297de0f4259d509fc6dadf65fd9c6e88bd48ce4b4d567b2b332d0b431f10fe10c3817d4f78cc9ec412dbc4e7e7325f03897dd363bcd3e9a14d8"
+      }
+    }
+  },
+  "forge": {
+    "1_21_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/VIF3aQsw/bellsandwhistles-0.4.5-1.21.1.jar",
+        "sha512": "0b236c464020a56c9688265618c8b159fcbdaf46a68d2a5bdf2e02fa7475435cf488bbcfccb4d96c7f47dde9611519872b78cc4e26fe117c844b5354e8070fc0"
+      },
+      "0_4_5": {
+        "name": "bellsandwhistles-0.4.5-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/VIF3aQsw/bellsandwhistles-0.4.5-1.21.1.jar",
+        "sha512": "0b236c464020a56c9688265618c8b159fcbdaf46a68d2a5bdf2e02fa7475435cf488bbcfccb4d96c7f47dde9611519872b78cc4e26fe117c844b5354e8070fc0"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4_3-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4-1_20_x": {
+        "name": "bellsandwhistles-0.4-1.20.X.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/HriQgpzB/bellsandwhistles-0.4-1.20.X.jar",
+        "sha512": "cf9d66625513bf158c626e8fbc6c7a533684981c1a900565f9a1e77efd92bde57e62451351142bfc5c2f343e9a59998112e75803cbe471014555c88cc0526dca"
+      },
+      "0_4_1-1_20_x": {
+        "name": "bellsandwhistles-0.4.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/FFtk4Enh/bellsandwhistles-0.4.1-1.20.x.jar",
+        "sha512": "ccd0ec09c0defb4ce4520e36169f1631112973d66ae199011113f1fbe4eed78f8c9b0c9ea24e2d34805c56078d241d73cec863a1d3165d8f494ad70e47d85207"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
+        "sha512": "99fc8e509ff2ed5a3c521e17bb04e574f6cf5d1abc9adb170dd5d311b9cdc762f75bd133b63e1fd56e00fe030674cf87ee1760187fed1c3d30dae429ee00861c"
+      },
+      "0_4_5-1_20_x": {
+        "name": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
+        "sha512": "99fc8e509ff2ed5a3c521e17bb04e574f6cf5d1abc9adb170dd5d311b9cdc762f75bd133b63e1fd56e00fe030674cf87ee1760187fed1c3d30dae429ee00861c"
+      },
+      "0_4_3-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4-1_20_x": {
+        "name": "bellsandwhistles-0.4-1.20.X.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/HriQgpzB/bellsandwhistles-0.4-1.20.X.jar",
+        "sha512": "cf9d66625513bf158c626e8fbc6c7a533684981c1a900565f9a1e77efd92bde57e62451351142bfc5c2f343e9a59998112e75803cbe471014555c88cc0526dca"
+      },
+      "0_4_1-1_20_x": {
+        "name": "bellsandwhistles-0.4.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/FFtk4Enh/bellsandwhistles-0.4.1-1.20.x.jar",
+        "sha512": "ccd0ec09c0defb4ce4520e36169f1631112973d66ae199011113f1fbe4eed78f8c9b0c9ea24e2d34805c56078d241d73cec863a1d3165d8f494ad70e47d85207"
+      },
+      "0_1": {
+        "name": "bellsandwhistles-0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ECYKSqg4/bellsandwhistles-0.1-1.20.1.jar",
+        "sha512": "3b559426b7d57b5029f3fbeeac2ebafeeea36c7fe2431f0d6ef50a74a7d452dea9362b9f0ed08815ced8ee4e2b1f9b1af4fb1f1a8d8213c7dea66b3759ab30e9"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4_3-mc_x": {
+        "name": "bellsandwhistles-0.4.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar",
+        "sha512": "8b78879a2d2a4b450892a97701dd594b78002006072d38c7a2d67e58e32fd5af1de831c71d826365c976903fc8208c4f61b17d9b1d703107a995a1ae190b65ab"
+      },
+      "0_4_1_x": {
+        "name": "bellsandwhistles-0.4.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/FFtk4Enh/bellsandwhistles-0.4.1-1.20.x.jar",
+        "sha512": "ccd0ec09c0defb4ce4520e36169f1631112973d66ae199011113f1fbe4eed78f8c9b0c9ea24e2d34805c56078d241d73cec863a1d3165d8f494ad70e47d85207"
+      },
+      "0_4_x": {
+        "name": "bellsandwhistles-0.4-1.20.X.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/HriQgpzB/bellsandwhistles-0.4-1.20.X.jar",
+        "sha512": "cf9d66625513bf158c626e8fbc6c7a533684981c1a900565f9a1e77efd92bde57e62451351142bfc5c2f343e9a59998112e75803cbe471014555c88cc0526dca"
+      },
+      "0_1_1": {
+        "name": "bellsandwhistles-0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ECYKSqg4/bellsandwhistles-0.1-1.20.1.jar",
+        "sha512": "3b559426b7d57b5029f3fbeeac2ebafeeea36c7fe2431f0d6ef50a74a7d452dea9362b9f0ed08815ced8ee4e2b1f9b1af4fb1f1a8d8213c7dea66b3759ab30e9"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/S4AoKm70/bellsandwhistles-v0.4.3-1.19.2.jar",
+        "sha512": "dbed188b39d66e8bf7bd2470895c9cceb0eb0b051b3d68e2ed801029bebe4eb17d3369d2c428b8ddb98af392ebe3e7bc4fd5ceb33cf69bba624cd7e86a3522d7"
+      },
+      "0_4_3-mc1_19_2": {
+        "name": "bellsandwhistles-v0.4.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/S4AoKm70/bellsandwhistles-v0.4.3-1.19.2.jar",
+        "sha512": "dbed188b39d66e8bf7bd2470895c9cceb0eb0b051b3d68e2ed801029bebe4eb17d3369d2c428b8ddb98af392ebe3e7bc4fd5ceb33cf69bba624cd7e86a3522d7"
+      },
+      "0_4_1-1_19_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4": {
+        "name": "bellsandwhistles-v0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/o5emOzDi/bellsandwhistles-v0.4.jar",
+        "sha512": "506f23d78f6211f6b6a466108edad165ee2928b22bc9929ce48e5acfb4dd0d4491050474a36ba86622f9b45510f18bd469f3878355c97ce8c9693d3ec335ce94"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/S4AoKm70/bellsandwhistles-v0.4.3-1.19.2.jar",
+        "sha512": "dbed188b39d66e8bf7bd2470895c9cceb0eb0b051b3d68e2ed801029bebe4eb17d3369d2c428b8ddb98af392ebe3e7bc4fd5ceb33cf69bba624cd7e86a3522d7"
+      },
+      "0_4_3-mc1_19_2": {
+        "name": "bellsandwhistles-v0.4.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/S4AoKm70/bellsandwhistles-v0.4.3-1.19.2.jar",
+        "sha512": "dbed188b39d66e8bf7bd2470895c9cceb0eb0b051b3d68e2ed801029bebe4eb17d3369d2c428b8ddb98af392ebe3e7bc4fd5ceb33cf69bba624cd7e86a3522d7"
+      },
+      "0_4_1-1_19_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4": {
+        "name": "bellsandwhistles-v0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/o5emOzDi/bellsandwhistles-v0.4.jar",
+        "sha512": "506f23d78f6211f6b6a466108edad165ee2928b22bc9929ce48e5acfb4dd0d4491050474a36ba86622f9b45510f18bd469f3878355c97ce8c9693d3ec335ce94"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zgdMDJ9K/bellsandwhistles-v0.4.4-1.19.2.jar",
+        "sha512": "fb6c8e0307115144dbd2ce95c09a9c0ecdb042292ac9699eb22fb112b3530a9eeadc50a3bb1a472fabe2c0a5f65d272d65a24f136f0108c5d02f65e890f5b0d5"
+      },
+      "0_4_4": {
+        "name": "bellsandwhistles-v0.4.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zgdMDJ9K/bellsandwhistles-v0.4.4-1.19.2.jar",
+        "sha512": "fb6c8e0307115144dbd2ce95c09a9c0ecdb042292ac9699eb22fb112b3530a9eeadc50a3bb1a472fabe2c0a5f65d272d65a24f136f0108c5d02f65e890f5b0d5"
+      },
+      "0_4_3-mc": {
+        "name": "bellsandwhistles-v0.4.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/S4AoKm70/bellsandwhistles-v0.4.3-1.19.2.jar",
+        "sha512": "dbed188b39d66e8bf7bd2470895c9cceb0eb0b051b3d68e2ed801029bebe4eb17d3369d2c428b8ddb98af392ebe3e7bc4fd5ceb33cf69bba624cd7e86a3522d7"
+      },
+      "0_4_1": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4": {
+        "name": "bellsandwhistles-v0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/o5emOzDi/bellsandwhistles-v0.4.jar",
+        "sha512": "506f23d78f6211f6b6a466108edad165ee2928b22bc9929ce48e5acfb4dd0d4491050474a36ba86622f9b45510f18bd469f3878355c97ce8c9693d3ec335ce94"
+      },
+      "0_3": {
+        "name": "bellsandwhistles-v0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/BD6e90jQ/bellsandwhistles-v0.3.jar",
+        "sha512": "7e2648c32ec503627da9d3aa6bd517e5af0562704877877e900c80ab29fd8b7ae84ffe6e25b866fae01eda216a3d2f214ad8a9cef3918d6943769082cfe116a9"
+      },
+      "0_2": {
+        "name": "bellsandwhistles-v0.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/yMmjEyNB/bellsandwhistles-v0.2.jar",
+        "sha512": "2d8bdf1502706b874dc30d6c324fb039f7bfffeb672410cfe941929bca00973ffeafd861fafd9d32c390b49f9a1c91d081349b4b4219daca54c30b37bcab0bcb"
+      },
+      "0_2-hotfix": {
+        "name": "bellsandwhistles-v0.2-hotfix.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ndnQ6thV/bellsandwhistles-v0.2-hotfix.jar",
+        "sha512": "3c072d309b611297de0f4259d509fc6dadf65fd9c6e88bd48ce4b4d567b2b332d0b431f10fe10c3817d4f78cc9ec412dbc4e7e7325f03897dd363bcd3e9a14d8"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4_1-1_19_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_3": {
+        "name": "bellsandwhistles-v0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/BD6e90jQ/bellsandwhistles-v0.3.jar",
+        "sha512": "7e2648c32ec503627da9d3aa6bd517e5af0562704877877e900c80ab29fd8b7ae84ffe6e25b866fae01eda216a3d2f214ad8a9cef3918d6943769082cfe116a9"
+      },
+      "0_2": {
+        "name": "bellsandwhistles-v0.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/yMmjEyNB/bellsandwhistles-v0.2.jar",
+        "sha512": "2d8bdf1502706b874dc30d6c324fb039f7bfffeb672410cfe941929bca00973ffeafd861fafd9d32c390b49f9a1c91d081349b4b4219daca54c30b37bcab0bcb"
+      },
+      "0_2-hotfix": {
+        "name": "bellsandwhistles-v0.2-hotfix.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ndnQ6thV/bellsandwhistles-v0.2-hotfix.jar",
+        "sha512": "3c072d309b611297de0f4259d509fc6dadf65fd9c6e88bd48ce4b4d567b2b332d0b431f10fe10c3817d4f78cc9ec412dbc4e7e7325f03897dd363bcd3e9a14d8"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_4_1_2": {
+        "name": "bellsandwhistles-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/rA4pGO1R/bellsandwhistles-v0.4.1-1.19.2.jar",
+        "sha512": "6e6e97bd3dcfdea0f021d2e9bfc69ed0035725db02f0dd36ed0e79acc17cde81d1648c02d3bfd47ef14c26b64e7bb28cdb3ecc46815562323130183b2c8197c8"
+      },
+      "0_3": {
+        "name": "bellsandwhistles-v0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/BD6e90jQ/bellsandwhistles-v0.3.jar",
+        "sha512": "7e2648c32ec503627da9d3aa6bd517e5af0562704877877e900c80ab29fd8b7ae84ffe6e25b866fae01eda216a3d2f214ad8a9cef3918d6943769082cfe116a9"
+      },
+      "0_2": {
+        "name": "bellsandwhistles-v0.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/yMmjEyNB/bellsandwhistles-v0.2.jar",
+        "sha512": "2d8bdf1502706b874dc30d6c324fb039f7bfffeb672410cfe941929bca00973ffeafd861fafd9d32c390b49f9a1c91d081349b4b4219daca54c30b37bcab0bcb"
+      },
+      "0_2-hotfix": {
+        "name": "bellsandwhistles-v0.2-hotfix.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/ndnQ6thV/bellsandwhistles-v0.2-hotfix.jar",
+        "sha512": "3c072d309b611297de0f4259d509fc6dadf65fd9c6e88bd48ce4b4d567b2b332d0b431f10fe10c3817d4f78cc9ec412dbc4e7e7325f03897dd363bcd3e9a14d8"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "bellsandwhistles-v0.4.1-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/eUPBuLLJ/bellsandwhistles-v0.4.1-mc1.18.2.jar",
+        "sha512": "87c0447ad9608765288a3130c38c39e541379b909b3506937247eaad7e00731cf4e3ba70a64f1a77ba808c415007df22f6fe510528290d93c4025abbd8442c92"
+      },
+      "0_4_1-mc_": {
+        "name": "bellsandwhistles-v0.4.1-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/eUPBuLLJ/bellsandwhistles-v0.4.1-mc1.18.2.jar",
+        "sha512": "87c0447ad9608765288a3130c38c39e541379b909b3506937247eaad7e00731cf4e3ba70a64f1a77ba808c415007df22f6fe510528290d93c4025abbd8442c92"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_2": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_5-mc1_20_1": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_4-hotfix+mc1_20_1": {
+        "name": "bellsandwhistles-0.4.4-hotfix+1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/qZxVwvcx/bellsandwhistles-0.4.4-hotfix%2B1.20.1-fabric.jar",
+        "sha512": "7525d39710384b79d853cfe0d185a491776cc4e6ce3973d0d1439fe5f5c3008c1016e0c1a5d9af781de727c739a26bc5303ec83d6c4e2803c3eebd970ea38a19"
+      },
+      "0_4_4-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/u5lJsgAe/bellsandwhistles-0.4.4.jar",
+        "sha512": "8eb0d576cae07d1a6edf03d2f18410b1441c0bb4c733302283c1fb5b100543280ab19f2405f08f26d27166fc40bb0668134cccad4b7b87724550b1240fbc8795"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_5-mc": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_4-mc1_20_x": {
+        "name": "bellsandwhistles-0.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/u5lJsgAe/bellsandwhistles-0.4.4.jar",
+        "sha512": "8eb0d576cae07d1a6edf03d2f18410b1441c0bb4c733302283c1fb5b100543280ab19f2405f08f26d27166fc40bb0668134cccad4b7b87724550b1240fbc8795"
+      },
+      "0_4_4-hotfix+mc": {
+        "name": "bellsandwhistles-0.4.4-hotfix+1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/qZxVwvcx/bellsandwhistles-0.4.4-hotfix%2B1.20.1-fabric.jar",
+        "sha512": "7525d39710384b79d853cfe0d185a491776cc4e6ce3973d0d1439fe5f5c3008c1016e0c1a5d9af781de727c739a26bc5303ec83d6c4e2803c3eebd970ea38a19"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_5-mc_1": {
+        "name": "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar",
+        "sha512": "5c7207da3badad77a394e54d18cc38f5933ddec60a2d86b223ed3c0dbd89b6fd135774215d79190157b2f60ee5bd644dca81c4e225db2d1ebde1bcdab3e8dcca"
+      },
+      "0_4_4-mc_x": {
+        "name": "bellsandwhistles-0.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/u5lJsgAe/bellsandwhistles-0.4.4.jar",
+        "sha512": "8eb0d576cae07d1a6edf03d2f18410b1441c0bb4c733302283c1fb5b100543280ab19f2405f08f26d27166fc40bb0668134cccad4b7b87724550b1240fbc8795"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.4+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/aP2tFPwc/bellsandwhistles-0.4.4%2B1.19.2-12.jar",
+        "sha512": "8766cdc896fb4774d88a823e1a5d900b9e3fc211770071567f5fc4df318def2acebaec79132c730a2d16bff0898391c141dcb6068eebf1bec442762563cab983"
+      },
+      "0_4_4-mc": {
+        "name": "bellsandwhistles-0.4.4+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/aP2tFPwc/bellsandwhistles-0.4.4%2B1.19.2-12.jar",
+        "sha512": "8766cdc896fb4774d88a823e1a5d900b9e3fc211770071567f5fc4df318def2acebaec79132c730a2d16bff0898391c141dcb6068eebf1bec442762563cab983"
+      },
+      "0_4_2-mc": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_1-mc": {
+        "name": "bellsandwhistles-0.4.1+1.19.2-5.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/9KPnoeeH/bellsandwhistles-0.4.1%2B1.19.2-5.jar",
+        "sha512": "06b5daafcf58511191138bd34f836d44d91bea3e276c9c4df1fb5f3555d18859067649ae28e18888575a7773ab41235d8e88f284e63e156c0193e1a63a4e30ad"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_2-mc1_19_2": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_1-mc1_19_2": {
+        "name": "bellsandwhistles-0.4.1+1.19.2-5.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/9KPnoeeH/bellsandwhistles-0.4.1%2B1.19.2-5.jar",
+        "sha512": "06b5daafcf58511191138bd34f836d44d91bea3e276c9c4df1fb5f3555d18859067649ae28e18888575a7773ab41235d8e88f284e63e156c0193e1a63a4e30ad"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_2-mc_2": {
+        "name": "bellsandwhistles-0.4.2+1.19.2-12.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/zrFdIRHB/bellsandwhistles-0.4.2%2B1.19.2-12.jar",
+        "sha512": "5b398fdb5dbdd439441397872f4cbb977b989ca8461000f008b1f3b5276f0f1c8ca5a362a1cb2862ee285e04c059cfab3f179099036df026b3410c07bec5092c"
+      },
+      "0_4_1-mc_2": {
+        "name": "bellsandwhistles-0.4.1+1.19.2-5.jar",
+        "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/9KPnoeeH/bellsandwhistles-0.4.1%2B1.19.2-5.jar",
+        "sha512": "06b5daafcf58511191138bd34f836d44d91bea3e276c9c4df1fb5f3555d18859067649ae28e18888575a7773ab41235d8e88f284e63e156c0193e1a63a4e30ad"
+      }
+    }
+  }
+}

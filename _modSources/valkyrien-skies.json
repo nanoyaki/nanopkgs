@@ -1,0 +1,614 @@
+{
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "valkyrienskies-120-2.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DiPIynfN/valkyrienskies-120-2.4.10.jar",
+        "sha512": "c18d3e1c28e213adff632b66af8fc3d152217cdac35e4fbc6b4a2e82105ae6cf7c0c76996295eadc6f7760b580721706dda9497f3f2fbca310f0e4b4a75ff3f8"
+      },
+      "1_20_12_4_10": {
+        "name": "valkyrienskies-120-2.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DiPIynfN/valkyrienskies-120-2.4.10.jar",
+        "sha512": "c18d3e1c28e213adff632b66af8fc3d152217cdac35e4fbc6b4a2e82105ae6cf7c0c76996295eadc6f7760b580721706dda9497f3f2fbca310f0e4b4a75ff3f8"
+      },
+      "1_20_12_4_9": {
+        "name": "valkyrienskies-120-2.4.9.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/leF4D8yr/valkyrienskies-120-2.4.9.jar",
+        "sha512": "647ae4bbf5dba8e1b989a92b2dea5ff809dd7e541a6c7a2f3e3990462be074a3024e84344b3667a3391360aa9f80a349f628639c47ffbaa94012ba01f4162e70"
+      },
+      "1_20_12_4_8_1": {
+        "name": "valkyrienskies-120-2.4.8.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/k94WJFZD/valkyrienskies-120-2.4.8.1.jar",
+        "sha512": "7af66a0877a3c2f09cf24ed811a972b57eb7b172c96b4fbceba620378723f8ef130b411fe349177e9c81fed69072d2e3fc9cfbc477014a6d9d88c634e821ebba"
+      },
+      "1_20_12_4_8": {
+        "name": "valkyrienskies-120-2.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Bz7cspW0/valkyrienskies-120-2.4.8.jar",
+        "sha512": "93e278f82ca83d45a2b5072f900cb39df418a5d09118d445acf3f5c58a16a6fee61b7a47c59ca136dd7ef949788c1e8db6d22b1395b501e0b03001c51e612e26"
+      },
+      "1_20_12_4_7": {
+        "name": "valkyrienskies-120-2.4.7.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/3n0y4ZR3/valkyrienskies-120-2.4.7.jar",
+        "sha512": "6e77cafe37c1741317d34cd14fe4c225269588284602e031f43550bb56eac5ecfe310df52f69b5720607dbe39d0f903e5b8872d0b5bbb3d9536704a995aef2f0"
+      },
+      "1_20_12_4_6": {
+        "name": "valkyrienskies-120-2.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/BjOYUTLA/valkyrienskies-120-2.4.6.jar",
+        "sha512": "a45098834c4fd674100375899b2e770be68509c7b976c8b7311f2e80e70a2caf71417c8a93253a33fbe18694db21aa5a626135d4b2ab2b60ed122b9479060d4e"
+      },
+      "1_20_12_4_5": {
+        "name": "valkyrienskies-120-2.4.5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/nFABSxad/valkyrienskies-120-2.4.5.jar",
+        "sha512": "ad6d4d683f68712fd72b947be40b01a54520528b4e43737c2e7b913b3bea1ea63d1be0c2926a47e3ab9216c7a095d33bde56fee192cee1874efefa8a01e3db67"
+      },
+      "1_20_12_4_4": {
+        "name": "valkyrienskies-120-2.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/j1FSGsAO/valkyrienskies-120-2.4.4.jar",
+        "sha512": "de382f01c06b3599e2438fc2d5236497dcadf7c84bb4b16605ca153c296d170c998df82a1a61291a91dcda6f351086bd24f04983025e4253f75b945056064597"
+      },
+      "1_20_12_4_3": {
+        "name": "valkyrienskies-120-2.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/xsd3KbPx/valkyrienskies-120-2.4.3.jar",
+        "sha512": "523862dcc348385e637487c4cd973079f086bc740083ecb61577de024517ffc80607532644139325cf2e3c68549931185448412245d38a2e0bd81d6f91f5e98b"
+      },
+      "1_20_12_4_2": {
+        "name": "valkyrienskies-120-2.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qYvPq0s6/valkyrienskies-120-2.4.2.jar",
+        "sha512": "c8c0b816da47b28895832c0cad66653c838afb5e0abead52e6853eccb98ad47915a72ef88c66943d43213a00d7fa4b3dc75d7c6ebb5b62051270d1ef57affe34"
+      },
+      "1_20_12_4_1": {
+        "name": "valkyrienskies-120-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/3yzn0CRR/valkyrienskies-120-2.4.1.jar",
+        "sha512": "aa41bbb9c3db6c2f61fcfc02aeaced236569d7398f429a8ba4e1bb48c1b10d8737d4b914551aab497185c3de78bd3ba656e6b6bf4337854dc4e9fe4445a3840c"
+      },
+      "1_20_12_4_0": {
+        "name": "valkyrienskies-120-2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/D6PbSHUA/valkyrienskies-120-2.4.0.jar",
+        "sha512": "fc04612c08236ab4a4b8162cb03aaae1d94e5a153a4e6d72346b0a404b5663a7f28a7220f87af911a4e4f00afa4522b239218c091962f858612807fd70d86e24"
+      },
+      "1_20_12_3_0-beta_12": {
+        "name": "valkyrienskies-120-2.3.0-beta.12.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/9TtF0Jtc/valkyrienskies-120-2.3.0-beta.12.jar",
+        "sha512": "affd069e50539c734e783739b2513ae0fbc6195117d14fa826f950ecdeeca5ad2b5116c6d1f3fa54fc3dcc0ef0f491db77933c8bc7ff2fd557fded7e408f678b"
+      },
+      "1_20_12_3_0-beta_11": {
+        "name": "valkyrienskies-120-2.3.0-beta.11.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/X5lIkSt2/valkyrienskies-120-2.3.0-beta.11.jar",
+        "sha512": "d022f3ee041a1533ae824889e64d836d15cec1bbac31ebf3ecfa9b1101cd0a7da870bba847f22079382f12089c6c96278950529323e39b77cef4c3e5bbff3093"
+      },
+      "1_20_12_3_0-beta_10": {
+        "name": "valkyrienskies-120-2.3.0-beta.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qK4XQIdv/valkyrienskies-120-2.3.0-beta.10.jar",
+        "sha512": "906843615d9ba662d7e5b607a220470f5fcfc90574138dd20f8ed2990ea0f3938c37feef6adb0beda8262c3f1f8c8681fce2cfa8c78d5802152aacf8e1f9f220"
+      },
+      "1_20_12_3_0-beta_9": {
+        "name": "valkyrienskies-120-2.3.0-beta.9.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/d8LiuB28/valkyrienskies-120-2.3.0-beta.9.jar",
+        "sha512": "001aa542ea40e9c6f09a416118fe3489152cbe01bffe3ef8b0017f92568c5e92b507c3139926ea7e7380f0ca009ed962e899dfb8313e329b9f6146fba427944c"
+      },
+      "1_20_12_3_0-beta_8": {
+        "name": "valkyrienskies-120-2.3.0-beta.8.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/YUGdiR5I/valkyrienskies-120-2.3.0-beta.8.jar",
+        "sha512": "4bd0fdea044ef60beeacd9f3d876985cdda8caf121a7e29c6c9c464311cb49fd9b01ff97ca9f2463a8ebb1282ab6401000011d75065129c69201039ee3781a63"
+      },
+      "1_20_12_3_0-beta_7": {
+        "name": "valkyrienskies-120-2.3.0-beta.7.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/dVfjX121/valkyrienskies-120-2.3.0-beta.7.jar",
+        "sha512": "4d37e8f5ee6092de294c2982dd1d1aed94b1f81d5e3f31b896e1e5bfcb809a6b920944e1cb6ea62473fcae4922167f0ce33442b20545f063495fb6f78c5eb212"
+      },
+      "1_20_12_3_0-beta_6": {
+        "name": "valkyrienskies-120-2.3.0-beta.6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Qf8brpAz/valkyrienskies-120-2.3.0-beta.6.jar",
+        "sha512": "7f748fe795a0eb6f7a86a9c9ad12a5834034b4bd2a39061f5b4a2b7c3eebd4745a96c70f5fade29346bb8f9c34a3564e633d1587756dc484c9cce2a433f0444a"
+      },
+      "1_20_12_3_0-beta_5": {
+        "name": "valkyrienskies-120-2.3.0-beta.5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/JmkvaGb4/valkyrienskies-120-2.3.0-beta.5.jar",
+        "sha512": "f8b0169c1258614cfdcfd2165b642aee997184f0b65ba44002959fb0136043d2557ca0a5df7bff6677b6af67b5f423e8faf43311f06f8c984f655c4fbbaceeed"
+      },
+      "1_20_12_3_0-beta_4": {
+        "name": "valkyrienskies-1201-2.3.0-beta.4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/YikZY8wB/valkyrienskies-1201-2.3.0-beta.4.jar",
+        "sha512": "b4df27042ec32c2f51893d839d58ec254bdd228b82486286e772d4eeacc6fed494955b66a4dc2ab0facd3f9dadf03c02f31075d396b81178e5efce7708fdcb81"
+      },
+      "1_20_12_3_0-beta_3": {
+        "name": "valkyrienskies-1201-2.3.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wvRiVmfM/valkyrienskies-1201-2.3.0-beta.3.jar",
+        "sha512": "ba689987560f525e921700fdc4f45590ba5cb691b78863ea2e27775393d05f16f529f23a068c4da62fd401de62dd6d37fe79468c416a533546fd0caecef9f89f"
+      },
+      "1_20_12_3_0-beta_2": {
+        "name": "valkyrienskies-1201-2.3.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wB71Ejmx/valkyrienskies-1201-2.3.0-beta.2.jar",
+        "sha512": "79f9d4e8a679a79b1e9467b2d31dcd2e8f17ec52e1ede0e9ebea67d9d08641febfe14264db0d3bfd6be8c4f595ca0e457eaf587ae74ad84347171cda15dae665"
+      },
+      "1_20_12_3_0-beta_1": {
+        "name": "valkyrienskies-1201-2.3.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/AAvcCcwA/valkyrienskies-1201-2.3.0-beta.1.jar",
+        "sha512": "5b8f53ce8b37053ca51f7d749b77ac90420920426f41481afafeb1c89de41f58296e768cb1e7e2d13db856dd4270c176beca4f7d2bfc6947cae91b45bcd46ba2"
+      },
+      "1_20_12_1_3-beta_1": {
+        "name": "valkyrienskies-120-2.1.3-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/HkORffDo/valkyrienskies-120-2.1.3-beta.1.jar",
+        "sha512": "63c9951de0814f4524282a9cd5e31d9540bc7717b21aa2c0d0a313024a5e0d94db274d898e369a9236e61adee54051896af49cea1e13dc1e9340a762693f8e51"
+      },
+      "1_20_11_3_0-beta_2": {
+        "name": "valkyrienskies-1201-1.3.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ZD3qLNXq/valkyrienskies-1201-1.3.0-beta.2.jar",
+        "sha512": "8cfd322a0f74a7cd8a8589764904a79a89a60335e5073f4e6cb548a3e1e814c07aa91d5035a3f2974ff4f2c3d76da45c779fc45351bb4fbde8cca9cceab7d72e"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "valkyrienskies-1192-2.2.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Ou1h0Gkf/valkyrienskies-1192-2.2.0-beta.3.jar",
+        "sha512": "fcef4616fd3208a56a14e647505f351a92b06a209ee95ea6ddcfda4a4ba966ba51c05a665256dd47382d7998149eac9655cf616516bae076efab0710595d99c8"
+      },
+      "1_19_22_2_0-beta_3": {
+        "name": "valkyrienskies-1192-2.2.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Ou1h0Gkf/valkyrienskies-1192-2.2.0-beta.3.jar",
+        "sha512": "fcef4616fd3208a56a14e647505f351a92b06a209ee95ea6ddcfda4a4ba966ba51c05a665256dd47382d7998149eac9655cf616516bae076efab0710595d99c8"
+      },
+      "1_19_22_2_0-beta_2": {
+        "name": "valkyrienskies-1192-2.2.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/tK6EqE6Y/valkyrienskies-1192-2.2.0-beta.2.jar",
+        "sha512": "793bfba1f5da2c4093d30d9470f6abba2f9e0cbb1cd9eecc8912882fcc51d28bd4e38fa875c0fcad4881326ce5ccf359e083bd2018b89ae83f35558bc423517f"
+      },
+      "1_19_22_2_0-beta_1": {
+        "name": "valkyrienskies-1192-2.2.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/gKRKQoRO/valkyrienskies-1192-2.2.0-beta.1.jar",
+        "sha512": "478cef1476cf317f0cf7f1868068989c89c50359a068e42fb583b1012e5ec616f3a0439403cdcdc8cdf4475d228cb560e0c1f1e577b946ddaad2a2ae18a88ffa"
+      },
+      "1_19_22_1_2-beta_1": {
+        "name": "valkyrienskies-119-2.1.2-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/DAAedhhu/valkyrienskies-119-2.1.2-beta.1.jar",
+        "sha512": "7a5ceece6c222b894981c2bf021b5b9720a9eb95e78bcfb4b0370fae6337d35e6e94de8a516f840c44d8a9a3c8a327719a9190b5cd3d6c5c5d8d537745992d0b"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "valkyrienskies-118-forge-2.1.0-beta1+0c28d02ed5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/nqTMkBs8/valkyrienskies-118-forge-2.1.0-beta1%2B0c28d02ed5.jar",
+        "sha512": "6598009be19bd8a61383adf5722fbdee1bf9e1aa4d6389adadbf9cacf803a99a75dd4dc37958ec34a35e1f9e509a5d88d748e7dee4452b9321bf2362460da86d"
+      },
+      "2_1_0-beta1": {
+        "name": "valkyrienskies-118-forge-2.1.0-beta1+0c28d02ed5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/nqTMkBs8/valkyrienskies-118-forge-2.1.0-beta1%2B0c28d02ed5.jar",
+        "sha512": "6598009be19bd8a61383adf5722fbdee1bf9e1aa4d6389adadbf9cacf803a99a75dd4dc37958ec34a35e1f9e509a5d88d748e7dee4452b9321bf2362460da86d"
+      },
+      "1_18_22_1_1-beta_5": {
+        "name": "valkyrienskies-118-2.1.1-beta.5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/WRrMnd4q/valkyrienskies-118-2.1.1-beta.5.jar",
+        "sha512": "0da9820a9f0fb2ad5350d25298003b5b32a71907b52ab27b88a7554f61c87a919c30413eb0135fcdd16389bffa48cdc28010f67710c8491b06862dfa80a11b2e"
+      },
+      "1_18_22_1_1-beta_4": {
+        "name": "valkyrienskies-118-2.1.1-beta.4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/n6bYmsQ9/valkyrienskies-118-2.1.1-beta.4.jar",
+        "sha512": "fd34a18935deb3a5fc3bb2f8bbe2595262a1b8be633db3f029edac91d3306e5f875c97e0a22fdf6a5be50a985b8587b34e86966ce723e9fe5ced2792b376339c"
+      },
+      "1_18_22_1_1-beta_3": {
+        "name": "valkyrienskies-118-2.1.1-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/kcpXU1fD/valkyrienskies-118-2.1.1-beta.3.jar",
+        "sha512": "353ab7c49492092067e67d80dab5f3dfab65567063c7ecaae26f128b91368956feaaa5548fd3941228de09d5283e701a7b7d74af8c43928dd575b7c3d4b823d1"
+      },
+      "1_18_22_1_1-beta_2": {
+        "name": "valkyrienskies-118-2.1.1-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ioqI4F1W/valkyrienskies-118-2.1.1-beta.2.jar",
+        "sha512": "857a8dedc6bf55d81d8f2769883f6078eebe833ca05221d8e1fa774fea48e9b9abdd14cef9357c719a686ae6db4baff19689749b83cd9d965c3386b07c49521f"
+      },
+      "1_18_22_1_1-beta_1": {
+        "name": "valkyrienskies-118-2.1.1-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/xzPuiZ3w/valkyrienskies-118-2.1.1-beta.1.jar",
+        "sha512": "4f1dd9b133de1b75e9c4881a63538bd45b2356c17ee428c5f85e210a9d3c22fe149b9ebfff370ea62d4ecc27b78a2fb21bdbcfd1cd55303f0874c49b8e8db397"
+      },
+      "1_18_22_1_0-beta_14": {
+        "name": "valkyrienskies-118-2.1.0-beta.14.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/gZzGScqE/valkyrienskies-118-2.1.0-beta.14.jar",
+        "sha512": "46158140dca8dfa49fa00bdd6b756d827f5c28009ae591c41a3ff64bf363da50a8c525b6ce50e09acfefe4d656e3f3369b281ee46679c776614fdec8565672da"
+      },
+      "1_18_22_1_0-beta_13": {
+        "name": "valkyrienskies-118-2.1.0-beta.13.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/HGXQsIIi/valkyrienskies-118-2.1.0-beta.13.jar",
+        "sha512": "147f50bf5c3798a07dc9f0328638f21560fbe2bcec35b6ca514ce6362bc39df63b19dd2a92ed5d08f5d6a70f96f5c90d29c096dcb2ffde781b19cd0d10a1abf0"
+      },
+      "1_18_22_1_0-beta_12": {
+        "name": "valkyrienskies-118-2.1.0-beta.12.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/YRlhjE2H/valkyrienskies-118-2.1.0-beta.12.jar",
+        "sha512": "ec03b7efcfbbe36faab97549dc337ca7d2966493ef7db0fac1c49b05062ff3c557c1f5ce4729b8bc03e42b7628d301f9b07c3215183fd6f72498892c668a5954"
+      },
+      "1_18_22_1_0-beta_11": {
+        "name": "valkyrienskies-118-2.1.0-beta.11.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/YzktV2O0/valkyrienskies-118-2.1.0-beta.11.jar",
+        "sha512": "64db61b728ba8ced1bcb4b6b7379cf37b0220c99879ba9f981a97f42601d28bbafaf2dc9f38ec7a7b48797056808bdb8e0f1567a8daf2a89dd586726a656e536"
+      },
+      "1_18_22_1_0-beta_10": {
+        "name": "valkyrienskies-118-2.1.0-beta.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/uCx6EXZz/valkyrienskies-118-2.1.0-beta.10.jar",
+        "sha512": "f1640d1f70a75a32262299f1eea3527990b3abc317a9228a1542c79636c17a435490019babd5b26ea0660ec093470615df4554f9e3304e1ee51bc3a014cec81a"
+      },
+      "1_18_22_1_0-beta9": {
+        "name": "valkyrienskies-118-2.1.0-beta9.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ToDQViDp/valkyrienskies-118-2.1.0-beta9.jar",
+        "sha512": "c33cab53e543d792b96f6ccb7229ba9d7c552fc83773a807bfd3916be0102bcf18c47b65ce295acd52f514bb74bdc16f0bc61ef11cd869e3de86c9cb29def829"
+      },
+      "1_18_22_1_0-beta8": {
+        "name": "valkyrienskies-118-2.1.0-beta8.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/OCpPIeGd/valkyrienskies-118-2.1.0-beta8.jar",
+        "sha512": "7364094a8bd78d8cd558b51ba702a690ff7d30b05781308563137c19fd8b337bac3c86e5f1de42897e7351f2275f8f62e0ab1fd81d683c8ef5fb8d54f84fead2"
+      },
+      "1_18_22_1_0-beta7": {
+        "name": "valkyrienskies-118-2.1.0-beta7.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/EufStSk2/valkyrienskies-118-2.1.0-beta7.jar",
+        "sha512": "d50c379da241437623557e0a230d7cd417bb8527f50b58c62b268f12e9d1909633ffcf5b8dd6d8aa55bfc157f42f0e4c85902a13e9a7a27baadf981f4e1b5cf8"
+      },
+      "1_18_22_1_0-beta6": {
+        "name": "valkyrienskies-118-2.1.0-beta6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qK6pSEvZ/valkyrienskies-118-2.1.0-beta6.jar",
+        "sha512": "db6f018059c61cd3c1be0d36a1ab778a3753dec0afeded6ed9d2868ce0eb55cf96b5490762df6fa2d4e8cfe09b90cfcf7a3a4793b40d7abf66922f321b01f274"
+      },
+      "1_18_22_1_0-beta5": {
+        "name": "valkyrienskies-118-2.1.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/P8vgNDsn/valkyrienskies-118-2.1.0-beta5.jar",
+        "sha512": "a0772085058c6396406c754fdeba1f9dbc8c30d48be5b24a99df41ff198e1d0705b3fd93ba18582484879c5bdad98502058aaf7d3c1a6a8ca8882e0a1ff9af5e"
+      },
+      "1_18_22_1_0-beta4": {
+        "name": "valkyrienskies-118-2.1.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/565RQckr/valkyrienskies-118-2.1.0-beta4.jar",
+        "sha512": "67d050607f6b89f3369ce25c9805d2bfe205cb25d2f17f34c2990d376c0e509ff8f62ddaf85682bbfbd8ddddfd23fdef68c486b58c998bb15f460f2bbbe4a829"
+      },
+      "1_18_22_1_0-beta3": {
+        "name": "valkyrienskies-118-2.1.0-beta3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/JgR12tVl/valkyrienskies-118-2.1.0-beta3.jar",
+        "sha512": "5d900f632f95733b68a0699f5b28232b28623414570e346ef79004d2aabaedcbaf11d076d730acbb062a3514419b34e657ad55155074845f864cb315abd34dc1"
+      },
+      "1_18_22_1_0-beta2": {
+        "name": "valkyrienskies-118-2.1.0-beta2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/thaIMIPv/valkyrienskies-118-2.1.0-beta2.jar",
+        "sha512": "f944bed094c780400052516a5f6573f7402d6059e9f789f617245f45039602b664a9eb98e7273272b2489135ece1fa5630e5e1ae879156783f5d00ba33dfb5d5"
+      }
+    },
+    "1_16_5": {
+      "latest": {
+        "name": "valkyrienskies-116-2.0-alpha1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/a7uhPNOT/valkyrienskies-116-2.0-alpha1.jar",
+        "sha512": "8ceaebc2358fee8349b67c6a521126e27ed0de5a35d3a157a9543f49fe769a28ae83c04917794850bb54d4beb9274bbc20585c76888d3e403739e32c2816c601"
+      },
+      "1_16_52_0-alpha1": {
+        "name": "valkyrienskies-116-2.0-alpha1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/a7uhPNOT/valkyrienskies-116-2.0-alpha1.jar",
+        "sha512": "8ceaebc2358fee8349b67c6a521126e27ed0de5a35d3a157a9543f49fe769a28ae83c04917794850bb54d4beb9274bbc20585c76888d3e403739e32c2816c601"
+      },
+      "1_16_52_0_0-alpha6": {
+        "name": "valkyrienskies-116-2.0.0-alpha6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Lk9ZgMMF/valkyrienskies-116-2.0.0-alpha6.jar",
+        "sha512": "90c6eab51c58c7d811240107ea191f2101620ef545329b92599be30eef098a26cf88a3e266371f12c0bbd5c5e5a71a238f1bf0f405eb909b20613ccc44f3b305"
+      },
+      "1_16_52_0_0-alpha5": {
+        "name": "valkyrienskies-116-2.0.0-alpha5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ojupNKsr/valkyrienskies-116-2.0.0-alpha5.jar",
+        "sha512": "35a3e3340fe7410b76ea9c163929f9c20f932e60261a0d03be46406dde94def9dbd70e0478afbe3a341026f228cb38fb40faf5f45c617f823b27832a09c57d1f"
+      },
+      "1_16_52_0_0-alpha4": {
+        "name": "valkyrienskies-116-2.0.0-alpha4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/yTuC1iq7/valkyrienskies-116-2.0.0-alpha4.jar",
+        "sha512": "38d094316ac86487a5f803e4882512ee64f41f06c99698922f1922197d1356839e9120791973987994528ea1a2f419d69f905b27b385b7dd725cb2b6512d2b13"
+      },
+      "1_16_52_0_0-alpha3": {
+        "name": "valkyrienskies-116-2.0.0-alpha3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/XdqFJAIP/valkyrienskies-116-2.0.0-alpha3.jar",
+        "sha512": "dadf86159ff587745c869c549cc480437e6c8943786b9e81bea1323a183d24a6674cd044c07ab18c7e6f05fe7d55a562e0d26c25405ca17e0cd993ccaa9ad809"
+      },
+      "1_16_52_0_0-alpha2": {
+        "name": "valkyrienskies-116-2.0.0-alpha2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/yCsPnQFF/valkyrienskies-116-2.0.0-alpha2.jar",
+        "sha512": "59b9645a07a5658208f0f34ab213a2bd27047804f4d451724120075034aa9b6ce626b244d3e8d817c99d163cedf92f47dc4468f1738c46f9e8b9235e3d394a17"
+      }
+    },
+    "1_12_2": {
+      "latest": {
+        "name": "[[[valkyrien-skies-1.12.2-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/1.1.6/[[[valkyrien-skies-1.12.2-1.1.6.jar",
+        "sha512": "9583baf99ff21d8ff05fabaecd560e0ff39c6b65c48340dc2cc8b59cf9b488fb5596fd3fd7564046bae1342cbac3034522e569e310f399f64a0bade928da94f9"
+      },
+      "1_1_6": {
+        "name": "[[[valkyrien-skies-1.12.2-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/1.1.6/[[[valkyrien-skies-1.12.2-1.1.6.jar",
+        "sha512": "9583baf99ff21d8ff05fabaecd560e0ff39c6b65c48340dc2cc8b59cf9b488fb5596fd3fd7564046bae1342cbac3034522e569e310f399f64a0bade928da94f9"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "valkyrienskies-120-2.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/d19WzCuD/valkyrienskies-120-2.4.10.jar",
+        "sha512": "a3864b836c18aa4043ff55a21018066568d1043d95dfe81f04a946a156b2440c3086b8c9f5e5cbae6543f913230c6c1f0045dc192980f8b03f5b02e3794342c6"
+      },
+      "1_20_12_4_10": {
+        "name": "valkyrienskies-120-2.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/d19WzCuD/valkyrienskies-120-2.4.10.jar",
+        "sha512": "a3864b836c18aa4043ff55a21018066568d1043d95dfe81f04a946a156b2440c3086b8c9f5e5cbae6543f913230c6c1f0045dc192980f8b03f5b02e3794342c6"
+      },
+      "1_20_12_4_9": {
+        "name": "valkyrienskies-120-2.4.9.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qByQbhLi/valkyrienskies-120-2.4.9.jar",
+        "sha512": "28c92016ff4eb24f4bebeb70561d073c196b9d548fe63a9bdc98f4b355057759490a2369a3f0439e08cf1563a8ecbaad9889778e90b470216ffcac8567db3c79"
+      },
+      "1_20_12_4_8_1": {
+        "name": "valkyrienskies-120-2.4.8.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/rv886FDr/valkyrienskies-120-2.4.8.1.jar",
+        "sha512": "f14ecbc381d9f51e787bdd8ecd1eea99ea2b669c007323dba5116af2fa1c07c1c462f5da9fe79fc2739cf8f0e98c64a41c420d4d25238d3130a7d89117c58f46"
+      },
+      "1_20_12_4_8": {
+        "name": "valkyrienskies-120-2.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qdqz68kW/valkyrienskies-120-2.4.8.jar",
+        "sha512": "a8becb9786ffb3ef362e0341ffeea6ff0a254a9511b4262b249bf0b50a4058f7e3200fe3362f9667c53cfb207c12916474e36ffe9453574e8d1e2398355df55b"
+      },
+      "1_20_12_4_7": {
+        "name": "valkyrienskies-120-2.4.7.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/15veStRS/valkyrienskies-120-2.4.7.jar",
+        "sha512": "888acba6e81b180224d5e8a7918f3050bee079e3529e6cdddb2bd1f8a638b3eec4c6a2d9f5060753e7d946943707a20368326ecda1a7ff5db7edbabb1ecdd131"
+      },
+      "1_20_12_4_6": {
+        "name": "valkyrienskies-120-2.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/8AwrJWUo/valkyrienskies-120-2.4.6.jar",
+        "sha512": "29d38c7504c716f1510008fe5afee466e248e0ed28420ab127baf03a82cda916c1572c3ede86e927b793c7f8c2a64e1b9ff283dc64946631d541df98f07da957"
+      },
+      "1_20_12_4_5": {
+        "name": "valkyrienskies-120-2.4.5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/50t68FlC/valkyrienskies-120-2.4.5.jar",
+        "sha512": "427d4bf86a9164b6a732c56e08d134f8e0ccd3e9def1441d9f1e5b00cad83ddfbcc5f98bcb53cc2b22f9e76b14218d4c916664a27c64fbc2cc79c947d1529d5d"
+      },
+      "1_20_12_4_4": {
+        "name": "valkyrienskies-120-2.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/P0TbHTVg/valkyrienskies-120-2.4.4.jar",
+        "sha512": "cb34e1ea142f3cdfce9a24cfa7fee719ddd504327eee6209743c373f8672d05b8bebf56233222723281355caa1563214bf8de03da15e5d4c6288eea340fa3f09"
+      },
+      "1_20_12_4_3": {
+        "name": "valkyrienskies-120-2.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/PfzMKWLM/valkyrienskies-120-2.4.3.jar",
+        "sha512": "a73e063ba9f3d7671f2329c3e3890bc51c4eb17a68087c613ebf4113e90a7f434442f4f33120151aa24401c037dcf564a1aaf10dd46907e0dae14f8e10df11e0"
+      },
+      "1_20_12_4_2": {
+        "name": "valkyrienskies-120-2.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/cBWB2ypt/valkyrienskies-120-2.4.2.jar",
+        "sha512": "3c316d52a08c56ddf70fe206cec39cf2ce29241251137760b48412b7676571957564a5d00098cb46bd7f6ae3221e30e3f4d06a5d3097a6e8d5d4caf699f1c4c9"
+      },
+      "1_20_12_4_1": {
+        "name": "valkyrienskies-120-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ZWIJrcxx/valkyrienskies-120-2.4.1.jar",
+        "sha512": "109a425512318998daabf1da308266296bca91b24c7c5696fc0acf4d150ce2fa22464333147865c6c7f08c576fdefb4f4e9dbb7331fdfae192378bef0e45e23e"
+      },
+      "1_20_12_4_0": {
+        "name": "valkyrienskies-120-2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/MxE5tdT9/valkyrienskies-120-2.4.0.jar",
+        "sha512": "a7bd5b498bd92da1e87203cf58e527ea2d9810886edf978b8bd6424fa21abee1622112b5410d8fcb416f8dc3858ab78874a741cf84a505c6e9cd33159dd74f4b"
+      },
+      "1_20_12_3_0-beta_12": {
+        "name": "valkyrienskies-120-2.3.0-beta.12.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Vr6LaNc4/valkyrienskies-120-2.3.0-beta.12.jar",
+        "sha512": "c0aabd3a5d25d09a6ea313581291709ba686747c506553db59ae7bc257e0188d75b672b100493e97e951f8d6ad119749be1183a4c25c4767079c280eddf964a2"
+      },
+      "1_20_12_3_0-beta_11": {
+        "name": "valkyrienskies-120-2.3.0-beta.11.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ZYOiqUos/valkyrienskies-120-2.3.0-beta.11.jar",
+        "sha512": "0f5a2c7b5545d28a33a44357c335e8741a1be5c1298eb6619d653e7247c215cb4a1f1bb36219c53f26d70b566eeeecb4ca9db3585e3af62d1859c2ea00cf4756"
+      },
+      "1_20_12_3_0-beta_10": {
+        "name": "valkyrienskies-120-2.3.0-beta.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/u8rkwXEz/valkyrienskies-120-2.3.0-beta.10.jar",
+        "sha512": "9e0108045aef80a707546256d40f0b765ab4e8e382af7aebb6b12bf15a7d03f352ec68991addac4cf77d7dfeb2a5b750ae063a945a32254161d0e5cfc563863f"
+      },
+      "1_20_12_3_0-beta_9": {
+        "name": "valkyrienskies-120-2.3.0-beta.9.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Waqli8S7/valkyrienskies-120-2.3.0-beta.9.jar",
+        "sha512": "e3c278599dc1c752b7429142c412c152f96f3e61b29cc7b6ab8de2a617fc24d47a08d615a112fef2acf8752796b6eec646a48b7ff8cab980161190d860fc8ea1"
+      },
+      "1_20_12_3_0-beta_8": {
+        "name": "valkyrienskies-120-2.3.0-beta.8.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/sQLQIBxP/valkyrienskies-120-2.3.0-beta.8.jar",
+        "sha512": "c7a813755464701e62021af65e1b0a09a008832a4371437b89eb7d570a7755d3e4064885ac49f38813c8e9407d402f1317ac0e33ec2cbdfd7c7c0cd3cd88a434"
+      },
+      "1_20_12_3_0-beta_7": {
+        "name": "valkyrienskies-120-2.3.0-beta.7.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/7BjPc7gi/valkyrienskies-120-2.3.0-beta.7.jar",
+        "sha512": "54bf38dcb96ae1ad74afca7f6bd40d11c88ef38e0d3d334c39a4767b9bbb27ded6d4fdc3e65d71a0b248ef85bad682b0c62b4f21ed25be6fae8d0bd0b53e3605"
+      },
+      "1_20_12_3_0-beta_6": {
+        "name": "valkyrienskies-120-2.3.0-beta.6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/jlzd35Wo/valkyrienskies-120-2.3.0-beta.6.jar",
+        "sha512": "0b1578058ac185ebea3293fc21020a2e8962ad3d0578961118ed7727b9115f2f799303e44e378d4c3c63895eff97ab55d242704e2d1165407ee3778fd67c11a4"
+      },
+      "1_20_12_3_0-beta_5": {
+        "name": "valkyrienskies-120-2.3.0-beta.5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wDYLclLS/valkyrienskies-120-2.3.0-beta.5.jar",
+        "sha512": "acc6a13e788768d54c9fdeb4da6f5112acbe6a11cb5f9f08f6792400e350af3c55eb18347f1f99b1c6a8ae1a1085856ebc23c51c1f1c5f60fb5b693255be20ad"
+      },
+      "1_20_12_3_0-beta_4": {
+        "name": "valkyrienskies-1201-2.3.0-beta.4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/LZnRLeUW/valkyrienskies-1201-2.3.0-beta.4.jar",
+        "sha512": "71251eebe4f6f45711007b06ab06e05be099688868144ef3970a1564d58a1da5173fd26681e7b79867ad9747ef678e92d4d25d0f645078f5d266d3b2a08113b3"
+      },
+      "1_20_12_3_0-beta_3": {
+        "name": "valkyrienskies-1201-2.3.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/JAyv33M3/valkyrienskies-1201-2.3.0-beta.3.jar",
+        "sha512": "3e00502969f8be30450ab1199020c69b96404a5479c30b6ee38e6c31e8c7675d507598b8802f2968690bd9923591b33d0905ee10a52f518e429679be2a74b4b0"
+      },
+      "1_20_12_3_0-beta_2": {
+        "name": "valkyrienskies-1201-2.3.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/K1nZZ7XJ/valkyrienskies-1201-2.3.0-beta.2.jar",
+        "sha512": "d62ed4dc71fbf4ef484823d94438c9bddc377f3d657dd442bd6f1fd1dcb3c4a3b98eb6529046363a5c10944687eedf7a68f0dbf6525670dd9c51cf61378b293c"
+      },
+      "1_20_12_3_0-beta_1": {
+        "name": "valkyrienskies-1201-2.3.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/k39RdMFx/valkyrienskies-1201-2.3.0-beta.1.jar",
+        "sha512": "7269c3f406b98af7c5f9f2a1b3de3862fa8ce044ae3be683d9d89118057f2dff688dd0c1c5c1d317addbd2436d4b1b7e8ad9a3206fbc6a6b006494344d855606"
+      },
+      "1_20_12_1_3-beta_1": {
+        "name": "valkyrienskies-120-2.1.3-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/QAPb90tF/valkyrienskies-120-2.1.3-beta.1.jar",
+        "sha512": "a7451f749b66e56d709be9ace26672b4016301853c1945af26504a7aef11ed00757ab460018992f7d40284e90514c82f461a06d8e73316143ccf662c238e83e4"
+      },
+      "1_20_11_3_0-beta_2": {
+        "name": "valkyrienskies-1201-1.3.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/rMCKXWHG/valkyrienskies-1201-1.3.0-beta.2.jar",
+        "sha512": "fcb9d0ece61b794278f71f229f3b1fb6ed69f3bae8fa74b352f68a6da18d49bcc643b8528d030ea39dc0348322b14ccde289a20930cdd2e85bd29dc4ee6b2bcd"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "valkyrienskies-1192-2.2.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/UB5lXGEq/valkyrienskies-1192-2.2.0-beta.3.jar",
+        "sha512": "b2bcc42d661c796cfd1e957a7179046f9e16354b85ea4708523ef852f204fd5cdb71368766530b015dca5dc59994f69665baef7ff3d71d1b42bd616e113a5a6f"
+      },
+      "1_19_22_2_0-beta_3": {
+        "name": "valkyrienskies-1192-2.2.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/UB5lXGEq/valkyrienskies-1192-2.2.0-beta.3.jar",
+        "sha512": "b2bcc42d661c796cfd1e957a7179046f9e16354b85ea4708523ef852f204fd5cdb71368766530b015dca5dc59994f69665baef7ff3d71d1b42bd616e113a5a6f"
+      },
+      "1_19_22_2_0-beta_2": {
+        "name": "valkyrienskies-1192-2.2.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/tkUkGUXE/valkyrienskies-1192-2.2.0-beta.2.jar",
+        "sha512": "b13f355886eb6b047b146feb48113725c1c936539b243bdce3548baaeddb7111cc1a5c39f963a517aa0f1af633eb4948260599cdc535095af44e879a1903e366"
+      },
+      "1_19_22_2_0-beta_1": {
+        "name": "valkyrienskies-1192-2.2.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/ZauvYUXr/valkyrienskies-1192-2.2.0-beta.1.jar",
+        "sha512": "ce1814da382c9d8a9f974fb9eb30c428454b45191a755ff945f52a5f2b26049a14f8fdb01c25dba10d84b746f86a1c13be146b3333d3508c368337390e0cb5ed"
+      },
+      "1_19_22_1_2-beta_1": {
+        "name": "valkyrienskies-119-2.1.2-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/QAj7h3vU/valkyrienskies-119-2.1.2-beta.1.jar",
+        "sha512": "6e46df7db278d79c4ff1da3094ff10aada915056955a949ca31738705bc0a4114de84edebaa7c9fb2dbc1131d16a4bb24bced246d415ca303d4a810a1543a1b0"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "valkyrienskies-118-fabric-2.1.0-beta1+0c28d02ed5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/U24CWNI1/valkyrienskies-118-fabric-2.1.0-beta1%2B0c28d02ed5.jar",
+        "sha512": "9c3f401407be78129ea2b79a240885c205d9e0b56c4627a1c1bcc00b726f7a7d93105b8ce1012ddce68170532a7033f10ad6af4089fc2ec4dccf2804bd574b5f"
+      },
+      "2_1_0-beta": {
+        "name": "valkyrienskies-118-fabric-2.1.0-beta1+0c28d02ed5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/U24CWNI1/valkyrienskies-118-fabric-2.1.0-beta1%2B0c28d02ed5.jar",
+        "sha512": "9c3f401407be78129ea2b79a240885c205d9e0b56c4627a1c1bcc00b726f7a7d93105b8ce1012ddce68170532a7033f10ad6af4089fc2ec4dccf2804bd574b5f"
+      },
+      "1_18_22_1_1-beta_5": {
+        "name": "valkyrienskies-118-2.1.1-beta.5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/sPZyV1Am/valkyrienskies-118-2.1.1-beta.5.jar",
+        "sha512": "5a6d14aa805de3e5c48c2b73a87b7aebdd32a207e0d76cefafb5f23dd43f4f9eac7c8f122dcc6145f447f7507f3d49764b782465161e10f16b12f74f9af48d72"
+      },
+      "1_18_22_1_1-beta_4": {
+        "name": "valkyrienskies-118-2.1.1-beta.4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/hL00s1Z9/valkyrienskies-118-2.1.1-beta.4.jar",
+        "sha512": "edc1867d865ce7ae12aec1832baec6b15993311292988794bce410d88bed2a03bfe3c55cc494d6afe7aaef66bc7a34c856019024dcef0c8b18ea559c8f2b7598"
+      },
+      "1_18_22_1_1-beta_3": {
+        "name": "valkyrienskies-118-2.1.1-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/FS5JKKZb/valkyrienskies-118-2.1.1-beta.3.jar",
+        "sha512": "266d0745bdc414fae4f2d3798d483b57d1ebdee2657b62e02a626967eeb57b110dda91ca07cb16b2e44c1bdfaf8c21d54fdfd7f53f3a1420d46e169b366dade1"
+      },
+      "1_18_22_1_1-beta_2": {
+        "name": "valkyrienskies-118-2.1.1-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/V32uMMwu/valkyrienskies-118-2.1.1-beta.2.jar",
+        "sha512": "63029045b3c7d212cd8af8633edc9103e425553526b016046bb59b1edd9b3c5704cbc626172d57db04ff438ce2f1b3ad8a862a389be906a044f4d712fd2e76a8"
+      },
+      "1_18_22_1_1-beta_1": {
+        "name": "valkyrienskies-118-2.1.1-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Nj2rG8Vi/valkyrienskies-118-2.1.1-beta.1.jar",
+        "sha512": "016d36dc247700f24f070bef0ba9fec96562dd5b79206f97b14a463bb1a206efb76ad91d7f67424a9c4698dfc92f6e22b9732df6349c41ad59c7e16cb4f4f314"
+      },
+      "1_18_22_1_0-beta_14": {
+        "name": "valkyrienskies-118-2.1.0-beta.14.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/mzfD7MoD/valkyrienskies-118-2.1.0-beta.14.jar",
+        "sha512": "97caac5f64a3c15d0f1219992297bbfb2e5a8a1d8db826eff79c436e573ce40eedec0c029118938521953f57bc54f84cf42cabd36b20e664d8a09f325dadabb7"
+      },
+      "1_18_22_1_0-beta_13": {
+        "name": "valkyrienskies-118-2.1.0-beta.13.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/HHUsCVBM/valkyrienskies-118-2.1.0-beta.13.jar",
+        "sha512": "494336b8f17513b395bf1c0f389e130af4af310c8c54234a9d2fdec55f777653802771c7dc4f193fdb8337dca2b4be567c23689e92bbf1ceef23fb0696173019"
+      },
+      "1_18_22_1_0-beta_12": {
+        "name": "valkyrienskies-118-2.1.0-beta.12.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/N00liAuO/valkyrienskies-118-2.1.0-beta.12.jar",
+        "sha512": "008dd9ad324f2602096562b1132189e54e9574e93c323dd3ebbd2fd63e92e7dcecf74301688f2b4065a3da8a0c0c38bc6abd2886a3b80456c72c16ddf3db59e0"
+      },
+      "1_18_22_1_0-beta_11": {
+        "name": "valkyrienskies-118-2.1.0-beta.11.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/s43BwjkX/valkyrienskies-118-2.1.0-beta.11.jar",
+        "sha512": "11531b58078859bc1239deb28057304159d34d52df7a9d0b18c22930ac3e5015c6bdd8a23a08493c829164ae350ef0d164f2b55bceb779fe643ad4a9b513b659"
+      },
+      "1_18_22_1_0-beta_10": {
+        "name": "valkyrienskies-118-2.1.0-beta.10.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/cdOjYdMF/valkyrienskies-118-2.1.0-beta.10.jar",
+        "sha512": "d75da728840359b828a1fb8b11169012705534ed1cb2275c65efc7cda6643a086055906efaffe3b05ae041fb5d89b397f55bc406f1e56ae870a7621b45f662a6"
+      },
+      "1_18_22_1_0-beta9": {
+        "name": "valkyrienskies-118-2.1.0-beta9.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/8jwTcoOC/valkyrienskies-118-2.1.0-beta9.jar",
+        "sha512": "cebd0f7fba3001d42bd5537e7ef87878c6b9d70ad8ecab50d319d6daf09decb4ddf1803f3bfc383933cc179cf376fa4b28df17e2d93b591c544d2e412a9ef927"
+      },
+      "1_18_22_1_0-beta8": {
+        "name": "valkyrienskies-118-2.1.0-beta8.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/H4c6OGGe/valkyrienskies-118-2.1.0-beta8.jar",
+        "sha512": "5dacab3588be2848d66d4541a4ff3fc7b192864755c583a821bf68e6d54004cb384cb7c429fc759bb452699d10fb99cef4cbfba5a2951b0311086e7396c53048"
+      },
+      "1_18_22_1_0-beta7": {
+        "name": "valkyrienskies-118-2.1.0-beta7.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/v9pZFlno/valkyrienskies-118-2.1.0-beta7.jar",
+        "sha512": "7dd270035a04b64e534f22af018e12e3f6b791cea6defe92ac2ced4d42bebf837395cfcf557977e826d9f42262193cf3bb1f29ae747c4bdc23dc09f4abf10902"
+      },
+      "1_18_22_1_0-beta6": {
+        "name": "valkyrienskies-118-2.1.0-beta6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/7Sv0y5II/valkyrienskies-118-2.1.0-beta6.jar",
+        "sha512": "0be43dc9ab23f6d37c54f5f2ecf547997cf1d5edd1b2b22291a99b0fe8c3ebcbd6613eba45511e3c53816ee874a802eeded8eeb2aebfcc1913efa037b67dc6df"
+      },
+      "1_18_22_1_0-beta5": {
+        "name": "valkyrienskies-118-2.1.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/Hm6PdwzM/valkyrienskies-118-2.1.0-beta5.jar",
+        "sha512": "702b321fa350f4417140500187f587d0007febe14c631dda8ae2aee01b532d277f7e8512abb76b54bc1a0b6c615010ad57cb4e3f24ada7a872967cb1e8804cdf"
+      },
+      "1_18_22_1_0-beta4": {
+        "name": "valkyrienskies-118-2.1.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/TGfmORHE/valkyrienskies-118-2.1.0-beta4.jar",
+        "sha512": "7fd57d6fe036f91c9de4b3574f81b7189bb5b3e06477aaf0d7636ce027b42357e5582c0f68becff8c94ee0f4771b5a19278231fc9225c19cad5d55a8398bb7e1"
+      }
+    },
+    "1_16_5": {
+      "latest": {
+        "name": "valkyrienskies-116-2.0-alpha1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/BG3f689s/valkyrienskies-116-2.0-alpha1.jar",
+        "sha512": "c3b2e63d98b042cb3c968bbd7ead8fdcfa2680561b60f98ccf001cf3693f8c650f92f8b72520cb9561f30137919ca581a33daaac3c71bac71dd413f5c94aa3eb"
+      },
+      "1_16_52_0-alpha1": {
+        "name": "valkyrienskies-116-2.0-alpha1.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/BG3f689s/valkyrienskies-116-2.0-alpha1.jar",
+        "sha512": "c3b2e63d98b042cb3c968bbd7ead8fdcfa2680561b60f98ccf001cf3693f8c650f92f8b72520cb9561f30137919ca581a33daaac3c71bac71dd413f5c94aa3eb"
+      },
+      "1_16_52_0_0-alpha6": {
+        "name": "valkyrienskies-116-2.0.0-alpha6.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/XBmAChmG/valkyrienskies-116-2.0.0-alpha6.jar",
+        "sha512": "e42a91b783cff0820d83dca205131376b2ba201463722b6c855ba15a2c864824ad0edb8a9fb1735b87f162ca7bde7f3818e4dbfb5202357449e640b8144d2db5"
+      },
+      "1_16_52_0_0-alpha5": {
+        "name": "valkyrienskies-116-2.0.0-alpha5.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/qnLhaIcW/valkyrienskies-116-2.0.0-alpha5.jar",
+        "sha512": "570c7c17f934bee43a99b4137d3bb919ab506dc81e1add772ef7fa07cd1ffb1ca4b77c87c3abd2cf0952da3308f24b433f5ce889017b1e82cee5619c459e2fff"
+      },
+      "1_16_52_0_0-alpha4": {
+        "name": "valkyrienskies-116-2.0.0-alpha4.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/60WscAo9/valkyrienskies-116-2.0.0-alpha4.jar",
+        "sha512": "9ee0bdcd57e21e239a652e399b70c046fb4774f13da5f69f09171776848ab4144d84a80a7180169033e909440a5a4a31beeda2597bfeea8f23faa7c772f80800"
+      },
+      "1_16_52_0_0-alpha3": {
+        "name": "valkyrienskies-116-2.0.0-alpha3.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/NwTDRB8l/valkyrienskies-116-2.0.0-alpha3.jar",
+        "sha512": "0f3587e5724cc8bf0400197f252bce3e47971d80dc3874c447d3b17b2868b1b29bafe70e492b7ffc01eabc68a0171ece58c367ec1710dac60c5b6dac319f01aa"
+      },
+      "1_16_52_0_0-alpha2": {
+        "name": "valkyrienskies-116-2.0.0-alpha2.jar",
+        "url": "https://cdn.modrinth.com/data/V5ujR2yw/versions/EzntMAPt/valkyrienskies-116-2.0.0-alpha2.jar",
+        "sha512": "6c2c8ad65e18729c5673c309ff2d26a214f290ab4f762500592d0916f86bca68255fb096fa6b17db9ab651944634025dd3586d15ec9dccd64eeea42de0b9d539"
+      }
+    }
+  }
+}

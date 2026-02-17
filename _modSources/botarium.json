@@ -1,0 +1,720 @@
+{
+  "neoforge": {
+    "1_20_4": {
+      "latest": {
+        "name": "botarium-neoforge-1.20.4-3.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/5vM3ynEW/botarium-neoforge-1.20.4-3.2.1.jar",
+        "sha512": "3235b9bbe05dc17120561b3668a227d5fa0b8bb7aa212085f943e18957bc96a59aee155cc1f36f92887bb76fcf2b6923619d7a6b68eb272685a2aa62345cf2e3"
+      },
+      "3_2_1": {
+        "name": "botarium-neoforge-1.20.4-3.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/5vM3ynEW/botarium-neoforge-1.20.4-3.2.1.jar",
+        "sha512": "3235b9bbe05dc17120561b3668a227d5fa0b8bb7aa212085f943e18957bc96a59aee155cc1f36f92887bb76fcf2b6923619d7a6b68eb272685a2aa62345cf2e3"
+      },
+      "3_2_0": {
+        "name": "botarium-neoforge-1.20.4-3.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/pqtUPWdh/botarium-neoforge-1.20.4-3.2.0.jar",
+        "sha512": "5e3a103513139115b1a2ad5326bd675c64dce81b92e1829fe1e7b65293c2fcbc9a8daa89848a5523d16ceea41e15ab34f474506c5a7dc57fac819ad7581a5e04"
+      },
+      "3_1_1": {
+        "name": "botarium-neoforge-1.20.4-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/vaUEVRbl/botarium-neoforge-1.20.4-3.1.1.jar",
+        "sha512": "5f08a677922bfb09bdd513849360585765a52a8336ab6c209b52e59c15fc7ebcf8facc873de04301349098c20ad4435c1d06cdfa4da172dd4737a9b7ff1b5710"
+      },
+      "3_1_0": {
+        "name": "botarium-neoforge-1.20.4-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/nIVYRTvg/botarium-neoforge-1.20.4-3.1.0.jar",
+        "sha512": "82194d53d881ffd6f9d7288cc337064432502c14dc73fa6006d07797f68ac3ce6480878e414e3bb63a658ad2643a6b42f7c82b742126729e358041d219232a72"
+      },
+      "3_0_8": {
+        "name": "botarium-neoforge-1.20.4-3.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/i66V3ppd/botarium-neoforge-1.20.4-3.0.8.jar",
+        "sha512": "1926edd426be267d38a285b2c0af179b7413f3e4b26436f33815a1aa2006376cdbb959bcafc30c0386f1f1293491198820eb39767f8dd880822216205c39101b"
+      },
+      "3_0_7": {
+        "name": "botarium-neoforge-1.20.4-3.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/QlC5R4Wx/botarium-neoforge-1.20.4-3.0.7.jar",
+        "sha512": "560568eba7bfaa8a0762c87e8df75361f0dcc8fa3a8471c5885339906328e031d88aed3410ad61fdc56ebd85f6295fc8334470b7e6481746e569af04f78c8807"
+      },
+      "3_0_5": {
+        "name": "botarium-neoforge-1.20.4-3.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/F26yyM7B/botarium-neoforge-1.20.4-3.0.5.jar",
+        "sha512": "d1b71a5ce5df7b2769d48d03d661719c57f4a03222bb01b5f8ca9f9e5fed64bb623012490c61d2fd50779fed72172aaea9814293ab240b9cd770cb08dee67f1e"
+      },
+      "3_0_4": {
+        "name": "botarium-neoforge-1.20.4-3.0.4-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/irQaGpcE/botarium-neoforge-1.20.4-3.0.4-javadoc.jar",
+        "sha512": "6e1aa83248670ed6d0f892cc381da93f1460cf851384a9220fa38b4d15510714c3740582dd8dbeabef997ddc34e05c035451b0632d2a8b129507b8693201de3f"
+      },
+      "3_0_3": {
+        "name": "botarium-neoforge-1.20.4-3.0.3-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/g5lo2XOp/botarium-neoforge-1.20.4-3.0.3-javadoc.jar",
+        "sha512": "6b12e6394c1c71ee13ba9ede524dbe15b2c34ef9f4bf4f69c89a130f66344416b72539f72f97a197a49c3d29e22c6cd17ffbb3b581f481a8f6c64239d62a7acb"
+      },
+      "3_0_2": {
+        "name": "botarium-neoforge-1.20.4-3.0.2-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/MhGI2ONd/botarium-neoforge-1.20.4-3.0.2-javadoc.jar",
+        "sha512": "0f204e7baa3a38d6785230338577aeae551d01ef500defde9ed28f23c4a7e88d4763ec4a1b80fcd82e4db4b3707e855e8dd77144a8e015945d16631b9922bc73"
+      },
+      "3_0_1": {
+        "name": "botarium-neoforge-1.20.4-3.0.1-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/3dL6CGL9/botarium-neoforge-1.20.4-3.0.1-javadoc.jar",
+        "sha512": "3cc68b994ff537333bf3ee7c06aec2aa3dc6b2cf5fa0bee1eb0d5259b2080596ac6bbb4263af3e462332aed3013606d9633ea2b552a56ade202c63cd32850931"
+      },
+      "3_0_0": {
+        "name": "botarium-neoforge-1.20.4-3.0.0-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/dVA9tkeY/botarium-neoforge-1.20.4-3.0.0-javadoc.jar",
+        "sha512": "94475657558f2410b25bca5633e51b7639cd60f862b52275eed937d0a4e2290e52c316ba7fcfc3dada5f14ad17bb6fe5a310c4a4e609e9a5d4ae8b625b99437b"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "botarium-forge-1.20.1-2.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+        "sha512": "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01"
+      },
+      "2_3_4": {
+        "name": "botarium-forge-1.20.1-2.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+        "sha512": "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01"
+      },
+      "2_3_3": {
+        "name": "botarium-forge-1.20.1-2.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/rkELoRmb/botarium-forge-1.20.1-2.3.3.jar",
+        "sha512": "0a091f415b4b189edde33c6036658c63ea64c5c509b7ff38f499ed99b1fb58e33c00ef5a1f2dedf96ba2220ca5cde7962b5aaecdfa057eabe88446a449d6f655"
+      },
+      "2_3_2": {
+        "name": "botarium-forge-1.20.1-2.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/qIdyusHN/botarium-forge-1.20.1-2.3.2.jar",
+        "sha512": "66cd311fa64f32085f5a240d7145f641735deea2124dea825619d1d63ea2941c08a0cc957108d67046f294cb83c590ff78cd45d74c63a63231c61247112e49c4"
+      },
+      "2_3_1": {
+        "name": "botarium-forge-1.20.1-2.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/aB6vOqFQ/botarium-forge-1.20.1-2.3.1.jar",
+        "sha512": "19f4dcf76209f43e0618491e1af04eceafaaf676cfec7bfc3832314e9cf5376d67ada54bb86e7cdb2b43c2519065c7a93261a5e4c3e1f5899c0c334d272c3552"
+      },
+      "2_3_0": {
+        "name": "botarium-forge-1.20.1-2.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/D7ns311e/botarium-forge-1.20.1-2.3.0.jar",
+        "sha512": "41fd1a57eaf018a9f20340a1cc1fafdf21f294367ec5b90097528ee5f411db03dbdbe69d9df136a837c8214d1671998b496e48f0881057cd058191e023c0a261"
+      },
+      "2_2_7": {
+        "name": "botarium-forge-1.20.1-2.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/9MBmsFJR/botarium-forge-1.20.1-2.2.7.jar",
+        "sha512": "71c6fe90ad241da775595fec3275bd146115f636aba2574f2e685b4abf6e6b0ea4ffe3b9a39af77593e758db9139089fbde173729b11d940d59f27c8244c9212"
+      },
+      "2_2_6": {
+        "name": "botarium-forge-1.20.1-2.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/sSvfMEVN/botarium-forge-1.20.1-2.2.6.jar",
+        "sha512": "e23073306304cf2c60044ae443bdcfc89b4f075ff2bfd0d6f5fe09468e2ad43d856fb8a2849bf83593ed6d098ab501d6732bbaa3ccab97a27a8432b0592ce1b3"
+      },
+      "2_2_5": {
+        "name": "botarium-forge-1.20.1-2.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ylXSUO0N/botarium-forge-1.20.1-2.2.5.jar",
+        "sha512": "48e03bdb7537ba3201e69922fc28868180bfc8318a26e92949938bf09d88b07947e7156f51c72b2891b593c8a76721302003a1ea451b1448af9aff29c6e05e7f"
+      },
+      "2_2_4": {
+        "name": "botarium-forge-1.20.1-2.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/FU6S7EKL/botarium-forge-1.20.1-2.2.4.jar",
+        "sha512": "2ed5920b0468e5742ebfa7245bee37061dd0175b5053776bfb3008174e98d9c28ba648b31ee37c4a1640fc8738e6d65b11815654ac593bec8ee3155a686f9086"
+      },
+      "2_2_3": {
+        "name": "botarium-forge-1.20.1-2.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/hifY7fmm/botarium-forge-1.20.1-2.2.3.jar",
+        "sha512": "91a5b354171bb7033edb9cecca862996ccf776e9d1a248cc2699ac26151967ade5e2e22774ba6be0e44a0c0d1fe71eac8b9640752e79d615322a91fbe881c90b"
+      },
+      "2_2_2": {
+        "name": "botarium-forge-1.20.1-2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/Z4lN6FM5/botarium-forge-1.20.1-2.2.2.jar",
+        "sha512": "ecc8bd1dbb58ca2fdc9a7f2c3cd3a644f006f07d40a4bae328c3cf4553c57c13961254f16e7d48c2715eacc2797099a7ae26b2b9d1e017faca1cab7e51bb67fa"
+      }
+    }
+  },
+  "forge": {
+    "1_20_4": {
+      "latest": {
+        "name": "botarium-forge-1.20.4-3.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/eR9yLHBR/botarium-forge-1.20.4-3.0.8.jar",
+        "sha512": "dd5aa5ebec0510228e890046db9d3554b64d34b2c3123dee0793487657842b79b78d9cc8b3a0fda8da8a500cfc1acd7bfc142694b7faa67e05376cbc66f056a2"
+      },
+      "3_0_8": {
+        "name": "botarium-forge-1.20.4-3.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/eR9yLHBR/botarium-forge-1.20.4-3.0.8.jar",
+        "sha512": "dd5aa5ebec0510228e890046db9d3554b64d34b2c3123dee0793487657842b79b78d9cc8b3a0fda8da8a500cfc1acd7bfc142694b7faa67e05376cbc66f056a2"
+      },
+      "3_0_7": {
+        "name": "botarium-forge-1.20.4-3.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/odVKHzZM/botarium-forge-1.20.4-3.0.7.jar",
+        "sha512": "0cdeb1da2cfb692f6256ce16b0b8811df9e575f3f02934ec3757b2c18f7bb05ec0cdb93cb631d9a1901dbdaf1e7e5239e49fa520b432b5fa489d028ee0fcc5aa"
+      },
+      "3_0_5": {
+        "name": "botarium-forge-1.20.4-3.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/duKuPA8y/botarium-forge-1.20.4-3.0.5.jar",
+        "sha512": "36e51a6bf3a3ee71424b89b495249599415c2223ce4736ffb59af25ee67f1068de457a6b8c9077841dc6cf541d2ef12132c4f7333e1f2381ff59b4cde298b313"
+      },
+      "3_0_4": {
+        "name": "botarium-forge-1.20.4-3.0.4-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/9kqEoM2Q/botarium-forge-1.20.4-3.0.4-javadoc.jar",
+        "sha512": "ff1ca322015275d0fc127c35483d4a2a0096853cc6615bc252a4d8af960688deab05d69b0c7258a4088f7023f9ee177d3e34cc83fddae11162274cf2b9d57e9e"
+      },
+      "3_0_3": {
+        "name": "botarium-forge-1.20.4-3.0.3-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/gdnay8fB/botarium-forge-1.20.4-3.0.3-javadoc.jar",
+        "sha512": "5f234c7f98ea04a79a273477761fd33719eaaefffe9fd11fa6cd001356f1abde31ac077642a35657063e2290ada165a4d12edaef03951c01e44e8431990d96b2"
+      },
+      "3_0_2": {
+        "name": "botarium-forge-1.20.4-3.0.2-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/sKz7WBhq/botarium-forge-1.20.4-3.0.2-javadoc.jar",
+        "sha512": "ba7eadd10a4366147b38dd932c5c76d0d0ad55250252a34ea040c77973465c20558431a1adaa94596c99063c91a8e2db87299e2a2f30801aabb5a7b8811b3d69"
+      },
+      "3_0_1": {
+        "name": "botarium-forge-1.20.4-3.0.1-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/M0peep2T/botarium-forge-1.20.4-3.0.1-javadoc.jar",
+        "sha512": "087235c14dd0411cddde7aa0f20fee36cf49ad71f1fb0ffedd7d86f19a005e4db1fa8234e0a27489b7be12c592e379547943823b132b0d133f7fa4aa3dd5b405"
+      },
+      "3_0_0": {
+        "name": "botarium-forge-1.20.4-3.0.0-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/yRDh0jgn/botarium-forge-1.20.4-3.0.0-javadoc.jar",
+        "sha512": "2271937902b0ee25f9bb764a51da92bf6a508ca7aaf54ee395d304ffc9c2e9e499e6d9060cdf1b5db30f58b1272fd5f8ea211f02e9ea0ab00a2d253f88553bd5"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "botarium-forge-1.20.1-2.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+        "sha512": "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01"
+      },
+      "2_3_4": {
+        "name": "botarium-forge-1.20.1-2.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+        "sha512": "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01"
+      },
+      "2_3_3": {
+        "name": "botarium-forge-1.20.1-2.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/rkELoRmb/botarium-forge-1.20.1-2.3.3.jar",
+        "sha512": "0a091f415b4b189edde33c6036658c63ea64c5c509b7ff38f499ed99b1fb58e33c00ef5a1f2dedf96ba2220ca5cde7962b5aaecdfa057eabe88446a449d6f655"
+      },
+      "2_3_2": {
+        "name": "botarium-forge-1.20.1-2.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/qIdyusHN/botarium-forge-1.20.1-2.3.2.jar",
+        "sha512": "66cd311fa64f32085f5a240d7145f641735deea2124dea825619d1d63ea2941c08a0cc957108d67046f294cb83c590ff78cd45d74c63a63231c61247112e49c4"
+      },
+      "2_3_1": {
+        "name": "botarium-forge-1.20.1-2.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/aB6vOqFQ/botarium-forge-1.20.1-2.3.1.jar",
+        "sha512": "19f4dcf76209f43e0618491e1af04eceafaaf676cfec7bfc3832314e9cf5376d67ada54bb86e7cdb2b43c2519065c7a93261a5e4c3e1f5899c0c334d272c3552"
+      },
+      "2_3_0": {
+        "name": "botarium-forge-1.20.1-2.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/D7ns311e/botarium-forge-1.20.1-2.3.0.jar",
+        "sha512": "41fd1a57eaf018a9f20340a1cc1fafdf21f294367ec5b90097528ee5f411db03dbdbe69d9df136a837c8214d1671998b496e48f0881057cd058191e023c0a261"
+      },
+      "2_2_7": {
+        "name": "botarium-forge-1.20.1-2.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/9MBmsFJR/botarium-forge-1.20.1-2.2.7.jar",
+        "sha512": "71c6fe90ad241da775595fec3275bd146115f636aba2574f2e685b4abf6e6b0ea4ffe3b9a39af77593e758db9139089fbde173729b11d940d59f27c8244c9212"
+      },
+      "2_2_6": {
+        "name": "botarium-forge-1.20.1-2.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/sSvfMEVN/botarium-forge-1.20.1-2.2.6.jar",
+        "sha512": "e23073306304cf2c60044ae443bdcfc89b4f075ff2bfd0d6f5fe09468e2ad43d856fb8a2849bf83593ed6d098ab501d6732bbaa3ccab97a27a8432b0592ce1b3"
+      },
+      "2_2_5": {
+        "name": "botarium-forge-1.20.1-2.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ylXSUO0N/botarium-forge-1.20.1-2.2.5.jar",
+        "sha512": "48e03bdb7537ba3201e69922fc28868180bfc8318a26e92949938bf09d88b07947e7156f51c72b2891b593c8a76721302003a1ea451b1448af9aff29c6e05e7f"
+      },
+      "2_2_4": {
+        "name": "botarium-forge-1.20.1-2.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/FU6S7EKL/botarium-forge-1.20.1-2.2.4.jar",
+        "sha512": "2ed5920b0468e5742ebfa7245bee37061dd0175b5053776bfb3008174e98d9c28ba648b31ee37c4a1640fc8738e6d65b11815654ac593bec8ee3155a686f9086"
+      },
+      "2_2_3": {
+        "name": "botarium-forge-1.20.1-2.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/hifY7fmm/botarium-forge-1.20.1-2.2.3.jar",
+        "sha512": "91a5b354171bb7033edb9cecca862996ccf776e9d1a248cc2699ac26151967ade5e2e22774ba6be0e44a0c0d1fe71eac8b9640752e79d615322a91fbe881c90b"
+      },
+      "2_2_2": {
+        "name": "botarium-forge-1.20.1-2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/Z4lN6FM5/botarium-forge-1.20.1-2.2.2.jar",
+        "sha512": "ecc8bd1dbb58ca2fdc9a7f2c3cd3a644f006f07d40a4bae328c3cf4553c57c13961254f16e7d48c2715eacc2797099a7ae26b2b9d1e017faca1cab7e51bb67fa"
+      },
+      "2_2_1": {
+        "name": "botarium-forge-1.20.1-2.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/kLa36Hso/botarium-forge-1.20.1-2.2.1.jar",
+        "sha512": "886bf04336140114cdd141bf1604a3545cec412642ae9b48b0892b959c863ba19c2eb681df9d3e1f03986dac2f3c1edc6e8153a70dd65e1b9c81474aad760485"
+      },
+      "2_2_0": {
+        "name": "botarium-forge-1.20.1-2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/sRN61sQh/botarium-forge-1.20.1-2.2.0.jar",
+        "sha512": "b81461c37a51b84dcd2de1b26dc4fa43c939e9b13073c76e779158d1310b3a30c56a248308b8e7e0c61053d8f1f1fcafdd49084f780a72c503e3f28ef6c4349a"
+      },
+      "2_1_2": {
+        "name": "botarium-forge-1.20.1-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/wvz5iRrD/botarium-forge-1.20.1-2.1.2.jar",
+        "sha512": "3c717ddb8a4d6d79d504f151c4bbbb287c0ae235b8a8469dd8ea15756d604908458bf767485cfdc2e316fee654fce3827c5d7a42e76b5c52b038e1a56a3663c7"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "botarium-forge-1.20-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/FcY39Wh0/botarium-forge-1.20-2.1.1.jar",
+        "sha512": "6abc3babd8b6c4f2f09367eb52ba7f0862317bc4a611fd133305cceef64d36f164ea714fb4f38084982df45122da6227eacf7db7dc0ce2c2c9202646516e2b15"
+      },
+      "2_1_1": {
+        "name": "botarium-forge-1.20-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/FcY39Wh0/botarium-forge-1.20-2.1.1.jar",
+        "sha512": "6abc3babd8b6c4f2f09367eb52ba7f0862317bc4a611fd133305cceef64d36f164ea714fb4f38084982df45122da6227eacf7db7dc0ce2c2c9202646516e2b15"
+      },
+      "2_1_0": {
+        "name": "botarium-forge-1.20-2.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/cTLYvv5B/botarium-forge-1.20-2.1.0.jar",
+        "sha512": "cd336f76bf20677e00a0be2eb66ec423613de39ac2f127a92a9202c4685db2a01b0871648bbcbfa38c6bb9e2b5cdc4fca21019a80ffa904473e0d213d5c133b8"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "botarium-forge-1.19.4-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/W2Cpszcu/botarium-forge-1.19.4-2.0.5.jar",
+        "sha512": "62c9ba5f808a742ef1c03c1d428d7968f903f81d115d5083f83f9d4ca63b2341caedf0403e409afee9c9c5b922085ed492bb178f3594ce46f75e404e08a15e2d"
+      },
+      "2_0_5": {
+        "name": "botarium-forge-1.19.4-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/W2Cpszcu/botarium-forge-1.19.4-2.0.5.jar",
+        "sha512": "62c9ba5f808a742ef1c03c1d428d7968f903f81d115d5083f83f9d4ca63b2341caedf0403e409afee9c9c5b922085ed492bb178f3594ce46f75e404e08a15e2d"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "botarium-forge-1.19.3-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/K3YJQheO/botarium-forge-1.19.3-2.0.5.jar",
+        "sha512": "c0ecb45ff1305f85369015b948dfbea9ce4035aa44629818adb2d36102dd6b56f02df2727af6ce092ed707e17c7f893f309905346c5f5545595c9e5b0feeee04"
+      },
+      "2_0_5": {
+        "name": "botarium-forge-1.19.3-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/K3YJQheO/botarium-forge-1.19.3-2.0.5.jar",
+        "sha512": "c0ecb45ff1305f85369015b948dfbea9ce4035aa44629818adb2d36102dd6b56f02df2727af6ce092ed707e17c7f893f309905346c5f5545595c9e5b0feeee04"
+      },
+      "2_0_4": {
+        "name": "botarium-forge-1.19.3-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/tcZxm5SG/botarium-forge-1.19.3-2.0.4.jar",
+        "sha512": "c47b3c993dacd805b3b126683b61113e7df374c19da3f6eaf1ea5ad79a9fff8de15cb177c970c207c8edd0ac06f33d3c01be8a8d4e87cb713fda57a001e6b57f"
+      },
+      "2_0_1": {
+        "name": "botarium-forge-1.19.3-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/oSrobFFt/botarium-forge-1.19.3-2.0.1.jar",
+        "sha512": "28a3ddbc211895bc932b07cb642f9998243538ef2c2e929ad32a73eb6eacc323b92615fe7c403935428762b2dd50336a1a460f3210e62249ccad0e731be54ee0"
+      },
+      "2_0_0": {
+        "name": "botarium-forge-1.19.3-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/XZKl4K02/botarium-forge-1.19.3-2.0.0.jar",
+        "sha512": "66f5bda81ef6c937fce1a52c4cddbe920cc53ec6246d4b3ce23f9262b241cbbcfe6043fb71139c97559ce53a8caf19144cafc5d9b32289f38c08db3eb115d50e"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "botarium-forge-1.19.2-1.9.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/d3FyC3ZY/botarium-forge-1.19.2-1.9.2.jar",
+        "sha512": "5b12538c52410e25d30b17b9cdc6563ea3209d5855263719336283ed49c327d9e11921c4ac40093d99d7d321d1bd84be3525d729e42090496564e7fac6ed77d5"
+      },
+      "1_9_2": {
+        "name": "botarium-forge-1.19.2-1.9.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/d3FyC3ZY/botarium-forge-1.19.2-1.9.2.jar",
+        "sha512": "5b12538c52410e25d30b17b9cdc6563ea3209d5855263719336283ed49c327d9e11921c4ac40093d99d7d321d1bd84be3525d729e42090496564e7fac6ed77d5"
+      },
+      "1_9_1": {
+        "name": "botarium-forge-1.19.2-1.9.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/amT8xfAm/botarium-forge-1.19.2-1.9.1.jar",
+        "sha512": "3b012b09e074aad8ec6741accd0cac045e70e3519bb660392b643ef5782e4fd48e382ffbf15e0698e84bf2004806938678f4b1e022e0a3ba2a88c6948befed40"
+      },
+      "1_9_0": {
+        "name": "botarium-forge-1.19.2-1.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/32I8HuXZ/botarium-forge-1.19.2-1.9.0.jar",
+        "sha512": "c258a1c901d63cb761ee0e28b52c5fa13b5ca92f0747765a6eefb15cd9cdaea53dad86d57b12798cc8da4085814ac72af6e9cd169fa38b5814020d121922556b"
+      },
+      "1_8_2": {
+        "name": "botarium-forge-1.19.2-1.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ARPkqhAA/botarium-forge-1.19.2-1.8.2.jar",
+        "sha512": "a1d6d920e5ad678fbd0cd762962a20b6629cf5bc0c6a3cdbcc1cc910f1d5ad4633792ff64a868c98cf111ce4e5c4b15529fff8f58055f1ac67c2e22846142718"
+      },
+      "1_8_0": {
+        "name": "botarium-forge-1.19.2-1.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/SmCay2Ti/botarium-forge-1.19.2-1.8.0.jar",
+        "sha512": "8a5b783090c5ecfe12c6ecefbef1bc2fbfbf4ba96296340344c56735a03779be8efe4e3387183e2101507fe605cb37463aa940a0d7528b90a42b15832e4d92c0"
+      },
+      "1_7_17": {
+        "name": "botarium-forge-1.19.2-1.7.17.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/FauNRBdN/botarium-forge-1.19.2-1.7.17.jar",
+        "sha512": "23c4de1f4c65e82082b381e6602f7268d3e50016034d6b0b9b4a8cb02b0d68f294a4310e05ca7b9f0f082fb3b70c9bf2014e91d4d5fc8174a1058db9925822a8"
+      },
+      "1_7_16": {
+        "name": "botarium-forge-1.19.2-1.7.16.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/xJWCmdyF/botarium-forge-1.19.2-1.7.16.jar",
+        "sha512": "a6f66a0746979c8b7651408df0f58696f29503f76264a33567ba2e0abb8d38947f47d979291a55470b23533f8da1a482f67280427c6fbf94702a5b6cd1ef0530"
+      },
+      "1_7_15": {
+        "name": "botarium-forge-1.19.2-1.7.15.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/VibsgUla/botarium-forge-1.19.2-1.7.15.jar",
+        "sha512": "6bc0d5aa701c384b477cc5679206b33422b10ba02d19c64c3f077597d3281b1ec40e3e92ef44be83616778d3013ba80381b015468dbbf9e21fc8fa94509fd9e4"
+      },
+      "1_7_14": {
+        "name": "botarium-forge-1.19.2-1.7.14.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ZUuLmCWS/botarium-forge-1.19.2-1.7.14.jar",
+        "sha512": "ee175dbb517791988b38e12f0713174d8b47a3baa1a48e795bb1ef7e76322306f00f19a9a76e597939cfd42767b9d882579044fc877a34dbec505f8142975e16"
+      },
+      "1_7_12": {
+        "name": "botarium-forge-1.19.2-1.7.12.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/LhRbwlAR/botarium-forge-1.19.2-1.7.12.jar",
+        "sha512": "243ce553b080210ceba183fac8a22bf29aba2e32a485dc694b9a63ca42fde173957f5685b518455bd734aaf64d6ef3be74225329caaf820263b95d8a99fc8583"
+      },
+      "1_7_10": {
+        "name": "botarium-forge-1.19.2-1.7.10.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/aycOjnEC/botarium-forge-1.19.2-1.7.10.jar",
+        "sha512": "05175feab45426c5bc51c85c15265ecf5ed51c813dfdc2c77196ae666524ea8ea7bfd0e927d3145e04f5e23bb1cc6d561e19f9121ce0f35e7ddd5fa6c20c219a"
+      },
+      "1_7_9": {
+        "name": "botarium-forge-1.19.2-1.7.9.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/e0SWPKSy/botarium-forge-1.19.2-1.7.9.jar",
+        "sha512": "6cd702d2af91fc4499a6cf752ae74b3f03cc575fc489af29b53be0de4d4419cac2ab7a8a3d29d34d466236601d97b4e0d8c0889c8c9fad9b7d2f20881ef38823"
+      },
+      "1_7_8": {
+        "name": "botarium-forge-1.19.2-1.7.8.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/u7oOeeWm/botarium-forge-1.19.2-1.7.8.jar",
+        "sha512": "4667e7e1eb115ab5d49a2a9ff30b3e85ca0ba45637249b5b34db901e8de2a63216e40f5d9c0e0a4cbb7633a57709a38e70e9d2c5c2cb0957dd7d6f8dc4e35023"
+      },
+      "1_7_6": {
+        "name": "botarium-forge-1.19.2-1.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/xOZxDDRs/botarium-forge-1.19.2-1.7.6.jar",
+        "sha512": "01850063983f54d27104e1dfea2a6d64295180cff4d07e82dcf8e09a6367fbf32da69d9434a8fa64abed4a7dc272eecd13b6e208f81e4d1759fe04569f9ae128"
+      },
+      "1_7_4": {
+        "name": "botarium-forge-1.19.2-1.7.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/wdtsceOJ/botarium-forge-1.19.2-1.7.4.jar",
+        "sha512": "6527297b119c9607087c54434ccea8fe45298120b607bc3219eb83053433438036b9660a5eb336d81b24135249c397b7a1c6c3bb745068bb0573757f9e1b083c"
+      },
+      "1_7_3": {
+        "name": "botarium-forge-1.19.2-1.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/bqAXfAn7/botarium-forge-1.19.2-1.7.3.jar",
+        "sha512": "7c0db9fa3a456b7033f7224c81c3a3426fcb21c75b5e96478759a19c360196caee6e6ab7f5008c39c790dd9b466bc6393a048606ef01d7f2906e6bee07fd2bc8"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "botarium-forge-1.18.2-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/WQsGLmIm/botarium-forge-1.18.2-2.0.5.jar",
+        "sha512": "26c6f555ed70a22b24058a6e524cc96f125f461d4e7c3a29a28ba809435136b209f553fb577c7bdc787d9f59278d5f8578222ea80e1cedbe7be782df619d4073"
+      },
+      "2_0_5": {
+        "name": "botarium-forge-1.18.2-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/WQsGLmIm/botarium-forge-1.18.2-2.0.5.jar",
+        "sha512": "26c6f555ed70a22b24058a6e524cc96f125f461d4e7c3a29a28ba809435136b209f553fb577c7bdc787d9f59278d5f8578222ea80e1cedbe7be782df619d4073"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_4": {
+      "latest": {
+        "name": "botarium-fabric-1.20.4-3.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/Eqw90l8p/botarium-fabric-1.20.4-3.2.2.jar",
+        "sha512": "e6aef66d86736fb83cfc5d829d11928a03a914d14bfc5153b56e9711ee658cf7bc792406ffaf93cc670ca018ed6da05a167114206be4f870bc9debd4aaa56271"
+      },
+      "3_2_2": {
+        "name": "botarium-fabric-1.20.4-3.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/Eqw90l8p/botarium-fabric-1.20.4-3.2.2.jar",
+        "sha512": "e6aef66d86736fb83cfc5d829d11928a03a914d14bfc5153b56e9711ee658cf7bc792406ffaf93cc670ca018ed6da05a167114206be4f870bc9debd4aaa56271"
+      },
+      "3_2_1": {
+        "name": "botarium-fabric-1.20.4-3.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/Prf9ptX8/botarium-fabric-1.20.4-3.2.1.jar",
+        "sha512": "b2b9fa4219a9864593b846404799c35f7e3628295d21817b14ffdddc1427a9ba2b2c3f3d6cef507d6e76508c798f8e179d3b6aa1ce143db3cedd5eb59b07aa2b"
+      },
+      "3_2_0": {
+        "name": "botarium-fabric-1.20.4-3.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/CteowD2c/botarium-fabric-1.20.4-3.2.0.jar",
+        "sha512": "1bcdc3e16c1f03f3edaa035e0f28c0541b99b8f9cae50e2a049bc815fba583f804a01492a8df661551e9cc7843b21ca3e8fe8a38e4a8db0925ce95c5dee227f1"
+      },
+      "3_1_1": {
+        "name": "botarium-fabric-1.20.4-3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/RkQFOFyA/botarium-fabric-1.20.4-3.1.1.jar",
+        "sha512": "9bf194a21a05403ee8899f6889f55f8c1bbe3a8ba219baea5f9ddd8f8f18106b138ec1787a7ddd5e9d94b7cd76095ec41368f524e1c6f0cd7f8ca3341f69b2df"
+      },
+      "3_1_0": {
+        "name": "botarium-fabric-1.20.4-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ozyRGt9y/botarium-fabric-1.20.4-3.1.0.jar",
+        "sha512": "9a577350266b269e14c8483ebc34d98cbb0287bfdf933f3c5e4c4eb9c789f3b364cbc3cd28d36c9913f1fadeb139420ffc74e05b366a24360fd880bafdc389c5"
+      },
+      "3_0_8": {
+        "name": "botarium-fabric-1.20.4-3.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/dRBvPUXm/botarium-fabric-1.20.4-3.0.8.jar",
+        "sha512": "72b286accaabd082743019d2ac46f074a710ee939e0c6019051e4ba8985aba3b5376b45db8b6eb5e98571fed3881c53fbf4c831672de628105d7c69714d7ce1a"
+      },
+      "3_0_7": {
+        "name": "botarium-fabric-1.20.4-3.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/zpn3Bpn4/botarium-fabric-1.20.4-3.0.7.jar",
+        "sha512": "d6f3e8aa5182afaa89363967d1af64fb51b4a17b4badb9daaaac96e44be0d5f8d6a2ec2a72d0baed3d9c208ec5bb23b3e056999783601352a79b128b74aefba5"
+      },
+      "3_0_5": {
+        "name": "botarium-fabric-1.20.4-3.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/A5KfQLTb/botarium-fabric-1.20.4-3.0.5.jar",
+        "sha512": "5cc3cfc53762f628d0f9e2786c496133a6f65bf9927f39cd27d6e3ab9666212717c9922957b16dd6c44d564b5a00e9e7c1d64abf90e55ef7ffe58d0a26cde89f"
+      },
+      "3_0_4": {
+        "name": "botarium-fabric-1.20.4-3.0.4-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/C8sWOuj4/botarium-fabric-1.20.4-3.0.4-javadoc.jar",
+        "sha512": "1adf18dc18fc3ecf677a3476877e46eaacf0b31c0445f2976bf87d3b66113a562e463fc01a6ad4dde0aa002459a6bd84d21c7dcf5ef2dbc92354e5b6b9b8f7b8"
+      },
+      "3_0_3": {
+        "name": "botarium-fabric-1.20.4-3.0.3-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/FHQ3m2iq/botarium-fabric-1.20.4-3.0.3-javadoc.jar",
+        "sha512": "58f59a404fead6c598e2d69490b0b5008ecd36eecc78a486790e9b3add49ffb7e5c110ed7b0f3fdb4e68db435d62701148f3724a3b9ebe1e563a717f0cfe062b"
+      },
+      "3_0_2": {
+        "name": "botarium-fabric-1.20.4-3.0.2-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O8TcTNir/botarium-fabric-1.20.4-3.0.2-javadoc.jar",
+        "sha512": "cc2d9b82f9365d562219a22f15cd8fe6c102360a0c94173f74bd24c12b987f95ae6bd86ef8861815021a6c833d131f6896253fdf7b7c88877216099ae1cff905"
+      },
+      "3_0_1": {
+        "name": "botarium-fabric-1.20.4-3.0.1-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/7gbWbAZr/botarium-fabric-1.20.4-3.0.1-javadoc.jar",
+        "sha512": "fe06998fe546157c2fab43ab06ee919d6ca3f620847021265e8de0b9959eafc3dcde71897f7b35e65b6dcd452c48bd4cae00346c136afb63ae5c47db527d5a9e"
+      },
+      "3_0_0": {
+        "name": "botarium-fabric-1.20.4-3.0.0-javadoc.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/lKNIBMPo/botarium-fabric-1.20.4-3.0.0-javadoc.jar",
+        "sha512": "c18da2ba1a86274ae114388882ad200d8abf4c122080d2ef3675d0685569da99332aef313c66487529278b31c4c88734721037b94f1f5beebda2e50b6a7faaae"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "botarium-fabric-1.20.1-2.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/f3ATcSfq/botarium-fabric-1.20.1-2.3.4.jar",
+        "sha512": "03589a8d05c17dbb4271c212d0eb00c53d9d5c0705f63c7816ff9e099245db71f94e7c544e323beaeac28d30bd3807eeccb1352792cb6d778ff6ecf68f4635c7"
+      },
+      "2_3_4": {
+        "name": "botarium-fabric-1.20.1-2.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/f3ATcSfq/botarium-fabric-1.20.1-2.3.4.jar",
+        "sha512": "03589a8d05c17dbb4271c212d0eb00c53d9d5c0705f63c7816ff9e099245db71f94e7c544e323beaeac28d30bd3807eeccb1352792cb6d778ff6ecf68f4635c7"
+      },
+      "2_3_3": {
+        "name": "botarium-fabric-1.20.1-2.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/5a8eybLl/botarium-fabric-1.20.1-2.3.3.jar",
+        "sha512": "ba1dcf57c87a4a74932aa5e0da25342e6007cf04d59c54cadc70ed57f8e5193b052ae09e28afe353edfb978805d761364171b1e8cfbdbde97e7ea69735869fae"
+      },
+      "2_3_2": {
+        "name": "botarium-fabric-1.20.1-2.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/DovxJcMc/botarium-fabric-1.20.1-2.3.2.jar",
+        "sha512": "7ea66948e4c144c95ee3e3421d6fc251392d512f3e173fd1b876db74343b36186da81fe034d90d1f8b41af0cadd47e25405b2144839ab53ce6043ab46c189fc8"
+      },
+      "2_3_1": {
+        "name": "botarium-fabric-1.20.1-2.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/a6dUCytc/botarium-fabric-1.20.1-2.3.1.jar",
+        "sha512": "732593142e3f2defcb34cba4a85fb1c9985f74fb7350694c89f762a7982988a3b6d2825bbccdcdca787d5e38b7a1a596c88d4a5794ae4bbd86f9e5ae38a34c99"
+      },
+      "2_3_0": {
+        "name": "botarium-fabric-1.20.1-2.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/Iys3Keyt/botarium-fabric-1.20.1-2.3.0.jar",
+        "sha512": "853ef3764964abfd135fb604f65c66cd0eac7bbb65a0d87dc245bc676d620c4dd5130e4c1510fa9e3ab559e1b155c269c34010a320e50bf2cbe27a92f3b5ac31"
+      },
+      "2_2_7": {
+        "name": "botarium-fabric-1.20.1-2.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/BQ6Wu35Q/botarium-fabric-1.20.1-2.2.7.jar",
+        "sha512": "9b1ea99bfdc3301cdfa1a240f0a8cf32ef8a136f44cb3e565fec3026ff66e3c7b617d11bc201590318d7e81d5bd41c97d5d259923f2d9bce8cadf8a8cd266cce"
+      },
+      "2_2_6": {
+        "name": "botarium-fabric-1.20.1-2.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/K7nGwXMV/botarium-fabric-1.20.1-2.2.6.jar",
+        "sha512": "5ff964c703ff1efe90ca2fb83d81f0405b2c039d44a0bd2d04d10aefe339e66f27e8e87f8a62ffd1b146cf3723cff018ea9912bf6dc9f1f6e2a0bbd9c82958eb"
+      },
+      "2_2_5": {
+        "name": "botarium-fabric-1.20.1-2.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/7Jhsxb4y/botarium-fabric-1.20.1-2.2.5.jar",
+        "sha512": "eaf3fcd43a08230ac77ffb950687c8359f392920c40e7e3534179d489c0f63a82963c4795ce21d30b46ca390e54f79dd5789a5e34b4a3ec79a9ca8ab504a42ae"
+      },
+      "2_2_4": {
+        "name": "botarium-fabric-1.20.1-2.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/qom3wzFe/botarium-fabric-1.20.1-2.2.4.jar",
+        "sha512": "98ea62abff233c3dd996a908962139cb08ba01a4deb84259c869adef87531821c117d1936d2125465370ac45074b95668309296eb5c60b34d075d3c0d08bdf76"
+      },
+      "2_2_3": {
+        "name": "botarium-fabric-1.20.1-2.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/TPhj8D3F/botarium-fabric-1.20.1-2.2.3.jar",
+        "sha512": "13d179e557707d4cf7dd859a71c92dd04929b21e0f3ca0529463eed5ca20629bc27815140605bf2bc23088105ced0b61b7c7213d688ac0aef390072fb0feb50e"
+      },
+      "2_2_2": {
+        "name": "botarium-fabric-1.20.1-2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/rh8qkubR/botarium-fabric-1.20.1-2.2.2.jar",
+        "sha512": "9bce1b0de59144d833acfc99dc6b26fc0d23eb840a979494bc55093f70a592cda30da48da9c69f5e82986a6ad0f8d9b25cbf252f9328be0a27f27d4cd23fe62a"
+      },
+      "2_2_1": {
+        "name": "botarium-fabric-1.20.1-2.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/9yTYvTAh/botarium-fabric-1.20.1-2.2.1.jar",
+        "sha512": "4de3104e67fd5a40b703fae9440c561e2238d26a70f5179e8dfeb5805062a49f2370d749d3814b188dc19e2d744094bf73b3aea8249ba346744bdce1ce3226d1"
+      },
+      "2_2_0": {
+        "name": "botarium-fabric-1.20.1-2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/YgOh7n9M/botarium-fabric-1.20.1-2.2.0.jar",
+        "sha512": "6ef1fc2e4ca3e6e383b3a79866e9b0b59132f00af6cf3da71a96128a45b71e96f584d072ab2b7f9a3cea1c0639c072e79bc5ef3bc890c590fc6a474c7138b38d"
+      },
+      "2_1_2": {
+        "name": "botarium-fabric-1.20.1-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/9FoeclDH/botarium-fabric-1.20.1-2.1.2.jar",
+        "sha512": "f75d18ba1004753351f87a2b45fe7ea4207477e80c7d9ae3e9a8786f570d8f588ec0be3331a0ce087f48b966fffcc00848e8a9febc5d1db07e99d4a6542abad1"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "botarium-fabric-1.20-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/7cbTAVu7/botarium-fabric-1.20-2.1.1.jar",
+        "sha512": "c4bf4d298889bafee9aaf0ffb57a27979399db277961839b968a860fa1da540be363ca9f280428f699ee64cc7c953e8b9ea3b3c4ae8e946747591fc8134627d3"
+      },
+      "2_1_1": {
+        "name": "botarium-fabric-1.20-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/7cbTAVu7/botarium-fabric-1.20-2.1.1.jar",
+        "sha512": "c4bf4d298889bafee9aaf0ffb57a27979399db277961839b968a860fa1da540be363ca9f280428f699ee64cc7c953e8b9ea3b3c4ae8e946747591fc8134627d3"
+      },
+      "2_1_0": {
+        "name": "botarium-fabric-1.20-2.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/pMF0vSby/botarium-fabric-1.20-2.1.0.jar",
+        "sha512": "b72fb026c2c16355d38beddbdf5b29956ed6d3bab3e37fb2401a8269de1fef4141ffa5ad8a7ca629e733b3db6f9f079a358a1c4c1bfdefe533480ba80b8694c5"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "botarium-fabric-1.19.4-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/oUdhCaCg/botarium-fabric-1.19.4-2.0.5.jar",
+        "sha512": "3f1de505eae10c82ff45eeb4afe791e7ce4473447d065620d978bf9915ce2e461a00e7a84fc7f6709467ef23080f103827a434149b6115587a480b1c713707db"
+      },
+      "2_0_5": {
+        "name": "botarium-fabric-1.19.4-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/oUdhCaCg/botarium-fabric-1.19.4-2.0.5.jar",
+        "sha512": "3f1de505eae10c82ff45eeb4afe791e7ce4473447d065620d978bf9915ce2e461a00e7a84fc7f6709467ef23080f103827a434149b6115587a480b1c713707db"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "botarium-fabric-1.19.3-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/81wUktdl/botarium-fabric-1.19.3-2.0.5.jar",
+        "sha512": "97881d12892eb31a86e74664eb8af1512dfc91ba51a18ede7f5fa39f630a25be840a8480eca75fdeba208800ddc1a8cb29e595c4b39e595c0ba08b9b61d941e8"
+      },
+      "2_0_5": {
+        "name": "botarium-fabric-1.19.3-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/81wUktdl/botarium-fabric-1.19.3-2.0.5.jar",
+        "sha512": "97881d12892eb31a86e74664eb8af1512dfc91ba51a18ede7f5fa39f630a25be840a8480eca75fdeba208800ddc1a8cb29e595c4b39e595c0ba08b9b61d941e8"
+      },
+      "2_0_4": {
+        "name": "botarium-fabric-1.19.3-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/68GuPIir/botarium-fabric-1.19.3-2.0.4.jar",
+        "sha512": "1f556b1d94887b3754f0277352c85daa16e89f6ac35c7f3d230fb3822e6aa8ce0e7fdee90b6cbd11e093196bc2626b185dad16a72ed31baed472e539776a4c32"
+      },
+      "2_0_1": {
+        "name": "botarium-fabric-1.19.3-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/Geus4pFy/botarium-fabric-1.19.3-2.0.1.jar",
+        "sha512": "159a25f672d001c82861e7c5a5998594435b02990e09c1b8d57db5759028205882d2cc42a500f89eeb617261824abb9f41b294cd5ebceb1e08bf8ac057b00f0e"
+      },
+      "2_0_0": {
+        "name": "botarium-fabric-1.19.3-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/gaO0RRE6/botarium-fabric-1.19.3-2.0.0.jar",
+        "sha512": "f725071dbbfb09bc707df484d5de0f3bd629bdef0c652a2991df5fda3676a53bc5b03845766374700aa17ba97f3df9fc5a7e8d211a976060698b81b9659a9a71"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "botarium-fabric-1.19.2-1.9.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/G4dJhBjP/botarium-fabric-1.19.2-1.9.2.jar",
+        "sha512": "9778654d411b871a0003a6cb218cf38f9442a3da4d9d863d8778450440543a590bba2bd61c81f741c513e3258ec0a48e4d80fa0f401ec142a83680c99a7f2f21"
+      },
+      "1_9_2": {
+        "name": "botarium-fabric-1.19.2-1.9.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/G4dJhBjP/botarium-fabric-1.19.2-1.9.2.jar",
+        "sha512": "9778654d411b871a0003a6cb218cf38f9442a3da4d9d863d8778450440543a590bba2bd61c81f741c513e3258ec0a48e4d80fa0f401ec142a83680c99a7f2f21"
+      },
+      "1_9_1": {
+        "name": "botarium-fabric-1.19.2-1.9.1.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/X9e4hjps/botarium-fabric-1.19.2-1.9.1.jar",
+        "sha512": "8f3b2528c0dc1f810658de57de9ac0d74229d4a1d3647e1e2e5e4c542bc647cd4b8a0260c88dace56088969ddff04beda81d799a58c8409be35a2c8767543921"
+      },
+      "1_9_0": {
+        "name": "botarium-fabric-1.19.2-1.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/L4it9kM4/botarium-fabric-1.19.2-1.9.0.jar",
+        "sha512": "8276a9c8e7c1f428f2c12639d49636ca4cd16867777b508e741d9e27e23721597f54a3467f463134109fc8c2073c500a4d75cfc19167c1dc556d49ec17df34ae"
+      },
+      "1_8_2": {
+        "name": "botarium-fabric-1.19.2-1.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/2V9BLVs9/botarium-fabric-1.19.2-1.8.2.jar",
+        "sha512": "5ed9272d5ae6abd7ffe9950c143efe53f0d75436e70407dee9277dc31c2dc833858aca6645f85c556eaa4ca2bb4f8b25317722ac1bd51a88b75311f15869e7bd"
+      },
+      "1_8_0": {
+        "name": "botarium-fabric-1.19.2-1.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/SGU6kdwx/botarium-fabric-1.19.2-1.8.0.jar",
+        "sha512": "a4025be90ab687cdf86ea83e45eb618fe80fb0959ce24dd534e67fdf1b42c521b20b1f8d67c439e386336eeabd6fae0e7c7a8e8500fca9ce1aa3da6eff5f85a8"
+      },
+      "1_7_17": {
+        "name": "botarium-fabric-1.19.2-1.7.17.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/jSBrIWOE/botarium-fabric-1.19.2-1.7.17.jar",
+        "sha512": "a1b21230c9a065e8d9a0d1e5b6618879d4199766ebe16fb54b04173fee8a60ce644d5145b095f8fba992c318e602de207e46afa1f03945829a445c1f3a509b93"
+      },
+      "1_7_16": {
+        "name": "botarium-fabric-1.19.2-1.7.16.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/bT1vv4r7/botarium-fabric-1.19.2-1.7.16.jar",
+        "sha512": "773e755123e934e47a2d52ad71885729b6bf072cda9ba7cb6446ff3687cc2e5775582e40d8049f6c07d8f0f139be8711d582504062bbed2afdad3a73c07f01e2"
+      },
+      "1_7_15": {
+        "name": "botarium-fabric-1.19.2-1.7.15.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ljUwVxDn/botarium-fabric-1.19.2-1.7.15.jar",
+        "sha512": "c6c9a165deb4231bc229fe4d7e88ec44961d9b15f9318d97e43381fe096a504e55bf8c23d699ad0637093a490ceb5b495a43ea82ca056668a43ef421ebb7f4b5"
+      },
+      "1_7_14": {
+        "name": "botarium-fabric-1.19.2-1.7.14.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/vFRw8sIH/botarium-fabric-1.19.2-1.7.14.jar",
+        "sha512": "942a94ff15fbb811500f9ba0478fd9307e8b1c1665f877cbedc31fda4c52282a5003dc3eaf6a99c009990defb73c06a4d1976c3cec7bc41135229b7a2f3f9812"
+      },
+      "1_7_12": {
+        "name": "botarium-fabric-1.19.2-1.7.12.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/ug2UtVUo/botarium-fabric-1.19.2-1.7.12.jar",
+        "sha512": "f32429ad8a635ad1b8573cd419eaef10aaecf4941d55445059407a54174e2542802c39b15c039445c91517de73197770596f8630dd438060c83547b9e125b102"
+      },
+      "1_7_10": {
+        "name": "botarium-fabric-1.19.2-1.7.10.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/QJN99sLm/botarium-fabric-1.19.2-1.7.10.jar",
+        "sha512": "8bb4f7c4cfb0dccabb400218adc504d2c4014a9672c8108db70fee7d2e1af9686f1b336cde30323e42015af91308337ecccf4389fa466bdd8faa9b63e61ad42f"
+      },
+      "1_7_9": {
+        "name": "botarium-fabric-1.19.2-1.7.9.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/uBWe6LCs/botarium-fabric-1.19.2-1.7.9.jar",
+        "sha512": "a4835fa1ef166581ec8f96d5b4dd0666ebdfce2b879646a4b7279924fe0ddd9e8908f98ffd30c21f17094511f2ab07a3184a4e2e0f578f0bd3b3cf066631b87d"
+      },
+      "1_7_8": {
+        "name": "botarium-fabric-1.19.2-1.7.8.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/MJvBRUsi/botarium-fabric-1.19.2-1.7.8.jar",
+        "sha512": "d4c15c4e3f467d59f925a3e3c7b332b01448e00e381aa2da4892d87fd45a73fce8bb37d0470a124cc4be3713ba414e89247b21c9f98f1e38888869f96b07ad21"
+      },
+      "1_7_6": {
+        "name": "botarium-fabric-1.19.2-1.7.6.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/bLbv78rS/botarium-fabric-1.19.2-1.7.6.jar",
+        "sha512": "9e319f414b88d82ca114ce80f2e0af157df47a578e8f706584cfde23e81ac36853f3af34337c3e0e4a58a4c263edd5c7832dacfa2d07ac009a64a2a869ab5615"
+      },
+      "1_7_4": {
+        "name": "botarium-fabric-1.19.2-1.7.4.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/RJrojWLM/botarium-fabric-1.19.2-1.7.4.jar",
+        "sha512": "10dd0c365f91606ec5ef5406bc8a89002f062cd5f2c86b3f9b17dde6d6b2b28909495b2f66053832b1e2f240040ccf7c9d34111225fa7b92cb56c8039d55221d"
+      },
+      "1_7_3": {
+        "name": "botarium-fabric-1.19.2-1.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/oxrzyh0Q/botarium-fabric-1.19.2-1.7.3.jar",
+        "sha512": "4cb89935c4f2bedf0395f368b0afcb7b0d6110097e154d0cd5ce05e5595e703a9148141fab203f8624a261302e9fbf29cdb818e6ec89c3c963be72c8de2f0139"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "botarium-fabric-1.18.2-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/MQZwXyNL/botarium-fabric-1.18.2-2.0.5.jar",
+        "sha512": "2343d37bb6d58dc3198a010197d1e7ce6d1a25d8a06600b654ef19eca1f254275616dabdbbb6a08373331a2521534d2334214de45d753cec672889d414ddd059"
+      },
+      "2_0_5": {
+        "name": "botarium-fabric-1.18.2-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/MQZwXyNL/botarium-fabric-1.18.2-2.0.5.jar",
+        "sha512": "2343d37bb6d58dc3198a010197d1e7ce6d1a25d8a06600b654ef19eca1f254275616dabdbbb6a08373331a2521534d2334214de45d753cec672889d414ddd059"
+      }
+    }
+  }
+}

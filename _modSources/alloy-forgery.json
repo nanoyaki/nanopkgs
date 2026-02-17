@@ -1,0 +1,611 @@
+{
+  "quilt": {
+    "1_19_4": {
+      "latest": {
+        "name": "alloy-forgery-2.0.20+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/f32qSRXe/alloy-forgery-2.0.20%2B1.19.4.jar",
+        "sha512": "eeb088749a1ba1ffb91116f822bd8eb98e102aa83a085f60c37ec5818cd0ca5b80a2967e8c624327cd8293094970a8566278fff588d281eb07b3b5d6dae06e9c"
+      },
+      "2_0_20": {
+        "name": "alloy-forgery-2.0.20+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/f32qSRXe/alloy-forgery-2.0.20%2B1.19.4.jar",
+        "sha512": "eeb088749a1ba1ffb91116f822bd8eb98e102aa83a085f60c37ec5818cd0ca5b80a2967e8c624327cd8293094970a8566278fff588d281eb07b3b5d6dae06e9c"
+      },
+      "2_0_19": {
+        "name": "alloy-forgery-2.0.19+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/Iryj9UYC/alloy-forgery-2.0.19%2B1.19.4.jar",
+        "sha512": "ed6299eae8ea239b63cc70d8f4647d50b0bc6ebf7fb3710ee9f935a75c04935bd1fd143cae01872b028a64b8a73ba126c6066f95843af4af38170f1767134c37"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.19+1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/5M7CC5jy/wraith-alloy-forgery-2.0.19%2B1.19.3.jar",
+        "sha512": "63e30f92dde42b9c895bcf0b252e4164a00310a789bfcf9a2934d15b8a1026c81d9179d846ecaad9036c68b73425a64dfe36c62b7dc27a363867f8a9127a820a"
+      },
+      "2_0_19": {
+        "name": "wraith-alloy-forgery-2.0.19+1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/5M7CC5jy/wraith-alloy-forgery-2.0.19%2B1.19.3.jar",
+        "sha512": "63e30f92dde42b9c895bcf0b252e4164a00310a789bfcf9a2934d15b8a1026c81d9179d846ecaad9036c68b73425a64dfe36c62b7dc27a363867f8a9127a820a"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.20+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/kZQUifqT/wraith-alloy-forgery-2.0.20%2B1.19.jar",
+        "sha512": "97f3b8de287f9c7e42a72b95f3eb363d6c595679571c247e3c4d4c9f6f97ba13b2e71273da02611d5840f830f9b08b36d1e1c52b6523168d6d47fced2339f57c"
+      },
+      "2_0_20+1_19": {
+        "name": "wraith-alloy-forgery-2.0.20+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/kZQUifqT/wraith-alloy-forgery-2.0.20%2B1.19.jar",
+        "sha512": "97f3b8de287f9c7e42a72b95f3eb363d6c595679571c247e3c4d4c9f6f97ba13b2e71273da02611d5840f830f9b08b36d1e1c52b6523168d6d47fced2339f57c"
+      },
+      "2_0_19+1_19": {
+        "name": "wraith-alloy-forgery-2.0.19+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/g9j3BFGw/wraith-alloy-forgery-2.0.19%2B1.19.jar",
+        "sha512": "80b60429bea8ceef2701205a9ece93b7c03bc145009cb65b809aa238821e31f28b59e6f11d398e368e51eb044d4c50ff4c89a45a82a3e0f33ae1fca54a513950"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_10": {
+      "latest": {
+        "name": "alloy-forgery-neoforge-3.0.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/IbLK7c9L/alloy-forgery-neoforge-3.0.7%2B1.21.10.jar",
+        "sha512": "ba1e7d0159801fba6953bf5c3116da4214532be2d9ba6c38e4b5ec82331d281881e5a617a1dd0df6724b3f4b8e1ffbe048db8cb27ce4b3832203219f1b0dd653"
+      },
+      "3_0_7": {
+        "name": "alloy-forgery-neoforge-3.0.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/IbLK7c9L/alloy-forgery-neoforge-3.0.7%2B1.21.10.jar",
+        "sha512": "ba1e7d0159801fba6953bf5c3116da4214532be2d9ba6c38e4b5ec82331d281881e5a617a1dd0df6724b3f4b8e1ffbe048db8cb27ce4b3832203219f1b0dd653"
+      },
+      "3_0_2": {
+        "name": "alloy-forgery-neoforge-3.0.2+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/bSzY284P/alloy-forgery-neoforge-3.0.2%2B1.21.10.jar",
+        "sha512": "ef1c0750901ce76aae5f2d2b345e5e442f0c2578796f00efb4830ca451f43e50578d498b2d64d3264675916b5f39fdcf792a028e337b2da6fbfcbf2be3b86e06"
+      },
+      "3_0_0": {
+        "name": "alloy_forgery-neoforge-3.0.0+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/TXVzrP4W/alloy_forgery-neoforge-3.0.0%2B1.21.10.jar",
+        "sha512": "9f5da6bc22204b27672ba10b45dcc843855bb90ae1f6152ce18ee9bc95cd061a6fa50f9e7ffa4e167845ba702694d8aaef03d8dcdc954932cbce4832c9cae639"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "alloy-forgery-neoforge-3.0.7+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/efRDaCDN/alloy-forgery-neoforge-3.0.7%2B1.21.4.jar",
+        "sha512": "0895eb9bbfbf2a35b80af4c59d59d7f74a75a4487e910631b5c489ee4412d1f2abed8a56df39bb6ecb215ff3d13d638a35f88a390020cd9f3a3f836b826dc1ac"
+      },
+      "3_0_7": {
+        "name": "alloy-forgery-neoforge-3.0.7+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/efRDaCDN/alloy-forgery-neoforge-3.0.7%2B1.21.4.jar",
+        "sha512": "0895eb9bbfbf2a35b80af4c59d59d7f74a75a4487e910631b5c489ee4412d1f2abed8a56df39bb6ecb215ff3d13d638a35f88a390020cd9f3a3f836b826dc1ac"
+      },
+      "3_0_6": {
+        "name": "alloy-forgery-neoforge-3.0.6+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/arstyZFK/alloy-forgery-neoforge-3.0.6%2B1.21.4.jar",
+        "sha512": "5c7840d53c44136717f80e0643bc042069aa4b703f2e235a8b7ae80517dfe116af4fe937006b2e339c293244e4e0cde08b9a24a4443438a035626aba9220b1b0"
+      },
+      "3_0_5": {
+        "name": "alloy-forgery-neoforge-3.0.5+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/Fk5tiopa/alloy-forgery-neoforge-3.0.5%2B1.21.4.jar",
+        "sha512": "352fab1935726e5887357b33958fdee129ec83691aa3e6bc6e7c4c26564fe613a68159ce6f91adcced16b1079bdacd88ac003b8588e20e1f52a72b24abde5dac"
+      },
+      "3_0_2": {
+        "name": "alloy-forgery-neoforge-3.0.2+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/gHXlsEV1/alloy-forgery-neoforge-3.0.2%2B1.21.4.jar",
+        "sha512": "dca25d42e685cbe418a083c76bfe226c79c1d7d1d947056f05b0ade7078b5f8ae72b4931ce93bf4c1540b3d56774bab59d5f28d801f8b1cf87d2fa9bb483e304"
+      },
+      "3_0_0": {
+        "name": "alloy_forgery-neoforge-3.0.0+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/3UkKMuq5/alloy_forgery-neoforge-3.0.0%2B1.21.4.jar",
+        "sha512": "42882883bb88c9617ae0053046c82a07d98b0c9b2174618db263e3808f0a3c93b8cc56104cdd0b56ef123b07ddf3e8fec666998df2320c02439e4fcd4c1f8c31"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_10": {
+      "latest": {
+        "name": "alloy-forgery-fabric-3.0.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/fBfKk29o/alloy-forgery-fabric-3.0.7%2B1.21.10.jar",
+        "sha512": "cb9d78c539dec16879f35b6d46828f5b8da98839087b64f3b2f4f196be39e9f88d8fef17f64cbf5f0b6df867ef1bd15a75cce4f93ef660341292d4a224511cd3"
+      },
+      "3_0_7": {
+        "name": "alloy-forgery-fabric-3.0.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/fBfKk29o/alloy-forgery-fabric-3.0.7%2B1.21.10.jar",
+        "sha512": "cb9d78c539dec16879f35b6d46828f5b8da98839087b64f3b2f4f196be39e9f88d8fef17f64cbf5f0b6df867ef1bd15a75cce4f93ef660341292d4a224511cd3"
+      },
+      "3_0_4": {
+        "name": "alloy-forgery-fabric-3.0.4+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/qrJr4smJ/alloy-forgery-fabric-3.0.4%2B1.21.10.jar",
+        "sha512": "0ffa1be2c7fb2c339fe82c7c658f23d5f8055b844916be846e51bc121045c2ff24dbec9c3f4584bc702d66e644e12557878e03e11c4b6cd36bff19526fbc1663"
+      },
+      "3_0_3": {
+        "name": "alloy-forgery-fabric-3.0.3+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/GssZv6Dq/alloy-forgery-fabric-3.0.3%2B1.21.10.jar",
+        "sha512": "645250024ee9967545eb553e5cf8e8a7750333233773ed02df3fb4511a5c350ca1756d0d2e087c1129dd31c2bda5cf07e692ad808deaadfb7440807a93585e86"
+      },
+      "3_0_2": {
+        "name": "alloy-forgery-fabric-3.0.2+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/CFUNJJ9I/alloy-forgery-fabric-3.0.2%2B1.21.10.jar",
+        "sha512": "30dcab1ba9fbf0b9863798334c1c558819ae2874cb4934dde2302a3440747b667f5c796b125a7a8481473228127b5b7319b1b3b3ac24d09786fe52a76e3350e5"
+      },
+      "3_0_0": {
+        "name": "alloy_forgery-fabric-3.0.0+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/eWjkBegZ/alloy_forgery-fabric-3.0.0%2B1.21.10.jar",
+        "sha512": "468f3eb81b6bfa4cfd52e551edf0a272c8acc58a7bdd268b6c61981eeb0163008aeaaab3248ef6dec02cdd0c56ae202d0dd52b71c69f90c2e7537af001228dd1"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "alloy-forgery-fabric-3.0.7+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/hKLwRDYk/alloy-forgery-fabric-3.0.7%2B1.21.4.jar",
+        "sha512": "fdea51164e56cc470b3ec624295ed52e4c85bdbf3174a95db9c2b40815327a8d0fdcfe4a1d6c52517236d30c694f36537d4713d17a6adf8a4b6d06179d6fb4e9"
+      },
+      "3_0_7": {
+        "name": "alloy-forgery-fabric-3.0.7+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/hKLwRDYk/alloy-forgery-fabric-3.0.7%2B1.21.4.jar",
+        "sha512": "fdea51164e56cc470b3ec624295ed52e4c85bdbf3174a95db9c2b40815327a8d0fdcfe4a1d6c52517236d30c694f36537d4713d17a6adf8a4b6d06179d6fb4e9"
+      },
+      "3_0_6": {
+        "name": "alloy-forgery-fabric-3.0.6+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/pior8kEb/alloy-forgery-fabric-3.0.6%2B1.21.4.jar",
+        "sha512": "9afa188f974f5fd770d51940a35a3813e7955e825d49d371afbd197ed68cc7c7c997a808d7e375806ffe5762466623627e294fedf5f0a4dca3e88db4903b559a"
+      },
+      "3_0_5": {
+        "name": "alloy-forgery-fabric-3.0.5+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/lEf1HYGr/alloy-forgery-fabric-3.0.5%2B1.21.4.jar",
+        "sha512": "01b9617a5fd7f9990adbe7ca9abf7e22e9d312950aa598abd7431363147b32b8056a535747cda03dc318e36898a36c177a30433c5c3c4ad6ee065956f45b003a"
+      },
+      "3_0_4": {
+        "name": "alloy-forgery-fabric-3.0.4+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/KFjjgdyw/alloy-forgery-fabric-3.0.4%2B1.21.4.jar",
+        "sha512": "53dc80152f7b67c127e7c7b9000278c3c4ce1a5b7ae88d8a6ad6aca0ec82bc292d769d3794efb05a354a073ac600cbb3cd74c42c8e975455913bd067031789c7"
+      },
+      "3_0_3": {
+        "name": "alloy-forgery-fabric-3.0.3+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/DcijRHb4/alloy-forgery-fabric-3.0.3%2B1.21.4.jar",
+        "sha512": "bd6f8c0a5a0f9db0023300bcba2f23bc4cd496e43e54af83fc3c081deddde7517715df0e80d167ba919f91c1a41168217d7479b69e8faf76e7aa7b16d5feb7e1"
+      },
+      "3_0_2": {
+        "name": "alloy-forgery-fabric-3.0.2+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/w6rWWQsn/alloy-forgery-fabric-3.0.2%2B1.21.4.jar",
+        "sha512": "ee23a5968994fe197aa1daaaeacddaa426ba43e56866f5d98568426b508135c94708409c12edd2cadf36787731c62fed6bfa3e105763727961487235497291e0"
+      },
+      "3_0_0": {
+        "name": "alloy_forgery-fabric-3.0.0+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/fYKS5Ael/alloy_forgery-fabric-3.0.0%2B1.21.4.jar",
+        "sha512": "f5424a9f488f4a7b37239b27fa22e63f66855221e348effa181dc5c66efa7ec5072b48143e564edeb2fb73a2c3bc33b728edb0971d5cd6172b0878142fb27515"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "alloy-forgery-2.4.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/czJc7eUX/alloy-forgery-2.4.1%2B1.21.jar",
+        "sha512": "ded73374818ab224946d60cbbf366374cb5b82d9c6bcd6ae7855dc433863c94ef279d558f7c48dce47c2b2a4046f135afb8c80923b799083b317cb5047b64726"
+      },
+      "2_4_1+1_21": {
+        "name": "alloy-forgery-2.4.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/czJc7eUX/alloy-forgery-2.4.1%2B1.21.jar",
+        "sha512": "ded73374818ab224946d60cbbf366374cb5b82d9c6bcd6ae7855dc433863c94ef279d558f7c48dce47c2b2a4046f135afb8c80923b799083b317cb5047b64726"
+      },
+      "2_4_0+1_21": {
+        "name": "alloy-forgery-2.4.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/fMjYkEPl/alloy-forgery-2.4.0%2B1.21.jar",
+        "sha512": "7ddb236b1e161d985df9a243e7b68f497741be771ca26a01b1b44ffa91e2846b397132966b54d5ddd1dc34db8f42f7cf9c8a5fb215d94ec00d13b59a27188cc2"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "alloy-forgery-2.4.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/czJc7eUX/alloy-forgery-2.4.1%2B1.21.jar",
+        "sha512": "ded73374818ab224946d60cbbf366374cb5b82d9c6bcd6ae7855dc433863c94ef279d558f7c48dce47c2b2a4046f135afb8c80923b799083b317cb5047b64726"
+      },
+      "2_4_1": {
+        "name": "alloy-forgery-2.4.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/czJc7eUX/alloy-forgery-2.4.1%2B1.21.jar",
+        "sha512": "ded73374818ab224946d60cbbf366374cb5b82d9c6bcd6ae7855dc433863c94ef279d558f7c48dce47c2b2a4046f135afb8c80923b799083b317cb5047b64726"
+      },
+      "2_4_0": {
+        "name": "alloy-forgery-2.4.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/fMjYkEPl/alloy-forgery-2.4.0%2B1.21.jar",
+        "sha512": "7ddb236b1e161d985df9a243e7b68f497741be771ca26a01b1b44ffa91e2846b397132966b54d5ddd1dc34db8f42f7cf9c8a5fb215d94ec00d13b59a27188cc2"
+      },
+      "2_3_1": {
+        "name": "alloy-forgery-2.3.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/ReIpcJ2f/alloy-forgery-2.3.1%2B1.21.jar",
+        "sha512": "0d5fc28efc377b3b87994c6fb564d1ec0e282d3059271d7018c395941050b92f4d1d1748524948f62777eaf3e66c6539bc384eaf181b41213fe5ced1bb6e8379"
+      },
+      "2_3_0": {
+        "name": "alloy-forgery-2.3.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/t40qyg4s/alloy-forgery-2.3.0%2B1.21.jar",
+        "sha512": "fd58444aa88d13c58000945a790c56bd033787001f79aa1656720b9b7de121a7c57f16cf5dfc713ca4c4e5579f4b93b6ff0bbbc2e8a1812a2863163b42aa33a5"
+      },
+      "2_2_2": {
+        "name": "alloy-forgery-2.2.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/iOz4UvJY/alloy-forgery-2.2.2%2B1.21.jar",
+        "sha512": "c58a95fcdc95c8216ada94dad9aa0a55af7d49958f452bf2e262fc8a44cda8ac8c999abbb4ac5120dcb7e52201e960bc6ad9d52cb743a662658c645fee021aaa"
+      },
+      "2_2_1": {
+        "name": "alloy-forgery-2.2.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/8OIstC18/alloy-forgery-2.2.1%2B1.21.jar",
+        "sha512": "5558b60a2ca5ae544873df189b71add462d50ceefbc5f7f4a2e51319c0945b4712137dbbbdf139f12659ff789c00ed34d53ad9df5b95717d3ce2a3f58c4c547a"
+      },
+      "2_2_0": {
+        "name": "alloy-forgery-2.2.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/i6Zj3EuN/alloy-forgery-2.2.0%2B1.21.jar",
+        "sha512": "99c3c30c251ce6e0b0517ff328c8cdbb9ad140d92028bf4dd3def9823502fef5d4e8de49267cbe084a33f921ed8ede51ad1e467b39c66f284301c1c9dcb1dddb"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "alloy-forgery-2.1.4+1.20.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/X1pKXaia/alloy-forgery-2.1.4%2B1.20.3.jar",
+        "sha512": "b509976e286bb4971fbd029c799ca4500c54a480eab7753896f1d1826a4e2b336d56686d83f84a7bd9d40b05b81e3ebb5134044be3f6422a87666e93d8dcf3d0"
+      },
+      "2_1_4+1_20_3": {
+        "name": "alloy-forgery-2.1.4+1.20.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/X1pKXaia/alloy-forgery-2.1.4%2B1.20.3.jar",
+        "sha512": "b509976e286bb4971fbd029c799ca4500c54a480eab7753896f1d1826a4e2b336d56686d83f84a7bd9d40b05b81e3ebb5134044be3f6422a87666e93d8dcf3d0"
+      },
+      "2_1_3+1_20_3": {
+        "name": "alloy-forgery-2.1.3+1.20.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/oBUvSX7n/alloy-forgery-2.1.3%2B1.20.3.jar",
+        "sha512": "e7ebb6a7efd25aa0ddbb7284dec4c26a7e16935dba22ebafcde3c29450c7337de41b1f436a09c4dcb749155ef900d1ef21f8ac0347467dd9f250841085e57994"
+      },
+      "2_1_2": {
+        "name": "alloy-forgery-2.1.2+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/cm7am3F7/alloy-forgery-2.1.2%2B1.20.4.jar",
+        "sha512": "578ed0c5fd79fad6a05e74a2ef74c138f1ad7bca83831be3c5ca5b3e9e865a2ed022662e20adf8c42e009bd06ca5c0c1ad87fe31d5e378fdbb0ef82b56fd086f"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "alloy-forgery-2.1.4+1.20.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/X1pKXaia/alloy-forgery-2.1.4%2B1.20.3.jar",
+        "sha512": "b509976e286bb4971fbd029c799ca4500c54a480eab7753896f1d1826a4e2b336d56686d83f84a7bd9d40b05b81e3ebb5134044be3f6422a87666e93d8dcf3d0"
+      },
+      "2_1_4": {
+        "name": "alloy-forgery-2.1.4+1.20.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/X1pKXaia/alloy-forgery-2.1.4%2B1.20.3.jar",
+        "sha512": "b509976e286bb4971fbd029c799ca4500c54a480eab7753896f1d1826a4e2b336d56686d83f84a7bd9d40b05b81e3ebb5134044be3f6422a87666e93d8dcf3d0"
+      },
+      "2_1_3": {
+        "name": "alloy-forgery-2.1.3+1.20.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/oBUvSX7n/alloy-forgery-2.1.3%2B1.20.3.jar",
+        "sha512": "e7ebb6a7efd25aa0ddbb7284dec4c26a7e16935dba22ebafcde3c29450c7337de41b1f436a09c4dcb749155ef900d1ef21f8ac0347467dd9f250841085e57994"
+      },
+      "2_1_2+1_20_4": {
+        "name": "alloy-forgery-2.1.2+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/cm7am3F7/alloy-forgery-2.1.2%2B1.20.4.jar",
+        "sha512": "578ed0c5fd79fad6a05e74a2ef74c138f1ad7bca83831be3c5ca5b3e9e865a2ed022662e20adf8c42e009bd06ca5c0c1ad87fe31d5e378fdbb0ef82b56fd086f"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "alloy-forgery-2.1.2+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/j3GoCoCc/alloy-forgery-2.1.2%2B1.20.jar",
+        "sha512": "8900553bd4498af1c3e6ee3994b986e58149986bd1ad3233cddba06559cce73ae8ff47bceb125f1dab31d73be66014be67e02af86408b3872f32370574233b50"
+      },
+      "2_1_2+1_20": {
+        "name": "alloy-forgery-2.1.2+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/j3GoCoCc/alloy-forgery-2.1.2%2B1.20.jar",
+        "sha512": "8900553bd4498af1c3e6ee3994b986e58149986bd1ad3233cddba06559cce73ae8ff47bceb125f1dab31d73be66014be67e02af86408b3872f32370574233b50"
+      },
+      "2_1_1+1_20": {
+        "name": "alloy-forgery-2.1.1+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/EnaZWOD3/alloy-forgery-2.1.1%2B1.20.jar",
+        "sha512": "a236dd012e1c5ca9b8303257e84a0f14bd2187187b78916848544f4e4d36d7055a12d21274e56e5ed97495e2ca799ad34deb7035b32660be2da374286c066456"
+      },
+      "2_1_0+1_20": {
+        "name": "alloy-forgery-2.1.0+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/D89BTI2m/alloy-forgery-2.1.0%2B1.20.jar",
+        "sha512": "ef07ebddb213ba6e0a4cc172156ad82e0ffc75f48fac6c5581d3452a660978783f7c192d1d76d347623248840ca7a8a463e2313d7e61d53d1724e4d879a8651a"
+      },
+      "2_0_22+1_20": {
+        "name": "alloy-forgery-2.0.22+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/CDuKyCCF/alloy-forgery-2.0.22%2B1.20.jar",
+        "sha512": "432ca2e0467cc1b9e8d9f994834b6d39631218f3d6d3983998e39048b19a962876a6643c75c12e0c4eb794c31e9e536aaa5fca6cdb387347cf0ed2dc47609ce7"
+      },
+      "2_0_21+1_20": {
+        "name": "alloy-forgery-2.0.21+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/DivNclkz/alloy-forgery-2.0.21%2B1.20.jar",
+        "sha512": "8dc59bf9615ff79fb044620b99d42c3df25dbb871788e33032d1f6b759c3f3d0876394d95df2746b156aacc6c78c7ae8a2a9732290b99b79570787788e339779"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "alloy-forgery-2.1.2+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/j3GoCoCc/alloy-forgery-2.1.2%2B1.20.jar",
+        "sha512": "8900553bd4498af1c3e6ee3994b986e58149986bd1ad3233cddba06559cce73ae8ff47bceb125f1dab31d73be66014be67e02af86408b3872f32370574233b50"
+      },
+      "2_1_2": {
+        "name": "alloy-forgery-2.1.2+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/j3GoCoCc/alloy-forgery-2.1.2%2B1.20.jar",
+        "sha512": "8900553bd4498af1c3e6ee3994b986e58149986bd1ad3233cddba06559cce73ae8ff47bceb125f1dab31d73be66014be67e02af86408b3872f32370574233b50"
+      },
+      "2_1_1": {
+        "name": "alloy-forgery-2.1.1+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/EnaZWOD3/alloy-forgery-2.1.1%2B1.20.jar",
+        "sha512": "a236dd012e1c5ca9b8303257e84a0f14bd2187187b78916848544f4e4d36d7055a12d21274e56e5ed97495e2ca799ad34deb7035b32660be2da374286c066456"
+      },
+      "2_1_0": {
+        "name": "alloy-forgery-2.1.0+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/D89BTI2m/alloy-forgery-2.1.0%2B1.20.jar",
+        "sha512": "ef07ebddb213ba6e0a4cc172156ad82e0ffc75f48fac6c5581d3452a660978783f7c192d1d76d347623248840ca7a8a463e2313d7e61d53d1724e4d879a8651a"
+      },
+      "2_0_22": {
+        "name": "alloy-forgery-2.0.22+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/CDuKyCCF/alloy-forgery-2.0.22%2B1.20.jar",
+        "sha512": "432ca2e0467cc1b9e8d9f994834b6d39631218f3d6d3983998e39048b19a962876a6643c75c12e0c4eb794c31e9e536aaa5fca6cdb387347cf0ed2dc47609ce7"
+      },
+      "2_0_21": {
+        "name": "alloy-forgery-2.0.21+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/DivNclkz/alloy-forgery-2.0.21%2B1.20.jar",
+        "sha512": "8dc59bf9615ff79fb044620b99d42c3df25dbb871788e33032d1f6b759c3f3d0876394d95df2746b156aacc6c78c7ae8a2a9732290b99b79570787788e339779"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "alloy-forgery-2.0.20+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/f32qSRXe/alloy-forgery-2.0.20%2B1.19.4.jar",
+        "sha512": "eeb088749a1ba1ffb91116f822bd8eb98e102aa83a085f60c37ec5818cd0ca5b80a2967e8c624327cd8293094970a8566278fff588d281eb07b3b5d6dae06e9c"
+      },
+      "2_0_20": {
+        "name": "alloy-forgery-2.0.20+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/f32qSRXe/alloy-forgery-2.0.20%2B1.19.4.jar",
+        "sha512": "eeb088749a1ba1ffb91116f822bd8eb98e102aa83a085f60c37ec5818cd0ca5b80a2967e8c624327cd8293094970a8566278fff588d281eb07b3b5d6dae06e9c"
+      },
+      "2_0_19": {
+        "name": "alloy-forgery-2.0.19+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/Iryj9UYC/alloy-forgery-2.0.19%2B1.19.4.jar",
+        "sha512": "ed6299eae8ea239b63cc70d8f4647d50b0bc6ebf7fb3710ee9f935a75c04935bd1fd143cae01872b028a64b8a73ba126c6066f95843af4af38170f1767134c37"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.19+1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/5M7CC5jy/wraith-alloy-forgery-2.0.19%2B1.19.3.jar",
+        "sha512": "63e30f92dde42b9c895bcf0b252e4164a00310a789bfcf9a2934d15b8a1026c81d9179d846ecaad9036c68b73425a64dfe36c62b7dc27a363867f8a9127a820a"
+      },
+      "2_0_19": {
+        "name": "wraith-alloy-forgery-2.0.19+1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/5M7CC5jy/wraith-alloy-forgery-2.0.19%2B1.19.3.jar",
+        "sha512": "63e30f92dde42b9c895bcf0b252e4164a00310a789bfcf9a2934d15b8a1026c81d9179d846ecaad9036c68b73425a64dfe36c62b7dc27a363867f8a9127a820a"
+      },
+      "2_0_18": {
+        "name": "wraith-alloy-forgery-2.0.18+1.19.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/jLsVVCz3/wraith-alloy-forgery-2.0.18%2B1.19.3.jar",
+        "sha512": "c36a2375146b9b80c5232a61df6e34f2d248e32c1b7ee5693579b59794bd150025a9ac2cf7c319b0cef1da126b3c78707356d322ffad4bd8abbb8f75cb44240f"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "alloy-forgery-2.1.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/q1L7hbA8/alloy-forgery-2.1.1%2B1.19.jar",
+        "sha512": "9fdf4aea7fc155a98b18e4d5bbe4070840fbff05e8a38686a22e76de9f9a75feccb436d7c1c8c60cd82ac61b79318a652375184c1c238b5db338c15e6f1aab49"
+      },
+      "2_1_1+1_19": {
+        "name": "alloy-forgery-2.1.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/q1L7hbA8/alloy-forgery-2.1.1%2B1.19.jar",
+        "sha512": "9fdf4aea7fc155a98b18e4d5bbe4070840fbff05e8a38686a22e76de9f9a75feccb436d7c1c8c60cd82ac61b79318a652375184c1c238b5db338c15e6f1aab49"
+      },
+      "2_0_20+1_19": {
+        "name": "wraith-alloy-forgery-2.0.20+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/kZQUifqT/wraith-alloy-forgery-2.0.20%2B1.19.jar",
+        "sha512": "97f3b8de287f9c7e42a72b95f3eb363d6c595679571c247e3c4d4c9f6f97ba13b2e71273da02611d5840f830f9b08b36d1e1c52b6523168d6d47fced2339f57c"
+      },
+      "2_0_19+1_19": {
+        "name": "wraith-alloy-forgery-2.0.19+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/g9j3BFGw/wraith-alloy-forgery-2.0.19%2B1.19.jar",
+        "sha512": "80b60429bea8ceef2701205a9ece93b7c03bc145009cb65b809aa238821e31f28b59e6f11d398e368e51eb044d4c50ff4c89a45a82a3e0f33ae1fca54a513950"
+      },
+      "2_0_17+1_19": {
+        "name": "wraith-alloy-forgery-2.0.17+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/UIMlHriM/wraith-alloy-forgery-2.0.17%2B1.19.jar",
+        "sha512": "8b3aeda5da1b7af88f8e19d699a247b6c33878ccd5d5bf8e56c00519335a3c827a054c92d079363a965216a7c9052de371b0ea1834226a1dadf3adc187c5342a"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "alloy-forgery-2.1.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/q1L7hbA8/alloy-forgery-2.1.1%2B1.19.jar",
+        "sha512": "9fdf4aea7fc155a98b18e4d5bbe4070840fbff05e8a38686a22e76de9f9a75feccb436d7c1c8c60cd82ac61b79318a652375184c1c238b5db338c15e6f1aab49"
+      },
+      "2_1_1+1_19": {
+        "name": "alloy-forgery-2.1.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/q1L7hbA8/alloy-forgery-2.1.1%2B1.19.jar",
+        "sha512": "9fdf4aea7fc155a98b18e4d5bbe4070840fbff05e8a38686a22e76de9f9a75feccb436d7c1c8c60cd82ac61b79318a652375184c1c238b5db338c15e6f1aab49"
+      },
+      "2_0_17+1_19": {
+        "name": "wraith-alloy-forgery-2.0.17+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/UIMlHriM/wraith-alloy-forgery-2.0.17%2B1.19.jar",
+        "sha512": "8b3aeda5da1b7af88f8e19d699a247b6c33878ccd5d5bf8e56c00519335a3c827a054c92d079363a965216a7c9052de371b0ea1834226a1dadf3adc187c5342a"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "alloy-forgery-2.1.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/q1L7hbA8/alloy-forgery-2.1.1%2B1.19.jar",
+        "sha512": "9fdf4aea7fc155a98b18e4d5bbe4070840fbff05e8a38686a22e76de9f9a75feccb436d7c1c8c60cd82ac61b79318a652375184c1c238b5db338c15e6f1aab49"
+      },
+      "2_1_1": {
+        "name": "alloy-forgery-2.1.1+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/q1L7hbA8/alloy-forgery-2.1.1%2B1.19.jar",
+        "sha512": "9fdf4aea7fc155a98b18e4d5bbe4070840fbff05e8a38686a22e76de9f9a75feccb436d7c1c8c60cd82ac61b79318a652375184c1c238b5db338c15e6f1aab49"
+      },
+      "2_0_17": {
+        "name": "wraith-alloy-forgery-2.0.17+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/UIMlHriM/wraith-alloy-forgery-2.0.17%2B1.19.jar",
+        "sha512": "8b3aeda5da1b7af88f8e19d699a247b6c33878ccd5d5bf8e56c00519335a3c827a054c92d079363a965216a7c9052de371b0ea1834226a1dadf3adc187c5342a"
+      },
+      "2_0_16": {
+        "name": "wraith-alloy-forgery-2.0.16+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/X8QEAfXB/wraith-alloy-forgery-2.0.16%2B1.19.jar",
+        "sha512": "2d1562d0d9ec67da2f783fa57909adb02abbc9ced8bb721437d1d259196d6dacdb29af0eeabe98b7458f940c51a98f61111ac320c69b42056250b1ec893d38ae"
+      },
+      "2_0_15": {
+        "name": "wraith-alloy-forgery-2.0.15+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.15%2B1.19/wraith-alloy-forgery-2.0.15%2B1.19.jar",
+        "sha512": "ad5f74c4cebbb4b7fe45d11e26dda33031744a7e751b298ed867a4d3993df131067367e1592181130a5f1f09154bc0d051f3be5d64f081d2e9dba1f37b122d09"
+      },
+      "2_0_14": {
+        "name": "wraith-alloy-forgery-2.0.14+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.14%2B1.19/wraith-alloy-forgery-2.0.14%2B1.19.jar",
+        "sha512": "832d9ae7a2a33a5f2c5440f7e076d499cc4a9263d4595efd31b1e201bc6ea0fc7a8e42996c5f086e7e40c54e117c70a9a86f139809bbed53833897577dd29d63"
+      }
+    },
+    "1_18-pre7": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.6+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.6%2B1.18/wraith-alloy-forgery-2.0.6%2B1.18.jar",
+        "sha512": "78879fabd16ada028bc96964d83e84e78997d95c3d1668921692da57edf242c9f547c234c7e2264131bb659a8649fd50df5077d4104210611480ea9a258cc8bf"
+      },
+      "2_0_6+1_18": {
+        "name": "wraith-alloy-forgery-2.0.6+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.6%2B1.18/wraith-alloy-forgery-2.0.6%2B1.18.jar",
+        "sha512": "78879fabd16ada028bc96964d83e84e78997d95c3d1668921692da57edf242c9f547c234c7e2264131bb659a8649fd50df5077d4104210611480ea9a258cc8bf"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.16+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/xHvHtN9s/wraith-alloy-forgery-2.0.16%2B1.18.2.jar",
+        "sha512": "32ec93a1ddbb3dccb356500a160ebb5bbff98b842a3da84fce3e40155a7f1e45d12bcd806bfd7db174c1a56bf76f878a28e6ffb2ac5926049c731a5a17413a19"
+      },
+      "2_0_16": {
+        "name": "wraith-alloy-forgery-2.0.16+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/xHvHtN9s/wraith-alloy-forgery-2.0.16%2B1.18.2.jar",
+        "sha512": "32ec93a1ddbb3dccb356500a160ebb5bbff98b842a3da84fce3e40155a7f1e45d12bcd806bfd7db174c1a56bf76f878a28e6ffb2ac5926049c731a5a17413a19"
+      },
+      "2_0_13+1_18": {
+        "name": "wraith-alloy-forgery-2.0.13+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.13%2B1.18/wraith-alloy-forgery-2.0.13%2B1.18.jar",
+        "sha512": "c3c32efbc8bb9b3d4e0d53a56acb802513df12e3c85a76f649fa502f8724ea5c88a48328c1f132785c7db9b898573a1f72c75ad5fbb2b7a92c015699bfb49813"
+      },
+      "2_0_12+1_18": {
+        "name": "wraith-alloy-forgery-2.0.12+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.12%2B1.18/wraith-alloy-forgery-2.0.12%2B1.18.jar",
+        "sha512": "046e585f5867ab0d4d41f99b24fbab57af8a528eae4d1b5a6b9ed69262c431a8fc70ed727cc0953a7ce782685977dfba817dacb0506ceb8900b5cd3c61d30c20"
+      },
+      "2_0_11+1_18": {
+        "name": "wraith-alloy-forgery-2.0.11+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.11%2B1.18/wraith-alloy-forgery-2.0.11%2B1.18.jar",
+        "sha512": "a16dda6fd9abd60a86d33e997d0a104f944c3bc72eef7e19606ed0c4c79964847ec78b0089a5536eab989d9049f6030b35dbf4f8ccffa0c04e41c3d8ba6741b5"
+      },
+      "2_0_10+1_18": {
+        "name": "wraith-alloy-forgery-2.0.10+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.10%2B1.18/wraith-alloy-forgery-2.0.10%2B1.18.jar",
+        "sha512": "7126d965139c33a76eb7c3c993060288811001c4abc4849dfe2114067487ef48bdb23ef7259990e4181029e474619533f31cb0fcf0f9a17ee639960e0133ef66"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.9+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.9%2B1.18/wraith-alloy-forgery-2.0.9%2B1.18.jar",
+        "sha512": "9d24bc80dc241870911d95d8fb36b6c380c1b1eb051e16564844e771d953dea0438e21a67da7fe04154f0d4100c7ed9e3f06d819832b3965bc765f54a5ca29f7"
+      },
+      "2_0_9+1_18": {
+        "name": "wraith-alloy-forgery-2.0.9+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.9%2B1.18/wraith-alloy-forgery-2.0.9%2B1.18.jar",
+        "sha512": "9d24bc80dc241870911d95d8fb36b6c380c1b1eb051e16564844e771d953dea0438e21a67da7fe04154f0d4100c7ed9e3f06d819832b3965bc765f54a5ca29f7"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.9+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.9%2B1.18/wraith-alloy-forgery-2.0.9%2B1.18.jar",
+        "sha512": "9d24bc80dc241870911d95d8fb36b6c380c1b1eb051e16564844e771d953dea0438e21a67da7fe04154f0d4100c7ed9e3f06d819832b3965bc765f54a5ca29f7"
+      },
+      "2_0_9": {
+        "name": "wraith-alloy-forgery-2.0.9+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.9%2B1.18/wraith-alloy-forgery-2.0.9%2B1.18.jar",
+        "sha512": "9d24bc80dc241870911d95d8fb36b6c380c1b1eb051e16564844e771d953dea0438e21a67da7fe04154f0d4100c7ed9e3f06d819832b3965bc765f54a5ca29f7"
+      },
+      "2_0_8": {
+        "name": "wraith-alloy-forgery-2.0.8+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.8%2B1.18/wraith-alloy-forgery-2.0.8%2B1.18.jar",
+        "sha512": "0d41d88dffef652053a68e5acb00671a6fcd210e9f825146f6becc03b54256b1437c8ca5d0ebeeb489202a6f742be3e9e1e31994cab48c28ce43a7759bfea6c2"
+      },
+      "2_0_7": {
+        "name": "wraith-alloy-forgery-2.0.7+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.7%2B1.18/wraith-alloy-forgery-2.0.7%2B1.18.jar",
+        "sha512": "41e46c26ff1bef46722c26781ac5f4edf3b7099c53b044ca7879917607b393a1110ceb4458f1f75b9830457ab9c23c66be521f1562c0cb8ffcdbb4d49aab3804"
+      }
+    },
+    "1_17_1": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.6/wraith-alloy-forgery-2.0.6.jar",
+        "sha512": "88a49442497667c8214feced80185d53ff575101e9ba8a29488b62973b3437bab1bb9255c0c8b82bebfc02c9e10c87ef656e936a93b1ffac0d6c5519d26d7175"
+      },
+      "2_0_6": {
+        "name": "wraith-alloy-forgery-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.6/wraith-alloy-forgery-2.0.6.jar",
+        "sha512": "88a49442497667c8214feced80185d53ff575101e9ba8a29488b62973b3437bab1bb9255c0c8b82bebfc02c9e10c87ef656e936a93b1ffac0d6c5519d26d7175"
+      },
+      "2_0_5": {
+        "name": "wraith-alloy-forgery-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.5/wraith-alloy-forgery-2.0.5.jar",
+        "sha512": "7f85e3eed755891bedc6efc69c894514ea638a97be1269fa3192dc4de170695540fd9b8cb06f9bdc376963f8382a0e2a9dfe50e9e13bf3a98f26f87a7c345f99"
+      },
+      "2_0_4": {
+        "name": "wraith-alloy-forgery-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.4/wraith-alloy-forgery-2.0.4.jar",
+        "sha512": "0190ade25f7e346b0bfa00c8faa48afbe4dd9517716dbdeac721f807a93e3d6110e67a160eb72b47886df233a25be8ed175e6f7fd1f527bdae910446b633c7dc"
+      },
+      "2_0_3": {
+        "name": "wraith-alloy-forgery-2.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.3/wraith-alloy-forgery-2.0.3.jar",
+        "sha512": "c4837c66457f01bc6ce1bbd4b38a467fd15ccee1855fcf8ac1e6a6e635dbd2a7616344a0f832b6592eaddf2d4e2e30d4e97034ee00839bc805f14ef0cc4358ff"
+      },
+      "2_0_2": {
+        "name": "wraith-alloy-forgery-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.2/wraith-alloy-forgery-2.0.2.jar",
+        "sha512": "f6de15afb4937365ac70361cfcebc9841267af8849c5704042e0887da4bb51d3945cf974f27d285e8dd7540e4a10315005518d3479d404efdd0e08bcf310abac"
+      },
+      "2_0_1": {
+        "name": "wraith-alloy-forgery-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.1/wraith-alloy-forgery-2.0.1.jar",
+        "sha512": "c7ec6d319bf4f4633598ab6e5d18bf0f8f6e1e4ef71e3cadae65849f489915f26ca1cbe4edd152d7af2230e96d2d1d320a44128d8b4ea6d89305f155fbdbadcc"
+      }
+    },
+    "1_17": {
+      "latest": {
+        "name": "wraith-alloy-forgery-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.6/wraith-alloy-forgery-2.0.6.jar",
+        "sha512": "88a49442497667c8214feced80185d53ff575101e9ba8a29488b62973b3437bab1bb9255c0c8b82bebfc02c9e10c87ef656e936a93b1ffac0d6c5519d26d7175"
+      },
+      "2_0_6": {
+        "name": "wraith-alloy-forgery-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.6/wraith-alloy-forgery-2.0.6.jar",
+        "sha512": "88a49442497667c8214feced80185d53ff575101e9ba8a29488b62973b3437bab1bb9255c0c8b82bebfc02c9e10c87ef656e936a93b1ffac0d6c5519d26d7175"
+      },
+      "2_0_5": {
+        "name": "wraith-alloy-forgery-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.5/wraith-alloy-forgery-2.0.5.jar",
+        "sha512": "7f85e3eed755891bedc6efc69c894514ea638a97be1269fa3192dc4de170695540fd9b8cb06f9bdc376963f8382a0e2a9dfe50e9e13bf3a98f26f87a7c345f99"
+      },
+      "2_0_4": {
+        "name": "wraith-alloy-forgery-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.4/wraith-alloy-forgery-2.0.4.jar",
+        "sha512": "0190ade25f7e346b0bfa00c8faa48afbe4dd9517716dbdeac721f807a93e3d6110e67a160eb72b47886df233a25be8ed175e6f7fd1f527bdae910446b633c7dc"
+      },
+      "2_0_3": {
+        "name": "wraith-alloy-forgery-2.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.3/wraith-alloy-forgery-2.0.3.jar",
+        "sha512": "c4837c66457f01bc6ce1bbd4b38a467fd15ccee1855fcf8ac1e6a6e635dbd2a7616344a0f832b6592eaddf2d4e2e30d4e97034ee00839bc805f14ef0cc4358ff"
+      },
+      "2_0_2": {
+        "name": "wraith-alloy-forgery-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.2/wraith-alloy-forgery-2.0.2.jar",
+        "sha512": "f6de15afb4937365ac70361cfcebc9841267af8849c5704042e0887da4bb51d3945cf974f27d285e8dd7540e4a10315005518d3479d404efdd0e08bcf310abac"
+      },
+      "2_0_1": {
+        "name": "wraith-alloy-forgery-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/jhl28YkY/versions/2.0.1/wraith-alloy-forgery-2.0.1.jar",
+        "sha512": "c7ec6d319bf4f4633598ab6e5d18bf0f8f6e1e4ef71e3cadae65849f489915f26ca1cbe4edd152d7af2230e96d2d1d320a44128d8b4ea6d89305f155fbdbadcc"
+      }
+    }
+  }
+}

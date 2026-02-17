@@ -1,0 +1,969 @@
+{
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+        "sha512": "ecc98e659be66a71af0aee66a9f4c7c8838f4f0101402644929079ce7280a572a000e7e417905e1869a51d6e49ebbd601008f54585e07ee4ed01f2c4bc752bfe"
+      },
+      "3_0_4+mc_": {
+        "name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+        "sha512": "ecc98e659be66a71af0aee66a9f4c7c8838f4f0101402644929079ce7280a572a000e7e417905e1869a51d6e49ebbd601008f54585e07ee4ed01f2c4bc752bfe"
+      },
+      "3_0_2+mc_": {
+        "name": "copycats-3.0.2+mc.1.21.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/wj2p9GZw/copycats-3.0.2%2Bmc.1.21.1-neoforge.jar",
+        "sha512": "9032a85fdb1619eaab22947805591ea44c065f7cc20baef95a75331eaee2d8d3ef32b935949215c5cafa625834aed49b728bf70818f4de5bebb4ea9261363105"
+      },
+      "3_0_1+mc_": {
+        "name": "copycats-3.0.1+mc.1.21.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/yJiPTmhu/copycats-3.0.1%2Bmc.1.21.1-neoforge.jar",
+        "sha512": "606331b3c6c3fc4b3c685b2a20046132c2cd59a3c958d4fd0d0d93126251718f57022210217e8aa479317b03487540436a7aaed36c2b0fb82f8f42c2803613fd"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "copycats-3.0.7+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/z7s54cjL/copycats-3.0.7%2Bmc.1.20.1-forge.jar",
+        "sha512": "163499b08adb6198630019b74c32465c569145ad36e956c5b4d1e6537c0eb52fd9217ebd90b7f05f5efaf084d71533481e46738295609f31e50bec6b7941c91b"
+      },
+      "3_0_7+mc_forge": {
+        "name": "copycats-3.0.7+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/z7s54cjL/copycats-3.0.7%2Bmc.1.20.1-forge.jar",
+        "sha512": "163499b08adb6198630019b74c32465c569145ad36e956c5b4d1e6537c0eb52fd9217ebd90b7f05f5efaf084d71533481e46738295609f31e50bec6b7941c91b"
+      },
+      "3_0_6+mc_forge": {
+        "name": "copycats-3.0.6+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/5Rb9nZ9U/copycats-3.0.6%2Bmc.1.20.1-forge.jar",
+        "sha512": "88e9716eefdcd59406f743a958cc362ecf216d416c73722cf19b271ee554d0615aebc2d57d56c4a918e8656c5114cc18584a70a8624ad1db0421b7f723fe9cf6"
+      },
+      "3_0_5+mc_forge": {
+        "name": "copycats-3.0.5+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/F3G2y1NH/copycats-3.0.5%2Bmc.1.20.1-forge.jar",
+        "sha512": "afbc9664704946a190b048c70970a62ba0f1753790ac270c7a689556e286ae2890572d46184359d2eb020a9cf23a46c60e77375cac8b1f9aa0858fdc708d9291"
+      },
+      "3_0_4+mc_forge": {
+        "name": "copycats-3.0.4+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/OjWz9bJQ/copycats-3.0.4%2Bmc.1.20.1-forge.jar",
+        "sha512": "0e66db87bb66d0f4e95d09ee095f6f14686e0b0b905afb8db9295621c6d35c97d762e37688d4dbbf0226710d88c7639be84005133e1586a1e0593344ff855356"
+      },
+      "3_0_2+mc_forge": {
+        "name": "copycats-3.0.2+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ibcPwZZT/copycats-3.0.2%2Bmc.1.20.1-forge.jar",
+        "sha512": "29b1912155e4e6f0c08355d475c8f89923912c5bdf1f7b75da760d743e733af78b3dfc82e5a5a56d5ef0bbaff6e51c25eb98558187c330e8c20259016a0fee2f"
+      },
+      "3_0_1+mc_forge": {
+        "name": "copycats-3.0.1+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/N0bPoy0A/copycats-3.0.1%2Bmc.1.20.1-forge.jar",
+        "sha512": "7f19692d45be7175dcb194d3ecf9d97ad99ac6b40a7affc0368146274b0ace6dc5073afe5a7e34f953444114f0c1b6bbce51ba6aa2674c9add6b5840c67100c2"
+      },
+      "3_0_0+mc_forge": {
+        "name": "copycats-3.0.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/u3FzFq67/copycats-3.0.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "fbe3273c7288e52ed0d506509ae2113197580270ae229c60910c6d197d99317ab0f3273fffd4dd47816996142f7ad3b36085bd0f6adbe1c0a0bd688db0d1017e"
+      },
+      "2_2_2+mc_forge": {
+        "name": "copycats-2.2.2+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/oeTB57Pr/copycats-2.2.2%2Bmc.1.20.1-forge.jar",
+        "sha512": "4b54e36f9d8e6c3f0e17b6e4db80eef93794099eae019b2ec99148cab537c06f9756f7ce07d6727619dd825247b448101f9f4e64828f32bbc915608d7aa1863d"
+      },
+      "2_2_1+mc_forge": {
+        "name": "copycats-2.2.1+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/wye0a6lp/copycats-2.2.1%2Bmc.1.20.1-forge.jar",
+        "sha512": "b695534488a06bf6b37fb2b08f4c3bb73a06bc2b47e61b31665a6442df888b6997e8137fd59110cb994f29465fcda2366e105505e0c98b16cf6d4fee8fc2d728"
+      },
+      "2_2_0+mc_forge": {
+        "name": "copycats-2.2.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/DAn2YIli/copycats-2.2.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "98a1950d954c5d33d827596c05c91d1ada78c2d1c8dec190f65f76a2cf346953c3239e31273c8b236ed9624874585884018c91fcfa8e8f1d613c3358e4deaefe"
+      },
+      "2_1_4+mc_forge": {
+        "name": "copycats-2.1.4+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/LyrlrAYd/copycats-2.1.4%2Bmc.1.20.1-forge.jar",
+        "sha512": "b2798bfc9cee83b17789a5afb974b58635f4e9015b19347e13d4984870d1a236a7b805105446362b62bf81a8b5445940d4a8fc4efacd6ba3f5e446f7af477591"
+      },
+      "2_1_3+mc_forge": {
+        "name": "copycats-2.1.3+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/T9wEAcx2/copycats-2.1.3%2Bmc.1.20.1-forge.jar",
+        "sha512": "eb7dc6f8414d93f088142160f1dedeabeee96971a217f3efb875bff94c6a6c8567a0e4903fa9adbb718c1d661508d1135a1db83e7016dec431c72651cafdcf4a"
+      },
+      "2_1_2+mc_forge": {
+        "name": "copycats-2.1.2+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zyXQ6jAy/copycats-2.1.2%2Bmc.1.20.1-forge.jar",
+        "sha512": "b9841b55834ea532aaafe3fec4001887fc9c8de83d7a14df68446cfeab5cabba469c61276d355f12806741e455fbd32269f18b303a7fb26fdf3ebfce8fde2bc5"
+      },
+      "2_1_1+mc_forge": {
+        "name": "copycats-2.1.1+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/hs8Tkkxq/copycats-2.1.1%2Bmc.1.20.1-forge.jar",
+        "sha512": "ce1dc683d926f9fc7f157d4f6a13fc61c1821d722a80b1a16657245dd691739fedc022aa106fd34ece19e3119091457933aa81235488ed90a0b1fe0cc3dc4e95"
+      },
+      "2_1_0+mc_forge": {
+        "name": "copycats-2.1.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/O2G5ozbU/copycats-2.1.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "c1196e2a78a3dbd5108a2f98bf428fccb3e44e88fae91136998df2d3e26eac58227655bab7fbb1757a9a1374797b567aabcb4dc52572d5a04d933090aabf790a"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "copycats-3.0.7+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/z7s54cjL/copycats-3.0.7%2Bmc.1.20.1-forge.jar",
+        "sha512": "163499b08adb6198630019b74c32465c569145ad36e956c5b4d1e6537c0eb52fd9217ebd90b7f05f5efaf084d71533481e46738295609f31e50bec6b7941c91b"
+      },
+      "3_0_7+mc_": {
+        "name": "copycats-3.0.7+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/z7s54cjL/copycats-3.0.7%2Bmc.1.20.1-forge.jar",
+        "sha512": "163499b08adb6198630019b74c32465c569145ad36e956c5b4d1e6537c0eb52fd9217ebd90b7f05f5efaf084d71533481e46738295609f31e50bec6b7941c91b"
+      },
+      "3_0_6+mc_": {
+        "name": "copycats-3.0.6+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/5Rb9nZ9U/copycats-3.0.6%2Bmc.1.20.1-forge.jar",
+        "sha512": "88e9716eefdcd59406f743a958cc362ecf216d416c73722cf19b271ee554d0615aebc2d57d56c4a918e8656c5114cc18584a70a8624ad1db0421b7f723fe9cf6"
+      },
+      "3_0_5+mc_": {
+        "name": "copycats-3.0.5+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/F3G2y1NH/copycats-3.0.5%2Bmc.1.20.1-forge.jar",
+        "sha512": "afbc9664704946a190b048c70970a62ba0f1753790ac270c7a689556e286ae2890572d46184359d2eb020a9cf23a46c60e77375cac8b1f9aa0858fdc708d9291"
+      },
+      "3_0_4+mc_": {
+        "name": "copycats-3.0.4+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/OjWz9bJQ/copycats-3.0.4%2Bmc.1.20.1-forge.jar",
+        "sha512": "0e66db87bb66d0f4e95d09ee095f6f14686e0b0b905afb8db9295621c6d35c97d762e37688d4dbbf0226710d88c7639be84005133e1586a1e0593344ff855356"
+      },
+      "3_0_2+mc_": {
+        "name": "copycats-3.0.2+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ibcPwZZT/copycats-3.0.2%2Bmc.1.20.1-forge.jar",
+        "sha512": "29b1912155e4e6f0c08355d475c8f89923912c5bdf1f7b75da760d743e733af78b3dfc82e5a5a56d5ef0bbaff6e51c25eb98558187c330e8c20259016a0fee2f"
+      },
+      "3_0_1+mc_": {
+        "name": "copycats-3.0.1+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/N0bPoy0A/copycats-3.0.1%2Bmc.1.20.1-forge.jar",
+        "sha512": "7f19692d45be7175dcb194d3ecf9d97ad99ac6b40a7affc0368146274b0ace6dc5073afe5a7e34f953444114f0c1b6bbce51ba6aa2674c9add6b5840c67100c2"
+      },
+      "3_0_0+mc_": {
+        "name": "copycats-3.0.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/u3FzFq67/copycats-3.0.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "fbe3273c7288e52ed0d506509ae2113197580270ae229c60910c6d197d99317ab0f3273fffd4dd47816996142f7ad3b36085bd0f6adbe1c0a0bd688db0d1017e"
+      },
+      "2_2_2+mc_": {
+        "name": "copycats-2.2.2+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/oeTB57Pr/copycats-2.2.2%2Bmc.1.20.1-forge.jar",
+        "sha512": "4b54e36f9d8e6c3f0e17b6e4db80eef93794099eae019b2ec99148cab537c06f9756f7ce07d6727619dd825247b448101f9f4e64828f32bbc915608d7aa1863d"
+      },
+      "2_2_1+mc_": {
+        "name": "copycats-2.2.1+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/wye0a6lp/copycats-2.2.1%2Bmc.1.20.1-forge.jar",
+        "sha512": "b695534488a06bf6b37fb2b08f4c3bb73a06bc2b47e61b31665a6442df888b6997e8137fd59110cb994f29465fcda2366e105505e0c98b16cf6d4fee8fc2d728"
+      },
+      "2_2_0+mc_": {
+        "name": "copycats-2.2.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/DAn2YIli/copycats-2.2.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "98a1950d954c5d33d827596c05c91d1ada78c2d1c8dec190f65f76a2cf346953c3239e31273c8b236ed9624874585884018c91fcfa8e8f1d613c3358e4deaefe"
+      },
+      "2_1_4+mc_": {
+        "name": "copycats-2.1.4+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/LyrlrAYd/copycats-2.1.4%2Bmc.1.20.1-forge.jar",
+        "sha512": "b2798bfc9cee83b17789a5afb974b58635f4e9015b19347e13d4984870d1a236a7b805105446362b62bf81a8b5445940d4a8fc4efacd6ba3f5e446f7af477591"
+      },
+      "2_1_3+mc_": {
+        "name": "copycats-2.1.3+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/T9wEAcx2/copycats-2.1.3%2Bmc.1.20.1-forge.jar",
+        "sha512": "eb7dc6f8414d93f088142160f1dedeabeee96971a217f3efb875bff94c6a6c8567a0e4903fa9adbb718c1d661508d1135a1db83e7016dec431c72651cafdcf4a"
+      },
+      "2_1_2+mc_": {
+        "name": "copycats-2.1.2+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zyXQ6jAy/copycats-2.1.2%2Bmc.1.20.1-forge.jar",
+        "sha512": "b9841b55834ea532aaafe3fec4001887fc9c8de83d7a14df68446cfeab5cabba469c61276d355f12806741e455fbd32269f18b303a7fb26fdf3ebfce8fde2bc5"
+      },
+      "2_1_1+mc_": {
+        "name": "copycats-2.1.1+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/hs8Tkkxq/copycats-2.1.1%2Bmc.1.20.1-forge.jar",
+        "sha512": "ce1dc683d926f9fc7f157d4f6a13fc61c1821d722a80b1a16657245dd691739fedc022aa106fd34ece19e3119091457933aa81235488ed90a0b1fe0cc3dc4e95"
+      },
+      "2_1_0+mc_": {
+        "name": "copycats-2.1.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/O2G5ozbU/copycats-2.1.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "c1196e2a78a3dbd5108a2f98bf428fccb3e44e88fae91136998df2d3e26eac58227655bab7fbb1757a9a1374797b567aabcb4dc52572d5a04d933090aabf790a"
+      },
+      "2_0_5+mc_": {
+        "name": "copycats-2.0.5+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/H8ITJISV/copycats-2.0.5%2Bmc.1.20.1-forge.jar",
+        "sha512": "5b447d3e5bdec3f862e5842173cbee64e8db5f21dfd947ea7223b99dcdb66497d71d914b36ae82544099d0371aaa12f046860a40bba4e6341cdc0df0e1eb6f7c"
+      },
+      "2_0_4+mc_": {
+        "name": "copycats-2.0.4+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/NI3Wxj2R/copycats-2.0.4%2Bmc.1.20.1-forge.jar",
+        "sha512": "bdd84c83ac433dd70fcc9a1bec9b66061bb9a31bff2c4b345e5c4c9953695de31ba29be6a72af5da10c418b4d1f0eb52c172e9a0b95b6847bdfa175e779939ac"
+      },
+      "2_0_3+mc_": {
+        "name": "copycats-2.0.3+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/EwQRBJFL/copycats-2.0.3%2Bmc.1.20.1-forge.jar",
+        "sha512": "de48731096a57b365befdfd682721c5c73f94a6f65b0f409a36eb6e73f0538d992c5c8f6c974665e65d5700a75d41473e6011a40802b88302a7c091cbe0e059f"
+      },
+      "2_0_2+mc_": {
+        "name": "copycats-2.0.2+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ZkzY6meh/copycats-2.0.2%2Bmc.1.20.1-forge.jar",
+        "sha512": "2555c29da446755c9a6beee88701925a8345bc1d9041ed5a39e251ab0b261788fb266b6bc029e90b265fb1d892ea862f0d7772f39590aae953061d1665c6f694"
+      },
+      "2_0_1+mc_": {
+        "name": "copycats-2.0.1+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/aU26qOzq/copycats-2.0.1%2Bmc.1.20.1-forge.jar",
+        "sha512": "c577c85bbc8d15d929c00c124da1d6c9599670a26a6eaf8a10cf452a0d8e037a6a2ebeea077b0b754e6546897238b1d361d804bd173480a186281437fc0c0bfa"
+      },
+      "2_0_0+mc_": {
+        "name": "copycats-2.0.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/RBwMuYgU/copycats-2.0.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "78ee4d47a85862ba3f0ed324f3ddbbd934c5543584fa90b5f1e695ae74bd4c515dcd65e29abec0ae1b2e7834ce43388ec82fe261178b33bbee173c02ef2ae338"
+      },
+      "1_20_1-1_3_1": {
+        "name": "Copycats-forge.1.20.1-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/SSV5h3bs/Copycats-forge.1.20.1-1.3.1.jar",
+        "sha512": "d0912ed34d0f462e66487b0ec09d15853a87dc13d28c814f7bf3364f9ff992ff9e62cab8fcf02de1080cdf224453976d82676fa68732acf4ab9794541ab00710"
+      },
+      "1_20_1-1_3_0": {
+        "name": "Copycats-forge.1.20.1-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/UILE0cR5/Copycats-forge.1.20.1-1.3.0.jar",
+        "sha512": "8140683bf82f2add95a4560df4cccd0463ad5eba1d025a0620e223ea52efa2a49469fa9ecd52550083ff30f3fd4ab0a72ca929a545a00cea17ec50ef96866e08"
+      },
+      "1_20_1-1_2_6": {
+        "name": "Copycats-forge.1.20.1-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/BYUGDUG0/Copycats-forge.1.20.1-1.2.6.jar",
+        "sha512": "c3a315984f1231c33ed95bb87873ce2d457c59a17c2e4b6186b6a27c455b35b49eda035531030eda38e4b3bcbf32b27d3ab11c918948e8fccccfedd2f9cd5817"
+      },
+      "1_20_1-1_2_5": {
+        "name": "Copycats-forge.1.20.1-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/AovhqU6R/Copycats-forge.1.20.1-1.2.5.jar",
+        "sha512": "c7b84fbfaad86f20140a4cc8f578464639db2e5f135e361968c2e4498ae5d1154c4e7f21c44aea0f2336872fecf8db2ea41fcdb948fd4f42cb0bb084f8fdd857"
+      },
+      "1_20_1-1_2_0": {
+        "name": "Copycats-forge.1.20.1-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/L3l4jW7j/Copycats-forge.1.20.1-1.2.0.jar",
+        "sha512": "34fc4a43d424ea0d0c2cf2a6653314ba8e84b0283e3188b2aa581ab1ac64a97501ac226a1fa1b0c00cecdcdeb9311b2f885f03508c7c32700f72bacb00ba1aa6"
+      },
+      "1_3_8+mc_": {
+        "name": "copycats-1.3.8+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/MeMaWy4r/copycats-1.3.8%2Bmc.1.20.1-forge.jar",
+        "sha512": "2e8802c78f5a9e021a15b744381a0c0c4a427f6e16be2935edd9161fdcdaf090c8e549fcb4e2042220be18995f04402896b82a6e4564b8f57ddfb6f23062ab32"
+      },
+      "1_3_7+mc_": {
+        "name": "copycats-1.3.7+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ET9s6C78/copycats-1.3.7%2Bmc.1.20.1-forge.jar",
+        "sha512": "2b1195a59f0d88d928aaa703121cab757dad56b728f35a5d1183cdf3961be108c02c4270fca64aa2d9c9fb52b18c60df8d1d1eb7ef2bed2dcbd35ca5352e8678"
+      },
+      "1_3_6+mc_": {
+        "name": "copycats-1.3.6+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/gIUSc8WV/copycats-1.3.6%2Bmc.1.20.1-forge.jar",
+        "sha512": "3d7a81eada29e08a9271e2339951250a7b4021d5b68971be7403bcc77fc793cd946eebcf764d19ca89f1183afdc2655694b61a27128fff2e9a6e2a2b8615dae7"
+      },
+      "1_3_5+mc_": {
+        "name": "copycats-1.3.5+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/hSwIAVAu/copycats-1.3.5%2Bmc.1.20.1-forge.jar",
+        "sha512": "c31b6399ebef2b0ddb275fcffb01a601656d3eb62826c9a0ea6ba6a5736fa70857e3c791a2e221c04f47670f3ce8aca0288b8e6a023196f787fbef84cf92f449"
+      },
+      "forge_1_3_4": {
+        "name": "Copycats-forge.1.20.1-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ofIEaVKl/Copycats-forge.1.20.1-1.3.4.jar",
+        "sha512": "e0234c29512072d1f4704aa4d23387aece339119f17d71a2bbcf6a22ab1230481595e57a87386a7d6c004cb79b9790e58f977bb90bb0f807a3f90ce076afbb1b"
+      },
+      "forge_1_3_3": {
+        "name": "Copycats-forge.1.20.1-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/iQY7J3rA/Copycats-forge.1.20.1-1.3.3.jar",
+        "sha512": "75478ed152db153dfaf8740d3335a450a02ac85d07e025ccdd8e33c46e2458e6d7b334763c93ad6a3b29aea76ec82932ff5ab3a0556b26f97939b40cc111b895"
+      },
+      "forge_1_3_2": {
+        "name": "Copycats-forge.1.20.1-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/DlYBdaIA/Copycats-forge.1.20.1-1.3.2.jar",
+        "sha512": "0609955ab1c3ca10e5025396afcd6fb5f092fb8b0241f3fdb3d66c2908acd0e523b8bee4b856e76fa36e2255d8dd1f0ac4d6e0eda092159a696e326cc27a329f"
+      },
+      "1_1_0-mc": {
+        "name": "copycats-1.1.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/KaWzxkbC/copycats-1.1.0-mc1.20.1-all.jar",
+        "sha512": "951df4a41cf671d30eae7d2dd82df66643e0db900c8dce42d5552c6fb7b5cf6f9053d0ced4d92644ebeb40fc88b259ed70ff0d88e7e150f0b2168fb9162306b9"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "copycats-2.2.2+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ZURtfrZY/copycats-2.2.2%2Bmc.1.19.2-forge.jar",
+        "sha512": "d41e0a7912414203058b125c24f8cc5a6fcfbe263d4f6e27afe55d7432f2dfab9c99f45593526bc90a37502c8cc6224b0f7898121ac6e8945f916c0248d51e90"
+      },
+      "2_2_2+mc_": {
+        "name": "copycats-2.2.2+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ZURtfrZY/copycats-2.2.2%2Bmc.1.19.2-forge.jar",
+        "sha512": "d41e0a7912414203058b125c24f8cc5a6fcfbe263d4f6e27afe55d7432f2dfab9c99f45593526bc90a37502c8cc6224b0f7898121ac6e8945f916c0248d51e90"
+      },
+      "2_2_1+mc_": {
+        "name": "copycats-2.2.1+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/AXNQH69L/copycats-2.2.1%2Bmc.1.19.2-forge.jar",
+        "sha512": "315d7ce3db235c29f7bc8ae8552d05ca66abd0af548b130beea64b7a6e008a1b03a4fbcb373423762366ca24a7eb6093b1dbeb61719df813f489ad01cacb7d06"
+      },
+      "2_2_0+mc_": {
+        "name": "copycats-2.2.0+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/jnvgrniG/copycats-2.2.0%2Bmc.1.19.2-forge.jar",
+        "sha512": "35f23743d450960ebf9a1e0ebf741a75ea645889c9a4fb2f62c1a008b37264d7fc8cb344a62b9cd1495c0e58611b72c648c806ee7e3b0c14804df54678fa9406"
+      },
+      "2_1_4+mc_": {
+        "name": "copycats-2.1.4+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/y9yKtgzo/copycats-2.1.4%2Bmc.1.19.2-forge.jar",
+        "sha512": "df7cc49ce71d1155a61360281bc059f54ffed08ba15ccf35d3b90bddaf2e0fe506270029641380f4722613063ae6eaf49c3b1bbcaf6504ab28dba99b8a509776"
+      },
+      "2_1_3+mc_": {
+        "name": "copycats-2.1.3+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/goD7PBMm/copycats-2.1.3%2Bmc.1.19.2-forge.jar",
+        "sha512": "87b60d3006e172be6f7d71034313cef6495668be0c9ca7add71031aa4cc8967d3fa3d7abdd92bc68552b2cf74277fec1c99135f82dd05c967d2f54cec5a91711"
+      },
+      "2_1_2+mc_": {
+        "name": "copycats-2.1.2+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/KQoThE68/copycats-2.1.2%2Bmc.1.19.2-forge.jar",
+        "sha512": "02bf18f05ab28f2cfea178beb5eb2f3f021a24706bf2ea5b6d06fd12a75420634ac3d70ea8c1c66a536d39ee6a52a5773ff54e0aff03dee6941337a4c0f6131e"
+      },
+      "2_1_1+mc_": {
+        "name": "copycats-2.1.1+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/73jPbpls/copycats-2.1.1%2Bmc.1.19.2-forge.jar",
+        "sha512": "4394887f433d931d39837a7d2d6dca3c3f25d9d4e64ded01d3e85c0aecdb24282fef970b9ee784788a6ab61931491c3c57b4ead1128528e5a6c7f644d3b0ba5e"
+      },
+      "2_1_0+mc_": {
+        "name": "copycats-2.1.0+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/YtoM6nPv/copycats-2.1.0%2Bmc.1.19.2-forge.jar",
+        "sha512": "8cff5935cafce08aafdbbd96ea3029d7af02461deba09f87f54c0a4ad3289931cfbd3a03c9ef963e9b0aefc04a8f9cd7750bfdf56ee0d11516566061cc5730b2"
+      },
+      "2_0_5+mc_": {
+        "name": "copycats-2.0.5+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/T3xHtt73/copycats-2.0.5%2Bmc.1.19.2-forge.jar",
+        "sha512": "d0455ae2281c79ae5d5823beb6fcddc7a9879bddcf072d87fd1839ff06da9df11cbc98f285ae0904d128686fecf64b9cf7866146725897bbbf549adc7d323405"
+      },
+      "2_0_4+mc_": {
+        "name": "copycats-2.0.4+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/gldbSWZ8/copycats-2.0.4%2Bmc.1.19.2-forge.jar",
+        "sha512": "1051d39515a13ee2d1276339825a1cb1c6363d85bbf2f6713328434ca536f06661ee3ce937a1d50560b6332791025a25d0f17e0baa7e397616f6aeed627b674d"
+      },
+      "2_0_3+mc_": {
+        "name": "copycats-2.0.3+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/qzqXeiur/copycats-2.0.3%2Bmc.1.19.2-forge.jar",
+        "sha512": "0bafecb7668a8c0ee770b5cb966f7ce3b6d453658c1cd38ce8b2369291441e08295a11efe49ac27f62e6df338ecbf297b3d5c1eaa70fa678d63c7a5a6ca81d79"
+      },
+      "2_0_2+mc_": {
+        "name": "copycats-2.0.2+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/TpLcIsbl/copycats-2.0.2%2Bmc.1.19.2-forge.jar",
+        "sha512": "db869b6229cfa0822731e2950b870bc2e81428afcfab325dbe855ceadfb6e96fba09ebbbf98f968bf547131a6d4074f7210591b0bfda81a98beff59c05ac54fb"
+      },
+      "2_0_0+mc_": {
+        "name": "copycats-2.0.0+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/mgfmIlLW/copycats-2.0.0%2Bmc.1.19.2-forge.jar",
+        "sha512": "863992dfcad86f2aef23e6c81c1d41937347d879bb8c920c230d624c850abf01cb01124244d6e4f7f822510ac09af18a4fc962f580092a088d5bfe31ce035b4b"
+      },
+      "1_19_2-1_3_1": {
+        "name": "Copycats-forge.1.19.2-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/kpHbd9TL/Copycats-forge.1.19.2-1.3.1.jar",
+        "sha512": "004c0c4b2ca6c56789d5d233147cfc00d0ebd3978de14f8e214e407676bd7e6878639378be490994ca607a6f215a5b62b3d970ba308e1f238bbc91d7f2eb6a7b"
+      },
+      "1_19_2-1_3_0": {
+        "name": "Copycats-forge.1.19.2-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/jqeqJZNE/Copycats-forge.1.19.2-1.3.0.jar",
+        "sha512": "d7377c71eb969d5931cb2d4041a58c5aae45f2cff8468066ffffb69d86285b3c385189573f42582324507cd4dbf04bf7bc43a84249906eb84ab7c8053396e508"
+      },
+      "1_19_2-1_2_5": {
+        "name": "Copycats-forge.1.19.2-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/B27OlNtv/Copycats-forge.1.19.2-1.2.5.jar",
+        "sha512": "d73b2d2c67e201d153f36b2dd904c9d8055c997e6cf10d2e87b0238298e517d169e48866fb9dfdd01665ddd0f9f3d4df591e753a0b3a54799d903cbff7ec096d"
+      },
+      "1_19_2-1_2_0": {
+        "name": "Copycats-forge.1.19.2-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/AOpAQAOA/Copycats-forge.1.19.2-1.2.0.jar",
+        "sha512": "4f9e17e21eadd95ade553754ed3c32c7630a4e6232fa428c690bd8a8107c2b88077e7e12e877efcf4acfba3eb9ff0d2d8a17b9dab6b762e01849fbf1f1a9143b"
+      },
+      "1_3_8+mc_": {
+        "name": "copycats-1.3.8+mc.1.19.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/CUtpx2H6/copycats-1.3.8%2Bmc.1.19.2-forge.jar",
+        "sha512": "b884d38408b9af32c98d16c75f69f9b5bc27715cc410c1a85696cbd41f879c179ab57c48bdb615578d191b6781f3f3faf7e66180f65d3c624ed1026e1e177ae7"
+      },
+      "forge_1_3_4": {
+        "name": "Copycats-forge.1.19.2-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/5YMYRFXm/Copycats-forge.1.19.2-1.3.4.jar",
+        "sha512": "9d91e806a4f5462d95a1132326d1c8f8c39482baa46742ed642e483b62f4178bec5e1f8bdccf79d389abf995b140e6e1ea43ff35bddcbf3656c7057a5e8d8a40"
+      },
+      "forge_1_3_3": {
+        "name": "Copycats-forge.1.19.2-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/6exPlg0s/Copycats-forge.1.19.2-1.3.3.jar",
+        "sha512": "ac92209b6a691a92530da0034ef054cd9113284a5feab2ab83d2d8c759062b11dc15d4257aa9e72fc6819ca03c19760b77c503763a88aab7a9b9ff03dfa17e4d"
+      },
+      "forge_1_3_2": {
+        "name": "Copycats-forge.1.19.2-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/8Va6yYQl/Copycats-forge.1.19.2-1.3.2.jar",
+        "sha512": "110c5acc856bfe59f23b62232bb01ea42297c09d25060a36e8a3e01531230b95a3f4efe68a9dee812d775464a796e9be28dd523ff713ba7d8a2c5d8a5a3dd0c2"
+      },
+      "1_1_0-mc": {
+        "name": "copycats-1.1.0-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/irW6AAOQ/copycats-1.1.0-mc1.19.2-all.jar",
+        "sha512": "ff85b8e8fffa8447dc79688bc4c3096e19b575c5a5a33a825d655ffd073698084b8fdc12be04bc57c47ba676d6f7700bfc7595fe62020843c4f41a89df3abb02"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "copycats-2.2.2+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/PAs43lPf/copycats-2.2.2%2Bmc.1.18.2-forge.jar",
+        "sha512": "a79fa4494bd11e2eb05473c0e9c268f51505b93a6673b41cf3d012c96639cb137a08d1c5c9255743fe272313463cc8f38a9f1d48f733d3e99d62829364becaef"
+      },
+      "2_2_2+mc_": {
+        "name": "copycats-2.2.2+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/PAs43lPf/copycats-2.2.2%2Bmc.1.18.2-forge.jar",
+        "sha512": "a79fa4494bd11e2eb05473c0e9c268f51505b93a6673b41cf3d012c96639cb137a08d1c5c9255743fe272313463cc8f38a9f1d48f733d3e99d62829364becaef"
+      },
+      "2_2_1+mc_": {
+        "name": "copycats-2.2.1+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/L6kYto4E/copycats-2.2.1%2Bmc.1.18.2-forge.jar",
+        "sha512": "6bd9b894c4f7ed0661f44cedb67261c9a16bd1efcf289c53e87e326874bf3faba01409916e63d47920a0d39d5a995baa78cb094ab93214c0053ff12f6f746877"
+      },
+      "2_2_1a+mc_": {
+        "name": "copycats-2.2.1a+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/XTeZbSrs/copycats-2.2.1a%2Bmc.1.18.2-forge.jar",
+        "sha512": "b1d81deca4979e8c164f39f34435de723cd79aa88da1464c49a36b7e636133bcf1d216dc3442a52c107e2f8bb298f6090304f5a445fccd6934490f33d8fa58f1"
+      },
+      "2_2_0+mc_": {
+        "name": "copycats-2.2.0+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/yIXIlZR9/copycats-2.2.0%2Bmc.1.18.2-forge.jar",
+        "sha512": "1c2cb4db7e195a656421f2e5fc68eb53c0161f37bcbcba348b0b7fac9a49aa77b2d6816d7506fd26a1cc1f2e335d7fcff6ebb048117495b408e41829ccc7717c"
+      },
+      "2_1_4+mc_": {
+        "name": "copycats-2.1.4+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zLdEWcdE/copycats-2.1.4%2Bmc.1.18.2-forge.jar",
+        "sha512": "000bb88aad7742fd0a8b12e155209cd0f9f22b1e9ba501b220085f78a706cbb29de0ba13baff257ffa75252278e170cb9a84e0f2575938dca781c29299c71650"
+      },
+      "2_1_3+mc_": {
+        "name": "copycats-2.1.3+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/h13ytk5W/copycats-2.1.3%2Bmc.1.18.2-forge.jar",
+        "sha512": "bf1f11704775a74597e4e04ee0b4bec5ed91fff39197202551852f8f65a91c548fa504524a844385d91fa0b47306ffa58ca4216c8267820d8c8f1d003358b77a"
+      },
+      "2_1_2+mc_": {
+        "name": "copycats-2.1.2+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/k81ySF0Z/copycats-2.1.2%2Bmc.1.18.2-forge.jar",
+        "sha512": "8b7fd4a494eb34fb762677d2742e5a6559a586726d0296977625cbe0b0066391e68f02ca198bbf5130576a3a525e08f011653fd90f1ffd4561ec7f34c7877c28"
+      },
+      "2_1_1+mc_": {
+        "name": "copycats-2.1.1+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/YxOZPNBC/copycats-2.1.1%2Bmc.1.18.2-forge.jar",
+        "sha512": "9cc1afd1e01bc9e33feb5d3a695df49a5f7923562bec466c479a82653b7ea3ec3cdd3a0368e091587223fca486180bf05421b6353f3dd0e33740be4cea6fb163"
+      },
+      "2_1_0+mc_": {
+        "name": "copycats-2.1.0+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/eICS6PxV/copycats-2.1.0%2Bmc.1.18.2-forge.jar",
+        "sha512": "fc72c882c217ecc252aa2476da7b1ee768b2269f8c2582f637238e81783acaf5445b4c31871621d555658cf0b08e9222e3f94cff9b6d864177dde166c2a8f7c9"
+      },
+      "2_0_5+mc_": {
+        "name": "copycats-2.0.5+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/PUbUAHUk/copycats-2.0.5%2Bmc.1.18.2-forge.jar",
+        "sha512": "b2c401ece2e468d128a4b1c416cf770de8907a3bbc3d42e87d62429b407e9143c8367de96cbdde9275950368c13011111e2d2256d87b3bc40ca292bff9c77108"
+      },
+      "2_0_4+mc_": {
+        "name": "copycats-2.0.4+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/RAE5Qwk9/copycats-2.0.4%2Bmc.1.18.2-forge.jar",
+        "sha512": "a1498af767b635bfc28a731e67c8b53c897cff8b5f615f09e8401afcfbeb6433d87f7f8962d37e4768412d835e1ce3b1e41245798adfe116f6708498e1571f8d"
+      },
+      "2_0_3+mc_": {
+        "name": "copycats-2.0.3+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/VP6rCVUJ/copycats-2.0.3%2Bmc.1.18.2-forge.jar",
+        "sha512": "d71a433bd5cce5b4ac56f6436920511f4bc3b2cc51b437a5f168cecd64ff2fb8da48630855b024b1b304c66e0ef6e5e88840282c7d987d3ce142319c244743cd"
+      },
+      "2_0_2+mc_": {
+        "name": "copycats-2.0.2+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/hgMqB8if/copycats-2.0.2%2Bmc.1.18.2-forge.jar",
+        "sha512": "c27d28434e1b160b6a7a18c825eac1afd7feefbe86d9c73e8ad95a553e4c1b697ee447908ab35c23ec7f6840158bbefbc5948c42d8195cc427e6b636d52daa5d"
+      },
+      "2_0_0+mc_": {
+        "name": "copycats-2.0.0+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/i6pevmVn/copycats-2.0.0%2Bmc.1.18.2-forge.jar",
+        "sha512": "ebcd8de0a252d82aee8dee1450b782a9b81fc1856c40f65620f94a81d3d2b60324ecccceacb300c56c93e48108930dca5092b8f9434b1d52632185b91b1e06f6"
+      },
+      "1_18_2-1_3_1": {
+        "name": "Copycats-forge.1.18.2-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/SVMzkt1Y/Copycats-forge.1.18.2-1.3.1.jar",
+        "sha512": "a14beeb1e046545af2ea3cbfda95a6e8b8fe4f3592def2089d0cb7b1e6fe2e89b060ac75ff2d76a78533e705460c886631768c715ff982e99e6e001ed5b3fce3"
+      },
+      "1_18_2-1_3_0": {
+        "name": "Copycats-forge.1.18.2-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/q9XqJ7au/Copycats-forge.1.18.2-1.3.0.jar",
+        "sha512": "641c6e1fadc028cb7b6156ac1da000fcf18086718bd3983aa987128a06a39bcb04936805fef00943a9a34a731dd6346deaeb20452f57381885836273462ea7e6"
+      },
+      "1_18_2-1_2_5": {
+        "name": "Copycats-forge.1.18.2-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/cD1j4qMA/Copycats-forge.1.18.2-1.2.5.jar",
+        "sha512": "6d413d0013ec75c8737494dc236e31dc737cb69a1b10411e18167e0dda680e0b71a2b23d3a8986e8585a83acfd5e2ed47c6b79b53a03e50b0e0746322d668fd5"
+      },
+      "1_18_2-1_2_0": {
+        "name": "Copycats-forge.1.18.2-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/mz6UJrc5/Copycats-forge.1.18.2-1.2.0.jar",
+        "sha512": "12a123bc4dfe315bb287e0f7401922d135fec7d8d243707a269097b032dd78a2a007bf7919370279db83e04b7dce950022a17aa736f9fc14da6ce03f486bca69"
+      },
+      "1_3_8+mc_": {
+        "name": "copycats-1.3.8+mc.1.18.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/r0zcWp96/copycats-1.3.8%2Bmc.1.18.2-forge.jar",
+        "sha512": "b691236c3e1cd3bbadd20cdc35238fb64214e530b1394cc04cc021a8dacc9ab9ad6c65c9c7b9f85277424af0c8ed07565b1cfb08f21ecafd32d55aeed6bb9d15"
+      },
+      "forge_1_3_4": {
+        "name": "Copycats-forge.1.18.2-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/HraWSX3l/Copycats-forge.1.18.2-1.3.4.jar",
+        "sha512": "62f6fc45fd82da9d1c3423b13995b88751a799662e2e4578aec686602a0812649008cb2603b8d2929403d1ca92ef63e9b5d346af38e2f505e7a0c03d4a7912d2"
+      },
+      "forge_1_3_3": {
+        "name": "Copycats-forge.1.18.2-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/r3DYHUkj/Copycats-forge.1.18.2-1.3.3.jar",
+        "sha512": "37926ca81eb5708b6dd18e66bb0b955dd66b7cb936a93b53f1008f678fb3ab820652351495bc7098117b0f1fba4096e542f22f46076159b6d7016f89c3d3cdb7"
+      },
+      "forge_1_3_2": {
+        "name": "Copycats-forge.1.18.2-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/JVhcrIOO/Copycats-forge.1.18.2-1.3.2.jar",
+        "sha512": "f61852199c8e759dd9acae7504b9ad1d18798b8a3200bf85856ef84aab2ba0d22c527188bc6e6dbf7f891c7ed97ce671e156958179bbc46cce1025aa7c9d2fac"
+      },
+      "1_1_0-mc": {
+        "name": "copycats-1.1.0-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/PA6ZJutS/copycats-1.1.0-mc1.18.2-all.jar",
+        "sha512": "e5236f7d765d7a3a834de8e722456dd363b5bf852342e7343132054c9864adfe808221498c7b25274311aed31e496467f804d8214244d854f30f173576d0dbb1"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "copycats-3.0.7+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/dMrxOciv/copycats-3.0.7%2Bmc.1.20.1-fabric.jar",
+        "sha512": "024d5aaacb96a73afe0c2d3810e7fbc0263bef2cd296f2b7b90593700e3ff9414f72e05e4a5301eee5bf8e337c6bab89d69bfd79d9ff0956ef207eb6639cf66c"
+      },
+      "3_0_7+mc_": {
+        "name": "copycats-3.0.7+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/dMrxOciv/copycats-3.0.7%2Bmc.1.20.1-fabric.jar",
+        "sha512": "024d5aaacb96a73afe0c2d3810e7fbc0263bef2cd296f2b7b90593700e3ff9414f72e05e4a5301eee5bf8e337c6bab89d69bfd79d9ff0956ef207eb6639cf66c"
+      },
+      "3_0_6+mc_": {
+        "name": "copycats-3.0.6+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/7xeb6RlP/copycats-3.0.6%2Bmc.1.20.1-fabric.jar",
+        "sha512": "703d73bf02839285963770b25cc120af5eb623774336b9a3de3ecbd2a813b0154597b82e7e199ae3713a28e0f850253fd3186dd1fdc488a491925d10faa0d5b7"
+      },
+      "3_0_5+mc_": {
+        "name": "copycats-3.0.5+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ESUZ9nT1/copycats-3.0.5%2Bmc.1.20.1-fabric.jar",
+        "sha512": "b4c45b93ecef46679769ada8d9271d7b8c44446c6388a79abfb8df32013014f41a07230d17eb88867b372493df61136da22151f39501fe5925b8afb1a279ca32"
+      },
+      "2_2_2+mc_": {
+        "name": "copycats-2.2.2+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/WYmjbo0H/copycats-2.2.2%2Bmc.1.20.1-fabric.jar",
+        "sha512": "21c4409d5f453a29d161b34ebed3b6253953529fbfcac4651fd4476059a99f6d2244486345b69a46dc9b3a1ebdfd39cd0ef0c1b8b814a95b3cf7c8465471eee1"
+      },
+      "2_2_1+mc_": {
+        "name": "copycats-2.2.1+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ecJyY73Y/copycats-2.2.1%2Bmc.1.20.1-fabric.jar",
+        "sha512": "346a9a2f7ce2e4200357246f8d480c941cab3171e0079ba04517303f5764a72c329821dd71e487988462c01723c9218d4129dec8be97d5520380bc10179b7dad"
+      },
+      "2_2_0+mc_": {
+        "name": "copycats-2.2.0+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/S4Qh89bx/copycats-2.2.0%2Bmc.1.20.1-fabric.jar",
+        "sha512": "8bd5c1271922d22189c153a613324182b873fdedd4e0ca21be8157c6525581458e51821c30a3de85b70f56a4854f4e73196ea753208e9b3d35befaf511a7eb77"
+      },
+      "2_1_4+mc_": {
+        "name": "copycats-2.1.4+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/r8HAtEtA/copycats-2.1.4%2Bmc.1.20.1-fabric.jar",
+        "sha512": "559eb73262d2844385f20434313b05c44f52f71ad89c634e8f30dc6e191f6ac230dc763cfaedef868fb710913159780777b4a231a2afc4d54ef0d17a099c2772"
+      },
+      "2_1_3+mc_": {
+        "name": "copycats-2.1.3+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/FQqplcbP/copycats-2.1.3%2Bmc.1.20.1-fabric.jar",
+        "sha512": "a1d81f766179213d6889f51c5565266f4c3b5c5c7eadbeb308603441817fe5f9e16c3291f6b74a00b6110701c73dbb2522384095b4efd102b76f108da7d4560d"
+      },
+      "2_1_2+mc_": {
+        "name": "copycats-2.1.2+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/uLMBgtLt/copycats-2.1.2%2Bmc.1.20.1-fabric.jar",
+        "sha512": "54a7728166e14001a4f35f817b082b0e2dbc6b4160415c10e4cc620716c399740b660f38bbeaba3205ed0736189eef31884d1a62e33eb51c2ecb6de105a60cf6"
+      },
+      "2_1_1+mc_": {
+        "name": "copycats-2.1.1+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/6A5o85pa/copycats-2.1.1%2Bmc.1.20.1-fabric.jar",
+        "sha512": "885de3547d66e0282249dd81a799cfabd765436d88e222845d8d1e95c40f13663186a9f897a5a5d5e10578b220e432963d7b5c68629fffcf0c5cde95656fa51c"
+      },
+      "2_1_0+mc_": {
+        "name": "copycats-2.1.0+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/Tfrz9GmZ/copycats-2.1.0%2Bmc.1.20.1-fabric.jar",
+        "sha512": "80bfde07f9507a398bc11cfae569de4dbe2291e9e8a54a0139dbea036a9ff575dbd5a807cb31e065b0a394724c410bdb1bbde9cc016b8321520303e4f29aa53c"
+      },
+      "2_0_5+mc_": {
+        "name": "copycats-2.0.5+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/vNqknQZo/copycats-2.0.5%2Bmc.1.20.1-fabric.jar",
+        "sha512": "f79c419c8d9dfc2f220c2574360567e895528397eeb420f3c7ce4cd0a8c56433b8872f53a16128fef5b939aa8374dab9fc677fdaf5ac89e0b74cffe2bf7a7f25"
+      },
+      "2_0_4+mc_": {
+        "name": "copycats-2.0.4+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/Vtylonm5/copycats-2.0.4%2Bmc.1.20.1-fabric.jar",
+        "sha512": "cfffe36f8621fd61c6bc341241c6b0b88eaa7d740c94fc66a3b69588f3c2bfb57f446d70bb7312e1f4d5605cd137a879de2767592988e57fb17fb699603791be"
+      },
+      "2_0_3+mc_": {
+        "name": "copycats-2.0.3+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/8BBBJUw8/copycats-2.0.3%2Bmc.1.20.1-fabric.jar",
+        "sha512": "a52c33de0eb35543dac41683e1f30bc9e54b87022aba841baa9a547980217f573fe2de59de71be0c0365140465f68512941065e1dfa7d8d09ef0f37beffa6f62"
+      },
+      "2_0_2+mc_": {
+        "name": "copycats-2.0.2+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/Mqd0kA0G/copycats-2.0.2%2Bmc.1.20.1-fabric.jar",
+        "sha512": "5628abfc62066c17049273e5abf3377f7f25c7415b0f6633dd2b1975b10294ce595a2cec73313dbf284cd9b6082a42b660137c8689abcb5ee8a633af2835aa51"
+      },
+      "2_0_1+mc_": {
+        "name": "copycats-2.0.1+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/HSvnQaxl/copycats-2.0.1%2Bmc.1.20.1-fabric.jar",
+        "sha512": "2375ab7bd49c56a989fb353cc106030ceb21fed08e2036ec761ff4a391f9d4b2f9a4381cbb888d99788f5af4ad295272d29ac024db734d3e797f7ff0dc67535c"
+      },
+      "2_0_0+mc_": {
+        "name": "copycats-2.0.0+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/6V6TDYy6/copycats-2.0.0%2Bmc.1.20.1-fabric.jar",
+        "sha512": "db36a2655d81250974ffb381635ea33e0cbf358747ce90bb5f828fbabf6c83542ef8a2457f4031c641850fef5bf8a444338b212221a67e41f060869526a2aae6"
+      },
+      "1_20_1-1_3_1": {
+        "name": "Copycats-fabric.1.20.1-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/6MEpzmfX/Copycats-fabric.1.20.1-1.3.1.jar",
+        "sha512": "9ae16f6c8b56211cde1fa6b9398f7fd87269a67056a23c34ba3413e4172c5d21ffb5c181222b974eef52cb9119f9d65c9476ad9d8380ad649335ae1e0db1e81e"
+      },
+      "1_20_1-1_3_0": {
+        "name": "Copycats-fabric.1.20.1-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/lgy7ojG5/Copycats-fabric.1.20.1-1.3.0.jar",
+        "sha512": "9c33c99a8dce89237e4f892b90131822d8eaf6d5cf93261117b3eeec1c61829a8460b26c9d649c9ce935ca1b7d1fd778797af4015d6f2ad46b8ba092507b5909"
+      },
+      "1_20_1-1_2_6": {
+        "name": "Copycats-fabric.1.20.1-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/jjhScGWs/Copycats-fabric.1.20.1-1.2.6.jar",
+        "sha512": "9414f391e6b832b15814f570e9d2254adf5db311b01d9ca92fd7b037766acd545dd96b41c882ab60d53913ce9e478b91fb46d0f84697eed749cdafc0e17cc4d4"
+      },
+      "1_20_1-1_2_5": {
+        "name": "Copycats-fabric.1.20.1-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/3aFxGW18/Copycats-fabric.1.20.1-1.2.5.jar",
+        "sha512": "ca47292290f48f23aada60ec2504e053693220ea3f61b7b93af83bbfca5f6bf6f87dfa3b76dd010a5e75f9be80734f5005b2bd5361e2bef93a00b011b936cfd2"
+      },
+      "1_20_1-1_2_2": {
+        "name": "Copycats-fabric.1.20.1-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/jgOQ8nj6/Copycats-fabric.1.20.1-1.2.2.jar",
+        "sha512": "99a706b9a6e85842296e508979ddbc7e870b3f849eba622cbe0b7b0e99856410034e6243f4c109b714bdb63768eb4c5c975ce0b5d739d554d49b8f4d4ecafa2a"
+      },
+      "1_20_1-1_2_1": {
+        "name": "Copycats-fabric.1.20.1-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/cJIWp8cv/Copycats-fabric.1.20.1-1.2.1.jar",
+        "sha512": "0155909bf9fee93e112d24a4ddffd0393ea13c59629bfca9b337b1d184c0d2c72fc38f305fb567e4b158586c8b2c35332901f779c97c03e287493d4d00c32381"
+      },
+      "1_20_1-1_2_0": {
+        "name": "Copycats-fabric.1.20.1-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/O3sWhros/Copycats-fabric.1.20.1-1.2.0.jar",
+        "sha512": "b58239c4dfcfdf254fc774d0239f9e7abdeaab494b926c42ec84201d4852db13d3c856ef5b2b999bad2e891df992379f394d0d301ab95462c98a0dff76e662d4"
+      },
+      "1_3_8+mc_": {
+        "name": "copycats-1.3.8+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/TtUJDjF2/copycats-1.3.8%2Bmc.1.20.1-fabric.jar",
+        "sha512": "e6f86f42b2cf5d4f23f0477a25381d1b8b29ab687043e074c8e825eaf544ec06d19bea4dab80c77e4047fa6509655bc57204da5f6c64e61c4ebdf7b37c3d33b4"
+      },
+      "1_3_7+mc_": {
+        "name": "copycats-1.3.7+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/8Gtuq9bo/copycats-1.3.7%2Bmc.1.20.1-fabric.jar",
+        "sha512": "80a08a5dfdf6d8c25ed484815311368b061af0dd828a5c19baec7bd5277ba9109369a420484fbea6d6c8905fbcc2df62ae66e796da1a2bdc24c9582b86031b3a"
+      },
+      "1_3_6+mc_": {
+        "name": "copycats-1.3.6+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/t8gHl18M/copycats-1.3.6%2Bmc.1.20.1-fabric.jar",
+        "sha512": "4dbe0dd83102ccc6d2ce7cd81d4b3c973c6425773cc1fe2d1be6adb1013c0c72961bdc018ec3fd53ff62dd6f4c76a0f8f80fa9c61d8526aa2fea33a00594f1c8"
+      },
+      "1_3_5+mc_": {
+        "name": "copycats-1.3.5+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/cTM41Sbh/copycats-1.3.5%2Bmc.1.20.1-fabric.jar",
+        "sha512": "c7c5ce55b711df2a58ad057ea1fc93703ff7b132bfc84ac985fcbfd2d75e3b93b1af74760027eb2116a1d71ad8faf1df878e0da3c06cefd185b2100ebcc61779"
+      },
+      "fabric_1_3_4": {
+        "name": "Copycats-fabric.1.20.1-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/FiaB6nOi/Copycats-fabric.1.20.1-1.3.4.jar",
+        "sha512": "ecd4deaf33a94d8546fea329cb4eefe764f6a00032ec877eb2ff12c57547834dac3675c049b2e6e077a93cd4bcc91062e68fef84ef09d4688e50e13af2c0a174"
+      },
+      "fabric_1_3_3": {
+        "name": "Copycats-fabric.1.20.1-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zKGWCj4Y/Copycats-fabric.1.20.1-1.3.3.jar",
+        "sha512": "371464ee309ada896d87059eb3aa006fae929ea09800696b613b45f76232f4d98826c60b71aa751bd4ad6dd66292f7fc3e6f30da37292968cb4b3f4fae819b45"
+      },
+      "fabric_1_3_2": {
+        "name": "Copycats-fabric.1.20.1-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/JmibGEYK/Copycats-fabric.1.20.1-1.3.2.jar",
+        "sha512": "5206d4db54eb3347693055a078b1e888cb3d593d1857f795f75d7f53fc93e845fcc3073153cdf6c61cb5ce3ba63c292bc379682799572d9514bee7cd25102ffd"
+      },
+      "1_1_1-mc": {
+        "name": "copycats-1.1.1-mc1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/8020527j/copycats-1.1.1-mc1.20.1-fabric.jar",
+        "sha512": "c775670d9e44075d5196648eb22dd6efa30ee9e4f2c6d0298d68730c8879a04e803c891bccbccd74f3c02db18633c6b1b290bae59174aca50caf648001430c83"
+      },
+      "1_1_0-mc": {
+        "name": "copycats-1.1.0-mc1.20.1-fabric-dev.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/yzIUG8qO/copycats-1.1.0-mc1.20.1-fabric-dev.jar",
+        "sha512": "90fe042493c59f1f828381202ec8a0721a87adcd2efbb6ed451e0b604ceb7193171b041907870c3ed68ac50f1b94d49c1e41d587874d7cc2ca5c2564400e4434"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "copycats-2.2.2+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/2i0xjpG2/copycats-2.2.2%2Bmc.1.19.2-fabric.jar",
+        "sha512": "86812686675ef9844b53e88bed882642c11c9c81abf2bc2f90d75cb2082c3fec88c8b10affbea775989a837cd25e03dfc3985c854f6666198f1555e7c72d7172"
+      },
+      "2_2_2+mc_": {
+        "name": "copycats-2.2.2+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/2i0xjpG2/copycats-2.2.2%2Bmc.1.19.2-fabric.jar",
+        "sha512": "86812686675ef9844b53e88bed882642c11c9c81abf2bc2f90d75cb2082c3fec88c8b10affbea775989a837cd25e03dfc3985c854f6666198f1555e7c72d7172"
+      },
+      "2_2_1+mc_": {
+        "name": "copycats-2.2.1+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/aVSfcPG6/copycats-2.2.1%2Bmc.1.19.2-fabric.jar",
+        "sha512": "58386868e31e17c8a31ca084dfae2fd1531627120bfb3cd28c27c9c354d0346081250607f8885a98f3133ff3e5310eca5b20df4c182a06132e543e0b68961807"
+      },
+      "2_2_0+mc_": {
+        "name": "copycats-2.2.0+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/3fuqx1Of/copycats-2.2.0%2Bmc.1.19.2-fabric.jar",
+        "sha512": "a4f06f6cbf7bba16fc37e71e74aa30d1c259ab1d07ec52a5704a3871580b0a290ba2a97ace97b71aba6288c237a590b35b84e4c6f8f6a2f5fb9a75ad7bc93894"
+      },
+      "2_1_4+mc_": {
+        "name": "copycats-2.1.4+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/HXJrCKCJ/copycats-2.1.4%2Bmc.1.19.2-fabric.jar",
+        "sha512": "3cbef5fdd863ae5fc1939902ab0b812cb997f433b9e3e476b2ea393685fc91c46aeaec26ae4a4d69ce9db3bc96d54c4fc9ab51019de965164a807725498d2982"
+      },
+      "2_1_3+mc_": {
+        "name": "copycats-2.1.3+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/OVOkPIgb/copycats-2.1.3%2Bmc.1.19.2-fabric.jar",
+        "sha512": "cc1c81dd91e9148493d24f7824f00d84dcf7eb72c070520226710f93ea203dfd7c9b4f8e22985a30907ffeb99e5b918920fcbd616fa83a1a01b5e4b8897fe27c"
+      },
+      "2_1_2+mc_": {
+        "name": "copycats-2.1.2+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/brdhvEhn/copycats-2.1.2%2Bmc.1.19.2-fabric.jar",
+        "sha512": "7f1f22fdaa31f3e3a34fe9a9a343c5816dba9ca7bcd3363a43bcdd384549dabe6cc1d5f3b46cf1a3217ff6349d9712c35811959e666d2fef418d79f826c75cb2"
+      },
+      "2_1_1+mc_": {
+        "name": "copycats-2.1.1+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/SSeS5Dym/copycats-2.1.1%2Bmc.1.19.2-fabric.jar",
+        "sha512": "666f138d2f27b70441de721ec9e18984a4e648f14df27f57f57e9d247587b44f18da1ab41df0d3743e30aa812aaa69c9bfabebb5fe83693cd100f0cf365e66a1"
+      },
+      "2_1_0+mc_": {
+        "name": "copycats-2.1.0+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/nCCUYhke/copycats-2.1.0%2Bmc.1.19.2-fabric.jar",
+        "sha512": "47a5678d6e3d0d6bba63b052598e735fa2172179f69d6c57372c4334638d86322f06ce97a92df9c0e640a1992a2153fc9a3261aeec413ad1a0ab5017d134783a"
+      },
+      "2_0_5+mc_": {
+        "name": "copycats-2.0.5+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/UYcp49yS/copycats-2.0.5%2Bmc.1.19.2-fabric.jar",
+        "sha512": "7a9166758cd484db5d6100b32b7dc9e8737b6a7fb832cb54585a9cf2ba223908926adf6046b6e0e15ca52b5949159e318f870b85ed38ce06f8ab535e9483c42d"
+      },
+      "2_0_4+mc_": {
+        "name": "copycats-2.0.4+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/StlmSRrK/copycats-2.0.4%2Bmc.1.19.2-fabric.jar",
+        "sha512": "011d19f04e4519caa2b1f4933f49b9c263f87e58540b5b041bd3c01963e45197c5e1991cd3d11159923eefaea41382ed855f8b525fb7545487b387fe27cff4cf"
+      },
+      "2_0_3+mc_": {
+        "name": "copycats-2.0.3+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/i9kuVzgC/copycats-2.0.3%2Bmc.1.19.2-fabric.jar",
+        "sha512": "f6520a783f2b59b4b8b3f8d4d34da3a0bab2f876c3e392e059e140a06fb8dc926f91e3ed0dbcfca33d67e57344ffea53dd7a6056a39680ea750f02332c3d0334"
+      },
+      "2_0_2+mc_": {
+        "name": "copycats-2.0.2+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/W8xxIEiA/copycats-2.0.2%2Bmc.1.19.2-fabric.jar",
+        "sha512": "fe06814205aac78fbe1027a9a934fa9039be348fb6475116ed6f3362d261d7e84310cf43ec8c93a3ecc1825c17a85533801f720ad4daf73a0ff721330d37838c"
+      },
+      "2_0_0+mc_": {
+        "name": "copycats-2.0.0+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/uJF41nmq/copycats-2.0.0%2Bmc.1.19.2-fabric.jar",
+        "sha512": "ed6db93dcdd115323477cdd208a38c894eb6d90f22aca1bf6fb749932cd738d5b2059935b1a2c0297cee9bd98481ff43d9bf9fdff314adb3dfc0fb4c9f4bf771"
+      },
+      "1_19_2-1_3_1": {
+        "name": "Copycats-fabric.1.19.2-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/KT25YImT/Copycats-fabric.1.19.2-1.3.1.jar",
+        "sha512": "a6ba0d451d7ea7352fafefc024c77ae5cb131cf8d39fb038a5c6c2e56d86a201dfed0ecd3a5cc51f444744700a0643318d62988aa648f98a1ec509fd7cbbcbc1"
+      },
+      "1_19_2-1_3_0": {
+        "name": "Copycats-fabric.1.19.2-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/LjBP2nSC/Copycats-fabric.1.19.2-1.3.0.jar",
+        "sha512": "9e958489729ab363b299d895d3bdee13de78ec36692ebd6a17784b11151f7006481326a9b62e2aeccf9cd74f1bbe64746e103a8c1e33de6b56e4d1f82f6725c0"
+      },
+      "1_19_2-1_2_5": {
+        "name": "Copycats-fabric.1.19.2-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/hJh4t3fm/Copycats-fabric.1.19.2-1.2.5.jar",
+        "sha512": "80524b3958b6b869fa60d72c801ab1f342726ff34c78bf7af5db019d13a1a81683716ba1202d677a9cd0b8e0312e5b849818d573189c31b4110330c5b5d903a6"
+      },
+      "1_19_2-1_2_2": {
+        "name": "Copycats-fabric.1.19.2-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/DxYOe2Ym/Copycats-fabric.1.19.2-1.2.2.jar",
+        "sha512": "406a74e0f012d3b38d19512524e42c1fd142c966dc8ecfce6d6ae9b650ef0981133ed0dafd4f61d3dbc845b6ee2d8d2766176f2ead35d204456ce441b3399513"
+      },
+      "1_19_2-1_2_1": {
+        "name": "Copycats-fabric.1.19.2-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/nvUBsgqf/Copycats-fabric.1.19.2-1.2.1.jar",
+        "sha512": "04353f57fd37ad95d403f63517c2f79aa20093e511409281b2e88479c501ebb2db9d4181a9533c8f490763b77d8c91c0a611ddb7216fbd5258a11b946eebe1f0"
+      },
+      "1_19_2-1_2_0": {
+        "name": "Copycats-fabric.1.19.2-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/V22kYE7Q/Copycats-fabric.1.19.2-1.2.0.jar",
+        "sha512": "afb9ab71d54a203f03bec7c814bdbc64c277b52008cf81e39d0c1c09b014dbd5284d8d51d15b54d7ae27f379f4830c3cbf35f022f168e2eb263138bc620de1f2"
+      },
+      "1_3_8+mc_": {
+        "name": "copycats-1.3.8+mc.1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/3tKcIBlL/copycats-1.3.8%2Bmc.1.19.2-fabric.jar",
+        "sha512": "e6218c05710b7ac74c9e14b615c72cc7af3d15ed9cafc8b7f25e61bd3ff84b5094120ee6d211f1ea7863b11eb07991f24a1202d43b078d7585336605001f9d73"
+      },
+      "fabric_1_3_4": {
+        "name": "Copycats-fabric.1.19.2-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/6Zc4htMn/Copycats-fabric.1.19.2-1.3.4.jar",
+        "sha512": "ff02ce3937834ba1f95bb6cf4b7515aa16d86c33654e998f3369f30176c569b3860841cd48116ea83a1aef2bc77ea58659097dfb840fee531106871ffffd72d4"
+      },
+      "fabric_1_3_3": {
+        "name": "Copycats-fabric.1.19.2-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/yOaeLpUZ/Copycats-fabric.1.19.2-1.3.3.jar",
+        "sha512": "313d1d6c8c3d18f93d1311563528f4eac9c18d2f14ded455e68539863de816b940f9b16ae37e4694e5c0d5edd4356c34d4b1bc81d2d47b33544c648014ed9f05"
+      },
+      "fabric_1_3_2": {
+        "name": "Copycats-fabric.1.19.2-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/dVlRE48M/Copycats-fabric.1.19.2-1.3.2.jar",
+        "sha512": "4624fd88d4e431d274d029d4026a889bf26275c1278680093c3b6979b05a820074f935cee3d10f44d4df2e1518e24f3d08f2fd855f30692001ef8fd584b02352"
+      },
+      "1_1_1-mc": {
+        "name": "copycats-1.1.1-mc1.19.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/eu2LKyM6/copycats-1.1.1-mc1.19.2-fabric.jar",
+        "sha512": "703be9946a04fa9cf00a471be2f54bb7cfa615046965d3673c0a845583342787b3f047ede99132d9f2984713de89dc18ec4d96161546d517391c10df79fd2712"
+      },
+      "1_1_0-mc": {
+        "name": "copycats-1.1.0-mc1.19.2-fabric-dev.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/xTPwJSk1/copycats-1.1.0-mc1.19.2-fabric-dev.jar",
+        "sha512": "2fcb89acf73ba096b06e538d97b1c11717d6716999a57c324b12b692f884330553ea963108270ccb9458268e162b18f103c448c97a2c4c2d7043b5011209c65c"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "copycats-2.2.2+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/DJEPdsxc/copycats-2.2.2%2Bmc.1.18.2-fabric.jar",
+        "sha512": "ac7bc48112ade699538284b80bb9508ec91ec1d64fc08c3ac5f82cde2df0368e519939e7f826792d226f2a124f1629b98dc38ce251b3b0fb63830dcd88c704bc"
+      },
+      "2_2_2+mc_": {
+        "name": "copycats-2.2.2+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/DJEPdsxc/copycats-2.2.2%2Bmc.1.18.2-fabric.jar",
+        "sha512": "ac7bc48112ade699538284b80bb9508ec91ec1d64fc08c3ac5f82cde2df0368e519939e7f826792d226f2a124f1629b98dc38ce251b3b0fb63830dcd88c704bc"
+      },
+      "2_2_1+mc_": {
+        "name": "copycats-2.2.1+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/eOEs6eAY/copycats-2.2.1%2Bmc.1.18.2-fabric.jar",
+        "sha512": "54ad73e3a72b53e0f895b72e3d40ddfc2d8182e1ba2a783ad66d871a5ce6bc95ac0ea012cce3842be652ac3c9c84e9a46e225ba75cdbd06a7a40f9b7a2eff5ed"
+      },
+      "2_2_1a+mc_": {
+        "name": "copycats-2.2.1a+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bEVF8cyY/copycats-2.2.1a%2Bmc.1.18.2-fabric.jar",
+        "sha512": "7f0e79912a5236034b6a04efb78cb2413b07f6d3272f642d76af0f663d70e1924299b2342af94fae8c686569c1b3f886e0ace158a7ec579ef0247b918880e623"
+      },
+      "2_2_0+mc_": {
+        "name": "copycats-2.2.0+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/oTSisdhE/copycats-2.2.0%2Bmc.1.18.2-fabric.jar",
+        "sha512": "24e682a9400f430aa62df1c3b4e472a475d9314cf4dca200d4c849be94c86aab910b6d5ca65a1541cdbb947ff63a1b488aa1800b5f3d359699ecc92b5322c173"
+      },
+      "2_1_4+mc_": {
+        "name": "copycats-2.1.4+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/gBJHxQFt/copycats-2.1.4%2Bmc.1.18.2-fabric.jar",
+        "sha512": "2f917af2b40e328ec43358665838e819ec8d07c92d58079e9a75ffdd2599ab1d90edb2e9c346da1ec3e9e609cba6cf6d5d8c6b9671e40fb6a92f0bf74cd395f4"
+      },
+      "2_1_3+mc_": {
+        "name": "copycats-2.1.3+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/AqrDMhrm/copycats-2.1.3%2Bmc.1.18.2-fabric.jar",
+        "sha512": "5a33b7667e2e7aafb07a4f54c60afa301486fc24d754e4598dd51ec380cb95841b37f5504774d27fadcaf1096721ec7fa4bf53b87fe22bb6cd92eec7ea9d7654"
+      },
+      "2_1_2+mc_": {
+        "name": "copycats-2.1.2+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/FRXgiRJS/copycats-2.1.2%2Bmc.1.18.2-fabric.jar",
+        "sha512": "f6647b4f8aa5491bbdbdd48c66ebdbf81cc44ce3c4bcd32d1be5cac0144d4f48b51dd945d43871fe72c7ff709deeccbb70c36194b6db5bd9623ad903d9f37296"
+      },
+      "2_1_1+mc_": {
+        "name": "copycats-2.1.1+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/XRqLIwg0/copycats-2.1.1%2Bmc.1.18.2-fabric.jar",
+        "sha512": "56240e7cbf9cd7fb38808ce47200967ce595cdc8f32f455d221a440315251d23e015923a2de856546f865533970286a53b648a0d756f90ee0c363be80d722575"
+      },
+      "2_1_0+mc_": {
+        "name": "copycats-2.1.0+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/BsJtbZ29/copycats-2.1.0%2Bmc.1.18.2-fabric.jar",
+        "sha512": "8445552c0cb19cba7dd2e1b85d8efdad7a9220299f045d12ddb45bd0912d0a8536cc7e5a9914196b26bb626f08854840bd4585bf98f022edb42a31ac0a13d61b"
+      },
+      "2_0_5+mc_": {
+        "name": "copycats-2.0.5+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/aGhlY86F/copycats-2.0.5%2Bmc.1.18.2-fabric.jar",
+        "sha512": "bba30625a2eff6a4392aaceac4e8957788243ed06a401f4f14cd2363de85896204ddac4a5194a5e8d94392a939b4cb7e190c360501c7210d15319677a87813ca"
+      },
+      "2_0_4+mc_": {
+        "name": "copycats-2.0.4+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/pBd77CWk/copycats-2.0.4%2Bmc.1.18.2-fabric.jar",
+        "sha512": "cf62b62a790a6967fb3e81482be2458edb0c535545ee78838e708833ffd4f85b2136698d16b3fa70fba6eda11c33807ecdf1b9b3053fe5075160ada789d84e74"
+      },
+      "2_0_3+mc_": {
+        "name": "copycats-2.0.3+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/P7SXVFq1/copycats-2.0.3%2Bmc.1.18.2-fabric.jar",
+        "sha512": "ceb0719c92785f72f2e5274cd96d8b11cc8cd8314b02a4429e7d102c72d0d0c6b188185ac7cf58cf7fa62b97ad4e08dc301fb3a8b6baad4f7287dab9df22cf9b"
+      },
+      "2_0_2+mc_": {
+        "name": "copycats-2.0.2+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/Yg2vCIr0/copycats-2.0.2%2Bmc.1.18.2-fabric.jar",
+        "sha512": "8e2b19bdce5a00c5ca0935d5fff47ea9243c3ff81aa2051904a9247ed98fe9c3d91bf98b56ffe1fec77512d315e7ea32a49bce8ee9902ca88f8739671864d82a"
+      },
+      "2_0_0+mc_": {
+        "name": "copycats-2.0.0+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/Mhvozemv/copycats-2.0.0%2Bmc.1.18.2-fabric.jar",
+        "sha512": "d4c7064f4054f5d55b1060b16d3c7451c28a9366fdd3adbe37ddec607743ee12151efd15b0300f47e059f403ee506c9fedf90bca9c3e56b343131bd5350ad6c5"
+      },
+      "1_18_2-1_3_1": {
+        "name": "Copycats-fabric.1.18.2-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zshaanfF/Copycats-fabric.1.18.2-1.3.1.jar",
+        "sha512": "bddb04c87fd018846209cc41b372bb544c7fcd687889eaa8c577e2b6a15766aad04b396b08159b478c39a1818ddab6973b9fe8d4f40fa8d2e56a0e8e12bbc4cc"
+      },
+      "1_18_2-1_3_0": {
+        "name": "Copycats-fabric.1.18.2-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/45R2NaCg/Copycats-fabric.1.18.2-1.3.0.jar",
+        "sha512": "3cf08e5049cb6bf0b2f5cf17cd469a05b4c51f20913f4bc1b0961a4c4a4b65ec85d136c7fdeb8d9d84442c0912de013c2aed5134c23aa007c034a0ac71c1da54"
+      },
+      "1_18_2-1_2_5": {
+        "name": "Copycats-fabric.1.18.2-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/g3m9RPx3/Copycats-fabric.1.18.2-1.2.5.jar",
+        "sha512": "7588ee53992753fde2b8cda30cf752c75304996dae811234d2a1c9fa63acdfbca305c3791bba2cd0121496f50a20054676897df93453716ae267fba67ea5ccc4"
+      },
+      "1_18_2-1_2_2": {
+        "name": "Copycats-fabric.1.18.2-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/5EkA6AQZ/Copycats-fabric.1.18.2-1.2.2.jar",
+        "sha512": "4cee9a53e6b133ad77611cc23341e00a6e4a8641d2281b196846ff37e802895d9af1bce2971e7ad70062ca725e47c2131eee60eddf17b6876009428414ce5c30"
+      },
+      "1_18_2-1_2_1": {
+        "name": "Copycats-fabric.1.18.2-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ORj0hM3r/Copycats-fabric.1.18.2-1.2.1.jar",
+        "sha512": "2f3fd02bdbb1a68ec3625f24f94f8945f26a2bb72008b876b03837bd34411c5653b6d696877952d77142e088b082619bf31f8e3dd0e096f865366939e8182aae"
+      },
+      "1_18_2-1_2_0": {
+        "name": "Copycats-fabric.1.18.2-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/WsHcTCXg/Copycats-fabric.1.18.2-1.2.0.jar",
+        "sha512": "4cd749ea86ebc3026d556bf430b686b0a95729d26e9a7b60b538ff91c23a3b7d1f8756530b8bc532fd73dde957c5aded9aca79f7276eaa7328164f8ae86416d7"
+      },
+      "1_3_8+mc_": {
+        "name": "copycats-1.3.8+mc.1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/7RYZkgiJ/copycats-1.3.8%2Bmc.1.18.2-fabric.jar",
+        "sha512": "ea2a94839fb48c1c7b8f4483c66d4f467412b1252b009890e2c65ce95c4b512656d9cbe17e02b878e11c12402e322f98f11ac502f30e0c2131aa99114491c575"
+      },
+      "fabric_1_3_4": {
+        "name": "Copycats-fabric.1.18.2-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/qA6DiPw5/Copycats-fabric.1.18.2-1.3.4.jar",
+        "sha512": "5d4318c90a0af11ff5a99b3da9793c5492ab60084416602ec963559f5eca1264fcf6222436cae9e14d96351d88570ab972a0dbf01d5fe597df52af62125dcc63"
+      },
+      "fabric_1_3_3": {
+        "name": "Copycats-fabric.1.18.2-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/vJwOWpYq/Copycats-fabric.1.18.2-1.3.3.jar",
+        "sha512": "52de3995a4416055f38a016df9007b4108e7da81d044dfbf756ab8ba4f89f3e469f8d20dd8bfd8440c25b568509282e357e637891aaea0230e67ae49edbed460"
+      },
+      "fabric_1_3_2": {
+        "name": "Copycats-fabric.1.18.2-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ZwmZYoGi/Copycats-fabric.1.18.2-1.3.2.jar",
+        "sha512": "77249bd677f5561d7d18b4d47e7e9ea7052854620772cbc2cc836c9b3d4556828d266a9e90e771fc211fb0c1fefb21b7640fbceb565eccc0012b66abe7e9696a"
+      },
+      "1_1_1-mc": {
+        "name": "copycats-1.1.1-mc1.18.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/KshWQssF/copycats-1.1.1-mc1.18.2-fabric.jar",
+        "sha512": "b3e54dda898d775ba94a5d7526d974f8d0f47dee3a37f297d8b83dc565faa2ba3b1e70d0b8599bb4d801fd74a2874bbbd45a0193b26f3dd72aeb30079866f778"
+      },
+      "1_1_0-mc": {
+        "name": "copycats-1.1.0-mc1.18.2-fabric-dev.jar",
+        "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/Bm4EYWGi/copycats-1.1.0-mc1.18.2-fabric-dev.jar",
+        "sha512": "62b9e3264bdee71eb07abba2e662cd82994fe4f5ba5ee7b3be48d4c05fbf9328f57ff1aa16fc12cdc58fc53f4ecb9495ee08298dc75e459ec292661b20b84357"
+      }
+    }
+  }
+}

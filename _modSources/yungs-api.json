@@ -1,0 +1,604 @@
+{
+  "neoforge": {
+    "1_21_4": {
+      "latest": {
+        "name": "YungsApi-1.21.4-NeoForge-5.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/FVhw2zf8/YungsApi-1.21.4-NeoForge-5.4.0.jar",
+        "sha512": "64335f4b395a9ea6739aae6fc4c41166033d15d15ca4e6cf26a243a1a30a7776a68a2d6d6fd20508dbce965570b25901627cd1bcbc7ad7576a7b763accaaeeae"
+      },
+      "1_21_4-NeoForge-5_4_0": {
+        "name": "YungsApi-1.21.4-NeoForge-5.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/FVhw2zf8/YungsApi-1.21.4-NeoForge-5.4.0.jar",
+        "sha512": "64335f4b395a9ea6739aae6fc4c41166033d15d15ca4e6cf26a243a1a30a7776a68a2d6d6fd20508dbce965570b25901627cd1bcbc7ad7576a7b763accaaeeae"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d"
+      },
+      "1_21_1-NeoForge-5_1_6": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d"
+      },
+      "1_21_1-NeoForge-5_1_5": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/r6h5nMGq/YungsApi-1.21.1-NeoForge-5.1.5.jar",
+        "sha512": "9aea63af84f2e4006d4bf30397f6f9a076747911eac8e13de4c0dd2c4bcea8d914aeb2121df96c0e37856e89b022572c58c4155fa878a84e4effc4999ec7668a"
+      },
+      "1_21_1-NeoForge-5_1_4": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/x20IZIXE/YungsApi-1.21.1-NeoForge-5.1.4.jar",
+        "sha512": "8c687d620a1654357c9ce45d11c3cb3ffd75a54ceb2ee50e849a4cc07e782c9bb8bae519077c24869b5556c5c409daf309dd8bce61da04dcc4c671aa90ba99e1"
+      },
+      "1_21_1-NeoForge-5_1_3": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MoMQNZ94/YungsApi-1.21.1-NeoForge-5.1.3.jar",
+        "sha512": "0c7323c49ec9a2d91cdeabbd053de1654c0ecfa5b216a487116e39e43d0ff203f31e1239f0ef30910bf20a6d0fcbae16e27e9503514c4f5906c068a942f3abf6"
+      },
+      "1_21_1-NeoForge-5_1_2": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ex8YYvxI/YungsApi-1.21.1-NeoForge-5.1.2.jar",
+        "sha512": "015405dd4b4c5a72de8190660fae0221cbb551233dce4ce907f5c3ba6d3d0b513ce34cf2900eb8c62c2df08f0074f43180f4d810976644310fe95379e5d4a21a"
+      },
+      "1_21_1-NeoForge-5_1_1": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MIGLewpu/YungsApi-1.21.1-NeoForge-5.1.1.jar",
+        "sha512": "118d197807015530b56b8af4dd504ff7905500324e84bf9486202eca257df324e5e09134c37816c75d3d0fb179957c4a9b2025f22d8fe0cc46fbdfec24e09a43"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "YungsApi-1.21-NeoForge-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/fFD2YR4D/YungsApi-1.21-NeoForge-5.0.0.jar",
+        "sha512": "f946690fa45a11187c7e75d400d4c06b97aa870f723458f46e8f296821776908f8b4da0c754078fe022df8629bdf50fdd2434395ceded8ede711abc931d67d88"
+      },
+      "1_21-NeoForge-5_0_0": {
+        "name": "YungsApi-1.21-NeoForge-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/fFD2YR4D/YungsApi-1.21-NeoForge-5.0.0.jar",
+        "sha512": "f946690fa45a11187c7e75d400d4c06b97aa870f723458f46e8f296821776908f8b4da0c754078fe022df8629bdf50fdd2434395ceded8ede711abc931d67d88"
+      },
+      "1_21_1-NeoForge-5_1_6": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "sha512": "5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d"
+      },
+      "1_21_1-NeoForge-5_1_5": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/r6h5nMGq/YungsApi-1.21.1-NeoForge-5.1.5.jar",
+        "sha512": "9aea63af84f2e4006d4bf30397f6f9a076747911eac8e13de4c0dd2c4bcea8d914aeb2121df96c0e37856e89b022572c58c4155fa878a84e4effc4999ec7668a"
+      },
+      "1_21_1-NeoForge-5_1_4": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/x20IZIXE/YungsApi-1.21.1-NeoForge-5.1.4.jar",
+        "sha512": "8c687d620a1654357c9ce45d11c3cb3ffd75a54ceb2ee50e849a4cc07e782c9bb8bae519077c24869b5556c5c409daf309dd8bce61da04dcc4c671aa90ba99e1"
+      },
+      "1_21_1-NeoForge-5_1_3": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MoMQNZ94/YungsApi-1.21.1-NeoForge-5.1.3.jar",
+        "sha512": "0c7323c49ec9a2d91cdeabbd053de1654c0ecfa5b216a487116e39e43d0ff203f31e1239f0ef30910bf20a6d0fcbae16e27e9503514c4f5906c068a942f3abf6"
+      },
+      "1_21_1-NeoForge-5_1_2": {
+        "name": "YungsApi-1.21.1-NeoForge-5.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ex8YYvxI/YungsApi-1.21.1-NeoForge-5.1.2.jar",
+        "sha512": "015405dd4b4c5a72de8190660fae0221cbb551233dce4ce907f5c3ba6d3d0b513ce34cf2900eb8c62c2df08f0074f43180f4d810976644310fe95379e5d4a21a"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "YungsApi-1.20.4-NeoForge-4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/jLW564iU/YungsApi-1.20.4-NeoForge-4.4.3.jar",
+        "sha512": "70d0c33f1eab9b2df07a01fe2cff8b6bf471035a7a4c263c37c2db351c79c6b56c9d81b5f626209f156b3eb7433a16166bb049ba42d044267f50745dcb43b2f0"
+      },
+      "1_20_4-NeoForge-4_4_3": {
+        "name": "YungsApi-1.20.4-NeoForge-4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/jLW564iU/YungsApi-1.20.4-NeoForge-4.4.3.jar",
+        "sha512": "70d0c33f1eab9b2df07a01fe2cff8b6bf471035a7a4c263c37c2db351c79c6b56c9d81b5f626209f156b3eb7433a16166bb049ba42d044267f50745dcb43b2f0"
+      }
+    }
+  },
+  "forge": {
+    "1_21_1": {
+      "latest": {
+        "name": "YungsApi-1.21.1-Forge-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MSfdem3U/YungsApi-1.21.1-Forge-5.1.6.jar",
+        "sha512": "c622eb3fe374d445eca5540b7fe596d4aa7279b308f63e17c72b5334e9d0d7ef9ea1fa71f25b89ef02c909d46cb1d1711c6227afd7b920bd3994323a4d6ec219"
+      },
+      "1_21_1-Forge-5_1_6": {
+        "name": "YungsApi-1.21.1-Forge-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MSfdem3U/YungsApi-1.21.1-Forge-5.1.6.jar",
+        "sha512": "c622eb3fe374d445eca5540b7fe596d4aa7279b308f63e17c72b5334e9d0d7ef9ea1fa71f25b89ef02c909d46cb1d1711c6227afd7b920bd3994323a4d6ec219"
+      },
+      "1_21_1-Forge-5_1_5": {
+        "name": "YungsApi-1.21.1-Forge-5.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/gRJY0EjN/YungsApi-1.21.1-Forge-5.1.5.jar",
+        "sha512": "68fb6b385561c34d50284ede9fa418ea74b9afe79cadff9dc2907444c7466dc1ee410ca83a13621c62131cdbfc7a597590efeadb952502cf8411fc43a093b11c"
+      },
+      "1_21_1-Forge-5_1_4": {
+        "name": "YungsApi-1.21.1-Forge-5.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/fVwzTPig/YungsApi-1.21.1-Forge-5.1.4.jar",
+        "sha512": "a2a653997811ebc1b79535a531af6983cba9ece74aaeebf54438855eb1c629473564350bafc7e78ebc5c96f3354a875fe586709605fd66a8ee20ead1d9851cb3"
+      },
+      "1_21_1-Forge-5_1_3": {
+        "name": "YungsApi-1.21.1-Forge-5.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/97xRZcgc/YungsApi-1.21.1-Forge-5.1.3.jar",
+        "sha512": "0baf4423cfaf5da9b60d34eb9c1975603c4695b7c5bf6d6e4fba40d40006f8c05af985c00c5c21488e25b5baea6f492ddbeb3e1f00afa2c14d1301dec13b8338"
+      },
+      "1_21_1-Forge-5_1_2": {
+        "name": "YungsApi-1.21.1-Forge-5.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PpGXywDf/YungsApi-1.21.1-Forge-5.1.2.jar",
+        "sha512": "1961089a84ca1bbae9aa8c602b745160a6995d20ba496a7b060a4c2b7f4192cdb92839e4049dace5a23c2a24477cb52fc9deab75a74d5643dbe5a7e3d4ab4b30"
+      },
+      "1_21_1-Forge-5_1_1": {
+        "name": "YungsApi-1.21.1-Forge-5.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/tumhJgug/YungsApi-1.21.1-Forge-5.1.1.jar",
+        "sha512": "d82ab2d458bd019362e23c9b700ac9970be06a000b403a10263b257e9da3131559d4ac9b408ec71a80258dc144882b66658e360ae81886e2b2c69aa96cb6616c"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "YungsApi-1.21-Forge-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/mBbkZrZ1/YungsApi-1.21-Forge-5.0.0.jar",
+        "sha512": "f44030d2dfe26f3dce27a5e0eaf69aba7c701a938e4404bf030e5382bb6f920fe413a8d1b4372fbd8647d4c8de7c7ab3cefc2ac99b19a505a60a8ed38e89871a"
+      },
+      "1_21-Forge-5_0_0": {
+        "name": "YungsApi-1.21-Forge-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/mBbkZrZ1/YungsApi-1.21-Forge-5.0.0.jar",
+        "sha512": "f44030d2dfe26f3dce27a5e0eaf69aba7c701a938e4404bf030e5382bb6f920fe413a8d1b4372fbd8647d4c8de7c7ab3cefc2ac99b19a505a60a8ed38e89871a"
+      },
+      "1_21_1-Forge-5_1_6": {
+        "name": "YungsApi-1.21.1-Forge-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/MSfdem3U/YungsApi-1.21.1-Forge-5.1.6.jar",
+        "sha512": "c622eb3fe374d445eca5540b7fe596d4aa7279b308f63e17c72b5334e9d0d7ef9ea1fa71f25b89ef02c909d46cb1d1711c6227afd7b920bd3994323a4d6ec219"
+      },
+      "1_21_1-Forge-5_1_5": {
+        "name": "YungsApi-1.21.1-Forge-5.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/gRJY0EjN/YungsApi-1.21.1-Forge-5.1.5.jar",
+        "sha512": "68fb6b385561c34d50284ede9fa418ea74b9afe79cadff9dc2907444c7466dc1ee410ca83a13621c62131cdbfc7a597590efeadb952502cf8411fc43a093b11c"
+      },
+      "1_21_1-Forge-5_1_4": {
+        "name": "YungsApi-1.21.1-Forge-5.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/fVwzTPig/YungsApi-1.21.1-Forge-5.1.4.jar",
+        "sha512": "a2a653997811ebc1b79535a531af6983cba9ece74aaeebf54438855eb1c629473564350bafc7e78ebc5c96f3354a875fe586709605fd66a8ee20ead1d9851cb3"
+      },
+      "1_21_1-Forge-5_1_3": {
+        "name": "YungsApi-1.21.1-Forge-5.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/97xRZcgc/YungsApi-1.21.1-Forge-5.1.3.jar",
+        "sha512": "0baf4423cfaf5da9b60d34eb9c1975603c4695b7c5bf6d6e4fba40d40006f8c05af985c00c5c21488e25b5baea6f492ddbeb3e1f00afa2c14d1301dec13b8338"
+      },
+      "1_21_1-Forge-5_1_2": {
+        "name": "YungsApi-1.21.1-Forge-5.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PpGXywDf/YungsApi-1.21.1-Forge-5.1.2.jar",
+        "sha512": "1961089a84ca1bbae9aa8c602b745160a6995d20ba496a7b060a4c2b7f4192cdb92839e4049dace5a23c2a24477cb52fc9deab75a74d5643dbe5a7e3d4ab4b30"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "YungsApi-1.20.4-Forge-4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/dpTBMhjf/YungsApi-1.20.4-Forge-4.4.3.jar",
+        "sha512": "425757f9b546f2ff083fd4421099d1c221a11a4bae00ed7a9692f088d1d3f92258aada4b62c79fc9126e5beb8f088c7e868d9bfca50413ca21964f4f8787f5a9"
+      },
+      "1_20_4-Forge-4_4_3": {
+        "name": "YungsApi-1.20.4-Forge-4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/dpTBMhjf/YungsApi-1.20.4-Forge-4.4.3.jar",
+        "sha512": "425757f9b546f2ff083fd4421099d1c221a11a4bae00ed7a9692f088d1d3f92258aada4b62c79fc9126e5beb8f088c7e868d9bfca50413ca21964f4f8787f5a9"
+      },
+      "1_20_4-Forge-4_4_2": {
+        "name": "YungsApi-1.20.4-Forge-4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/wddoDji1/YungsApi-1.20.4-Forge-4.4.2.jar",
+        "sha512": "443a3e521a8135d445134ded2189b1b97c9920ce1f6cd8ca408b3604cee4564df5c7022aed49bb52552433246f33d1ff515df4522f4212f6f12fcb9a8469d534"
+      },
+      "1_20_4-Forge-4_4_1": {
+        "name": "YungsApi-1.20.4-Forge-4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/rbgh8n1F/YungsApi-1.20.4-Forge-4.4.1.jar",
+        "sha512": "8253d4dd3f80c83413baecc82eb98c56d15324e5a1aeaf329ddc0c2a6d13add088b2efd952dca188f151b6b34fa78f27d4d8dd8db2b2b68f9e071a03b0caf2eb"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "YungsApi-1.20-Forge-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+        "sha512": "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889"
+      },
+      "1_20-Forge-4_0_6": {
+        "name": "YungsApi-1.20-Forge-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+        "sha512": "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889"
+      },
+      "1_20-Forge-4_0_5": {
+        "name": "YungsApi-1.20-Forge-4.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/aMs83SRk/YungsApi-1.20-Forge-4.0.5.jar",
+        "sha512": "a8dbdf96cff9e69c64468fa1ad245655a3305495698e146e77cdbc2a821ab82f1bbf140dbcf672b58ed1e2628a121fde02343be0dfa42a2c23249545a1281c4c"
+      },
+      "1_20-Forge-4_0_4": {
+        "name": "YungsApi-1.20-Forge-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/sE5QMX20/YungsApi-1.20-Forge-4.0.4.jar",
+        "sha512": "e516c6f7771495a640e6f5b48a4c1fcd345909457de95a20ca659722f43692c52cde670e171848f3c6ef54d9a8afbaeb8c5e6292d1421d96ccd5aba1cab2cc15"
+      },
+      "1_20-Forge-4_0_3": {
+        "name": "YungsApi-1.20-Forge-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/QnR5jGmc/YungsApi-1.20-Forge-4.0.3.jar",
+        "sha512": "c1b2597f5bcfaf7ef662cbe46990d877cd5c68b0ee9cc4ed4ac0c87f815888b1536d68bf86e5bd929694a52fa9d786412d19cb1ad5c2afa6963b6b6f91f2be23"
+      },
+      "1_20-Forge-4_0_2": {
+        "name": "YungsApi-1.20-Forge-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/HIRzLg0r/YungsApi-1.20-Forge-4.0.2.jar",
+        "sha512": "ae6d6d85b303aaf543be8f5a6f5241467ec07f3c8ca6766a8fbf3406cab28a1b2df7b6bb8a7f8aa6c8c8abcb9c97048f2d6ee1fe0fb76fee77fbac89d63cb34f"
+      },
+      "1_20-Forge-4_0_1": {
+        "name": "YungsApi-1.20-Forge-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/4Ek11kQV/YungsApi-1.20-Forge-4.0.1.jar",
+        "sha512": "b51a59c9c4e2519479e04fcacea2907a8784903cf0532cf05991f0dd38d9bcf42f140661fa0645a4874567d40f8df2dfce79ec601eb24b791df7c9f219116c20"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "YungsApi-1.20-Forge-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+        "sha512": "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889"
+      },
+      "1_20-Forge-4_0_6": {
+        "name": "YungsApi-1.20-Forge-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+        "sha512": "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889"
+      },
+      "1_20-Forge-4_0_5": {
+        "name": "YungsApi-1.20-Forge-4.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/aMs83SRk/YungsApi-1.20-Forge-4.0.5.jar",
+        "sha512": "a8dbdf96cff9e69c64468fa1ad245655a3305495698e146e77cdbc2a821ab82f1bbf140dbcf672b58ed1e2628a121fde02343be0dfa42a2c23249545a1281c4c"
+      },
+      "1_20-Forge-4_0_4": {
+        "name": "YungsApi-1.20-Forge-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/sE5QMX20/YungsApi-1.20-Forge-4.0.4.jar",
+        "sha512": "e516c6f7771495a640e6f5b48a4c1fcd345909457de95a20ca659722f43692c52cde670e171848f3c6ef54d9a8afbaeb8c5e6292d1421d96ccd5aba1cab2cc15"
+      },
+      "1_20-Forge-4_0_3": {
+        "name": "YungsApi-1.20-Forge-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/QnR5jGmc/YungsApi-1.20-Forge-4.0.3.jar",
+        "sha512": "c1b2597f5bcfaf7ef662cbe46990d877cd5c68b0ee9cc4ed4ac0c87f815888b1536d68bf86e5bd929694a52fa9d786412d19cb1ad5c2afa6963b6b6f91f2be23"
+      },
+      "1_20-Forge-4_0_2": {
+        "name": "YungsApi-1.20-Forge-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/HIRzLg0r/YungsApi-1.20-Forge-4.0.2.jar",
+        "sha512": "ae6d6d85b303aaf543be8f5a6f5241467ec07f3c8ca6766a8fbf3406cab28a1b2df7b6bb8a7f8aa6c8c8abcb9c97048f2d6ee1fe0fb76fee77fbac89d63cb34f"
+      },
+      "1_20-Forge-4_0_1": {
+        "name": "YungsApi-1.20-Forge-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/4Ek11kQV/YungsApi-1.20-Forge-4.0.1.jar",
+        "sha512": "b51a59c9c4e2519479e04fcacea2907a8784903cf0532cf05991f0dd38d9bcf42f140661fa0645a4874567d40f8df2dfce79ec601eb24b791df7c9f219116c20"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "YungsApi-1.19.4-Forge-3.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/yIFytswN/YungsApi-1.19.4-Forge-3.10.1.jar",
+        "sha512": "d9601b4f4b5bc0196a8d5e6b28bef2809579577f415825310e039881c8829620d93e8b593453751544c2cc5a538cc6e57acc027595a57bf500bee8ffafbad4c1"
+      },
+      "1_19_4-Forge-3_10_1": {
+        "name": "YungsApi-1.19.4-Forge-3.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/yIFytswN/YungsApi-1.19.4-Forge-3.10.1.jar",
+        "sha512": "d9601b4f4b5bc0196a8d5e6b28bef2809579577f415825310e039881c8829620d93e8b593453751544c2cc5a538cc6e57acc027595a57bf500bee8ffafbad4c1"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "YungsApi-1.19.3-Forge-3.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/dpSzBMP6/YungsApi-1.19.3-Forge-3.9.0.jar",
+        "sha512": "7b678e9383ae58b6b73ab1b86a6a7c85712140a14a8f9c21f4e0352c8090379ec063f3792b0373c35cbaa72db20d4664d7e3a1bfda9b8dbfaa7808983a98c73a"
+      },
+      "1_19_3-Forge-3_9_0": {
+        "name": "YungsApi-1.19.3-Forge-3.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/dpSzBMP6/YungsApi-1.19.3-Forge-3.9.0.jar",
+        "sha512": "7b678e9383ae58b6b73ab1b86a6a7c85712140a14a8f9c21f4e0352c8090379ec063f3792b0373c35cbaa72db20d4664d7e3a1bfda9b8dbfaa7808983a98c73a"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "YungsApi-1.19.2-Forge-3.8.10.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/L5GqhLVE/YungsApi-1.19.2-Forge-3.8.10.jar",
+        "sha512": "9e19114c7d675a47173f34f6c1c075e573fa54c4ca89c3eb480d3cb3e80bac343491f2829b2dec148e9e0abdaeb7fb5fb2165ea6919f9bc1bb68e757b3d58f7e"
+      },
+      "1_19_2-Forge-3_8_10": {
+        "name": "YungsApi-1.19.2-Forge-3.8.10.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/L5GqhLVE/YungsApi-1.19.2-Forge-3.8.10.jar",
+        "sha512": "9e19114c7d675a47173f34f6c1c075e573fa54c4ca89c3eb480d3cb3e80bac343491f2829b2dec148e9e0abdaeb7fb5fb2165ea6919f9bc1bb68e757b3d58f7e"
+      },
+      "1_19_2-Forge-3_8_9": {
+        "name": "YungsApi-1.19.2-Forge-3.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/GNNfW5IV/YungsApi-1.19.2-Forge-3.8.9.jar",
+        "sha512": "6ce03bc92c6d4a8f1b770750c59eeef169b8034094896dd27e67362eff217a99fa6aed3c5f7fb423d14d39a6dc59b1e04e2b72ed5d16c959bdde1c777fc86c09"
+      },
+      "1_19_2-Forge-3_8_8": {
+        "name": "YungsApi-1.19.2-Forge-3.8.8.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/LEuKu3qt/YungsApi-1.19.2-Forge-3.8.8.jar",
+        "sha512": "26cd2bf0518ca4b48797de0d7844a351a022a36544b77a910540ef49f6b5b88e12f939888d4677524029e275e1103e6bf997895fe23f30e0e7af216a3a17a669"
+      },
+      "1_19_2-Forge-3_8_7": {
+        "name": "YungsApi-1.19.2-Forge-3.8.7.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/YwHWUw19/YungsApi-1.19.2-Forge-3.8.7.jar",
+        "sha512": "127726997e8e5b0dd7959b26ff9fc8f7b9d13cf8f42f9e7c95786aa72fd9b4f74f454dfb5d998895fc9d0e0ae6cdf5358f57156e91f40482b13edaf005660a06"
+      },
+      "1_19_2-Forge-3_8_6": {
+        "name": "YungsApi-1.19.2-Forge-3.8.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/82XBGKbQ/YungsApi-1.19.2-Forge-3.8.6.jar",
+        "sha512": "3785a9bd3252eeb77da3955aa3a36ec95121f1063e562472df62f82d6afa64d867ed66769ecf468d8fcdbe6fdf2e321e6d7b555b84c545da203d302fbb6c1e10"
+      },
+      "1_19_2-Forge-3_8_2": {
+        "name": "YungsApi-1.19.2-Forge-3.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/xET3UZBe/YungsApi-1.19.2-Forge-3.8.2.jar",
+        "sha512": "005cb0b0d3b7238f4ee7076197898b4fea67648f1627ef0e734b06fd7b6c21a466b034d8b73738428419d09bfaef7207a93de96e74a0aa17fe075b2591c7a4c5"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "YungsApi-1.18.2-Forge-2.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/YZE1pnbT/YungsApi-1.18.2-Forge-2.2.9.jar",
+        "sha512": "540959de1f01a005d4bf30bdfd2427969dd7e0180063231da011c487fdaeb4674ad818509db59be8ec07cafa29189d350753a06323e77ec07b913734a9bc3e35"
+      },
+      "1_18_2-Forge-2_2_9": {
+        "name": "YungsApi-1.18.2-Forge-2.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/YZE1pnbT/YungsApi-1.18.2-Forge-2.2.9.jar",
+        "sha512": "540959de1f01a005d4bf30bdfd2427969dd7e0180063231da011c487fdaeb4674ad818509db59be8ec07cafa29189d350753a06323e77ec07b913734a9bc3e35"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_4": {
+      "latest": {
+        "name": "YungsApi-1.21.4-Fabric-5.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/U4m2SXEP/YungsApi-1.21.4-Fabric-5.4.0.jar",
+        "sha512": "d8db539ee3837e90082bbf0fb24442662334069bea634baed1ee86b43e20b221edd4099f13cfe9a1c242a91ad5dc33fcdf8143d420df1e67a0960c39cdb23f82"
+      },
+      "1_21_4-Fabric-5_4_0": {
+        "name": "YungsApi-1.21.4-Fabric-5.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/U4m2SXEP/YungsApi-1.21.4-Fabric-5.4.0.jar",
+        "sha512": "d8db539ee3837e90082bbf0fb24442662334069bea634baed1ee86b43e20b221edd4099f13cfe9a1c242a91ad5dc33fcdf8143d420df1e67a0960c39cdb23f82"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9aZPNrZC/YungsApi-1.21.1-Fabric-5.1.6.jar",
+        "sha512": "fc05fb3941851cfa5c8e89f98704938a5b0581f66fe3b1b0d83b2f46f1cb903e1e1070f40c92a82da91813b36452358d6b2df7dc42a275f459dc5030ea467cb6"
+      },
+      "1_21_1-Fabric-5_1_6": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9aZPNrZC/YungsApi-1.21.1-Fabric-5.1.6.jar",
+        "sha512": "fc05fb3941851cfa5c8e89f98704938a5b0581f66fe3b1b0d83b2f46f1cb903e1e1070f40c92a82da91813b36452358d6b2df7dc42a275f459dc5030ea467cb6"
+      },
+      "1_21_1-Fabric-5_1_5": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/CbIBPwz2/YungsApi-1.21.1-Fabric-5.1.5.jar",
+        "sha512": "58eefdbb8c126766e84fee4f8760c4e08c3dd37725fed2cb079bf41ba0e009f3964af2f2670515679c9ebfbe58eeedd331a833a7fe8622e000f9d8e77e885db8"
+      },
+      "1_21_1-Fabric-5_1_4": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/kWoI0jki/YungsApi-1.21.1-Fabric-5.1.4.jar",
+        "sha512": "5255c69dd14412d5667dceb2dde5aabbbd26229955dbb98945faf2b0adb1089efa70c542d4fa400c8a4c878b7a7e5b60dd0eae2894d60cd681ff09f332349c50"
+      },
+      "1_21_1-Fabric-5_1_3": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/DeaIlZ9A/YungsApi-1.21.1-Fabric-5.1.3.jar",
+        "sha512": "4a551855af660783f2e194c13320df04619eb381c71e2d1196eb67ff6c267aeb43242094b5ea471a835238a310fccb01eeb86a290f04d070bdab61b7909a0313"
+      },
+      "1_21_1-Fabric-5_1_2": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/LMXPKbZf/YungsApi-1.21.1-Fabric-5.1.2.jar",
+        "sha512": "da0e102483a35b876bdfcd362cec2a3412ba0573e27a51ffd874b3dae69f0c3e37f17bef7c6467e21159cf1fb4709ac9dc954aef5e76c7c280182c33b57ac0de"
+      },
+      "1_21_1-Fabric-5_1_1": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/LkDReYww/YungsApi-1.21.1-Fabric-5.1.1.jar",
+        "sha512": "14ae1bed7165d6f0928c16f4edf2b8ea34fe872e967469b199aaa57010a7b4f55cf6171c410288a47408943b45899f13d844923efcdfcf375614180eebe83128"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "YungsApi-1.21-Fabric-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/Nx7XHO30/YungsApi-1.21-Fabric-5.0.0.jar",
+        "sha512": "9f53d2bcfad6b2b436ee5521c553ef06fd25f4f18f5bec545c0350844903e16a3d6b5dfff6d7319066c850b1dc8401ad0166edd047a409121b6d79d0ffb9e766"
+      },
+      "1_21-Fabric-5_0_0": {
+        "name": "YungsApi-1.21-Fabric-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/Nx7XHO30/YungsApi-1.21-Fabric-5.0.0.jar",
+        "sha512": "9f53d2bcfad6b2b436ee5521c553ef06fd25f4f18f5bec545c0350844903e16a3d6b5dfff6d7319066c850b1dc8401ad0166edd047a409121b6d79d0ffb9e766"
+      },
+      "1_21_1-Fabric-5_1_6": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9aZPNrZC/YungsApi-1.21.1-Fabric-5.1.6.jar",
+        "sha512": "fc05fb3941851cfa5c8e89f98704938a5b0581f66fe3b1b0d83b2f46f1cb903e1e1070f40c92a82da91813b36452358d6b2df7dc42a275f459dc5030ea467cb6"
+      },
+      "1_21_1-Fabric-5_1_5": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/CbIBPwz2/YungsApi-1.21.1-Fabric-5.1.5.jar",
+        "sha512": "58eefdbb8c126766e84fee4f8760c4e08c3dd37725fed2cb079bf41ba0e009f3964af2f2670515679c9ebfbe58eeedd331a833a7fe8622e000f9d8e77e885db8"
+      },
+      "1_21_1-Fabric-5_1_4": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/kWoI0jki/YungsApi-1.21.1-Fabric-5.1.4.jar",
+        "sha512": "5255c69dd14412d5667dceb2dde5aabbbd26229955dbb98945faf2b0adb1089efa70c542d4fa400c8a4c878b7a7e5b60dd0eae2894d60cd681ff09f332349c50"
+      },
+      "1_21_1-Fabric-5_1_3": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/DeaIlZ9A/YungsApi-1.21.1-Fabric-5.1.3.jar",
+        "sha512": "4a551855af660783f2e194c13320df04619eb381c71e2d1196eb67ff6c267aeb43242094b5ea471a835238a310fccb01eeb86a290f04d070bdab61b7909a0313"
+      },
+      "1_21_1-Fabric-5_1_2": {
+        "name": "YungsApi-1.21.1-Fabric-5.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/LMXPKbZf/YungsApi-1.21.1-Fabric-5.1.2.jar",
+        "sha512": "da0e102483a35b876bdfcd362cec2a3412ba0573e27a51ffd874b3dae69f0c3e37f17bef7c6467e21159cf1fb4709ac9dc954aef5e76c7c280182c33b57ac0de"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "YungsApi-1.20.4-Fabric-4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/a7qxhSOZ/YungsApi-1.20.4-Fabric-4.4.3.jar",
+        "sha512": "418c072e6ed307546b0dc89217bb22105e65cbf77b33a41390829ea8dfe466b8621bcb8eea68e00fd609c7715d1deea7cd66ec0066350de684fd6c4d683c6cd6"
+      },
+      "1_20_4-Fabric-4_4_3": {
+        "name": "YungsApi-1.20.4-Fabric-4.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/a7qxhSOZ/YungsApi-1.20.4-Fabric-4.4.3.jar",
+        "sha512": "418c072e6ed307546b0dc89217bb22105e65cbf77b33a41390829ea8dfe466b8621bcb8eea68e00fd609c7715d1deea7cd66ec0066350de684fd6c4d683c6cd6"
+      },
+      "1_20_4-Fabric-4_4_2": {
+        "name": "YungsApi-1.20.4-Fabric-4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/RXxBbRs7/YungsApi-1.20.4-Fabric-4.4.2.jar",
+        "sha512": "e67281d1759d439888b77d5f766339ccbe4e69e130b8b49739cd710b82c231f2dfbca40a32ae3ac4c654ab6833a4b3ddc9cf93988c01c8bb694a72cf0b270b1f"
+      },
+      "1_20_4-Fabric-4_4_1": {
+        "name": "YungsApi-1.20.4-Fabric-4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/5Zb55w2q/YungsApi-1.20.4-Fabric-4.4.1.jar",
+        "sha512": "01c4d5b4bfd3f6087719295edee1c13004aa4fd07d37dfe63c23154e2b9eb4454ce12404c7621ff9e3f97b82a87ed18b0c38f6aa276dfbfee2b3cf480d1311a6"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "YungsApi-1.20-Fabric-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar",
+        "sha512": "90fea70f21cd09bdeefe9cb6bd23677595b32156b1b8053611449504ba84a21ee1e13e5a620851299090ce989f41b97b9b4bdc98def1ccecb33115e19553c64e"
+      },
+      "1_20-Fabric-4_0_6": {
+        "name": "YungsApi-1.20-Fabric-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar",
+        "sha512": "90fea70f21cd09bdeefe9cb6bd23677595b32156b1b8053611449504ba84a21ee1e13e5a620851299090ce989f41b97b9b4bdc98def1ccecb33115e19553c64e"
+      },
+      "1_20-Fabric-4_0_5": {
+        "name": "YungsApi-1.20-Fabric-4.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/zPT7QfIk/YungsApi-1.20-Fabric-4.0.5.jar",
+        "sha512": "69594e17b98a440d6015b8b5131594d9104f05cfb512d2b99c6892f0e89d052e2fa30bb33e35010bc1e86211bbfce1c210488fa77500e2497d1c8ee45239cb01"
+      },
+      "1_20-Fabric-4_0_4": {
+        "name": "YungsApi-1.20-Fabric-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/k1OTLc33/YungsApi-1.20-Fabric-4.0.4.jar",
+        "sha512": "c1b25913db94bb1ac3e2c006356e994f4ab068ea68b16a17a19c3cf0b35f0547e79c00cf22635d0da9c9c034f13c0a486141fa393dc0db44657146f92cd149cb"
+      },
+      "1_20-Fabric-4_0_3": {
+        "name": "YungsApi-1.20-Fabric-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/hyQxutx9/YungsApi-1.20-Fabric-4.0.3.jar",
+        "sha512": "f540a3ec25f12b3febdd8ee595c8d3a189c6277cc48719fde356256068b88be0ea5fa360801b021b742c87abbcb1b25c98ea167a39802ab80f208b9575d5a82c"
+      },
+      "1_20-Fabric-4_0_2": {
+        "name": "YungsApi-1.20-Fabric-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/TT8tnzlH/YungsApi-1.20-Fabric-4.0.2.jar",
+        "sha512": "ac1e0c5f2d8972123b45e4ac7ec711549acb6aedd2880696438df72fc2d4528f03217f3def371ecf65a1e480a41d35011cc7af1eb02885669879877af30dc3b5"
+      },
+      "1_20-Fabric-4_0_1": {
+        "name": "YungsApi-1.20-Fabric-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/NmrTF2A5/YungsApi-1.20-Fabric-4.0.1.jar",
+        "sha512": "ff336a6e3167f36ae4d6ac7c133626a4cc6f95a16576fddc242ad6fe8538137bb29c454c8e0fc1c47bf6a5a9225d43fc41f0d57f1be1b7c8b270a4c2a367762b"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "YungsApi-1.20-Fabric-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar",
+        "sha512": "90fea70f21cd09bdeefe9cb6bd23677595b32156b1b8053611449504ba84a21ee1e13e5a620851299090ce989f41b97b9b4bdc98def1ccecb33115e19553c64e"
+      },
+      "1_20-Fabric-4_0_6": {
+        "name": "YungsApi-1.20-Fabric-4.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar",
+        "sha512": "90fea70f21cd09bdeefe9cb6bd23677595b32156b1b8053611449504ba84a21ee1e13e5a620851299090ce989f41b97b9b4bdc98def1ccecb33115e19553c64e"
+      },
+      "1_20-Fabric-4_0_5": {
+        "name": "YungsApi-1.20-Fabric-4.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/zPT7QfIk/YungsApi-1.20-Fabric-4.0.5.jar",
+        "sha512": "69594e17b98a440d6015b8b5131594d9104f05cfb512d2b99c6892f0e89d052e2fa30bb33e35010bc1e86211bbfce1c210488fa77500e2497d1c8ee45239cb01"
+      },
+      "1_20-Fabric-4_0_4": {
+        "name": "YungsApi-1.20-Fabric-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/k1OTLc33/YungsApi-1.20-Fabric-4.0.4.jar",
+        "sha512": "c1b25913db94bb1ac3e2c006356e994f4ab068ea68b16a17a19c3cf0b35f0547e79c00cf22635d0da9c9c034f13c0a486141fa393dc0db44657146f92cd149cb"
+      },
+      "1_20-Fabric-4_0_3": {
+        "name": "YungsApi-1.20-Fabric-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/hyQxutx9/YungsApi-1.20-Fabric-4.0.3.jar",
+        "sha512": "f540a3ec25f12b3febdd8ee595c8d3a189c6277cc48719fde356256068b88be0ea5fa360801b021b742c87abbcb1b25c98ea167a39802ab80f208b9575d5a82c"
+      },
+      "1_20-Fabric-4_0_2": {
+        "name": "YungsApi-1.20-Fabric-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/TT8tnzlH/YungsApi-1.20-Fabric-4.0.2.jar",
+        "sha512": "ac1e0c5f2d8972123b45e4ac7ec711549acb6aedd2880696438df72fc2d4528f03217f3def371ecf65a1e480a41d35011cc7af1eb02885669879877af30dc3b5"
+      },
+      "1_20-Fabric-4_0_1": {
+        "name": "YungsApi-1.20-Fabric-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/NmrTF2A5/YungsApi-1.20-Fabric-4.0.1.jar",
+        "sha512": "ff336a6e3167f36ae4d6ac7c133626a4cc6f95a16576fddc242ad6fe8538137bb29c454c8e0fc1c47bf6a5a9225d43fc41f0d57f1be1b7c8b270a4c2a367762b"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "YungsApi-1.19.4-Fabric-3.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/h32n7OPC/YungsApi-1.19.4-Fabric-3.10.1.jar",
+        "sha512": "659c095e86482b9f596196a59cff275317ae373d7ad8079554f28671b85b3db3e732b450a3a043f660b8dcf27d7ec7c09fb8c40552f36627487b9b44d0f8ed23"
+      },
+      "1_19_4-Fabric-3_10_1": {
+        "name": "YungsApi-1.19.4-Fabric-3.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/h32n7OPC/YungsApi-1.19.4-Fabric-3.10.1.jar",
+        "sha512": "659c095e86482b9f596196a59cff275317ae373d7ad8079554f28671b85b3db3e732b450a3a043f660b8dcf27d7ec7c09fb8c40552f36627487b9b44d0f8ed23"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "YungsApi-1.19.3-Fabric-3.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/IOIGqCVr/YungsApi-1.19.3-Fabric-3.9.0.jar",
+        "sha512": "104c52dd0bad00a62550d38a2889ab510715378410547b0daef14ca59123e1a527ce1d0e4b45d5deb930ccf240e4b0821c2436a925dadffa6e6f3e43d4eec9bf"
+      },
+      "1_19_3-Fabric-3_9_0": {
+        "name": "YungsApi-1.19.3-Fabric-3.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/IOIGqCVr/YungsApi-1.19.3-Fabric-3.9.0.jar",
+        "sha512": "104c52dd0bad00a62550d38a2889ab510715378410547b0daef14ca59123e1a527ce1d0e4b45d5deb930ccf240e4b0821c2436a925dadffa6e6f3e43d4eec9bf"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "YungsApi-1.19.2-Fabric-3.8.10.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/pxmQWPn7/YungsApi-1.19.2-Fabric-3.8.10.jar",
+        "sha512": "253b045ca271620c129f3655629a1ea966f3b3625469a41f2c22e2db69f31ceaaa8bb121e602eb40fd3866bdf3f64c1fcb27f97c7b6a11ce86e3b15d7735c963"
+      },
+      "1_19_2-Fabric-3_8_10": {
+        "name": "YungsApi-1.19.2-Fabric-3.8.10.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/pxmQWPn7/YungsApi-1.19.2-Fabric-3.8.10.jar",
+        "sha512": "253b045ca271620c129f3655629a1ea966f3b3625469a41f2c22e2db69f31ceaaa8bb121e602eb40fd3866bdf3f64c1fcb27f97c7b6a11ce86e3b15d7735c963"
+      },
+      "1_19_2-Fabric-3_8_9": {
+        "name": "YungsApi-1.19.2-Fabric-3.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/IxuGYnWF/YungsApi-1.19.2-Fabric-3.8.9.jar",
+        "sha512": "cd55eb7fbdbee4638a3f793cf8b79f755fb4e91cac252c56e6e061bb726792c73aca36cf5f98a5a2fd00eef7ee638c8a93d104cb3cec98f3e28622a3524b029c"
+      },
+      "1_19_2-Fabric-3_8_8": {
+        "name": "YungsApi-1.19.2-Fabric-3.8.8.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/Em3G31xp/YungsApi-1.19.2-Fabric-3.8.8.jar",
+        "sha512": "7956ac51594bbae2b9c1fbbea0e6046890cfbe213b5a8060ed25738a47411cf9708ab4fb028483896d085b71c89440cbd134cc914655166d744c67e0c8d48f36"
+      },
+      "1_19_2-Fabric-3_8_7": {
+        "name": "YungsApi-1.19.2-Fabric-3.8.7.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/LYoQlbQt/YungsApi-1.19.2-Fabric-3.8.7.jar",
+        "sha512": "cce45e498566608dfff915916e674e41193f665d7dcf8efc7ca1c944160f342be0f2ca3667387b72851ec6ff0802eebac771e7a58f67fe84c799a9f58a6e6dd2"
+      },
+      "1_19_2-Fabric-3_8_6": {
+        "name": "YungsApi-1.19.2-Fabric-3.8.6.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/xvoWCwex/YungsApi-1.19.2-Fabric-3.8.6.jar",
+        "sha512": "7de9b1e5cafb4e4c557d39be95955b7e83dda69947f549a8a262d55cdd42a4c45592dff31abf3ac71c946fce0e7b1bc146fc854d8b3c6964ac4fe10cd654695d"
+      },
+      "1_19_2-Fabric-3_8_2": {
+        "name": "YungsApi-1.19.2-Fabric-3.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/UNVzqGkX/YungsApi-1.19.2-Fabric-3.8.2.jar",
+        "sha512": "512d994e7905588dcb5f3a4cdd5614dab25df6fc07c851d5f08e66911d21f6f4d4e2bfa1c23aaaadbc0c61faa95d4b480f615e57fc44c5e48f1ef351e604e523"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "YungsApi-1.18.2-Fabric-2.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/i0Z1vSK9/YungsApi-1.18.2-Fabric-2.2.9.jar",
+        "sha512": "a55b85594c2487f94fbd6478c87681f53201594a6556519bc103f653382804ca8582f38458a0b17155ee1d01e9b7bd965ae40c20a22725a19a0869a01c104ed7"
+      },
+      "1_18_2-Fabric-2_2_9": {
+        "name": "YungsApi-1.18.2-Fabric-2.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/i0Z1vSK9/YungsApi-1.18.2-Fabric-2.2.9.jar",
+        "sha512": "a55b85594c2487f94fbd6478c87681f53201594a6556519bc103f653382804ca8582f38458a0b17155ee1d01e9b7bd965ae40c20a22725a19a0869a01c104ed7"
+      }
+    }
+  }
+}

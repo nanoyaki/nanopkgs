@@ -1,0 +1,231 @@
+{
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "naturalist-5.0pre3+forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/Cx95h37p/naturalist-5.0pre3%2Bforge-1.20.1.jar",
+        "sha512": "6a03e808a1cf88ef4208af58e39858ae501b0746b99c9d39273c414f9fe7db6751444c32b749beedc184deff4bfae10ed23e6143b83b03113c56320844a577db"
+      },
+      "5_0pre3": {
+        "name": "naturalist-5.0pre3+forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/Cx95h37p/naturalist-5.0pre3%2Bforge-1.20.1.jar",
+        "sha512": "6a03e808a1cf88ef4208af58e39858ae501b0746b99c9d39273c414f9fe7db6751444c32b749beedc184deff4bfae10ed23e6143b83b03113c56320844a577db"
+      },
+      "5_0pre2": {
+        "name": "naturalist-5.0pre2+forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/LbtmTtvK/naturalist-5.0pre2%2Bforge-1.20.1.jar",
+        "sha512": "431f72f970c53827d2e69cda078d327dc538700b0bc2588c98cee47c81c923f6a8709a3d2520bfd8485e6a934c426839239809e5cad5541e1de6ea55726f6c5a"
+      },
+      "4_0_3": {
+        "name": "naturalist-forge-4.0.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/fapHaClR/naturalist-forge-4.0.3-1.20.1.jar",
+        "sha512": "c808f30ba302f8f2404506088d2d54f33a4fecd67c6c1f325d99773c2c99d1c0c74c0b94be58ab0e6a95953330245d6ca5bbd18f9b5418428e85b702f431567f"
+      },
+      "4_0_2": {
+        "name": "naturalist-forge-4.0.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/6OxA1pfG/naturalist-forge-4.0.2-1.20.1.jar",
+        "sha512": "fca961d481578d5ed423b7de60b7457ba1746d00b46126d44a8b1a61bea78db137e35b059686a9682e1de641a24d80a94c02ccf75426c0a8e2af98f15c535218"
+      },
+      "4_0_1": {
+        "name": "naturalist-forge-4.0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/yX8BStTF/naturalist-forge-4.0.1-1.20.1.jar",
+        "sha512": "cd75e139f3c095683f207653beb393f805817cda18ff3ccf8e84a2d5c60ee7d09d2ffbefa0bad811d0ff484eb073568832930c683770ab0ef4ccb8c57d1939c8"
+      },
+      "4_0_0": {
+        "name": "naturalist-forge-4.0.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/AeRDoid8/naturalist-forge-4.0.0-1.20.1.jar",
+        "sha512": "14c77b4d9cb08441d153f48ad3fd39b0f4371b6b251951cd9009e3532b58db8d0b1eaab91a301f7591812ca9bea7c38217f59c9a27dd25222f7bb17847c1d414"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "naturalist-forge-4.0.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/YjWRWE02/naturalist-forge-4.0.3-1.19.2.jar",
+        "sha512": "f843dc63edae5f1cb444d19b1b8ec3595aca7697e303ea70d0c7d4e16723fc7b330498fddc4a7a8a04243ee3778f2ed518c3b6e67bb2eff40e40373c18f0a720"
+      },
+      "4_0_3": {
+        "name": "naturalist-forge-4.0.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/YjWRWE02/naturalist-forge-4.0.3-1.19.2.jar",
+        "sha512": "f843dc63edae5f1cb444d19b1b8ec3595aca7697e303ea70d0c7d4e16723fc7b330498fddc4a7a8a04243ee3778f2ed518c3b6e67bb2eff40e40373c18f0a720"
+      },
+      "4_0_2": {
+        "name": "naturalist-forge-4.0.2-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/MOfFjPnF/naturalist-forge-4.0.2-1.19.2.jar",
+        "sha512": "976b4c1b1681dec9ccdbd41289c1d388aa7eef30a6edca4dcfaf87447fdeda9417d9c4dfd67e97e06d299caed28c73fe3669b48fdb7c31aaf5a591a7b2ab28c5"
+      },
+      "4_0_1": {
+        "name": "naturalist-forge-4.0.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/3b08mljN/naturalist-forge-4.0.1-1.19.2.jar",
+        "sha512": "6e6f76109b43b65534d6b4854950ede45d806dd4b26663559214fb5072aeb85393cf3ebaade0d9e85fb38ac271a9e778a0a1c7cc66d64c03aae176c35b416ff0"
+      },
+      "3_0_4": {
+        "name": "naturalist-forge-3.0.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/ufJHqOw0/naturalist-forge-3.0.4-1.19.2.jar",
+        "sha512": "d17510334340717abd17e18b934dedc07ee9a7e017885c6f0f0ebd684029a76036faaec60a1731229ed26e2a72e52161df960322340eb9356438102d27294855"
+      },
+      "3_0_2": {
+        "name": "naturalist-forge-3.0.2-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/ZjjyXkT5/naturalist-forge-3.0.2-1.19.2.jar",
+        "sha512": "40d929c427c65e18692d0125d24dc9874d75d4b99fab0cb058f4c53da04a6f932701b4e1d26a3ce00020c50eddc02aeb6686f9ae5aedb3a00116a6dffa81ad9e"
+      },
+      "3_0_1": {
+        "name": "naturalist-forge-3.0.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/oWGKezhf/naturalist-forge-3.0.1-1.19.2.jar",
+        "sha512": "cc8214abb749fc2a9bc1467bdd47eee10403da3fc55f825dd73b3f726ecfd3ba0417cbe9bf9970811fe27ef4b8b21cd0cfc2d5da47e50e4ee69705009952deb3"
+      },
+      "2_1_1": {
+        "name": "naturalist-forge-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/bprTJ2C1/naturalist-forge-2.1.1-1.19.2.jar",
+        "sha512": "76006d8c1d010a914998b23d37ce52663b16e658dc93c1041d4a4b7221ab77b9c953ecb1b99081012949ca4c63568fe8569251e210f811a94459b4ddf2d8f3bf"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "naturalist-forge-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/bprTJ2C1/naturalist-forge-2.1.1-1.19.2.jar",
+        "sha512": "76006d8c1d010a914998b23d37ce52663b16e658dc93c1041d4a4b7221ab77b9c953ecb1b99081012949ca4c63568fe8569251e210f811a94459b4ddf2d8f3bf"
+      },
+      "2_1_1": {
+        "name": "naturalist-forge-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/bprTJ2C1/naturalist-forge-2.1.1-1.19.2.jar",
+        "sha512": "76006d8c1d010a914998b23d37ce52663b16e658dc93c1041d4a4b7221ab77b9c953ecb1b99081012949ca4c63568fe8569251e210f811a94459b4ddf2d8f3bf"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "naturalist-forge-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/bprTJ2C1/naturalist-forge-2.1.1-1.19.2.jar",
+        "sha512": "76006d8c1d010a914998b23d37ce52663b16e658dc93c1041d4a4b7221ab77b9c953ecb1b99081012949ca4c63568fe8569251e210f811a94459b4ddf2d8f3bf"
+      },
+      "2_1_1": {
+        "name": "naturalist-forge-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/bprTJ2C1/naturalist-forge-2.1.1-1.19.2.jar",
+        "sha512": "76006d8c1d010a914998b23d37ce52663b16e658dc93c1041d4a4b7221ab77b9c953ecb1b99081012949ca4c63568fe8569251e210f811a94459b4ddf2d8f3bf"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "naturalist-forge-1.1.1-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/A4D0ssAc/naturalist-forge-1.1.1-1.18.2.jar",
+        "sha512": "c70731323822a8da5ce423c63669d6ea379aecebc903044f55be5a6e94186c17d55afaaa0e0028620fd051579a51707e4c25e86515c1c46bf9f683942a7591c3"
+      },
+      "1_1_1": {
+        "name": "naturalist-forge-1.1.1-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/A4D0ssAc/naturalist-forge-1.1.1-1.18.2.jar",
+        "sha512": "c70731323822a8da5ce423c63669d6ea379aecebc903044f55be5a6e94186c17d55afaaa0e0028620fd051579a51707e4c25e86515c1c46bf9f683942a7591c3"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "naturalist-5.0pre3+fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/tx891fzz/naturalist-5.0pre3%2Bfabric-1.20.1.jar",
+        "sha512": "873845d3b5c85d9acb5750a46119cb92e18bc0101857ee081283f88fb1204eda418818b9a833a1e664cdbc61d770afa355bd1aa4ba3d4639d0913dcb3a5ed257"
+      },
+      "5_0pre3": {
+        "name": "naturalist-5.0pre3+fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/tx891fzz/naturalist-5.0pre3%2Bfabric-1.20.1.jar",
+        "sha512": "873845d3b5c85d9acb5750a46119cb92e18bc0101857ee081283f88fb1204eda418818b9a833a1e664cdbc61d770afa355bd1aa4ba3d4639d0913dcb3a5ed257"
+      },
+      "5_0pre2": {
+        "name": "naturalist-5.0pre2+fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/sZjMMu71/naturalist-5.0pre2%2Bfabric-1.20.1.jar",
+        "sha512": "acd831b6dd01cee9e94e22ace001243552e8e1e9cc03981a88071924cf8b606924fa9209e0771fd4a94d846db755e6d550f87fd2b0ffd51c8795fa9c5c9a4b6a"
+      },
+      "4_0_3": {
+        "name": "naturalist-fabric-4.0.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/dMGBsRgz/naturalist-fabric-4.0.3-1.20.1.jar",
+        "sha512": "2598c35680c48d8a5a30c05883cf1c0b3cbada36594ba93f35f3e99555634e64d3b4eea5d1c8beb84ef7019d3d61a32350cdc68368ab0a2b731ab381978492b0"
+      },
+      "4_0_2": {
+        "name": "naturalist-fabric-4.0.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/vrjOD2Cp/naturalist-fabric-4.0.2-1.20.1.jar",
+        "sha512": "16bae4c499dbfdbbd29ff8974aaf48ab7f5554a96de6b622ec60e1c48233bbd81754764939633e5f5cd6d2d26090c8639729e288bab52c917c9b197934e0b823"
+      },
+      "4_0_1": {
+        "name": "naturalist-fabric-4.0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/S0IjmekL/naturalist-fabric-4.0.1-1.20.1.jar",
+        "sha512": "929d0682232e96a32fec8ef5ff92bf5b4bbd52e66a6689f5a92f396fc209193cfabfd79a6a7f473616eeff2a8b562fe0b609be107d5966a41883f5985d23ef32"
+      },
+      "4_0_0": {
+        "name": "naturalist-fabric-4.0.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/UV8Ogjj0/naturalist-fabric-4.0.0-1.20.1.jar",
+        "sha512": "77b650a61a3a967b88ac386c4ea5b22aae4d6cdc9dac1df00de528a5af92e89d14c7621684962aec78cdc50a1279e8e7492614e7e7888f4347b096916e060ab9"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "naturalist-fabric-4.0.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/sVtayqoK/naturalist-fabric-4.0.3-1.19.2.jar",
+        "sha512": "3682649f7e6f2f81a888167cd9b2e7f170020f6f54259ba70d00411d880401403d8be397b5fcc02c796fb378883218d62fb45c63e68ce6cb511e0cc7966a3f0f"
+      },
+      "4_0_3": {
+        "name": "naturalist-fabric-4.0.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/sVtayqoK/naturalist-fabric-4.0.3-1.19.2.jar",
+        "sha512": "3682649f7e6f2f81a888167cd9b2e7f170020f6f54259ba70d00411d880401403d8be397b5fcc02c796fb378883218d62fb45c63e68ce6cb511e0cc7966a3f0f"
+      },
+      "4_0_2": {
+        "name": "naturalist-fabric-4.0.2-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/mvLVxtmI/naturalist-fabric-4.0.2-1.19.2.jar",
+        "sha512": "d63609a06abd31388abca74b8d9078b06aca7c81bb667ba6966b1c80a1ecc6e16f7e0615254f259e5009ed2cb0d7a92d89c3482eb626850acecba0a6600c1ba3"
+      },
+      "4_0_1": {
+        "name": "naturalist-fabric-4.0.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/4PZMnbh1/naturalist-fabric-4.0.1-1.19.2.jar",
+        "sha512": "778571080c83ae3d5843f26708ea185f4bed22784e1f369057cc9f74e7afe428a1a88bc5b0e72164042674ea2ba623dee9313e6860cf343b0b8545c2876df3b8"
+      },
+      "3_0_4": {
+        "name": "naturalist-fabric-3.0.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/J96Y4WM3/naturalist-fabric-3.0.4-1.19.2.jar",
+        "sha512": "113b83c69905d7e22ae8dc3b6d8c59fba6b92ddb3726df21d9a67da38ff50fef77b9439188bd2e33131dbedfdc6b4f223c0c15dded8dc7590e0650e6e367ee0a"
+      },
+      "3_0_2": {
+        "name": "naturalist-fabric-3.0.2-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/ILQ8BuMi/naturalist-fabric-3.0.2-1.19.2.jar",
+        "sha512": "265694e9b382081bd3f201b60e10f8370ecc470e873c4d71f7b0652314a9e26c324c9e21b44ea700bdb6f633aac2a1dfe8b9aa90070bc6ba5d5eea6417f1908a"
+      },
+      "2_1_1": {
+        "name": "naturalist-fabric-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/XWezpMfV/naturalist-fabric-2.1.1-1.19.2.jar",
+        "sha512": "6280372eaec1d84186e7b503d01a7f190ff1e10af4327c37c45932bd41a4d5d568e3b135787fbcda5237daa5bf5fbc95ebf39065280456895b3208d93f9587df"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "naturalist-fabric-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/XWezpMfV/naturalist-fabric-2.1.1-1.19.2.jar",
+        "sha512": "6280372eaec1d84186e7b503d01a7f190ff1e10af4327c37c45932bd41a4d5d568e3b135787fbcda5237daa5bf5fbc95ebf39065280456895b3208d93f9587df"
+      },
+      "2_1_1": {
+        "name": "naturalist-fabric-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/XWezpMfV/naturalist-fabric-2.1.1-1.19.2.jar",
+        "sha512": "6280372eaec1d84186e7b503d01a7f190ff1e10af4327c37c45932bd41a4d5d568e3b135787fbcda5237daa5bf5fbc95ebf39065280456895b3208d93f9587df"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "naturalist-fabric-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/XWezpMfV/naturalist-fabric-2.1.1-1.19.2.jar",
+        "sha512": "6280372eaec1d84186e7b503d01a7f190ff1e10af4327c37c45932bd41a4d5d568e3b135787fbcda5237daa5bf5fbc95ebf39065280456895b3208d93f9587df"
+      },
+      "2_1_1": {
+        "name": "naturalist-fabric-2.1.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/XWezpMfV/naturalist-fabric-2.1.1-1.19.2.jar",
+        "sha512": "6280372eaec1d84186e7b503d01a7f190ff1e10af4327c37c45932bd41a4d5d568e3b135787fbcda5237daa5bf5fbc95ebf39065280456895b3208d93f9587df"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "naturalist-fabric-1.1.1-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/TLrtGUZa/naturalist-fabric-1.1.1-1.18.2.jar",
+        "sha512": "cbd5baf84eb26f17952ba5e0fde72c35430166a630ad4d0663e89b7ea881ece6325aef409d85bfce0eb5b472d77ad310729452d8d07e52572fbc0276a830008d"
+      },
+      "1_1_1": {
+        "name": "naturalist-fabric-1.1.1-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/TLrtGUZa/naturalist-fabric-1.1.1-1.18.2.jar",
+        "sha512": "cbd5baf84eb26f17952ba5e0fde72c35430166a630ad4d0663e89b7ea881ece6325aef409d85bfce0eb5b472d77ad310729452d8d07e52572fbc0276a830008d"
+      }
+    }
+  }
+}

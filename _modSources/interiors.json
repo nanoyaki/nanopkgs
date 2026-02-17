@@ -1,0 +1,456 @@
+{
+  "quilt": {
+    "1_20_1": {
+      "latest": {
+        "name": "interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/9PSq2nxO/interiors-0.5.6%2Bfabric-mc1.20.1-build.104.jar",
+        "sha512": "4f6a05e390a2285d4ea5c481ccb176f90221f204d43b7e77110a473f1580f757fd688d7f694e1df207728db4f7c6fead0f5e8eb55659a5d6829b5aa6668d5cba"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/9PSq2nxO/interiors-0.5.6%2Bfabric-mc1.20.1-build.104.jar",
+        "sha512": "4f6a05e390a2285d4ea5c481ccb176f90221f204d43b7e77110a473f1580f757fd688d7f694e1df207728db4f7c6fead0f5e8eb55659a5d6829b5aa6668d5cba"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+fabric-mc1.20.1-build.98.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/SqWTQ9sy/interiors-0.5.5%2Bfabric-mc1.20.1-build.98.jar",
+        "sha512": "6e12422a2ad65b7b0dbd4cae5259a01c3ca52c3001cc3b603046cd9ee8156bd77f68ae15e4043cb17916e65df3546867db2a87c6b4bee8d7f0b2e1a7216725c8"
+      },
+      "0_5_3mc": {
+        "name": "interiors-0.5.3+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/7QGvBpZU/interiors-0.5.3%2Bfabric-mc1.20.1.jar",
+        "sha512": "2f2cbf4e96d98c20c1c8eacc2786da0419d2160d5e8ae76b39e0a776d0cefb66a7ca7fb9b9d817dfd0daa4d56ebb96d32a0ec06b01ef9f8ba89fccd4dc04f74e"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "interiors-0.5.6+fabric-mc1.19.2-build.105.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/KQ2MYzN0/interiors-0.5.6%2Bfabric-mc1.19.2-build.105.jar",
+        "sha512": "9bf302a0e3f1183272db46b2fe87a192c65de441b8a97174d60ef2b92df2c1d2c71a27ffba4920f1278dad174e8d7ae6d4392fe9b73ab781966cb053af3387f8"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+fabric-mc1.19.2-build.105.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/KQ2MYzN0/interiors-0.5.6%2Bfabric-mc1.19.2-build.105.jar",
+        "sha512": "9bf302a0e3f1183272db46b2fe87a192c65de441b8a97174d60ef2b92df2c1d2c71a27ffba4920f1278dad174e8d7ae6d4392fe9b73ab781966cb053af3387f8"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+fabric-mc1.19.2-build.97.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/U0VuiTi5/interiors-0.5.5%2Bfabric-mc1.19.2-build.97.jar",
+        "sha512": "b4b5d366de923e2da3a020fe298b42e25ccc73f2a57b5c0da129ffa25e1c9537dd142b5d5d7acf0f5676280dcab1fbdfea371a1b301a60f5dc139a7b64f0f8d3"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+fabric-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/MIqMtTi6/interiors-0.5.3%2Bfabric-mc1.19.2.jar",
+        "sha512": "5238912a7d38659b986860f57bb7bf4c37a670452a3f8b02dc523b399ca289f445db93eae752cad53d4c84c264ba1d7c640792cfb5b27aaf005d76a1d530e2ce"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "interiors-0.5.6+fabric-mc1.18.2-build.103.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/rPCMTZJj/interiors-0.5.6%2Bfabric-mc1.18.2-build.103.jar",
+        "sha512": "f81353022a571f123fb2d975ccf02eb46696a94b9915ea9507e060cfbfa7b844fc7417e7420b8c18930186810ee8f698b20d53a1b36805a46340d927142a0a9b"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+fabric-mc1.18.2-build.103.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/rPCMTZJj/interiors-0.5.6%2Bfabric-mc1.18.2-build.103.jar",
+        "sha512": "f81353022a571f123fb2d975ccf02eb46696a94b9915ea9507e060cfbfa7b844fc7417e7420b8c18930186810ee8f698b20d53a1b36805a46340d927142a0a9b"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+fabric-mc1.18.2-build.100.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/AXVJ5MtH/interiors-0.5.5%2Bfabric-mc1.18.2-build.100.jar",
+        "sha512": "533b119f7d58ed73af5f2362eb717cd7fb23927b21270a4253c5a19557d4ea4545af8a15b90aa6baa5bbc09f9a511a380463fba642136e491708333d2560e132"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+fabric-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/d7Enth7o/interiors-0.5.3%2Bfabric-mc1.18.2.jar",
+        "sha512": "a881f838044aeec2e2da9f4e9047279c7a5c2846f315fe120f387ed68ce3127661aebe2e6fb3bdd49d14e1697bcea9e5136046c0cac51665d5f8d3928bca6699"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "interiors-1.21.1-neoforge-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/kzxCnEpy/interiors-1.21.1-neoforge-0.6.0.jar",
+        "sha512": "c9195a19d9d0ac99cbd36db8ee7212fc667a4e310c0d331e8774e388ac3e9fc9f197cff0000759824f6ba86fc176939829ee6863eed12d0e025560c78e41610e"
+      },
+      "1_21_10_6_0": {
+        "name": "interiors-1.21.1-neoforge-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/kzxCnEpy/interiors-1.21.1-neoforge-0.6.0.jar",
+        "sha512": "c9195a19d9d0ac99cbd36db8ee7212fc667a4e310c0d331e8774e388ac3e9fc9f197cff0000759824f6ba86fc176939829ee6863eed12d0e025560c78e41610e"
+      },
+      "0_6_1": {
+        "name": "interiors-1.21.1-neoforge-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar",
+        "sha512": "68b0d915e41fb0ce9d12a8c580d688a604770ded2b21e963058aa6d80cbc5661c481416d051a541395b5c79f461edcb658046e53cfcfb405179a450662ed01b5"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/sFv3NBS4/interiors-0.5.6%2Bforge-mc1.20.1-local.jar",
+        "sha512": "1c84e2a566cc03fc88fc27a55dcbac7a85f91781c73a8993c9761ac94b13eef93b04a89ffecb75d94a07e367ee09e78d2f8dc1e99a06163fc60cddef708d91a7"
+      },
+      "0_5_7+forge-mc": {
+        "name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/sFv3NBS4/interiors-0.5.6%2Bforge-mc1.20.1-local.jar",
+        "sha512": "1c84e2a566cc03fc88fc27a55dcbac7a85f91781c73a8993c9761ac94b13eef93b04a89ffecb75d94a07e367ee09e78d2f8dc1e99a06163fc60cddef708d91a7"
+      },
+      "0_5_6+forge-mc": {
+        "name": "interiors-0.5.6+forge-mc1.20.1-build.104.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2wGHT9kO/interiors-0.5.6%2Bforge-mc1.20.1-build.104.jar",
+        "sha512": "cd99c19fc0766e8e8a4c32b9a42a83d3888d676616a6f95576b8019c1752426ac8908cf4a7bc54fd38e5a65888c1706f79cc8da90877bb32fbd1fce5fc27e853"
+      },
+      "0_5_5+forge-mc": {
+        "name": "interiors-0.5.5+forge-mc1.20.1-build.98.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/O1Ci5kUy/interiors-0.5.5%2Bforge-mc1.20.1-build.98.jar",
+        "sha512": "02f60c638be90064df9701bc068807b093dafb8ba1215f0368ea709d310e1fb5f93898dd57e4b47cb49730fa0ff991caa4e5d54de9ec9bf78597acbd3ca887c1"
+      },
+      "0_5_4+forge-mc": {
+        "name": "interiors-0.5.4+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/773UvJvN/interiors-0.5.4%2Bforge-mc1.20.1.jar",
+        "sha512": "5968db2881011a5e8c1887b2403965e481eb56e6da516cdbebeb5ed1451e16eaf918ab27a4dff10078e10b8b21f1c2599cfa958e519cf1921508c5b3c1f9270b"
+      },
+      "0_5_3+forge-mc": {
+        "name": "interiors-0.5.3+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/tTCNkCHu/interiors-0.5.3%2Bforge-mc1.20.1.jar",
+        "sha512": "f61a6d4197b9c12a270d31f5b1be0ee693ea45cbdca20e417fbb75ec72d2de803815d4ef4940733c078102e8229a68cded0cdc39683a001cc0cf39e1f73bff80"
+      },
+      "0_5_2-mc": {
+        "name": "interiors-0.5.2+mc1.20.1-FORGE.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/WA1plK3v/interiors-0.5.2%2Bmc1.20.1-FORGE.jar",
+        "sha512": "f6436da1b65b8d010d6cf516f90141ca00f8a36eda753818eb42a4ebcda185381336e950787aebbd79683ff0223591fe30271aa8e13d4e40d1ece4534d5e79f9"
+      },
+      "0_5_1-mc": {
+        "name": "interiors-0.5-30+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/PiVs3PTq/interiors-0.5-30%2Bmc1.20.1.jar",
+        "sha512": "90a2752c739dd6908bdddf5aeb5c85c178da6f6b1d5a65077f3e8f473a51b248ef142d83757af58c431055386ab1e0a3543a9cfca1e0346975fad2e2067163f2"
+      },
+      "0_5": {
+        "name": "interiors-v0.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/584AhdF6/interiors-v0.5-1.20.1.jar",
+        "sha512": "9db1fa75e989ffca79fd2615edcabd506775ae54664fbcdae44c39976c9db9390c70e1e26e7601d906647ec26ef95206f6906306ba40ae04999f8502d6a34789"
+      },
+      "0_4_3": {
+        "name": "interiors-0.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/aazrcpGq/interiors-0.4.3.jar",
+        "sha512": "c6e0ee96772150c7396f288419ab1f1126b81b79a7bffafc18bba9a67fd01894ef3a7647b006c7b1ac1059f5b44c654192f9adfa61887c763701de763f0be0db"
+      },
+      "0_4_2": {
+        "name": "interiors-0.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/ykJgQ129/interiors-0.4.2.jar",
+        "sha512": "dfa5f32aedf05aeef624e8668722c19e2c449ec751b1b511d9d900a1b5810a7d31cab009a2de3adaf04e952a329297ce15360c3176149f61e9b08001f30a5583"
+      },
+      "0_3-1_20_2": {
+        "name": "create-interiors-0.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/SkzP5vbD/create-interiors-0.3-1.20.x.jar",
+        "sha512": "8670507cc288937d052995d890fb2fc266a1e9c99c75be50757a87d03577f4481e48138e8c07c712776215913be9bd9ef741fe425cecfb3001a4ee8799689cc0"
+      },
+      "0_3_1": {
+        "name": "interiors-0.3.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/K0cgcY9F/interiors-0.3.1-1.20.x.jar",
+        "sha512": "6dbbc2d666370c61aaef2e4fafea3525157aefcd60e1f025e7a9d27647bf130432ab7f392721385a9cd1276cc20fa76f078e2daaef2151cdd3420526f80dba51"
+      },
+      "0_1": {
+        "name": "extendedseating-0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/7mq5DCnd/extendedseating-0.1-1.20.1.jar",
+        "sha512": "b9dfb69e434229d14b6e9e0aa455156de32b58232cd58a8bae147baac5de79d3314f1564331a917cd14f937b0fcaacc50917f5506477f605469d4fa79dd61065"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "interiors-0.5.3+forge-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2nQniuFS/interiors-0.5.3%2Bforge-mc1.19.2.jar",
+        "sha512": "f1653e3435dd1df849b73407f257ed5f19dd457b97f6dd14449818a7d5afa64b094af53d1533532b6c8e58ce28e28578bd9b6fc0858d69bfd3e4fbb938d2adc9"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+forge-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2nQniuFS/interiors-0.5.3%2Bforge-mc1.19.2.jar",
+        "sha512": "f1653e3435dd1df849b73407f257ed5f19dd457b97f6dd14449818a7d5afa64b094af53d1533532b6c8e58ce28e28578bd9b6fc0858d69bfd3e4fbb938d2adc9"
+      },
+      "0_3": {
+        "name": "create-interiors-v0.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/AGhVchAR/create-interiors-v0.3-1.19.2.jar",
+        "sha512": "024a173467274132ab36b3b57fbbfab7fba009d9463062a2c1f08d9ddd4c9ad85aa6b7cec8f07b0fe44d93f71ad81d0518e78087094d323b0807d155b6736b1b"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "interiors-0.5.3+forge-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/bUZG9AJY/interiors-0.5.3%2Bforge-mc1.18.2.jar",
+        "sha512": "085a743bd0d1545b35b5f62f2861ca309fcdbb146ebf114318351e6f15af6a0ece1aab2d1081c85a514e196091521ada358934ace19bf2ae56cb7adca8435c49"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+forge-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/bUZG9AJY/interiors-0.5.3%2Bforge-mc1.18.2.jar",
+        "sha512": "085a743bd0d1545b35b5f62f2861ca309fcdbb146ebf114318351e6f15af6a0ece1aab2d1081c85a514e196091521ada358934ace19bf2ae56cb7adca8435c49"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "interiors-1.20.1-forge-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/3Gpm5qDT/interiors-1.20.1-forge-0.6.0.jar",
+        "sha512": "02f3f01d627f315a5185848ab20bee3d5269705e6fe9a1f6bb57ae47954231a04c8360c0ebf57c3e0fad2bac8cff0e97417f63982caf4545c624805a02984b5e"
+      },
+      "1_20_10_6_0": {
+        "name": "interiors-1.20.1-forge-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/3Gpm5qDT/interiors-1.20.1-forge-0.6.0.jar",
+        "sha512": "02f3f01d627f315a5185848ab20bee3d5269705e6fe9a1f6bb57ae47954231a04c8360c0ebf57c3e0fad2bac8cff0e97417f63982caf4545c624805a02984b5e"
+      },
+      "0_5_7mc": {
+        "name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/sFv3NBS4/interiors-0.5.6%2Bforge-mc1.20.1-local.jar",
+        "sha512": "1c84e2a566cc03fc88fc27a55dcbac7a85f91781c73a8993c9761ac94b13eef93b04a89ffecb75d94a07e367ee09e78d2f8dc1e99a06163fc60cddef708d91a7"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+forge-mc1.20.1-build.104.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2wGHT9kO/interiors-0.5.6%2Bforge-mc1.20.1-build.104.jar",
+        "sha512": "cd99c19fc0766e8e8a4c32b9a42a83d3888d676616a6f95576b8019c1752426ac8908cf4a7bc54fd38e5a65888c1706f79cc8da90877bb32fbd1fce5fc27e853"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+forge-mc1.20.1-build.98.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/O1Ci5kUy/interiors-0.5.5%2Bforge-mc1.20.1-build.98.jar",
+        "sha512": "02f60c638be90064df9701bc068807b093dafb8ba1215f0368ea709d310e1fb5f93898dd57e4b47cb49730fa0ff991caa4e5d54de9ec9bf78597acbd3ca887c1"
+      },
+      "0_5_4mc": {
+        "name": "interiors-0.5.4+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/773UvJvN/interiors-0.5.4%2Bforge-mc1.20.1.jar",
+        "sha512": "5968db2881011a5e8c1887b2403965e481eb56e6da516cdbebeb5ed1451e16eaf918ab27a4dff10078e10b8b21f1c2599cfa958e519cf1921508c5b3c1f9270b"
+      },
+      "0_5_3mc": {
+        "name": "interiors-0.5.3+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/tTCNkCHu/interiors-0.5.3%2Bforge-mc1.20.1.jar",
+        "sha512": "f61a6d4197b9c12a270d31f5b1be0ee693ea45cbdca20e417fbb75ec72d2de803815d4ef4940733c078102e8229a68cded0cdc39683a001cc0cf39e1f73bff80"
+      },
+      "0_5_2-mc": {
+        "name": "interiors-0.5.2+mc1.20.1-FORGE.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/WA1plK3v/interiors-0.5.2%2Bmc1.20.1-FORGE.jar",
+        "sha512": "f6436da1b65b8d010d6cf516f90141ca00f8a36eda753818eb42a4ebcda185381336e950787aebbd79683ff0223591fe30271aa8e13d4e40d1ece4534d5e79f9"
+      },
+      "0_5_1-mc": {
+        "name": "interiors-0.5-30+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/PiVs3PTq/interiors-0.5-30%2Bmc1.20.1.jar",
+        "sha512": "90a2752c739dd6908bdddf5aeb5c85c178da6f6b1d5a65077f3e8f473a51b248ef142d83757af58c431055386ab1e0a3543a9cfca1e0346975fad2e2067163f2"
+      },
+      "0_5": {
+        "name": "interiors-v0.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/584AhdF6/interiors-v0.5-1.20.1.jar",
+        "sha512": "9db1fa75e989ffca79fd2615edcabd506775ae54664fbcdae44c39976c9db9390c70e1e26e7601d906647ec26ef95206f6906306ba40ae04999f8502d6a34789"
+      },
+      "0_4_3": {
+        "name": "interiors-0.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/aazrcpGq/interiors-0.4.3.jar",
+        "sha512": "c6e0ee96772150c7396f288419ab1f1126b81b79a7bffafc18bba9a67fd01894ef3a7647b006c7b1ac1059f5b44c654192f9adfa61887c763701de763f0be0db"
+      },
+      "0_4_2": {
+        "name": "interiors-0.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/ykJgQ129/interiors-0.4.2.jar",
+        "sha512": "dfa5f32aedf05aeef624e8668722c19e2c449ec751b1b511d9d900a1b5810a7d31cab009a2de3adaf04e952a329297ce15360c3176149f61e9b08001f30a5583"
+      },
+      "0_3-1_20_2": {
+        "name": "create-interiors-0.3-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/SkzP5vbD/create-interiors-0.3-1.20.x.jar",
+        "sha512": "8670507cc288937d052995d890fb2fc266a1e9c99c75be50757a87d03577f4481e48138e8c07c712776215913be9bd9ef741fe425cecfb3001a4ee8799689cc0"
+      },
+      "0_3_1": {
+        "name": "interiors-0.3.1-1.20.x.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/K0cgcY9F/interiors-0.3.1-1.20.x.jar",
+        "sha512": "6dbbc2d666370c61aaef2e4fafea3525157aefcd60e1f025e7a9d27647bf130432ab7f392721385a9cd1276cc20fa76f078e2daaef2151cdd3420526f80dba51"
+      },
+      "0_2-1_20_2": {
+        "name": "interiors-0.2-1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/bZKtOYKs/interiors-0.2-1.20.2.jar",
+        "sha512": "8c73fdd589a24259db8c9a0143a2d62609f9cdd8ed552c712fb81416a56435577ae86f7629cd33e674369fed8abbdf00d8e9e718ba0f8c7823d16768e70371d7"
+      },
+      "0_1": {
+        "name": "extendedseating-0.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/7mq5DCnd/extendedseating-0.1-1.20.1.jar",
+        "sha512": "b9dfb69e434229d14b6e9e0aa455156de32b58232cd58a8bae147baac5de79d3314f1564331a917cd14f937b0fcaacc50917f5506477f605469d4fa79dd61065"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "interiors-0.5.6+forge-mc1.19.2-build.105.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/BRGHEQfA/interiors-0.5.6%2Bforge-mc1.19.2-build.105.jar",
+        "sha512": "75aeca4f749febe9736f402212e33fdf6054283dfdacab2c1f2e5a509675d0b1ce93eb5a358e2b20f6c2a71721e8f84ff174932f3a1f152f9985fbda16c3620b"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+forge-mc1.19.2-build.105.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/BRGHEQfA/interiors-0.5.6%2Bforge-mc1.19.2-build.105.jar",
+        "sha512": "75aeca4f749febe9736f402212e33fdf6054283dfdacab2c1f2e5a509675d0b1ce93eb5a358e2b20f6c2a71721e8f84ff174932f3a1f152f9985fbda16c3620b"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+forge-mc1.19.2-build.97.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/Vcy0aysa/interiors-0.5.5%2Bforge-mc1.19.2-build.97.jar",
+        "sha512": "2f1b2100f5f562b1640064ee0baa9404edf7949ee9c64477c3d6d650bdedc3c5ac1ff1f915939d73a2ca3dd8f51e9a7445af4804910a316910f753299df44165"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+forge-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2nQniuFS/interiors-0.5.3%2Bforge-mc1.19.2.jar",
+        "sha512": "f1653e3435dd1df849b73407f257ed5f19dd457b97f6dd14449818a7d5afa64b094af53d1533532b6c8e58ce28e28578bd9b6fc0858d69bfd3e4fbb938d2adc9"
+      },
+      "0_5_2-mc": {
+        "name": "interiors-0.5.2+mc1.19.2-FORGE.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/vBK4OJ1O/interiors-0.5.2%2Bmc1.19.2-FORGE.jar",
+        "sha512": "c2b84f23a047d2d631351ede263d18d8d9224b19aa8d6c6e18fd0e72259dbcb1d6749437cdf17d838b70b195c59e03125ef728f659ddeab15c02c123d0470adb"
+      },
+      "0_5_1-mc": {
+        "name": "interiors-0.5-30+mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/zGkP5Znh/interiors-0.5-30%2Bmc1.19.2.jar",
+        "sha512": "9da072334afa72fe885957861acbc6f9aacc88035ad11a4f938d1e3c8e6513668bb5d79c93bc46a77e45a0112afc7862e6f18af3c2bbc0674a6612c866525a01"
+      },
+      "0_5": {
+        "name": "interiors-v0.5-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/8wI1yeNz/interiors-v0.5-1.19.2.jar",
+        "sha512": "f844ce00bb0d591539a58598a180ba79c1a2f2466e8530194ee41f9b80271c31c2adc5380497c8723fde23f9cc088218809b7b38b62eb99a25fbefd9e4e73aaa"
+      },
+      "0_4_1": {
+        "name": "interiors-v0.4.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/eTqo4oG8/interiors-v0.4.1-1.19.2.jar",
+        "sha512": "175080d41cc1922d7667c4bf9413b763643ac63f947dc29e0b701060415dfda4b4b482c42bf9a42c46a89c314cd83542392803d061ac43a6094585f6e090246f"
+      },
+      "0_3_1": {
+        "name": "create-interiors-v0.3.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/ETGvlEp4/create-interiors-v0.3.1-1.19.2.jar",
+        "sha512": "ef679d68c474c42a719e623cb81d14a7da0c2764b6c08ab91a7bdcf29d5cc26bedf7946fd2504309079516cb7e5e50bbc5b4cc7ed31778ab22a7129e9347e923"
+      },
+      "0_3": {
+        "name": "create-interiors-v0.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/AGhVchAR/create-interiors-v0.3-1.19.2.jar",
+        "sha512": "024a173467274132ab36b3b57fbbfab7fba009d9463062a2c1f08d9ddd4c9ad85aa6b7cec8f07b0fe44d93f71ad81d0518e78087094d323b0807d155b6736b1b"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "interiors-0.5.6+forge-mc1.18.2-build.103.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/8t7BjqJW/interiors-0.5.6%2Bforge-mc1.18.2-build.103.jar",
+        "sha512": "23c6d4934451a4c6fde022372352e131d46912b0b2549de5ae2cbcf8c3acc58d87f27935392f1a3de95d17e1ffb906c5f3b9363be635981eefb708666bfd8707"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+forge-mc1.18.2-build.103.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/8t7BjqJW/interiors-0.5.6%2Bforge-mc1.18.2-build.103.jar",
+        "sha512": "23c6d4934451a4c6fde022372352e131d46912b0b2549de5ae2cbcf8c3acc58d87f27935392f1a3de95d17e1ffb906c5f3b9363be635981eefb708666bfd8707"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+forge-mc1.18.2-build.100.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/YO2Q9zYY/interiors-0.5.5%2Bforge-mc1.18.2-build.100.jar",
+        "sha512": "20171235663ff3af1cf2f25a4d10655c3056511e4c1d19e76e0b47fd51a92ffd7db7a27b4848cb5cb1b0dbec04b51719e833841ff4d197eb0cbb6ca58afd5325"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+forge-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/bUZG9AJY/interiors-0.5.3%2Bforge-mc1.18.2.jar",
+        "sha512": "085a743bd0d1545b35b5f62f2861ca309fcdbb146ebf114318351e6f15af6a0ece1aab2d1081c85a514e196091521ada358934ace19bf2ae56cb7adca8435c49"
+      },
+      "0_5_2-mc": {
+        "name": "interiors-0.5.2-mc1.18.2-FORGE.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/qC6sNz4d/interiors-0.5.2-mc1.18.2-FORGE.jar",
+        "sha512": "4b39463bbb86fc90b6fc00283db18a418b66cbd250a7dc4861343d5fe0fbabc1b70114467637f03d4c776fbd6e7dd451b323762395082dcdb36855fa88973f5f"
+      },
+      "0_5_1-mc": {
+        "name": "interiors-0.5-30+mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/2Rbh73Av/interiors-0.5-30%2Bmc1.18.2.jar",
+        "sha512": "82c80ed175f9366ee01e3be203e164532650e998ad393defa8ade7a06a99427919a6be849a9d732f09e0a62d23acdc292c844f92e444eac9ff6144baf628fbbf"
+      },
+      "0_5": {
+        "name": "interiors-v0.5-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/hAFVyCJr/interiors-v0.5-1.18.2.jar",
+        "sha512": "44ca9b36a958502681297ecc0888f566374588b86ffcf168a764149daa2e6aed9613a01e9275c65c71f243777fb689ed1a7df61a74c45a8f7261f1b855ecb1de"
+      },
+      "0_4_1": {
+        "name": "interiors-v0.4.1-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/qM7Y55Cq/interiors-v0.4.1-1.18.2.jar",
+        "sha512": "3a9a017ddb2a92536f6532554ea75b74ec15ea9d546325c39fd85b6075cdc9b3dc9e20795e2f8d12219f0666ab0064d4fb7423177de471860f665a7c64900ea9"
+      },
+      "0_4": {
+        "name": "interiors-v0.4-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/IHYK5eA5/interiors-v0.4-1.18.2.jar",
+        "sha512": "f92f024f0e81dd7d3843a1426b8ea38239990c3d78124ad7cd85da1de1ced4c7bac93be041d3b9cb6d4e4a22ae607fa393ac54455d50be8a93bdbe96cf3b6faf"
+      },
+      "0_3_3": {
+        "name": "create-interiors-v0.3.3-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/VD1oo7YP/create-interiors-v0.3.3-1.18.2.jar",
+        "sha512": "53638427b25398280e4fe0360194af400af66fb1e285858d293ec6660ac587ee14b308f1911c7a94509be873ad6521f6f1310498752616610d43e4a266eed04e"
+      },
+      "0_3_1": {
+        "name": "create-interiors-v0.3.1-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/osWVvmc1/create-interiors-v0.3.1-1.18.2.jar",
+        "sha512": "17b842e6b9182799a91f64edfe0a82695bbcfc218e3eb8498d082133026a8fd9c8139a727856774f276390955fa50f70414311dd990847c401b1c347a3e78944"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "interiors-1.20.1-fabric-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/o01QffwP/interiors-1.20.1-fabric-0.6.0.jar",
+        "sha512": "dc54c24d378cec5414005e383e6112642fa00f938e47a3c508ea8090b51cabb669d08d519f0de86f24b45563f3a52c1d6022d9b9094b977b0ea713bde257202e"
+      },
+      "1_20_10_6_0": {
+        "name": "interiors-1.20.1-fabric-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/o01QffwP/interiors-1.20.1-fabric-0.6.0.jar",
+        "sha512": "dc54c24d378cec5414005e383e6112642fa00f938e47a3c508ea8090b51cabb669d08d519f0de86f24b45563f3a52c1d6022d9b9094b977b0ea713bde257202e"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/9PSq2nxO/interiors-0.5.6%2Bfabric-mc1.20.1-build.104.jar",
+        "sha512": "4f6a05e390a2285d4ea5c481ccb176f90221f204d43b7e77110a473f1580f757fd688d7f694e1df207728db4f7c6fead0f5e8eb55659a5d6829b5aa6668d5cba"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+fabric-mc1.20.1-build.98.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/SqWTQ9sy/interiors-0.5.5%2Bfabric-mc1.20.1-build.98.jar",
+        "sha512": "6e12422a2ad65b7b0dbd4cae5259a01c3ca52c3001cc3b603046cd9ee8156bd77f68ae15e4043cb17916e65df3546867db2a87c6b4bee8d7f0b2e1a7216725c8"
+      },
+      "0_5_3mc": {
+        "name": "interiors-0.5.3+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/7QGvBpZU/interiors-0.5.3%2Bfabric-mc1.20.1.jar",
+        "sha512": "2f2cbf4e96d98c20c1c8eacc2786da0419d2160d5e8ae76b39e0a776d0cefb66a7ca7fb9b9d817dfd0daa4d56ebb96d32a0ec06b01ef9f8ba89fccd4dc04f74e"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "interiors-0.5.6+fabric-mc1.19.2-build.105.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/KQ2MYzN0/interiors-0.5.6%2Bfabric-mc1.19.2-build.105.jar",
+        "sha512": "9bf302a0e3f1183272db46b2fe87a192c65de441b8a97174d60ef2b92df2c1d2c71a27ffba4920f1278dad174e8d7ae6d4392fe9b73ab781966cb053af3387f8"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+fabric-mc1.19.2-build.105.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/KQ2MYzN0/interiors-0.5.6%2Bfabric-mc1.19.2-build.105.jar",
+        "sha512": "9bf302a0e3f1183272db46b2fe87a192c65de441b8a97174d60ef2b92df2c1d2c71a27ffba4920f1278dad174e8d7ae6d4392fe9b73ab781966cb053af3387f8"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+fabric-mc1.19.2-build.97.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/U0VuiTi5/interiors-0.5.5%2Bfabric-mc1.19.2-build.97.jar",
+        "sha512": "b4b5d366de923e2da3a020fe298b42e25ccc73f2a57b5c0da129ffa25e1c9537dd142b5d5d7acf0f5676280dcab1fbdfea371a1b301a60f5dc139a7b64f0f8d3"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+fabric-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/MIqMtTi6/interiors-0.5.3%2Bfabric-mc1.19.2.jar",
+        "sha512": "5238912a7d38659b986860f57bb7bf4c37a670452a3f8b02dc523b399ca289f445db93eae752cad53d4c84c264ba1d7c640792cfb5b27aaf005d76a1d530e2ce"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "interiors-0.5.6+fabric-mc1.18.2-build.103.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/rPCMTZJj/interiors-0.5.6%2Bfabric-mc1.18.2-build.103.jar",
+        "sha512": "f81353022a571f123fb2d975ccf02eb46696a94b9915ea9507e060cfbfa7b844fc7417e7420b8c18930186810ee8f698b20d53a1b36805a46340d927142a0a9b"
+      },
+      "0_5_6mc": {
+        "name": "interiors-0.5.6+fabric-mc1.18.2-build.103.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/rPCMTZJj/interiors-0.5.6%2Bfabric-mc1.18.2-build.103.jar",
+        "sha512": "f81353022a571f123fb2d975ccf02eb46696a94b9915ea9507e060cfbfa7b844fc7417e7420b8c18930186810ee8f698b20d53a1b36805a46340d927142a0a9b"
+      },
+      "0_5_5mc": {
+        "name": "interiors-0.5.5+fabric-mc1.18.2-build.100.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/AXVJ5MtH/interiors-0.5.5%2Bfabric-mc1.18.2-build.100.jar",
+        "sha512": "533b119f7d58ed73af5f2362eb717cd7fb23927b21270a4253c5a19557d4ea4545af8a15b90aa6baa5bbc09f9a511a380463fba642136e491708333d2560e132"
+      },
+      "0_5_3": {
+        "name": "interiors-0.5.3+fabric-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/d7Enth7o/interiors-0.5.3%2Bfabric-mc1.18.2.jar",
+        "sha512": "a881f838044aeec2e2da9f4e9047279c7a5c2846f315fe120f387ed68ce3127661aebe2e6fb3bdd49d14e1697bcea9e5136046c0cac51665d5f8d3928bca6699"
+      }
+    }
+  }
+}

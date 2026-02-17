@@ -1,0 +1,68 @@
+{
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "create-structures-0.1.1-1.20.1-FORGE.jar",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar",
+        "sha512": "3a6ea50b29c8209bb51d2742b94e3b6d6e43deba0ef4b1509cbeccbc1bcfb953105627ff0188c8176928140b05cb1fe6c4de5d4dfcd530f6c36c952f2db43743"
+      },
+      "0_1_1": {
+        "name": "create-structures-0.1.1-1.20.1-FORGE.jar",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar",
+        "sha512": "3a6ea50b29c8209bb51d2742b94e3b6d6e43deba0ef4b1509cbeccbc1bcfb953105627ff0188c8176928140b05cb1fe6c4de5d4dfcd530f6c36c952f2db43743"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "create-structures-0.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/T6pIYgOM/create-structures-0.1.0.jar",
+        "sha512": "97881ec893234cd090142586a5e85180ec2faac9bffa92e4bbec4728350928b67708eac469dec8c8033c3cfd45949dc7312f8632be9b601b531199ac2303e77e"
+      },
+      "0_1_0+mod": {
+        "name": "create-structures-0.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/T6pIYgOM/create-structures-0.1.0.jar",
+        "sha512": "97881ec893234cd090142586a5e85180ec2faac9bffa92e4bbec4728350928b67708eac469dec8c8033c3cfd45949dc7312f8632be9b601b531199ac2303e77e"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "create-structures-0.1.1-1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structures-0.1.1-1.20.1-FABRIC.jar",
+        "sha512": "56d693c501b655d52dc21673efe003a99feedfa44cf89afed82fae97c1d6be8fd2c8a9d0c8f126ecbe37116bf2a4631b8bb725bdc870a3382e4791c49cce04b6"
+      },
+      "0_1_1+mod": {
+        "name": "create-structures-0.1.1-1.20.1-FABRIC.jar",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structures-0.1.1-1.20.1-FABRIC.jar",
+        "sha512": "56d693c501b655d52dc21673efe003a99feedfa44cf89afed82fae97c1d6be8fd2c8a9d0c8f126ecbe37116bf2a4631b8bb725bdc870a3382e4791c49cce04b6"
+      }
+    }
+  },
+  "datapack": {
+    "1_20_1": {
+      "latest": {
+        "name": "Create-Structures---v0.1.1---1.20.1.zip",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/GHYR6eCT/Create%20Structures%20-%20v0.1.1%20-%201.20.1.zip",
+        "sha512": "1511044f557b5e0805d1289d43ec2cae3288dce19927adcefa3f2154c71c363bad0cb8b3f5ba6a5e973dbb3c4a4d0fb9817e0fd25a92f579302d32d8150add90"
+      },
+      "0_1_1": {
+        "name": "Create-Structures---v0.1.1---1.20.1.zip",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/GHYR6eCT/Create%20Structures%20-%20v0.1.1%20-%201.20.1.zip",
+        "sha512": "1511044f557b5e0805d1289d43ec2cae3288dce19927adcefa3f2154c71c363bad0cb8b3f5ba6a5e973dbb3c4a4d0fb9817e0fd25a92f579302d32d8150add90"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "Create-Structures---v0.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/e9v4MIpX/Create%20Structures%20-%20v0.1.0.zip",
+        "sha512": "c6d82a7ff728a750185ee6808d72b505e34df46d61679ed4b1fd766f00a23348642c076845550e5fb0bd9e89a9c8a40d58863cb89a8470158037e24806bfa92b"
+      },
+      "0_1_0": {
+        "name": "Create-Structures---v0.1.0.zip",
+        "url": "https://cdn.modrinth.com/data/IAnP4np7/versions/e9v4MIpX/Create%20Structures%20-%20v0.1.0.zip",
+        "sha512": "c6d82a7ff728a750185ee6808d72b505e34df46d61679ed4b1fd766f00a23348642c076845550e5fb0bd9e89a9c8a40d58863cb89a8470158037e24806bfa92b"
+      }
+    }
+  }
+}

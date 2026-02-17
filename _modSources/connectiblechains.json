@@ -1,0 +1,563 @@
+{
+  "fabric": {
+    "1_21_11": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/h8RIIOQq/connectiblechains-2.5.7%2B1.21.11.jar",
+        "sha512": "e0311f761666e360a8c5f9b292c118caa14b5bb22e166a87bdab84e242e0a4edf585b6faab41f7e88972d6ee440a336f42329ee4ff3b1dd0a5b9f93543325843"
+      },
+      "2_5_7": {
+        "name": "connectiblechains-2.5.7+1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/h8RIIOQq/connectiblechains-2.5.7%2B1.21.11.jar",
+        "sha512": "e0311f761666e360a8c5f9b292c118caa14b5bb22e166a87bdab84e242e0a4edf585b6faab41f7e88972d6ee440a336f42329ee4ff3b1dd0a5b9f93543325843"
+      },
+      "2_5_6": {
+        "name": "connectiblechains-2.5.6+1.21.11.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/5sNAnV8X/connectiblechains-2.5.6%2B1.21.11.jar",
+        "sha512": "d24f2dee77bc318127eebb4ab0b877dd1840e0373198a899f8de260add20c590f92e247745c50896e1b585de2e3d8a590723c2613f55620d9a2cc5d93d11519a"
+      }
+    },
+    "1_21_10": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/siWVCyLQ/connectiblechains-2.5.7%2B1.21.10.jar",
+        "sha512": "aa82ec9c5168890a7ff5f8d5df92d463d8069931a1687a0fba36cd96366194e15bcb2be5c7bd5b970789700d36a0b02ace70cfc4e124370f2e59ac8bf9c2d607"
+      },
+      "2_5_7": {
+        "name": "connectiblechains-2.5.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/siWVCyLQ/connectiblechains-2.5.7%2B1.21.10.jar",
+        "sha512": "aa82ec9c5168890a7ff5f8d5df92d463d8069931a1687a0fba36cd96366194e15bcb2be5c7bd5b970789700d36a0b02ace70cfc4e124370f2e59ac8bf9c2d607"
+      },
+      "2_5_6": {
+        "name": "connectiblechains-2.5.6+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/BVqRW15Q/connectiblechains-2.5.6%2B1.21.10.jar",
+        "sha512": "76f5882bc1d881d327298978979c3fb1bffa23c71678ae8e4e2e9a081aacb96ecb34a3396e30aba9fd0bed6827fc28ac77adb10b52a8469a27006b5f0968072f"
+      },
+      "2_5_5": {
+        "name": "connectiblechains-2.5.5+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/pELpJOoT/connectiblechains-2.5.5%2B1.21.10.jar",
+        "sha512": "a68e4cafc7e89969585b933438e442d292adf8f1f999799a1c14529b8fff632c37221fbc1e9b90814f0c5c5050aac5e458c0d6e2192da3f93ac87f7b356f8654"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/siWVCyLQ/connectiblechains-2.5.7%2B1.21.10.jar",
+        "sha512": "aa82ec9c5168890a7ff5f8d5df92d463d8069931a1687a0fba36cd96366194e15bcb2be5c7bd5b970789700d36a0b02ace70cfc4e124370f2e59ac8bf9c2d607"
+      },
+      "2_5_7+1_21_10": {
+        "name": "connectiblechains-2.5.7+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/siWVCyLQ/connectiblechains-2.5.7%2B1.21.10.jar",
+        "sha512": "aa82ec9c5168890a7ff5f8d5df92d463d8069931a1687a0fba36cd96366194e15bcb2be5c7bd5b970789700d36a0b02ace70cfc4e124370f2e59ac8bf9c2d607"
+      },
+      "2_5_6+1_21_10": {
+        "name": "connectiblechains-2.5.6+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/BVqRW15Q/connectiblechains-2.5.6%2B1.21.10.jar",
+        "sha512": "76f5882bc1d881d327298978979c3fb1bffa23c71678ae8e4e2e9a081aacb96ecb34a3396e30aba9fd0bed6827fc28ac77adb10b52a8469a27006b5f0968072f"
+      },
+      "2_5_5+1_21_10": {
+        "name": "connectiblechains-2.5.5+1.21.10.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/pELpJOoT/connectiblechains-2.5.5%2B1.21.10.jar",
+        "sha512": "a68e4cafc7e89969585b933438e442d292adf8f1f999799a1c14529b8fff632c37221fbc1e9b90814f0c5c5050aac5e458c0d6e2192da3f93ac87f7b356f8654"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DO0pujQG/connectiblechains-2.5.7%2B1.21.8.jar",
+        "sha512": "0e9c5771b2ad59c71c880b3e602e4b59c59105b0fad4246a3d7e7b741d7366119ffd6bf23e1f7bbfbc19f6ebb5a78cc16365a85a94069f0cb0026f84ff0010d6"
+      },
+      "2_5_7": {
+        "name": "connectiblechains-2.5.7+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DO0pujQG/connectiblechains-2.5.7%2B1.21.8.jar",
+        "sha512": "0e9c5771b2ad59c71c880b3e602e4b59c59105b0fad4246a3d7e7b741d7366119ffd6bf23e1f7bbfbc19f6ebb5a78cc16365a85a94069f0cb0026f84ff0010d6"
+      },
+      "2_5_6": {
+        "name": "connectiblechains-2.5.6+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/M50WvzET/connectiblechains-2.5.6%2B1.21.8.jar",
+        "sha512": "19c9c6f8ee998419764ac768b6a5ab7259f8afee237a17008d70a57e60daa75d638410756dd7425b3c2bee1db4814766045a0a909cfeb22799621ff9b2e1fa4b"
+      },
+      "2_5_4": {
+        "name": "connectiblechains-2.5.4+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/HskVQM3H/connectiblechains-2.5.4%2B1.21.8.jar",
+        "sha512": "0a618f0b0585c404259e38ec8c113cb8181800e3972b06de57eb6817deb8c97ed4798ebddd938f6af7546ac42663d584ffe98229a21f9bd17d69c180031f3986"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DO0pujQG/connectiblechains-2.5.7%2B1.21.8.jar",
+        "sha512": "0e9c5771b2ad59c71c880b3e602e4b59c59105b0fad4246a3d7e7b741d7366119ffd6bf23e1f7bbfbc19f6ebb5a78cc16365a85a94069f0cb0026f84ff0010d6"
+      },
+      "2_5_7+1_21_8": {
+        "name": "connectiblechains-2.5.7+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DO0pujQG/connectiblechains-2.5.7%2B1.21.8.jar",
+        "sha512": "0e9c5771b2ad59c71c880b3e602e4b59c59105b0fad4246a3d7e7b741d7366119ffd6bf23e1f7bbfbc19f6ebb5a78cc16365a85a94069f0cb0026f84ff0010d6"
+      },
+      "2_5_6+1_21_8": {
+        "name": "connectiblechains-2.5.6+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/M50WvzET/connectiblechains-2.5.6%2B1.21.8.jar",
+        "sha512": "19c9c6f8ee998419764ac768b6a5ab7259f8afee237a17008d70a57e60daa75d638410756dd7425b3c2bee1db4814766045a0a909cfeb22799621ff9b2e1fa4b"
+      },
+      "2_5_4+1_21_8": {
+        "name": "connectiblechains-2.5.4+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/HskVQM3H/connectiblechains-2.5.4%2B1.21.8.jar",
+        "sha512": "0a618f0b0585c404259e38ec8c113cb8181800e3972b06de57eb6817deb8c97ed4798ebddd938f6af7546ac42663d584ffe98229a21f9bd17d69c180031f3986"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DO0pujQG/connectiblechains-2.5.7%2B1.21.8.jar",
+        "sha512": "0e9c5771b2ad59c71c880b3e602e4b59c59105b0fad4246a3d7e7b741d7366119ffd6bf23e1f7bbfbc19f6ebb5a78cc16365a85a94069f0cb0026f84ff0010d6"
+      },
+      "2_5_7+1_21_8": {
+        "name": "connectiblechains-2.5.7+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DO0pujQG/connectiblechains-2.5.7%2B1.21.8.jar",
+        "sha512": "0e9c5771b2ad59c71c880b3e602e4b59c59105b0fad4246a3d7e7b741d7366119ffd6bf23e1f7bbfbc19f6ebb5a78cc16365a85a94069f0cb0026f84ff0010d6"
+      },
+      "2_5_6+1_21_8": {
+        "name": "connectiblechains-2.5.6+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/M50WvzET/connectiblechains-2.5.6%2B1.21.8.jar",
+        "sha512": "19c9c6f8ee998419764ac768b6a5ab7259f8afee237a17008d70a57e60daa75d638410756dd7425b3c2bee1db4814766045a0a909cfeb22799621ff9b2e1fa4b"
+      },
+      "2_5_4+1_21_8": {
+        "name": "connectiblechains-2.5.4+1.21.8.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/HskVQM3H/connectiblechains-2.5.4%2B1.21.8.jar",
+        "sha512": "0a618f0b0585c404259e38ec8c113cb8181800e3972b06de57eb6817deb8c97ed4798ebddd938f6af7546ac42663d584ffe98229a21f9bd17d69c180031f3986"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "connectiblechains-2.5.4+1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/5MbTuLXe/connectiblechains-2.5.4%2B1.21.5.jar",
+        "sha512": "e0f906ef16f2dff4507a97d88f62aa210bb9c33417d994b9a99bdc8ee600954e9d7f3f70e23f76eb1fd1d38bf535ae9ef93364bce537f025b9bcba21a957c6ee"
+      },
+      "2_5_4": {
+        "name": "connectiblechains-2.5.4+1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/5MbTuLXe/connectiblechains-2.5.4%2B1.21.5.jar",
+        "sha512": "e0f906ef16f2dff4507a97d88f62aa210bb9c33417d994b9a99bdc8ee600954e9d7f3f70e23f76eb1fd1d38bf535ae9ef93364bce537f025b9bcba21a957c6ee"
+      },
+      "2_5_3": {
+        "name": "connectiblechains-2.5.3+1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/nVh9jGuJ/connectiblechains-2.5.3%2B1.21.5.jar",
+        "sha512": "fb44cf38b454aa015c77a54745e571be5debba30995aa10054e948c7f81760b77d8fab78cc9c3e63f1ad259546816b6187ded9c7aa13d542da5e9e0fa7240118"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "connectiblechains-2.5.4+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DoBDsirx/connectiblechains-2.5.4%2B1.21.4.jar",
+        "sha512": "9b23fc76bae7c53f0e6e089c8003eebd0008fd89e63135edd55ce71c46ac8a066f044c81d3c4a302d69191113c40c8888d8133a22a6adcdb99935c5432bbc41b"
+      },
+      "2_5_4": {
+        "name": "connectiblechains-2.5.4+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DoBDsirx/connectiblechains-2.5.4%2B1.21.4.jar",
+        "sha512": "9b23fc76bae7c53f0e6e089c8003eebd0008fd89e63135edd55ce71c46ac8a066f044c81d3c4a302d69191113c40c8888d8133a22a6adcdb99935c5432bbc41b"
+      },
+      "2_5_3": {
+        "name": "connectiblechains-2.5.3+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/uB1qV2tO/connectiblechains-2.5.3%2B1.21.4.jar",
+        "sha512": "308f6e2131898da627b32a49c279057f27a975137d87f2a2be9796c58eeb261e7434b971edbadb5e934ddf7877b691e06292f288850b54fea2b01e774bb56caa"
+      },
+      "2_5_2": {
+        "name": "connectiblechains-2.5.2+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/MFLGgWoo/connectiblechains-2.5.2%2B1.21.4.jar",
+        "sha512": "eb00d41e1a7154f461ede45b47b2f489fd555ccbdccdfbc939a49e8a49d8e24334735bb6ff676ababf7f2c2f9283039f16340c63822d40cef4a289c05b7b274c"
+      },
+      "2_5_1": {
+        "name": "connectiblechains-2.5.1+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/WEadmh4N/connectiblechains-2.5.1%2B1.21.4.jar",
+        "sha512": "686d79652bbf883de8665ea88b9fe4dc45e47cc87072fed76078ef3b968882f132cd190ca55d81a7edffa3409f1ecf1a9cd3b3eb8d36aba2ffc1615bb81f8736"
+      },
+      "2_5_0": {
+        "name": "connectiblechains-2.5.0+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/OvJDn5fm/connectiblechains-2.5.0%2B1.21.4.jar",
+        "sha512": "3303c38bfe2ca4341dcb0e689a5644938a50958e681305e7c9aec4f1659a25ea89e9370baf723d710e0383e6ce293a0551c049753b1e2273639642176ee920b6"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "connectiblechains-2.5.4+1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/IxkuMOh7/connectiblechains-2.5.4%2B1.21.3.jar",
+        "sha512": "deb8c3f80388d0d0854449bdcb378ac320099cab4623617d64d9f3e7af0712f54301ac6e197be6f556ed8d3c79905ac9bb36492f17d787598e2f7df047295608"
+      },
+      "2_5_4": {
+        "name": "connectiblechains-2.5.4+1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/IxkuMOh7/connectiblechains-2.5.4%2B1.21.3.jar",
+        "sha512": "deb8c3f80388d0d0854449bdcb378ac320099cab4623617d64d9f3e7af0712f54301ac6e197be6f556ed8d3c79905ac9bb36492f17d787598e2f7df047295608"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/bix8ndct/connectiblechains-2.5.7%2B1.21.1.jar",
+        "sha512": "cc07ecea73147645a8a61f85a0d50ae0c090ecd58ad083f8d4bb187fc722c4bca15d63f7ffb084cf1c9cb88c39c214615dfb2577f1b624f83fef3d854ca30bba"
+      },
+      "2_5_7": {
+        "name": "connectiblechains-2.5.7+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/bix8ndct/connectiblechains-2.5.7%2B1.21.1.jar",
+        "sha512": "cc07ecea73147645a8a61f85a0d50ae0c090ecd58ad083f8d4bb187fc722c4bca15d63f7ffb084cf1c9cb88c39c214615dfb2577f1b624f83fef3d854ca30bba"
+      },
+      "2_5_6": {
+        "name": "connectiblechains-2.5.6+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/vb7jb2UJ/connectiblechains-2.5.6%2B1.21.1.jar",
+        "sha512": "1df92bef6d1ec4941a1d2694e10f96e8c05a1709e9d9583373eb5e8c640a907798cc34041bfc5244b2a5bf08f4272121c783bfcad671ee9ed46ebdc2ecbcacc6"
+      },
+      "2_5_5": {
+        "name": "connectiblechains-2.5.5+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/W5rT9OiH/connectiblechains-2.5.5%2B1.21.1.jar",
+        "sha512": "f6853a569fb94e4a6809d4971272f105574b5653eb17b947deabf24ee7b76620ed45a4bfab3ec580060753d89d91576e4cf9f162cb87f54f24c598b1fad60120"
+      },
+      "2_5_4": {
+        "name": "connectiblechains-2.5.4+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/icALBnp4/connectiblechains-2.5.4%2B1.21.1.jar",
+        "sha512": "473aeb2063a13e2ed2b16d179fa3dbfaba616d57c53282ce73835aa9f41903b01247d591fe39c9b82afcb68996bfe8ab48e66abd4042a5a3216aca629790fe74"
+      },
+      "2_5_3": {
+        "name": "connectiblechains-2.5.3+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/SUS3kKGn/connectiblechains-2.5.3%2B1.21.1.jar",
+        "sha512": "763cd4610178a4906827fef6f88547b7c72c75cd894c16c4a409db0f1468fc81d557e6fe80e3def8edb840f99c29bdf5f566932dddd54d3a3b948acc186329fe"
+      },
+      "2_5_2": {
+        "name": "connectiblechains-2.5.2+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/AoBlh6vD/connectiblechains-2.5.2%2B1.21.1.jar",
+        "sha512": "6a63a28f9d7daec876349a177c907cf48f312fcfe88926fee8e6edff44eac6b39a3c1edc2838713638a9f08ed6d42f2215686080f014ba7ab99966c274608725"
+      },
+      "2_4_2": {
+        "name": "connectiblechains-2.4.2+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/wBniNKdB/connectiblechains-2.4.2%2B1.21.1.jar",
+        "sha512": "001c9e408891dbdf52260ba2aaadaef8b3862009c822ebebb4fb3a8fa7417ca0ceb6ae93b2fadbfaa7fc3acce0b90447321d4c36b130f11f0aaab59add0464b2"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "connectiblechains-2.4.2+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/wBniNKdB/connectiblechains-2.4.2%2B1.21.1.jar",
+        "sha512": "001c9e408891dbdf52260ba2aaadaef8b3862009c822ebebb4fb3a8fa7417ca0ceb6ae93b2fadbfaa7fc3acce0b90447321d4c36b130f11f0aaab59add0464b2"
+      },
+      "2_4_2_1": {
+        "name": "connectiblechains-2.4.2+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/wBniNKdB/connectiblechains-2.4.2%2B1.21.1.jar",
+        "sha512": "001c9e408891dbdf52260ba2aaadaef8b3862009c822ebebb4fb3a8fa7417ca0ceb6ae93b2fadbfaa7fc3acce0b90447321d4c36b130f11f0aaab59add0464b2"
+      },
+      "2_4_1": {
+        "name": "connectiblechains-2.4.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/cb9rzzkK/connectiblechains-2.4.1%2B1.21.jar",
+        "sha512": "99d673610b90556e52125f017226e8a704c2dc73dd0fbb6b6b815f935c9c3a5effba07feb5557681f6ab4943422368b82edc88f856aa7649076f4f79a0e7c016"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "connectiblechains-2.4.1+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/l2A19mac/connectiblechains-2.4.1%2B1.20.6.jar",
+        "sha512": "7319f8b2c580d449a2e432228ff9a61e0f647fa5ab3a895a8ef7bf3d75007efcc047e59c5fb35d5d4c94f5dd7d82624cc770fd592b4cdac7dfdfb7242b4984a3"
+      },
+      "2_4_1": {
+        "name": "connectiblechains-2.4.1+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/l2A19mac/connectiblechains-2.4.1%2B1.20.6.jar",
+        "sha512": "7319f8b2c580d449a2e432228ff9a61e0f647fa5ab3a895a8ef7bf3d75007efcc047e59c5fb35d5d4c94f5dd7d82624cc770fd592b4cdac7dfdfb7242b4984a3"
+      },
+      "2_4_0": {
+        "name": "connectiblechains-2.4.0+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/CTqdpZTL/connectiblechains-2.4.0%2B1.20.6.jar",
+        "sha512": "87027a3132dd07aa5491d200e1d85927752549d0e1c42c80c822febbf71d511b813d026c98903486e432d068d2eae8ad5cf7ef9119a232f6248809dda874547f"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "connectiblechains-2.3.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/lhn1Dwup/connectiblechains-2.3.0%2B1.20.4.jar",
+        "sha512": "b44c407342cd0477703852aa183775f8e37af4a6181735e52f85b3e6ee3247b98db22a6087115ed5aed76851425b5e676bcf367581f8667419fec5d5d64bfdd0"
+      },
+      "2_3_0": {
+        "name": "connectiblechains-2.3.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/lhn1Dwup/connectiblechains-2.3.0%2B1.20.4.jar",
+        "sha512": "b44c407342cd0477703852aa183775f8e37af4a6181735e52f85b3e6ee3247b98db22a6087115ed5aed76851425b5e676bcf367581f8667419fec5d5d64bfdd0"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "connectiblechains-2.5.7+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/NHbp3EAm/connectiblechains-2.5.7%2B1.20.1.jar",
+        "sha512": "58057af6034055fbeb37a802d5f87a7dfbe9ceda39ceaa46f9db661c2ed1147dca2a439e5dc96af3dc500e66c655ba4012deefabf768c99b44b691bc92b3db18"
+      },
+      "2_5_7": {
+        "name": "connectiblechains-2.5.7+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/NHbp3EAm/connectiblechains-2.5.7%2B1.20.1.jar",
+        "sha512": "58057af6034055fbeb37a802d5f87a7dfbe9ceda39ceaa46f9db661c2ed1147dca2a439e5dc96af3dc500e66c655ba4012deefabf768c99b44b691bc92b3db18"
+      },
+      "2_5_6": {
+        "name": "connectiblechains-2.5.6+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/Jq06AjRo/connectiblechains-2.5.6%2B1.20.1.jar",
+        "sha512": "392915a9042a8619e2d2434781077dcfd5ffe95763698e4b17ac60aaeffd567e8b44618445bab882912918c70473d407b9496646449913829af2b0f8a84c22c3"
+      },
+      "2_5_5": {
+        "name": "connectiblechains-2.5.5+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/5D6dwqJc/connectiblechains-2.5.5%2B1.20.1.jar",
+        "sha512": "6c7c238e998c257ec35c6de6d38fd240c2894fedf2fad848e53782d404c8e4f47e8e02a2ef742d424a375d08176d14d5869a44d8fe239bfb53817df3f1433fda"
+      },
+      "2_5_4-hotfix_1": {
+        "name": "connectiblechains-2.5.4-hotfix.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/SkCzMKT5/connectiblechains-2.5.4-hotfix.1%2B1.20.1.jar",
+        "sha512": "4ed086955fedbd1db6548a180dd3907407ab5755543d7bbf31dbcfb14a09bcc08304462ca7c62f7e6e7e37677667c1088b3b3cd73cef470fdeb7d9948d80fc3f"
+      },
+      "2_2_1": {
+        "name": "connectiblechains-2.2.1+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/qSAa0vuB/connectiblechains-2.2.1%2B1.20.1.jar",
+        "sha512": "142d3c2f846100a158326fa1ed0a91aa66be647cef1152b9fdd12eac2615a62c5641fc4fad67f0de6cfac5f87fa56f01f77919164d9d150dc2a59f977cfcd4d0"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "connectiblechains-2.2.1+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/nuA6kIaF/connectiblechains-2.2.1%2B1.19.4.jar",
+        "sha512": "1863c14471468ab5832c4f96a85b64b1a32c295f9a6ecede1fd63ec1bb0aeff62d28a70aa606f266565fabfbaeb89fd63ccea5a470e3c07cf02443154ef1289b"
+      },
+      "2_2_1": {
+        "name": "connectiblechains-2.2.1+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/nuA6kIaF/connectiblechains-2.2.1%2B1.19.4.jar",
+        "sha512": "1863c14471468ab5832c4f96a85b64b1a32c295f9a6ecede1fd63ec1bb0aeff62d28a70aa606f266565fabfbaeb89fd63ccea5a470e3c07cf02443154ef1289b"
+      },
+      "2_2_0": {
+        "name": "connectiblechains-2.2.0+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/DBJGNfNA/connectiblechains-2.2.0%2B1.19.4.jar",
+        "sha512": "7feea86ee645569074865e98b2c8b99a96e5bd065cdaeff3b3762aaa01bf1fe8b32b4114259dd1ddd9f5e2a97a2d2f29b7369c6f94fb664ded1288f62dcd2670"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "connectiblechains-2.1.4+1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/t9MYW9lw/connectiblechains-2.1.4%2B1.19.2.jar",
+        "sha512": "c10541e1757032f1b25cfea4075fa9e7bc01d5b5cfad9795a8e2b40c2dc83773625175d77c2014deb164824e6a580d5827aaca6d395c3d0536be04f07856976b"
+      },
+      "2_1_4": {
+        "name": "connectiblechains-2.1.4+1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/t9MYW9lw/connectiblechains-2.1.4%2B1.19.2.jar",
+        "sha512": "c10541e1757032f1b25cfea4075fa9e7bc01d5b5cfad9795a8e2b40c2dc83773625175d77c2014deb164824e6a580d5827aaca6d395c3d0536be04f07856976b"
+      },
+      "2_1_3": {
+        "name": "connectiblechains-2.1.3+1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/S1eIthIl/connectiblechains-2.1.3%2B1.19.2.jar",
+        "sha512": "304b00d90f5f7bb57fe2497b05277b7dd72a560f381a431fe865e620f5fffaca62aeae8b870d263c6556f65db8b2eedacdf2f4dec19ebba76f6eaf0175051f6f"
+      },
+      "2_1_2": {
+        "name": "connectiblechains-2.1.2+1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/vqN8KeiB/connectiblechains-2.1.2%2B1.19.2.jar",
+        "sha512": "ea897e98be9da653db17a9e0b88093ff0cad961381b049de3439f84f090c41432b9b0342304b670af2a89545c9770b57829501c49cf47836e4e5e5ad75891307"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "connectiblechains-2.1.4+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/GUXv2En7/connectiblechains-2.1.4%2B1.18.2.jar",
+        "sha512": "ab68b407b973adb8ec5fae9969198aa3cfc73f52a417d8772d77fb998ac66fe7b61db4276d373001e05c3a2e06f25d0110cdd56225e0b88ee11cc52ed16dd27d"
+      },
+      "2_1_4": {
+        "name": "connectiblechains-2.1.4+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/GUXv2En7/connectiblechains-2.1.4%2B1.18.2.jar",
+        "sha512": "ab68b407b973adb8ec5fae9969198aa3cfc73f52a417d8772d77fb998ac66fe7b61db4276d373001e05c3a2e06f25d0110cdd56225e0b88ee11cc52ed16dd27d"
+      },
+      "2_1_2": {
+        "name": "connectiblechains-2.1.2+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/Km3xrQ1U/connectiblechains-2.1.2%2B1.18.2.jar",
+        "sha512": "a387c76a8e4451659a370c11fce3ae6d88542ff6ef2ac4cb7d1ce0caf34a5fed3cb96716b11b9190aef29056a6529d564e3127055c28fe04b53d3dfec44c3f50"
+      },
+      "2_1_1": {
+        "name": "connectiblechains-2.1.1+1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v2.1.1%2B1.18.2/connectiblechains-2.1.1%2B1.18.2.jar",
+        "sha512": "c75b4cbf1ba456c288331196dd52d49a62b2192931d4d5c0d7adb28a823daad6d1138a907badeadbc6c5c98c05ba31b68c2c88e75c387eb0b26ea27be4ad57a9"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "connectiblechains-2.1.0+1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v2.1.0%2B1.18.1/connectiblechains-2.1.0%2B1.18.1.jar",
+        "sha512": "94a52977359d89908b02916274dc775414eeb171ca32047bdb2433ba6cc9bc097ff68189254ea24ad17301379b5188c5a44ae7fb5e72d04d854b45956d41eef5"
+      },
+      "2_1_0": {
+        "name": "connectiblechains-2.1.0+1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v2.1.0%2B1.18.1/connectiblechains-2.1.0%2B1.18.1.jar",
+        "sha512": "94a52977359d89908b02916274dc775414eeb171ca32047bdb2433ba6cc9bc097ff68189254ea24ad17301379b5188c5a44ae7fb5e72d04d854b45956d41eef5"
+      },
+      "2_0_1": {
+        "name": "connectiblechains-2.0.1+1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v2.0.1%2B1.18.1/connectiblechains-2.0.1%2B1.18.1.jar",
+        "sha512": "131d62a04181739d2705af5b41ff4c4c3fd051eb3517b79c3fc817b7b52e0a8058a1043c17a890e219be7f5f14514550bc21ae4e5bed39ec6c3af54a7d44301a"
+      },
+      "2_0_0": {
+        "name": "connectiblechains-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v2.0.0%2B1.18.1/connectiblechains-2.0.0.jar",
+        "sha512": "554b14d6ef0efcc0212c3dbc8e6ba307780e6abae90ccf3b867729513ba8d5e804d8b3865cbb87e67fb969777470a59e9c11dde703bdafa0b3410630ba7d3c96"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "connectiblechains-2.1.0+1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v2.1.0%2B1.18.1/connectiblechains-2.1.0%2B1.18.1.jar",
+        "sha512": "94a52977359d89908b02916274dc775414eeb171ca32047bdb2433ba6cc9bc097ff68189254ea24ad17301379b5188c5a44ae7fb5e72d04d854b45956d41eef5"
+      },
+      "2_1_0_1": {
+        "name": "connectiblechains-2.1.0+1.18.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v2.1.0%2B1.18.1/connectiblechains-2.1.0%2B1.18.1.jar",
+        "sha512": "94a52977359d89908b02916274dc775414eeb171ca32047bdb2433ba6cc9bc097ff68189254ea24ad17301379b5188c5a44ae7fb5e72d04d854b45956d41eef5"
+      }
+    },
+    "1_17_1": {
+      "latest": {
+        "name": "connectiblechains-1.17.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.17.1-1.2.3/connectiblechains-1.17.1-1.2.3.jar",
+        "sha512": "23e4446530b2508b8d12687c01c2202097457e8e7c548cc44b8f2a8c45add0b315af3896da688ee2e4e91e9755d9784a1fa8f72ec04cf06142d0d84b44a390ba"
+      },
+      "1_17_1-1_2_3": {
+        "name": "connectiblechains-1.17.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.17.1-1.2.3/connectiblechains-1.17.1-1.2.3.jar",
+        "sha512": "23e4446530b2508b8d12687c01c2202097457e8e7c548cc44b8f2a8c45add0b315af3896da688ee2e4e91e9755d9784a1fa8f72ec04cf06142d0d84b44a390ba"
+      },
+      "1_17_1-1_2_2": {
+        "name": "connectiblechains-1.17.1-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.17.1-1.2.2/connectiblechains-1.17.1-1.2.2.jar",
+        "sha512": "419fccbf35a9e9b8e910d55bd97b0972e15a2c058c7c49861a3728a32738aa68901732519001ad6df3b3d1acc7a91b23d4c6f3684d67f93496c0a48b93996973"
+      }
+    },
+    "1_17": {
+      "latest": {
+        "name": "connectiblechains-1.17.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.17.1-1.2.3/connectiblechains-1.17.1-1.2.3.jar",
+        "sha512": "23e4446530b2508b8d12687c01c2202097457e8e7c548cc44b8f2a8c45add0b315af3896da688ee2e4e91e9755d9784a1fa8f72ec04cf06142d0d84b44a390ba"
+      },
+      "1_17_1-1_2_3": {
+        "name": "connectiblechains-1.17.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.17.1-1.2.3/connectiblechains-1.17.1-1.2.3.jar",
+        "sha512": "23e4446530b2508b8d12687c01c2202097457e8e7c548cc44b8f2a8c45add0b315af3896da688ee2e4e91e9755d9784a1fa8f72ec04cf06142d0d84b44a390ba"
+      },
+      "1_17_1-1_2_2": {
+        "name": "connectiblechains-1.17.1-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.17.1-1.2.2/connectiblechains-1.17.1-1.2.2.jar",
+        "sha512": "419fccbf35a9e9b8e910d55bd97b0972e15a2c058c7c49861a3728a32738aa68901732519001ad6df3b3d1acc7a91b23d4c6f3684d67f93496c0a48b93996973"
+      }
+    },
+    "1_16_5": {
+      "latest": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_16_5-1_2_2": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_2_1": {
+        "name": "connectiblechains-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.2.1/connectiblechains-1.2.1.jar",
+        "sha512": "5f608f3f5bdf072b3ec58e0c3d0bddc58223580d8f1d984d021a8addd2f74968e1296aba60828ab862414c1da6f7b9a15ab8aca480a0f7203799a8977b006006"
+      },
+      "1_2_0": {
+        "name": "connectiblechains-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.2.0/connectiblechains-1.2.0.jar",
+        "sha512": "70f663efd3a0e875d06c301cbccc63edbd71fe7ebf1ab17c89a57623d1babe539a78a9bf8d351597d015c69b5c78cdfd9d3cb46034ff5d2197758a5ae70bd50b"
+      }
+    },
+    "1_16_4": {
+      "latest": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_16_5-1_2_2": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_2_1": {
+        "name": "connectiblechains-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.2.1/connectiblechains-1.2.1.jar",
+        "sha512": "5f608f3f5bdf072b3ec58e0c3d0bddc58223580d8f1d984d021a8addd2f74968e1296aba60828ab862414c1da6f7b9a15ab8aca480a0f7203799a8977b006006"
+      },
+      "1_2_0": {
+        "name": "connectiblechains-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.2.0/connectiblechains-1.2.0.jar",
+        "sha512": "70f663efd3a0e875d06c301cbccc63edbd71fe7ebf1ab17c89a57623d1babe539a78a9bf8d351597d015c69b5c78cdfd9d3cb46034ff5d2197758a5ae70bd50b"
+      },
+      "1_1_0": {
+        "name": "connectiblechains-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v1.1.0/connectiblechains-1.1.0.jar",
+        "sha512": "e5850bf0f6c22a0ea9fa85e3a5b7b2b638021171d17c7a1af55a9134a1c35e6ad729e4a15c256a7ec44d63797cc80f70cf6899c1cf429770cda8167ee4bba25e"
+      }
+    },
+    "1_16_3": {
+      "latest": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_16_5-1_2_2": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_2_1": {
+        "name": "connectiblechains-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.2.1/connectiblechains-1.2.1.jar",
+        "sha512": "5f608f3f5bdf072b3ec58e0c3d0bddc58223580d8f1d984d021a8addd2f74968e1296aba60828ab862414c1da6f7b9a15ab8aca480a0f7203799a8977b006006"
+      },
+      "1_1_0": {
+        "name": "connectiblechains-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v1.1.0/connectiblechains-1.1.0.jar",
+        "sha512": "e5850bf0f6c22a0ea9fa85e3a5b7b2b638021171d17c7a1af55a9134a1c35e6ad729e4a15c256a7ec44d63797cc80f70cf6899c1cf429770cda8167ee4bba25e"
+      }
+    },
+    "1_16_2": {
+      "latest": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_16_5-1_2_2": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_2_1": {
+        "name": "connectiblechains-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.2.1/connectiblechains-1.2.1.jar",
+        "sha512": "5f608f3f5bdf072b3ec58e0c3d0bddc58223580d8f1d984d021a8addd2f74968e1296aba60828ab862414c1da6f7b9a15ab8aca480a0f7203799a8977b006006"
+      },
+      "1_1_0": {
+        "name": "connectiblechains-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v1.1.0/connectiblechains-1.1.0.jar",
+        "sha512": "e5850bf0f6c22a0ea9fa85e3a5b7b2b638021171d17c7a1af55a9134a1c35e6ad729e4a15c256a7ec44d63797cc80f70cf6899c1cf429770cda8167ee4bba25e"
+      }
+    },
+    "1_16_1": {
+      "latest": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_16_5-1_2_2": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_1_0": {
+        "name": "connectiblechains-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/v1.1.0/connectiblechains-1.1.0.jar",
+        "sha512": "e5850bf0f6c22a0ea9fa85e3a5b7b2b638021171d17c7a1af55a9134a1c35e6ad729e4a15c256a7ec44d63797cc80f70cf6899c1cf429770cda8167ee4bba25e"
+      }
+    },
+    "1_16": {
+      "latest": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      },
+      "1_16_5-1_2_2": {
+        "name": "connectiblechains-1.16.5-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/1.16.5-1.2.2/connectiblechains-1.16.5-1.2.2.jar",
+        "sha512": "dee2dd95b7ccf311dbaebb681b701adab64a4cf2b64099fc5078e4b507239f01ddedc1d401c26b540ad3694c06a04b2194565429c5c33fcdc2ee19275826be19"
+      }
+    }
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "neoforge": {
+    "1_20_4": {
+      "latest": {
+        "name": "adastra-neoforge-1.20.4-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Pl56bqmV/adastra-neoforge-1.20.4-1.16.5.jar",
+        "sha512": "2f5236b372d7566939892b23a90c73b704b95f0fb0491dddb328206cd2cb45c7a8af253a2207d91a744a4f758ca00ac838d2ceaded0273b83078ca7b0dac4087"
+      },
+      "1_16_5": {
+        "name": "adastra-neoforge-1.20.4-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Pl56bqmV/adastra-neoforge-1.20.4-1.16.5.jar",
+        "sha512": "2f5236b372d7566939892b23a90c73b704b95f0fb0491dddb328206cd2cb45c7a8af253a2207d91a744a4f758ca00ac838d2ceaded0273b83078ca7b0dac4087"
+      },
+      "1_16_4": {
+        "name": "adastra-neoforge-1.20.4-1.16.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/VveiyxEm/adastra-neoforge-1.20.4-1.16.4.jar",
+        "sha512": "66ea46ae3dcab2d6c6a7270a5ea9318ecbabaab0d99098706b2ae14aef199b0d044712ef182400e87ac9f80adc3e22b8c4ee954c687ae586eecd43537a301b61"
+      },
+      "1_16_3": {
+        "name": "adastra-neoforge-1.20.4-1.16.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/P9sPZLmU/adastra-neoforge-1.20.4-1.16.3.jar",
+        "sha512": "e48e3416016e395a14e94a50dd9d159da173bef77ed259237141b7297252271780f4f3a8e0ed772dd1b6db58c085a77523c2a58ffd0e73c257ee6b90fc192395"
+      },
+      "1_16_2": {
+        "name": "adastra-neoforge-1.20.4-1.16.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/J6OlilZs/adastra-neoforge-1.20.4-1.16.2.jar",
+        "sha512": "c5d3776c3f56159e98d7c9355dad51d814948aacfd1bfde2ba4a9ec00654b5648885959c685b8caee48089e18112a59f84435f0acb62e05b01c1a5b7578bacd4"
+      },
+      "1_16_1": {
+        "name": "adastra-neoforge-1.20.4-1.16.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/1K7qFNv7/adastra-neoforge-1.20.4-1.16.1.jar",
+        "sha512": "744c67d9f7282e404e803451e89453625210d10b4b8ce9fda38a83ba72fa92f13aa235c511a8fff5ddf75ea050db97826c85ad641266c9017934592384f03675"
+      },
+      "1_16_0": {
+        "name": "adastra-neoforge-1.20.4-1.16.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/uruBWpjy/adastra-neoforge-1.20.4-1.16.0.jar",
+        "sha512": "5bc60c774e96645993a7a7ce55ee0660b783fac1b0079e3ac6369f2b4980b182425b1ff97a940d65aff200ab7929150a6357217c31c17d61c9ac66b455ff2683"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "ad_astra-forge-1.20.1-1.15.20.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Qf7QFXk2/ad_astra-forge-1.20.1-1.15.20.jar",
+        "sha512": "c7337add217258cea0cb7d9f9136b5a7c8a17600bc2cc9c722321af838690b6c285628dcaebfccedb3e1274683591ef7a45a3514094e5a3bcd8fe1c1f25626bf"
+      },
+      "1_15_20": {
+        "name": "ad_astra-forge-1.20.1-1.15.20.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Qf7QFXk2/ad_astra-forge-1.20.1-1.15.20.jar",
+        "sha512": "c7337add217258cea0cb7d9f9136b5a7c8a17600bc2cc9c722321af838690b6c285628dcaebfccedb3e1274683591ef7a45a3514094e5a3bcd8fe1c1f25626bf"
+      },
+      "1_15_19": {
+        "name": "ad_astra-forge-1.20.1-1.15.19.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZXcgZ31q/ad_astra-forge-1.20.1-1.15.19.jar",
+        "sha512": "81e9aabe3e736d1ac1b5a6876ce7d561e04dcffa22c07284f1bcba51f76b184bb0c9d319855c70a69283de9f454997d5420aa92533adf7af85fc513abe837299"
+      },
+      "1_15_18": {
+        "name": "ad_astra-forge-1.20.1-1.15.18.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/WUGYX9Me/ad_astra-forge-1.20.1-1.15.18.jar",
+        "sha512": "be63d1e11b76edee3bdedcece4f09f11ab57c7c9705f0e079b46a972f30ffc0c883b791d284b07f17ea07ae82cde1dea305327fb51c18fd0892677fa405558b6"
+      },
+      "1_15_17": {
+        "name": "ad_astra-forge-1.20.1-1.15.17.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/kdVcIAfI/ad_astra-forge-1.20.1-1.15.17.jar",
+        "sha512": "b0f13c103b5ed82f73d91af099aec957f6d00b147fb7bafaae7870e4763e346926c94f5b9589cff12fa2ec0d5db3722b684c4576e2006890075fa3b44ac33611"
+      },
+      "1_15_16": {
+        "name": "ad_astra-forge-1.20.1-1.15.16.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/8gUJ1Pbs/ad_astra-forge-1.20.1-1.15.16.jar",
+        "sha512": "fc655e0f905c9fb884c61340a5bcf7b21da207692aa50e504d9037c87ed5291017058c44614972cecd350c5d1e3de38128362a24a96257edf3b9076b65f14dbc"
+      },
+      "1_15_15": {
+        "name": "ad_astra-forge-1.20.1-1.15.15.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/rkI8N0Wy/ad_astra-forge-1.20.1-1.15.15.jar",
+        "sha512": "7e6306f76f3417eba84d40e6e6e11124be76ff28ba8385508cfceb4d812de5cf5301386f4ada1c369ad6cc0220f903b43487d091253e2ea460114d6a47a1d2db"
+      },
+      "1_15_14": {
+        "name": "ad_astra-forge-1.20.1-1.15.14.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/sy9B3fUN/ad_astra-forge-1.20.1-1.15.14.jar",
+        "sha512": "cd113cabbb68be8822f23c8cb23fef170c024b75ab3efd8c1336e14ced32863b376cf0cacb771c2c36ba3e37ee64e26ed96abc5c4e64f3a98a012008c2bb5059"
+      },
+      "1_15_13": {
+        "name": "ad_astra-forge-1.20.1-1.15.13.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Cy91L9m1/ad_astra-forge-1.20.1-1.15.13.jar",
+        "sha512": "d051a09e7b9838054148647527b978b64700a0cf21a6fc34af7a6e188d3c34b0a177f4ab9c26d4fd3cc118c06321ac915bd2d9fca6d796c6e93a470b66aa72ff"
+      },
+      "1_15_12": {
+        "name": "ad_astra-forge-1.20.1-1.15.12.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/q6x9oTEW/ad_astra-forge-1.20.1-1.15.12.jar",
+        "sha512": "9d242510db8f5c4b9f3c2a09b032515b9b62e22bcfe5360274652906356b6527e2ef385e7d3072c6f4062fb386aefa7a4c4b2a46ebe07e604d61362ce79bcc58"
+      },
+      "1_15_11": {
+        "name": "ad_astra-forge-1.20.1-1.15.11.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/tJqXeG13/ad_astra-forge-1.20.1-1.15.11.jar",
+        "sha512": "069dc714f8b34b9405c975819a925d0332c12c58dcdddb484f92499fc43e12fd99f83724af87012bdf89a2a9a5eea80af619dc9b0fd269acf579be6f18508d24"
+      },
+      "1_15_10": {
+        "name": "ad_astra-forge-1.20.1-1.15.10.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZUVEpame/ad_astra-forge-1.20.1-1.15.10.jar",
+        "sha512": "d4e4d007dfba595b2b32d0f5aa0bc5a87b0e2d0121f061abb71ec6dd304605397f5e7c399c002792fc9efc8910483f837c8af9405a7aad51ccb9717a9757cef6"
+      },
+      "1_15_9": {
+        "name": "ad_astra-forge-1.20.1-1.15.9.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/H0mSLwF9/ad_astra-forge-1.20.1-1.15.9.jar",
+        "sha512": "526630d402f0759907f0f065676a85f63adfec48992d0139763b63567c231446b1733ea944707e8c0ff33cdd1b3b4997ca2f02621482981610e26c878bd2978b"
+      },
+      "1_15_8": {
+        "name": "ad_astra-forge-1.20.1-1.15.8.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/wYb71wQE/ad_astra-forge-1.20.1-1.15.8.jar",
+        "sha512": "d50b534ed4afc7f4a2681be5fe334e7930b073b360c826d8bebf65bb5f8cf16f00f1c2829c860e302a5e9b3770d9890770d4e0abec3e75471a768656cf76ff52"
+      },
+      "1_15_7": {
+        "name": "ad_astra-forge-1.20.1-1.15.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/VTfNmX00/ad_astra-forge-1.20.1-1.15.7.jar",
+        "sha512": "a9bc83f21209d65deabaf12f59d3b5e4b62b602a692755418f545d25193c3862f95cad6f2392914c53235ac42e892ffe8b4db76ec18c7278828e79dd717887a5"
+      },
+      "1_15_5": {
+        "name": "ad_astra-forge-1.20.1-1.15.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/6oFkQIqc/ad_astra-forge-1.20.1-1.15.5.jar",
+        "sha512": "99747d4f27e449fdf1c932299293a9155a51a8e78aa4bb34d7ae502e051ae88199f68cdd8910557159c7c030aa2ce4272381362d3f35a8c0863a9d91ee0fa1ee"
+      },
+      "1_15_4": {
+        "name": "ad_astra-forge-1.20.1-1.15.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/AUgYW5MG/ad_astra-forge-1.20.1-1.15.4.jar",
+        "sha512": "4eaea6d6e4699fb9c7a84a9c6207693780fa032a308e4fafd6d60b81e1e4f5782f35e2a2ae1bb4c924bd931a3c942126b94011ef09cc9c7a19cc63f69fa56d7f"
+      },
+      "1_15_3": {
+        "name": "ad_astra-forge-1.20.1-1.15.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/9rCTue8e/ad_astra-forge-1.20.1-1.15.3.jar",
+        "sha512": "9bd4f337af927332ee85e3efaf1722547377565c6dcb973f0f38b7fbcacce0ebf1307dab3e766621dd85d9ccef1149a8e18ff7d4dbb57e979abd25966f01b77b"
+      },
+      "1_15_2": {
+        "name": "ad_astra-forge-1.20.1-1.15.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/TA1s5rP6/ad_astra-forge-1.20.1-1.15.2.jar",
+        "sha512": "fe26fcda6301ad260ba0f8b4bfe2584ccb5b5460c0c9709126edac35a169e89f413beba4b89eba7073720685c44d721cc9459993c3a6b36a42e5d636f479f64a"
+      },
+      "1_15_1": {
+        "name": "ad_astra-forge-1.20.1-1.15.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/RohrE1G4/ad_astra-forge-1.20.1-1.15.1.jar",
+        "sha512": "6f81d9e5f6f6b9b193bd6ccf7712e9b935a3223ab3fc35870de41f1d42fc6ac776111f9838778326a5248100625439de33fcc1530c26e207eb1226e4d47d405e"
+      },
+      "1_15": {
+        "name": "ad_astra-forge-1.20-1.15.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/JM91Sn4b/ad_astra-forge-1.20-1.15.jar",
+        "sha512": "819d2cc436a115b4ee8f0de1d174fd9b2411246d144294c59381da95b0d0a70d97def162fb39e3dfa00d110b99131024dbee384f645e54805cc1fb293fc23ff0"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "ad_astra-forge-1.20.1-1.15.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/RohrE1G4/ad_astra-forge-1.20.1-1.15.1.jar",
+        "sha512": "6f81d9e5f6f6b9b193bd6ccf7712e9b935a3223ab3fc35870de41f1d42fc6ac776111f9838778326a5248100625439de33fcc1530c26e207eb1226e4d47d405e"
+      },
+      "1_15_1": {
+        "name": "ad_astra-forge-1.20.1-1.15.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/RohrE1G4/ad_astra-forge-1.20.1-1.15.1.jar",
+        "sha512": "6f81d9e5f6f6b9b193bd6ccf7712e9b935a3223ab3fc35870de41f1d42fc6ac776111f9838778326a5248100625439de33fcc1530c26e207eb1226e4d47d405e"
+      },
+      "1_15": {
+        "name": "ad_astra-forge-1.20-1.15.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/JM91Sn4b/ad_astra-forge-1.20-1.15.jar",
+        "sha512": "819d2cc436a115b4ee8f0de1d174fd9b2411246d144294c59381da95b0d0a70d97def162fb39e3dfa00d110b99131024dbee384f645e54805cc1fb293fc23ff0"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "ad_astra-forge-1.19.4-1.14.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/apaMnBDD/ad_astra-forge-1.19.4-1.14.1.jar",
+        "sha512": "85e3b6b5a131051ef67916c360864859ab5c62f1adadcff6abaa70f3af5cd4c78436920521d7d468d3d9bf331b78acd5d57bee931b74df0f2d628e3aa4de5d3d"
+      },
+      "1_14_1": {
+        "name": "ad_astra-forge-1.19.4-1.14.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/apaMnBDD/ad_astra-forge-1.19.4-1.14.1.jar",
+        "sha512": "85e3b6b5a131051ef67916c360864859ab5c62f1adadcff6abaa70f3af5cd4c78436920521d7d468d3d9bf331b78acd5d57bee931b74df0f2d628e3aa4de5d3d"
+      },
+      "1_14_0": {
+        "name": "ad_astra-forge-1.19.4-1.14.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/6bUDeqhI/ad_astra-forge-1.19.4-1.14.0.jar",
+        "sha512": "39d030f97fec48163ebbce43895a4bd13e01a21e1fbc6e751655d62da7dbf89a990861702c8ea6e78eb6e0292ac1e0c3e9fc428bc964b9a0a8fe9ae6e659d999"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "ad_astra-forge-1.19.3-1.13.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gM81Pe3g/ad_astra-forge-1.19.3-1.13.6.jar",
+        "sha512": "aab79c851c38eba8bc73b6cd39463b9d4898f5fd940acd24eee565b38270200414a3e97d45d92291541d66020790f09a6bd476a00a55d75017482fae7284fb98"
+      },
+      "1_13_6": {
+        "name": "ad_astra-forge-1.19.3-1.13.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gM81Pe3g/ad_astra-forge-1.19.3-1.13.6.jar",
+        "sha512": "aab79c851c38eba8bc73b6cd39463b9d4898f5fd940acd24eee565b38270200414a3e97d45d92291541d66020790f09a6bd476a00a55d75017482fae7284fb98"
+      },
+      "1_13_5": {
+        "name": "ad_astra-forge-1.19.3-1.13.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/nn3WaZMm/ad_astra-forge-1.19.3-1.13.5.jar",
+        "sha512": "5502b4d4fef015066b6ccb58a3d65cc078e2d62edb507b9fe92da8ebe85b28022f335ddb5e46686735f9463a74bb608be2cd67b1183fe435a515a2c93cb68b06"
+      },
+      "1_13_4": {
+        "name": "ad_astra-forge-1.19.3-1.13.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/y9kMFcxZ/ad_astra-forge-1.19.3-1.13.4.jar",
+        "sha512": "ac5c0dc71e762639bc4c75d707b1c17cb465e68c64b4b2c355f0d9847d97edf9f2eda28cd9946da5b84019381209d9ee457bd86e1d97bc13df1e8912470c775f"
+      },
+      "1_13_3": {
+        "name": "ad_astra-forge-1.19.3-1.13.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/TmYWWueC/ad_astra-forge-1.19.3-1.13.3.jar",
+        "sha512": "922ae154998b0db38172b13910effc838f8582e10d4a4bba901357723bf5331e3f5225f3ee272f9b1738b0cc799afe01eef145402737c84a682adba71bfb8643"
+      },
+      "1_13_2": {
+        "name": "ad_astra-forge-1.19.3-1.13.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/4z5fHbiT/ad_astra-forge-1.19.3-1.13.2.jar",
+        "sha512": "40b22bba17576d725f92bc2bc5c4cca14886bfb6c65d87376efed40d843b65cc2049ce2a39549988e3871704e8f8c54081f0c44c84e2c9d6bcdd631bafabd2bf"
+      },
+      "1_13_1": {
+        "name": "ad_astra-forge-1.19.3-1.13.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/mVO5JjEP/ad_astra-forge-1.19.3-1.13.1.jar",
+        "sha512": "d6bd296644fa6b46f4e0d843107e1c309e59a4d23f8f6f79c71060cb186636a12735afb6bec5c0f37a8532966b183f8eef0c97adf5093fe3a675eda7804cdd8a"
+      },
+      "1_13_0": {
+        "name": "ad_astra-forge-1.19.3-1.13.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/MqDuY0zd/ad_astra-forge-1.19.3-1.13.0.jar",
+        "sha512": "a9bbc8bb4f821d8643f6472e508207672b6d4733796bb9e86c6ed037a019bb6368078c8379086246d67bdec94bd4acaadc7a9e03d89a49a0e8aa1090e6844848"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "ad_astra-forge-1.19.2-1.12.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/jswyrySh/ad_astra-forge-1.19.2-1.12.7.jar",
+        "sha512": "f04f4b47d6799b7400f149b49dc0e5d8570e6a8a7bf530c898e09f7b8aec082ba775c298137ff15a2df8fcc8833427a9e9a786f1cc755d6b61f749a43d656ee2"
+      },
+      "1_12_7": {
+        "name": "ad_astra-forge-1.19.2-1.12.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/jswyrySh/ad_astra-forge-1.19.2-1.12.7.jar",
+        "sha512": "f04f4b47d6799b7400f149b49dc0e5d8570e6a8a7bf530c898e09f7b8aec082ba775c298137ff15a2df8fcc8833427a9e9a786f1cc755d6b61f749a43d656ee2"
+      },
+      "1_12_6": {
+        "name": "ad_astra-forge-1.19.2-1.12.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/lsWkbtEH/ad_astra-forge-1.19.2-1.12.6.jar",
+        "sha512": "f580e76c5b6e10cb8a772fa18c40c5bcd81ef9d48338acc41bf69ebd7bbad0f9194f343f60b7264a5fde95870a2af1b13ce077bb20851f73d957fce9e564570a"
+      },
+      "1_12_5": {
+        "name": "ad_astra-forge-1.19.2-1.12.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/QwkZZe7b/ad_astra-forge-1.19.2-1.12.5.jar",
+        "sha512": "c0facff66b3da2d3ef2615becfa144dccef8d2fa461fbee710dfe1f22d9d8175cade3d88f23f66d5b112d74fd6bf72245632accdd7b2624f44214c650dd39be8"
+      },
+      "1_12_4": {
+        "name": "ad_astra-forge-1.19.2-1.12.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/E9DBRAIT/ad_astra-forge-1.19.2-1.12.4.jar",
+        "sha512": "874f03acba8d2e9e47fc3ef92379e2ebfb08ef310dafdefa3f259aac42be146533bf6d9f3e23616fb756622e2f9871c5a38fc154c10772a8b1a2d1f2b441733d"
+      },
+      "1_12_3": {
+        "name": "ad_astra-forge-1.19.2-1.12.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/nNKKrHvH/ad_astra-forge-1.19.2-1.12.3.jar",
+        "sha512": "05e086e9c2e6ac5c0d58fedd5d18a637b514403694202ef7dada7a34cd889a56033586b21630f3e639912f9c8d5607a5066fb40b6ae9e3cde753ceab20e17371"
+      },
+      "1_12_2": {
+        "name": "ad_astra-forge-1.19.2-1.12.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/xjAHTBxF/ad_astra-forge-1.19.2-1.12.2.jar",
+        "sha512": "09694209a1d8d2df33ea71d25564ae90fb4ed27ab12a6a5bdd18ae1e20fe424b99b13b28e1b88beec245a00a1c4b49b1fb4020598c74380291ed67a3363f6861"
+      },
+      "1_12_1": {
+        "name": "ad_astra-forge-1.19.2-1.12.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/sH2Z1w7t/ad_astra-forge-1.19.2-1.12.1.jar",
+        "sha512": "9500b0bf004630af76d2319c389b985252bec4c8a12babeeb5b5f5e23b7a506319f06fdf026c51dd2b1ab2da4a498fc310de898664c69e828adc2ba4f0e306ed"
+      },
+      "1_12_0": {
+        "name": "ad_astra-forge-1.19.2-1.12.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/bWrhyxBs/ad_astra-forge-1.19.2-1.12.0.jar",
+        "sha512": "136e65e74881fc6adffe145847a98a70698b95d9858ebcb2b8e831a1bce07f712c9621f804a626d8e9879cc373639d9c5d074b57d04ae4a75f218cc9d13b82a6"
+      },
+      "1_11_9": {
+        "name": "ad_astra-forge-1.19.2-1.11.9.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/CT6oT5N6/ad_astra-forge-1.19.2-1.11.9.jar",
+        "sha512": "04fcc8520292cf393b46a75ed5b9a77bd9ab33b5fdafc9e924a77e006a0d1b95f206beb9af89837f63fa7e6e628bb89d7205adcfcad70ca5edab56f4ae93cbed"
+      },
+      "1_11_8": {
+        "name": "ad_astra-forge-1.19.2-1.11.8.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/mqonv1gZ/ad_astra-forge-1.19.2-1.11.8.jar",
+        "sha512": "a38f3348841c0888226b1a73a039300aac9f507f3d0fc9a24b6e995190708b93ad1cf6991a8f80c2f3d159c1a990ec9af026248611bf1b4f44c1c230c405349c"
+      },
+      "1_11_7": {
+        "name": "ad_astra-forge-1.19.2-1.11.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/euBX2spq/ad_astra-forge-1.19.2-1.11.7.jar",
+        "sha512": "8b20dde692478ed3ee64b0029d4ac1de2b117b2b6aa8e98a0319f5ff9ee54105460ee1ea9e3326215b5fb39f8a80a212136d1c4765ddde646e59a97d12ab34b8"
+      },
+      "1_11_6": {
+        "name": "ad_astra-forge-1.19.2-1.11.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/H35PWK5Y/ad_astra-forge-1.19.2-1.11.6.jar",
+        "sha512": "f5bef05230488db7f71b1aa28dfa2a8736f48756aeb555cb5874390ccc8f1982f9d9865925a7e147fc1d7c73b846ba6085af7185392196394cfa5fea4989bb0b"
+      },
+      "1_11_5": {
+        "name": "ad_astra-forge-1.19.2-1.11.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/I3cBSQZH/ad_astra-forge-1.19.2-1.11.5.jar",
+        "sha512": "c81055c2b6423ac43c288af6827a30fcf37df116bf926f971dbe01f4905c194baa32680aecff7a5891e58d403f81017fc77e1148b67a79da66d42da2816dee54"
+      },
+      "1_11_4": {
+        "name": "ad_astra-forge-1.19.2-1.11.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gcofsxt9/ad_astra-forge-1.19.2-1.11.4.jar",
+        "sha512": "3e219a34b88af0e6751d353f7498793e5aa2e4bd7753e2e0b2b0b51f8b87bd9f874f76f3f7f7f4ae2544c426ba54c8fe78ff3fb1232e25ddc954f5bf84582ee1"
+      },
+      "1_11_3-FORGE": {
+        "name": "ad_astra-1.11.3-forge.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/zlbE6Kdi/ad_astra-1.11.3-forge.jar",
+        "sha512": "8699b12586bbee9b5780e2d87e1dc95e9df0d8ae74fbff454d4bb282006db8fc53384b41350bc7052e7f17b97ae74fbebdffccdd16dac849203b87f416cea4d9"
+      },
+      "1_11_2-FORGE": {
+        "name": "ad_astra-1.11.2-forge.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/tOjHdzUN/ad_astra-1.11.2-forge.jar",
+        "sha512": "2439b6cb58d686b027409316e92c2b482f5af0fbb07fd6ae50a4c197e25cee20fa18c0ac25d631567e62182abe2f52a94926b4371d379c4ef3dd9d27e026f0b7"
+      },
+      "1_11_1-FORGE": {
+        "name": "ad_astra-1.11.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/7hefnmc3/ad_astra-1.11.1-forge.jar",
+        "sha512": "a46f2601fb00d0ba21772417c415af0ad6a6627e2fa42155e5e669d2e2086cf8f19741ef99fbedcb679859c10154aa237a98502a64ee9ecfca0083bb2ceec23d"
+      },
+      "1_11-FORGE": {
+        "name": "ad_astra-1.11-forge.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/m4m4CDqy/ad_astra-1.11-forge.jar",
+        "sha512": "7d48a5bbcb5728c3a807f42832665dd2f3fc383edf9abf1b440efe4cc31e99c24ede049e2b6a880001dc7bbe06a72707015ffa3f1d9eedd1e186eb451a68fff6"
+      },
+      "1_10-FORGE": {
+        "name": "ad_astra-1.10-forge.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/xiV8O2n8/ad_astra-1.10-forge.jar",
+        "sha512": "0735eab86e2752f8de054ea1dc9db39b3d1a42dea6e1ae5e6b0495c94381032a40574847ca697a09d0390c0f88e2a8d7f81bfdb52ab4d5371c23e90807a88b93"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_4": {
+      "latest": {
+        "name": "adastra-fabric-1.20.4-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/8jKAHcdv/adastra-fabric-1.20.4-1.16.5.jar",
+        "sha512": "56ff1ce8426288ad4406355767f63f2abc9a2b5125d1afc1e03fa0441aeb5cb6d038e2fd15a9c51d142a1d24996b4aba954dc8282e840f46850f849d707e303c"
+      },
+      "1_16_5": {
+        "name": "adastra-fabric-1.20.4-1.16.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/8jKAHcdv/adastra-fabric-1.20.4-1.16.5.jar",
+        "sha512": "56ff1ce8426288ad4406355767f63f2abc9a2b5125d1afc1e03fa0441aeb5cb6d038e2fd15a9c51d142a1d24996b4aba954dc8282e840f46850f849d707e303c"
+      },
+      "1_16_4": {
+        "name": "adastra-fabric-1.20.4-1.16.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/vWVBPn99/adastra-fabric-1.20.4-1.16.4.jar",
+        "sha512": "0c6dd6551f193a27c7b946fa313f30ec72264c9cf9c693af274548a95c337641ea8cdadee472d6be6f14e3eafe4a4275409f43090d660a576c4f1085c0d8d703"
+      },
+      "1_16_3": {
+        "name": "adastra-fabric-1.20.4-1.16.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/pQV7Fl7z/adastra-fabric-1.20.4-1.16.3.jar",
+        "sha512": "48cba84e4a129b876b4a5aa682c24ecb951a9123602f66cabdb0e6fdf14960f37e94d6fde373c6b73ff9eb61e2c8f7d7c194c5db36165f32ed9a9732efb750ee"
+      },
+      "1_16_2": {
+        "name": "adastra-fabric-1.20.4-1.16.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/3NC88P03/adastra-fabric-1.20.4-1.16.2.jar",
+        "sha512": "3bbafef65c491209613fcf3ff0655815ba96cc5b60f8774843ae1e4056162a25713aed697169dd2674f7d8013934057d492d3ae09315cce128055a5797748f1f"
+      },
+      "1_16_1": {
+        "name": "adastra-fabric-1.20.4-1.16.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/kbi2bVzx/adastra-fabric-1.20.4-1.16.1.jar",
+        "sha512": "cb2f8717185615e520e974fe7d21c010713c89bd035e35580e89b9f0af28501e9ae659c0721897b98bf05f8660f4f154eb8c4ce1deda1ddf7f5fdbe0e1fe9538"
+      },
+      "1_16_0": {
+        "name": "adastra-fabric-1.20.4-1.16.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/glkWYMcN/adastra-fabric-1.20.4-1.16.0.jar",
+        "sha512": "78518e2e3b6191453017e7a3d73e0af0518cddb0f9c4367ebc5c0d32239479411762a990d2d017224a7e4662669087ddfb7a7eadb22ca1665546223c57dec550"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "ad_astra-fabric-1.20.1-1.15.20.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gZClwdxY/ad_astra-fabric-1.20.1-1.15.20.jar",
+        "sha512": "5d5b5e8cc24cc5a255a701139bec1f4ab289f790d5e2935a5921f7748a5de2860a238900b3fcb6f27cc4fcf7754464be70ac412b3bc195256686378a99bd0b57"
+      },
+      "1_15_20": {
+        "name": "ad_astra-fabric-1.20.1-1.15.20.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gZClwdxY/ad_astra-fabric-1.20.1-1.15.20.jar",
+        "sha512": "5d5b5e8cc24cc5a255a701139bec1f4ab289f790d5e2935a5921f7748a5de2860a238900b3fcb6f27cc4fcf7754464be70ac412b3bc195256686378a99bd0b57"
+      },
+      "1_15_19": {
+        "name": "ad_astra-fabric-1.20.1-1.15.19.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Xtm1uo8F/ad_astra-fabric-1.20.1-1.15.19.jar",
+        "sha512": "3f9eb5857c7a0a078abc11e53627669ccc9eb23177c64b1e5741c6cf2268bd50c9f979a92d746bcd394f7a961c8b9ba346a3ea4452e87ed3583053d2bfcae5cd"
+      },
+      "1_15_18": {
+        "name": "ad_astra-fabric-1.20.1-1.15.18.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/MxqFxL9C/ad_astra-fabric-1.20.1-1.15.18.jar",
+        "sha512": "40bfd6b1d9a1067490088707d2c1dceb497643d0f638990f141e61c4503368fff5c2ad39907c312a928f60700c76d0f5f9518ef6e72173bc947df36ed486ddab"
+      },
+      "1_15_17": {
+        "name": "ad_astra-fabric-1.20.1-1.15.17.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/7Bm3XJNX/ad_astra-fabric-1.20.1-1.15.17.jar",
+        "sha512": "52b62edc512d554ef3176a2160a85d66ded776a87b57a4106d84ebe91648f6b3994b506fa45b1c642cca226ab5121d38482abbb5a7ae085c3f9e0332aa525d2e"
+      },
+      "1_15_16": {
+        "name": "ad_astra-fabric-1.20.1-1.15.16.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/6yGNZ8l5/ad_astra-fabric-1.20.1-1.15.16.jar",
+        "sha512": "0a565c66048ffb1d87d97102c8931f726fb4bbfd22fb7a3253e89e41eca5a1eafd69ba5e1affd475ef9186f819ef8db753a3c926658178ce4d864791068a9909"
+      },
+      "1_15_15": {
+        "name": "ad_astra-fabric-1.20.1-1.15.15.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/fQu5UOld/ad_astra-fabric-1.20.1-1.15.15.jar",
+        "sha512": "5b8a520bb752e5d591c76bcb4ea4134ec5d85b92cb2f1d4b36023f7e9f256e0b2438ad08ec71acf2886c63436747460b163c859d3fa45fa88faa1bfb7cd31270"
+      },
+      "1_15_14": {
+        "name": "ad_astra-fabric-1.20.1-1.15.14.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/mgzejQOj/ad_astra-fabric-1.20.1-1.15.14.jar",
+        "sha512": "01863127ffe629c8df8276b5f7eb292fe0639dbf9529ed9414d6f36d94a3e16f9e8a890cdaa98f206d1b2cba481ced5ce53d01c107ea3e616c943c967d946575"
+      },
+      "1_15_13": {
+        "name": "ad_astra-fabric-1.20.1-1.15.13.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/GtYvEYcD/ad_astra-fabric-1.20.1-1.15.13.jar",
+        "sha512": "54f9dbae1dc33c7943c8397514e262a2fbed45546b932e24c3ebc4a668c7bdf620768673d73cf449022c64c5048b189eac192573d4fbeda435c7a98f2fd55f48"
+      },
+      "1_15_12": {
+        "name": "ad_astra-fabric-1.20.1-1.15.12.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/VxrayLlt/ad_astra-fabric-1.20.1-1.15.12.jar",
+        "sha512": "b2090ad3537afa7f644edc647090e036a1185792322745c26f77c0a4c0b844796c08e46adce4cdafee9727057837f96abddb8799562cae64940b41ed68eb198b"
+      },
+      "1_15_11": {
+        "name": "ad_astra-fabric-1.20.1-1.15.11.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/F0U2KOaJ/ad_astra-fabric-1.20.1-1.15.11.jar",
+        "sha512": "d94c1bcda17cd825e378bd353c34c5f108a53ac1dc4945bc17de812f7b4e4eda679bdf0f61fcb20b975407081826e0ad83a35d2ae65a113f27fc9f571df463e2"
+      },
+      "1_15_10": {
+        "name": "ad_astra-fabric-1.20.1-1.15.10.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/80ZASnFF/ad_astra-fabric-1.20.1-1.15.10.jar",
+        "sha512": "88e7c204aef47ab64ff91cb6baa510a79192d513d81cfbba06770f55266d9229b8ee565b609f017a83c4158c09fbd11dbe45b7c550ddf9ab15d0d08a757aa9c2"
+      },
+      "1_15_9": {
+        "name": "ad_astra-fabric-1.20.1-1.15.9.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/sTVtTOWk/ad_astra-fabric-1.20.1-1.15.9.jar",
+        "sha512": "f555c8d2049a4d3b036f2271df4c5442ca867bd488b8be9d08ab7c84d2f11858485ec284db623236524e9b1d8a7637a61090502fb228ec46eca46f72350dc49f"
+      },
+      "1_15_8": {
+        "name": "ad_astra-fabric-1.20.1-1.15.8.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/UKU6f8pz/ad_astra-fabric-1.20.1-1.15.8.jar",
+        "sha512": "d19bed31bef3338d6adc2e007e5432955a412cbe53b020244e899fdeb6aa310966c492faf834337acfbfccc2c191f5ec93ba9a1c20b8a4d504fe81655c449e5c"
+      },
+      "1_15_7": {
+        "name": "ad_astra-fabric-1.20.1-1.15.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/HdDxTL4A/ad_astra-fabric-1.20.1-1.15.7.jar",
+        "sha512": "71a909fa9aeac9ea333f6c696dbd4e1a30af89d57480524b5ba681bf65b6be9f77a495c7e6bf73cc4a66cbf3c49850a0f1d27e949ab1d5840ed674511912cc54"
+      },
+      "1_15_5": {
+        "name": "ad_astra-fabric-1.20.1-1.15.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/QzjRLT8e/ad_astra-fabric-1.20.1-1.15.5.jar",
+        "sha512": "dfac0285511881cbfe6b059704a7575accbd23cc2f14c4fb6124b3a63461c195cb0a8c0b3369ced236540424edace25ab9a8f198b06b1e63ce3df1382a24df96"
+      },
+      "1_15_4": {
+        "name": "ad_astra-fabric-1.20.1-1.15.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/DruFc2hK/ad_astra-fabric-1.20.1-1.15.4.jar",
+        "sha512": "a14a074cc2b47a839d1009a8c7ebf687f0072c907e93be3d916ee722f5166a32082731964b36cc8d5e912f6ec4ed859b0720c5928eb0f65107fa1b189d96fcff"
+      },
+      "1_15_3": {
+        "name": "ad_astra-fabric-1.20.1-1.15.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/IfdLtruQ/ad_astra-fabric-1.20.1-1.15.3.jar",
+        "sha512": "10304620b95555e7a4c60e3959d96a83ccf48a2cce4819de4af4eb45815d152256e4f8c2fe3009da69c84ab27964eeb404574bf31afa3c86fdec5fe60802ba62"
+      },
+      "1_15_2": {
+        "name": "ad_astra-fabric-1.20.1-1.15.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ScU88U8s/ad_astra-fabric-1.20.1-1.15.2.jar",
+        "sha512": "caf9e14b5513f940c9e16364735d113ee7ea4f4bab27d65b90db71b0c66cd1816a68f60ba08756746952a40b097cfad00e040cf7e5116e7e6268c481375ab844"
+      },
+      "1_15_1": {
+        "name": "ad_astra-fabric-1.20.1-1.15.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZKEZUh2e/ad_astra-fabric-1.20.1-1.15.1.jar",
+        "sha512": "c811a404a72e2f2a4bff67cd2e4c45187c1c75fa156ce99bc6ef4b5f6dc7848125000f8da097b0cee4dbe887f3ed330c5a42b89c3844b7a3b06c33ba689a8e95"
+      },
+      "1_15": {
+        "name": "ad_astra-fabric-1.20-1.15.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/bUcnEPYc/ad_astra-fabric-1.20-1.15.jar",
+        "sha512": "035df53788bcb9e0e2f079d636b0fa6e2dfa904fff2e83b79a24f0ba142d9f1915b8ac32f7b748c5cfbaf6465a328019ba94ee6086516b20603e026a6114abf9"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "ad_astra-fabric-1.20.1-1.15.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZKEZUh2e/ad_astra-fabric-1.20.1-1.15.1.jar",
+        "sha512": "c811a404a72e2f2a4bff67cd2e4c45187c1c75fa156ce99bc6ef4b5f6dc7848125000f8da097b0cee4dbe887f3ed330c5a42b89c3844b7a3b06c33ba689a8e95"
+      },
+      "1_15_1": {
+        "name": "ad_astra-fabric-1.20.1-1.15.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZKEZUh2e/ad_astra-fabric-1.20.1-1.15.1.jar",
+        "sha512": "c811a404a72e2f2a4bff67cd2e4c45187c1c75fa156ce99bc6ef4b5f6dc7848125000f8da097b0cee4dbe887f3ed330c5a42b89c3844b7a3b06c33ba689a8e95"
+      },
+      "1_15": {
+        "name": "ad_astra-fabric-1.20-1.15.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/bUcnEPYc/ad_astra-fabric-1.20-1.15.jar",
+        "sha512": "035df53788bcb9e0e2f079d636b0fa6e2dfa904fff2e83b79a24f0ba142d9f1915b8ac32f7b748c5cfbaf6465a328019ba94ee6086516b20603e026a6114abf9"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "ad_astra-fabric-1.19.4-1.14.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/AEOl4qWM/ad_astra-fabric-1.19.4-1.14.1.jar",
+        "sha512": "98a868fbd944a5e9fbda25cf97f9bfd98a3599264c446c2ac63cbcfead4854cf887a7a58a632fee8381a6885667190277afc80c4f1fffe7580ce34b39ac89004"
+      },
+      "1_14_1": {
+        "name": "ad_astra-fabric-1.19.4-1.14.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/AEOl4qWM/ad_astra-fabric-1.19.4-1.14.1.jar",
+        "sha512": "98a868fbd944a5e9fbda25cf97f9bfd98a3599264c446c2ac63cbcfead4854cf887a7a58a632fee8381a6885667190277afc80c4f1fffe7580ce34b39ac89004"
+      },
+      "1_14_0": {
+        "name": "ad_astra-fabric-1.19.4-1.14.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/PKV3freY/ad_astra-fabric-1.19.4-1.14.0.jar",
+        "sha512": "ab254c856ad9d21bb1a493ce9d7e348be4bf2e3eb980063c9b52d72af60140f054865234b3eb51ac88af8f32c09de0f8d17756e82f5a26a2a5285959eea98423"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "ad_astra-fabric-1.19.3-1.13.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/GVf0Dxrn/ad_astra-fabric-1.19.3-1.13.6.jar",
+        "sha512": "32627fa64c5cb8b3019aac68880f9c8f7e6c869bffa5c72f9fe7f7be3a4a5b7dcb264e82dde1a9ae27e4a55e44d5caa8e7871a10d15153954086db58230edb69"
+      },
+      "1_13_6": {
+        "name": "ad_astra-fabric-1.19.3-1.13.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/GVf0Dxrn/ad_astra-fabric-1.19.3-1.13.6.jar",
+        "sha512": "32627fa64c5cb8b3019aac68880f9c8f7e6c869bffa5c72f9fe7f7be3a4a5b7dcb264e82dde1a9ae27e4a55e44d5caa8e7871a10d15153954086db58230edb69"
+      },
+      "1_13_5": {
+        "name": "ad_astra-fabric-1.19.3-1.13.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/d0pgjYp4/ad_astra-fabric-1.19.3-1.13.5.jar",
+        "sha512": "3aa0e3ee2bddcf01f658cdfb67f8c866156dd8edc1a3480ccba63d0f85fe71b98cfc8a06fcf5ba4e57b97260f000d41afb7c1c1ae097451daf302b50d83d3c0a"
+      },
+      "1_13_4": {
+        "name": "ad_astra-fabric-1.19.3-1.13.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/kqYofdSU/ad_astra-fabric-1.19.3-1.13.4.jar",
+        "sha512": "0cf490a1a38783ca11a2753133dcf62a5aad190056cd30cb5bb53acff9eb5b1b801693ad5361f44e557308c80cf06f1064d16b02011c4ef25c1b4299f275da67"
+      },
+      "1_13_3": {
+        "name": "ad_astra-fabric-1.19.3-1.13.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/wIHj6TIK/ad_astra-fabric-1.19.3-1.13.3.jar",
+        "sha512": "6105d7dd85557cf7e17d729ab0aa0b218df645f5a2b6dd7c8a84ce7cf2ea95af7f84ab2c707b63521ff89ff834202d3eb141b7b772a8befdd5d53f4a871b787a"
+      },
+      "1_13_2": {
+        "name": "ad_astra-fabric-1.19.3-1.13.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/wpCnfHJi/ad_astra-fabric-1.19.3-1.13.2.jar",
+        "sha512": "84f51636f627fc174796077eb1995220e7b1d460b880dae7e1701dc21922b096c0c5f27fb0519bdffb76ae6ddcb3add629b1ed6c86ede621ab9643dbea51b26a"
+      },
+      "1_13_1": {
+        "name": "ad_astra-fabric-1.19.3-1.13.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/BP01H1fl/ad_astra-fabric-1.19.3-1.13.1.jar",
+        "sha512": "1482180ace5fe0ec27947391813f8bde29481516129ff59a2eaf291ee646acf3a4a013cb9c496637743b58eb193130fd0b1e0c22acdfbb4313856f8e0653e218"
+      },
+      "1_13_0": {
+        "name": "ad_astra-fabric-1.19.3-1.13.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/uaV4AIKA/ad_astra-fabric-1.19.3-1.13.0.jar",
+        "sha512": "23f053da6ef9c191563d92c2c04b28dfb0443befffd29c68d4f6128450557aa7ca4dca6fb02bd6521e9d594b13454a6397fe58b1e97e115ba8447f03f62d4c4a"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "ad_astra-fabric-1.19.2-1.12.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/zXU0zDes/ad_astra-fabric-1.19.2-1.12.7.jar",
+        "sha512": "ac1ef85661451e48622a51419a736d7b28bcfaa98deb48a0d696ace414228ba9d7320b01837b34ac47c98bac8bdf9bf98ab77098cdd1ee13881e455c62416545"
+      },
+      "1_12_7": {
+        "name": "ad_astra-fabric-1.19.2-1.12.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/zXU0zDes/ad_astra-fabric-1.19.2-1.12.7.jar",
+        "sha512": "ac1ef85661451e48622a51419a736d7b28bcfaa98deb48a0d696ace414228ba9d7320b01837b34ac47c98bac8bdf9bf98ab77098cdd1ee13881e455c62416545"
+      },
+      "1_12_6": {
+        "name": "ad_astra-fabric-1.19.2-1.12.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/8WPZ1i4p/ad_astra-fabric-1.19.2-1.12.6.jar",
+        "sha512": "88aebcf19e23bd4e1fa1294c903981737c324d21fe45f89e19fca128f95b222f69780c2fb3ff81155824ec5ac241c06251a6f4e0d53e803b00f6104f0c03305b"
+      },
+      "1_12_5": {
+        "name": "ad_astra-fabric-1.19.2-1.12.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/b6EvGqdw/ad_astra-fabric-1.19.2-1.12.5.jar",
+        "sha512": "375f87eae5e1052b29a9e6e30de2195e48888a66333fd7a22a2619f0dfe8891cecbb15be2da71167412aeb01ae64e266204e3dd0e00ef32a17a97b0d63903261"
+      },
+      "1_12_4": {
+        "name": "ad_astra-fabric-1.19.2-1.12.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ivXGCoYc/ad_astra-fabric-1.19.2-1.12.4.jar",
+        "sha512": "3ea12ea5da51a2c53fcc3e3587c63e1b0d90a1cd9f21783abc17ba80f124ea3ce9a52ef3909b55341d8bd528f1cc66f2046e65d73d1d495eb883d68a6e08c9e0"
+      },
+      "1_12_3": {
+        "name": "ad_astra-fabric-1.19.2-1.12.3.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/pwTMzOhq/ad_astra-fabric-1.19.2-1.12.3.jar",
+        "sha512": "6f6208eba14cbdc122a22c58256efa5fe92a9834a7d0a30b6cccd1d7a65cf5eff5c0c8acb7c80d0cb47418f79ba5cf6e15828901d4178127d77b9c832e4d3252"
+      },
+      "1_12_2": {
+        "name": "ad_astra-fabric-1.19.2-1.12.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/OoGkna2J/ad_astra-fabric-1.19.2-1.12.2.jar",
+        "sha512": "9a94ed3dec701ee3c09f6b6bfb0e96276f1d35a5bafd49c9925656a26b701f5bdf9f31568e6e0fa48283251da38f85f02e0c365324e7a7309c111d2b85ddc89b"
+      },
+      "1_12_1": {
+        "name": "ad_astra-fabric-1.19.2-1.12.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/WHj5U8rh/ad_astra-fabric-1.19.2-1.12.1.jar",
+        "sha512": "bc4005d042b8e0f149fbf9fc0ee66ea5a114667f37e8a57be81198190002ba46fed3cab09b3f2c6dc4480f0d522acff1168f176d8afacd6c27bb2a861e69b39b"
+      },
+      "1_12_0": {
+        "name": "ad_astra-fabric-1.19.2-1.12.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/utSjX4oy/ad_astra-fabric-1.19.2-1.12.0.jar",
+        "sha512": "8fbae70c11e2c3f270fe862525628513589926f21a25030dfa4c6c9a315458ba54b0f80eb1ebce785220046ec6a54b7602fa191ae7160a4aae3679ba5cc6322f"
+      },
+      "1_11_9": {
+        "name": "ad_astra-fabric-1.19.2-1.11.9.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/jfMTwiRc/ad_astra-fabric-1.19.2-1.11.9.jar",
+        "sha512": "cb699b9568029f84734fa33df97cd9592576c417b6e60ba8ea94b3e9a4395b580e941492a01c0bda70de994a5c8c959ea420f46f7895719584d133432c1775be"
+      },
+      "1_11_8": {
+        "name": "ad_astra-fabric-1.19.2-1.11.8.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/MbvFLPDw/ad_astra-fabric-1.19.2-1.11.8.jar",
+        "sha512": "511b59f9993529383be676ce06ce19f405d4272f3ae3fc545215866c9247d4afa0bab0aabf39475e06fddd251e280ee6184cfc1ffe7247743a25e93a899ebfeb"
+      },
+      "1_11_7": {
+        "name": "ad_astra-fabric-1.19.2-1.11.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/zwTZFWaN/ad_astra-fabric-1.19.2-1.11.7.jar",
+        "sha512": "296a0fbf027bb220a2d6b20430130cbc6eb71d79d10196ffe3130b7a41079564df62df7ac3ff42d21beb7356cfd352b94e79249652cff385d8a8ebbd2ea5677b"
+      },
+      "1_11_6": {
+        "name": "ad_astra-fabric-1.19.2-1.11.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/Zq6gLFLU/ad_astra-fabric-1.19.2-1.11.6.jar",
+        "sha512": "f523afc46edf4d842eb2189f98dfbef35f69c91951d357fc48517fd5cc5d92dd61de5650d1a801aa49e4ad8d6089477732063559977d7abcff3d8b90f686c30f"
+      },
+      "1_11_5": {
+        "name": "ad_astra-fabric-1.19.2-1.11.5.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/vYg6grVl/ad_astra-fabric-1.19.2-1.11.5.jar",
+        "sha512": "3c59783d7b61fb8bf2c54f022cdaf7f94b11db67596aa140b34bd3925b9b58a9ff83e43975c212b740ca5a5ce2db4cc3c43a9e80d9cbf63eeb9d8e42cde8cd01"
+      },
+      "1_11_4": {
+        "name": "ad_astra-fabric-1.19.2-1.11.4.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/ssqEbfB6/ad_astra-fabric-1.19.2-1.11.4.jar",
+        "sha512": "ab5f22db718f4b5eb995688087187e7ed5e79d875e7f7017a031b6c93f124f67b31c02a93c01df625d6318ddad69f7c7008483c65730ba3236b9cedf6bdf7d9d"
+      },
+      "1_11_3-FABRIC": {
+        "name": "ad_astra-1.11.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/IDME4AA4/ad_astra-1.11.3-fabric.jar",
+        "sha512": "46db7833a99dd8e686e4f090b29dcc6cc0d21d65fa2d5b50b106058fb7b716dcd6a03b4838a08bdf45905c1b005f27f9b5cb43860b10c5debfe048a63005a5c4"
+      },
+      "1_11_2-FABRIC": {
+        "name": "ad_astra-1.11.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/oWfcn1z0/ad_astra-1.11.2-fabric.jar",
+        "sha512": "896adbf2a00e1030085ca4557d07f10f5fc0a865dd65385b2cc82284898178a17720d1c124228f533c5580c509a7616fc52e1a59cd8126280fe772c3d2cc9a84"
+      },
+      "1_11-FABRIC": {
+        "name": "ad_astra-1.11-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/jqvmkZYG/ad_astra-1.11-fabric.jar",
+        "sha512": "8f89a435b855c219f0236c2706deb5d5a96605cba75cf53d5eba3fa85c8a07581a81dd20721fc57e51cbdd84b62c5e06e1513eba41c03221ed1212f456269ac7"
+      },
+      "1_10-FABRIC": {
+        "name": "ad_astra-1.10-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/J3U3uIby/ad_astra-1.10-fabric.jar",
+        "sha512": "3159450df2606c949acbdbfb3f25e88f25ce01098dad0bc6a97ad5bfab67195c9d365e1d46521a91156f26c66d1c20701885890ebf2d0c34bdeb89b831be4a43"
+      },
+      "1_0_3": {
+        "name": "ad-astra-1.0.3-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/OoVaj9um/ad-astra-1.0.3-1.19.2.jar",
+        "sha512": "dd1179079a00644f85b1a66d2657a80e300c93d22bfa204efb036ba20f509d9fa212d1fa5d6b2399d2cd4a389178d65fc6abbb2260b1a092bf7773978826a154"
+      },
+      "1_0_2": {
+        "name": "ad-astra-1.0.2-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/fG52dOcS/ad-astra-1.0.2-1.19.2.jar",
+        "sha512": "745ae9f80bdf2306fb006a132aa50222f0e042549ed2179e2803b05898218115cbc59ba305775c57fb1c6e12efe3e5d8d60feb6a41b26d7641422217f00f2647"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "-ad_astra-fabric-1.18.2-1.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/TQ4C1n5D/%20ad_astra-fabric-1.18.2-1.0.9.jar",
+        "sha512": "2c266fe6727db698d03cbba39f9cc2af10484bdbf303e558f776fedfb31dafe96fd70dddf57ac8fd460fa08eddabef44f77c02bfe6dda66218645b4b88d328a0"
+      },
+      "1_0_9": {
+        "name": "-ad_astra-fabric-1.18.2-1.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/TQ4C1n5D/%20ad_astra-fabric-1.18.2-1.0.9.jar",
+        "sha512": "2c266fe6727db698d03cbba39f9cc2af10484bdbf303e558f776fedfb31dafe96fd70dddf57ac8fd460fa08eddabef44f77c02bfe6dda66218645b4b88d328a0"
+      },
+      "1_0_8": {
+        "name": "-ad_astra-fabric-1.18.2-1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/4LDV3zx8/%20ad_astra-fabric-1.18.2-1.0.8.jar",
+        "sha512": "8072c3566cd072fc256b037cdea040ce554bdacabfdd009bdcec9bd950902c70168a676e4baa265651b9788d843a307c28172cc02f720ab81276f3029ca6fbdd"
+      },
+      "1_0_7": {
+        "name": "-ad_astra-fabric-1.18.2-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/QfGTTKEm/%20ad_astra-fabric-1.18.2-1.0.7.jar",
+        "sha512": "f66804fc494da517856a1e3047c586805d4dbcb222f7462bb9502317133f04978da0fde412924fe35b214c043dfe1e2ae570a438dd8f8894aea7f9317bdc1972"
+      },
+      "1_0_6": {
+        "name": "-ad_astra-fabric-1.18.2-1.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/S4zZGF0X/%20ad_astra-fabric-1.18.2-1.0.6.jar",
+        "sha512": "da3e594a6321b1342d408f58f67f8c1996f40e8ce5f8bc6276ef27cd4dfb774bb8d21464e34375b90403e7bdc762b70c30cf52477547c5540160de2467afee39"
+      },
+      "1_0_5": {
+        "name": "ad-astra-1.0.5-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gAbBtEnb/ad-astra-1.0.5-1.18.2.jar",
+        "sha512": "faf3f6c951c649912472cadcd9ce365eb9bd89bba9e9bc07d4c99d866ff5cf97f31dc45fa96f8f2825e07c71764409bf87865dff672bf1ba9dbae7ff0b11c400"
+      },
+      "1_0_3": {
+        "name": "ad-astra-1.0.3-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/fzC9pnwK/ad-astra-1.0.3-1.18.2.jar",
+        "sha512": "11228139cfc7218391bf8c1e96a3520a9d38da958ce38cb4cb80d17fcd97df55d32096791671ce55d46161bc1d408ed5660f8ca85957ba299d9cd3769e777e49"
+      },
+      "1_0_2": {
+        "name": "ad-astra-1.0.2-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/gSh656wW/ad-astra-1.0.2-1.18.2.jar",
+        "sha512": "63137fa460f99034e0a08dc69687ff3119a40b088c94d0c02d6f3c788bdf1491ba339e1375f3ca99be35f56b931984772bbb3a477e95f19a6123bf9953b404d5"
+      },
+      "1_0_1": {
+        "name": "ad-astra-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/1jF2Fajp/ad-astra-1.0.1.jar",
+        "sha512": "36d8ae2967e851235660b2bfab4ca117771c0a9cac970a932d1eec4e72d3cb3a2311a9a2ab4da6e8423b5d1cdacf47622e41ca7b23989557ff1bcfc6063a3831"
+      },
+      "1_0_0": {
+        "name": "ad-astra-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/1.0.5/ad-astra-1.0.0.jar",
+        "sha512": "f4f08d07aafe17a89233b15cc4fb9c0372b224b82cb02cf1ed31259ad28f9815c82ab0cd153c32f1ed70720ecec88b397de28b590c9fe2751140164aab391ef6"
+      }
+    }
+  }
+}
