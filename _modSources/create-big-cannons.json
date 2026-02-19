@@ -2,9 +2,14 @@
   "quilt": {
     "1_20_1": {
       "latest": {
-        "name": "createbigcannons-5.10.2+mc.1.20.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/nUn5DSGP/createbigcannons-5.10.2%2Bmc.1.20.1-fabric.jar",
-        "sha512": "1b68cd84d2cc81bb8f8d6b805314f629142e75ed3f47de86ba38755795efb433c8680a680847c4118fb7c7cca4e182b98004b358ec15b964eb24ac41c1829c18"
+        "name": "createbigcannons-5.11.0+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/qJl2Po26/createbigcannons-5.11.0%2Bmc.1.20.1-fabric.jar",
+        "sha512": "fa66890b38f918b2e6528b4847d91b5c598e0f80049054a87098c923bd12efd8f5078321f5fd76503327d2d13c916de6ba9c60e31a0c934ee3fc8806828a7d7c"
+      },
+      "5_11_0": {
+        "name": "createbigcannons-5.11.0+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/qJl2Po26/createbigcannons-5.11.0%2Bmc.1.20.1-fabric.jar",
+        "sha512": "fa66890b38f918b2e6528b4847d91b5c598e0f80049054a87098c923bd12efd8f5078321f5fd76503327d2d13c916de6ba9c60e31a0c934ee3fc8806828a7d7c"
       },
       "5_10_2": {
         "name": "createbigcannons-5.10.2+mc.1.20.1-fabric.jar",
@@ -173,11 +178,28 @@
     }
   },
   "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "createbigcannons-5.11.0+mc.1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/zlTofxh2/createbigcannons-5.11.0%2Bmc.1.21.1.jar",
+        "sha512": "a7d54235cbcaba037ffeb001dae0e40b06ee758fdab3cb6785624ca87485507b649d35f49c619e2f7ecb6feb658332229f660a797862daf2edb0fd740b608117"
+      },
+      "5_11_0": {
+        "name": "createbigcannons-5.11.0+mc.1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/zlTofxh2/createbigcannons-5.11.0%2Bmc.1.21.1.jar",
+        "sha512": "a7d54235cbcaba037ffeb001dae0e40b06ee758fdab3cb6785624ca87485507b649d35f49c619e2f7ecb6feb658332229f660a797862daf2edb0fd740b608117"
+      }
+    },
     "1_20_1": {
       "latest": {
-        "name": "createbigcannons-5.10.2+mc.1.20.1-forge.jar",
-        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/c88KycHt/createbigcannons-5.10.2%2Bmc.1.20.1-forge.jar",
-        "sha512": "b7a3fbedbfa0116dd8f5fee7bd0fb8022ccd46e2caff2192efd399dcf55d45da5377f14c86df961ddcca3a15a0b59030fec3ae6f8b9799b9f052d3252b506056"
+        "name": "createbigcannons-5.11.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/eX6LUZEA/createbigcannons-5.11.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "510bcb42fccfa402b5fbe142409c6230867418a5b199907e2022b7de35a246bfc9906879a122715f00c6e726f348e9152c2a3868ff17b09ee41fe6ab2f14ac91"
+      },
+      "5_11_0": {
+        "name": "createbigcannons-5.11.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/eX6LUZEA/createbigcannons-5.11.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "510bcb42fccfa402b5fbe142409c6230867418a5b199907e2022b7de35a246bfc9906879a122715f00c6e726f348e9152c2a3868ff17b09ee41fe6ab2f14ac91"
       },
       "5_10_2": {
         "name": "createbigcannons-5.10.2+mc.1.20.1-forge.jar",
@@ -373,9 +395,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "createbigcannons-5.10.2+mc.1.20.1-forge.jar",
-        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/c88KycHt/createbigcannons-5.10.2%2Bmc.1.20.1-forge.jar",
-        "sha512": "b7a3fbedbfa0116dd8f5fee7bd0fb8022ccd46e2caff2192efd399dcf55d45da5377f14c86df961ddcca3a15a0b59030fec3ae6f8b9799b9f052d3252b506056"
+        "name": "createbigcannons-5.11.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/eX6LUZEA/createbigcannons-5.11.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "510bcb42fccfa402b5fbe142409c6230867418a5b199907e2022b7de35a246bfc9906879a122715f00c6e726f348e9152c2a3868ff17b09ee41fe6ab2f14ac91"
+      },
+      "5_11_0": {
+        "name": "createbigcannons-5.11.0+mc.1.20.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/eX6LUZEA/createbigcannons-5.11.0%2Bmc.1.20.1-forge.jar",
+        "sha512": "510bcb42fccfa402b5fbe142409c6230867418a5b199907e2022b7de35a246bfc9906879a122715f00c6e726f348e9152c2a3868ff17b09ee41fe6ab2f14ac91"
       },
       "5_10_2": {
         "name": "createbigcannons-5.10.2+mc.1.20.1-forge.jar",
@@ -581,9 +608,14 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "createbigcannons-5.10.2+mc.1.20.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/nUn5DSGP/createbigcannons-5.10.2%2Bmc.1.20.1-fabric.jar",
-        "sha512": "1b68cd84d2cc81bb8f8d6b805314f629142e75ed3f47de86ba38755795efb433c8680a680847c4118fb7c7cca4e182b98004b358ec15b964eb24ac41c1829c18"
+        "name": "createbigcannons-5.11.0+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/qJl2Po26/createbigcannons-5.11.0%2Bmc.1.20.1-fabric.jar",
+        "sha512": "fa66890b38f918b2e6528b4847d91b5c598e0f80049054a87098c923bd12efd8f5078321f5fd76503327d2d13c916de6ba9c60e31a0c934ee3fc8806828a7d7c"
+      },
+      "5_11_0": {
+        "name": "createbigcannons-5.11.0+mc.1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/qJl2Po26/createbigcannons-5.11.0%2Bmc.1.20.1-fabric.jar",
+        "sha512": "fa66890b38f918b2e6528b4847d91b5c598e0f80049054a87098c923bd12efd8f5078321f5fd76503327d2d13c916de6ba9c60e31a0c934ee3fc8806828a7d7c"
       },
       "5_10_2": {
         "name": "createbigcannons-5.10.2+mc.1.20.1-fabric.jar",
