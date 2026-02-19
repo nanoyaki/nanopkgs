@@ -14,16 +14,16 @@
 
 buildDotnetModule (finalAttrs: {
   pname = "shokofin";
-  version = "6.0.4-unstable-2026-02-14";
+  version = "6.0.4-dev.2-unstable-2026-02-17";
 
   src = fetchgit {
     url = "https://github.com/ShokoAnime/Shokofin.git";
-    rev = "20aa3411e2adb0a8ae34a1ed7b8d0efea97d2ed0";
+    rev = "c4b7624e3691f59143c22a3c8de3d5547e108c8b";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-6kv7XKNqsw4zAd575go7bAurQ9NVimcaT/2aTUg5N24=";
+    sha256 = "sha256-xJTR8/I83WuSGN59fA0NlKWZMeh0gobpXKrc+F/PgeM=";
   };
 
   dotnet-sdk = dotnet-sdk_9;
