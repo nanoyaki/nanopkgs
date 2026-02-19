@@ -10,7 +10,7 @@
 
 buildGoModule (finalAttrs: {
   pname = "ftb-server-installer";
-  version = "1.0.35";
+  version = "1.0.37";
 
   src = fetchgit {
     url = "https://github.com/FTBTeam/FTB-Server-Installer.git";
@@ -19,7 +19,7 @@ buildGoModule (finalAttrs: {
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-C1wSjf5Sm+QDoAnVTAGHk1n3KjLfIsxuanRbqYx+rhw=";
+    sha256 = "sha256-bHJAvbUBAKb4G+AU0Q27O++KfUq5gpFSXsE0OFX2irk=";
   };
 
   vendorHash = "sha256-RN0agjtcVJSGgSAVKWhJArSmqoBQ4kQK6ac4Np1O4pU=";

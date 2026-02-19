@@ -13,7 +13,7 @@
 proton-ge-bin.overrideAttrs (
   finalAttrs: _: {
     pname = "dwproton-bin";
-    version = "10.0-17";
+    version = "10.0-18";
 
     src = fetchzip {
       url = "https://dawn.wine/dawn-winery/dwproton/releases/download/dwproton-${finalAttrs.version}/dwproton-${finalAttrs.version}-x86_64.tar.xz";
