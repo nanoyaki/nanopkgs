@@ -17,9 +17,8 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-10`
 - `dwproton-bin` -> `10.0-18`
 - `error-pages` -> `0-unstable-2024-11-22`
-- `fireshare` -> `1.4.2-unstable-2026-02-11`
+- `fireshare` -> `1.4.2-unstable-2026-02-19`
 - `flaresolverr` -> `3.4.6`
-- `ftb-server-installer` -> `1.0.37`
 - `jellyfin-web-with-plugins`
 - `lidarr` -> `3.1.2.4902`
 - `meow` -> `2.1.5`
@@ -31,7 +30,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `prowlarr` -> `2.3.2.5245`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `5.3.1-dev.11-unstable-2026-02-17`
+- `shoko` -> `5.3.1-dev.15-unstable-2026-02-20`
 - `shoko-webui` -> `2.5.2-unstable-2026-02-12`
 - `shokofin` -> `6.0.4-dev.2-unstable-2026-02-17`
 - `startvrc`
