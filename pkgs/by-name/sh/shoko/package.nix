@@ -6,8 +6,8 @@
   lib,
   buildDotnetModule,
   fetchgit,
-  dotnet-sdk_8,
-  dotnetCorePackages,
+  dotnet-sdk_10,
+  dotnet-aspnetcore_10,
   nixosTests,
   mediainfo,
   rhash,
@@ -33,30 +33,16 @@ buildDotnetModule (finalAttrs: {
   };
 
   patches = [
-    ./deps.patch
     (replaceVars ./avdump.patch { inherit avdump; })
   ];
 
-  dotnet-sdk =
-    with dotnetCorePackages;
-
-    combinePackages [
-      sdk_8_0
-      sdk_9_0
-    ];
-
-  dotnet-runtime =
-    with dotnetCorePackages;
-
-    combinePackages [
-      sdk_8_0.aspnetcore
-      sdk_9_0.aspnetcore
-    ];
+  dotnet-sdk = dotnet-sdk_10;
+  dotnet-runtime = dotnet-aspnetcore_10;
 
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
   dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
-  dotnetInstallFlags = "-f net9.0";
+  dotnetInstallFlags = "-f net10.0";
 
   executables = [ "Shoko.CLI" ];
   makeWrapperArgs = [
@@ -91,6 +77,6 @@ buildDotnetModule (finalAttrs: {
     license = lib.licenses.mit;
     mainProgram = "Shoko.CLI";
     # maintainers = [ lib.maintainers.diniamo ];
-    inherit (dotnet-sdk_8.meta) platforms;
+    inherit (dotnet-sdk_10.meta) platforms;
   };
 })
