@@ -1,0 +1,641 @@
+{
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "create_connected-1.1.13-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cpErBxbD/create_connected-1.1.13-mc1.21.1.jar",
+        "sha512": "e7fe213615cf888b09c28ed88fcb2379d537ad610435764f5338af2460c9decd40248848d7dbee1686ff1729e54068aee15a6583d8e3bbaacfb37de60badb96f"
+      },
+      "1_1_13-mc": {
+        "name": "create_connected-1.1.13-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cpErBxbD/create_connected-1.1.13-mc1.21.1.jar",
+        "sha512": "e7fe213615cf888b09c28ed88fcb2379d537ad610435764f5338af2460c9decd40248848d7dbee1686ff1729e54068aee15a6583d8e3bbaacfb37de60badb96f"
+      },
+      "1_1_12-mc": {
+        "name": "create_connected-1.1.12-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/yExyw5DN/create_connected-1.1.12-mc1.21.1.jar",
+        "sha512": "ad34755fad663f380da1edf0d6dd64c63a4ba23b84d3dce4374472cba13ab12cad42c72074375d07172f564692996eea622052ec45bf1beeda1f0ab84c9be377"
+      },
+      "1_1_11-mc": {
+        "name": "create_connected-1.1.11-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/m7uhxeH6/create_connected-1.1.11-mc1.21.1.jar",
+        "sha512": "54a212a1c0109f063f663ef5756baf4f98a1bd33fdbd445c66d0b2834686e854e4328309d3a62531e20d3f71758dacbb88a7a0b7395186380cd7dac540fa8ea7"
+      },
+      "1_1_10-mc": {
+        "name": "create_connected-1.1.10-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/FWJ0vXEt/create_connected-1.1.10-mc1.21.1.jar",
+        "sha512": "0525ba6a58d7c1d91e6c8fac9368bccbddaa33e7ac304d00bda1016a4bc3316c4fce48ce99a013b1b3b4039094b12a1071032019349627bcc67a4808e9a0481d"
+      },
+      "1_1_9-mc": {
+        "name": "create_connected-1.1.9-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/zVNGCKT3/create_connected-1.1.9-mc1.21.1.jar",
+        "sha512": "81782aa9121255033a5e7779a82bcd58eb30d0f0e4680d551d942204f0f19241f2d828a895b5f33c86ec7cf2f4b21765bd5edea1788527668b05db319eb88965"
+      },
+      "1_1_8-mc": {
+        "name": "create_connected-1.1.8-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/MpTJwpqS/create_connected-1.1.8-mc1.21.1.jar",
+        "sha512": "a23b4546545f62cf3a34ef8e61f2c3e08dbf035de548899a5b175acea5aec96f199ef8ff682cc7823c9baf7d518b485e5a02e4eacce55f9bd7d7f5e6a6c5657b"
+      },
+      "1_1_6-mc": {
+        "name": "create_connected-1.1.6-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/LEoHpQEQ/create_connected-1.1.6-mc1.21.1.jar",
+        "sha512": "773d23e5ba69d10be483301ec7623eb03a98f5d9f882d1a8042dca632f9b43281f4e6ad520f4d705f097dc349f3fa3b4db601118f90f541667453e39a6f4e8ce"
+      },
+      "1_1_5-mc": {
+        "name": "create_connected-1.1.5-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/fmWBqX5E/create_connected-1.1.5-mc1.21.1.jar",
+        "sha512": "a6a3abb1ec8b18a56dfa5f3b19e34c22260290f68787e1c0503a6fb9f01a4981acc5f3e1f09b57f69ea6cc22dceff3cbb412b0d7a3aef7724024c00b1457dff1"
+      },
+      "1_1_4-mc": {
+        "name": "create_connected-1.1.4-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HkdwEV0c/create_connected-1.1.4-mc1.21.1.jar",
+        "sha512": "87edca803fa31961b148a19d0691001b3f34de50e11bf06b9f4309dfff92b3c7922038ff4ee7f52c1758cafd05fe62b7da57312d98cd67e810c77c57df976959"
+      },
+      "1_1_3-mc": {
+        "name": "create_connected-1.1.3-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/FkB2K56I/create_connected-1.1.3-mc1.21.1.jar",
+        "sha512": "7901336d2122496e2e43b223259f4894c100858f921d1f7830c455e8a5a813d68675ac629a17ea1f64a3bd1a0ec58e912b820237688981460d525a90ae9671da"
+      },
+      "1_1_2-mc": {
+        "name": "create_connected-1.1.2-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/8lHS9jrm/create_connected-1.1.2-mc1.21.1.jar",
+        "sha512": "44933e4c5719a64f5982d74954ac19261149c5103c5cbaee763afc2df3ffd0afdb4822b07856e80f286d36873bc043600fbacd35424844b956e9d976703c31c5"
+      },
+      "1_1_1-mc": {
+        "name": "create_connected-1.1.1-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/hCszCCBy/create_connected-1.1.1-mc1.21.1.jar",
+        "sha512": "59589c35c3302360feef8013303f169b74d34cadcb4f77ea539573aa7321572573290641d7cddb5f9074b5bc10d34ea53db970c7d5b52de5e3381afede8a616c"
+      },
+      "1_1_0-mc": {
+        "name": "create_connected-1.1.0-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Zv5siGpu/create_connected-1.1.0-mc1.21.1.jar",
+        "sha512": "a75e36709826820bacd58153066653f436385c34c890b18b0816962b73be9b0c9388ce42d6ccf7bd02efe7e76e70c71b5cf07898ba87f612e4824c8f43f1b69c"
+      },
+      "1_0_3-mc": {
+        "name": "create_connected-1.0.3-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/ESygTQNI/create_connected-1.0.3-mc1.21.1.jar",
+        "sha512": "9c386761eb23dd189e1e3840babc7793d374c3d5e60ed78a9bcac7a38205ed65e71c828f06cdc127451960ebd7c06016ae2bcb72bb9fc0c1c9d0914da33fa3d6"
+      },
+      "1_0_2-mc": {
+        "name": "create_connected-1.0.2-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HsLqZ7XE/create_connected-1.0.2-mc1.21.1.jar",
+        "sha512": "3ea047100e7eed3b707cae22f86b52746c4fd98aeaf1c6da297871653a4e9aaf6922f68db7969d6273968a1d887268920daa643d45f358fc248be385fc38e754"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "create_connected-1.1.13-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cd0NZDvE/create_connected-1.1.13-mc1.20.1-all.jar",
+        "sha512": "942b9f05b5033ef5f920dad95a8871c04907084388f11dbe48f2d853ec237d47f1b037252b33e4d3f9efc680b680651c65cd48d4a2ca79c7b6328ae27ba3317f"
+      },
+      "1_1_13-mc": {
+        "name": "create_connected-1.1.13-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cd0NZDvE/create_connected-1.1.13-mc1.20.1-all.jar",
+        "sha512": "942b9f05b5033ef5f920dad95a8871c04907084388f11dbe48f2d853ec237d47f1b037252b33e4d3f9efc680b680651c65cd48d4a2ca79c7b6328ae27ba3317f"
+      },
+      "1_1_12-mc": {
+        "name": "create_connected-1.1.12-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/aN0bSww5/create_connected-1.1.12-mc1.20.1-all.jar",
+        "sha512": "197488682615350b777c9f803c58a870fab3f775f044a8c1aae44810b0f9a93a5ff05bc54b1d6a5d962d5b6db78dfb5c33c6cf0e2373f261b89834e0dc2cd67a"
+      },
+      "1_1_11-mc": {
+        "name": "create_connected-1.1.11-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/VjLFXhLl/create_connected-1.1.11-mc1.20.1-all.jar",
+        "sha512": "d6f8b57e7944be2caf6df6effd87ec96566ec8d1594b11318b7a62e2cccda8b8b3a4fae7e8e5cb77db050e45697df5e5b3c33ac64077d2723b84f9eb5b92546b"
+      },
+      "1_1_10-mc": {
+        "name": "create_connected-1.1.10-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/saiZ8AwJ/create_connected-1.1.10-mc1.20.1-all.jar",
+        "sha512": "0b885e09e0f074051120669337e0f53f42ca43a244cfde02f90b43da5a09853f92715371a9377c542886a673aefeda6f01becd3cb4b1e012d300618f1e33dce8"
+      },
+      "1_1_9-mc": {
+        "name": "create_connected-1.1.9-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/j8VEpPsE/create_connected-1.1.9-mc1.20.1-all.jar",
+        "sha512": "008704b7f5aba95ad9f83d53494c45d660c6e112abc116c54f4fd6c33bcd3b94b87beceae729dbccd28fba331722e80b2cddc5171e03e2f2159a2ece23ae074d"
+      },
+      "1_1_8-mc": {
+        "name": "create_connected-1.1.8-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/jPgzJe8d/create_connected-1.1.8-mc1.20.1-all.jar",
+        "sha512": "dd7d6af74752d2366d5c3fadab51b8ce8d3244569cc1d9c5387b01f96c073a71f2b250460d835248e9d30a7e16b02f04e97945d19940f3bc069ae32076a2fc02"
+      },
+      "1_1_7-mc": {
+        "name": "create_connected-1.1.7-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HMzC945H/create_connected-1.1.7-mc1.20.1-all.jar",
+        "sha512": "647418a320bf722c280b452df54e78dc5deb351ac586ffb2fb8a89ae4784771c4bd4ee17c16efc15d8d705e299521aaa6150bb9e3ab6962fe1c23312c87d2328"
+      },
+      "1_1_6-mc": {
+        "name": "create_connected-1.1.6-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Vy0n7ooH/create_connected-1.1.6-mc1.20.1-all.jar",
+        "sha512": "be4d53e60d26263042eda30bc6f394dae4ab1af48c1a0c9763570dece378828347835a3786ea68408c3e5f1643bb16730fb2f48f92e84f51aa5ec7b40cc47da7"
+      },
+      "1_1_5-mc": {
+        "name": "create_connected-1.1.5-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/axChE7Jj/create_connected-1.1.5-mc1.20.1-all.jar",
+        "sha512": "ed33c855520d6b5529fffaa0c65fc5682b2759ce0dfb99748a6b4a4722aa3a5dfd5371afba7162190c2e7aab02b2d5fd49c93cd92b38823648fd7d67b892a4ca"
+      },
+      "1_1_4-mc": {
+        "name": "create_connected-1.1.4-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/m2YgKGzS/create_connected-1.1.4-mc1.20.1-all.jar",
+        "sha512": "6e9464aff2b99bf4c7bd0f518456c94f96470594f0d72a6b7fec88a5362bb94b4ccec170297c8a0bacc9f1b0595656a653a76fe578c261ae63768ca12c74637b"
+      },
+      "1_1_3-mc": {
+        "name": "create_connected-1.1.3-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/d9UoAlY9/create_connected-1.1.3-mc1.20.1-all.jar",
+        "sha512": "3d1e9fa36b4719e9150f42a14ea466d2b3890f831708b372e723f8b2b1a5ba7cc94faa0b97b9de11624a14f6dcab098003ecceee14adac1fbe1ec9b29e0f89d8"
+      },
+      "1_1_2-mc": {
+        "name": "create_connected-1.1.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/3BSNIZZd/create_connected-1.1.2-mc1.20.1-all.jar",
+        "sha512": "b9a8ecf0fc028f9ab67594affcb1d8e74b249a4657e207a12e60903416a68c64277018d73e3da39f94fbfbdbafa6da759e30128e01132545b634f82d9670768c"
+      },
+      "1_1_1-mc": {
+        "name": "create_connected-1.1.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/aEyGCu2t/create_connected-1.1.1-mc1.20.1-all.jar",
+        "sha512": "1092d78db1e61cf9ad2eeca47f57717f040623b3e4340abd79a9dc6454c2d783cee53f05061c83817b9053f1fe522b646f38927d0e9e5ea7d00db56517cc6a80"
+      },
+      "1_1_0-mc": {
+        "name": "create_connected-1.1.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/g8IuhgFJ/create_connected-1.1.0-mc1.20.1-all.jar",
+        "sha512": "27ef195c9b3c0b079684a208374016b344c30ffd9d3fe9a37661bf0d529e759b7bfb732e7f21d05c8c4f5883982bd8d93924f61c85d9003ed781f5a434268616"
+      },
+      "1_0_3-mc": {
+        "name": "create_connected-1.0.3-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/3VdM3n84/create_connected-1.0.3-mc1.20.1-all.jar",
+        "sha512": "c901981a01203b2cb91d5b25384106a77dabf3b586399f789975929ac96359e7c027d777eb85893db1eacbb8f8129148732effd723419a4d98e4e40d13b3edda"
+      },
+      "1_0_2-mc": {
+        "name": "create_connected-1.0.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/d8TZbyDB/create_connected-1.0.2-mc1.20.1-all.jar",
+        "sha512": "91c863feb3cc719335ab21d42e22b7cb2822053f47cc8a701bf1cdfb040c2cecb702fab082016fd7190b80b65e9000fb7e5fa0a4a6d0b786d768311e3f21eff3"
+      },
+      "1_0_1-mc": {
+        "name": "create_connected-1.0.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/2N1jRZB4/create_connected-1.0.1-mc1.20.1-all.jar",
+        "sha512": "aea9d581c75f2bb75e85bedef86d26a49d5f2f02af746263396d2f2c5a017ced398258694a52f2c571200cef2dcea18ad9a52df5d750583766e3e6eeaaeb2cc8"
+      },
+      "1_0_0-mc": {
+        "name": "create_connected-1.0.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/fg2CYJlQ/create_connected-1.0.0-mc1.20.1-all.jar",
+        "sha512": "e861e8bb5d4c63b8fa554840054dce5583ad8c479139adcdc8d6a5d2484e9afa1eb842cace0bfd6db2cd0ffb880d9e809c962d0da91aa73fc8565441c15d235e"
+      },
+      "0_9_4-mc": {
+        "name": "create_connected-0.9.4-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/1o1CPwZD/create_connected-0.9.4-mc1.20.1-all.jar",
+        "sha512": "267942c1c36fe4e40e1e5d54e98f03a476287009a62b30fdb7d2347106cc654244bb7ab5d66fedc702cc01988596e8c289229cddba58e8901225083cece8787e"
+      },
+      "0_9_3-mc": {
+        "name": "create_connected-0.9.3-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/82iCuwFZ/create_connected-0.9.3-mc1.20.1-all.jar",
+        "sha512": "8ae94384582025eb60f97cbee78e2a9bbc1fa71760715afa11764da5531356e4d9301999b33dd5ff711d096e4ee7e3e6619e6999e32cbfcf29aacc194e6a2173"
+      },
+      "0_9_2-mc": {
+        "name": "create_connected-0.9.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Oiv4wt0G/create_connected-0.9.2-mc1.20.1-all.jar",
+        "sha512": "08d3178a1f5069bb16fdc8697890239fca4ca195837ebccab423833c91346257ac81721342650a2d8eb0d077681061e61fd6e2d10ee9d8af16945355ff5c6093"
+      },
+      "0_9_1-mc": {
+        "name": "create_connected-0.9.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/EhWwzIwV/create_connected-0.9.1-mc1.20.1-all.jar",
+        "sha512": "25d57d4996bff7bd3a153fab7f6054beffb5dd32106097f075f594d6a3fd90c3e187a70df8ca73e172f356dfe28fbff65e1d1084433e7352f554862ede9932c0"
+      },
+      "0_9_0-mc": {
+        "name": "create_connected-0.9.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HlCC58dD/create_connected-0.9.0-mc1.20.1-all.jar",
+        "sha512": "bfcb446053b543375b4085073ef509b1a897158b5b4a076671d21cca6f979575c1c5b5fbea5d298984024f1035201b4dc42ceb296a760eae3c83c1479351463c"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "create_connected-1.1.13-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cd0NZDvE/create_connected-1.1.13-mc1.20.1-all.jar",
+        "sha512": "942b9f05b5033ef5f920dad95a8871c04907084388f11dbe48f2d853ec237d47f1b037252b33e4d3f9efc680b680651c65cd48d4a2ca79c7b6328ae27ba3317f"
+      },
+      "1_1_13-mc": {
+        "name": "create_connected-1.1.13-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cd0NZDvE/create_connected-1.1.13-mc1.20.1-all.jar",
+        "sha512": "942b9f05b5033ef5f920dad95a8871c04907084388f11dbe48f2d853ec237d47f1b037252b33e4d3f9efc680b680651c65cd48d4a2ca79c7b6328ae27ba3317f"
+      },
+      "1_1_12-mc": {
+        "name": "create_connected-1.1.12-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/aN0bSww5/create_connected-1.1.12-mc1.20.1-all.jar",
+        "sha512": "197488682615350b777c9f803c58a870fab3f775f044a8c1aae44810b0f9a93a5ff05bc54b1d6a5d962d5b6db78dfb5c33c6cf0e2373f261b89834e0dc2cd67a"
+      },
+      "1_1_11-mc": {
+        "name": "create_connected-1.1.11-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/VjLFXhLl/create_connected-1.1.11-mc1.20.1-all.jar",
+        "sha512": "d6f8b57e7944be2caf6df6effd87ec96566ec8d1594b11318b7a62e2cccda8b8b3a4fae7e8e5cb77db050e45697df5e5b3c33ac64077d2723b84f9eb5b92546b"
+      },
+      "1_1_10-mc": {
+        "name": "create_connected-1.1.10-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/saiZ8AwJ/create_connected-1.1.10-mc1.20.1-all.jar",
+        "sha512": "0b885e09e0f074051120669337e0f53f42ca43a244cfde02f90b43da5a09853f92715371a9377c542886a673aefeda6f01becd3cb4b1e012d300618f1e33dce8"
+      },
+      "1_1_9-mc": {
+        "name": "create_connected-1.1.9-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/j8VEpPsE/create_connected-1.1.9-mc1.20.1-all.jar",
+        "sha512": "008704b7f5aba95ad9f83d53494c45d660c6e112abc116c54f4fd6c33bcd3b94b87beceae729dbccd28fba331722e80b2cddc5171e03e2f2159a2ece23ae074d"
+      },
+      "1_1_8-mc": {
+        "name": "create_connected-1.1.8-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/jPgzJe8d/create_connected-1.1.8-mc1.20.1-all.jar",
+        "sha512": "dd7d6af74752d2366d5c3fadab51b8ce8d3244569cc1d9c5387b01f96c073a71f2b250460d835248e9d30a7e16b02f04e97945d19940f3bc069ae32076a2fc02"
+      },
+      "1_1_7-mc": {
+        "name": "create_connected-1.1.7-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HMzC945H/create_connected-1.1.7-mc1.20.1-all.jar",
+        "sha512": "647418a320bf722c280b452df54e78dc5deb351ac586ffb2fb8a89ae4784771c4bd4ee17c16efc15d8d705e299521aaa6150bb9e3ab6962fe1c23312c87d2328"
+      },
+      "1_1_6-mc": {
+        "name": "create_connected-1.1.6-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Vy0n7ooH/create_connected-1.1.6-mc1.20.1-all.jar",
+        "sha512": "be4d53e60d26263042eda30bc6f394dae4ab1af48c1a0c9763570dece378828347835a3786ea68408c3e5f1643bb16730fb2f48f92e84f51aa5ec7b40cc47da7"
+      },
+      "1_1_5-mc": {
+        "name": "create_connected-1.1.5-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/axChE7Jj/create_connected-1.1.5-mc1.20.1-all.jar",
+        "sha512": "ed33c855520d6b5529fffaa0c65fc5682b2759ce0dfb99748a6b4a4722aa3a5dfd5371afba7162190c2e7aab02b2d5fd49c93cd92b38823648fd7d67b892a4ca"
+      },
+      "1_1_4-mc": {
+        "name": "create_connected-1.1.4-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/m2YgKGzS/create_connected-1.1.4-mc1.20.1-all.jar",
+        "sha512": "6e9464aff2b99bf4c7bd0f518456c94f96470594f0d72a6b7fec88a5362bb94b4ccec170297c8a0bacc9f1b0595656a653a76fe578c261ae63768ca12c74637b"
+      },
+      "1_1_3-mc": {
+        "name": "create_connected-1.1.3-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/d9UoAlY9/create_connected-1.1.3-mc1.20.1-all.jar",
+        "sha512": "3d1e9fa36b4719e9150f42a14ea466d2b3890f831708b372e723f8b2b1a5ba7cc94faa0b97b9de11624a14f6dcab098003ecceee14adac1fbe1ec9b29e0f89d8"
+      },
+      "1_1_2-mc": {
+        "name": "create_connected-1.1.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/3BSNIZZd/create_connected-1.1.2-mc1.20.1-all.jar",
+        "sha512": "b9a8ecf0fc028f9ab67594affcb1d8e74b249a4657e207a12e60903416a68c64277018d73e3da39f94fbfbdbafa6da759e30128e01132545b634f82d9670768c"
+      },
+      "1_1_1-mc": {
+        "name": "create_connected-1.1.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/aEyGCu2t/create_connected-1.1.1-mc1.20.1-all.jar",
+        "sha512": "1092d78db1e61cf9ad2eeca47f57717f040623b3e4340abd79a9dc6454c2d783cee53f05061c83817b9053f1fe522b646f38927d0e9e5ea7d00db56517cc6a80"
+      },
+      "1_1_0-mc": {
+        "name": "create_connected-1.1.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/g8IuhgFJ/create_connected-1.1.0-mc1.20.1-all.jar",
+        "sha512": "27ef195c9b3c0b079684a208374016b344c30ffd9d3fe9a37661bf0d529e759b7bfb732e7f21d05c8c4f5883982bd8d93924f61c85d9003ed781f5a434268616"
+      },
+      "1_0_3-mc": {
+        "name": "create_connected-1.0.3-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/3VdM3n84/create_connected-1.0.3-mc1.20.1-all.jar",
+        "sha512": "c901981a01203b2cb91d5b25384106a77dabf3b586399f789975929ac96359e7c027d777eb85893db1eacbb8f8129148732effd723419a4d98e4e40d13b3edda"
+      },
+      "1_0_2-mc": {
+        "name": "create_connected-1.0.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/d8TZbyDB/create_connected-1.0.2-mc1.20.1-all.jar",
+        "sha512": "91c863feb3cc719335ab21d42e22b7cb2822053f47cc8a701bf1cdfb040c2cecb702fab082016fd7190b80b65e9000fb7e5fa0a4a6d0b786d768311e3f21eff3"
+      },
+      "1_0_1-mc": {
+        "name": "create_connected-1.0.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/2N1jRZB4/create_connected-1.0.1-mc1.20.1-all.jar",
+        "sha512": "aea9d581c75f2bb75e85bedef86d26a49d5f2f02af746263396d2f2c5a017ced398258694a52f2c571200cef2dcea18ad9a52df5d750583766e3e6eeaaeb2cc8"
+      },
+      "1_0_0-mc": {
+        "name": "create_connected-1.0.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/fg2CYJlQ/create_connected-1.0.0-mc1.20.1-all.jar",
+        "sha512": "e861e8bb5d4c63b8fa554840054dce5583ad8c479139adcdc8d6a5d2484e9afa1eb842cace0bfd6db2cd0ffb880d9e809c962d0da91aa73fc8565441c15d235e"
+      },
+      "0_9_4-mc": {
+        "name": "create_connected-0.9.4-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/1o1CPwZD/create_connected-0.9.4-mc1.20.1-all.jar",
+        "sha512": "267942c1c36fe4e40e1e5d54e98f03a476287009a62b30fdb7d2347106cc654244bb7ab5d66fedc702cc01988596e8c289229cddba58e8901225083cece8787e"
+      },
+      "0_9_3-mc": {
+        "name": "create_connected-0.9.3-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/82iCuwFZ/create_connected-0.9.3-mc1.20.1-all.jar",
+        "sha512": "8ae94384582025eb60f97cbee78e2a9bbc1fa71760715afa11764da5531356e4d9301999b33dd5ff711d096e4ee7e3e6619e6999e32cbfcf29aacc194e6a2173"
+      },
+      "0_9_2-mc": {
+        "name": "create_connected-0.9.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Oiv4wt0G/create_connected-0.9.2-mc1.20.1-all.jar",
+        "sha512": "08d3178a1f5069bb16fdc8697890239fca4ca195837ebccab423833c91346257ac81721342650a2d8eb0d077681061e61fd6e2d10ee9d8af16945355ff5c6093"
+      },
+      "0_9_1-mc": {
+        "name": "create_connected-0.9.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/EhWwzIwV/create_connected-0.9.1-mc1.20.1-all.jar",
+        "sha512": "25d57d4996bff7bd3a153fab7f6054beffb5dd32106097f075f594d6a3fd90c3e187a70df8ca73e172f356dfe28fbff65e1d1084433e7352f554862ede9932c0"
+      },
+      "0_9_0-mc": {
+        "name": "create_connected-0.9.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HlCC58dD/create_connected-0.9.0-mc1.20.1-all.jar",
+        "sha512": "bfcb446053b543375b4085073ef509b1a897158b5b4a076671d21cca6f979575c1c5b5fbea5d298984024f1035201b4dc42ceb296a760eae3c83c1479351463c"
+      },
+      "0_8_2-mc": {
+        "name": "create_connected-0.8.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/gKrm9DLf/create_connected-0.8.2-mc1.20.1-all.jar",
+        "sha512": "1fa0d819cd22bc9bf155f28d3e056ffff8086748e31ccf1aa1d75e54c4f4b21033f6c7b0ae519f2d0347a3c93df1b8aa65d8b8eb18002aec04188bbcefd8ac07"
+      },
+      "0_8_1-mc": {
+        "name": "create_connected-0.8.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/C7iiSXTX/create_connected-0.8.1-mc1.20.1-all.jar",
+        "sha512": "a3521aee577a2099df0e3c898fc0fb18d841deb81512bb6cb8e2723f15ac4ce88a9dc9c4e7de309cb3926d49b530277bc3fa928abe72e78f805a7142ea35b4a4"
+      },
+      "0_8_0-mc": {
+        "name": "create_connected-0.8.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/OVtGotNF/create_connected-0.8.0-mc1.20.1-all.jar",
+        "sha512": "fdc756f718ebdf2faea6f61f44f3e41bf2aae3e51df9a78d7854290e1de3d4367517ccb8bfd23c9405b53e956a236a87eee2b86f60d97610b6542c7d225ece7d"
+      },
+      "0_7_4-mc": {
+        "name": "create_connected-0.7.4-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/AZBGh6f2/create_connected-0.7.4-mc1.20.1-all.jar",
+        "sha512": "c990076b061526ab469202a53065e46976a851e468835be440a99d8ab4ac362d969e17485e1e26b7eba219709a3d57a61336207cf8b3996a2e04f1fd68d08d6b"
+      },
+      "0_7_3-mc": {
+        "name": "create_connected-0.7.3-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/mGac22rI/create_connected-0.7.3-mc1.20.1-all.jar",
+        "sha512": "017062aa2bd6dc58367874de3e3cf9a4b0aff9d8c738a6d5c7d7e714e489c70437d40c45bc3ecc433bcc17f8f4f963f476a0b2e6c63d1dddccc0dc0c7a0512c9"
+      },
+      "0_7_2-mc": {
+        "name": "create_connected-0.7.2-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/28e7nphL/create_connected-0.7.2-mc1.20.1-all.jar",
+        "sha512": "8e67c82c7262ed1ac6c0152e1edc3ccca8dde98986361b804ad032f871d315719b68d8e8f4b7c120372040697d5beff26a98e075324ce5c8bfc93b52d7cb79fc"
+      },
+      "0_7_1-mc": {
+        "name": "create_connected-0.7.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/hcYgQeMJ/create_connected-0.7.1-mc1.20.1-all.jar",
+        "sha512": "ee625537a0565b2b644c630f1111d227166b080736aa0f6d0b5b98e80d2584988c4f31726e77fa1f08281ae17e3d00e2ba00c7766dad227b12ad527023e436cd"
+      },
+      "0_7_0-mc": {
+        "name": "create_connected-0.7.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/uNWHReBn/create_connected-0.7.0-mc1.20.1-all.jar",
+        "sha512": "388de8bebecb85575a86aab8ec877c6ac3c158753eaae7db6e600a0eb28ac115c446a509e2945bee98c4eff467bd4b20f02d2a098bbe83be25d9157af8112e5e"
+      },
+      "0_6_1-mc": {
+        "name": "create_connected-0.6.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Y4sqkIV1/create_connected-0.6.1-mc1.20.1-all.jar",
+        "sha512": "de0c2f09ee9677c0c26f9ea5db93ce1bc34f23c6eccefd1c4b6a5542ceab75c65db0019d73c5c621b932a8022504879287051fee771342a192da92861c13be7c"
+      },
+      "0_6_0-mc": {
+        "name": "create_connected-0.6.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/EUlYFHXh/create_connected-0.6.0-mc1.20.1-all.jar",
+        "sha512": "8600baa2b46e8ce6c98680bd4421a4a5075e1b0c6111f96e6ffac47e0e1c21ac41a22d2145332eceb9a04244078b8493034baabc96578ff1641df46006b12736"
+      },
+      "0_5_1-mc": {
+        "name": "create_connected-0.5.1-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/o61LXqUc/create_connected-0.5.1-mc1.20.1-all.jar",
+        "sha512": "e65d65ac10a4e0085a2521cead9953511219acd9f1e88c44430fdbcf56a6af512597ed56995cf3eaa4c57953c2832ebe1ea0f869d7d5d99b548fd04013d0270a"
+      },
+      "0_5_0-mc": {
+        "name": "create_connected-0.5.0-mc1.20.1-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/2aU2wG2k/create_connected-0.5.0-mc1.20.1-all.jar",
+        "sha512": "3af5ec2a253c1f5e7777ea98ddc558f283d448a346cab7377b53fe5f20c1960ff128a9c28f0a4ceebd3452d29479bf77e4df740f5b9cb7ce2d4b47a9af08a3a9"
+      },
+      "0_4_2-mc": {
+        "name": "create_connected-0.4.2-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/ikBLKaJY/create_connected-0.4.2-mc1.20.1.jar",
+        "sha512": "9bab1f8fd834abfc3876af364eee3b0bf82601b0da400832ac24f821eeec204ecc20b2dc955f2f33c98fb20937d07caf68e299c867e04fbf51da10cb1b53feb9"
+      },
+      "0_4_1-mc": {
+        "name": "create_connected-0.4.1-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Ca0bdDbG/create_connected-0.4.1-mc1.20.1.jar",
+        "sha512": "6fefb02023e478daedf160a9c9768329746eb43f0ac84d8c17560cc5bdff78ee6a97a9c9f5a8ea5baac10c01f09b45e071d29d30d527172d5512b7b4e755c0d8"
+      },
+      "0_4_0-mc": {
+        "name": "create_connected-0.4.0-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/QRvZ57TE/create_connected-0.4.0-mc1.20.1.jar",
+        "sha512": "f75668f35e74c7a53711445a1501f71cfddbdbb90b863f84a6bf79ed2104b2bf5ed5bf879f6dd1ada0b063eaccd5953da88501be1dd7b2c97c0686f74fa11f6f"
+      },
+      "0_3_1-mc": {
+        "name": "create_connected-0.3.1-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/9VWGEKOr/create_connected-0.3.1-mc1.20.1.jar",
+        "sha512": "fc098dbdf9c967c275c199e6a5adfd331bf9759f686b089fa69e3a95d2d1ed7ebcaa5eefcc2a7c4029378c5f59ac487d35755df599856e8f04a026c19928d650"
+      },
+      "0_3_0-mc": {
+        "name": "create_connected-0.3.0-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/xnbEOWVS/create_connected-0.3.0-mc1.20.1.jar",
+        "sha512": "a416b735a6facc8242c3eb563bc8a38898049497a03abb61a8e1751f02dcdb914a9a68f9e6d72e5afb62c9b3003d2fa7a49e163a3d9c6be22492045e25ed72eb"
+      },
+      "0_2_0-mc": {
+        "name": "create_connected-0.2.0-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Dqlh8qrA/create_connected-0.2.0-mc1.20.1.jar",
+        "sha512": "06ac0fb7b42ff502045311e0342a16e7a7c8795b318f9d35e923c274ffe7d5e05780398697d1fa8a7b8208e84ea9c118c98516ef6c81dfd7c4424073658dd426"
+      },
+      "0_1_0-mc": {
+        "name": "create_connected-0.1.0-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/RyZaU1gq/create_connected-0.1.0-mc1.20.1.jar",
+        "sha512": "0b83c9cde1f4336fb643d4f60969d799e230e0a5ae1a19b132c059990331e59c101418e999c028dbbb44c9cbd8335807b6854c98d9e877b1f4ae901f5c9752dc"
+      },
+      "0_0_5-mc": {
+        "name": "create_connected-0.0.5-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/A1Xi2mL7/create_connected-0.0.5-mc1.20.1.jar",
+        "sha512": "572f0c200d79b3248d3a29b0d53559b1c9a086bbe7b27519498a0cd62cb66843e2097eacdaf27d695ab4a165612b0c90d55beaae936b10348f61dad6cc84652c"
+      },
+      "0_0_4-mc": {
+        "name": "create_connected-0.0.4-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/pKQCdJVT/create_connected-0.0.4-mc1.20.1.jar",
+        "sha512": "1fc1f47699e539a1cd9415f8040fe09d06f493a67158a77ba4d88e55afed62aa6ff475bb1ae910a1e3697298130f74d5389e5bb7dca2c932c64c6d9e2e2f4abd"
+      },
+      "0_0_3-mc": {
+        "name": "create_connected-0.0.3-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/LojRR2iL/create_connected-0.0.3-mc1.20.1.jar",
+        "sha512": "acbdba8c87967ef0e25fb0f42c73176f0ea2b3ade7e8f2162b24616543faf7cd88294953ee313e72955dbebeec2775e1f2d2479c208053a81ac043186bb10cc0"
+      },
+      "0_0_2-mc": {
+        "name": "create_connected-0.0.2-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/8eIFIbKx/create_connected-0.0.2-mc1.20.1.jar",
+        "sha512": "84cfbbeb3ae550aa49e2da10fa96d3180b8094d1dc1f92a1fe5aae24febc25aa012da9462766afa6dcdb8cc2aa161cb760477371e80611732ee4c520ef8fec32"
+      },
+      "0_0_1-mc": {
+        "name": "create_connected-0.0.1-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/UOBPiKI6/create_connected-0.0.1-mc1.20.1.jar",
+        "sha512": "a078b8c91f1cba117eef23965b5a47bc5dd822b56584348b4f942f6c42e3468ea06c1c2bdb52a91cbfdf3c36c3abcdd7255892a727b0a603ef349f6b7c3ecf79"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "create_connected-0.9.4-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/CLTrW9A5/create_connected-0.9.4-mc1.19.2-all.jar",
+        "sha512": "e464cfa8ec222c01d273fc873f127e25f2292f9d4dbb215b0de7c54d837a5a775115d955303079a1588f3a39ccf1df1bbdbd25d0c90acaf4932f50b80bc0eddc"
+      },
+      "0_9_4-mc": {
+        "name": "create_connected-0.9.4-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/CLTrW9A5/create_connected-0.9.4-mc1.19.2-all.jar",
+        "sha512": "e464cfa8ec222c01d273fc873f127e25f2292f9d4dbb215b0de7c54d837a5a775115d955303079a1588f3a39ccf1df1bbdbd25d0c90acaf4932f50b80bc0eddc"
+      },
+      "0_8_2-mc": {
+        "name": "create_connected-0.8.2-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/1HrN6TRS/create_connected-0.8.2-mc1.19.2-all.jar",
+        "sha512": "210123059c67d6c2be910c9db5f70ae2098502a19a0f883e5e516159c58203c2c27115e7c94c201cfaef1bc11041669e8270f362e13297959e7cd38c585d08be"
+      },
+      "0_8_1-mc": {
+        "name": "create_connected-0.8.1-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/3XZmwD4s/create_connected-0.8.1-mc1.19.2-all.jar",
+        "sha512": "5873e4107a5124112fde6f8b53802e994f1752ed862c6b26e0a66d08510d49ad819c50948f96bd6a91ed9dc0f210262823352b4fa48687e4167ea8fe07373216"
+      },
+      "0_8_0-mc": {
+        "name": "create_connected-0.8.0-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/NCmuwBdj/create_connected-0.8.0-mc1.19.2-all.jar",
+        "sha512": "400d512fc44c997665fd870da0127fc8d7fc8927459b2f59a4ef4dfed5ecfe0876913d2515656797326d50981fee683fa83f35246d3b654207bfb0656015ca9e"
+      },
+      "0_7_4-mc": {
+        "name": "create_connected-0.7.4-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/GefGO2KP/create_connected-0.7.4-mc1.19.2-all.jar",
+        "sha512": "1f36dcf5433b38d5889c02dd0ed0f953f6a4e130a0100f7cd43c785d153f6079e2fb99a0cdda8692ebf68321bf34629409a8819ea873f052630d7304f63caf1f"
+      },
+      "0_7_3-mc": {
+        "name": "create_connected-0.7.3-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/tFp9Akhk/create_connected-0.7.3-mc1.19.2-all.jar",
+        "sha512": "0d7df2bec3cd265d73c2ba60e772b0ce2c540fcdf47bddd614878f8547b5035172014eb3dfad37f530d1931a180791d1b87bdef577be214c3be09d1d22673c38"
+      },
+      "0_7_2-mc": {
+        "name": "create_connected-0.7.2-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/elXyoxAP/create_connected-0.7.2-mc1.19.2-all.jar",
+        "sha512": "a114e2fd71a7a7bcf2f371695872260ddc1f7a1153808b733b985a380d5189fd7e170e0e2a06cda639765fbf5923411218a371bb01279c3f63224172a4bd194b"
+      },
+      "0_7_1-mc": {
+        "name": "create_connected-0.7.1-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cMDn9SEe/create_connected-0.7.1-mc1.19.2-all.jar",
+        "sha512": "919eba2908f1922082a08cf526a268d250d132ea1783dfd234e3d7ea0194a1d18c27c8bc78ac767416fb9935dcb2e6258b9cb3de0a6150cd6db0c556b4e466e2"
+      },
+      "0_7_0-mc": {
+        "name": "create_connected-0.7.0-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/g28UkIBL/create_connected-0.7.0-mc1.19.2-all.jar",
+        "sha512": "50c4f998f9c85043cb5ba5d55d224f5ce4241e88fa4614b1058ed3b7ce160772b6ba5f00b919764aab5da38ef2a875eab54e6f64f7851562dfa0b0e507f9694c"
+      },
+      "0_6_1-mc": {
+        "name": "create_connected-0.6.1-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/oXHXQagZ/create_connected-0.6.1-mc1.19.2-all.jar",
+        "sha512": "7fda75e9b78ba0ec76f9d4ece2e39bf033a07944c50eae08c6ce3ab71f546ff1e57a9f976a3abfe83df011944b488c4de38edf5c0b92757da3adf117da344c93"
+      },
+      "0_6_0-mc": {
+        "name": "create_connected-0.6.0-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/rclv3TJ7/create_connected-0.6.0-mc1.19.2-all.jar",
+        "sha512": "17e57ac3ddc575b45de110baffba730d3a63f0a287d13bb0fee0d9115bc55b19b488acedf06e1a7f9085440fdc3dfdeeca63fa0e9552435659b03d77a89da35b"
+      },
+      "0_5_1-mc": {
+        "name": "create_connected-0.5.1-mc1.19.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/PUKIoeMP/create_connected-0.5.1-mc1.19.2-all.jar",
+        "sha512": "5e2de3882bf953c3d46358d8c324612fcdbebf71e7760592e544c6d0d4a65577c31adcbfabd7d263a3cce955eff7972d135357ca376a4f408dcaa604f220d2ce"
+      },
+      "0_4_2-mc": {
+        "name": "create_connected-0.4.2-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/igFgF4cL/create_connected-0.4.2-mc1.19.2.jar",
+        "sha512": "f241556a0359f932399bed69952f70c56cac6c76d97e696b31ecae9f2e6d37da6d3f98662f43ef1a42fffbba8a44ed222f97d1fe10799268d18fe645d06ad756"
+      },
+      "0_4_1-mc": {
+        "name": "create_connected-0.4.1-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Ey6bJBnq/create_connected-0.4.1-mc1.19.2.jar",
+        "sha512": "c8c13036459833da62a4edc1749568d382ae37b2d50f118f19b86f1c6712de126b314d3aca2e5c3de1378ff0ffcf2ff2494beffb86c27177afac2e7409a6fc36"
+      },
+      "0_3_1-mc": {
+        "name": "create_connected-0.3.1-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/CHbWnhEJ/create_connected-0.3.1-mc1.19.2.jar",
+        "sha512": "f8ebe1ffd91ba360cde808eed8bcc23f76768d22e5bf96c6a2879aa2575d74e07c124be49eff22bef9a0092987ac3fdb712ccd83e9ca0d391631ed2d9c12ba2a"
+      },
+      "0_3_0-mc": {
+        "name": "create_connected-0.3.0-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/KWIsOBlU/create_connected-0.3.0-mc1.19.2.jar",
+        "sha512": "d409d66f2b22cb4b7414121432698b2a353eeff669c29d67f42866cd0cd7c673638d88963d6fec977ccd8bc95f9f6a4dd4fbce16731b2286d4ee56d2c984e052"
+      },
+      "0_2_0-mc": {
+        "name": "create_connected-0.2.0-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/JoMIEQgT/create_connected-0.2.0-mc1.19.2.jar",
+        "sha512": "87d390567ed4a7e99a0b7bd61036deb2f3495b699c4c097c25f96322a7f27a757a6c332c840290a4985dbd55466fc22d9ade86cb43469542ece4578c1c71a863"
+      },
+      "0_1_0-mc": {
+        "name": "create_connected-0.1.0-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/QflJ4ZXc/create_connected-0.1.0-mc1.19.2.jar",
+        "sha512": "dead6782c47503d3660814e1402d60b2f95ec51444715a775192505541608f10b14653b63ec35628dbdb23604a26f85ae2bdcd74ed80889335950d0e83fffc0e"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "create_connected-0.9.5-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/5Q45khlO/create_connected-0.9.5-mc1.18.2-all.jar",
+        "sha512": "8f17e0001fbeab631a9382fdbc049cc86c4bc8c98bc8156d0de08e2019ad549563d1fc58eadf4df6588bb8684636b1cd011daba33d8bfc22e9e6c18706f8bf30"
+      },
+      "0_9_5-mc": {
+        "name": "create_connected-0.9.5-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/5Q45khlO/create_connected-0.9.5-mc1.18.2-all.jar",
+        "sha512": "8f17e0001fbeab631a9382fdbc049cc86c4bc8c98bc8156d0de08e2019ad549563d1fc58eadf4df6588bb8684636b1cd011daba33d8bfc22e9e6c18706f8bf30"
+      },
+      "0_9_4-mc": {
+        "name": "create_connected-0.9.4-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/5ceQLnpQ/create_connected-0.9.4-mc1.18.2-all.jar",
+        "sha512": "ac129f5a6af3e34211e6e2cd2151c8c6935da436fa17c1a84c1eef7f6cebe375ccd79b260a1638a0b029738bbb57c926a5863d84ba26fb074d7cc538c4c75a1d"
+      },
+      "0_8_2-mc": {
+        "name": "create_connected-0.8.2-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/DNGhyPzl/create_connected-0.8.2-mc1.18.2-all.jar",
+        "sha512": "e18e21a20f968b9e1cbbd1b30f53d68924fcaecbdfaa0290d4094b02a3f0519b8adaeb2b2e85481fde2c12cd8932bd00531e9f1984258046c5e5300ee00e9f82"
+      },
+      "0_8_1-mc": {
+        "name": "create_connected-0.8.1-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/QQzH5Cxb/create_connected-0.8.1-mc1.18.2-all.jar",
+        "sha512": "5a8755679c4f39e7c05cb4a16e800eb1b911b2ab5412af172712c64c167a699887ccfe305f0f1b702b51ad866dc0e3364e9d317271279d693e0ffa33f1f65723"
+      },
+      "0_8_0-mc": {
+        "name": "create_connected-0.8.0-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/5qCTnRWl/create_connected-0.8.0-mc1.18.2-all.jar",
+        "sha512": "c14124dfafbb5825b49b261b524830be73063ff66baded6efa0aa6a3e39c53d7e0b0c8b81c9837f00d69366fcbf8d3a9830b5495a802eab5d295989226e7bb3a"
+      },
+      "0_7_4-mc": {
+        "name": "create_connected-0.7.4-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/3mNr6Ov0/create_connected-0.7.4-mc1.18.2-all.jar",
+        "sha512": "9a7c7fc206ed0d1ca73049911698abdc42fd46a6274efdcc18f12783a84cd077e57f8604c5b82aebde75cf159021b192f3e0b2862ddf7847f0fd6bc1e8441bf2"
+      },
+      "0_7_3-mc": {
+        "name": "create_connected-0.7.3-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/4d5Tj1oU/create_connected-0.7.3-mc1.18.2-all.jar",
+        "sha512": "da3263b65b36dc195110c4eb964fd280a11678d952c33ed41f56b68b8d7b42f9b115273da8b8b0d31d3ea2805abdd73e46a2302f57e6e656899a1e830d5f9eca"
+      },
+      "0_7_2-mc": {
+        "name": "create_connected-0.7.2-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/qq1Suwfp/create_connected-0.7.2-mc1.18.2-all.jar",
+        "sha512": "5455abcadb4e684b197a5eabc846b9987533d0750a6c463ec19b5b9eecf3e21492102571ac5b7d46cf82f72a8fd16dc855a5dc6f4f2adab33552c6ac7e611fd6"
+      },
+      "0_7_1-mc": {
+        "name": "create_connected-0.7.1-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/shKqR66z/create_connected-0.7.1-mc1.18.2-all.jar",
+        "sha512": "cf5b29ed8885ee9703c24147e07ea616b73cb36debbe20268ff224fc83e42d6aa72b64f8bd7979a4a3fd38107740ee2b18486779a7336c05816b1cda325a6f24"
+      },
+      "0_7_0-mc": {
+        "name": "create_connected-0.7.0-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/i5HMit28/create_connected-0.7.0-mc1.18.2-all.jar",
+        "sha512": "fe24b86a8e4692313cf93b41bd45987515d6b01c0dcb0153acda6001ce0020e948e20d5ec07bc76a1c41448ff35bbdcdb8339c0a19b5395f05c412f8fc5c537c"
+      },
+      "0_6_1-mc": {
+        "name": "create_connected-0.6.1-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/tnlpFwMs/create_connected-0.6.1-mc1.18.2-all.jar",
+        "sha512": "860b7dc9e4660faec931cfbf71885d2c2afdc1aff9c2c8e63e269d25d37c7593d5e455e897d0c77a9fb73be65f86eb35ba0ce7df478eaf5ef155fb073fdbad2f"
+      },
+      "0_5_1-mc": {
+        "name": "create_connected-0.5.1-mc1.18.2-all.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/7eqfDkhF/create_connected-0.5.1-mc1.18.2-all.jar",
+        "sha512": "d039832c5a1f92666c6d8180c69936ad089bbca6c5551ac80e3d1e25124a138025048a9d7bf6a51a5a2ed6341d6305ce618dc0c884d92ad4572fb98c58e22285"
+      },
+      "0_4_2-mc": {
+        "name": "create_connected-0.4.2-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/udKX2hJ7/create_connected-0.4.2-mc1.18.2.jar",
+        "sha512": "741ee8aa1b4256db182b516547e1f2fe376fe06605b847063cc760376d5ab2f9bb9d99a42a67122825973c114574a854a5ec0494c3e7003c8df0fa24aac62f37"
+      },
+      "0_3_1-mc": {
+        "name": "create_connected-0.3.1-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/vJuwo471/create_connected-0.3.1-mc1.18.2.jar",
+        "sha512": "3fb898672c1a67e0e4e57a3abb1d01486ed60b25104047f44ca29a2c3c92a68ee60145794a2d84279625244288bd13bcc718260b61b9b3b98df8d06b804531eb"
+      },
+      "0_3_0-mc": {
+        "name": "create_connected-0.3.0-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/yCYW0mvn/create_connected-0.3.0-mc1.18.2.jar",
+        "sha512": "a60f479419b09fa4f1c8438991f5318e5bf19ffc2d0b932aae96195b5fe3c6d3ba6e1b34bf84108582c875f73fb1c5e6e229775ba9703d7eb58aa424f63eda2a"
+      },
+      "0_2_0-mc": {
+        "name": "create_connected-0.2.0-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/BHCJiU44/create_connected-0.2.0-mc1.18.2.jar",
+        "sha512": "4ce949b252004d6698085238cf6b959b918850baff6d3a0835a0b6a475505ee55fc3a6a87619a106027d80d9067925df624bac155b975e2d803261ddabad75d0"
+      },
+      "0_1_0-mc": {
+        "name": "create_connected-0.1.0-mc1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/3T2KxKD8/create_connected-0.1.0-mc1.18.2.jar",
+        "sha512": "1ead1b706ce7cc5dc2bd26558486475931b9188570bd14bd1acf69a9bb00c971df8120ffc1fc93266f45cfe53db6d29b2208f49d8d6cb76005c6364c3e7d9c34"
+      }
+    }
+  }
+}

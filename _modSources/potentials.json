@@ -1,0 +1,776 @@
+{
+  "neoforge": {
+    "1_21_11": {
+      "latest": {
+        "name": "potentials-neoforge-1.21.11-0.8.8.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/QEy7z1nL/potentials-neoforge-1.21.11-0.8.8.jar",
+        "sha512": "f933e8072bc858b6c479e061ee313d4db2f877c7b0f07a3f40222b1e5023624195ea9ee5eff486401127a6598931386a7b5a2cce5e29c87cba5837e86d4bc2fc"
+      },
+      "0_8_8": {
+        "name": "potentials-neoforge-1.21.11-0.8.8.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/QEy7z1nL/potentials-neoforge-1.21.11-0.8.8.jar",
+        "sha512": "f933e8072bc858b6c479e061ee313d4db2f877c7b0f07a3f40222b1e5023624195ea9ee5eff486401127a6598931386a7b5a2cce5e29c87cba5837e86d4bc2fc"
+      },
+      "0_8_7": {
+        "name": "potentials-neoforge-1.21.11-0.8.7.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/m4qAYc3i/potentials-neoforge-1.21.11-0.8.7.jar",
+        "sha512": "13ec1e912bfff23f97945530b2b75a0f13dc0b1e88f2d65e22c852822891ee8ca14960ebf84ad37e25021f18cf6c857f129d1b6c2ed5193245fe006ed4d41e88"
+      },
+      "0_8_6": {
+        "name": "potentials-neoforge-1.21.11-0.8.6.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/U25Ucgok/potentials-neoforge-1.21.11-0.8.6.jar",
+        "sha512": "acfa2799a05540ca9f389422f2f09d902883cf207a0a06af2c54aa39e2e1e6bfdcb9cce38cc39d5dc202f942df8a19cac3909ba2235c35b8ce04ded75b3de47e"
+      },
+      "0_8_5": {
+        "name": "potentials-neoforge-1.21.11-0.8.5.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/JNYj7ZrD/potentials-neoforge-1.21.11-0.8.5.jar",
+        "sha512": "1e95bff44314a3305cc543821a223f7d8c7630854870f26a623fadd0c3b62d727a19a9cc1f26e1e70e0fc379987f37f8c25952dcce51ade0322e057559b7681a"
+      },
+      "0_8_4": {
+        "name": "potentials-neoforge-1.21.11-0.8.4.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/sF5Q3d4B/potentials-neoforge-1.21.11-0.8.4.jar",
+        "sha512": "9a02b1216d8ba7b68eb8dcbd492e02acf4bee4cd9c361e6a4d698d8eecb933034a7d420ee544a800ba45d8443ec25211d0301668d38cd02c2aff568acddca95e"
+      },
+      "0_8_3": {
+        "name": "potentials-neoforge-1.21.11-0.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/3UcQ7bN2/potentials-neoforge-1.21.11-0.8.3.jar",
+        "sha512": "5cac94587f92419648cebb33ffedcdff07130e9d8ce0cb29e383afcfbfcde588a25ea3017231eb00663404102a58cbb4afb0053c23a224f9db054460cedbfe49"
+      },
+      "0_8_2": {
+        "name": "potentials-neoforge-1.21.11-0.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Srqc02xD/potentials-neoforge-1.21.11-0.8.2.jar",
+        "sha512": "231de1f4a1d3b8c8ee2ce88bfd6b0d0d425af31407ea5e0bf2d6d628e3784077028eaeb09f419f046d1782f25e5af80b4c0aaab5d72ab2bb1dd4a0f4eb78909c"
+      },
+      "0_8_1": {
+        "name": "potentials-neoforge-1.21.11-0.8.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/qc7gSQKh/potentials-neoforge-1.21.11-0.8.1.jar",
+        "sha512": "274584585cfc47d000f911e2d7a545c5d2c1ea70a5f16733b40128f39ed833586d0be6cd82424ee8fd603753f9814ea96206a8bf18d07b674a5ef61d1e6ce48d"
+      },
+      "0_8_0": {
+        "name": "potentials-neoforge-1.21.11-0.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/4KR66P8V/potentials-neoforge-1.21.11-0.8.0.jar",
+        "sha512": "9318d9d254648b22903bc39849146d998394ad83a351ecd8d84dbafaf14ffa7119675db2cef86f694c5dc78ceecafd5bcc895ae8b8d9242a8d46d00e31686782"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_3": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_2": {
+        "name": "potentials-neoforge-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/nPFQXN03/potentials-neoforge-1.21.5-0.7.2.jar",
+        "sha512": "786121dbbb715cb0054901ef3be70b307585e9b901c06e3b2d77ba315a794a729df48a3fc4e18e4b795528bb14175a31a7b403ee9ae026f3ea0b86f78472d630"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_3": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_2": {
+        "name": "potentials-neoforge-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/nPFQXN03/potentials-neoforge-1.21.5-0.7.2.jar",
+        "sha512": "786121dbbb715cb0054901ef3be70b307585e9b901c06e3b2d77ba315a794a729df48a3fc4e18e4b795528bb14175a31a7b403ee9ae026f3ea0b86f78472d630"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_3": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_2": {
+        "name": "potentials-neoforge-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/nPFQXN03/potentials-neoforge-1.21.5-0.7.2.jar",
+        "sha512": "786121dbbb715cb0054901ef3be70b307585e9b901c06e3b2d77ba315a794a729df48a3fc4e18e4b795528bb14175a31a7b403ee9ae026f3ea0b86f78472d630"
+      },
+      "0_7_1": {
+        "name": "potentials-neoforge-1.21.5-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/e8anKKA6/potentials-neoforge-1.21.5-0.7.1.jar",
+        "sha512": "1d4f319f1996df073534ebc3c803b85b67ea70ddd8fbe6651c35cc837b4b79c22294f4a58689988b34726d7cce7f71dfd725e216b55312d4dbe32074ec536131"
+      },
+      "0_7_0": {
+        "name": "potentials-neoforge-1.21.5-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/iHsfiP5S/potentials-neoforge-1.21.5-0.7.0.jar",
+        "sha512": "324ed97adfd5ce8e2fafe4ec321db264a154c65099153948f06c6f0b929090acbfb3d92190c732639eb4b09b1165763d27c2658932556ea3ecb9c5eea8efc5f4"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_3": {
+        "name": "potentials-neoforge-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/W5aqIS4O/potentials-neoforge-1.21.5-0.7.3.jar",
+        "sha512": "3acc0aa6118e1eb24322d07464f798fc962096df034d83e0d08659c542474b6f195cd9cce5fa504a1418cc9be3bee3f9b14dfa08b72e8317c35d91fd6b12e708"
+      },
+      "0_7_2": {
+        "name": "potentials-neoforge-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/nPFQXN03/potentials-neoforge-1.21.5-0.7.2.jar",
+        "sha512": "786121dbbb715cb0054901ef3be70b307585e9b901c06e3b2d77ba315a794a729df48a3fc4e18e4b795528bb14175a31a7b403ee9ae026f3ea0b86f78472d630"
+      },
+      "0_7_1": {
+        "name": "potentials-neoforge-1.21.5-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/e8anKKA6/potentials-neoforge-1.21.5-0.7.1.jar",
+        "sha512": "1d4f319f1996df073534ebc3c803b85b67ea70ddd8fbe6651c35cc837b4b79c22294f4a58689988b34726d7cce7f71dfd725e216b55312d4dbe32074ec536131"
+      },
+      "0_7_0": {
+        "name": "potentials-neoforge-1.21.5-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/iHsfiP5S/potentials-neoforge-1.21.5-0.7.0.jar",
+        "sha512": "324ed97adfd5ce8e2fafe4ec321db264a154c65099153948f06c6f0b929090acbfb3d92190c732639eb4b09b1165763d27c2658932556ea3ecb9c5eea8efc5f4"
+      },
+      "0_6_4": {
+        "name": "potentials-neoforge-1.21.5-0.6.4.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/tSyX37e5/potentials-neoforge-1.21.5-0.6.4.jar",
+        "sha512": "d2bcefd282ab470f98b6954b731fc9c2c767806cc2d265c2af6e1d0605b5253cc891eaeee698984ea1e72df3a249a9edff537a61b8923ca21d3c218ac3f0599b"
+      },
+      "0_6_3": {
+        "name": "potentials-neoforge-1.21.5-0.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/rw36AEuv/potentials-neoforge-1.21.5-0.6.3.jar",
+        "sha512": "de490375e402a9943b2199dc4cc32cb73ff1b9679974474fdf37c8ddc3e21d4796b0fc1893f4fb189e63ff5bcebd8e9f15359db4f041e449115461ca0f6c35a1"
+      },
+      "0_6_2": {
+        "name": "potentials-neoforge-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ePMzHdq2/potentials-neoforge-1.21-0.6.2.jar",
+        "sha512": "9b36d169563ddb3c62135ca694c93f8c835402cb2073b52e416fdfb618503b8def0f8b9e6d46a6ea6a320097eb4615a7182f9d60ec2285a4f57dfca649bf44cd"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_1": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_0": {
+        "name": "potentials-neoforge-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SKrZ8DRi/potentials-neoforge-1.21-0.7.0.jar",
+        "sha512": "b8370653054612f8a086eaea9ce6b4f4a5cfe96b7487a69bf8365fda11541a4ea65321573b93425f2b79212024a0be64587280b0741ee1eb6f67adafd6d00a52"
+      },
+      "0_6_2": {
+        "name": "potentials-neoforge-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ePMzHdq2/potentials-neoforge-1.21-0.6.2.jar",
+        "sha512": "9b36d169563ddb3c62135ca694c93f8c835402cb2073b52e416fdfb618503b8def0f8b9e6d46a6ea6a320097eb4615a7182f9d60ec2285a4f57dfca649bf44cd"
+      },
+      "0_6_1": {
+        "name": "potentials-neoforge-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SmOM8wmn/potentials-neoforge-1.21-0.6.1.jar",
+        "sha512": "a0ef531df1868810b088c063830d3351ae7feab1550254385cfb65cf4eeddab5a5a4cb1e4833657db0c57e3bc74b606d3e758131a261866a5b2f77fa5fcdb42c"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_1": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_0": {
+        "name": "potentials-neoforge-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SKrZ8DRi/potentials-neoforge-1.21-0.7.0.jar",
+        "sha512": "b8370653054612f8a086eaea9ce6b4f4a5cfe96b7487a69bf8365fda11541a4ea65321573b93425f2b79212024a0be64587280b0741ee1eb6f67adafd6d00a52"
+      },
+      "0_6_2": {
+        "name": "potentials-neoforge-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ePMzHdq2/potentials-neoforge-1.21-0.6.2.jar",
+        "sha512": "9b36d169563ddb3c62135ca694c93f8c835402cb2073b52e416fdfb618503b8def0f8b9e6d46a6ea6a320097eb4615a7182f9d60ec2285a4f57dfca649bf44cd"
+      },
+      "0_6_1": {
+        "name": "potentials-neoforge-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SmOM8wmn/potentials-neoforge-1.21-0.6.1.jar",
+        "sha512": "a0ef531df1868810b088c063830d3351ae7feab1550254385cfb65cf4eeddab5a5a4cb1e4833657db0c57e3bc74b606d3e758131a261866a5b2f77fa5fcdb42c"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_1": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_0": {
+        "name": "potentials-neoforge-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SKrZ8DRi/potentials-neoforge-1.21-0.7.0.jar",
+        "sha512": "b8370653054612f8a086eaea9ce6b4f4a5cfe96b7487a69bf8365fda11541a4ea65321573b93425f2b79212024a0be64587280b0741ee1eb6f67adafd6d00a52"
+      },
+      "0_6_2": {
+        "name": "potentials-neoforge-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ePMzHdq2/potentials-neoforge-1.21-0.6.2.jar",
+        "sha512": "9b36d169563ddb3c62135ca694c93f8c835402cb2073b52e416fdfb618503b8def0f8b9e6d46a6ea6a320097eb4615a7182f9d60ec2285a4f57dfca649bf44cd"
+      },
+      "0_6_1": {
+        "name": "potentials-neoforge-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SmOM8wmn/potentials-neoforge-1.21-0.6.1.jar",
+        "sha512": "a0ef531df1868810b088c063830d3351ae7feab1550254385cfb65cf4eeddab5a5a4cb1e4833657db0c57e3bc74b606d3e758131a261866a5b2f77fa5fcdb42c"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "potentials-neoforge-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/eDwbupgj/potentials-neoforge-1.21-0.2.1.jar",
+        "sha512": "1bc4076bbe6d8f192c32685ee9e935c942d3d2d81ef55d10120ba4dd741e3daa5442e1110657457f062a55489c249c7c5c6eb1a565a382574a2d6da4655dd86c"
+      },
+      "1_21-0_2_1": {
+        "name": "potentials-neoforge-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/eDwbupgj/potentials-neoforge-1.21-0.2.1.jar",
+        "sha512": "1bc4076bbe6d8f192c32685ee9e935c942d3d2d81ef55d10120ba4dd741e3daa5442e1110657457f062a55489c249c7c5c6eb1a565a382574a2d6da4655dd86c"
+      },
+      "1_21-0_2_0": {
+        "name": "potentials-neoforge-1.21-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ooE2CrGE/potentials-neoforge-1.21-0.2.0.jar",
+        "sha512": "567b909b73d2471dd629cce0844081e8c89023eaaf0fc9e6f907ac326cc3d025187add4ac3ab3e6fe7ce9af0af9d469e31b5e9f8b63371724cc68ac6ab023206"
+      },
+      "0_7_1": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_0": {
+        "name": "potentials-neoforge-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SKrZ8DRi/potentials-neoforge-1.21-0.7.0.jar",
+        "sha512": "b8370653054612f8a086eaea9ce6b4f4a5cfe96b7487a69bf8365fda11541a4ea65321573b93425f2b79212024a0be64587280b0741ee1eb6f67adafd6d00a52"
+      },
+      "0_6_2": {
+        "name": "potentials-neoforge-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ePMzHdq2/potentials-neoforge-1.21-0.6.2.jar",
+        "sha512": "9b36d169563ddb3c62135ca694c93f8c835402cb2073b52e416fdfb618503b8def0f8b9e6d46a6ea6a320097eb4615a7182f9d60ec2285a4f57dfca649bf44cd"
+      },
+      "0_6_1": {
+        "name": "potentials-neoforge-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SmOM8wmn/potentials-neoforge-1.21-0.6.1.jar",
+        "sha512": "a0ef531df1868810b088c063830d3351ae7feab1550254385cfb65cf4eeddab5a5a4cb1e4833657db0c57e3bc74b606d3e758131a261866a5b2f77fa5fcdb42c"
+      },
+      "0_6_0": {
+        "name": "potentials-neoforge-1.21-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/sVi3xhuw/potentials-neoforge-1.21-0.6.0.jar",
+        "sha512": "b559ce6d06f44f87f0c596d5f773d11aa7b43419b8041f0934159dd9a39b9558f91fc12d894b58430dc69608dd8b53045df7171f972a39109b20f8a6c80f2641"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "potentials-neoforge-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/eDwbupgj/potentials-neoforge-1.21-0.2.1.jar",
+        "sha512": "1bc4076bbe6d8f192c32685ee9e935c942d3d2d81ef55d10120ba4dd741e3daa5442e1110657457f062a55489c249c7c5c6eb1a565a382574a2d6da4655dd86c"
+      },
+      "1_21-0_2_1": {
+        "name": "potentials-neoforge-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/eDwbupgj/potentials-neoforge-1.21-0.2.1.jar",
+        "sha512": "1bc4076bbe6d8f192c32685ee9e935c942d3d2d81ef55d10120ba4dd741e3daa5442e1110657457f062a55489c249c7c5c6eb1a565a382574a2d6da4655dd86c"
+      },
+      "1_21-0_2_0": {
+        "name": "potentials-neoforge-1.21-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ooE2CrGE/potentials-neoforge-1.21-0.2.0.jar",
+        "sha512": "567b909b73d2471dd629cce0844081e8c89023eaaf0fc9e6f907ac326cc3d025187add4ac3ab3e6fe7ce9af0af9d469e31b5e9f8b63371724cc68ac6ab023206"
+      },
+      "0_7_1": {
+        "name": "potentials-neoforge-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar",
+        "sha512": "fe42e40aa1fec39a6e6d0e24ba54c994979868d77da4241fb629d3752a72c45b466a79889a15e9f6f1114c93e39ca74818622efc25f10af004bc54371db79362"
+      },
+      "0_7_0": {
+        "name": "potentials-neoforge-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SKrZ8DRi/potentials-neoforge-1.21-0.7.0.jar",
+        "sha512": "b8370653054612f8a086eaea9ce6b4f4a5cfe96b7487a69bf8365fda11541a4ea65321573b93425f2b79212024a0be64587280b0741ee1eb6f67adafd6d00a52"
+      },
+      "0_6_2": {
+        "name": "potentials-neoforge-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ePMzHdq2/potentials-neoforge-1.21-0.6.2.jar",
+        "sha512": "9b36d169563ddb3c62135ca694c93f8c835402cb2073b52e416fdfb618503b8def0f8b9e6d46a6ea6a320097eb4615a7182f9d60ec2285a4f57dfca649bf44cd"
+      },
+      "0_6_1": {
+        "name": "potentials-neoforge-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/SmOM8wmn/potentials-neoforge-1.21-0.6.1.jar",
+        "sha512": "a0ef531df1868810b088c063830d3351ae7feab1550254385cfb65cf4eeddab5a5a4cb1e4833657db0c57e3bc74b606d3e758131a261866a5b2f77fa5fcdb42c"
+      },
+      "0_6_0": {
+        "name": "potentials-neoforge-1.21-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/sVi3xhuw/potentials-neoforge-1.21-0.6.0.jar",
+        "sha512": "b559ce6d06f44f87f0c596d5f773d11aa7b43419b8041f0934159dd9a39b9558f91fc12d894b58430dc69608dd8b53045df7171f972a39109b20f8a6c80f2641"
+      },
+      "0_5_7": {
+        "name": "potentials-neoforge-1.21-0.5.7.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Y56eUAxm/potentials-neoforge-1.21-0.5.7.jar",
+        "sha512": "33e2155a0acb41d6e6810b7d8e039c15044a897f64b0c8add6de62aa5c8307e6fe8d6ad6d99d59dd644867b0af6fd1bbcf48b2725eb05b378761ade5d18757ae"
+      },
+      "0_5_6": {
+        "name": "potentials-neoforge-1.21-0.5.6.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/P0pqx2RN/potentials-neoforge-1.21-0.5.6.jar",
+        "sha512": "5563c86d89b3852eab6f9b5c9aa3a3c4cfadb591fd3a96ba3144ec469ff31aa6a17f7a2378cb0c4f1a341efab314b8501ea31a04ec1af8fc04d184977c941c7d"
+      },
+      "0_5_5": {
+        "name": "potentials-neoforge-1.21-0.5.5.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/jVOz8Zhp/potentials-neoforge-1.21-0.5.5.jar",
+        "sha512": "2fdfe79fe5aecdaf448de8be81e95e02f8d2139414d4378d9c283b473fe8fcc410053b9bb1c2cbef6480b20a88a2b74248bb71415de5b061db54968d156532ae"
+      },
+      "0_5_4": {
+        "name": "potentials-neoforge-1.21-0.5.4.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/hlfWHzXo/potentials-neoforge-1.21-0.5.4.jar",
+        "sha512": "9e34a8d3c378ea53bc9432fe7d63621a3e463df1001b6c8116f3539f17408ba85c69f5d7f130e4aa2011452380b32e640df2375c0c11c977c7027e78895d5cda"
+      },
+      "0_5_3": {
+        "name": "potentials-neoforge-1.21-0.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/WfqMMPz5/potentials-neoforge-1.21-0.5.3.jar",
+        "sha512": "11e76f024ba665db26cae8903ceab04f629a65ede59d903cc05c8869502dd0a30c6e0f81a613062dbecb46103623978f7a55760304407724079aa355ee2e2208"
+      },
+      "0_5_2": {
+        "name": "potentials-neoforge-1.21-0.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/83AYxCqF/potentials-neoforge-1.21-0.5.2.jar",
+        "sha512": "603d06de80d04208fe79e58fe3afd03e077da5ea6dddf9b3e50a779546d9a36ac1eddb503575948da12843dd7e4ebcc32e43d6b12b5a6ea1d3da3c53ce9a893f"
+      },
+      "0_5_1": {
+        "name": "potentials-neoforge-1.21-0.5.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/riJAFKnz/potentials-neoforge-1.21-0.5.1.jar",
+        "sha512": "74a4ac7a00793b05c32ca53d423a046d795033c41f1daefee9e34a008f666c97cbb24d1bd15a0f0314cbd1ae410bd9063bf130c4fd3f6de057b51b98d25db722"
+      },
+      "0_5_0": {
+        "name": "potentials-neoforge-1.21-0.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/iLqFg5fm/potentials-neoforge-1.21-0.5.0.jar",
+        "sha512": "043220f9404513f5f19de145f8bb5cbab9751309c38eea437101022639168b065ca08a3861cc77f74dca53e979a5a7e584f34b92972f4ffc12f1cf038d37e752"
+      },
+      "0_4_1": {
+        "name": "potentials-neoforge-1.21-0.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/k47sjsM5/potentials-neoforge-1.21-0.4.1.jar",
+        "sha512": "6232ff0231e92fb8ae0486470387e6a79d52579bdf95e19d35dcfa7389daebd493c47578de87c69946feac4707670b8a47ffb0dd740259cacd3a5a333b07a76a"
+      },
+      "0_4_0": {
+        "name": "potentials-neoforge-1.21-0.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/y4vAddW2/potentials-neoforge-1.21-0.4.0.jar",
+        "sha512": "c6a40b07b909d5cc2c09cfda9442f1752cc72503e8c63e772c7c3015fb8f408bfcdba39d356788095d45a4b671d0565b1679080ddffd8e10a600d511c2a52f77"
+      },
+      "0_3_0": {
+        "name": "potentials-neoforge-1.21-0.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yBHYNX7J/potentials-neoforge-1.21-0.3.0.jar",
+        "sha512": "1954d39166bd01ecc15cb31057fdc9e07abbcaac641fde09522be71d9986b6787c8fa4caca319cd0b5ccb884d662cfa9dcd40e38d7fd393b88f8b86eaddb3974"
+      },
+      "0_2_10": {
+        "name": "potentials-neoforge-1.21-0.2.10.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ICWXMu8V/potentials-neoforge-1.21-0.2.10.jar",
+        "sha512": "dc61c58855887487d4a0e848a5037daffe2e30982fcfe728ea7524c570c53dd04c123262f4823836a18dd107e74ee6f8e7c03b1b4f67e02e79ad19a2dafd0cee"
+      },
+      "0_2_9": {
+        "name": "potentials-neoforge-1.21-0.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/auTtkFD1/potentials-neoforge-1.21-0.2.9.jar",
+        "sha512": "da089607a50b3052559097da47048e6d323c77b5a797d3dfc3fe7044ff236b6a5fabe642e7c2c663fd46163fe93db819892214f54ac9e6d5ffea2bad0db9589c"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_11": {
+      "latest": {
+        "name": "potentials-fabric-1.21.11-0.8.8.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/FrF3kEV0/potentials-fabric-1.21.11-0.8.8.jar",
+        "sha512": "8fa6ef8ebddc011bed0a132d8343faeb89d1fadd7ffa5f636e8d78a76f2bd272fe9a108b9f0d7d5472aaec840b463887fc334ec965855f5463ec8b153a6e12ff"
+      },
+      "0_8_8": {
+        "name": "potentials-fabric-1.21.11-0.8.8.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/FrF3kEV0/potentials-fabric-1.21.11-0.8.8.jar",
+        "sha512": "8fa6ef8ebddc011bed0a132d8343faeb89d1fadd7ffa5f636e8d78a76f2bd272fe9a108b9f0d7d5472aaec840b463887fc334ec965855f5463ec8b153a6e12ff"
+      },
+      "0_8_7": {
+        "name": "potentials-fabric-1.21.11-0.8.7.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/wdWVKemz/potentials-fabric-1.21.11-0.8.7.jar",
+        "sha512": "86cabdc28554783cf9ad09a6dfe9416e1890b57638b41148f8f9b4d1547d0a90d3f6d7020b73fb2d7b5592a40fe0e7abf7ababbc5a7cc8f9cf9bff2dd58333e8"
+      },
+      "0_8_6": {
+        "name": "potentials-fabric-1.21.11-0.8.6.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/8DGOUCA7/potentials-fabric-1.21.11-0.8.6.jar",
+        "sha512": "392739321ddc3bbcd1d4c2eca4979eafb5a023fbda88f760890b279763d6d86d8dff6a1c1cae6c02c1e736ab797547769b3a0a0969c59638149dd8c56989a7e5"
+      },
+      "0_8_5": {
+        "name": "potentials-fabric-1.21.11-0.8.5.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/GCuQZ9nP/potentials-fabric-1.21.11-0.8.5.jar",
+        "sha512": "fbfb6a58864fa74043abb728c0b59d9a746b9a13af3cf318e91a18799c21592dd065ad0c64cfd0f0d6cd2bd000017c37a3e24a1e3d1653e53c0c05a4d238125f"
+      },
+      "0_8_4": {
+        "name": "potentials-fabric-1.21.11-0.8.4.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/bhPiAt36/potentials-fabric-1.21.11-0.8.4.jar",
+        "sha512": "922642e441578f8409b4fc03eb4762df16a9bff874a5f352818dadcafb3c2d3f5d36aa04479cc497af47438b1c22bd89d065c8cc4a117d694bcc20ee3007e26e"
+      },
+      "0_8_3": {
+        "name": "potentials-fabric-1.21.11-0.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/pNX7uXoj/potentials-fabric-1.21.11-0.8.3.jar",
+        "sha512": "08e53a57fab18982a550f5aa49c574cc145ba7e9694df18aac3d895d9ce78a2bf79dc846b84116a2f1e094c87e95c4f180d7533d0735ba8cb26196c58dab785c"
+      },
+      "0_8_2": {
+        "name": "potentials-fabric-1.21.11-0.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ZFSqUBcW/potentials-fabric-1.21.11-0.8.2.jar",
+        "sha512": "e7fcde763a1ea86f636ec13931f4baf50a69cbbd1b52f9407a8d6f576775f6493d8d08712f6e691039176f560be79ece32898226883ed5f5d29daf6c415d30c9"
+      },
+      "0_8_1": {
+        "name": "potentials-fabric-1.21.11-0.8.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/rF8G1hSv/potentials-fabric-1.21.11-0.8.1.jar",
+        "sha512": "4a45da10e387130876d2973046e11ad79f24f23ddc3d46b5c467b9fe48d6d2ebc20dae9c4d59fbedfbd2c915b5ebecee5aec23ea429f5284e309df0ecf685427"
+      },
+      "0_8_0": {
+        "name": "potentials-fabric-1.21.11-0.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/AoCPPI9b/potentials-fabric-1.21.11-0.8.0.jar",
+        "sha512": "391360bc26f69766082eed32bc21513a4630cb63421f357449068a1d1292083c09df20df43e6c7fc1aae37d5204b0f8a1250fc3196e7a44b05bd3fedf196e953"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_3": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_2": {
+        "name": "potentials-fabric-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Jh10LVve/potentials-fabric-1.21.5-0.7.2.jar",
+        "sha512": "2dcf36dab2c0745cb79ff8d339dba25f6d63da74de7f38b48a41e685f2edc3a100e8759ee6463fc7fd0b563e72c9fef8fc913c1a2e45aba23759e097bb945b5d"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_3": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_2": {
+        "name": "potentials-fabric-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Jh10LVve/potentials-fabric-1.21.5-0.7.2.jar",
+        "sha512": "2dcf36dab2c0745cb79ff8d339dba25f6d63da74de7f38b48a41e685f2edc3a100e8759ee6463fc7fd0b563e72c9fef8fc913c1a2e45aba23759e097bb945b5d"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_3": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_2": {
+        "name": "potentials-fabric-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Jh10LVve/potentials-fabric-1.21.5-0.7.2.jar",
+        "sha512": "2dcf36dab2c0745cb79ff8d339dba25f6d63da74de7f38b48a41e685f2edc3a100e8759ee6463fc7fd0b563e72c9fef8fc913c1a2e45aba23759e097bb945b5d"
+      },
+      "0_7_1": {
+        "name": "potentials-fabric-1.21.5-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/5VXBmDc9/potentials-fabric-1.21.5-0.7.1.jar",
+        "sha512": "ff7d72309ad831c456fc32628098e4196a886d250d0d80f6961ec4dc8b1d1bff9d1c8c9abbfbd387fe66b9f2bf89bf6ceaff72e389b2e7a189ff8f67731da189"
+      },
+      "0_7_0": {
+        "name": "potentials-fabric-1.21.5-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/4foWlSHM/potentials-fabric-1.21.5-0.7.0.jar",
+        "sha512": "b180521bf4f22b25201209a0c90d96329f7c56cafee693962e4828695ac564ad4a7ae6ea520754c2b05698981ffbb2bfa367a8939f9e5ffb0fd3a12221ea6e8f"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_3": {
+        "name": "potentials-fabric-1.21.5-0.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/yxbstD6v/potentials-fabric-1.21.5-0.7.3.jar",
+        "sha512": "6652f7decba9026751d55ed3d3c57a6819baee6b517d54083edd6e84bd31bd7c8d6b037d4d59d2dc321fdccc52b9c8428c46ca9d0cdc14ba3a953a73255f1752"
+      },
+      "0_7_2": {
+        "name": "potentials-fabric-1.21.5-0.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Jh10LVve/potentials-fabric-1.21.5-0.7.2.jar",
+        "sha512": "2dcf36dab2c0745cb79ff8d339dba25f6d63da74de7f38b48a41e685f2edc3a100e8759ee6463fc7fd0b563e72c9fef8fc913c1a2e45aba23759e097bb945b5d"
+      },
+      "0_7_1": {
+        "name": "potentials-fabric-1.21.5-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/5VXBmDc9/potentials-fabric-1.21.5-0.7.1.jar",
+        "sha512": "ff7d72309ad831c456fc32628098e4196a886d250d0d80f6961ec4dc8b1d1bff9d1c8c9abbfbd387fe66b9f2bf89bf6ceaff72e389b2e7a189ff8f67731da189"
+      },
+      "0_7_0": {
+        "name": "potentials-fabric-1.21.5-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/4foWlSHM/potentials-fabric-1.21.5-0.7.0.jar",
+        "sha512": "b180521bf4f22b25201209a0c90d96329f7c56cafee693962e4828695ac564ad4a7ae6ea520754c2b05698981ffbb2bfa367a8939f9e5ffb0fd3a12221ea6e8f"
+      },
+      "0_6_4": {
+        "name": "potentials-fabric-1.21.5-0.6.4.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/sG98sid3/potentials-fabric-1.21.5-0.6.4.jar",
+        "sha512": "5bc245348379b5839b977a1f9cc8e15e0c41cda7fc469913e75b39caea19bc6875afc94c4ad130028d422a615280b1c1424980e830793d750c150c197f97e283"
+      },
+      "0_6_3": {
+        "name": "potentials-fabric-1.21.5-0.6.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ySFvZUZt/potentials-fabric-1.21.5-0.6.3.jar",
+        "sha512": "9bced364b3fb2bdabcdf3d97c953ea8cc5d40d24dad9599f88e55b97e2df613be624b6c8495540a357dc9120165490f392efe7dc60219fe6d219f81d14119713"
+      },
+      "0_6_2": {
+        "name": "potentials-fabric-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/1luDQmhj/potentials-fabric-1.21-0.6.2.jar",
+        "sha512": "ecf1bd337e7fac0ed2bfc2a7b98277a8ad387d2deef80904ac4750abdbbf4c637a284e52a79f7ab5b5c205f3a3ee030df7f7afbf562ea1c95c8f21e20b2bdc89"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_1": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_0": {
+        "name": "potentials-fabric-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/pBZtKVfL/potentials-fabric-1.21-0.7.0.jar",
+        "sha512": "ccc8ba9a00abce098550f7c517dace2a4a069ef84a3aa55822daf129abc511f1532cbbe6bb64d8568773d6aa8f6616367490e628572a515016332d940248322d"
+      },
+      "0_6_2": {
+        "name": "potentials-fabric-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/1luDQmhj/potentials-fabric-1.21-0.6.2.jar",
+        "sha512": "ecf1bd337e7fac0ed2bfc2a7b98277a8ad387d2deef80904ac4750abdbbf4c637a284e52a79f7ab5b5c205f3a3ee030df7f7afbf562ea1c95c8f21e20b2bdc89"
+      },
+      "0_6_1": {
+        "name": "potentials-fabric-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/uqs0WZzF/potentials-fabric-1.21-0.6.1.jar",
+        "sha512": "455fdfa514e91f38e7cfd9dd985092d717ce227d947c09fb94bed16ddb849dbdac81b98a879ac9c0b1a063f9f2fa2c37a6f9d6290e20aaf3da86c7cd13560cb7"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_1": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_0": {
+        "name": "potentials-fabric-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/pBZtKVfL/potentials-fabric-1.21-0.7.0.jar",
+        "sha512": "ccc8ba9a00abce098550f7c517dace2a4a069ef84a3aa55822daf129abc511f1532cbbe6bb64d8568773d6aa8f6616367490e628572a515016332d940248322d"
+      },
+      "0_6_2": {
+        "name": "potentials-fabric-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/1luDQmhj/potentials-fabric-1.21-0.6.2.jar",
+        "sha512": "ecf1bd337e7fac0ed2bfc2a7b98277a8ad387d2deef80904ac4750abdbbf4c637a284e52a79f7ab5b5c205f3a3ee030df7f7afbf562ea1c95c8f21e20b2bdc89"
+      },
+      "0_6_1": {
+        "name": "potentials-fabric-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/uqs0WZzF/potentials-fabric-1.21-0.6.1.jar",
+        "sha512": "455fdfa514e91f38e7cfd9dd985092d717ce227d947c09fb94bed16ddb849dbdac81b98a879ac9c0b1a063f9f2fa2c37a6f9d6290e20aaf3da86c7cd13560cb7"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_1": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_0": {
+        "name": "potentials-fabric-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/pBZtKVfL/potentials-fabric-1.21-0.7.0.jar",
+        "sha512": "ccc8ba9a00abce098550f7c517dace2a4a069ef84a3aa55822daf129abc511f1532cbbe6bb64d8568773d6aa8f6616367490e628572a515016332d940248322d"
+      },
+      "0_6_2": {
+        "name": "potentials-fabric-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/1luDQmhj/potentials-fabric-1.21-0.6.2.jar",
+        "sha512": "ecf1bd337e7fac0ed2bfc2a7b98277a8ad387d2deef80904ac4750abdbbf4c637a284e52a79f7ab5b5c205f3a3ee030df7f7afbf562ea1c95c8f21e20b2bdc89"
+      },
+      "0_6_1": {
+        "name": "potentials-fabric-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/uqs0WZzF/potentials-fabric-1.21-0.6.1.jar",
+        "sha512": "455fdfa514e91f38e7cfd9dd985092d717ce227d947c09fb94bed16ddb849dbdac81b98a879ac9c0b1a063f9f2fa2c37a6f9d6290e20aaf3da86c7cd13560cb7"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "potentials-fabric-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/tf61FuHY/potentials-fabric-1.21-0.2.1.jar",
+        "sha512": "fde692e6b031618c5a74244ed8f0dbe876cb46c32f4eb754c6e24bfd68921980f3f0bdfef11e61df47b49a7a4989193dd093f28a64f7ccaf8b51cd7b5944ddec"
+      },
+      "1_21-0_2_1": {
+        "name": "potentials-fabric-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/tf61FuHY/potentials-fabric-1.21-0.2.1.jar",
+        "sha512": "fde692e6b031618c5a74244ed8f0dbe876cb46c32f4eb754c6e24bfd68921980f3f0bdfef11e61df47b49a7a4989193dd093f28a64f7ccaf8b51cd7b5944ddec"
+      },
+      "1_21-0_2_0": {
+        "name": "potentials-fabric-1.21-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/wGll1MN4/potentials-fabric-1.21-0.2.0.jar",
+        "sha512": "fd16ee1444a89fd0ba0ab828a6c9832018215a53e853fe7b55a9a904839a80cad835a20b88e71a8cdc2c2f4f3d25c2e60430da0d295a871c4abc6a32da01428b"
+      },
+      "0_7_1": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_0": {
+        "name": "potentials-fabric-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/pBZtKVfL/potentials-fabric-1.21-0.7.0.jar",
+        "sha512": "ccc8ba9a00abce098550f7c517dace2a4a069ef84a3aa55822daf129abc511f1532cbbe6bb64d8568773d6aa8f6616367490e628572a515016332d940248322d"
+      },
+      "0_6_2": {
+        "name": "potentials-fabric-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/1luDQmhj/potentials-fabric-1.21-0.6.2.jar",
+        "sha512": "ecf1bd337e7fac0ed2bfc2a7b98277a8ad387d2deef80904ac4750abdbbf4c637a284e52a79f7ab5b5c205f3a3ee030df7f7afbf562ea1c95c8f21e20b2bdc89"
+      },
+      "0_6_1": {
+        "name": "potentials-fabric-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/uqs0WZzF/potentials-fabric-1.21-0.6.1.jar",
+        "sha512": "455fdfa514e91f38e7cfd9dd985092d717ce227d947c09fb94bed16ddb849dbdac81b98a879ac9c0b1a063f9f2fa2c37a6f9d6290e20aaf3da86c7cd13560cb7"
+      },
+      "0_6_0": {
+        "name": "potentials-fabric-1.21-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/4U0LNEXO/potentials-fabric-1.21-0.6.0.jar",
+        "sha512": "13a10c325801207364d899bdf9ffa627bad5149ba2156cfe25182542ab2bc2860f288d6bd880e2992fb2f6160636644399bcd064b62aff4fd977abb959745daa"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "potentials-fabric-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/tf61FuHY/potentials-fabric-1.21-0.2.1.jar",
+        "sha512": "fde692e6b031618c5a74244ed8f0dbe876cb46c32f4eb754c6e24bfd68921980f3f0bdfef11e61df47b49a7a4989193dd093f28a64f7ccaf8b51cd7b5944ddec"
+      },
+      "1_21-0_2_1": {
+        "name": "potentials-fabric-1.21-0.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/tf61FuHY/potentials-fabric-1.21-0.2.1.jar",
+        "sha512": "fde692e6b031618c5a74244ed8f0dbe876cb46c32f4eb754c6e24bfd68921980f3f0bdfef11e61df47b49a7a4989193dd093f28a64f7ccaf8b51cd7b5944ddec"
+      },
+      "1_21-0_2_0": {
+        "name": "potentials-fabric-1.21-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/wGll1MN4/potentials-fabric-1.21-0.2.0.jar",
+        "sha512": "fd16ee1444a89fd0ba0ab828a6c9832018215a53e853fe7b55a9a904839a80cad835a20b88e71a8cdc2c2f4f3d25c2e60430da0d295a871c4abc6a32da01428b"
+      },
+      "0_7_1": {
+        "name": "potentials-fabric-1.21-0.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar",
+        "sha512": "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+      },
+      "0_7_0": {
+        "name": "potentials-fabric-1.21-0.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/pBZtKVfL/potentials-fabric-1.21-0.7.0.jar",
+        "sha512": "ccc8ba9a00abce098550f7c517dace2a4a069ef84a3aa55822daf129abc511f1532cbbe6bb64d8568773d6aa8f6616367490e628572a515016332d940248322d"
+      },
+      "0_6_2": {
+        "name": "potentials-fabric-1.21-0.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/1luDQmhj/potentials-fabric-1.21-0.6.2.jar",
+        "sha512": "ecf1bd337e7fac0ed2bfc2a7b98277a8ad387d2deef80904ac4750abdbbf4c637a284e52a79f7ab5b5c205f3a3ee030df7f7afbf562ea1c95c8f21e20b2bdc89"
+      },
+      "0_6_1": {
+        "name": "potentials-fabric-1.21-0.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/uqs0WZzF/potentials-fabric-1.21-0.6.1.jar",
+        "sha512": "455fdfa514e91f38e7cfd9dd985092d717ce227d947c09fb94bed16ddb849dbdac81b98a879ac9c0b1a063f9f2fa2c37a6f9d6290e20aaf3da86c7cd13560cb7"
+      },
+      "0_6_0": {
+        "name": "potentials-fabric-1.21-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/4U0LNEXO/potentials-fabric-1.21-0.6.0.jar",
+        "sha512": "13a10c325801207364d899bdf9ffa627bad5149ba2156cfe25182542ab2bc2860f288d6bd880e2992fb2f6160636644399bcd064b62aff4fd977abb959745daa"
+      },
+      "0_5_7": {
+        "name": "potentials-fabric-1.21-0.5.7.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Hisuq3bQ/potentials-fabric-1.21-0.5.7.jar",
+        "sha512": "4c2da38cc6807f7493944b627053734bc3cbd984f536d34eaee66662767f5c448033b7ef3cdc00670b02ac8137dee35d28d3aed78bbfbfcb46b5fa80603138ed"
+      },
+      "0_5_6": {
+        "name": "potentials-fabric-1.21-0.5.6.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/DqD5G4cF/potentials-fabric-1.21-0.5.6.jar",
+        "sha512": "1645000534dbb6b01ad6ef0b5a3de925637f3fc7084ed55767bd567c95c2a5495f2731538cc50e2c7ad2b58dc7538b6fe2f33e0e3a8f2c6c7d9d046c76143202"
+      },
+      "0_5_5": {
+        "name": "potentials-fabric-1.21-0.5.5.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/2wuTRJ2R/potentials-fabric-1.21-0.5.5.jar",
+        "sha512": "6217a6499cceba3a9efd21189004d921524c5d0b405e79923026410e8f674ef1fb7771db93cae51e737878d7d6b3233aeaf90bd30aa506e5141f713add63b8d0"
+      },
+      "0_5_4": {
+        "name": "potentials-fabric-1.21-0.5.4.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/GuAN7Jde/potentials-fabric-1.21-0.5.4.jar",
+        "sha512": "c7440f9027855c2eee8283a8ce0d9926b69ecf1b26ef5fad735a786bb5a1974b1861571a5011cc81f039a3314132384cfe9a5dd302081e5b6ebaa049a7883298"
+      },
+      "0_5_3": {
+        "name": "potentials-fabric-1.21-0.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/RsMORrwi/potentials-fabric-1.21-0.5.3.jar",
+        "sha512": "7042ee76c60fc43f3c47e045e35731b0b162b730b67975ab99c07ee3dfdd09fa8a40bd9deafc1b558b4ab619616a9686a81c3734a001533b9e4102520d5e41bb"
+      },
+      "0_5_2": {
+        "name": "potentials-fabric-1.21-0.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/ic0hDyCi/potentials-fabric-1.21-0.5.2.jar",
+        "sha512": "c8157a95b9cf1f9b0ee3a4ff5954fa855b08f85b88113290c922357e34c51405d430279d04430f65368f1168b92c7b7991a1f883afa500d8cd64ffe3e8710cee"
+      },
+      "0_5_1": {
+        "name": "potentials-fabric-1.21-0.5.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/xxhXnpah/potentials-fabric-1.21-0.5.1.jar",
+        "sha512": "6a65e74ac7200c6567da6a4cac1ade9d4bbd6ec21127bef667ba2181a67ebb10a436d630e76e155f6a9f9727d9d246253a256d1ec3ecca978e7b12cd705e1dfc"
+      },
+      "0_5_0": {
+        "name": "potentials-fabric-1.21-0.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/TvVMR8jd/potentials-fabric-1.21-0.5.0.jar",
+        "sha512": "da6965869c15af6a5fd407a68150370d04b958cbf327730b57dd296765c051c7390141cd52cab91052308dbedf149c6c686b4350bef005799cf35124491887ba"
+      },
+      "0_4_1": {
+        "name": "potentials-fabric-1.21-0.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/8k1V97Cj/potentials-fabric-1.21-0.4.1.jar",
+        "sha512": "c83b0d9e455af54a9860de223983c30f05ae5ab9550e953d969453f18b7012be2014f514d7b7c2bcb87ce136babab30be73e6ce143936ddbc0ec547a04ad6e4a"
+      },
+      "0_4_0": {
+        "name": "potentials-fabric-1.21-0.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/Uij13BK3/potentials-fabric-1.21-0.4.0.jar",
+        "sha512": "b15086d8887fbe922d7ea48f066a2588cb892a9f4a41f69d2632b21681e4cdca8ebc58fc6f148df56dfd1316be15a00b8ee172b4cfcf5b342799cabc83417955"
+      },
+      "0_3_0": {
+        "name": "potentials-fabric-1.21-0.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/GicZEBlf/potentials-fabric-1.21-0.3.0.jar",
+        "sha512": "ecffbc929d5080cb5989f5d9c2e8c9cc4d5a23129775f164d8927a0d3b91b8f68e0d3fa99f6fadfe36b55192133ad0afba53602ba36e70744c72233d4676b28e"
+      },
+      "0_2_10": {
+        "name": "potentials-fabric-1.21-0.2.10.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/2qNiRCP4/potentials-fabric-1.21-0.2.10.jar",
+        "sha512": "5dbfb64a6e3bb796dc33891fa732423cec68e8f5d0910e1462fa519ca7bc7afebca061222a49f4595d1b3b72f63af9569ee8d341978bbe4ada7e5dccc00521f8"
+      },
+      "0_2_9": {
+        "name": "potentials-fabric-1.21-0.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/J9pKOkxP/versions/XWzKkCNF/potentials-fabric-1.21-0.2.9.jar",
+        "sha512": "0340a9ebd16354555cfcb182011b54af6b975a01506d85b4898b92e71672cb45fdbd883016211775674be7bf843b1834c4cf3bc9102af96ced4832527ed77501"
+      }
+    }
+  }
+}

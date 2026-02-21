@@ -1,0 +1,736 @@
+{
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "create-enchantment-industry-2.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/o56ltpU3/create-enchantment-industry-2.3.0.jar",
+        "sha512": "fd16f1ba0b40d47f0ed23bc91a434c06935716f8c450a132c95d983d95c4a19afed4c6df7334e3fbac23a1c1c3a464ea9f348f7ffa0b4b6d9b727224669709b5"
+      },
+      "2_3_0": {
+        "name": "create-enchantment-industry-2.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/o56ltpU3/create-enchantment-industry-2.3.0.jar",
+        "sha512": "fd16f1ba0b40d47f0ed23bc91a434c06935716f8c450a132c95d983d95c4a19afed4c6df7334e3fbac23a1c1c3a464ea9f348f7ffa0b4b6d9b727224669709b5"
+      },
+      "2_2_5": {
+        "name": "create-enchantment-industry-2.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/73AaO9k3/create-enchantment-industry-2.2.5.jar",
+        "sha512": "3d2191614725ea68c61fcff3619ad2d0b76b41730d9540a9e7560158c4835434112893e0608de1ffbdd1eae98081ae7349d35589d432b48d75d8a08d627780dc"
+      },
+      "2_2_5b": {
+        "name": "create-enchantment-industry-2.2.5b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/RhbACzlM/create-enchantment-industry-2.2.5b.jar",
+        "sha512": "eca05bb24d3d13a8420428d17717db18f63e36b844f6ab21ddd2c26d147f3a6203fc7daf1919d78cc89a6d60d98c6a7d895919e648588546dc6289dec0584604"
+      },
+      "2_2_4": {
+        "name": "create-enchantment-industry-2.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/WIxFZoRd/create-enchantment-industry-2.2.4.jar",
+        "sha512": "67227f10eb2d5c7d84e5b614d6e8078b8e8d548935eaa727dfef79090b891673bcfdc0e12a151f7a86688f1475f7bb62aba0ecfc8136b7eff78461649b9b01e1"
+      },
+      "2_2_3": {
+        "name": "create-enchantment-industry-2.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/MX1kUszH/create-enchantment-industry-2.2.3.jar",
+        "sha512": "54ac425509371d719b642aedc0995833e45bc8356bb1e46b4444949c4a7df50c0a69545a538b47b56c224cd9ea25c1afba745185f7058111cefe91a4fe74bf72"
+      },
+      "2_2_2": {
+        "name": "create-enchantment-industry-2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/fq6vaJiG/create-enchantment-industry-2.2.2.jar",
+        "sha512": "18f9dce34fc9cb865c2f88e9bb5ef0fdeb71cf99c8d53d86f87926ed6c184fc2d7af7bf4e836cd1fa3cc895d87844becacd23b16e8995d0794cf8c924c5f2f7a"
+      },
+      "2_2_2b": {
+        "name": "create-enchantment-industry-2.2.2b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/xqcOSCRj/create-enchantment-industry-2.2.2b.jar",
+        "sha512": "c847363977f7d49156c56649bb7cb3fa5bb02c73733b15956531b5ed94cebfc59a400d6aa02538cc238c5f3fb41a81d23cf1f62b73ceb45da0953787c6c387b4"
+      },
+      "2_2_1": {
+        "name": "create-enchantment-industry-2.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/wn3mPSaU/create-enchantment-industry-2.2.1.jar",
+        "sha512": "4a9ff0a9cd4ec3f500421cad9854cc065ea6ccf2516c7f344645a58c0ab291b3107704239a57d6a3ff9d03f598218f37fd23689a01a9851e605374de8bf0c1ef"
+      },
+      "2_2_1b": {
+        "name": "create-enchantment-industry-2.2.1b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/pmJFALu2/create-enchantment-industry-2.2.1b.jar",
+        "sha512": "e49d028786c0a1e0f18c5e907714a91a2fd89f456c97035a0c64b821723bdbcf3785dec29dd77c85c9ce9495a36c820c30019127b6bceada7480d6f54d162332"
+      },
+      "2_2_0": {
+        "name": "create-enchantment-industry-2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/i1D2jIwZ/create-enchantment-industry-2.2.0.jar",
+        "sha512": "7f8d25189f93f67911339a63a02abb2be580b6fdb47e793b7bfc9710388f0090f3ac51f2e685166a29b282fc08e5c2b280c9dabf3404c24c37b6763475bcd37d"
+      },
+      "2_1_7": {
+        "name": "create-enchantment-industry-2.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/MYRXafDX/create-enchantment-industry-2.1.7.jar",
+        "sha512": "8d224728c45ed08a676c229c57baadb4a0c3006cd35ea13bf8084d869391411c8bb440c3d1b9dd7ea8c48ce03359852b6d188198e61a9d91ab5cc1844aa861b8"
+      },
+      "2_1_6": {
+        "name": "create-enchantment-industry-2.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/p8KnWGu6/create-enchantment-industry-2.1.6.jar",
+        "sha512": "57e76ed993f72d9e273e0c594167263be88b633749d889bcccf50ad395829f7f89dff7d3677945d08cc54d4baf5faf95d5387d8c39d4e56b2885b8f7e39475ba"
+      },
+      "2_1_5": {
+        "name": "create-enchantment-industry-2.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/hA7oxhH2/create-enchantment-industry-2.1.5.jar",
+        "sha512": "2cda3fc00cbb86872f6985232fcacd27dcde47923f8c43e6d4036e06c3c233170d976a8535f56af063c19dcf2a6d4db5aaeb0ae244dd8d066aaa57b031e0b1dc"
+      },
+      "2_1_4": {
+        "name": "create-enchantment-industry-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/xpUZho45/create-enchantment-industry-2.1.4.jar",
+        "sha512": "700819116f95ff051a84c3bdeaad5c8e5aa160d64c39a06cc4dac63dab08036c54565df0b4d8d8cdd5ce896e8def23a6dd592b97f2ee9ddeaa0d9e1fc2bdf383"
+      },
+      "2_1_3": {
+        "name": "create-enchantment-industry-2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/f5oaKhrn/create-enchantment-industry-2.1.3.jar",
+        "sha512": "f34ef59ab99bdd5c17911cfc33286a2f87e7815899828935b645b9a92fc973184e63ffcf646664d6d538d67e6200e6b513e16fedae6234cf631179f1f8b6d033"
+      },
+      "2_1_2": {
+        "name": "create-enchantment-industry-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/qDJsCymP/create-enchantment-industry-2.1.2.jar",
+        "sha512": "cad55da5e41507fedf3b5461c875d57becfa90b24a5a31b13350aec1a42ff18d1ed2877f030fcb3b2feb5a47ee8d968f7cc3825673a75acecf27098732adc645"
+      },
+      "2_1_1": {
+        "name": "create-enchantment-industry-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Cc2WPZ0j/create-enchantment-industry-2.1.1.jar",
+        "sha512": "ec989ee9412c9560c910a4518a8414c7d7db2de60b0c5461200caeb24d9c030013c8ca9c9285f9e36784ec6bb920cabb5023f3a46f7444fd6db1c54a54a41a2e"
+      },
+      "2_1_0": {
+        "name": "create-enchantment-industry-2.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/bpx0xEzC/create-enchantment-industry-2.1.0.jar",
+        "sha512": "161170ea724eae92fe6ddf9b1fac4615ef29265fb922eeaf6c4d69ec098a0a8a85f8276b3e354b860d05f454e181d161ea76fead337f7752fdab32f32722d5be"
+      },
+      "2_0_13": {
+        "name": "create-enchantment-industry-2.0.13.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Mrkfh7lW/create-enchantment-industry-2.0.13.jar",
+        "sha512": "2bc73703077c122045465b28663081f83df5245e4bfa2e8151975fa8df64a7203167df3f32e22440ac65b469a81ca5b49fad5f380219fdbe7679fa8cbf60ae4e"
+      },
+      "2_0_12": {
+        "name": "create-enchantment-industry-2.0.12.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/6Sm3fbJb/create-enchantment-industry-2.0.12.jar",
+        "sha512": "798f41835466fc345b419ebf12008fc8c4babb0b115675ac553191c658f3a7a9bc1e067714c624cdc9f0f359dff68979da5d08ea74122453ce834ff8fb593c98"
+      },
+      "2_0_11": {
+        "name": "create-enchantment-industry-2.0.11.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/iaHj6457/create-enchantment-industry-2.0.11.jar",
+        "sha512": "58540a40c9e7d136ae4d918698971539167941a6b4de06059776d5ee3f4e34679157605f942fee6baefae9bbed083db89753a43bb02edac19e728d171a8e5993"
+      },
+      "2_0_10": {
+        "name": "create-enchantment-industry-2.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/YW12m7oK/create-enchantment-industry-2.0.10.jar",
+        "sha512": "c399f530cdf7b0e597f910f8cbc742e2fbbfcd7349312b262af3143f60f428b80682119326aaa0563b9af4f40c7612e2af70cc7238e345cfc93ec3fc6e3cb869"
+      },
+      "2_0_9": {
+        "name": "create-enchantment-industry-2.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/tVEC7kDx/create-enchantment-industry-2.0.9.jar",
+        "sha512": "76a6bab1755224449603c752a6306da897c110b1d0fee967dcdb82cee004a6b783e9bde69d89f01f9c64a34b5624a9001fec3318af056687a5dfe3a840f6fbd5"
+      },
+      "2_0_8": {
+        "name": "create-enchantment-industry-2.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/6veBkaak/create-enchantment-industry-2.0.8.jar",
+        "sha512": "6a477fda1c20839fd1145e50cfbe4f4ae606c05989ca6786f786ae64af247e79790f3e45166f2d5b621ba6ab13c0ddd76caa9c4f27ffc04c7752a6179ff241eb"
+      },
+      "2_0_7": {
+        "name": "create-enchantment-industry-2.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/uOTEbQ2D/create-enchantment-industry-2.0.7.jar",
+        "sha512": "180ae974665bb508823a7d88d5108b1635c2af99fb3f84f78b575826787af39b8a703611f460cee72a9d04e2d727f5d406e3d162112f628d3e94a9d16e442cdf"
+      },
+      "2_0_6": {
+        "name": "create-enchantment-industry-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/zQ5PjeES/create-enchantment-industry-2.0.6.jar",
+        "sha512": "2be13706efe23ae0a708a9b7681342d79a24c29bdba41344757c3e03190660321e01a980805c4bb76eb32ef67b2a00a230143e4b1f0534cca39aee96bde41f5e"
+      },
+      "2_0_5": {
+        "name": "create-enchantment-industry-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/oiPS4tLA/create-enchantment-industry-2.0.5.jar",
+        "sha512": "d5e72cbcbb8d8684d12cfd9424424f8e3b6912e0c486268d524fd4874b83c04ff05c01e9576916221772ce7b417c5404381107ccd80187be5663b64189721483"
+      },
+      "2_0_4": {
+        "name": "create-enchantment-industry-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/C3VWIAB4/create-enchantment-industry-2.0.4.jar",
+        "sha512": "17f2d202fe88fb25f74056bb11c6f430220b053292355045617e4ddfeb1b93c9484ea15f6e7a3d03467b08b910111cbc3159a894ca223c6663c4859479080939"
+      },
+      "2_0_2": {
+        "name": "create-enchantment-industry-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Ue21yTlu/create-enchantment-industry-2.0.2.jar",
+        "sha512": "0445dde1e863e7ebcb113a18c79bd873f314b73eda020311fae026362f22ce0041c8ed93c020738188a2134c1c837b678965a74c675291bc74a1cfeabfe8d644"
+      },
+      "2_0_1": {
+        "name": "create-enchantment-industry-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/hY8pRy9F/create-enchantment-industry-2.0.1.jar",
+        "sha512": "5733d8fdc26b702914e0b58c1bafed0ffcb402d0568b72f48f21c097f5231bbd24f1d83ae18235f9852b639efde55152eabeb78091c069479e8520676bd94c4b"
+      },
+      "2_0_0": {
+        "name": "create-enchantment-industry-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/P0gWpW7Y/create-enchantment-industry-2.0.0.jar",
+        "sha512": "a2e977e7ec8b3c593f1b7b36409e700ccfbd863e0454ba52d445dee29acc1672622534c184f500c82122f3392cf334c85c57fd1919426a0864f3db9332c14ce7"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "create_enchantment_industry-1.3.2-for-create-6.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/lChfHeS6/create_enchantment_industry-1.3.2-for-create-6.0.3.jar",
+        "sha512": "efc2fcecd9cd7f4b8b473a563a5e7300d805951bfedb56cf98f6ca7c7d9142865d8414e178f570911b0219f86cf6b711d2590c7d619ee9e15aba219bd14f044e"
+      },
+      "1_3_2": {
+        "name": "create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/j4ZxxcbE/create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+        "sha512": "edc38cd1c944424ac56de4b16e4baa86fb7b838fd2229b360611c57f5464fdbbe10d1f915c5ce5e2a814d4f100df1618a9cbe58bc1d466ecdbb9d2b1496664f5"
+      },
+      "1_3_1": {
+        "name": "create_enchantment_industry-1.3.1-for-create-6.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/8eUP1Avr/create_enchantment_industry-1.3.1-for-create-6.0.2.jar",
+        "sha512": "db94d5d523809eb400d5ae43d0ad04e282974af0dbe69ed5af1075eb8c3d911d323b980a97528fa5c50b0f03ddfa16adfd690aed8d0186ba194f9271975c3747"
+      },
+      "1_3_0-preview4": {
+        "name": "create_enchantment_industry-1.3.0-preview4-for-create-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/y2B40OsL/create_enchantment_industry-1.3.0-preview4-for-create-6.0.0.jar",
+        "sha512": "b08b6d91cde56438c38e5d2e0f6df798369148f2c1fed9935bb3f08513313037965cb30aa0b3f6fbab0749c2e8ced64b591a672c9b3916eb26dcb0528d471a79"
+      },
+      "1_3_0": {
+        "name": "create_enchantment_industry-1.3.0-for-create-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/LkP6R4nT/create_enchantment_industry-1.3.0-for-create-6.0.0.jar",
+        "sha512": "e64152fbc89df071c374de1add391ab01b1667cb05abec20e4c462d2e592358ea31e49c63a6848c5478693886cbcc09db488c980c62118cf1842a2ed4d38bbf5"
+      },
+      "1_2_9": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/aDssD7vk/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.jar",
+        "sha512": "2747e7aed9c9413d1a3bfe1c8935e2c42850aaf94f7b8de836cd8e3dc2f60f41e4ffc8331d958e785cc3abe6e27c4429d512e032e5e1fb0d550fc2b03270688e"
+      },
+      "1_2_9_b": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/g5TMlsi9/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.b.jar",
+        "sha512": "8dbe2da98799dd00698c6621e2b9eaded845461c69206b4472c9c8e697cd80a9b85373cce8e60831488b8937996d957ecd06400e6ee0d043351956be9eb93606"
+      },
+      "1_2_9_c": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/RP7am3NH/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar",
+        "sha512": "954b127611e0cd8895daf62a75abc7f686355082fc75cf56e80b96be1506660aa530199a8a05f4c1f20b0c8128300bbc5e17e4493743e2c3be3baa34d7efeee3"
+      },
+      "1_2_9_d": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/JFhYaP3a/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+        "sha512": "0e7aa608252f6469089ee8a8c680b697097e41b0cbcc3f4521cb4f8b4c0853f4bbd18b39d6bb22f570445fda17293b5117104e59545608e0c1b960732d0cd9a7"
+      },
+      "1_2_8": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/dPchGMdZ/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.8.jar",
+        "sha512": "b54cfdc8733005bcf0d78a9666aeee986e200700cc97866fdb840c2d212d4a72c126fa855576664bf369e9bfca2be6ee7e29cebdd550e6ed02aa7c90597cb575"
+      },
+      "1_2_7": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/TsmvHShY/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.jar",
+        "sha512": "717ec02cc86b3ad87578e22873621280f623fb757755c0a0c231123fa3075472ea64f39933d237b604b11a6ca2ebe27a11c43ebe542241ca8c4591c3c8f11b5d"
+      },
+      "1_2_7_d": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/v8yCxDoO/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.d.jar",
+        "sha512": "2c0b98a5dae5f068267b9e7a3fe09fba6995383b231ab051cb85b7ef1271bf35325d745a5e485f1b5a4b996ae27cf82b20d434745095c700e27d52ecc35e8670"
+      },
+      "1_2_7_e": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.e.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/8YmRgbQl/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.e.jar",
+        "sha512": "4957792c1fe7440704dc8932824a3c05420fb11d6ffb2410b9022d4d98c6bf113c11844cb33fbcef137e4811326501122d1bedc65c36ab6fd727d41383d059be"
+      },
+      "1_2_7_f": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.f.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/UHsq5TGU/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.f.jar",
+        "sha512": "d01fceed80bee86515584f341d26ec758791280cfec9d2c95b194b526c89a32c2af9a716159dbfb5ebffb4846a43a663a698686b2c9cf056346c9263dfa88d63"
+      },
+      "1_2_7_g": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.g.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/CdkZavJO/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.g.jar",
+        "sha512": "eba72bce64d7944c05dda7e32b03ea1ecda848aade4dd096a0508e4be6dd1f1a5f5c732e3a4fbb4249ba19558abe52d42c743222ba07c1aae90e4f608cd8a625"
+      },
+      "1_2_7_h": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.h.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/vV6tl9ld/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.h.jar",
+        "sha512": "4522dc9279fa103106813cfcdc4cd9e008d6bb005be39c79ae10e6435c2fbcf0e8239908a83f3371c0af4509577581f21126e7095cb72af5c8a5c1626d92cf6d"
+      },
+      "1_2_6_d": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.6.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/vK0wgDB5/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.6.d.jar",
+        "sha512": "58e376adcc67a615b1cb55390be55af54f704b7a46a339d41174ac412c836b3c8f9b18e850b1f614898b82b7097db44e94c90c70a7f413db20cfeb2f01e4c32b"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/E8bB0Vws/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+        "sha512": "aa1714ee1c7562f0b01780bb3a1271e7214a790711efc8279f11b133075fc72de6e1c08ca87fbf4eeb113d2ea816947153c2383bd90b18e2221d28bd14b7844e"
+      },
+      "1_3_3": {
+        "name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/E8bB0Vws/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+        "sha512": "aa1714ee1c7562f0b01780bb3a1271e7214a790711efc8279f11b133075fc72de6e1c08ca87fbf4eeb113d2ea816947153c2383bd90b18e2221d28bd14b7844e"
+      },
+      "1_3_2": {
+        "name": "create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/j4ZxxcbE/create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
+        "sha512": "edc38cd1c944424ac56de4b16e4baa86fb7b838fd2229b360611c57f5464fdbbe10d1f915c5ce5e2a814d4f100df1618a9cbe58bc1d466ecdbb9d2b1496664f5"
+      },
+      "1_3_1": {
+        "name": "create_enchantment_industry-1.3.1-for-create-6.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/8eUP1Avr/create_enchantment_industry-1.3.1-for-create-6.0.2.jar",
+        "sha512": "db94d5d523809eb400d5ae43d0ad04e282974af0dbe69ed5af1075eb8c3d911d323b980a97528fa5c50b0f03ddfa16adfd690aed8d0186ba194f9271975c3747"
+      },
+      "1_3_0-preview4": {
+        "name": "create_enchantment_industry-1.3.0-preview4-for-create-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/y2B40OsL/create_enchantment_industry-1.3.0-preview4-for-create-6.0.0.jar",
+        "sha512": "b08b6d91cde56438c38e5d2e0f6df798369148f2c1fed9935bb3f08513313037965cb30aa0b3f6fbab0749c2e8ced64b591a672c9b3916eb26dcb0528d471a79"
+      },
+      "1_3_0": {
+        "name": "create_enchantment_industry-1.3.0-for-create-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/LkP6R4nT/create_enchantment_industry-1.3.0-for-create-6.0.0.jar",
+        "sha512": "e64152fbc89df071c374de1add391ab01b1667cb05abec20e4c462d2e592358ea31e49c63a6848c5478693886cbcc09db488c980c62118cf1842a2ed4d38bbf5"
+      },
+      "1_2_9": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/aDssD7vk/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.jar",
+        "sha512": "2747e7aed9c9413d1a3bfe1c8935e2c42850aaf94f7b8de836cd8e3dc2f60f41e4ffc8331d958e785cc3abe6e27c4429d512e032e5e1fb0d550fc2b03270688e"
+      },
+      "1_2_9_b": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/g5TMlsi9/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.b.jar",
+        "sha512": "8dbe2da98799dd00698c6621e2b9eaded845461c69206b4472c9c8e697cd80a9b85373cce8e60831488b8937996d957ecd06400e6ee0d043351956be9eb93606"
+      },
+      "1_2_9_c": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/RP7am3NH/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.c.jar",
+        "sha512": "954b127611e0cd8895daf62a75abc7f686355082fc75cf56e80b96be1506660aa530199a8a05f4c1f20b0c8128300bbc5e17e4493743e2c3be3baa34d7efeee3"
+      },
+      "1_2_9_d": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/JFhYaP3a/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+        "sha512": "0e7aa608252f6469089ee8a8c680b697097e41b0cbcc3f4521cb4f8b4c0853f4bbd18b39d6bb22f570445fda17293b5117104e59545608e0c1b960732d0cd9a7"
+      },
+      "1_2_8": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/dPchGMdZ/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.8.jar",
+        "sha512": "b54cfdc8733005bcf0d78a9666aeee986e200700cc97866fdb840c2d212d4a72c126fa855576664bf369e9bfca2be6ee7e29cebdd550e6ed02aa7c90597cb575"
+      },
+      "1_2_7": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/TsmvHShY/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.jar",
+        "sha512": "717ec02cc86b3ad87578e22873621280f623fb757755c0a0c231123fa3075472ea64f39933d237b604b11a6ca2ebe27a11c43ebe542241ca8c4591c3c8f11b5d"
+      },
+      "1_2_7_b": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/TXc78uyt/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.b.jar",
+        "sha512": "f6fd116d9d36fcc8f91feadac2c5a2c67a6713ed545b2dcfd2723c5cce4bee5f359a9e499928b6b4c6f65d6ff9f05c0d14bfc0e6def00060470e2bed1f3e77c8"
+      },
+      "1_2_7_c": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/ENEer99o/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.c.jar",
+        "sha512": "5bb2b7ce0281fbd1999fe5c410bb84a589c66b2bd794a4c6171949011459f7a30569f7cbf3417cdecb6e38339849d148509ec3a6a3fe7f55081686184169de03"
+      },
+      "1_2_7_d": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/v8yCxDoO/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.d.jar",
+        "sha512": "2c0b98a5dae5f068267b9e7a3fe09fba6995383b231ab051cb85b7ef1271bf35325d745a5e485f1b5a4b996ae27cf82b20d434745095c700e27d52ecc35e8670"
+      },
+      "1_2_7_e": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.e.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/8YmRgbQl/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.e.jar",
+        "sha512": "4957792c1fe7440704dc8932824a3c05420fb11d6ffb2410b9022d4d98c6bf113c11844cb33fbcef137e4811326501122d1bedc65c36ab6fd727d41383d059be"
+      },
+      "1_2_7_f": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.f.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/UHsq5TGU/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.7.f.jar",
+        "sha512": "d01fceed80bee86515584f341d26ec758791280cfec9d2c95b194b526c89a32c2af9a716159dbfb5ebffb4846a43a663a698686b2c9cf056346c9263dfa88d63"
+      },
+      "1_2_7_g": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.g.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/CdkZavJO/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.g.jar",
+        "sha512": "eba72bce64d7944c05dda7e32b03ea1ecda848aade4dd096a0508e4be6dd1f1a5f5c732e3a4fbb4249ba19558abe52d42c743222ba07c1aae90e4f608cd8a625"
+      },
+      "1_2_7_h": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.h.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/vV6tl9ld/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.7.h.jar",
+        "sha512": "4522dc9279fa103106813cfcdc4cd9e008d6bb005be39c79ae10e6435c2fbcf0e8239908a83f3371c0af4509577581f21126e7095cb72af5c8a5c1626d92cf6d"
+      },
+      "1_2_6_SNAPSHOT-2": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.SNAPSHOT-2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/XKDP3gDO/create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.SNAPSHOT-2.jar",
+        "sha512": "171ebdbb2b9ddf77cca8c3f708d4bace83e07878e231e3bacf87920a6590d606fe1fec9572741c7f05f39dd8b7abf7a73a4e4ba100f28c1e54bf609d6c243366"
+      },
+      "1_2_6": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Z081rwH7/create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.jar",
+        "sha512": "4d490ed51fadb08d45008e6c6eb2e6925803c68e421c07c89bb07abd64e6c35b1c1279135675daa232400376ab37fca765aa5046a7dda09233c5739aa59c16b5"
+      },
+      "1_2_6_b": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/phelvkHE/create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.b.jar",
+        "sha512": "76ed1bf81282a6c207427192135b30d908283effa5ab2b7b87d6edd8dc9bb89b080e7aa71c732e9b0cc92b0ab74d36df09cddc23dc997723844fa820f51f863f"
+      },
+      "1_2_6_c": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/XhKr0VCd/create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.6.c.jar",
+        "sha512": "7620af389a9ce543a1fa0cdfd506ce79b02a1969c9af7016ccb6e917899bdbc1556542e5f659f03a96cde5b8a2b7575afa72ce524542624d7b15653805dad4cf"
+      },
+      "1_2_6_d": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.6.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/vK0wgDB5/create_enchantment_industry-1.20.1-for-create-0.5.1.e-1.2.6.d.jar",
+        "sha512": "58e376adcc67a615b1cb55390be55af54f704b7a46a339d41174ac412c836b3c8f9b18e850b1f614898b82b7097db44e94c90c70a7f413db20cfeb2f01e4c32b"
+      },
+      "1_2_5_SNAPSHOT-2": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.5.SNAPSHOT-2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/IrXDXQa1/create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.5.SNAPSHOT-2.jar",
+        "sha512": "973bbbda8d5b8118fc1fc2d25875cd9056c941d17cea6ccc2e06cbf535775c36691f3cce590b89016f44a77c65325bc3f9ee5b672589233fbb294099300461bb"
+      },
+      "1_2_5_SNAPSHOT-1": {
+        "name": "create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.5.SNAPSHOT-1.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/rVQZZXxJ/create_enchantment_industry-1.20.1-for-create-0.5.1.d-1.2.5.SNAPSHOT-1.jar",
+        "sha512": "d7a4263c4e93315148a477e172ada45a2fbaebfd80fb0dc1fa2d629967ea0f517f45ace11adb08c4a93a50269f4d1ff4f49bcf8438b42ccc2ffcf9042f190093"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/yfo2rIrv/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.jar",
+        "sha512": "86250f5325ca93c1bcc1a7acf0948273d5399934222d669489b557308faca31be0f7358e111863495ddf47b667944a751365109238bc3fbd454213ce6bcec098"
+      },
+      "1_2_9": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/yfo2rIrv/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.jar",
+        "sha512": "86250f5325ca93c1bcc1a7acf0948273d5399934222d669489b557308faca31be0f7358e111863495ddf47b667944a751365109238bc3fbd454213ce6bcec098"
+      },
+      "1_2_9_b": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/ZXLsE2qf/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.b.jar",
+        "sha512": "ab091b7520fdae4122d00094f0aa9ce8ad864c5615a5d0d742b561c93cb9185eabf25eae4041c86f9983f94a4af98f5f9ed2163618aef2c5f68d2450b17f8400"
+      },
+      "1_2_9_c": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/cOBvLkAF/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.c.jar",
+        "sha512": "cc77bd6f44744ea2b4e69c8877c8d5dab9c9bde652b01e5096363d14aac210564c551e82846d62089c787d8efe8378158f1657ae1da3ac50cef967e432b2b373"
+      },
+      "1_2_9_d": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/FxoTO81x/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.d.jar",
+        "sha512": "7dde4508179ca99229b6a8c255b443f641052c5e5b5c9055772818a27e646c8d1c02664245284283d6d17a95d9f6008ce67cfd0b56293458d950d5f738fe34e3"
+      },
+      "1_2_9_e": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.e.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/KA5Gf4rg/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.9.e.jar",
+        "sha512": "79192b12f8461cc619d37a4dcc7aa9e91adfee8995a2ab542a8b03895754b409f6f8769168c6b43ba74bc08b79af0d9aace8a39a267042360e5dcb33bfcbe33d"
+      },
+      "1_2_8": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/28n7KncC/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.8.jar",
+        "sha512": "6eb50ef36b6c468228b1bf27679ba674b5cba57acc8c398d2c44a0561acd623cd68ecf8b0f981023b86c2dee2d071e5eeccf00a8905e8649d835cb0148d6ce6d"
+      },
+      "1_2_7": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/2GqDYNYP/create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.jar",
+        "sha512": "2eceaf435e084f1f2ac259732d8294854c76fcd237e0793257012fe89d4e876af26caa63732bc45232d2bbbba545ccc8c4e96cbbbbf3280a50cd715cfb40c2a7"
+      },
+      "1_2_7_b": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/j9AhoR9X/create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.b.jar",
+        "sha512": "5fdd0af976ed3ced3eb0c68dd8dd58b41120e5649c0b59d305c5561ff040792a131cddfcf4de566d8fb19d0b9f72cdef302f54e1a5e0e8563baabb491db6fa1d"
+      },
+      "1_2_7_c": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/82IYCXVg/create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.7.c.jar",
+        "sha512": "05ed0e1f3e98c1887fe21f9830585a6c598d49b23899dccba41da23df6979374e7e192d58fea97b6c15555e493c02b902a6a2ae6f57ec489e3642768de7df1ae"
+      },
+      "1_2_7_d": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.7.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/QYRCX7YB/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.7.d.jar",
+        "sha512": "fbc42a644fdc7afa893342c8aae2d639165a9fe5006fe16914bf3f49558e4dc1d7cebbcf210c70b8c6a3c26d36cec76c146d04091143ea69dc771adebdaf16a6"
+      },
+      "1_2_7_e": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.7.e.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/aPJcZJHL/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.7.e.jar",
+        "sha512": "766fc922f2da46683d1b14722d36a3945a259c0206fce207d7cd31e069337fee0972d85dc24be7285b0dc108097897145f21c6c3344090f646b3cc3de145a2f4"
+      },
+      "1_2_7_f": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.7.f.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/xkPBBnS8/create_enchantment_industry-1.19.2-for-create-0.5.1.f-1.2.7.f.jar",
+        "sha512": "64780d853192d36472d1d1d2e9883399c48bd63905b02a529782d6f2d2c3f0abf753a5c114ca963b28325e16f829f059606f6e3493c1b239d1147d8d0c98f6a0"
+      },
+      "1_2_6": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.c-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/AFINpxV4/create_enchantment_industry-1.19.2-for-create-0.5.1.c-1.2.6.jar",
+        "sha512": "65560c875f5ac9a06b4995b9a4fa0b8dc5e10d1213e969d339a2f9ea2b90e30ffa06af940e6a2fb670ba10b71df40b246fa02ab41c5760322925fb2847586b9f"
+      },
+      "1_2_6_b": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.c-1.2.6.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/ciiFU0T3/create_enchantment_industry-1.19.2-for-create-0.5.1.c-1.2.6.b.jar",
+        "sha512": "faa736517c4d07a251e84eeec1aa165050b4643fadff32a6c98fc612da26f41e0511b7ab981db0da937a951beec897007f4541022cf07c04a44df10f2e9be354"
+      },
+      "1_2_6_c": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.6.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/dxXgFGCi/create_enchantment_industry-1.19.2-for-create-0.5.1.e-1.2.6.c.jar",
+        "sha512": "38fc14aac907b3391cc70f99748296f902c5ec2fc6dae32b69115483db5e8b9dfa2b57e0776fdac24997d80748290910137657b8acf26a085a2b8e0faad44113"
+      },
+      "1_2_5": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/hbqTR0El/create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.jar",
+        "sha512": "df7ccb34ad8091e0ed99af8cd94d90bc050708b4b75a1e59a0b595c02bd25c052484bfebf9c799a6f069455ddf2161372d650fe16d2017881fc2623a9dcd35d7"
+      },
+      "1_2_5_b": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Wt422Wax/create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.5.b.jar",
+        "sha512": "8642d914d6f777feb628283006b1d1be985c870a41579f148ecf3467d40d62c49589eab730db67cf8bd488aa298f093540b79887b686fa056326584915a256dc"
+      },
+      "1_2_4": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/KxtmnAVH/create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.jar",
+        "sha512": "3ed7978558d1d993067eb4f0e45451ca02642af4b12e2125adb13cd625b01312352f863c3d4eb43ef6116f998cdb4c6dd050325fcc97e293f4e9afbe3d610655"
+      },
+      "1_2_4_b": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/B6RjP6Ww/create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.b.jar",
+        "sha512": "1a98f15ff6be65fcb4985a906587c3c9754a75ce544df48249d4bd849ea4ba5561ae34b4160aaceeb389b12b47fcec8fd7ab384461c0a36e99f01e11354decc4"
+      },
+      "1_2_4_c": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/RdQjidXi/create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.4.c.jar",
+        "sha512": "d94ba67361550699d0ed86a3cd41f06b43d114cbcf9ee1f259abeea779b0df410e1e74377b6faddf6bc63ff45517febc7e4e3675ec81253b9676070b32201fd8"
+      },
+      "1_2_3": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/VVl7y0az/create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.3.jar",
+        "sha512": "873f061741282ae1c54f5371d97574ce570b66f04e24708d62e112e133015f16f532f326d20c53c301051201122f88d85413f0b3fd5f610107bfe7fcfe10f76d"
+      },
+      "1_2_2": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/xJypzw2J/create_enchantment_industry-1.19.2-for-create-0.5.1.b-1.2.2.jar",
+        "sha512": "dc7886731cd4c61f5239237e2aed85995d2fdbbf27613df68ecbe3de300e6d76cba1d5063e26a150c1649313958b1524eacc66ffd59e2d45141bed0deb28e796"
+      },
+      "1_2_1": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/uycfnTZ3/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.2.1.jar",
+        "sha512": "00e390e5dfefff7f898f6b93f1de6ec2b408232f0b464e23f06ad2429e37a3afcf13f1548e2a8a3ad677b8df798781a604eb3e012f3b70edf0a8ce9124e8d255"
+      },
+      "1_2_0": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/eJu4F94r/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.2.0.jar",
+        "sha512": "e4c9d408c3cef9217ddfb3628aa9c1a021d6c762a482011596574c4ff8b31c6dcf375d8778bfd7511dd3c28bca0cccc9695ee4ec5b95259ec57a3d26664743d6"
+      },
+      "1_1_18": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.18.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/id4BMCo1/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.18.jar",
+        "sha512": "19574a2c559acccaf68d2fa02876be3bbc623e858d46b8158ecafe87e11c673479298b717ae552c2f31757679c43db27a1ba89802b8f55fe24814d42b2ab0393"
+      },
+      "1_1_17": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.17.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/uagnMcQP/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.17.jar",
+        "sha512": "d0d27d9c7a9186968e090de8f8ec9e94f746144b00d34a2b8924f14c3bd0f0ae81016f2af30bb52b8bb65b8afd3b02558de393b04335490d80eef3885692522c"
+      },
+      "1_1_16": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.16.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/ilILI0t3/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.16.jar",
+        "sha512": "3b1c282f4e6645809de25e189923d51fc22bef293abe28b6465c84a5e20bd39fbeedd06b3d686f6b9a9b3ad1b3fadbb31ae775c18e46af263ec85c8010175d9b"
+      },
+      "1_1_15": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.15.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/OBolEEcU/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.15.jar",
+        "sha512": "84c4881dd2c21edbb30a86322409529ea3e99ecfaca0b6630b2d0267da78433db7aa5e744688de477928a29a1a96637a3c61f2e57a69597644487a7f850c8075"
+      },
+      "1_1_14": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/YyxtF4ww/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar",
+        "sha512": "6febc2fd88e489b354954db49b50c97d56ed0bb614a1521ddbfed79f0522bd00bb3b5be5502de048f04dd552861a6bc2074920cb3bc352ebc01907e0564ac99f"
+      },
+      "1_1_13": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.13.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/5Mz7HKkh/create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.13.jar",
+        "sha512": "50e7751a7ce9e626b86c794bdedc1ec5ade0b448b89daa997a62594f11026f450683a474d3175ea917fa54ed0e6b72e4c7668f43d9224dd96315ad774e682f18"
+      },
+      "1_1_12": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/T28sCBLL/create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.12.jar",
+        "sha512": "9da2593c5682ecdb1faf4c31b577d527e25a71b6ad62e1e021d7962448389d632a1d14ee9cd5b74a70b020b5e48f364578ba7e23ef2904c310705e6234602913"
+      },
+      "1_1_11": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.11.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/SY2t0nH1/create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.11.jar",
+        "sha512": "7d85c2856407d8ed13034287d07108fc3c42cca434c813009d3e2a15652c148ff8f9c80988e27f8d329bf3710a92141550ce355d7b064aad992164f327db7ccd"
+      },
+      "1_1_10": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.10.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/KPqfYFx5/create_enchantment_industry-1.19.2-for-create-0.5.0.h-1.1.10.jar",
+        "sha512": "b1dc05f6f673c23ff956b1eab853c25395770277065b4e67025bbd613a2c01019f576e0565c5877d174807e433ac365f10f714c2e4b163b267f7e538f76b96ce"
+      },
+      "1_1_9": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/gYoCJvR4/create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar",
+        "sha512": "9f5539ef40746298c6c86abc6c5aa836093513d2a7970459b83b749751cee18980f4c60dd869f572b0a6e22bcc2aafa138b3fd9da450b0aa19f971a030997633"
+      },
+      "1_1_8": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/5wc5liyY/create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.8.jar",
+        "sha512": "d8c7aabe1e0577ac5107568c4f677f77a6edb2422ef47debac91b08deef894237b1ce542532a17330b2af4f018f9a2ffb2f261b2cb0de84ac98c90634b2d9b25"
+      },
+      "1_1_7": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.f-1.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/BVtCcRQK/create_enchantment_industry-1.19.2-for-create-0.5.0.f-1.1.7.jar",
+        "sha512": "82a8449467428b5d7d83c8e20a0b5024a8603a33d7f2f5f6639ef21c77463590162219e0a71378681b6a3cd8c19187d1608fa3c20cf9cdcbe8b18ede38b2ada0"
+      },
+      "1_1_6": {
+        "name": "create_enchantment_industry-1.19.2-for-create-0.5.0.f-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/WKK6qhS3/create_enchantment_industry-1.19.2-for-create-0.5.0.f-1.1.6.jar",
+        "sha512": "b924a0f311c245ab8f3d88fd56bdd0b8c53939ca43ec8c920aaf3035564d5ffec8a7fb25843cbe9eda72f74f7f0240988a52b5af2fbd7596a3b14b4e53b208cf"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/tEKYosCi/create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.8.jar",
+        "sha512": "8ef32754b29e599e37033cb242a9d3d64cc420dd48dcaac7b8d998e95902de91bce3ca1eec61c5b075125b65fc87d1a17e33f2aa409df06f57bba8dd20cce3b1"
+      },
+      "1_2_8": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/tEKYosCi/create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.8.jar",
+        "sha512": "8ef32754b29e599e37033cb242a9d3d64cc420dd48dcaac7b8d998e95902de91bce3ca1eec61c5b075125b65fc87d1a17e33f2aa409df06f57bba8dd20cce3b1"
+      },
+      "1_2_7": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/XwLDXerF/create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.7.jar",
+        "sha512": "ac171997724f957003caec6d3031e95b0bcab32ac11ac0ff38168a71f478cb96521a0b68d0116e21e5d73c7e67c48caceeea24e2d974903f626fe1074bcdc512"
+      },
+      "1_2_7_b": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.7.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/4wU0fkiF/create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.7.b.jar",
+        "sha512": "8c9bb3ef191dc62addf867c66a4da7104e44f3f76368b253c68af60bc67ae5cc11cae1a1e972f6587454f0a18811820b17d7715c6bcdc0c55dc2bfe022155c38"
+      },
+      "1_2_7_c": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.7.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/vabd2DRI/create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.7.c.jar",
+        "sha512": "b6d9890ada0ae936c3adbe527dfe787add6e53bb3e5065c3cba5846052ec8a93b9d87a78b7043a2d52fda38fdfa433f8470292a13d209510724eb97551aab712"
+      },
+      "1_2_7_d": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.7.d.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/WYNHsIUu/create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.7.d.jar",
+        "sha512": "1853869f52a944b8da6b4cc45e7865666201c284fd0cf3a47bce1b13bf14f8b1c957fdbc754d14ae09754309d0a6f5d5c5bc79e6906eef231f14cb2dbbb919f5"
+      },
+      "1_2_7_e": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.7.e.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/R1CtJRXy/create_enchantment_industry-1.18.2-for-create-0.5.1.f-1.2.7.e.jar",
+        "sha512": "5c4948c5c4569367a8342b16bce7b5c2feced5d014270c1b5a505ce24d8def46a3c24f65528a551059c48ecbec9e0d73e5409f55e90202b1a003c233ac75b287"
+      },
+      "1_2_6": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.c-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/f6nibTos/create_enchantment_industry-1.18.2-for-create-0.5.1.c-1.2.6.jar",
+        "sha512": "c59116de018eacd3cf149d283f30e58bcfff9e3584bd9aa04eb5568548a6d46c9da4a44d01babc2c6c49459a80c818014411fc92c72c87eec9a09a44b605c37b"
+      },
+      "1_2_6_b": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.c-1.2.6.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/oJVdruUe/create_enchantment_industry-1.18.2-for-create-0.5.1.c-1.2.6.b.jar",
+        "sha512": "3d4fe75c0f511b7de6fdc320fa000efa127f16aeaac858528995d443a5c50fbe5b948ef4e02897a48f1a68a3fea56dfe1eee0dee45505ad3a95c0a148a3c9508"
+      },
+      "1_2_6_c": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.6.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/4ysEN4n3/create_enchantment_industry-1.18.2-for-create-0.5.1.e-1.2.6.c.jar",
+        "sha512": "1ec56e56e2037907a8c876585e4a142ef87d099c51c871993675b70ded26bd4f5e671546c11ece4aee067b598d8a190a0edab51b77fc1458d5b092336734c05c"
+      },
+      "1_2_5": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/9RKhrxMw/create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.5.jar",
+        "sha512": "0634ec50f2e68c90448afe4044b7741e1b736de091d83a0334be183f11c16e15bcf14a468c00860cb3ef5f5379f8d4fb3d66663ae1b021128a7585aa8feb7021"
+      },
+      "1_2_5_b": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.5.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/zrF78WqS/create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.5.b.jar",
+        "sha512": "bbcd8726966e6e0152d44ff4508e0075a6ca7d3fe2be6140bf41d1c190cd229078881b1cb6feec3b346c7fe4a4ff83d364fef8d4510b1080b1c221baa3954abc"
+      },
+      "1_2_4": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/U6NpMnyt/create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.jar",
+        "sha512": "79cdab0da4a66085e138660a650ca504ccad92b518a5457241000e6d32719149a22292e17a9f2e66c4621a15a28aa608897b7637b0d78bce720a27467fbbf08e"
+      },
+      "1_2_4_b": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.b.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/p7PI9Iet/create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.b.jar",
+        "sha512": "20c53c7af5ffd6ce9506c7a06b7e6158c32feb2fad5ad13795b01225ad6415050a2a882b45c656d21c672357ec5c11a60ac3f87f8c78e3143d0b55de0914389d"
+      },
+      "1_2_4_c": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.c.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/sf1FM7Ws/create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.4.c.jar",
+        "sha512": "5835953aec58eae75d182386d4a6910ede180a7f43a74d1db14151a185ec243ec10eaf000f5a8ae35d59bf547ae965a04ef9c81cc234996bf2719197430c47b4"
+      },
+      "1_2_3": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/5lNQqzCe/create_enchantment_industry-1.18.2-for-create-0.5.1.b-1.2.3.jar",
+        "sha512": "27f7206ec50cdd20818f5de14dcb3870f097df257dd53d313864db7856670a2e4f0f93424ca5276e2c7b5b17defe1514b25c411e5e24b084bb5c25bda716fab9"
+      },
+      "1_2_1": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Oqo3qse8/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.2.1.jar",
+        "sha512": "3cc84a63842ec8ed8bd2cc9240e378c3a39d1c3600826b2e4fb451146742aac9c9fbdfb56c417623ad2dbbe6e6fb5cf8e0efe99c8db8c70419850e4dd7ba7a7d"
+      },
+      "1_2_0": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/5GLBLCzS/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.2.0.jar",
+        "sha512": "b37c956b430eb0199807f616668dd1786fd23fe17272a5ef83d17515c7758dccfc5f6d920b79b98e1ed588a390a2b3cfc409dd20768fed674efdb17f4afb5303"
+      },
+      "1_1_18": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.18.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/oycLifil/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.18.jar",
+        "sha512": "52170c0aa36de625891b97dc8acc4e72315e2819f2babc6e0e7e6f8549becfcaab37adb5356306f236590550897d79ef7e23473fc144e43ff608e1c3996a5ec2"
+      },
+      "1_1_17": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.17.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/iwp4DsJK/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.17.jar",
+        "sha512": "6c196121b9dd8510ab49847a0b87f7f71cadadcf6b1942f807fb7dabd0c9b4b6527d853b41bc9d72a81a95df606c6b7b88942dd289b766665d7998f1d5f69ffa"
+      },
+      "1_1_16": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.16.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/XQVnJ0ug/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.16.jar",
+        "sha512": "e4204913aef7d92425fa3712e4511691073081a6c2b91414e603443b59b26e72bff1db1762dda063e358ad66dde4922a080c5cb76607e8c5c960f79ac8f9ccdd"
+      },
+      "1_1_15": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.15.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/U2poSgvz/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.15.jar",
+        "sha512": "26eda33664f6eaedf5689667ba06b4f54be00630a37b33b55ea6ad22c3ad29ed9ede4fc63b449e3e550472fb76a7cb88ebf5aa3ce2e723ef498f6ec1048ad274"
+      },
+      "1_1_14": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.14.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/4juto3Sz/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.14.jar",
+        "sha512": "c6806b6f70e494cbd32a11ff6459123f69804d385d52ed3cf1cc30c5aa4ea0c89559e09963babbfab8533e00c8069f5a892f13b4bd239ac11266fd12dacb8e94"
+      },
+      "1_1_13": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.13.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/PvNa5Yhr/create_enchantment_industry-1.18.2-for-create-0.5.0.i-1.1.13.jar",
+        "sha512": "5ea2062f06e4a07d6fd20d3b421c5568ae45664c129a245dbcb1fb49c792924205943e3bff8974861683627039def3d951197d64d5cf5d4c0d782badb8db2e42"
+      },
+      "1_1_12": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.h-1.1.12.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/cMM4VS2Q/create_enchantment_industry-1.18.2-for-create-0.5.0.h-1.1.12.jar",
+        "sha512": "098e4970dee6e7933f9b2dfb06522466efa60778e7804f8a5da5d76327783e8a6e1095811124a69c18f0cde993f5fbc409ae003c5fe7d0124ac1ff676bfb51d0"
+      },
+      "1_1_11": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.h-1.1.11.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/shak05FH/create_enchantment_industry-1.18.2-for-create-0.5.0.h-1.1.11.jar",
+        "sha512": "1afbd11772b10dd609fce85e45b0205093a9a580a0ca9af425a28a7227bbec6d38e8a26705ceaf1e4a42bb8c9bebf59dd7cdc5d670a9e13cf3c50dcec76d2d19"
+      },
+      "1_1_10": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.h-1.1.10.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/c75ihhDI/create_enchantment_industry-1.18.2-for-create-0.5.0.h-1.1.10.jar",
+        "sha512": "036b4c339ee7d583396ed80f6377ae78d99c6d74591409bda6cd91d4a7da5658099114b1c999c5b5540edc810013e7de3b4eda934eb0651d78626b4caaaa4363"
+      },
+      "1_1_9": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.g-1.1.9.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/cZgSTdRH/create_enchantment_industry-1.18.2-for-create-0.5.0.g-1.1.9.jar",
+        "sha512": "4b44032020c5648e9dba4b967e21356918c9285dce3052f0ccb465884fdce18fb1429be324135531500a664a82f93449946030478161fec453ba8e57de6695e3"
+      },
+      "1_1_8": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.g-1.1.8.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/cn8IvNut/create_enchantment_industry-1.18.2-for-create-0.5.0.g-1.1.8.jar",
+        "sha512": "d09e9b303b273491b213b201039eb221e37ed16a9f0e9c6638c13c8a1eae15a7ca772a27c23e56d7ae94962a6e8cce261910eafd7b7905cca549418682b73c19"
+      },
+      "1_1_6": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.e-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/SqkvvhyC/create_enchantment_industry-1.18.2-for-create-0.5.0.e-1.1.6.jar",
+        "sha512": "f35ada6440a14b54eea5d0d4a41ccf6ad4ec72456c9a3833563f9b1e5787ca74f0b4b31136423ed356107d81088ef44745b97f7bc30fe652241338575d78f19a"
+      },
+      "1_1_5": {
+        "name": "create_enchantment_industry-1.18.2-for-create-0.5.0.e-1.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/zewHKrfA/create_enchantment_industry-1.18.2-for-create-0.5.0.e-1.1.5.jar",
+        "sha512": "5b09dba3babf904d472da19dbd0eea516c0a43e78a8ba06220134a5059d0af93887742596831b4741af65ba07978c050222d27f9447be2ac5e8d85ef810c22ec"
+      }
+    }
+  }
+}

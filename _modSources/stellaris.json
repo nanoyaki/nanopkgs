@@ -1,0 +1,1542 @@
+{
+  "neoforge": {
+    "1_21_5": {
+      "latest": {
+        "name": "stellaris-1.21.5-neoforge-1.3.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/crvvPhxt/stellaris-1.21.5-neoforge-1.3.20.jar",
+        "sha512": "1848fd2b00d3c99cb45d5198382cfe0fe1a2769edfe49740ff4b81a2fcfe90a786c79055423a06348afd7d754c4dd34df54370c8d3c066e0cdbc12e372febae3"
+      },
+      "1_3_20": {
+        "name": "stellaris-1.21.5-neoforge-1.3.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/crvvPhxt/stellaris-1.21.5-neoforge-1.3.20.jar",
+        "sha512": "1848fd2b00d3c99cb45d5198382cfe0fe1a2769edfe49740ff4b81a2fcfe90a786c79055423a06348afd7d754c4dd34df54370c8d3c066e0cdbc12e372febae3"
+      },
+      "1_3_19": {
+        "name": "stellaris-1.21.5-neoforge-1.3.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/VlJCRYbw/stellaris-1.21.5-neoforge-1.3.19.jar",
+        "sha512": "4acf96d4b5a02cc916d26052f9ed35085607799f522d9aac0f2ca8183271a99370d0e8e90fec35c7386b7f8dea68b4829d054ec04aec9f26138e16b9c74ee14d"
+      },
+      "1_3_18": {
+        "name": "stellaris-1.21.5-neoforge-1.3.18.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/m6YhttS0/stellaris-1.21.5-neoforge-1.3.18.jar",
+        "sha512": "992742fd7c42ea6c6281ca8ebb09092a3068303391d3116be057f0b46ff26e1a2c5d8805dc059ecb9513dc2e3ab4a3139ec3ba9a8e2f06cc2e4ed0dec68eb260"
+      },
+      "1_3_17": {
+        "name": "stellaris-1.21.5-neoforge-1.3.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/NOexLJca/stellaris-1.21.5-neoforge-1.3.17.jar",
+        "sha512": "c93126fa361e49dcfb626f3201fbaf6b4047c3b47cf2aeaf3ce2c889c5eee8adb7cf5b79e4973ed95fbaf8305a44ae1a25527ac495039c1ebb24e519af02803a"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "stellaris-1.21-neoforge-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xNYJSdZF/stellaris-1.21-neoforge-1.4.20.jar",
+        "sha512": "055afa673c36ec44e17c9424ce24b1f3b036708581d0278d33643c7501d67d9174f6b8596114d1fcf896617539458cf7de32980e7f6f4f9bb4c2a88914df8dd4"
+      },
+      "1_4_20": {
+        "name": "stellaris-1.21-neoforge-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xNYJSdZF/stellaris-1.21-neoforge-1.4.20.jar",
+        "sha512": "055afa673c36ec44e17c9424ce24b1f3b036708581d0278d33643c7501d67d9174f6b8596114d1fcf896617539458cf7de32980e7f6f4f9bb4c2a88914df8dd4"
+      },
+      "1_4_19": {
+        "name": "stellaris-1.21-neoforge-1.4.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/i6XWZrac/stellaris-1.21-neoforge-1.4.19.jar",
+        "sha512": "51c2078883c4dba5d2099bd390e0e111b9fdd60a07bfa739281f97716ef29063f0392dbcb77346dd63f7f42ca152e1bdc87a01892a326f9916570f33857c6c00"
+      },
+      "1_4_18": {
+        "name": "stellaris-1.21-neoforge-1.4.18.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/e3ZMPIN3/stellaris-1.21-neoforge-1.4.18.jar",
+        "sha512": "13107fcc11a7d87918f20ff3b4916c609a7dd7ff8b4e992365976308a4304e6acc4f4971ff8633aded4a59d7f0a50ed88d0e9114dde192b20404b32f7a00b947"
+      },
+      "1_4_17": {
+        "name": "stellaris-1.21-neoforge-1.4.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/hTidMos9/stellaris-1.21-neoforge-1.4.17.jar",
+        "sha512": "ed74fdde95c85d99cab85ccd9d3f0ac6a59a91f5780b705baff7b82b25018c37da7caad4b74993673dbba8dcd61c99c725ba04cb85935d08ed07efe646661cbb"
+      },
+      "1_4_16": {
+        "name": "stellaris-1.21-neoforge-1.4.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/4SvdOtlR/stellaris-1.21-neoforge-1.4.16.jar",
+        "sha512": "f0a14d495c8d15317e718dbe35a87e8d06cdbb06e560b9764883fcfb8e56dc6d4af583fe325473f943fbc4ed7ec167e93f2255d86235a70852cbec872fb9bd82"
+      },
+      "1_4_15": {
+        "name": "stellaris-1.21-neoforge-1.4.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Ll5CYnaz/stellaris-1.21-neoforge-1.4.15.jar",
+        "sha512": "8421b640950e2d705dd3b66a559b65f39b3e0d9c78f8a00569e3d50de691102d1afdf6f1a854b181e499c92f9572baa21f93aca0f69ffa8ab42de21755777011"
+      },
+      "1_4_14": {
+        "name": "stellaris-1.21-neoforge-1.4.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/w1u5Vnjz/stellaris-1.21-neoforge-1.4.14.jar",
+        "sha512": "6b3a2be632178ce8cc151b327a0ccad0089e4734c627915d148476d32ab3e0d6b791507c9a1c838b23f67f078126b900a25aedc22d458aad5d08f6fc42a248e8"
+      },
+      "1_4_13": {
+        "name": "stellaris-1.21-neoforge-1.4.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CGsKXaJV/stellaris-1.21-neoforge-1.4.13.jar",
+        "sha512": "433f0fb8cef8cd6bd0ca9af635916ea320fd6d401555c243b3aac084a9102596013f4b667744eeab27cee5bb6e7759bab891631413556dbf93e53b0dbe8b8a2e"
+      },
+      "1_4_12": {
+        "name": "stellaris-1.21-neoforge-1.4.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/vRCXhXCE/stellaris-1.21-neoforge-1.4.12.jar",
+        "sha512": "908c11ec914173aed90921e58203744e73890246406d50dfd2bc059ed447c79d9b11ed6a3c33317e018d19dd684c7329e178647a1d22d2145a0727ea54b73b92"
+      },
+      "1_4_11": {
+        "name": "stellaris-1.21-neoforge-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/YLYGw8iW/stellaris-1.21-neoforge-1.4.11.jar",
+        "sha512": "acdc07219b0af579b3da782f33d0c80dcdc4ad9060ae59fd34e308fd9fb06efbed7882a5c7f18f0bb50e6bc6a6e428a985acfded537038da80aac0f521f895ea"
+      },
+      "1_4_10": {
+        "name": "stellaris-1.21-neoforge-1.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/bfHSVpoL/stellaris-1.21-neoforge-1.4.10.jar",
+        "sha512": "e65c2ccd686e0b6a28a2bc441e2a3fd76087466dd852f2c79f8c4042721b0950d6dc8adff1c03407a23914b7aaaa4e05246d94d7d76322f8faad4035d38f2553"
+      },
+      "1_4_9": {
+        "name": "stellaris-1.21-neoforge-1.4.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/EgGvNR7Q/stellaris-1.21-neoforge-1.4.9.jar",
+        "sha512": "fcd2256bd06822d9fb5e4553b566a7dd13b9563e8381354392283fce9ca424b04390bffb6960dde4480cf8378ae80046939b009fc03cab1f96566ddb3117a512"
+      },
+      "1_4_8": {
+        "name": "stellaris-1.21-neoforge-1.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9pNw54ZO/stellaris-1.21-neoforge-1.4.8.jar",
+        "sha512": "d6e1d05b0cc82822519846468b616c28a700fca5bc84669e7e47d23ddf814eb6bfd1c670b830adfe5aed1e3789fa19cd3bd4ba4b073584e6899c31bc0e607575"
+      },
+      "1_4_7": {
+        "name": "stellaris-1.21-neoforge-1.4.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/oaQhjOTf/stellaris-1.21-neoforge-1.4.7.jar",
+        "sha512": "104ac5c4f7c7a86167e23cad1d7a554bf21abd20ec935ae1b6d151e541889ee46bcf090f0999da6a98074636add2a6c230cfea043181ed7146b0e050cb3738c2"
+      },
+      "1_4_6": {
+        "name": "stellaris-1.21-neoforge-1.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/3Jyaaczj/stellaris-1.21-neoforge-1.4.6.jar",
+        "sha512": "4f72e71092b312dc5e9340ba6382649b55f6d6a8592f2d7ddbc8b0dffa03f228169de53061c2aad97d096fe833c1e23cac3330a3e3b91c1db19148bf9b0ff1a3"
+      },
+      "1_4_5": {
+        "name": "stellaris-1.21-neoforge-1.4.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/tu78wVrG/stellaris-1.21-neoforge-1.4.5.jar",
+        "sha512": "584eca0c047bd83fc3a00c07fa078e8e2a35c3429c1f4696b31dc14109a3f05dd85af451093650244a93f9880cc7ded2c0006f16a3fee224dace1ba5ec6e546e"
+      },
+      "1_4_4": {
+        "name": "stellaris-1.21-neoforge-1.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/P2DqCY88/stellaris-1.21-neoforge-1.4.4.jar",
+        "sha512": "09a35af3389dd6d31be290af9d590c1933c1e87c2c564ec11be448707123ebb82fad419ffb627d2cf5dee56138e0e05eca3290e512719f241b577868f0ee6e26"
+      },
+      "1_4_3": {
+        "name": "stellaris-1.21-neoforge-1.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/lGeJzVYA/stellaris-1.21-neoforge-1.4.3.jar",
+        "sha512": "5986247fa8b974f8375136b6535cb85271f69e75db9bab8f149f03cebbf50f41b6e41ddc31f13482a0e78afdc056e9780d4aeadfac8b93fc54996fb9b90fd70a"
+      },
+      "1_4_2": {
+        "name": "stellaris-1.21-neoforge-1.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Z8QjVYTG/stellaris-1.21-neoforge-1.4.2.jar",
+        "sha512": "233f23106c3c99f354b0f17fbb483b26e2c3c7ff993724af4fe38b7508e66798abbce85127d4a776649f6d0a457c877de12e342ac555834b1fd9bcba1a5ed324"
+      },
+      "1_4_1": {
+        "name": "stellaris-1.21-neoforge-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/J03EhGp2/stellaris-1.21-neoforge-1.4.1.jar",
+        "sha512": "9071ea882f3d35e9c6d0d89579b768b639470f84f4f44ffcb403a7c83ad402454a3264605b71b7ec6d00ef763204887684077b051bcf01eaeeacdb063c107e11"
+      },
+      "1_4_0": {
+        "name": "stellaris-1.21-neoforge-1.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/KZ9zaC1T/stellaris-1.21-neoforge-1.4.0.jar",
+        "sha512": "c5b5db8b2fc6dd21550a67657f0866ea852c9727891cf057058f4931bc303822e19adee86d0829108d5cca68716ed9d0a3439a7addb187f3ca77418def391232"
+      },
+      "1_3_19": {
+        "name": "stellaris-1.21-neoforge-1.3.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/YvUtAcJX/stellaris-1.21-neoforge-1.3.19.jar",
+        "sha512": "8194ee53586edb5e27b97dfbf410a2a112b2a0303c091bae30cd8d9d453801a1248b08cb3dde271d6258c3d82c8f71f70f2048716dceb09d0da2de63091f1dc0"
+      },
+      "1_3_17": {
+        "name": "stellaris-1.21-neoforge-1.3.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/JzzgqV4J/stellaris-1.21-neoforge-1.3.17.jar",
+        "sha512": "bdd6302f362c7d8ce83b3ab5b5ee47ae1817321053fc9ff5dbce5c4c71a4e569632792f6d6dbf216d3df521e22a95382a52d06e640064aea005b48a4a9ef9a20"
+      },
+      "1_3_16": {
+        "name": "stellaris-1.21-neoforge-1.3.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/3VfIWnHV/stellaris-1.21-neoforge-1.3.16.jar",
+        "sha512": "2d66aac54ca00dcfd53f86b46a53e0d3bae91e17ec55173474d76c6e4bd2807207052434365b38ea02fa094c951a077a24f36b439b78710c756e14e316bf90a0"
+      },
+      "1_3_15": {
+        "name": "stellaris-1.21-neoforge-1.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9TlHsT5R/stellaris-1.21-neoforge-1.3.15.jar",
+        "sha512": "d1b2db97a7f53f38664976069cf4f0dfb15e2cbe0d436ada9df0338c2751a18b5afa6c7b51f2b2c4d35039317ece925768646a0a07ed94fe7880639e456f1587"
+      },
+      "1_3_14": {
+        "name": "stellaris-1.21-neoforge-1.3.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Uk6F6YYH/stellaris-1.21-neoforge-1.3.14.jar",
+        "sha512": "f28e5ccd22c42d642527e9dd7f1ac2c469ac80b54bc3b1062d0872d9d1baa6f3eb4d646d0527cc3c97f008ffae92c8e314b49dd9d703b93a9faccbec7a66ade9"
+      },
+      "1_3_13": {
+        "name": "stellaris-1.21-neoforge-1.3.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/FA8d7a0h/stellaris-1.21-neoforge-1.3.13.jar",
+        "sha512": "39583b2ccd55b1c585e5f3e5743fcd6be2c8f6f7963d871f506559432e848c810177eab368518cb1bd731f327c31422616cd98aeb5f0eb2caae77599c3230783"
+      },
+      "1_3_12": {
+        "name": "stellaris-1.21-neoforge-1.3.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/wuook8Qi/stellaris-1.21-neoforge-1.3.12.jar",
+        "sha512": "4542e0dc35d282e07b4c7c94c4a0eac1d0402cc9e62d13daeaf4affdf774837cf46b8907473bceed8daa3f5a9b0517b4330e229530d7944a263804a78d72b16d"
+      },
+      "1_3_11": {
+        "name": "stellaris-1.21-neoforge-1.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/icrtTMxy/stellaris-1.21-neoforge-1.3.11.jar",
+        "sha512": "bf4827a86b3530ab6b51a8e5785d14d4493884fc9f4825f3b83a174faea44e0313883c58e0cf4366ad70040fe8065a043748189887c78cdc30324d5c508c914b"
+      },
+      "1_3_10": {
+        "name": "stellaris-1.21-neoforge-1.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/lz0Bo8SN/stellaris-1.21-neoforge-1.3.10.jar",
+        "sha512": "84795cb62b29cc69217edf3a7b6acaf78ddc50cf5470cbcc11f7ca0da60a2222e79d5ccb14139efbb1caa8e4cbc3c79b52167f523cb1ca162de7f8c878ca193c"
+      },
+      "1_3_9": {
+        "name": "stellaris-1.21-neoforge-1.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Q1lbsJ2W/stellaris-1.21-neoforge-1.3.9.jar",
+        "sha512": "ae8a689f6fea35d0927d1753f514bccaae01fa6a9a096784096142c1dd80e87bd5abf32b0e1b86550e131fbdd7fd0bae7e8cf243361be9a48e006d893f089180"
+      },
+      "1_3_8": {
+        "name": "stellaris-1.21-neoforge-1.3.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/PEAeQvt5/stellaris-1.21-neoforge-1.3.8.jar",
+        "sha512": "f03fba08c9494db95e0ddc79ee62b60ec1ac1b2cb8c3944522ee5a7a2112d1e1654405fdc91b31614db2aa289bba4bad0c40d7c509b599f4480f0e9387b29298"
+      },
+      "1_3_7": {
+        "name": "stellaris-1.21-neoforge-1.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/f8ZOE8p6/stellaris-1.21-neoforge-1.3.7.jar",
+        "sha512": "3c222318fa1ca249c8950f5ace8e794088dd1d23c1e1298ef59ad051487908a0b07d206e8acefabc5119d548f720d1958c34dac6aa6e5cc06e0e72ffea559a56"
+      },
+      "1_3_6": {
+        "name": "stellaris-1.21-neoforge-1.3.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Q92tq4oE/stellaris-1.21-neoforge-1.3.6.jar",
+        "sha512": "31e545703750407a28e0b273c5f099b45219aecf1a95de11de7c0f42e662e4f9097c466fe44c32a2108c438149053b4bed82edfab8a5b4bbb3e3104cb857bbe1"
+      },
+      "1_3_4": {
+        "name": "stellaris-1.21-neoforge-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/X7mBOryW/stellaris-1.21-neoforge-1.3.4.jar",
+        "sha512": "e85fc5495612630350d0efa2ffb2cde2df637bc10382770ce402e3e8b562fa754d30729bbc595bb56a93667206ab05cb52827e23298d3f1aa3b4b90e901cf384"
+      },
+      "1_3_3": {
+        "name": "stellaris-1.21-neoforge-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/4JGeVF8H/stellaris-1.21-neoforge-1.3.3.jar",
+        "sha512": "47e1a04f2df6c5726f8d91b6f1907241da9a540fdbeeffbde73485efddc7a0184909cd9da087a735a4bab64632240e3694bea88b9f857ffc4af7872a10f33a01"
+      },
+      "1_3_2": {
+        "name": "stellaris-1.21-neoforge-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/uHviE1Pa/stellaris-1.21-neoforge-1.3.2.jar",
+        "sha512": "8a48fe79accdf96a678d876bda44c04ba9d9b0e3451e065a8bcde59734a416db89e7817f13b27393586bdd1b951c95deefb58c6fa54ee4a45e02c496e1ee1434"
+      },
+      "1_3_1": {
+        "name": "stellaris-1.21-neoforge-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CIhF3Wxa/stellaris-1.21-neoforge-1.3.1.jar",
+        "sha512": "704b43238bf7d535625927273ef521d040634acea4ffcfbc4f0396b2d79e8bbc9aed4cbb0cbaed175af582a53a304d4c268dbe7cd6267b05f6ff355fdaa0642c"
+      },
+      "1_3_0": {
+        "name": "stellaris-1.21-neoforge-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/njlEsv73/stellaris-1.21-neoforge-1.3.0.jar",
+        "sha512": "e3beca3c94e1a0f0fb4e22a2f651c4967b91d780996640f3b6fe5bcee794295d35ecd217f6d7021451fe004e7e9014ee38888cc6a487795658a82dbbbd33ffed"
+      },
+      "1_2_7": {
+        "name": "stellaris-1.21-neoforge-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/pU5iMdGA/stellaris-1.21-neoforge-1.2.7.jar",
+        "sha512": "13e5df5502d3fa8660093fa3afed2d961d79bf00433ae7150a5bbf00c1f9944145ff5e1dbb1768e37042cf78f9b2068076393725a5727bcdb7a78dd2dfd7904a"
+      },
+      "1_2_6": {
+        "name": "stellaris-1.21-neoforge-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/te1bJ4ZA/stellaris-1.21-neoforge-1.2.6.jar",
+        "sha512": "2747fbea02956185e91e09994f6684cc4ed5f69a27cf2df3b6b6cb59b52466724f3e2502fb30cbd812053d4cd9466f945c05621237a35989e6d6f1cef49aec57"
+      },
+      "1_2_5": {
+        "name": "stellaris-1.21-neoforge-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/MEGvFXqh/stellaris-1.21-neoforge-1.2.5.jar",
+        "sha512": "d5773c930049eb2977d2214369020aec94768acf12f4c8329d50b3587d082a4932e1dd2fe00bf82db128ad20b77611646b5e67c93198cd108bd444a425672499"
+      },
+      "1_2_4": {
+        "name": "stellaris-1.21-neoforge-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/gCyb1ElR/stellaris-1.21-neoforge-1.2.4.jar",
+        "sha512": "90a246a1c49b8a16dba745de89b40ddb0f9298c7bccde44fba11c7f73733d7f287a456bcbd64c1a070d9e1a3e20dd527d6eb9efae742732ede36a067c5927a22"
+      },
+      "1_2_3": {
+        "name": "stellaris-1.21-neoforge-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/8YwG0app/stellaris-1.21-neoforge-1.2.3.jar",
+        "sha512": "45ce8875f56383b25780636c99c8ccd221e964f97ad6f913774bb27392d13a8d97dc3a99f93f98e027660ec1eee5769ae32d2f402ba036343eeb05a00a703a9b"
+      },
+      "1_2_2": {
+        "name": "stellaris-1.21-neoforge-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ebJJfIwy/stellaris-1.21-neoforge-1.2.2.jar",
+        "sha512": "662804ba3ae6f300407a53d22cc07aa2811b82b2143710a0087a73f2a1032f11b0fe7b95b4720accdf40978ff30d53705aa5f60948e40dbabee4a68afab45d21"
+      },
+      "1_2_1": {
+        "name": "stellaris-1.21-neoforge-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/yeKISf8w/stellaris-1.21-neoforge-1.2.1.jar",
+        "sha512": "59743e0304a9392270fd19e9f184670196c10e4d69d93d995ef5b7e48800258fdf37c33d5099adec70e4805a293be6983d1a89711f19583715c5fb7e5c40ce73"
+      },
+      "1_2_0-beta5": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/WkPU3A8K/stellaris-1.21-neoforge-1.2.0-beta5.jar",
+        "sha512": "8380b9c062c6ffed592404a28294cd92f44ab511d2fb426cd6401b32fa1124db5d5775cb804138adf0faec02831654d80752b11da9e0f5cb990c089762dd2bf8"
+      },
+      "1_2_0-beta4": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/H2XK8x3b/stellaris-1.21-neoforge-1.2.0-beta4.jar",
+        "sha512": "084847bc9fc29dccc8802ce3d0e596b42b33d24b08fed52938066538e43d3542c7bff20a8575275da6704321ab63ff775a0b6122084cd175f50aa0dd180b8756"
+      },
+      "1_2_0-beta3": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/MIiASf3B/stellaris-1.21-neoforge-1.2.0-beta3.jar",
+        "sha512": "2fc8487339243ea74c539d914e45fb8fee4572ad088eded033c8323ac5beb0d43c73961983bb198bb5b1206ac7e6fbed3d1566cd048d8b849811529ec3a3f674"
+      },
+      "1_2_0-beta2": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/l18ymFPh/stellaris-1.21-neoforge-1.2.0-beta2.jar",
+        "sha512": "686e971743ef7f4b60b19b2fc0dc606367699ad752c1e030d36ce3e23d5d613e2542af579246c71fa4bf200eec5e66e1e4f26db775e9c93089cee91913d887a9"
+      },
+      "1_2_0-beta1": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/IASu3Idv/stellaris-1.21-neoforge-1.2.0-beta1.jar",
+        "sha512": "c4be5254fedddcabd45121c7155e2e6b4dce9a01b44959982a7bdd27f84127b1b6651949ebf430355cbe511258d0fbbd4f4b40a85544e006dfe2f7baa1f5689f"
+      },
+      "1_2_0": {
+        "name": "stellaris-1.21-neoforge-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/gNCSgari/stellaris-1.21-neoforge-1.2.0.jar",
+        "sha512": "16b6725fa987a016b5d11cd3a3e7db90ca3c17527c591b7a9b2d646cf5680577dffc281d6c024077ea9f9659cb14c57f77162bd5b02fc617f6329306f21494ec"
+      },
+      "1_1_7": {
+        "name": "stellaris-1.21-neoforge-1.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CW4uKgsN/stellaris-1.21-neoforge-1.1.7.jar",
+        "sha512": "399c0a049c7c383fe1eb44c663b137f403fb1be3db1f794e729eb030d514d29ee65df2c49992ab1d5a326a471b4eaf37693dc8f428065219a6545d6b69316bac"
+      },
+      "1_1_6": {
+        "name": "stellaris-1.21-neoforge-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/x8oWEzfc/stellaris-1.21-neoforge-1.1.6.jar",
+        "sha512": "d236e89d0459089b80bb8e2c99a890b01766e9633f6886fc096eeae651e94c12986db3f53cc22e034fe00badb81c025b30c8cc68b1ebe224f6cb9ace6ffaa816"
+      },
+      "1_1_5": {
+        "name": "stellaris-1.21-neoforge-1.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/VdD3znO2/stellaris-1.21-neoforge-1.1.5.jar",
+        "sha512": "8ec42a8c638b204debfefed65fcc080caca63ccf047682d71b2d7f4363b53ae80be91c337c06724257c79eee243e5f62adf0307095c427e815281923451fa059"
+      },
+      "1_1_4": {
+        "name": "stellaris-1.21-neoforge-1.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/kBojfErB/stellaris-1.21-neoforge-1.1.4.jar",
+        "sha512": "d1be60d638c7ab65d1bec009b7474883c82a48316ea025841ffe672a837d2bf6cc3d00b8f8af4b2c1e9e2748103e4e1de8c4bbabe0ee401bb325dcf7bf4b660e"
+      },
+      "1_1_3": {
+        "name": "stellaris-1.21-neoforge-1.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/S9XoHmqO/stellaris-1.21-neoforge-1.1.3.jar",
+        "sha512": "cf3a3335b1eea3e77a1bd0f4fff6738655a58f0e45caf6464bb3af5d8c875a77424de5317311bbabfd5a72fa9852ad47408b8a2779608248816d556560746b73"
+      },
+      "1_1_2": {
+        "name": "stellaris-1.21-neoforge-1.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Cz8YSQU5/stellaris-1.21-neoforge-1.1.2.jar",
+        "sha512": "a35066b3e5a369fff89450a14af08e4774dc65a4f8feb32e5d77ccc36c6183b7b7f211884ea0029342ef84f6619e2bbe142edd910e7b07d3a04418e9d0374b0b"
+      },
+      "1_1_1": {
+        "name": "stellaris-1.21-neoforge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fDaRL1XC/stellaris-1.21-neoforge-1.1.1.jar",
+        "sha512": "07b321f7652905fb333dbdfef50c6a58f53157167e74872749686da2075f519e95e8e42eebf0c1e10af5ac397a4a8cc3cb974709ffff4f60c6943e668b5c6715"
+      },
+      "1_0_5": {
+        "name": "stellaris-1.21-neoforge-1.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/RxycJtuR/stellaris-1.21-neoforge-1.0.5.jar",
+        "sha512": "38f990a6d173f7c6de6302c7c63e1f83cbe0fa8baccd473b17ce679173ef15dbce76e5c82cdea274d5cef8e02a7abed3d462f8bf46d61b8fe63b7c0cf0a9cf2e"
+      },
+      "1_0_4": {
+        "name": "stellaris-1.21-neoforge-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/TreRqbL5/stellaris-1.21-neoforge-1.0.4.jar",
+        "sha512": "b2d764180f218edb56918a737ae5cf31cf4e6e096f040ca5d03e3131e0927745abd71636248d29ddf6208c1849b646426dbdc37d2336dc63bba5d03fd40321af"
+      },
+      "1_0_3": {
+        "name": "stellaris-1.21-neoforge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/lEcLITWj/stellaris-1.21-neoforge-1.0.3.jar",
+        "sha512": "29676d871c668d3fe5fd067da18055c20622c38a15e7c719639175de1a950282a3d610436bbfd103dc0f3579dd79b8d5643fd21ff356d1587c02222ad0eef130"
+      },
+      "1_0_2": {
+        "name": "stellaris-1.21-neoforge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/rDrDPhoL/stellaris-1.21-neoforge-1.0.2.jar",
+        "sha512": "a7cd989819f3c6b3439d98f26ce1529b58eaa77574b235093e17fd84091dba381f4aaa8a8cfc93ce3f7f2573bc029d2d3cf325001c8eeaddd82dd5e4a610fc2e"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "stellaris-1.21-neoforge-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xNYJSdZF/stellaris-1.21-neoforge-1.4.20.jar",
+        "sha512": "055afa673c36ec44e17c9424ce24b1f3b036708581d0278d33643c7501d67d9174f6b8596114d1fcf896617539458cf7de32980e7f6f4f9bb4c2a88914df8dd4"
+      },
+      "1_4_20": {
+        "name": "stellaris-1.21-neoforge-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xNYJSdZF/stellaris-1.21-neoforge-1.4.20.jar",
+        "sha512": "055afa673c36ec44e17c9424ce24b1f3b036708581d0278d33643c7501d67d9174f6b8596114d1fcf896617539458cf7de32980e7f6f4f9bb4c2a88914df8dd4"
+      },
+      "1_4_19": {
+        "name": "stellaris-1.21-neoforge-1.4.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/i6XWZrac/stellaris-1.21-neoforge-1.4.19.jar",
+        "sha512": "51c2078883c4dba5d2099bd390e0e111b9fdd60a07bfa739281f97716ef29063f0392dbcb77346dd63f7f42ca152e1bdc87a01892a326f9916570f33857c6c00"
+      },
+      "1_4_18": {
+        "name": "stellaris-1.21-neoforge-1.4.18.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/e3ZMPIN3/stellaris-1.21-neoforge-1.4.18.jar",
+        "sha512": "13107fcc11a7d87918f20ff3b4916c609a7dd7ff8b4e992365976308a4304e6acc4f4971ff8633aded4a59d7f0a50ed88d0e9114dde192b20404b32f7a00b947"
+      },
+      "1_4_17": {
+        "name": "stellaris-1.21-neoforge-1.4.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/hTidMos9/stellaris-1.21-neoforge-1.4.17.jar",
+        "sha512": "ed74fdde95c85d99cab85ccd9d3f0ac6a59a91f5780b705baff7b82b25018c37da7caad4b74993673dbba8dcd61c99c725ba04cb85935d08ed07efe646661cbb"
+      },
+      "1_4_16": {
+        "name": "stellaris-1.21-neoforge-1.4.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/4SvdOtlR/stellaris-1.21-neoforge-1.4.16.jar",
+        "sha512": "f0a14d495c8d15317e718dbe35a87e8d06cdbb06e560b9764883fcfb8e56dc6d4af583fe325473f943fbc4ed7ec167e93f2255d86235a70852cbec872fb9bd82"
+      },
+      "1_4_15": {
+        "name": "stellaris-1.21-neoforge-1.4.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Ll5CYnaz/stellaris-1.21-neoforge-1.4.15.jar",
+        "sha512": "8421b640950e2d705dd3b66a559b65f39b3e0d9c78f8a00569e3d50de691102d1afdf6f1a854b181e499c92f9572baa21f93aca0f69ffa8ab42de21755777011"
+      },
+      "1_4_14": {
+        "name": "stellaris-1.21-neoforge-1.4.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/w1u5Vnjz/stellaris-1.21-neoforge-1.4.14.jar",
+        "sha512": "6b3a2be632178ce8cc151b327a0ccad0089e4734c627915d148476d32ab3e0d6b791507c9a1c838b23f67f078126b900a25aedc22d458aad5d08f6fc42a248e8"
+      },
+      "1_4_13": {
+        "name": "stellaris-1.21-neoforge-1.4.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CGsKXaJV/stellaris-1.21-neoforge-1.4.13.jar",
+        "sha512": "433f0fb8cef8cd6bd0ca9af635916ea320fd6d401555c243b3aac084a9102596013f4b667744eeab27cee5bb6e7759bab891631413556dbf93e53b0dbe8b8a2e"
+      },
+      "1_4_12": {
+        "name": "stellaris-1.21-neoforge-1.4.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/vRCXhXCE/stellaris-1.21-neoforge-1.4.12.jar",
+        "sha512": "908c11ec914173aed90921e58203744e73890246406d50dfd2bc059ed447c79d9b11ed6a3c33317e018d19dd684c7329e178647a1d22d2145a0727ea54b73b92"
+      },
+      "1_4_11": {
+        "name": "stellaris-1.21-neoforge-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/YLYGw8iW/stellaris-1.21-neoforge-1.4.11.jar",
+        "sha512": "acdc07219b0af579b3da782f33d0c80dcdc4ad9060ae59fd34e308fd9fb06efbed7882a5c7f18f0bb50e6bc6a6e428a985acfded537038da80aac0f521f895ea"
+      },
+      "1_4_10": {
+        "name": "stellaris-1.21-neoforge-1.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/bfHSVpoL/stellaris-1.21-neoforge-1.4.10.jar",
+        "sha512": "e65c2ccd686e0b6a28a2bc441e2a3fd76087466dd852f2c79f8c4042721b0950d6dc8adff1c03407a23914b7aaaa4e05246d94d7d76322f8faad4035d38f2553"
+      },
+      "1_4_9": {
+        "name": "stellaris-1.21-neoforge-1.4.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/EgGvNR7Q/stellaris-1.21-neoforge-1.4.9.jar",
+        "sha512": "fcd2256bd06822d9fb5e4553b566a7dd13b9563e8381354392283fce9ca424b04390bffb6960dde4480cf8378ae80046939b009fc03cab1f96566ddb3117a512"
+      },
+      "1_4_8": {
+        "name": "stellaris-1.21-neoforge-1.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9pNw54ZO/stellaris-1.21-neoforge-1.4.8.jar",
+        "sha512": "d6e1d05b0cc82822519846468b616c28a700fca5bc84669e7e47d23ddf814eb6bfd1c670b830adfe5aed1e3789fa19cd3bd4ba4b073584e6899c31bc0e607575"
+      },
+      "1_4_7": {
+        "name": "stellaris-1.21-neoforge-1.4.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/oaQhjOTf/stellaris-1.21-neoforge-1.4.7.jar",
+        "sha512": "104ac5c4f7c7a86167e23cad1d7a554bf21abd20ec935ae1b6d151e541889ee46bcf090f0999da6a98074636add2a6c230cfea043181ed7146b0e050cb3738c2"
+      },
+      "1_4_6": {
+        "name": "stellaris-1.21-neoforge-1.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/3Jyaaczj/stellaris-1.21-neoforge-1.4.6.jar",
+        "sha512": "4f72e71092b312dc5e9340ba6382649b55f6d6a8592f2d7ddbc8b0dffa03f228169de53061c2aad97d096fe833c1e23cac3330a3e3b91c1db19148bf9b0ff1a3"
+      },
+      "1_4_5": {
+        "name": "stellaris-1.21-neoforge-1.4.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/tu78wVrG/stellaris-1.21-neoforge-1.4.5.jar",
+        "sha512": "584eca0c047bd83fc3a00c07fa078e8e2a35c3429c1f4696b31dc14109a3f05dd85af451093650244a93f9880cc7ded2c0006f16a3fee224dace1ba5ec6e546e"
+      },
+      "1_4_4": {
+        "name": "stellaris-1.21-neoforge-1.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/P2DqCY88/stellaris-1.21-neoforge-1.4.4.jar",
+        "sha512": "09a35af3389dd6d31be290af9d590c1933c1e87c2c564ec11be448707123ebb82fad419ffb627d2cf5dee56138e0e05eca3290e512719f241b577868f0ee6e26"
+      },
+      "1_4_3": {
+        "name": "stellaris-1.21-neoforge-1.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/lGeJzVYA/stellaris-1.21-neoforge-1.4.3.jar",
+        "sha512": "5986247fa8b974f8375136b6535cb85271f69e75db9bab8f149f03cebbf50f41b6e41ddc31f13482a0e78afdc056e9780d4aeadfac8b93fc54996fb9b90fd70a"
+      },
+      "1_4_2": {
+        "name": "stellaris-1.21-neoforge-1.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Z8QjVYTG/stellaris-1.21-neoforge-1.4.2.jar",
+        "sha512": "233f23106c3c99f354b0f17fbb483b26e2c3c7ff993724af4fe38b7508e66798abbce85127d4a776649f6d0a457c877de12e342ac555834b1fd9bcba1a5ed324"
+      },
+      "1_4_1": {
+        "name": "stellaris-1.21-neoforge-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/J03EhGp2/stellaris-1.21-neoforge-1.4.1.jar",
+        "sha512": "9071ea882f3d35e9c6d0d89579b768b639470f84f4f44ffcb403a7c83ad402454a3264605b71b7ec6d00ef763204887684077b051bcf01eaeeacdb063c107e11"
+      },
+      "1_4_0": {
+        "name": "stellaris-1.21-neoforge-1.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/KZ9zaC1T/stellaris-1.21-neoforge-1.4.0.jar",
+        "sha512": "c5b5db8b2fc6dd21550a67657f0866ea852c9727891cf057058f4931bc303822e19adee86d0829108d5cca68716ed9d0a3439a7addb187f3ca77418def391232"
+      },
+      "1_3_19": {
+        "name": "stellaris-1.21-neoforge-1.3.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/YvUtAcJX/stellaris-1.21-neoforge-1.3.19.jar",
+        "sha512": "8194ee53586edb5e27b97dfbf410a2a112b2a0303c091bae30cd8d9d453801a1248b08cb3dde271d6258c3d82c8f71f70f2048716dceb09d0da2de63091f1dc0"
+      },
+      "1_3_17": {
+        "name": "stellaris-1.21-neoforge-1.3.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/JzzgqV4J/stellaris-1.21-neoforge-1.3.17.jar",
+        "sha512": "bdd6302f362c7d8ce83b3ab5b5ee47ae1817321053fc9ff5dbce5c4c71a4e569632792f6d6dbf216d3df521e22a95382a52d06e640064aea005b48a4a9ef9a20"
+      },
+      "1_3_16": {
+        "name": "stellaris-1.21-neoforge-1.3.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/3VfIWnHV/stellaris-1.21-neoforge-1.3.16.jar",
+        "sha512": "2d66aac54ca00dcfd53f86b46a53e0d3bae91e17ec55173474d76c6e4bd2807207052434365b38ea02fa094c951a077a24f36b439b78710c756e14e316bf90a0"
+      },
+      "1_3_15": {
+        "name": "stellaris-1.21-neoforge-1.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9TlHsT5R/stellaris-1.21-neoforge-1.3.15.jar",
+        "sha512": "d1b2db97a7f53f38664976069cf4f0dfb15e2cbe0d436ada9df0338c2751a18b5afa6c7b51f2b2c4d35039317ece925768646a0a07ed94fe7880639e456f1587"
+      },
+      "1_3_14": {
+        "name": "stellaris-1.21-neoforge-1.3.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Uk6F6YYH/stellaris-1.21-neoforge-1.3.14.jar",
+        "sha512": "f28e5ccd22c42d642527e9dd7f1ac2c469ac80b54bc3b1062d0872d9d1baa6f3eb4d646d0527cc3c97f008ffae92c8e314b49dd9d703b93a9faccbec7a66ade9"
+      },
+      "1_3_13": {
+        "name": "stellaris-1.21-neoforge-1.3.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/FA8d7a0h/stellaris-1.21-neoforge-1.3.13.jar",
+        "sha512": "39583b2ccd55b1c585e5f3e5743fcd6be2c8f6f7963d871f506559432e848c810177eab368518cb1bd731f327c31422616cd98aeb5f0eb2caae77599c3230783"
+      },
+      "1_3_12": {
+        "name": "stellaris-1.21-neoforge-1.3.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/wuook8Qi/stellaris-1.21-neoforge-1.3.12.jar",
+        "sha512": "4542e0dc35d282e07b4c7c94c4a0eac1d0402cc9e62d13daeaf4affdf774837cf46b8907473bceed8daa3f5a9b0517b4330e229530d7944a263804a78d72b16d"
+      },
+      "1_3_11": {
+        "name": "stellaris-1.21-neoforge-1.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/icrtTMxy/stellaris-1.21-neoforge-1.3.11.jar",
+        "sha512": "bf4827a86b3530ab6b51a8e5785d14d4493884fc9f4825f3b83a174faea44e0313883c58e0cf4366ad70040fe8065a043748189887c78cdc30324d5c508c914b"
+      },
+      "1_3_10": {
+        "name": "stellaris-1.21-neoforge-1.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/lz0Bo8SN/stellaris-1.21-neoforge-1.3.10.jar",
+        "sha512": "84795cb62b29cc69217edf3a7b6acaf78ddc50cf5470cbcc11f7ca0da60a2222e79d5ccb14139efbb1caa8e4cbc3c79b52167f523cb1ca162de7f8c878ca193c"
+      },
+      "1_3_9": {
+        "name": "stellaris-1.21-neoforge-1.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Q1lbsJ2W/stellaris-1.21-neoforge-1.3.9.jar",
+        "sha512": "ae8a689f6fea35d0927d1753f514bccaae01fa6a9a096784096142c1dd80e87bd5abf32b0e1b86550e131fbdd7fd0bae7e8cf243361be9a48e006d893f089180"
+      },
+      "1_3_8": {
+        "name": "stellaris-1.21-neoforge-1.3.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/PEAeQvt5/stellaris-1.21-neoforge-1.3.8.jar",
+        "sha512": "f03fba08c9494db95e0ddc79ee62b60ec1ac1b2cb8c3944522ee5a7a2112d1e1654405fdc91b31614db2aa289bba4bad0c40d7c509b599f4480f0e9387b29298"
+      },
+      "1_3_7": {
+        "name": "stellaris-1.21-neoforge-1.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/f8ZOE8p6/stellaris-1.21-neoforge-1.3.7.jar",
+        "sha512": "3c222318fa1ca249c8950f5ace8e794088dd1d23c1e1298ef59ad051487908a0b07d206e8acefabc5119d548f720d1958c34dac6aa6e5cc06e0e72ffea559a56"
+      },
+      "1_3_6": {
+        "name": "stellaris-1.21-neoforge-1.3.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Q92tq4oE/stellaris-1.21-neoforge-1.3.6.jar",
+        "sha512": "31e545703750407a28e0b273c5f099b45219aecf1a95de11de7c0f42e662e4f9097c466fe44c32a2108c438149053b4bed82edfab8a5b4bbb3e3104cb857bbe1"
+      },
+      "1_3_4": {
+        "name": "stellaris-1.21-neoforge-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/X7mBOryW/stellaris-1.21-neoforge-1.3.4.jar",
+        "sha512": "e85fc5495612630350d0efa2ffb2cde2df637bc10382770ce402e3e8b562fa754d30729bbc595bb56a93667206ab05cb52827e23298d3f1aa3b4b90e901cf384"
+      },
+      "1_3_3": {
+        "name": "stellaris-1.21-neoforge-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/4JGeVF8H/stellaris-1.21-neoforge-1.3.3.jar",
+        "sha512": "47e1a04f2df6c5726f8d91b6f1907241da9a540fdbeeffbde73485efddc7a0184909cd9da087a735a4bab64632240e3694bea88b9f857ffc4af7872a10f33a01"
+      },
+      "1_3_2": {
+        "name": "stellaris-1.21-neoforge-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/uHviE1Pa/stellaris-1.21-neoforge-1.3.2.jar",
+        "sha512": "8a48fe79accdf96a678d876bda44c04ba9d9b0e3451e065a8bcde59734a416db89e7817f13b27393586bdd1b951c95deefb58c6fa54ee4a45e02c496e1ee1434"
+      },
+      "1_3_1": {
+        "name": "stellaris-1.21-neoforge-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CIhF3Wxa/stellaris-1.21-neoforge-1.3.1.jar",
+        "sha512": "704b43238bf7d535625927273ef521d040634acea4ffcfbc4f0396b2d79e8bbc9aed4cbb0cbaed175af582a53a304d4c268dbe7cd6267b05f6ff355fdaa0642c"
+      },
+      "1_3_0": {
+        "name": "stellaris-1.21-neoforge-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/njlEsv73/stellaris-1.21-neoforge-1.3.0.jar",
+        "sha512": "e3beca3c94e1a0f0fb4e22a2f651c4967b91d780996640f3b6fe5bcee794295d35ecd217f6d7021451fe004e7e9014ee38888cc6a487795658a82dbbbd33ffed"
+      },
+      "1_2_7": {
+        "name": "stellaris-1.21-neoforge-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/pU5iMdGA/stellaris-1.21-neoforge-1.2.7.jar",
+        "sha512": "13e5df5502d3fa8660093fa3afed2d961d79bf00433ae7150a5bbf00c1f9944145ff5e1dbb1768e37042cf78f9b2068076393725a5727bcdb7a78dd2dfd7904a"
+      },
+      "1_2_6": {
+        "name": "stellaris-1.21-neoforge-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/te1bJ4ZA/stellaris-1.21-neoforge-1.2.6.jar",
+        "sha512": "2747fbea02956185e91e09994f6684cc4ed5f69a27cf2df3b6b6cb59b52466724f3e2502fb30cbd812053d4cd9466f945c05621237a35989e6d6f1cef49aec57"
+      },
+      "1_2_5": {
+        "name": "stellaris-1.21-neoforge-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/MEGvFXqh/stellaris-1.21-neoforge-1.2.5.jar",
+        "sha512": "d5773c930049eb2977d2214369020aec94768acf12f4c8329d50b3587d082a4932e1dd2fe00bf82db128ad20b77611646b5e67c93198cd108bd444a425672499"
+      },
+      "1_2_4": {
+        "name": "stellaris-1.21-neoforge-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/gCyb1ElR/stellaris-1.21-neoforge-1.2.4.jar",
+        "sha512": "90a246a1c49b8a16dba745de89b40ddb0f9298c7bccde44fba11c7f73733d7f287a456bcbd64c1a070d9e1a3e20dd527d6eb9efae742732ede36a067c5927a22"
+      },
+      "1_2_3": {
+        "name": "stellaris-1.21-neoforge-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/8YwG0app/stellaris-1.21-neoforge-1.2.3.jar",
+        "sha512": "45ce8875f56383b25780636c99c8ccd221e964f97ad6f913774bb27392d13a8d97dc3a99f93f98e027660ec1eee5769ae32d2f402ba036343eeb05a00a703a9b"
+      },
+      "1_2_2": {
+        "name": "stellaris-1.21-neoforge-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ebJJfIwy/stellaris-1.21-neoforge-1.2.2.jar",
+        "sha512": "662804ba3ae6f300407a53d22cc07aa2811b82b2143710a0087a73f2a1032f11b0fe7b95b4720accdf40978ff30d53705aa5f60948e40dbabee4a68afab45d21"
+      },
+      "1_2_1": {
+        "name": "stellaris-1.21-neoforge-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/yeKISf8w/stellaris-1.21-neoforge-1.2.1.jar",
+        "sha512": "59743e0304a9392270fd19e9f184670196c10e4d69d93d995ef5b7e48800258fdf37c33d5099adec70e4805a293be6983d1a89711f19583715c5fb7e5c40ce73"
+      },
+      "1_2_0-beta5": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/WkPU3A8K/stellaris-1.21-neoforge-1.2.0-beta5.jar",
+        "sha512": "8380b9c062c6ffed592404a28294cd92f44ab511d2fb426cd6401b32fa1124db5d5775cb804138adf0faec02831654d80752b11da9e0f5cb990c089762dd2bf8"
+      },
+      "1_2_0-beta4": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/H2XK8x3b/stellaris-1.21-neoforge-1.2.0-beta4.jar",
+        "sha512": "084847bc9fc29dccc8802ce3d0e596b42b33d24b08fed52938066538e43d3542c7bff20a8575275da6704321ab63ff775a0b6122084cd175f50aa0dd180b8756"
+      },
+      "1_2_0-beta3": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/MIiASf3B/stellaris-1.21-neoforge-1.2.0-beta3.jar",
+        "sha512": "2fc8487339243ea74c539d914e45fb8fee4572ad088eded033c8323ac5beb0d43c73961983bb198bb5b1206ac7e6fbed3d1566cd048d8b849811529ec3a3f674"
+      },
+      "1_2_0-beta2": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/l18ymFPh/stellaris-1.21-neoforge-1.2.0-beta2.jar",
+        "sha512": "686e971743ef7f4b60b19b2fc0dc606367699ad752c1e030d36ce3e23d5d613e2542af579246c71fa4bf200eec5e66e1e4f26db775e9c93089cee91913d887a9"
+      },
+      "1_2_0-beta1": {
+        "name": "stellaris-1.21-neoforge-1.2.0-beta1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/IASu3Idv/stellaris-1.21-neoforge-1.2.0-beta1.jar",
+        "sha512": "c4be5254fedddcabd45121c7155e2e6b4dce9a01b44959982a7bdd27f84127b1b6651949ebf430355cbe511258d0fbbd4f4b40a85544e006dfe2f7baa1f5689f"
+      },
+      "1_2_0": {
+        "name": "stellaris-1.21-neoforge-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/gNCSgari/stellaris-1.21-neoforge-1.2.0.jar",
+        "sha512": "16b6725fa987a016b5d11cd3a3e7db90ca3c17527c591b7a9b2d646cf5680577dffc281d6c024077ea9f9659cb14c57f77162bd5b02fc617f6329306f21494ec"
+      },
+      "1_1_7": {
+        "name": "stellaris-1.21-neoforge-1.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CW4uKgsN/stellaris-1.21-neoforge-1.1.7.jar",
+        "sha512": "399c0a049c7c383fe1eb44c663b137f403fb1be3db1f794e729eb030d514d29ee65df2c49992ab1d5a326a471b4eaf37693dc8f428065219a6545d6b69316bac"
+      },
+      "1_1_6": {
+        "name": "stellaris-1.21-neoforge-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/x8oWEzfc/stellaris-1.21-neoforge-1.1.6.jar",
+        "sha512": "d236e89d0459089b80bb8e2c99a890b01766e9633f6886fc096eeae651e94c12986db3f53cc22e034fe00badb81c025b30c8cc68b1ebe224f6cb9ace6ffaa816"
+      },
+      "1_1_5": {
+        "name": "stellaris-1.21-neoforge-1.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/VdD3znO2/stellaris-1.21-neoforge-1.1.5.jar",
+        "sha512": "8ec42a8c638b204debfefed65fcc080caca63ccf047682d71b2d7f4363b53ae80be91c337c06724257c79eee243e5f62adf0307095c427e815281923451fa059"
+      },
+      "1_1_4": {
+        "name": "stellaris-1.21-neoforge-1.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/kBojfErB/stellaris-1.21-neoforge-1.1.4.jar",
+        "sha512": "d1be60d638c7ab65d1bec009b7474883c82a48316ea025841ffe672a837d2bf6cc3d00b8f8af4b2c1e9e2748103e4e1de8c4bbabe0ee401bb325dcf7bf4b660e"
+      },
+      "1_1_3": {
+        "name": "stellaris-1.21-neoforge-1.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/S9XoHmqO/stellaris-1.21-neoforge-1.1.3.jar",
+        "sha512": "cf3a3335b1eea3e77a1bd0f4fff6738655a58f0e45caf6464bb3af5d8c875a77424de5317311bbabfd5a72fa9852ad47408b8a2779608248816d556560746b73"
+      },
+      "1_1_2": {
+        "name": "stellaris-1.21-neoforge-1.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Cz8YSQU5/stellaris-1.21-neoforge-1.1.2.jar",
+        "sha512": "a35066b3e5a369fff89450a14af08e4774dc65a4f8feb32e5d77ccc36c6183b7b7f211884ea0029342ef84f6619e2bbe142edd910e7b07d3a04418e9d0374b0b"
+      },
+      "1_1_1": {
+        "name": "stellaris-1.21-neoforge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fDaRL1XC/stellaris-1.21-neoforge-1.1.1.jar",
+        "sha512": "07b321f7652905fb333dbdfef50c6a58f53157167e74872749686da2075f519e95e8e42eebf0c1e10af5ac397a4a8cc3cb974709ffff4f60c6943e668b5c6715"
+      },
+      "1_1_0": {
+        "name": "stellaris-1.21-neoforge-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Bi9gfNBW/stellaris-1.21-neoforge-1.1.0.jar",
+        "sha512": "233750323c2b0a30f16148573f8c5392e95b3e928c2686fa32116880a4bcd49ffffe3cfbc07e4d6e3ddf2677d6df22256b51167581f0a2a8f568afeb173cb512"
+      },
+      "1_0_10": {
+        "name": "stellaris-1.21-neoforge-1.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/y9ILhv0A/stellaris-1.21-neoforge-1.0.10.jar",
+        "sha512": "4aaf402523f63c94c0b1834f2c608a50f820da5e0611140ca61a735a765c744c4179683e0e2846095f14301366c79c28ee255c6b64be54cd92f3638b6e62363f"
+      },
+      "1_0_9": {
+        "name": "stellaris-1.21-neoforge-1.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/E3yEFFEf/stellaris-1.21-neoforge-1.0.9.jar",
+        "sha512": "1998fd671d19df81ae1c78a7f52d1ab3dc3b6e44e7e6f12e0a699ff0795d29e3f1a7df1e9d88c8139773e16b6e598056e06e7c1cea0705b1c968aba46355d00d"
+      },
+      "1_0_8": {
+        "name": "stellaris-1.21-neoforge-1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/DAkU3LnN/stellaris-1.21-neoforge-1.0.8.jar",
+        "sha512": "d71c25d363eb3518d4b9ff5102c9e8dba0cdc3d38744e361614f5bc01a10f41d5589f1d1124f2ed1fc2958566419ea59cc281e4886f56e5ced9c85b09ab5b9c2"
+      },
+      "1_0_7": {
+        "name": "stellaris-1.21-neoforge-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/qo18d6js/stellaris-1.21-neoforge-1.0.7.jar",
+        "sha512": "4d55a9f0db4535cc8efdf9b6cbc3effff556f981b99381e704ce5c9bf56d8f4cd0e18fdc292ae547a02a9d8088de970d0ff4e6eb7546630a54bfdbe37242c5c6"
+      },
+      "1_0_6": {
+        "name": "stellaris-1.21-neoforge-1.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/sb0KS4MJ/stellaris-1.21-neoforge-1.0.6.jar",
+        "sha512": "ea00eeecba880720fbb96d3333a1e1c684ee06cc99b5ee088d1f7eb7309888ef06dba068c83631eee16e04602a8e2f772e8866017153e4d0c5b6a54b8ec47890"
+      },
+      "1_0_5": {
+        "name": "stellaris-1.21-neoforge-1.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/RxycJtuR/stellaris-1.21-neoforge-1.0.5.jar",
+        "sha512": "38f990a6d173f7c6de6302c7c63e1f83cbe0fa8baccd473b17ce679173ef15dbce76e5c82cdea274d5cef8e02a7abed3d462f8bf46d61b8fe63b7c0cf0a9cf2e"
+      },
+      "1_0_4": {
+        "name": "stellaris-1.21-neoforge-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/TreRqbL5/stellaris-1.21-neoforge-1.0.4.jar",
+        "sha512": "b2d764180f218edb56918a737ae5cf31cf4e6e096f040ca5d03e3131e0927745abd71636248d29ddf6208c1849b646426dbdc37d2336dc63bba5d03fd40321af"
+      },
+      "1_0_3": {
+        "name": "stellaris-1.21-neoforge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/lEcLITWj/stellaris-1.21-neoforge-1.0.3.jar",
+        "sha512": "29676d871c668d3fe5fd067da18055c20622c38a15e7c719639175de1a950282a3d610436bbfd103dc0f3579dd79b8d5643fd21ff356d1587c02222ad0eef130"
+      },
+      "1_0_2": {
+        "name": "stellaris-1.21-neoforge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/rDrDPhoL/stellaris-1.21-neoforge-1.0.2.jar",
+        "sha512": "a7cd989819f3c6b3439d98f26ce1529b58eaa77574b235093e17fd84091dba381f4aaa8a8cfc93ce3f7f2573bc029d2d3cf325001c8eeaddd82dd5e4a610fc2e"
+      },
+      "1_0_1": {
+        "name": "stellaris-1.21-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/4X42BaKz/stellaris-1.21-neoforge-1.0.1.jar",
+        "sha512": "65efeeca868590cc930caf3ea2ea1ca49db533ce282f5df02aaf77285d33db5e556b12b716ecf714b2d68e91b4daa069eb76079a804338853dd0ffee82981c7c"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "stellaris-1.20.6-neoforge-1.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Zqby4V2S/stellaris-1.20.6-neoforge-1.0.10.jar",
+        "sha512": "8e1bbd25c6f051ad96eca5050e2489149587be746e110126b11d44efe4eb4b861b3c06d601febf573f129288dd924d88a2b346b89b2c819e0a3caf91b83c09c1"
+      },
+      "1_0_10": {
+        "name": "stellaris-1.20.6-neoforge-1.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Zqby4V2S/stellaris-1.20.6-neoforge-1.0.10.jar",
+        "sha512": "8e1bbd25c6f051ad96eca5050e2489149587be746e110126b11d44efe4eb4b861b3c06d601febf573f129288dd924d88a2b346b89b2c819e0a3caf91b83c09c1"
+      },
+      "1_0_9": {
+        "name": "stellaris-1.20.6-neoforge-1.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/GZoErRX0/stellaris-1.20.6-neoforge-1.0.9.jar",
+        "sha512": "84bc8961c21fbb874918251718e60f5c2236f0fee3daf373d52c8d74aac5c4715a4b8fc12687aeaccb609619e27fe3a5282d3102ecf2904cec76c7d18fccce90"
+      },
+      "1_0_8": {
+        "name": "stellaris-1.20.6-neoforge-1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/TagzPuHd/stellaris-1.20.6-neoforge-1.0.8.jar",
+        "sha512": "8e3e842b5e047cf1719f9c5e543c6e41858a49bf91582872ada470f083ab28684dc4f4bd00ba88ff145461d34d700df3623f748149869f9215fd3f29a89626ef"
+      },
+      "1_0_7": {
+        "name": "stellaris-1.20.6-neoforge-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/MBziELe6/stellaris-1.20.6-neoforge-1.0.7.jar",
+        "sha512": "3d0fb283d14c9e028e6b89c1ba4ed695918913bdda3a3ae717e55231c8e6ef40b466f6031d82fd7b822222d6bed95a5699abd8d0511db7cc0f24bc0ca47ec5d6"
+      },
+      "1_0_5": {
+        "name": "stellaris-1.20.6-neoforge-1.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/bZx6QOAC/stellaris-1.20.6-neoforge-1.0.5.jar",
+        "sha512": "4ad64ee64bec1cf37eaf26950edd52ebf62344ca81fe8f673920daae397d2a078d9d9c71340b2c505acac06659ad852ac1dfb96a333381ef6b649f46e3dab1ff"
+      },
+      "1_0_4": {
+        "name": "stellaris-1.20.6-neoforge-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/eCJKDTv0/stellaris-1.20.6-neoforge-1.0.4.jar",
+        "sha512": "8144ced35028b2951bd9300a9ad27a2b1687aef612bf00fd3a28d03e2ed1aa97a94a508ac5d7b3ea730299525896d924009ee87036c1f23a1027505ef4a1fbca"
+      },
+      "1_0_3": {
+        "name": "stellaris-1.20.6-neoforge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/KLbMRHAt/stellaris-1.20.6-neoforge-1.0.3.jar",
+        "sha512": "5e1de69808b4238c92342b4edc51c3b2be1667051254bab51f3d4c6cf03bb4f19909c83837521f5c6de0e21b16072aa8773cf91071ce5a0a47b5d3a40c9d6f15"
+      },
+      "1_0_2": {
+        "name": "stellaris-1.20.6-neoforge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/MVpzOHkZ/stellaris-1.20.6-neoforge-1.0.2.jar",
+        "sha512": "35e13794fb6ac4db5d629f524da9b9e2353444cad9e4c6284ddc28294561363d44da39cf35c9db415ad2466cf06c0d9dd53b2b6a5f081ab8ef9df79253149e9e"
+      },
+      "1_0_1": {
+        "name": "stellaris-1.20.6-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/w4djEt10/stellaris-1.20.6-neoforge-1.0.1.jar",
+        "sha512": "9df81437f9088c7c6315c415b5f2f42d898703582b886d2bc502e1429dbbc612ff2d8fa8dd48e29903c526ec8f5b090fab05cc5d72ee40d5df1d2d843cfa0b61"
+      },
+      "1_0_0": {
+        "name": "stellaris-1.20.6-neoforge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Bgu1gN6u/stellaris-1.20.6-neoforge-1.0.0.jar",
+        "sha512": "a97e40f858ae52a321d68cb08214ea43c1de94e32a99eac1b4004a4feb11f6d78962a1eb7bc005aa88c91039426122db046669690d8c6731dad0c21405f23f0e"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_5": {
+      "latest": {
+        "name": "stellaris-1.21.5-fabric-1.3.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ydcwVfva/stellaris-1.21.5-fabric-1.3.20.jar",
+        "sha512": "33c569759d14f2b4924a971237501a6a93dc828b74c85b7b180286978c9511a7cb920ec5b469f93ccdd6822bc457c1b05f6d80fb354f743f9dc0d7f1b65753eb"
+      },
+      "1_3_20": {
+        "name": "stellaris-1.21.5-fabric-1.3.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ydcwVfva/stellaris-1.21.5-fabric-1.3.20.jar",
+        "sha512": "33c569759d14f2b4924a971237501a6a93dc828b74c85b7b180286978c9511a7cb920ec5b469f93ccdd6822bc457c1b05f6d80fb354f743f9dc0d7f1b65753eb"
+      },
+      "1_3_19": {
+        "name": "stellaris-1.21.5-fabric-1.3.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/D8PXZhKn/stellaris-1.21.5-fabric-1.3.19.jar",
+        "sha512": "82e93e6c13091d1b99025a70b13fa681bb9c2d3d01e7e51eb02d3b1bc8bdc85b97f40bed913b289158987871fa330b22aefe71acedc54f7e07b7397149aa09dc"
+      },
+      "1_3_18": {
+        "name": "stellaris-1.21.5-fabric-1.3.18.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Wj2BgK7m/stellaris-1.21.5-fabric-1.3.18.jar",
+        "sha512": "15c8d9e408dc4a5724bfb871d98c60acf220d50e7c0c5eb0aaddb843c5138969a304a4ecf4a136dced2c25f414923be57093c201ced8dd75362cd1d3ae067c84"
+      },
+      "1_3_17": {
+        "name": "stellaris-1.21.5-fabric-1.3.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/F0oRrAnL/stellaris-1.21.5-fabric-1.3.17.jar",
+        "sha512": "5447633993e507444250d5f7be10b1dae793b6dca7790a2cd1a97e138a68832210bb3b29b6799b987a55d46a2dd101106149ecf61d201528b662f76d7119fc44"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "stellaris-1.21-fabric-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fcg0BOwC/stellaris-1.21-fabric-1.4.20.jar",
+        "sha512": "5fbd498b985b99e717f4170771e441d1d81c59e467c5a42f927481becd23f31a8456c278f885d734640aa294f17a01082264cac7353751be2e9ee2a4ec612a85"
+      },
+      "1_4_20": {
+        "name": "stellaris-1.21-fabric-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fcg0BOwC/stellaris-1.21-fabric-1.4.20.jar",
+        "sha512": "5fbd498b985b99e717f4170771e441d1d81c59e467c5a42f927481becd23f31a8456c278f885d734640aa294f17a01082264cac7353751be2e9ee2a4ec612a85"
+      },
+      "1_4_19": {
+        "name": "stellaris-1.21-fabric-1.4.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/x6Kpl3Ia/stellaris-1.21-fabric-1.4.19.jar",
+        "sha512": "c61782b62dade9ff51ebf4af09f337cdb71be7e22cd7a1e3309c94ad2ef50fd6973ab4a3219efe8801b83a056d20c496e73e418bda6c30efd395fb2139aea7d3"
+      },
+      "1_4_18": {
+        "name": "stellaris-1.21-fabric-1.4.18.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/m0oNGBfB/stellaris-1.21-fabric-1.4.18.jar",
+        "sha512": "63bc60b29476b93eb481ac427cd94c802914d107b0d355d8ce8a8a83d004d89359ccde5d687c97823fdaca31e16702d9458c34969876d12a92a5e0cde0496ef3"
+      },
+      "1_4_17": {
+        "name": "stellaris-1.21-fabric-1.4.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/rwCV4LqQ/stellaris-1.21-fabric-1.4.17.jar",
+        "sha512": "4346d7543a71614081e60548bfc99becc644215b13009e20c69389ed0b70f8b9df5c3517c543b05411498216a36f9c43d469eaf34ac8aad5f73cfa695199835d"
+      },
+      "1_4_16": {
+        "name": "stellaris-1.21-fabric-1.4.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Jp5glyfH/stellaris-1.21-fabric-1.4.16.jar",
+        "sha512": "4e2df727b9b11ea2a067d857599f59508e71e003512c851926cf37975154e496d429e16c62ff7c2682f0684ee91ae6ce9b95142f269b66e5590346d1851f4a75"
+      },
+      "1_4_15": {
+        "name": "stellaris-1.21-fabric-1.4.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/E1vCmZ2d/stellaris-1.21-fabric-1.4.15.jar",
+        "sha512": "585e0c90b32c3c2361c422883d69cc2d83a1b5df010a043e5aded883a1b743454fadec4ea610e2359b41a124a2d449e9a12107e6e83ac39c38578cc9640e4464"
+      },
+      "1_4_14": {
+        "name": "stellaris-1.21-fabric-1.4.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/k9NxOp9r/stellaris-1.21-fabric-1.4.14.jar",
+        "sha512": "a828eaef1812b63d8e4ef19f56595396e264212934d6173e3d09ff6950e80c45bcd335dc496887b65aa87bc6416d136fa7c23b1372ed00effa924d84c43b517f"
+      },
+      "1_4_13": {
+        "name": "stellaris-1.21-fabric-1.4.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/GaPQYcfZ/stellaris-1.21-fabric-1.4.13.jar",
+        "sha512": "f862f44b240f22feb3febc3dcdd3c0490ca0d17d268027c9560965d3960a2e8df69b47f69b9e5b3f6bcfa5f2be5acdc133d07c07289afa2c48947eeca57de3da"
+      },
+      "1_4_12": {
+        "name": "stellaris-1.21-fabric-1.4.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/GRrlBRSq/stellaris-1.21-fabric-1.4.12.jar",
+        "sha512": "06b05a0a1c425d737ceeb65e79469081d21ceb6f429f5bcd8fe7ceae06b50fed8dae3a554c734eaa32aae23a9abda0d1402d3f4ac8f7a00c6bffdf1c9b1699b0"
+      },
+      "1_4_11": {
+        "name": "stellaris-1.21-fabric-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/dxpFctrv/stellaris-1.21-fabric-1.4.11.jar",
+        "sha512": "96570f204c96562f2e161a692dee755e525499153e36219c4a48bebe1327215621a4fa33d9aa08f0d760cc8ee6058ed122cf02c909572212e323aa90908515f1"
+      },
+      "1_4_10": {
+        "name": "stellaris-1.21-fabric-1.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9JD4gVkk/stellaris-1.21-fabric-1.4.10.jar",
+        "sha512": "e36ed8b5ce087c330d204b3f931f06dda6e45f58126f22bdbfa3c3f5ce3a78cde93cb78658313831c0b44949213bb42c4bbcc8a7354aab0b60846ab4b2ed5613"
+      },
+      "1_4_9": {
+        "name": "stellaris-1.21-fabric-1.4.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ax5FW3gh/stellaris-1.21-fabric-1.4.9.jar",
+        "sha512": "2b8fac80c71010b9f2ad0828e6d8c565c8070805c35910aa5a3f80b6d1a43c67be7d716e61dd9cc13194c64d2ed2209f724de33963800216c3af29a2e6f5b312"
+      },
+      "1_4_8": {
+        "name": "stellaris-1.21-fabric-1.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/t92YORFR/stellaris-1.21-fabric-1.4.8.jar",
+        "sha512": "debd9f37d6f57b645edb18f3c4609981a6e29f423ec928af628ae0c5078cf2c9f250f57f1085f406345170a0986140963703c32879f17f83ac2c1ce857b5f38d"
+      },
+      "1_4_7": {
+        "name": "stellaris-1.21-fabric-1.4.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/dZRBTLfP/stellaris-1.21-fabric-1.4.7.jar",
+        "sha512": "da2229d39b0d5f24ca23d974c6eefa738e2a86e16b920e39241022332c29cf05efbee602c99df14de0ecd1e76078443b1910812615972e4e6660df01eb108790"
+      },
+      "1_4_6": {
+        "name": "stellaris-1.21-fabric-1.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ToYruJXI/stellaris-1.21-fabric-1.4.6.jar",
+        "sha512": "c26eb1c876ff30e72a504f1176a46c16061cd0a6926b481352946507d27d0156132d4340b732c6a7a66ee37cfed8a089c11c9475aaa9c8708f84708a6bbe0bbe"
+      },
+      "1_4_5": {
+        "name": "stellaris-1.21-fabric-1.4.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/JiVAW5kf/stellaris-1.21-fabric-1.4.5.jar",
+        "sha512": "4b2937d266ca6787cf5ccf74a07cbed65c60a03461a0918193667bbdc3ce94e0b1daaf366bbc81d8d9481175620aa2520db5ba66713fdc81127bac9214d6307a"
+      },
+      "1_4_4": {
+        "name": "stellaris-1.21-fabric-1.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/WWEKZyGo/stellaris-1.21-fabric-1.4.4.jar",
+        "sha512": "7dfc3de72ad4c53a5f5a9e2528b5b62fd343dd09a12ab33badb486d6ec01f3bd1333d108d03e7f3159875d28976591ffacb556b906c066ab53c20c9ff5aa7192"
+      },
+      "1_4_3": {
+        "name": "stellaris-1.21-fabric-1.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/t5lDpwFL/stellaris-1.21-fabric-1.4.3.jar",
+        "sha512": "56b695ebea8f9a6ef09d7ad7a000a55882944539c3cacd1039f8c09838aafa23744163b4bcd4ab96499455ebbb42c126ad20f1d955a49bf3aedc34bb9296df31"
+      },
+      "1_4_2": {
+        "name": "stellaris-1.21-fabric-1.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/FCO2Pd2F/stellaris-1.21-fabric-1.4.2.jar",
+        "sha512": "3960442d65a68272c91f59626b7727c6f5e7c2d5ed359d085a30426b4f75841f5d8367e4abb9c9cc1222c878d874a14483f15cda935a21aa620d8a12f9720646"
+      },
+      "1_4_1": {
+        "name": "stellaris-1.21-fabric-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/v8rq581I/stellaris-1.21-fabric-1.4.1.jar",
+        "sha512": "6645fc313dfb47c0817d098a63751c3636d5e4e3452b7148b38d16a5d4d5386895ad9b36fc40b946773d30044012404956edeb38b6cb0604763a6bca706098d4"
+      },
+      "1_4_0": {
+        "name": "stellaris-1.21-fabric-1.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/iB91Q6mq/stellaris-1.21-fabric-1.4.0.jar",
+        "sha512": "babc371fe0c9db184b260e63e8ae4e288e0d8a566988ce9526abe64175ddb22103ea7405e669eea587b983093fdea443149de48e0e84e9695a3f42a7c0f314e3"
+      },
+      "1_3_19": {
+        "name": "stellaris-1.21-fabric-1.3.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/cLsfddgA/stellaris-1.21-fabric-1.3.19.jar",
+        "sha512": "42ab6206b08e6fe73070fc1bee025caada262db9dcee37b6468b29c44216917e959325e33584aee453dc2658d9571a8ba4350d48a6054deee31cc56eeffa604b"
+      },
+      "1_3_17": {
+        "name": "stellaris-1.21-fabric-1.3.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Ov0dx4Kc/stellaris-1.21-fabric-1.3.17.jar",
+        "sha512": "17cbb5681319a9a59ec3f03825a1cb4e5d881fd4dd6caba44129c1513509bf7e1d50a37dd24b7c768a88512d51bf8d89b59c655388d531cb8d8f4f12b32b3c28"
+      },
+      "1_3_16": {
+        "name": "stellaris-1.21-fabric-1.3.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/aaXiqWfo/stellaris-1.21-fabric-1.3.16.jar",
+        "sha512": "f19caf3020affe76c5f570d41fa78ed950fe30ff6e3c92ba4bdff7c6e5c49642106921e4e6fb706115b451ba41fc4f1eb94cfc5b7fc96562ccc63d856bbd2f97"
+      },
+      "1_3_15": {
+        "name": "stellaris-1.21-fabric-1.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/PuH4aP29/stellaris-1.21-fabric-1.3.15.jar",
+        "sha512": "697a23595c529ef91ca83a33766001686317ff274d534ca32cb30ba20893e9e2e06c50b4d97feb2a4b44bfcb280a78b321931d12e00313285759ae75343d8e1a"
+      },
+      "1_3_14": {
+        "name": "stellaris-1.21-fabric-1.3.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/mkx96iXk/stellaris-1.21-fabric-1.3.14.jar",
+        "sha512": "4d38fcd6a276821f2f910b5d43fec4d3b2d06938e352dd5f0c740a7573216f3743212fb97964c39f50b19cb5c2f8ad67f2f4318dc5a39cd1f47af0dc74536921"
+      },
+      "1_3_13": {
+        "name": "stellaris-1.21-fabric-1.3.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/6fNaXLXV/stellaris-1.21-fabric-1.3.13.jar",
+        "sha512": "c49ae27f3842954c7839d00d047deb56b92c5e4ac0ba99caa96c533b715563c6c1be76ecbe7300e94a06f0db7ae5ef45503c60a172f67de7b0578b3e19e40a60"
+      },
+      "1_3_12": {
+        "name": "stellaris-1.21-fabric-1.3.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/M4dlsZ51/stellaris-1.21-fabric-1.3.12.jar",
+        "sha512": "e538eb8c522677716ec444331ca44eab8f6d90155f5628827577d37a56f5d8f433074268a69c05856f5268f63961dd5b703b678d515a846166d3a6e39146f499"
+      },
+      "1_3_11": {
+        "name": "stellaris-1.21-fabric-1.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Dq23KNJn/stellaris-1.21-fabric-1.3.11.jar",
+        "sha512": "084ff37d3f82d12370e5d8b2db03ed9c19c02865574928e70f8185af2007b39cb52e7549f595b141aadf864df81baa0eeb3e7b22d24b2f90bb1ac54aae970993"
+      },
+      "1_3_10": {
+        "name": "stellaris-1.21-fabric-1.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/tnAjZM5V/stellaris-1.21-fabric-1.3.10.jar",
+        "sha512": "e6f20428ec71b623f1f05f7692aefca2bb015f1d711909edf56856ce06ad3f75a2889efcbb8d23efe410e0299eeccbd40faf3ead55c17ac9c95e1e864d9d7f28"
+      },
+      "1_3_9": {
+        "name": "stellaris-1.21-fabric-1.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/NBOma4nY/stellaris-1.21-fabric-1.3.9.jar",
+        "sha512": "b8ada0aeb47e6ad92e3ba9b82ebec4d6e22f95add17d3418ac9083fcd21e3259af8a2fb0026ef5a63d39056a0168d1e62be9b8662dc42209d38629ca17347b81"
+      },
+      "1_3_8": {
+        "name": "stellaris-1.21-fabric-1.3.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/reGjFUkO/stellaris-1.21-fabric-1.3.8.jar",
+        "sha512": "0d93e0436d45728fa06d8d874542bd276c21378a8bbdce040ff9806bc904d6502b42c9a33373cbbed9f32a05064230b0938ed5b2254393caeb664797857c1b39"
+      },
+      "1_3_7": {
+        "name": "stellaris-1.21-fabric-1.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/dJQAyPdN/stellaris-1.21-fabric-1.3.7.jar",
+        "sha512": "0e655f474ced7d65a0d1d27ed9928396a8f9ec3162e4770e73dc487a4ec26554e2409177416edf6579e2e5b9951a189708ad18d259e3a94c43c564d80420ccdb"
+      },
+      "1_3_6": {
+        "name": "stellaris-1.21-fabric-1.3.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/HBO0ea9r/stellaris-1.21-fabric-1.3.6.jar",
+        "sha512": "0b73dd70e48ab1bc51aeafe883b15071d3874662446ffebda95fec44a999df2e1c26a6992e7b27ad95a9a2aa73374d81719a9abf8c72ba7daafd57ab73297c46"
+      },
+      "1_3_5": {
+        "name": "stellaris-1.21-fabric-1.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/w84zTpVG/stellaris-1.21-fabric-1.3.5.jar",
+        "sha512": "efd0d38a3c3aba541046d020fcd70e65d09ad9152f10f984f98e08bd9873581adf889c0ceddb15a60d634286d48291ae635c67f5472c087fc23d5c8f14e78144"
+      },
+      "1_3_4": {
+        "name": "stellaris-1.21-fabric-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ym8SSgLG/stellaris-1.21-fabric-1.3.4.jar",
+        "sha512": "48a64a7bae7c667b10bdf3dc321aefb6af622914c31198185a2962af89d5b51c8e5b6bf9f8dae4988e43f605348ca98165cb4ad99e4bfab68d87505ff26d381c"
+      },
+      "1_3_3": {
+        "name": "stellaris-1.21-fabric-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fdo01kGg/stellaris-1.21-fabric-1.3.3.jar",
+        "sha512": "77ea6502e4ea630610d5331436711726d6d44b31de2d9000b008d2dbebc17c08680de82e60bddd9841c296f3a85ae7f7a68c303d4f20b60759d0bc9680d1dbfe"
+      },
+      "1_3_2": {
+        "name": "stellaris-1.21-fabric-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/qaYZWQI4/stellaris-1.21-fabric-1.3.2.jar",
+        "sha512": "0576c89f4571d103460e8af9872cd56c0d1762194c69e553ad35ad5a1739b57abeb03d21a5bef47b6198e5a333d14eb853782babd5ab3475bea05efc12b46d66"
+      },
+      "1_3_1": {
+        "name": "stellaris-1.21-fabric-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/4ngZqTyz/stellaris-1.21-fabric-1.3.1.jar",
+        "sha512": "4805183061a9301d8d6fd37c013915dc0d5e0916eb18c0e19c5c8d5a6e3d683ce007d53448a123f737f4311747301d283257e8c86a2ac7dae7984864118acc88"
+      },
+      "1_3_0": {
+        "name": "stellaris-1.21-fabric-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9r748aA8/stellaris-1.21-fabric-1.3.0.jar",
+        "sha512": "e987ab378dc0efa9fbddf44f8f879fe2ea0e3d7ac0b80954fbeba43a381aaf42f2ebb56d6800f9ce74eb31d6ad9898f7ae4209437b256f801dae609c738292e5"
+      },
+      "1_2_7": {
+        "name": "stellaris-1.21-fabric-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/3qvEHJ4A/stellaris-1.21-fabric-1.2.7.jar",
+        "sha512": "f131b915b282dc21dd6c3ebce63c3d0f99f61bfe6a0a34e49abc78e2e1cd1d23a63676a8dda75ef638118275a2e7e6ad723c2e05bc5743d171ba49f2b82aab3a"
+      },
+      "1_2_6": {
+        "name": "stellaris-1.21-fabric-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/zP87fjuT/stellaris-1.21-fabric-1.2.6.jar",
+        "sha512": "681e2ef9a256142aff6ca554528fd0eb1a887039daf32788fbea296741d6ae5f46a4f4f52b4e1f048e5e93c43777620a770f41edee66727ee62700ed307059e8"
+      },
+      "1_2_5": {
+        "name": "stellaris-1.21-fabric-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/7SZZfbjh/stellaris-1.21-fabric-1.2.5.jar",
+        "sha512": "4f7d35fed97aaa787a5e123598e35c98949ba297ac46cf567b6ac0cd37a3ec81d05a06600a17c9fbcccb36a93362d5252d31bb8e00a9f79aefe168309245fcf4"
+      },
+      "1_2_4": {
+        "name": "stellaris-1.21-fabric-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Rr5222hX/stellaris-1.21-fabric-1.2.4.jar",
+        "sha512": "599e56c35b5aceaa7c2ea234cb47c858785b183cd5210a99bc44ba30fc326dd7b6447197f2a347eee49ba3cf4549628dbea0aae648775d838a2c032c2bffce50"
+      },
+      "1_2_3": {
+        "name": "stellaris-1.21-fabric-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/BZYPFZ0a/stellaris-1.21-fabric-1.2.3.jar",
+        "sha512": "babd657542e28a9796839909db4822d97c34ef442d76b28c055953b768407a90a027a096cf0775724bde943d376c50f312ffb91c2a916ad17e352329b507a94c"
+      },
+      "1_2_2": {
+        "name": "stellaris-1.21-fabric-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/5W3L6UWd/stellaris-1.21-fabric-1.2.2.jar",
+        "sha512": "50edab37a74b7a28b6e6b0a2a67f91e74ee7f5bb8aa06eb626b12860c54e71e6bf7051380656b4012a91df1a269c1c5aeb7d38ade7c09c9683842b04938bab3e"
+      },
+      "1_2_1": {
+        "name": "stellaris-1.21-fabric-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/KMvrlJZZ/stellaris-1.21-fabric-1.2.1.jar",
+        "sha512": "255c82992a03b68bd07e0f4ec67675086e98360013a5aa8f07ae282b0632aa9222a1cff40abe40eca1bcecf519346a102dd31f640f346da5b96d8beefaeb3f8e"
+      },
+      "1_2_0-beta5": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/vLsYdW0F/stellaris-1.21-fabric-1.2.0-beta5.jar",
+        "sha512": "d0ef2bc446521a2e6aa8e5157ff0b17dffbd7ca19e4b1d1acc6b1db8aa5d94dcac8e6a1582dabe7e83da7d1000d4b9632fd030b8cdfaaa9b88217177d6174996"
+      },
+      "1_2_0-beta4": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CeeMpwas/stellaris-1.21-fabric-1.2.0-beta4.jar",
+        "sha512": "7872f40d6032dbdeb93ae50308d4dfd046f2a05007d702566f109a98abeda923763f3de0812449fee5e95d18833f95404bc61a3277c32fba5a158494bd9e5991"
+      },
+      "1_2_0-beta3": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/OlYcCcKD/stellaris-1.21-fabric-1.2.0-beta3.jar",
+        "sha512": "4fc6c8dff8fd9b68904c9f66e9bea8d2c6ca31d0dfd6577cbce8ad8bbfce78dcb75b5928f5c39d3e3d60e350ccf43f0a781b1d7ddc4adf324b785cb85e1e78a5"
+      },
+      "1_2_0-beta2": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/vHTJwQeB/stellaris-1.21-fabric-1.2.0-beta2.jar",
+        "sha512": "a65690c4111f3dff786011a79247f7b1a4f811d37d399cc5a67bab462a31644b954662affed76432a823d7f02e23c52f379e19a76bda976675c387065497af8b"
+      },
+      "1_2_0-beta1": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/WAlyeH5x/stellaris-1.21-fabric-1.2.0-beta1.jar",
+        "sha512": "5122ce6a80ed5dd0c8ea2706f9c309591b8c40dca26a127ba5c5644c6dc8830ce146bb56ec3761ba5e6ab1a9eff3c5aea2240fb172c81dfe2935b88a12165f79"
+      },
+      "1_2_0": {
+        "name": "stellaris-1.21-fabric-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/tjI1DvjE/stellaris-1.21-fabric-1.2.0.jar",
+        "sha512": "4e2e416db7d586e362499f2996f59fe3f5f3ed695cfcf4b3b5e4400be32ed101ae06ff21ff470e2cb9fa5364e691d4427b76388f0365247f7c6a67e6ad5491c2"
+      },
+      "1_1_7": {
+        "name": "stellaris-1.21-fabric-1.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/1HFL6omH/stellaris-1.21-fabric-1.1.7.jar",
+        "sha512": "b468920be99602e1bb1e92fb6e850ca0109eb2bfd97a0447bae5804a870f57d23c056273964cd7cdca4b1b90d377284ff625f4b887e885d54c6b33c62532e320"
+      },
+      "1_1_6": {
+        "name": "stellaris-1.21-fabric-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/VVfJa24A/stellaris-1.21-fabric-1.1.6.jar",
+        "sha512": "ce44539b2329d2eb3baa2d5dd85814e55257d33f613d2449433862542f7adecfd7a602220d39fe82f753517b9d460ced6b7d5e73ab115187f35f355e1040fc49"
+      },
+      "1_1_5": {
+        "name": "stellaris-1.21-fabric-1.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xdi96xMc/stellaris-1.21-fabric-1.1.5.jar",
+        "sha512": "e9be83c9b2fa19dc8dc0e82902b45ab4f02c065b5ffbac62071f16b050433309dfa4bc1303202d3e013e8f3b893c91c0567a91f8889b44568230436cc1cb5333"
+      },
+      "1_1_4": {
+        "name": "stellaris-1.21-fabric-1.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/r0ciMt9w/stellaris-1.21-fabric-1.1.4.jar",
+        "sha512": "ad44bd1f18577003065105a667d1e84e9cb66a7719e483508e9178ef3d8caab897d5b0cf935257eb0a22160d22766ac99a5e4ed5afd72c56791ba0cfe8d4f1b4"
+      },
+      "1_1_3": {
+        "name": "stellaris-1.21-fabric-1.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/M7COBmqu/stellaris-1.21-fabric-1.1.3.jar",
+        "sha512": "7ec1707eeb44fe4b4cd39f5f17875093a78661ec953e850951d3b2d1ed79baf1db0db23d89099fa0b3e46e714ebb08cb610bcb9adb9d81372625b6dbf851e27c"
+      },
+      "1_1_2": {
+        "name": "stellaris-1.21-fabric-1.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/2wLZEk0l/stellaris-1.21-fabric-1.1.2.jar",
+        "sha512": "26d542ea6207a38b53df5193d0127136f3074bb9ef6b4f0fe929437cdf2def5c93b3531198b4fd1449d43f78b5ca9c75af1a947e0daec76dc8114e4607371dbe"
+      },
+      "1_1_1": {
+        "name": "stellaris-1.21-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/FRmllc0R/stellaris-1.21-fabric-1.1.1.jar",
+        "sha512": "80661fdb677480e928db53e069673a20fce627c2bcf2264407615101d016603b4c31a142f849f4d05653862cec404c16ef4c6d33abd2b4c8b7b78ff6c6467750"
+      },
+      "1_0_5": {
+        "name": "stellaris-1.21-fabric-1.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xadjiiA4/stellaris-1.21-fabric-1.0.5.jar",
+        "sha512": "e14c574ad622a802075dc294303f26b49d8b5e0803e6e1b7111e952f2bb03bd12f1f5d74e5fbc2606c20c19c0a8b9f2f430771cb04a7c90f7a40bcecdef47915"
+      },
+      "1_0_4": {
+        "name": "stellaris-1.21-fabric-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/RGPOCGVL/stellaris-1.21-fabric-1.0.4.jar",
+        "sha512": "07050a92b2ad44349a35763c20d04c3afb6253f0c0de24eb4c2e5af2927acdbc5a5e73a18b9202fdd0e32e2ff25db3c26af6fad62d883011b67fb61e48557cc6"
+      },
+      "1_0_3": {
+        "name": "stellaris-1.21-fabric-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Nuq3k9F8/stellaris-1.21-fabric-1.0.3.jar",
+        "sha512": "d018248d78d3e52ba30eae623fb97e951ffed19cf90d7296ba945c854e2012e0c5533eef8d0deb7c8a819bd3517a63f26aae1b8c1f8aee7535b8f89eb846cd71"
+      },
+      "1_0_2": {
+        "name": "stellaris-1.21-fabric-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/IGN9jZVX/stellaris-1.21-fabric-1.0.2.jar",
+        "sha512": "f7f50fa0ac829564998105eac98ebd5948136e95e691ac9b8071a35156f16625e71be9c0e89ce1d22546d16a7bcce78a020acacfc6ae8d6d7443cd361e908c0c"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "stellaris-1.21-fabric-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fcg0BOwC/stellaris-1.21-fabric-1.4.20.jar",
+        "sha512": "5fbd498b985b99e717f4170771e441d1d81c59e467c5a42f927481becd23f31a8456c278f885d734640aa294f17a01082264cac7353751be2e9ee2a4ec612a85"
+      },
+      "1_4_20": {
+        "name": "stellaris-1.21-fabric-1.4.20.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fcg0BOwC/stellaris-1.21-fabric-1.4.20.jar",
+        "sha512": "5fbd498b985b99e717f4170771e441d1d81c59e467c5a42f927481becd23f31a8456c278f885d734640aa294f17a01082264cac7353751be2e9ee2a4ec612a85"
+      },
+      "1_4_19": {
+        "name": "stellaris-1.21-fabric-1.4.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/x6Kpl3Ia/stellaris-1.21-fabric-1.4.19.jar",
+        "sha512": "c61782b62dade9ff51ebf4af09f337cdb71be7e22cd7a1e3309c94ad2ef50fd6973ab4a3219efe8801b83a056d20c496e73e418bda6c30efd395fb2139aea7d3"
+      },
+      "1_4_18": {
+        "name": "stellaris-1.21-fabric-1.4.18.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/m0oNGBfB/stellaris-1.21-fabric-1.4.18.jar",
+        "sha512": "63bc60b29476b93eb481ac427cd94c802914d107b0d355d8ce8a8a83d004d89359ccde5d687c97823fdaca31e16702d9458c34969876d12a92a5e0cde0496ef3"
+      },
+      "1_4_17": {
+        "name": "stellaris-1.21-fabric-1.4.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/rwCV4LqQ/stellaris-1.21-fabric-1.4.17.jar",
+        "sha512": "4346d7543a71614081e60548bfc99becc644215b13009e20c69389ed0b70f8b9df5c3517c543b05411498216a36f9c43d469eaf34ac8aad5f73cfa695199835d"
+      },
+      "1_4_16": {
+        "name": "stellaris-1.21-fabric-1.4.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Jp5glyfH/stellaris-1.21-fabric-1.4.16.jar",
+        "sha512": "4e2df727b9b11ea2a067d857599f59508e71e003512c851926cf37975154e496d429e16c62ff7c2682f0684ee91ae6ce9b95142f269b66e5590346d1851f4a75"
+      },
+      "1_4_15": {
+        "name": "stellaris-1.21-fabric-1.4.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/E1vCmZ2d/stellaris-1.21-fabric-1.4.15.jar",
+        "sha512": "585e0c90b32c3c2361c422883d69cc2d83a1b5df010a043e5aded883a1b743454fadec4ea610e2359b41a124a2d449e9a12107e6e83ac39c38578cc9640e4464"
+      },
+      "1_4_14": {
+        "name": "stellaris-1.21-fabric-1.4.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/k9NxOp9r/stellaris-1.21-fabric-1.4.14.jar",
+        "sha512": "a828eaef1812b63d8e4ef19f56595396e264212934d6173e3d09ff6950e80c45bcd335dc496887b65aa87bc6416d136fa7c23b1372ed00effa924d84c43b517f"
+      },
+      "1_4_13": {
+        "name": "stellaris-1.21-fabric-1.4.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/GaPQYcfZ/stellaris-1.21-fabric-1.4.13.jar",
+        "sha512": "f862f44b240f22feb3febc3dcdd3c0490ca0d17d268027c9560965d3960a2e8df69b47f69b9e5b3f6bcfa5f2be5acdc133d07c07289afa2c48947eeca57de3da"
+      },
+      "1_4_12": {
+        "name": "stellaris-1.21-fabric-1.4.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/GRrlBRSq/stellaris-1.21-fabric-1.4.12.jar",
+        "sha512": "06b05a0a1c425d737ceeb65e79469081d21ceb6f429f5bcd8fe7ceae06b50fed8dae3a554c734eaa32aae23a9abda0d1402d3f4ac8f7a00c6bffdf1c9b1699b0"
+      },
+      "1_4_11": {
+        "name": "stellaris-1.21-fabric-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/dxpFctrv/stellaris-1.21-fabric-1.4.11.jar",
+        "sha512": "96570f204c96562f2e161a692dee755e525499153e36219c4a48bebe1327215621a4fa33d9aa08f0d760cc8ee6058ed122cf02c909572212e323aa90908515f1"
+      },
+      "1_4_10": {
+        "name": "stellaris-1.21-fabric-1.4.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9JD4gVkk/stellaris-1.21-fabric-1.4.10.jar",
+        "sha512": "e36ed8b5ce087c330d204b3f931f06dda6e45f58126f22bdbfa3c3f5ce3a78cde93cb78658313831c0b44949213bb42c4bbcc8a7354aab0b60846ab4b2ed5613"
+      },
+      "1_4_9": {
+        "name": "stellaris-1.21-fabric-1.4.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ax5FW3gh/stellaris-1.21-fabric-1.4.9.jar",
+        "sha512": "2b8fac80c71010b9f2ad0828e6d8c565c8070805c35910aa5a3f80b6d1a43c67be7d716e61dd9cc13194c64d2ed2209f724de33963800216c3af29a2e6f5b312"
+      },
+      "1_4_8": {
+        "name": "stellaris-1.21-fabric-1.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/t92YORFR/stellaris-1.21-fabric-1.4.8.jar",
+        "sha512": "debd9f37d6f57b645edb18f3c4609981a6e29f423ec928af628ae0c5078cf2c9f250f57f1085f406345170a0986140963703c32879f17f83ac2c1ce857b5f38d"
+      },
+      "1_4_7": {
+        "name": "stellaris-1.21-fabric-1.4.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/dZRBTLfP/stellaris-1.21-fabric-1.4.7.jar",
+        "sha512": "da2229d39b0d5f24ca23d974c6eefa738e2a86e16b920e39241022332c29cf05efbee602c99df14de0ecd1e76078443b1910812615972e4e6660df01eb108790"
+      },
+      "1_4_6": {
+        "name": "stellaris-1.21-fabric-1.4.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ToYruJXI/stellaris-1.21-fabric-1.4.6.jar",
+        "sha512": "c26eb1c876ff30e72a504f1176a46c16061cd0a6926b481352946507d27d0156132d4340b732c6a7a66ee37cfed8a089c11c9475aaa9c8708f84708a6bbe0bbe"
+      },
+      "1_4_5": {
+        "name": "stellaris-1.21-fabric-1.4.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/JiVAW5kf/stellaris-1.21-fabric-1.4.5.jar",
+        "sha512": "4b2937d266ca6787cf5ccf74a07cbed65c60a03461a0918193667bbdc3ce94e0b1daaf366bbc81d8d9481175620aa2520db5ba66713fdc81127bac9214d6307a"
+      },
+      "1_4_4": {
+        "name": "stellaris-1.21-fabric-1.4.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/WWEKZyGo/stellaris-1.21-fabric-1.4.4.jar",
+        "sha512": "7dfc3de72ad4c53a5f5a9e2528b5b62fd343dd09a12ab33badb486d6ec01f3bd1333d108d03e7f3159875d28976591ffacb556b906c066ab53c20c9ff5aa7192"
+      },
+      "1_4_3": {
+        "name": "stellaris-1.21-fabric-1.4.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/t5lDpwFL/stellaris-1.21-fabric-1.4.3.jar",
+        "sha512": "56b695ebea8f9a6ef09d7ad7a000a55882944539c3cacd1039f8c09838aafa23744163b4bcd4ab96499455ebbb42c126ad20f1d955a49bf3aedc34bb9296df31"
+      },
+      "1_4_2": {
+        "name": "stellaris-1.21-fabric-1.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/FCO2Pd2F/stellaris-1.21-fabric-1.4.2.jar",
+        "sha512": "3960442d65a68272c91f59626b7727c6f5e7c2d5ed359d085a30426b4f75841f5d8367e4abb9c9cc1222c878d874a14483f15cda935a21aa620d8a12f9720646"
+      },
+      "1_4_1": {
+        "name": "stellaris-1.21-fabric-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/v8rq581I/stellaris-1.21-fabric-1.4.1.jar",
+        "sha512": "6645fc313dfb47c0817d098a63751c3636d5e4e3452b7148b38d16a5d4d5386895ad9b36fc40b946773d30044012404956edeb38b6cb0604763a6bca706098d4"
+      },
+      "1_4_0": {
+        "name": "stellaris-1.21-fabric-1.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/iB91Q6mq/stellaris-1.21-fabric-1.4.0.jar",
+        "sha512": "babc371fe0c9db184b260e63e8ae4e288e0d8a566988ce9526abe64175ddb22103ea7405e669eea587b983093fdea443149de48e0e84e9695a3f42a7c0f314e3"
+      },
+      "1_3_19": {
+        "name": "stellaris-1.21-fabric-1.3.19.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/cLsfddgA/stellaris-1.21-fabric-1.3.19.jar",
+        "sha512": "42ab6206b08e6fe73070fc1bee025caada262db9dcee37b6468b29c44216917e959325e33584aee453dc2658d9571a8ba4350d48a6054deee31cc56eeffa604b"
+      },
+      "1_3_17": {
+        "name": "stellaris-1.21-fabric-1.3.17.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Ov0dx4Kc/stellaris-1.21-fabric-1.3.17.jar",
+        "sha512": "17cbb5681319a9a59ec3f03825a1cb4e5d881fd4dd6caba44129c1513509bf7e1d50a37dd24b7c768a88512d51bf8d89b59c655388d531cb8d8f4f12b32b3c28"
+      },
+      "1_3_16": {
+        "name": "stellaris-1.21-fabric-1.3.16.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/aaXiqWfo/stellaris-1.21-fabric-1.3.16.jar",
+        "sha512": "f19caf3020affe76c5f570d41fa78ed950fe30ff6e3c92ba4bdff7c6e5c49642106921e4e6fb706115b451ba41fc4f1eb94cfc5b7fc96562ccc63d856bbd2f97"
+      },
+      "1_3_15": {
+        "name": "stellaris-1.21-fabric-1.3.15.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/PuH4aP29/stellaris-1.21-fabric-1.3.15.jar",
+        "sha512": "697a23595c529ef91ca83a33766001686317ff274d534ca32cb30ba20893e9e2e06c50b4d97feb2a4b44bfcb280a78b321931d12e00313285759ae75343d8e1a"
+      },
+      "1_3_14": {
+        "name": "stellaris-1.21-fabric-1.3.14.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/mkx96iXk/stellaris-1.21-fabric-1.3.14.jar",
+        "sha512": "4d38fcd6a276821f2f910b5d43fec4d3b2d06938e352dd5f0c740a7573216f3743212fb97964c39f50b19cb5c2f8ad67f2f4318dc5a39cd1f47af0dc74536921"
+      },
+      "1_3_13": {
+        "name": "stellaris-1.21-fabric-1.3.13.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/6fNaXLXV/stellaris-1.21-fabric-1.3.13.jar",
+        "sha512": "c49ae27f3842954c7839d00d047deb56b92c5e4ac0ba99caa96c533b715563c6c1be76ecbe7300e94a06f0db7ae5ef45503c60a172f67de7b0578b3e19e40a60"
+      },
+      "1_3_12": {
+        "name": "stellaris-1.21-fabric-1.3.12.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/M4dlsZ51/stellaris-1.21-fabric-1.3.12.jar",
+        "sha512": "e538eb8c522677716ec444331ca44eab8f6d90155f5628827577d37a56f5d8f433074268a69c05856f5268f63961dd5b703b678d515a846166d3a6e39146f499"
+      },
+      "1_3_11": {
+        "name": "stellaris-1.21-fabric-1.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Dq23KNJn/stellaris-1.21-fabric-1.3.11.jar",
+        "sha512": "084ff37d3f82d12370e5d8b2db03ed9c19c02865574928e70f8185af2007b39cb52e7549f595b141aadf864df81baa0eeb3e7b22d24b2f90bb1ac54aae970993"
+      },
+      "1_3_10": {
+        "name": "stellaris-1.21-fabric-1.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/tnAjZM5V/stellaris-1.21-fabric-1.3.10.jar",
+        "sha512": "e6f20428ec71b623f1f05f7692aefca2bb015f1d711909edf56856ce06ad3f75a2889efcbb8d23efe410e0299eeccbd40faf3ead55c17ac9c95e1e864d9d7f28"
+      },
+      "1_3_9": {
+        "name": "stellaris-1.21-fabric-1.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/NBOma4nY/stellaris-1.21-fabric-1.3.9.jar",
+        "sha512": "b8ada0aeb47e6ad92e3ba9b82ebec4d6e22f95add17d3418ac9083fcd21e3259af8a2fb0026ef5a63d39056a0168d1e62be9b8662dc42209d38629ca17347b81"
+      },
+      "1_3_8": {
+        "name": "stellaris-1.21-fabric-1.3.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/reGjFUkO/stellaris-1.21-fabric-1.3.8.jar",
+        "sha512": "0d93e0436d45728fa06d8d874542bd276c21378a8bbdce040ff9806bc904d6502b42c9a33373cbbed9f32a05064230b0938ed5b2254393caeb664797857c1b39"
+      },
+      "1_3_7": {
+        "name": "stellaris-1.21-fabric-1.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/dJQAyPdN/stellaris-1.21-fabric-1.3.7.jar",
+        "sha512": "0e655f474ced7d65a0d1d27ed9928396a8f9ec3162e4770e73dc487a4ec26554e2409177416edf6579e2e5b9951a189708ad18d259e3a94c43c564d80420ccdb"
+      },
+      "1_3_6": {
+        "name": "stellaris-1.21-fabric-1.3.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/HBO0ea9r/stellaris-1.21-fabric-1.3.6.jar",
+        "sha512": "0b73dd70e48ab1bc51aeafe883b15071d3874662446ffebda95fec44a999df2e1c26a6992e7b27ad95a9a2aa73374d81719a9abf8c72ba7daafd57ab73297c46"
+      },
+      "1_3_5": {
+        "name": "stellaris-1.21-fabric-1.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/w84zTpVG/stellaris-1.21-fabric-1.3.5.jar",
+        "sha512": "efd0d38a3c3aba541046d020fcd70e65d09ad9152f10f984f98e08bd9873581adf889c0ceddb15a60d634286d48291ae635c67f5472c087fc23d5c8f14e78144"
+      },
+      "1_3_4": {
+        "name": "stellaris-1.21-fabric-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ym8SSgLG/stellaris-1.21-fabric-1.3.4.jar",
+        "sha512": "48a64a7bae7c667b10bdf3dc321aefb6af622914c31198185a2962af89d5b51c8e5b6bf9f8dae4988e43f605348ca98165cb4ad99e4bfab68d87505ff26d381c"
+      },
+      "1_3_3": {
+        "name": "stellaris-1.21-fabric-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/fdo01kGg/stellaris-1.21-fabric-1.3.3.jar",
+        "sha512": "77ea6502e4ea630610d5331436711726d6d44b31de2d9000b008d2dbebc17c08680de82e60bddd9841c296f3a85ae7f7a68c303d4f20b60759d0bc9680d1dbfe"
+      },
+      "1_3_2": {
+        "name": "stellaris-1.21-fabric-1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/qaYZWQI4/stellaris-1.21-fabric-1.3.2.jar",
+        "sha512": "0576c89f4571d103460e8af9872cd56c0d1762194c69e553ad35ad5a1739b57abeb03d21a5bef47b6198e5a333d14eb853782babd5ab3475bea05efc12b46d66"
+      },
+      "1_3_1": {
+        "name": "stellaris-1.21-fabric-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/4ngZqTyz/stellaris-1.21-fabric-1.3.1.jar",
+        "sha512": "4805183061a9301d8d6fd37c013915dc0d5e0916eb18c0e19c5c8d5a6e3d683ce007d53448a123f737f4311747301d283257e8c86a2ac7dae7984864118acc88"
+      },
+      "1_3_0": {
+        "name": "stellaris-1.21-fabric-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/9r748aA8/stellaris-1.21-fabric-1.3.0.jar",
+        "sha512": "e987ab378dc0efa9fbddf44f8f879fe2ea0e3d7ac0b80954fbeba43a381aaf42f2ebb56d6800f9ce74eb31d6ad9898f7ae4209437b256f801dae609c738292e5"
+      },
+      "1_2_7": {
+        "name": "stellaris-1.21-fabric-1.2.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/3qvEHJ4A/stellaris-1.21-fabric-1.2.7.jar",
+        "sha512": "f131b915b282dc21dd6c3ebce63c3d0f99f61bfe6a0a34e49abc78e2e1cd1d23a63676a8dda75ef638118275a2e7e6ad723c2e05bc5743d171ba49f2b82aab3a"
+      },
+      "1_2_6": {
+        "name": "stellaris-1.21-fabric-1.2.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/zP87fjuT/stellaris-1.21-fabric-1.2.6.jar",
+        "sha512": "681e2ef9a256142aff6ca554528fd0eb1a887039daf32788fbea296741d6ae5f46a4f4f52b4e1f048e5e93c43777620a770f41edee66727ee62700ed307059e8"
+      },
+      "1_2_5": {
+        "name": "stellaris-1.21-fabric-1.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/7SZZfbjh/stellaris-1.21-fabric-1.2.5.jar",
+        "sha512": "4f7d35fed97aaa787a5e123598e35c98949ba297ac46cf567b6ac0cd37a3ec81d05a06600a17c9fbcccb36a93362d5252d31bb8e00a9f79aefe168309245fcf4"
+      },
+      "1_2_4": {
+        "name": "stellaris-1.21-fabric-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Rr5222hX/stellaris-1.21-fabric-1.2.4.jar",
+        "sha512": "599e56c35b5aceaa7c2ea234cb47c858785b183cd5210a99bc44ba30fc326dd7b6447197f2a347eee49ba3cf4549628dbea0aae648775d838a2c032c2bffce50"
+      },
+      "1_2_3": {
+        "name": "stellaris-1.21-fabric-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/BZYPFZ0a/stellaris-1.21-fabric-1.2.3.jar",
+        "sha512": "babd657542e28a9796839909db4822d97c34ef442d76b28c055953b768407a90a027a096cf0775724bde943d376c50f312ffb91c2a916ad17e352329b507a94c"
+      },
+      "1_2_2": {
+        "name": "stellaris-1.21-fabric-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/5W3L6UWd/stellaris-1.21-fabric-1.2.2.jar",
+        "sha512": "50edab37a74b7a28b6e6b0a2a67f91e74ee7f5bb8aa06eb626b12860c54e71e6bf7051380656b4012a91df1a269c1c5aeb7d38ade7c09c9683842b04938bab3e"
+      },
+      "1_2_1": {
+        "name": "stellaris-1.21-fabric-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/KMvrlJZZ/stellaris-1.21-fabric-1.2.1.jar",
+        "sha512": "255c82992a03b68bd07e0f4ec67675086e98360013a5aa8f07ae282b0632aa9222a1cff40abe40eca1bcecf519346a102dd31f640f346da5b96d8beefaeb3f8e"
+      },
+      "1_2_0-beta5": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/vLsYdW0F/stellaris-1.21-fabric-1.2.0-beta5.jar",
+        "sha512": "d0ef2bc446521a2e6aa8e5157ff0b17dffbd7ca19e4b1d1acc6b1db8aa5d94dcac8e6a1582dabe7e83da7d1000d4b9632fd030b8cdfaaa9b88217177d6174996"
+      },
+      "1_2_0-beta4": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/CeeMpwas/stellaris-1.21-fabric-1.2.0-beta4.jar",
+        "sha512": "7872f40d6032dbdeb93ae50308d4dfd046f2a05007d702566f109a98abeda923763f3de0812449fee5e95d18833f95404bc61a3277c32fba5a158494bd9e5991"
+      },
+      "1_2_0-beta3": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/OlYcCcKD/stellaris-1.21-fabric-1.2.0-beta3.jar",
+        "sha512": "4fc6c8dff8fd9b68904c9f66e9bea8d2c6ca31d0dfd6577cbce8ad8bbfce78dcb75b5928f5c39d3e3d60e350ccf43f0a781b1d7ddc4adf324b785cb85e1e78a5"
+      },
+      "1_2_0-beta2": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/vHTJwQeB/stellaris-1.21-fabric-1.2.0-beta2.jar",
+        "sha512": "a65690c4111f3dff786011a79247f7b1a4f811d37d399cc5a67bab462a31644b954662affed76432a823d7f02e23c52f379e19a76bda976675c387065497af8b"
+      },
+      "1_2_0-beta1": {
+        "name": "stellaris-1.21-fabric-1.2.0-beta1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/WAlyeH5x/stellaris-1.21-fabric-1.2.0-beta1.jar",
+        "sha512": "5122ce6a80ed5dd0c8ea2706f9c309591b8c40dca26a127ba5c5644c6dc8830ce146bb56ec3761ba5e6ab1a9eff3c5aea2240fb172c81dfe2935b88a12165f79"
+      },
+      "1_2_0": {
+        "name": "stellaris-1.21-fabric-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/tjI1DvjE/stellaris-1.21-fabric-1.2.0.jar",
+        "sha512": "4e2e416db7d586e362499f2996f59fe3f5f3ed695cfcf4b3b5e4400be32ed101ae06ff21ff470e2cb9fa5364e691d4427b76388f0365247f7c6a67e6ad5491c2"
+      },
+      "1_1_7": {
+        "name": "stellaris-1.21-fabric-1.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/1HFL6omH/stellaris-1.21-fabric-1.1.7.jar",
+        "sha512": "b468920be99602e1bb1e92fb6e850ca0109eb2bfd97a0447bae5804a870f57d23c056273964cd7cdca4b1b90d377284ff625f4b887e885d54c6b33c62532e320"
+      },
+      "1_1_6": {
+        "name": "stellaris-1.21-fabric-1.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/VVfJa24A/stellaris-1.21-fabric-1.1.6.jar",
+        "sha512": "ce44539b2329d2eb3baa2d5dd85814e55257d33f613d2449433862542f7adecfd7a602220d39fe82f753517b9d460ced6b7d5e73ab115187f35f355e1040fc49"
+      },
+      "1_1_5": {
+        "name": "stellaris-1.21-fabric-1.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xdi96xMc/stellaris-1.21-fabric-1.1.5.jar",
+        "sha512": "e9be83c9b2fa19dc8dc0e82902b45ab4f02c065b5ffbac62071f16b050433309dfa4bc1303202d3e013e8f3b893c91c0567a91f8889b44568230436cc1cb5333"
+      },
+      "1_1_4": {
+        "name": "stellaris-1.21-fabric-1.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/r0ciMt9w/stellaris-1.21-fabric-1.1.4.jar",
+        "sha512": "ad44bd1f18577003065105a667d1e84e9cb66a7719e483508e9178ef3d8caab897d5b0cf935257eb0a22160d22766ac99a5e4ed5afd72c56791ba0cfe8d4f1b4"
+      },
+      "1_1_3": {
+        "name": "stellaris-1.21-fabric-1.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/M7COBmqu/stellaris-1.21-fabric-1.1.3.jar",
+        "sha512": "7ec1707eeb44fe4b4cd39f5f17875093a78661ec953e850951d3b2d1ed79baf1db0db23d89099fa0b3e46e714ebb08cb610bcb9adb9d81372625b6dbf851e27c"
+      },
+      "1_1_2": {
+        "name": "stellaris-1.21-fabric-1.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/2wLZEk0l/stellaris-1.21-fabric-1.1.2.jar",
+        "sha512": "26d542ea6207a38b53df5193d0127136f3074bb9ef6b4f0fe929437cdf2def5c93b3531198b4fd1449d43f78b5ca9c75af1a947e0daec76dc8114e4607371dbe"
+      },
+      "1_1_1": {
+        "name": "stellaris-1.21-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/FRmllc0R/stellaris-1.21-fabric-1.1.1.jar",
+        "sha512": "80661fdb677480e928db53e069673a20fce627c2bcf2264407615101d016603b4c31a142f849f4d05653862cec404c16ef4c6d33abd2b4c8b7b78ff6c6467750"
+      },
+      "1_1_0": {
+        "name": "stellaris-1.21-fabric-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/KNmAXsil/stellaris-1.21-fabric-1.1.0.jar",
+        "sha512": "fd8b21c55c4612a686a75460ff205ce3faa60fc19e210e5af60e750e795cfb122bc4cc88f24630fd26df2e77127c29e0a486cb367135bac68656b0466dd34006"
+      },
+      "1_0_10": {
+        "name": "stellaris-1.21-fabric-1.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/O7vNA7LM/stellaris-1.21-fabric-1.0.10.jar",
+        "sha512": "452eba26ceb71100f6e537cd103616ab2eeb308027a5f03398273b1a9ee79efffec3fbdf87584faaafa1a34064c63ce45f0593dd8727d2d339579e8d41331def"
+      },
+      "1_0_9": {
+        "name": "stellaris-1.21-fabric-1.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/iS8H5Zio/stellaris-1.21-fabric-1.0.9.jar",
+        "sha512": "9b70a965b29a8af17824bb209e0ef070c772614ea82fb845706bd8a45bffd757fe50038357e6b450adf0a86ff4372052302917ba487f232d90319032842b9380"
+      },
+      "1_0_8": {
+        "name": "stellaris-1.21-fabric-1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Ue4hLJFu/stellaris-1.21-fabric-1.0.8.jar",
+        "sha512": "90a2a00f40ab72dc63c72921c5222ba794c4c3838386efc74bd5c925999e26cc29ee43f40b59c42fba22fa8989ffe6dade2fe1ebd05757df799508fd97824141"
+      },
+      "1_0_7": {
+        "name": "stellaris-1.21-fabric-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/z7xLoVVl/stellaris-1.21-fabric-1.0.7.jar",
+        "sha512": "525552d59c34ac4f2ee7ea0df1d326660bfc8f249d00a75008038efceb3ddb6a07de4122fc9e99ce423b229e97255dd56913a51405f7b6b8a587a028c77680a4"
+      },
+      "1_0_6": {
+        "name": "stellaris-1.21-fabric-1.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/B34fTnny/stellaris-1.21-fabric-1.0.6.jar",
+        "sha512": "2bc391c345c460bd322c60fd521310c068df2c80030714d3d3a1b6649c57dd7e6b4b97958263a40056120c551780021cf24cb92e1f046a6f235035ae0c0ff773"
+      },
+      "1_0_5": {
+        "name": "stellaris-1.21-fabric-1.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/xadjiiA4/stellaris-1.21-fabric-1.0.5.jar",
+        "sha512": "e14c574ad622a802075dc294303f26b49d8b5e0803e6e1b7111e952f2bb03bd12f1f5d74e5fbc2606c20c19c0a8b9f2f430771cb04a7c90f7a40bcecdef47915"
+      },
+      "1_0_4": {
+        "name": "stellaris-1.21-fabric-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/RGPOCGVL/stellaris-1.21-fabric-1.0.4.jar",
+        "sha512": "07050a92b2ad44349a35763c20d04c3afb6253f0c0de24eb4c2e5af2927acdbc5a5e73a18b9202fdd0e32e2ff25db3c26af6fad62d883011b67fb61e48557cc6"
+      },
+      "1_0_3": {
+        "name": "stellaris-1.21-fabric-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Nuq3k9F8/stellaris-1.21-fabric-1.0.3.jar",
+        "sha512": "d018248d78d3e52ba30eae623fb97e951ffed19cf90d7296ba945c854e2012e0c5533eef8d0deb7c8a819bd3517a63f26aae1b8c1f8aee7535b8f89eb846cd71"
+      },
+      "1_0_2": {
+        "name": "stellaris-1.21-fabric-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/IGN9jZVX/stellaris-1.21-fabric-1.0.2.jar",
+        "sha512": "f7f50fa0ac829564998105eac98ebd5948136e95e691ac9b8071a35156f16625e71be9c0e89ce1d22546d16a7bcce78a020acacfc6ae8d6d7443cd361e908c0c"
+      },
+      "1_0_1": {
+        "name": "stellaris-1.21-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/8THv5TQV/stellaris-1.21-fabric-1.0.1.jar",
+        "sha512": "d4231b6bda297000d7158c6c380ab561cd3896bc9c86c5797ba59ccffa8cfe6cb9b99b412e0a7c92ef264c60f74cdd7099b052b34a27b4d8f344cf98fa30aef0"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "stellaris-1.20.6-fabric-1.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/7c4OdpI9/stellaris-1.20.6-fabric-1.0.10.jar",
+        "sha512": "1c9521f067ee3eaa00a6396dba781626583fd04b8caac0b0ae01bb7f38322eafd8df206e377d115f99e95c34a0df33a2ec5b5de1889774f9b3fbf6c6bbd4e975"
+      },
+      "1_0_10": {
+        "name": "stellaris-1.20.6-fabric-1.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/7c4OdpI9/stellaris-1.20.6-fabric-1.0.10.jar",
+        "sha512": "1c9521f067ee3eaa00a6396dba781626583fd04b8caac0b0ae01bb7f38322eafd8df206e377d115f99e95c34a0df33a2ec5b5de1889774f9b3fbf6c6bbd4e975"
+      },
+      "1_0_9": {
+        "name": "stellaris-1.20.6-fabric-1.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/JyBhqIqO/stellaris-1.20.6-fabric-1.0.9.jar",
+        "sha512": "a8d802d90eb5aaf0f5c534bd74dddc022532cc780c344fb93fbc9cbaa58a9cb73bc0d372627ba7099db73e5d0688ef14519f8b9616a0a8b9dd4d898ea24ce5c8"
+      },
+      "1_0_8": {
+        "name": "stellaris-1.20.6-fabric-1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/HgfDFd3i/stellaris-1.20.6-fabric-1.0.8.jar",
+        "sha512": "390b61fc9a9bf8cecfa83f8e99d2a495e5901aa9de570c0a5c3bb4a500967a3cf674faea924100b8d2e1acc79ce32e630ad976adf603d9f07c4e50016489db3c"
+      },
+      "1_0_7": {
+        "name": "stellaris-1.20.6-fabric-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/Y2ED4TU0/stellaris-1.20.6-fabric-1.0.7.jar",
+        "sha512": "f9998b11b1cae76ae4dc3663e4f6c9ac84cac3b33c17919fb7d4cdd22af57b5a13e437cd55a0e9a9097f46495522aac7744b0a7d037a6beaee249c997c5182dc"
+      },
+      "1_0_5": {
+        "name": "stellaris-1.20.6-fabric-1.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/txddZONb/stellaris-1.20.6-fabric-1.0.5.jar",
+        "sha512": "dd92e4ef748e20de214a29e8983baf6bf6e55efcd0eb3a63e1515ebe132f8723573dd5c87174441b721641524a2faf585a26343bfd2744681980cb47208c6785"
+      },
+      "1_0_4": {
+        "name": "stellaris-1.20.6-fabric-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/ylg726J9/stellaris-1.20.6-fabric-1.0.4.jar",
+        "sha512": "b684bd0bf87f003374611ccd85738d6011dde8f15658ff48151bdd085220585e29ed17166f9663f4dd3e8f3af4b46d3aafb4abb1bc37d80e77c4f5df70efe935"
+      },
+      "1_0_3": {
+        "name": "stellaris-1.20.6-fabric-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/HpT6xvog/stellaris-1.20.6-fabric-1.0.3.jar",
+        "sha512": "0e1507dcbb43c2bb828f9cf707fa01478ea1427646da3b06aa7aa39c2fa21bfdc2d0f8e1bc6015be7ea2ca892c7186ce080f5402ba9bdf945c215820d1d7a483"
+      },
+      "1_0_2": {
+        "name": "stellaris-1.20.6-fabric-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/kfwJjaKx/stellaris-1.20.6-fabric-1.0.2.jar",
+        "sha512": "9a979ab25b98ead911eb053ae7a8e6c2809c543127fe5996ca144f3e472c99917675ed45ee79b26d4a32ca34624bed87f3e96b3b5eb3292ec56804f8f959bb64"
+      },
+      "1_0_1": {
+        "name": "stellaris-1.20.6-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/IEhh3fQH/stellaris-1.20.6-fabric-1.0.1.jar",
+        "sha512": "6020ef1f5ed458bf08d39fd66ae0b217a3e249d8f0ccb5d356e7d928694a15e979365f6b4577dcd50dfc8969de78dd9153b1698126b3da05cf811a6d243ea7c0"
+      },
+      "1_0_0": {
+        "name": "stellaris-1.20.6-fabric-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/HaGcqsVq/stellaris-1.20.6-fabric-1.0.0.jar",
+        "sha512": "c1f805b4453757fadaba9f6fe8285fb5420c6d412f170328f7662141963129565d81e4d82833889c2d0e724a555eab6706ec89331d7c332a182fcf828447a1e2"
+      }
+    }
+  }
+}

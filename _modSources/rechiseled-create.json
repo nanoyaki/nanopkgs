@@ -1,0 +1,586 @@
+{
+  "quilt": {
+    "1_20_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/mxHMTC1M/rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "sha512": "601a75e0d42d1e099edfdcde11e563e161c8525cb93c425f8ab0c794662f778ac4b9bc4a58291ed86bdc75dcdbfe053313cb68d28fdd43ead14fae7c01fffabc"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/mxHMTC1M/rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "sha512": "601a75e0d42d1e099edfdcde11e563e161c8525cb93c425f8ab0c794662f778ac4b9bc4a58291ed86bdc75dcdbfe053313cb68d28fdd43ead14fae7c01fffabc"
+      },
+      "1_0_2mc1_20": {
+        "name": "rechiseledcreate-1.0.2-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/I2zO7N82/rechiseledcreate-1.0.2-fabric-mc1.20.jar",
+        "sha512": "0661f4beefc4b3b9419288c37e75b9fb969d495a02cbf2a516f5da4d0c1d620c9d506975257a3bb3771ddf23ef63db6ed7bd6b47cfac90f175641b0d43fb9c25"
+      },
+      "1_0_2amc1_20": {
+        "name": "rechiseledcreate-1.0.2a-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/R9B3ktWE/rechiseledcreate-1.0.2a-fabric-mc1.20.jar",
+        "sha512": "224ddba2aaa32904b7749d35e471bb6768b9e5630afe351f5ff3288bd2149f282b609da3d303443603c42b1a56fe59c42758fa394082d46e9c60fd440fa13ea4"
+      },
+      "1_0_2bmc": {
+        "name": "rechiseledcreate-1.0.2b-fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/AjcnnLEz/rechiseledcreate-1.0.2b-fabric-mc1.20.1.jar",
+        "sha512": "00e49af4fbc6390ff1565eee82f103006bac28ba339b9f1eae92a14f4c1729e7ed05cbe5786210923f2f939b4bba95e08cfab024dbc5214ea0df1dd683eb5134"
+      },
+      "1_0_1mc1_20": {
+        "name": "rechiseledcreate-1.0.1-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/FqaBV60D/rechiseledcreate-1.0.1-fabric-mc1.20.jar",
+        "sha512": "1a466e64af8fb2897e68150312fcbc94234c89a74bede49e934e124555d2e1da3298dad7ec330c35a0ffec35b45519cfcdb07bbd4fc68538df93cd7c2f69a519"
+      },
+      "1_0_0mc1_20": {
+        "name": "rechiseledcreate-1.0.0-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/V77R63CC/rechiseledcreate-1.0.0-fabric-mc1.20.jar",
+        "sha512": "b2f230f7cd8dc50b9dfe5a47a862c7e3c1dabef1f9a82e1c68d0a4baecedfaf496605ff0eed5bb343784c134e5b910e45e7fae22f93df718aee94df0aefa0609"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/rU2dsBRS/rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "sha512": "84778c1b7a5733294bcf08d5026a643c5cc1f79da6323251ecd09ebf01cf1261c818a5dc4934844a92873f54e42803ca20769959a3c28a34bc97cb29f7cad585"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/rU2dsBRS/rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "sha512": "84778c1b7a5733294bcf08d5026a643c5cc1f79da6323251ecd09ebf01cf1261c818a5dc4934844a92873f54e42803ca20769959a3c28a34bc97cb29f7cad585"
+      },
+      "1_0_2mc1_19": {
+        "name": "rechiseledcreate-1.0.2-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/olCqZrAk/rechiseledcreate-1.0.2-fabric-mc1.19.jar",
+        "sha512": "aabc32b9ac57b93def3acd1c9b1d279f9eefa52e28a08537f3654ad63088aad52842ecf1f7e93cf6b04c3ae0cac1b6f849c378a6369a6655242c192d11c31418"
+      },
+      "1_0_2amc1_19": {
+        "name": "rechiseledcreate-1.0.2a-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/hIQUpGne/rechiseledcreate-1.0.2a-fabric-mc1.19.jar",
+        "sha512": "2290affa260ed7ea3f2b36bba45fbf660ef694a3256085ce852ca0bfa2c19b5debe598ad90eddfb170fe75743e1c159d262018794aba7bf1bf55b750ee1bc8ac"
+      },
+      "1_0_1mc1_19": {
+        "name": "rechiseledcreate-1.0.1-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/RIy7dLkv/rechiseledcreate-1.0.1-fabric-mc1.19.jar",
+        "sha512": "5be29948c05604fd55a26c07952e419d923e14ac3f40fa7580df5a303b3377914d8d4d6719994e94b5715150d07531cafcfa84b0b35b5522d2e3ba2643def42f"
+      },
+      "1_0_0mc1_19": {
+        "name": "rechiseledcreate-1.0.0-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/ObEtXrZk/rechiseledcreate-1.0.0-fabric-mc1.19.jar",
+        "sha512": "5f79f3622d8a1abc80e973a8a98f31f3fb0fd7a29c824ea5ea60a7bc5ea65cb58098b6667f0f4a8a11027601682f75ed54961be96ba8f9b50a03cc1135581afa"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_1_0mc1_18": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_0_2mc1_18": {
+        "name": "rechiseledcreate-1.0.2-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/MHHzYPWL/rechiseledcreate-1.0.2-fabric-mc1.18.jar",
+        "sha512": "a16deb4de93b9d8c5a512cef8295f1b3155be20e1b815d0f72ce29eb0ad14332f2454775a03c1ade6d2c56c2adaa32ca434d723455e1872514bc8bf63412af26"
+      },
+      "1_0_2amc1_18": {
+        "name": "rechiseledcreate-1.0.2a-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/esHUHh8U/rechiseledcreate-1.0.2a-fabric-mc1.18.jar",
+        "sha512": "b4d2f9e9cdffea72cff9a93a5aab748f25e3bdcd18dd9b4efcb2945a8671c6276a0a4b87ab75a6bcc762d8cae01f7056307b928afa188915b9d940393d3c2eee"
+      },
+      "1_0_1mc1_18": {
+        "name": "rechiseledcreate-1.0.1-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8L8nGX6c/rechiseledcreate-1.0.1-fabric-mc1.18.jar",
+        "sha512": "70b1228c970eb042105cd6c1ab30237b325d02a8c4b4f56fe777fb353dedcc884f6f85233a1f21ddb022d5c92bc3085caaba4038f1f77f1dd457df9287c3c5bc"
+      },
+      "1_0_1amc1_18": {
+        "name": "rechiseledcreate-1.0.1a-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/ZRNgGu1R/rechiseledcreate-1.0.1a-fabric-mc1.18.jar",
+        "sha512": "a77de95014504b04137e966778f504b3b3749ed5977a9c26403dff2557838e1076010b34d7089c5424efb5a2a608e644d4ebd579c197d80388b7ab7b1f07f851"
+      },
+      "1_0_0mc1_18": {
+        "name": "rechiseledcreate-1.0.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/29ypMFFz/rechiseledcreate-1.0.0-fabric-mc1.18.jar",
+        "sha512": "4993a02d8099bdb499f737ffb8a26f86dd493e960cbf06ea10d5d84566317911d10e91a522a83ff5b172f4bd2afd854b046f6efbbdca754b1ff58c32cbd74059"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_1_0mc1_18": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/TzPaH8MY/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+        "sha512": "f5ef2ed26e82adcdf403430f9d0ea57cbff616a7d964b9891eb0a06107f180e740c47284a44a4c8733fddc6d8f58637e71edee68ff853d938df0dbf2b7084fe0"
+      },
+      "1_1_0mc1_21": {
+        "name": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/TzPaH8MY/rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+        "sha512": "f5ef2ed26e82adcdf403430f9d0ea57cbff616a7d964b9891eb0a06107f180e740c47284a44a4c8733fddc6d8f58637e71edee68ff853d938df0dbf2b7084fe0"
+      },
+      "1_0_2mc1_21": {
+        "name": "rechiseledcreate-1.0.2-neoforge-mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/TaIWg8nP/rechiseledcreate-1.0.2-neoforge-mc1.21.jar",
+        "sha512": "be16db7a79b119d55a7a2734a384e5acb0820923b35207b36ec7b38026d1b667a2a3477a51d596693d899cd294991ae2e63db6f4ac30ec95f9facf943ffb0e8b"
+      },
+      "1_0_2amc1_21": {
+        "name": "rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nVRC1t23/rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
+        "sha512": "5fcb978c04e3bff7b5a60e2589f0fd206169c6b26828a3c310aeb93d52ec93f594986006ac2d507d049a3b9ac8d1089a255034c7c7948cd3945b135581ee6cce"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_1_0-forge-mc1_20": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_0_2-forge-mc1_20": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NXwBBB2n/rechiseledcreate-1.0.2-forge-mc1.20.jar",
+        "sha512": "a4167d24e978484c8aa521cc63dcf8e2dc8df0f110564488782650611f94426cef4086f6e411849094dd16db9eb53c85aa369745cac00ff55ba3654fae1fe7ca"
+      },
+      "1_0_2a-forge-mc1_20": {
+        "name": "rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/1U52T0sB/rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "sha512": "1a21d7e6f80274ad086f8b45d5f6a9339613a4802936ef9ce4acaf5cccba57c4e4818de9b42f23c8eb421f45bb5015941b95f59ee4f37971fe28c8ffed7054c7"
+      },
+      "1_0_2b-forge-mc1_20": {
+        "name": "rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/EZfZoGHe/rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "sha512": "e5055fb4dbe0198f2158e3e28c982efa16a850a7c502be2266c4dd50b87b5666ed3271849d6b8e222d803ff9bda22a1a92edda8ac95d74dbf2d063b2683dd124"
+      },
+      "1_0_1-forge-mc1_20": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/IGOisYEo/rechiseledcreate-1.0.1-forge-mc1.20.jar",
+        "sha512": "b08196ad1fe210772eb6b5d8eef3f708ec002bdff9354b45b340b8eaf3d190495b8c04d7870dcab164fd36155ab315af2e1d3893c7994dc0fe1201588a6ddb60"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_1_0-forge-mc": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_0_2a-forge-mc": {
+        "name": "rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/1U52T0sB/rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "sha512": "1a21d7e6f80274ad086f8b45d5f6a9339613a4802936ef9ce4acaf5cccba57c4e4818de9b42f23c8eb421f45bb5015941b95f59ee4f37971fe28c8ffed7054c7"
+      },
+      "1_0_2b-forge-mc": {
+        "name": "rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/EZfZoGHe/rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "sha512": "e5055fb4dbe0198f2158e3e28c982efa16a850a7c502be2266c4dd50b87b5666ed3271849d6b8e222d803ff9bda22a1a92edda8ac95d74dbf2d063b2683dd124"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/LZKMAa6P/rechiseledcreate-1.0.2-forge-mc1.19.jar",
+        "sha512": "cc66ce0c9f34c5e7162a0d1cd1c6ec5e1f236fceb3cb8de05243ad69eacbd9ce12019bffca3622f074211a579081deb378cdcfec2c3ced84fc5db17a5125258a"
+      },
+      "1_0_2-forge-mc1_19": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/LZKMAa6P/rechiseledcreate-1.0.2-forge-mc1.19.jar",
+        "sha512": "cc66ce0c9f34c5e7162a0d1cd1c6ec5e1f236fceb3cb8de05243ad69eacbd9ce12019bffca3622f074211a579081deb378cdcfec2c3ced84fc5db17a5125258a"
+      },
+      "1_0_1-forge-mc1_19": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/ML50hG0W/rechiseledcreate-1.0.1-forge-mc1.19.jar",
+        "sha512": "6392e26615595ef482b5a882e18e919e7c6e2b3c4974fd308fc7581903425be4df80e4329189d5ff76be9f1f8fb7f0b6577d85ccbecfc9b22fc507e4e9a0199d"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_2-forge-mc1_18": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_1-forge-mc1_18": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8cFZYr1L/rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "sha512": "37b00f33c1896dc5fbf69a63d33913b1cc994e156df4bd022b3b22793336385cace0dc46a3bab7867dc8ede1ddbe4ec2e6409868860e8fba97e7a4a7d9c2e3ee"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_2-forge-mc1_18": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_1-forge-mc1_18": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8cFZYr1L/rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "sha512": "37b00f33c1896dc5fbf69a63d33913b1cc994e156df4bd022b3b22793336385cace0dc46a3bab7867dc8ede1ddbe4ec2e6409868860e8fba97e7a4a7d9c2e3ee"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_2-forge-mc": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_1-forge-mc": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8cFZYr1L/rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "sha512": "37b00f33c1896dc5fbf69a63d33913b1cc994e156df4bd022b3b22793336385cace0dc46a3bab7867dc8ede1ddbe4ec2e6409868860e8fba97e7a4a7d9c2e3ee"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_1_0mc1_20": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_0_2mc1_20": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NXwBBB2n/rechiseledcreate-1.0.2-forge-mc1.20.jar",
+        "sha512": "a4167d24e978484c8aa521cc63dcf8e2dc8df0f110564488782650611f94426cef4086f6e411849094dd16db9eb53c85aa369745cac00ff55ba3654fae1fe7ca"
+      },
+      "1_0_2amc1_20": {
+        "name": "rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/1U52T0sB/rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "sha512": "1a21d7e6f80274ad086f8b45d5f6a9339613a4802936ef9ce4acaf5cccba57c4e4818de9b42f23c8eb421f45bb5015941b95f59ee4f37971fe28c8ffed7054c7"
+      },
+      "1_0_2bmc1_20": {
+        "name": "rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/EZfZoGHe/rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "sha512": "e5055fb4dbe0198f2158e3e28c982efa16a850a7c502be2266c4dd50b87b5666ed3271849d6b8e222d803ff9bda22a1a92edda8ac95d74dbf2d063b2683dd124"
+      },
+      "1_0_1mc1_20": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/IGOisYEo/rechiseledcreate-1.0.1-forge-mc1.20.jar",
+        "sha512": "b08196ad1fe210772eb6b5d8eef3f708ec002bdff9354b45b340b8eaf3d190495b8c04d7870dcab164fd36155ab315af2e1d3893c7994dc0fe1201588a6ddb60"
+      },
+      "1_0_0mc1_20": {
+        "name": "rechiseledcreate-1.0.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/xwoaJCZo/rechiseledcreate-1.0.0-forge-mc1.20.jar",
+        "sha512": "fa18aafd0d4b4d2911f5d4db918ef463dc4f3bf694deffb1aac4a8fda72a36b848f2679f1ea5780bb5e93a730efd1e1c56a2891db4b2df32bb6d92ceed9cc3be"
+      },
+      "1_0_0amc1_20": {
+        "name": "rechiseledcreate-1.0.0a-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/ZWTqq1kk/rechiseledcreate-1.0.0a-forge-mc1.20.jar",
+        "sha512": "974ea7f951108b9893da8d4a5dd7851bd410382c8ad8d72770ef75d7fe5bcc79f4900f79a6cf85b847078019a9b1e0d0e80c5c15ec1a17d3f8b68c4c817f8775"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/NDqMo6yS/rechiseledcreate-1.1.0-forge-mc1.20.jar",
+        "sha512": "d11eb1cd4ff23d9cd1c247011eb56839ea9843f18ea5595c7d05afbc0d6cf8d158951ae859a298d141b234c822d3346c92a6405de09c66db40fb35b271ed0541"
+      },
+      "1_0_2amc": {
+        "name": "rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/1U52T0sB/rechiseledcreate-1.0.2a-forge-mc1.20.jar",
+        "sha512": "1a21d7e6f80274ad086f8b45d5f6a9339613a4802936ef9ce4acaf5cccba57c4e4818de9b42f23c8eb421f45bb5015941b95f59ee4f37971fe28c8ffed7054c7"
+      },
+      "1_0_2bmc": {
+        "name": "rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/EZfZoGHe/rechiseledcreate-1.0.2b-forge-mc1.20.jar",
+        "sha512": "e5055fb4dbe0198f2158e3e28c982efa16a850a7c502be2266c4dd50b87b5666ed3271849d6b8e222d803ff9bda22a1a92edda8ac95d74dbf2d063b2683dd124"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/yH5qfH1V/rechiseledcreate-1.1.0-forge-mc1.19.jar",
+        "sha512": "4ff93ad0dd3d94555fce36395687a956ecab33aff925d310b08e20511e98c811f7241f1b7760df50d526335310ad2ad06a19fb6a1c13a9288ea56a8795ff9f08"
+      },
+      "1_1_0mc1_19": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/yH5qfH1V/rechiseledcreate-1.1.0-forge-mc1.19.jar",
+        "sha512": "4ff93ad0dd3d94555fce36395687a956ecab33aff925d310b08e20511e98c811f7241f1b7760df50d526335310ad2ad06a19fb6a1c13a9288ea56a8795ff9f08"
+      },
+      "1_0_2mc1_19": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/LZKMAa6P/rechiseledcreate-1.0.2-forge-mc1.19.jar",
+        "sha512": "cc66ce0c9f34c5e7162a0d1cd1c6ec5e1f236fceb3cb8de05243ad69eacbd9ce12019bffca3622f074211a579081deb378cdcfec2c3ced84fc5db17a5125258a"
+      },
+      "1_0_1mc1_19": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/ML50hG0W/rechiseledcreate-1.0.1-forge-mc1.19.jar",
+        "sha512": "6392e26615595ef482b5a882e18e919e7c6e2b3c4974fd308fc7581903425be4df80e4329189d5ff76be9f1f8fb7f0b6577d85ccbecfc9b22fc507e4e9a0199d"
+      },
+      "1_0_0mc1_19": {
+        "name": "rechiseledcreate-1.0.0-forge-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Y2RSSmOb/rechiseledcreate-1.0.0-forge-mc1.19.jar",
+        "sha512": "c863cada8a62c985f83c73c08b21a77e268a1189967dd87c09634e998a8db3139f4e59685a8550d427c6ffa052b196ff06758bdca46a94f74d7057cd09e1a7cd"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Z8LLJLOi/rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "sha512": "e68a7dd083f651753952c72a4d6ebf3355071f823bf616e8eefa6903327cf1c2fbde25c98f8d1b777d2530303a50f0734a39bbb73564314ae8b671d48a2bf2c3"
+      },
+      "1_1_0mc1_18": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Z8LLJLOi/rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "sha512": "e68a7dd083f651753952c72a4d6ebf3355071f823bf616e8eefa6903327cf1c2fbde25c98f8d1b777d2530303a50f0734a39bbb73564314ae8b671d48a2bf2c3"
+      },
+      "1_0_2mc1_18": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_1mc1_18": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8cFZYr1L/rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "sha512": "37b00f33c1896dc5fbf69a63d33913b1cc994e156df4bd022b3b22793336385cace0dc46a3bab7867dc8ede1ddbe4ec2e6409868860e8fba97e7a4a7d9c2e3ee"
+      },
+      "1_0_0mc1_18": {
+        "name": "rechiseledcreate-1.0.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/9rjfhIDL/rechiseledcreate-1.0.0-forge-mc1.18.jar",
+        "sha512": "d7a6770f11ea19d93b0f0610aec5cf152955d9ba40838ced0f1bb3ef3fde347902b9d261745d39192a3eb38fc99c13f2fec0c379c674d945a540ecbc4c8ec04c"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Z8LLJLOi/rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "sha512": "e68a7dd083f651753952c72a4d6ebf3355071f823bf616e8eefa6903327cf1c2fbde25c98f8d1b777d2530303a50f0734a39bbb73564314ae8b671d48a2bf2c3"
+      },
+      "1_1_0mc1_18": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Z8LLJLOi/rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "sha512": "e68a7dd083f651753952c72a4d6ebf3355071f823bf616e8eefa6903327cf1c2fbde25c98f8d1b777d2530303a50f0734a39bbb73564314ae8b671d48a2bf2c3"
+      },
+      "1_0_2mc1_18": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_1mc1_18": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8cFZYr1L/rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "sha512": "37b00f33c1896dc5fbf69a63d33913b1cc994e156df4bd022b3b22793336385cace0dc46a3bab7867dc8ede1ddbe4ec2e6409868860e8fba97e7a4a7d9c2e3ee"
+      },
+      "1_0_0mc1_18": {
+        "name": "rechiseledcreate-1.0.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/9rjfhIDL/rechiseledcreate-1.0.0-forge-mc1.18.jar",
+        "sha512": "d7a6770f11ea19d93b0f0610aec5cf152955d9ba40838ced0f1bb3ef3fde347902b9d261745d39192a3eb38fc99c13f2fec0c379c674d945a540ecbc4c8ec04c"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Z8LLJLOi/rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "sha512": "e68a7dd083f651753952c72a4d6ebf3355071f823bf616e8eefa6903327cf1c2fbde25c98f8d1b777d2530303a50f0734a39bbb73564314ae8b671d48a2bf2c3"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Z8LLJLOi/rechiseledcreate-1.1.0-forge-mc1.18.jar",
+        "sha512": "e68a7dd083f651753952c72a4d6ebf3355071f823bf616e8eefa6903327cf1c2fbde25c98f8d1b777d2530303a50f0734a39bbb73564314ae8b671d48a2bf2c3"
+      },
+      "1_0_2mc": {
+        "name": "rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/nMerdgx4/rechiseledcreate-1.0.2-forge-mc1.18.jar",
+        "sha512": "ff7922975689a9af711bd882ed6784fbecd504cd46f0bb8247e28c6eb6b34c4a623574923d32575ad019ad8f2011767b11ae57639ee84cd46e2ea412f6fdd161"
+      },
+      "1_0_1mc": {
+        "name": "rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8cFZYr1L/rechiseledcreate-1.0.1-forge-mc1.18.jar",
+        "sha512": "37b00f33c1896dc5fbf69a63d33913b1cc994e156df4bd022b3b22793336385cace0dc46a3bab7867dc8ede1ddbe4ec2e6409868860e8fba97e7a4a7d9c2e3ee"
+      },
+      "1_0_0mc": {
+        "name": "rechiseledcreate-1.0.0-forge-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/9rjfhIDL/rechiseledcreate-1.0.0-forge-mc1.18.jar",
+        "sha512": "d7a6770f11ea19d93b0f0610aec5cf152955d9ba40838ced0f1bb3ef3fde347902b9d261745d39192a3eb38fc99c13f2fec0c379c674d945a540ecbc4c8ec04c"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/mxHMTC1M/rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "sha512": "601a75e0d42d1e099edfdcde11e563e161c8525cb93c425f8ab0c794662f778ac4b9bc4a58291ed86bdc75dcdbfe053313cb68d28fdd43ead14fae7c01fffabc"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/mxHMTC1M/rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+        "sha512": "601a75e0d42d1e099edfdcde11e563e161c8525cb93c425f8ab0c794662f778ac4b9bc4a58291ed86bdc75dcdbfe053313cb68d28fdd43ead14fae7c01fffabc"
+      },
+      "1_0_2mc1_20": {
+        "name": "rechiseledcreate-1.0.2-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/I2zO7N82/rechiseledcreate-1.0.2-fabric-mc1.20.jar",
+        "sha512": "0661f4beefc4b3b9419288c37e75b9fb969d495a02cbf2a516f5da4d0c1d620c9d506975257a3bb3771ddf23ef63db6ed7bd6b47cfac90f175641b0d43fb9c25"
+      },
+      "1_0_2amc1_20": {
+        "name": "rechiseledcreate-1.0.2a-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/R9B3ktWE/rechiseledcreate-1.0.2a-fabric-mc1.20.jar",
+        "sha512": "224ddba2aaa32904b7749d35e471bb6768b9e5630afe351f5ff3288bd2149f282b609da3d303443603c42b1a56fe59c42758fa394082d46e9c60fd440fa13ea4"
+      },
+      "1_0_2bmc": {
+        "name": "rechiseledcreate-1.0.2b-fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/AjcnnLEz/rechiseledcreate-1.0.2b-fabric-mc1.20.1.jar",
+        "sha512": "00e49af4fbc6390ff1565eee82f103006bac28ba339b9f1eae92a14f4c1729e7ed05cbe5786210923f2f939b4bba95e08cfab024dbc5214ea0df1dd683eb5134"
+      },
+      "1_0_1mc1_20": {
+        "name": "rechiseledcreate-1.0.1-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/FqaBV60D/rechiseledcreate-1.0.1-fabric-mc1.20.jar",
+        "sha512": "1a466e64af8fb2897e68150312fcbc94234c89a74bede49e934e124555d2e1da3298dad7ec330c35a0ffec35b45519cfcdb07bbd4fc68538df93cd7c2f69a519"
+      },
+      "1_0_0mc1_20": {
+        "name": "rechiseledcreate-1.0.0-fabric-mc1.20.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/V77R63CC/rechiseledcreate-1.0.0-fabric-mc1.20.jar",
+        "sha512": "b2f230f7cd8dc50b9dfe5a47a862c7e3c1dabef1f9a82e1c68d0a4baecedfaf496605ff0eed5bb343784c134e5b910e45e7fae22f93df718aee94df0aefa0609"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/rU2dsBRS/rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "sha512": "84778c1b7a5733294bcf08d5026a643c5cc1f79da6323251ecd09ebf01cf1261c818a5dc4934844a92873f54e42803ca20769959a3c28a34bc97cb29f7cad585"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/rU2dsBRS/rechiseledcreate-1.1.0-fabric-mc1.19.2.jar",
+        "sha512": "84778c1b7a5733294bcf08d5026a643c5cc1f79da6323251ecd09ebf01cf1261c818a5dc4934844a92873f54e42803ca20769959a3c28a34bc97cb29f7cad585"
+      },
+      "1_0_2mc1_19": {
+        "name": "rechiseledcreate-1.0.2-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/olCqZrAk/rechiseledcreate-1.0.2-fabric-mc1.19.jar",
+        "sha512": "aabc32b9ac57b93def3acd1c9b1d279f9eefa52e28a08537f3654ad63088aad52842ecf1f7e93cf6b04c3ae0cac1b6f849c378a6369a6655242c192d11c31418"
+      },
+      "1_0_2amc1_19": {
+        "name": "rechiseledcreate-1.0.2a-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/hIQUpGne/rechiseledcreate-1.0.2a-fabric-mc1.19.jar",
+        "sha512": "2290affa260ed7ea3f2b36bba45fbf660ef694a3256085ce852ca0bfa2c19b5debe598ad90eddfb170fe75743e1c159d262018794aba7bf1bf55b750ee1bc8ac"
+      },
+      "1_0_1mc1_19": {
+        "name": "rechiseledcreate-1.0.1-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/RIy7dLkv/rechiseledcreate-1.0.1-fabric-mc1.19.jar",
+        "sha512": "5be29948c05604fd55a26c07952e419d923e14ac3f40fa7580df5a303b3377914d8d4d6719994e94b5715150d07531cafcfa84b0b35b5522d2e3ba2643def42f"
+      },
+      "1_0_0mc1_19": {
+        "name": "rechiseledcreate-1.0.0-fabric-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/ObEtXrZk/rechiseledcreate-1.0.0-fabric-mc1.19.jar",
+        "sha512": "5f79f3622d8a1abc80e973a8a98f31f3fb0fd7a29c824ea5ea60a7bc5ea65cb58098b6667f0f4a8a11027601682f75ed54961be96ba8f9b50a03cc1135581afa"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_1_0mc1_18": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_0_2mc1_18": {
+        "name": "rechiseledcreate-1.0.2-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/MHHzYPWL/rechiseledcreate-1.0.2-fabric-mc1.18.jar",
+        "sha512": "a16deb4de93b9d8c5a512cef8295f1b3155be20e1b815d0f72ce29eb0ad14332f2454775a03c1ade6d2c56c2adaa32ca434d723455e1872514bc8bf63412af26"
+      },
+      "1_0_2amc1_18": {
+        "name": "rechiseledcreate-1.0.2a-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/esHUHh8U/rechiseledcreate-1.0.2a-fabric-mc1.18.jar",
+        "sha512": "b4d2f9e9cdffea72cff9a93a5aab748f25e3bdcd18dd9b4efcb2945a8671c6276a0a4b87ab75a6bcc762d8cae01f7056307b928afa188915b9d940393d3c2eee"
+      },
+      "1_0_1mc1_18": {
+        "name": "rechiseledcreate-1.0.1-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/8L8nGX6c/rechiseledcreate-1.0.1-fabric-mc1.18.jar",
+        "sha512": "70b1228c970eb042105cd6c1ab30237b325d02a8c4b4f56fe777fb353dedcc884f6f85233a1f21ddb022d5c92bc3085caaba4038f1f77f1dd457df9287c3c5bc"
+      },
+      "1_0_1amc1_18": {
+        "name": "rechiseledcreate-1.0.1a-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/ZRNgGu1R/rechiseledcreate-1.0.1a-fabric-mc1.18.jar",
+        "sha512": "a77de95014504b04137e966778f504b3b3749ed5977a9c26403dff2557838e1076010b34d7089c5424efb5a2a608e644d4ebd579c197d80388b7ab7b1f07f851"
+      },
+      "1_0_0mc1_18": {
+        "name": "rechiseledcreate-1.0.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/29ypMFFz/rechiseledcreate-1.0.0-fabric-mc1.18.jar",
+        "sha512": "4993a02d8099bdb499f737ffb8a26f86dd493e960cbf06ea10d5d84566317911d10e91a522a83ff5b172f4bd2afd854b046f6efbbdca754b1ff58c32cbd74059"
+      }
+    },
+    "1_18_1": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_1_0mc1_18": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      },
+      "1_1_0mc": {
+        "name": "rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "url": "https://cdn.modrinth.com/data/E6867niZ/versions/Sa2a9CRf/rechiseledcreate-1.1.0-fabric-mc1.18.jar",
+        "sha512": "e5cd7b7544ab448911838ed917129074d797ae4abe95ad37dddbfb803e52bde4a7fee9d19679f020ea12cc07b085d384e39883a0ad28813d21466eb96a925036"
+      }
+    }
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "quilt": {
+    "1_20_1": {
+      "latest": {
+        "name": "create_dd-0.1b.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/rWSSoT7D/create_dd-0.1b.jar",
+        "sha512": "6046f82a6bf25c0b54d9e80ed12e403ea39540c002eca5cf084848ba13f5a452f5ed4c3858eab9062710ab4ddc1663d591808869ab81966e337707ce57971840"
+      },
+      "Fabric-0_1b": {
+        "name": "create_dd-0.1b.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/rWSSoT7D/create_dd-0.1b.jar",
+        "sha512": "6046f82a6bf25c0b54d9e80ed12e403ea39540c002eca5cf084848ba13f5a452f5ed4c3858eab9062710ab4ddc1663d591808869ab81966e337707ce57971840"
+      },
+      "0_1c-Fabric": {
+        "name": "create_dd-0.1c.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/ecuNWZrN/create_dd-0.1c.jar",
+        "sha512": "d7250aadf85ee3b5c636c02facd0091bf7c33a3ea9ff4b85af9ec8e774795673defa8694a4bd4fc5a71fd67d1ef4c3a28ad839ec9a4f3087078609cd0fee442b"
+      },
+      "0_1d": {
+        "name": "create_dd-0.1d.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar",
+        "sha512": "51cb4ca9118ca81e42754866c83b1919e303329c004d3e7e4052bf36cf765ae056411d7bbf8b42db17356b35085916cffc5a53cb03efb7791969d03ba19bfa8d"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "DnDesires-1.21.1-2.2a-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/UPMsqE3U/DnDesires-1.21.1-2.2a-BETA.jar",
+        "sha512": "970b2c89893e5867d4d8ea9d9b47f4c78499752f7a3ef9c678a151772154811c0e1bcd0eec9c5daf400f498d62598e797df4533b42858a21bb30debdb93db959"
+      },
+      "2_2a-BETA": {
+        "name": "DnDesires-1.21.1-2.2a-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/UPMsqE3U/DnDesires-1.21.1-2.2a-BETA.jar",
+        "sha512": "970b2c89893e5867d4d8ea9d9b47f4c78499752f7a3ef9c678a151772154811c0e1bcd0eec9c5daf400f498d62598e797df4533b42858a21bb30debdb93db959"
+      },
+      "2_2b-BETA": {
+        "name": "DnDesires-1.21.1-2.2b-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/njIQ2raO/DnDesires-1.21.1-2.2b-BETA.jar",
+        "sha512": "b38096b32ab94851cd5f9d6a3a9330ce6efacd286428148bdb69a9c761ae0316e4d71c7417773a725aa00b301f1067e844251f1eb9f5c77777821b50491bb0c3"
+      },
+      "2_2c-BETA": {
+        "name": "DnDesires-1.21.1-2.2c-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/IQmSy8nn/DnDesires-1.21.1-2.2c-BETA.jar",
+        "sha512": "383f809165e20d672807688174cac474dfc02b0da171cd15285f431f62a82d2a3224f94549a18840c6e2de9f7bf9e78627d3c757bc76fbf7fa69fd5751762878"
+      },
+      "2_2d-BETA": {
+        "name": "DnDesires-1.21.1-2.2d-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/P4yXqsnw/DnDesires-1.21.1-2.2d-BETA.jar",
+        "sha512": "d0ebfe8905b6d9fca4cb70b3e52c57ef8d363bd3f71dfd36967456a70b73b4d2b970be18140ce1f345eddb209bb94ac9da1ed1c6b14dd8347c4c465952ed375f"
+      },
+      "2_1a-BETA": {
+        "name": "DnDesires-1.21.1-2.1a-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/OW55xHru/DnDesires-1.21.1-2.1a-BETA.jar",
+        "sha512": "5d1d445c29167cdab70eb44054503f0ccf4891b44cce997bf63131261273b0dd09e07b1cc553828dc30295815cc5bdb2ec254902dad0207f11a567d465ed9111"
+      },
+      "2_1b-BETA": {
+        "name": "DnDesires-1.21.1-2.1b-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/G8OR8q1G/DnDesires-1.21.1-2.1b-BETA.jar",
+        "sha512": "f3f8620a98965174f51e1b0b4b238b1f20674acc01f02072203a891388a7bf5b7db1e27843679790b670c02073433ee14a92fc45f71c387a58b3c605ab2fdcff"
+      },
+      "2_0_0": {
+        "name": "Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/zUkXiIr8/Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
+        "sha512": "30cf875031d2572930707309d1b6854ad76055b86f09c7b7b58393deec9d47b456d07c6adf5c4d6fe80824b6b6a2810f3fcbddce5beb05248804792f7080fac7"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "DnDesires-1.21.1-2.2a-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/UPMsqE3U/DnDesires-1.21.1-2.2a-BETA.jar",
+        "sha512": "970b2c89893e5867d4d8ea9d9b47f4c78499752f7a3ef9c678a151772154811c0e1bcd0eec9c5daf400f498d62598e797df4533b42858a21bb30debdb93db959"
+      },
+      "2_2a-BETA": {
+        "name": "DnDesires-1.21.1-2.2a-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/UPMsqE3U/DnDesires-1.21.1-2.2a-BETA.jar",
+        "sha512": "970b2c89893e5867d4d8ea9d9b47f4c78499752f7a3ef9c678a151772154811c0e1bcd0eec9c5daf400f498d62598e797df4533b42858a21bb30debdb93db959"
+      },
+      "2_2b-BETA": {
+        "name": "DnDesires-1.21.1-2.2b-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/njIQ2raO/DnDesires-1.21.1-2.2b-BETA.jar",
+        "sha512": "b38096b32ab94851cd5f9d6a3a9330ce6efacd286428148bdb69a9c761ae0316e4d71c7417773a725aa00b301f1067e844251f1eb9f5c77777821b50491bb0c3"
+      },
+      "2_2c-BETA": {
+        "name": "DnDesires-1.21.1-2.2c-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/IQmSy8nn/DnDesires-1.21.1-2.2c-BETA.jar",
+        "sha512": "383f809165e20d672807688174cac474dfc02b0da171cd15285f431f62a82d2a3224f94549a18840c6e2de9f7bf9e78627d3c757bc76fbf7fa69fd5751762878"
+      },
+      "2_1a-BETA": {
+        "name": "DnDesires-1.21.1-2.1a-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/OW55xHru/DnDesires-1.21.1-2.1a-BETA.jar",
+        "sha512": "5d1d445c29167cdab70eb44054503f0ccf4891b44cce997bf63131261273b0dd09e07b1cc553828dc30295815cc5bdb2ec254902dad0207f11a567d465ed9111"
+      },
+      "2_1b-BETA": {
+        "name": "DnDesires-1.21.1-2.1b-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/G8OR8q1G/DnDesires-1.21.1-2.1b-BETA.jar",
+        "sha512": "f3f8620a98965174f51e1b0b4b238b1f20674acc01f02072203a891388a7bf5b7db1e27843679790b670c02073433ee14a92fc45f71c387a58b3c605ab2fdcff"
+      },
+      "2_0_0": {
+        "name": "Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/zUkXiIr8/Create_Desires-2-Dreams-1.21.1-2.0.0.jar",
+        "sha512": "30cf875031d2572930707309d1b6854ad76055b86f09c7b7b58393deec9d47b456d07c6adf5c4d6fe80824b6b6a2810f3fcbddce5beb05248804792f7080fac7"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/4zjj5Jhw/Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "sha512": "b49a9fc67e038c54490f8ad9a0c959d0ac8f4f4e53d2052f3cf12d77270a1c80feeb1616206f4710aaf3907d189f972c9f498893a90814c431de24e2131a38bd"
+      },
+      "1_20_1-0_2c_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/4zjj5Jhw/Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "sha512": "b49a9fc67e038c54490f8ad9a0c959d0ac8f4f4e53d2052f3cf12d77270a1c80feeb1616206f4710aaf3907d189f972c9f498893a90814c431de24e2131a38bd"
+      },
+      "1_20_1-0_1a_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.20.1-0.1a.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/EIfTFqT2/Create-DnDesire-1.20.1-0.1a.Release-Early-Dev.jar",
+        "sha512": "aa058d2f9271b20781c0deeb81162ca345cbba8d388a732e2b45d36d8b907cc3d1d9a40799dfea3214a4609be5b97dd016c4d626c4314e5f0332ec862b134eb4"
+      },
+      "1_20_1-0_1b_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/GZxkqfDv/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar",
+        "sha512": "19f93bb5229f7ae92ad27617c7ffee1dcf75b0c67942887a297fd03f26cd4886660cc7620d9e9a062d0434c6a36874e159820d878dbb36128274d5b35821ce90"
+      },
+      "0_2b_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.20.1-0.2b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/qgrM6bNk/Create-Dreams-n-Desires-1.20.1-0.2b.PREBETA.jar",
+        "sha512": "bc858e873fc0971487410765be9021233493a8a5956ec3ae1672d650c2b47d4e5951f37c8aa143f2b8d1a3e262615ac47765210b93aaa7531deccba887449013"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/9OmEJ9a3/Create-Dreams-n-Desires-1.19.2-0.2c.PREBETA.jar",
+        "sha512": "3e3fb0bf8762b3fe8e5cf141c480409ba9d13cdea99d9d5ea589ae14b83b500b5126aab0649bd2582ea6333dfcd8de5530e9463c55f7839576c57ae5e22918ab"
+      },
+      "1_19_2-0_2c_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/9OmEJ9a3/Create-Dreams-n-Desires-1.19.2-0.2c.PREBETA.jar",
+        "sha512": "3e3fb0bf8762b3fe8e5cf141c480409ba9d13cdea99d9d5ea589ae14b83b500b5126aab0649bd2582ea6333dfcd8de5530e9463c55f7839576c57ae5e22918ab"
+      },
+      "1_19_2-0_1c_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.19.2-0.1c.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/PiqvawlN/Create-DnDesire-1.19.2-0.1c.Release-Early-Dev.jar",
+        "sha512": "f8a88256feb70cae7ce6fd5793c1622b41506654990cfd369c3f668441007683c42ccc3a9630bdbb46cda01457d2d4ae7cc129a4a8b3d9a44328d60ca2d2685b"
+      },
+      "1_2cBetaMidDev": {
+        "name": "Create-DnDesire-1.19.2-1.2c.Beta-Mid-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/n3bakyiQ/Create-DnDesire-1.19.2-1.2c.Beta%20Mid-Dev.jar",
+        "sha512": "cdd04d156176f4f87bf34048f79505b6c00feaf48b8b54929512e20f1f3332f92de9b551beea7a7b545643cae4f09c343d348c265723fa09587cb4992349422e"
+      },
+      "0_2b_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/uzrt7Ops/Create-Dreams-n-Desires-1.19.2-0.2b.PREBETA.jar",
+        "sha512": "079536141c78e4fb7c028d3989a501251ab9c15791ee469eb4101fd4e2c203f220ad413d67506f5f2c38f40db7e00cd9dd42ed1b0365c67a72e0a72790fcf70f"
+      },
+      "Early-Dev_0_1a_BETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-Early-Dev.0.1a.BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/nMBlUJT8/Create-Dreams-n-Desires-1.19.2-Early-Dev.0.1a.BETA.jar",
+        "sha512": "0fb642f8431ae9a76a838b7711551d7061924e65a0db3397b963a03c1f375da42f774e8bec02da8a33b6fc86bf9ded0edaab10a03e4cb67e8d2b803f80fe2498"
+      },
+      "0_1a_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.19.2-0.1a.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/23rf7Qhl/Create-DnDesire-1.19.2-0.1a.Release-Early-Dev.jar",
+        "sha512": "2085cdf1035aea6fbe58b557f31b30256daa8ebae4b33ebf7cd6003f78967ed0eefd2ad10de933d2a1316d71fba64e77a09a859d324b447955e457368979ce0d"
+      },
+      "0_1b_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.19.2-0.1b.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/qTHnZQwl/Create-DnDesire-1.19.2-0.1b.Release-Early-Dev.jar",
+        "sha512": "e7ed1299abe1507af845730ac2d6edd2bfd959cbafa54aebe5c912bbfeb5d9608178fdbba9e1bc63a9f09a4df936b9fc42f36cab4ceb5d0e4bc1299283954902"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/PJIUgstx/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar",
+        "sha512": "05a935bf21e8e2b7713ba9392a3720d6ba7f8bdab0a62d396462e61f16a85127df3641e32d14d608cfbc1cfd19f6300e1fdfdd9993775f1ee35df18a8f648d16"
+      },
+      "1_18_2-0_2c_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/PJIUgstx/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar",
+        "sha512": "05a935bf21e8e2b7713ba9392a3720d6ba7f8bdab0a62d396462e61f16a85127df3641e32d14d608cfbc1cfd19f6300e1fdfdd9993775f1ee35df18a8f648d16"
+      },
+      "0_2b_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.2b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/CZ1Zp3mk/Create-Dreams-n-Desires-1.18.2-0.2b.PREBETA.jar",
+        "sha512": "7c0b64651e392eb9fcf4b9e2a95e3e789ec4fb5ffb523ca4d5915e9400f66e8924fb2bab34d66991efaf85484a29ca85946db1b74dbbce846de7110ad1ac820b"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/4zjj5Jhw/Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "sha512": "b49a9fc67e038c54490f8ad9a0c959d0ac8f4f4e53d2052f3cf12d77270a1c80feeb1616206f4710aaf3907d189f972c9f498893a90814c431de24e2131a38bd"
+      },
+      "1_20_1-0_2c_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/4zjj5Jhw/Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+        "sha512": "b49a9fc67e038c54490f8ad9a0c959d0ac8f4f4e53d2052f3cf12d77270a1c80feeb1616206f4710aaf3907d189f972c9f498893a90814c431de24e2131a38bd"
+      },
+      "1_20_1-0_1a_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.20.1-0.1a.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/EIfTFqT2/Create-DnDesire-1.20.1-0.1a.Release-Early-Dev.jar",
+        "sha512": "aa058d2f9271b20781c0deeb81162ca345cbba8d388a732e2b45d36d8b907cc3d1d9a40799dfea3214a4609be5b97dd016c4d626c4314e5f0332ec862b134eb4"
+      },
+      "1_20_1-0_1b_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/GZxkqfDv/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar",
+        "sha512": "19f93bb5229f7ae92ad27617c7ffee1dcf75b0c67942887a297fd03f26cd4886660cc7620d9e9a062d0434c6a36874e159820d878dbb36128274d5b35821ce90"
+      },
+      "0_2b_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.20.1-0.2b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/qgrM6bNk/Create-Dreams-n-Desires-1.20.1-0.2b.PREBETA.jar",
+        "sha512": "bc858e873fc0971487410765be9021233493a8a5956ec3ae1672d650c2b47d4e5951f37c8aa143f2b8d1a3e262615ac47765210b93aaa7531deccba887449013"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2.5b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/7acX2sGJ/Create-Dreams-n-Desires-1.19.2-0.2.5b.PREBETA.jar",
+        "sha512": "1e8e6efe055254ab5df9d2a53b3ea709eb8f61bbafd31d8d443a4352a7ba2dc16688d785338caa83f52f26bf89b6067fc6e2b3371ed59627c56062ce2916c20c"
+      },
+      "1_19_2-0_2_5b_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2.5b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/7acX2sGJ/Create-Dreams-n-Desires-1.19.2-0.2.5b.PREBETA.jar",
+        "sha512": "1e8e6efe055254ab5df9d2a53b3ea709eb8f61bbafd31d8d443a4352a7ba2dc16688d785338caa83f52f26bf89b6067fc6e2b3371ed59627c56062ce2916c20c"
+      },
+      "1_19_2-0_2c_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/9OmEJ9a3/Create-Dreams-n-Desires-1.19.2-0.2c.PREBETA.jar",
+        "sha512": "3e3fb0bf8762b3fe8e5cf141c480409ba9d13cdea99d9d5ea589ae14b83b500b5126aab0649bd2582ea6333dfcd8de5530e9463c55f7839576c57ae5e22918ab"
+      },
+      "1_19_2-0_1a_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.1a.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/8RIUrerx/Create-Dreams-n-Desires-1.19.2-0.1a.PREBETA.jar",
+        "sha512": "68e758084827c5e533518406105c87fa06866e57b94baf670de7f549f429c3acbcd78f215f36f1bf1169b0dcf0bee46ee72ba755a7cf813688f1f3fe2f4b7fe3"
+      },
+      "1_19_2-0_1c_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.19.2-0.1c.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/PiqvawlN/Create-DnDesire-1.19.2-0.1c.Release-Early-Dev.jar",
+        "sha512": "f8a88256feb70cae7ce6fd5793c1622b41506654990cfd369c3f668441007683c42ccc3a9630bdbb46cda01457d2d4ae7cc129a4a8b3d9a44328d60ca2d2685b"
+      },
+      "1_2cBetaMidDev": {
+        "name": "Create-DnDesire-1.19.2-1.2c.Beta-Mid-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/n3bakyiQ/Create-DnDesire-1.19.2-1.2c.Beta%20Mid-Dev.jar",
+        "sha512": "cdd04d156176f4f87bf34048f79505b6c00feaf48b8b54929512e20f1f3332f92de9b551beea7a7b545643cae4f09c343d348c265723fa09587cb4992349422e"
+      },
+      "0_2_5a_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2.5a.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/ZUoK5QvL/Create-Dreams-n-Desires-1.19.2-0.2.5a.PREBETA.jar",
+        "sha512": "90bf3c3ea751f171236af7b17b21b300f4ff1a6f32d8763e778f55d5fc3b85c8619c7b901a9e3e3381bcb33c864ca2cdc88c8000799c5590f54e753af076fff2"
+      },
+      "0_2a_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2a.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/lLhDmF1Y/Create-Dreams-n-Desires-1.19.2-0.2a.PREBETA.jar",
+        "sha512": "9a4df6c777daf05c96a6e7d24e735b92cf325655b69d1693dc14e2dbb3110921400c4fdbd3fbd293e56d8c5de366c6bfe4a01d6789e81f8759a88674646397c3"
+      },
+      "0_2b_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.2b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/uzrt7Ops/Create-Dreams-n-Desires-1.19.2-0.2b.PREBETA.jar",
+        "sha512": "079536141c78e4fb7c028d3989a501251ab9c15791ee469eb4101fd4e2c203f220ad413d67506f5f2c38f40db7e00cd9dd42ed1b0365c67a72e0a72790fcf70f"
+      },
+      "Early-Dev_0_1a_BETA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-Early-Dev.0.1a.BETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/nMBlUJT8/Create-Dreams-n-Desires-1.19.2-Early-Dev.0.1a.BETA.jar",
+        "sha512": "0fb642f8431ae9a76a838b7711551d7061924e65a0db3397b963a03c1f375da42f774e8bec02da8a33b6fc86bf9ded0edaab10a03e4cb67e8d2b803f80fe2498"
+      },
+      "0_1b_BETA_Early-Dev": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.1b.BETA.Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/cjYVaqUb/Create-Dreams-n-Desires-1.19.2-0.1b.BETA.Early-Dev.jar",
+        "sha512": "f9785b6947c4601b2b4c5742f14bcb41ce83d822ac364ff4635fc53f3c0b02f3ae1e6b112ac1ed9ef7d3ea0e48e87eae1bcfeeececb96f3188cf16d50558f3ba"
+      },
+      "0_1a_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.19.2-0.1a.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/23rf7Qhl/Create-DnDesire-1.19.2-0.1a.Release-Early-Dev.jar",
+        "sha512": "2085cdf1035aea6fbe58b557f31b30256daa8ebae4b33ebf7cd6003f78967ed0eefd2ad10de933d2a1316d71fba64e77a09a859d324b447955e457368979ce0d"
+      },
+      "0_1b_Release-Early-Dev": {
+        "name": "Create-DnDesire-1.19.2-0.1b.Release-Early-Dev.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/qTHnZQwl/Create-DnDesire-1.19.2-0.1b.Release-Early-Dev.jar",
+        "sha512": "e7ed1299abe1507af845730ac2d6edd2bfd959cbafa54aebe5c912bbfeb5d9608178fdbba9e1bc63a9f09a4df936b9fc42f36cab4ceb5d0e4bc1299283954902"
+      },
+      "0_0_5a_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.0.5a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/Upt9XdjE/Create-Dreams-n-Desires-1.19.2-0.0.5a.ALPHA.jar",
+        "sha512": "f37eb51fca965ceb4c2e929c60f5982822719b5c248aa08f3c95c329c869a7ba31e2480968d2de109d1b110e7647208e17eb8a8a906131a8747f5706b07f8d1a"
+      },
+      "0_0_4a_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.0.4a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/Ukpwazyz/Create-Dreams-n-Desires-1.19.2-0.0.4a.ALPHA.jar",
+        "sha512": "8b69adf32f34ffbc4e23ec785da666416a3f331a6ee51e929af5ea515fb8ec06f6b4a22f8c4a60dbb313fc11bbac6500f7b9962629e33c94004b55a463633257"
+      },
+      "0_0_3a_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.0.3a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/79DrrriI/Create-Dreams-n-Desires-1.19.2-0.0.3a.ALPHA.jar",
+        "sha512": "e79c8a0e55b015526dcef767579a701813869b3b80f00906d088833cf4d8b0f58d35fa516c6e4e7292055f034d05533f6374b8c588b98491bd915bcbb8cd83aa"
+      },
+      "0_0_2a_ALPHA": {
+        "name": "Create-Dreams-&-Desires-1.19.2-0.0.2a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/aZqEtOh6/Create-Dreams-%26-Desires-1.19.2-0.0.2a.ALPHA.jar",
+        "sha512": "d97c8a5f5ad31da7d2cd1cd476af08e67f0de364a253777339585563a9850429a2dc16851cb77a983b7b32b35662ca51ad0bcf58906f3f261048c6b10cc859a2"
+      },
+      "0_0_2b_ALPHA": {
+        "name": "Create-Dreams-&-Desires-1.19.2-0.0.2b.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/aZsnQ70j/Create-Dreams-%26-Desires-1.19.2-0.0.2b.ALPHA.jar",
+        "sha512": "f6b03d07485aad650a2f8b8f9eb97669380763ff7790caa902fff70da93b6a3efc71229420eb11753384d514df97ce981d8c9fcbb1018ca99bf453e2dd135634"
+      },
+      "0_0_2c_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.19.2-0.0.2c.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/C5y6oyWc/Create-Dreams-n-Desires-1.19.2-0.0.2c.ALPHA.jar",
+        "sha512": "e7b3303080b702470ac5ab70a75214e0f0bb8d957febbe3b2df10c0abd4793539fe7d7c01b87278bf44ba6e52857a681ca78b82495d1f13fa9c359b0fd62a471"
+      },
+      "0_0_1a_ALPHA": {
+        "name": "create_flavored-1.19.2-0.0.1a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/evZ6YG6F/create_flavored-1.19.2-0.0.1a.ALPHA.jar",
+        "sha512": "070d8738d0835aa0382223975d0edf90a832068d5be80f7d3cc3da1eb2309f4305333bb9101d914364876cb0dc43ccce750f7111fc3c7c15a7a559473781deaa"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.1a.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/UOuN7K92/Create-Dreams-n-Desires-1.18.2-0.1a.PREBETA.jar",
+        "sha512": "43dd35bca5b45b5494d578382b82c375084a4038efbc26a7fca4c6201c0f2a9e578698e1be7ec9e3bae1ee505aa5b889b420a05a42ce83cf9424c4f027c288ab"
+      },
+      "1_19_2-0_1a_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.1a.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/UOuN7K92/Create-Dreams-n-Desires-1.18.2-0.1a.PREBETA.jar",
+        "sha512": "43dd35bca5b45b5494d578382b82c375084a4038efbc26a7fca4c6201c0f2a9e578698e1be7ec9e3bae1ee505aa5b889b420a05a42ce83cf9424c4f027c288ab"
+      },
+      "1_18_2-0_2c_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/PJIUgstx/Create-Dreams-n-Desires-1.18.2-0.2c.PREBETA.jar",
+        "sha512": "05a935bf21e8e2b7713ba9392a3720d6ba7f8bdab0a62d396462e61f16a85127df3641e32d14d608cfbc1cfd19f6300e1fdfdd9993775f1ee35df18a8f648d16"
+      },
+      "0_2b_PREBETA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.2b.PREBETA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/CZ1Zp3mk/Create-Dreams-n-Desires-1.18.2-0.2b.PREBETA.jar",
+        "sha512": "7c0b64651e392eb9fcf4b9e2a95e3e789ec4fb5ffb523ca4d5915e9400f66e8924fb2bab34d66991efaf85484a29ca85946db1b74dbbce846de7110ad1ac820b"
+      },
+      "0_0_5a_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.0.5a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/ocohqnVU/Create-Dreams-n-Desires-1.18.2-0.0.5a.ALPHA.jar",
+        "sha512": "bb20e849d61f9de7a29ef287a37679c51500091242ab531702b5b36369c9070c6436cebe0370e3076385afe415cd4dcf9cf80edff55457c1d4f94f7ae59d74b5"
+      },
+      "0_0_4a_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.0.4a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/UEkOoDbi/Create-Dreams-n-Desires-1.18.2-0.0.4a.ALPHA.jar",
+        "sha512": "0d8cb2d0c02acb962bc7c70f0973deb7f50ece7f5558f8d257eec71c11d05fd02eee5d55c9f29ab0f5eb341cb2b75153473d68bd6073a39c810a09a403d47b42"
+      },
+      "0_0_3a_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.0.3a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/nERX7dHG/Create-Dreams-n-Desires-1.18.2-0.0.3a.ALPHA.jar",
+        "sha512": "a52a29b5dee19604ececb6e3338320781e8564691c9d500fbcaeeb69c8d391c1fedd79ba2169d02836e91200c248e9d2a0eced8e00aa3ba96e5b89c82b6037fb"
+      },
+      "0_0_2a_ALPHA": {
+        "name": "Create-Dreams-&-Desires-1.18.2-0.0.2a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/vsojxZCy/Create-Dreams-%26-Desires-1.18.2-0.0.2a.ALPHA.jar",
+        "sha512": "54e801b7305085cb0beafbab12c964df9de7af96cc6653f459eccb12eac53e17f4de44350f7b503b468246f24f98713b0c33720c130b09039179f90b39b03f7a"
+      },
+      "0_0_2b_ALPHA": {
+        "name": "Create-Dreams-&-Desires-1.18.2-0.0.2b.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/QrdWpMEk/Create-Dreams-%26-Desires-1.18.2-0.0.2b.ALPHA.jar",
+        "sha512": "46265c013549dc4bc835743f683785adb15a2d54052a0a5b14741e4a28134961614b6abd40abf0086ac71f0f4747dca8bddf95ca72d39f68547710e956ffa741"
+      },
+      "0_0_2c_ALPHA": {
+        "name": "Create-Dreams-n-Desires-1.18.2-0.0.2c.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/Eq7aZEUs/Create-Dreams-n-Desires-1.18.2-0.0.2c.ALPHA.jar",
+        "sha512": "cf3f393eec6f8abe4cfcc148a9dbe243e32e21acf1976aba7d3002181813843ecfb6b59d6125788173cbace968e72ae614f203626cdb877ca13d97ceb713f223"
+      },
+      "0_0_1a_ALPHA": {
+        "name": "create_flavored-1.18.2-0.0.1a.ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/EK51lYTC/create_flavored-1.18.2-0.0.1a.ALPHA.jar",
+        "sha512": "5b1cdd48a37bf041081cfb23faf3c4b69b46ec368c3e97ec5abee1d6922085832bc3ca3f20c4defc71ec5472c7bb09f2539856c9400f4d7c5df30f154077cbd7"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "create_dd-0.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/zQa6dkM9/create_dd-0.0.1.jar",
+        "sha512": "c2e9f9b383a4872c2523ec377e049a9d4da2f1d8234b8eeeb2c521771e5278b8e0408a92cc781e1b5d94bfe03b5ee17b6bb6fcf2e8ea86a6701a5631f9bc1c31"
+      },
+      "0_1a": {
+        "name": "create_dd-0.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/zQa6dkM9/create_dd-0.0.1.jar",
+        "sha512": "c2e9f9b383a4872c2523ec377e049a9d4da2f1d8234b8eeeb2c521771e5278b8e0408a92cc781e1b5d94bfe03b5ee17b6bb6fcf2e8ea86a6701a5631f9bc1c31"
+      },
+      "Fabric-0_1b": {
+        "name": "create_dd-0.1b.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/rWSSoT7D/create_dd-0.1b.jar",
+        "sha512": "6046f82a6bf25c0b54d9e80ed12e403ea39540c002eca5cf084848ba13f5a452f5ed4c3858eab9062710ab4ddc1663d591808869ab81966e337707ce57971840"
+      },
+      "0_1c-Fabric": {
+        "name": "create_dd-0.1c.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/ecuNWZrN/create_dd-0.1c.jar",
+        "sha512": "d7250aadf85ee3b5c636c02facd0091bf7c33a3ea9ff4b85af9ec8e774795673defa8694a4bd4fc5a71fd67d1ef4c3a28ad839ec9a4f3087078609cd0fee442b"
+      },
+      "0_1d": {
+        "name": "create_dd-0.1d.jar",
+        "url": "https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar",
+        "sha512": "51cb4ca9118ca81e42754866c83b1919e303329c004d3e7e4052bf36cf765ae056411d7bbf8b42db17356b35085916cffc5a53cb03efb7791969d03ba19bfa8d"
+      }
+    }
+  }
+}
