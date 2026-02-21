@@ -14,7 +14,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `check-project-conflicts`
 - `clipboard-manager` -> `0.1.0-unstable-2026-02-15`
 - `cosmic-classic-menu` -> `0.0.11-unstable-2025-12-27`
-- `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-10`
+- `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-20`
 - `dwproton-bin` -> `10.0-18`
 - `error-pages` -> `0-unstable-2024-11-22`
 - `fireshare` -> `1.4.2-unstable-2026-02-19`
@@ -30,11 +30,11 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `prowlarr` -> `2.3.2.5245`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `5.3.1-dev.15-unstable-2026-02-20`
-- `shoko-webui` -> `2.5.2-unstable-2026-02-12`
+- `shoko` -> `5.3.1-dev.19-unstable-2026-02-20`
+- `shoko-webui` -> `2.5.3-dev.0-unstable-2026-02-20`
 - `shokofin` -> `6.0.4-dev.2-unstable-2026-02-17`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1867-unstable-2026-02-18`
+- `suwayomi-server` -> `2.1.1867-unstable-2026-02-21`
 - `suwayomi-webui` -> `20251230.01-unstable-2026-02-13`
 - `whisparr` -> `3.1.0.2116`
 - `wkeys` -> `0.1.2-unstable-2026-02-16`
