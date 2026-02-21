@@ -1,0 +1,503 @@
+{
+  "quilt": {
+    "1_20_1": {
+      "latest": {
+        "name": "farmersknives-3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/nKwD1wd7/farmersknives-3.1.jar",
+        "sha512": "04fcf35abdfc351fb2e392f1fd712a5387bfbca8da89b5ebc61720ae40065fa8786c259c786112722ddb2b16e3e738020ddc63899fd76dbfc2202535a9007789"
+      },
+      "3_1": {
+        "name": "farmersknives-3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/nKwD1wd7/farmersknives-3.1.jar",
+        "sha512": "04fcf35abdfc351fb2e392f1fd712a5387bfbca8da89b5ebc61720ae40065fa8786c259c786112722ddb2b16e3e738020ddc63899fd76dbfc2202535a9007789"
+      },
+      "3_0_2": {
+        "name": "farmersknives-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/B0v38ktj/farmersknives-3.0.2.jar",
+        "sha512": "4d9d7f1673160c45ef397008417ff9f8622630df4f797568c3ad086cdc5daa46cab36853efe66153446f0055b315c8d885e17f4ccde83f7fa2d80ab006855d0a"
+      },
+      "3_0": {
+        "name": "farmersknives-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vOQPIWJH/farmersknives-3.0.jar",
+        "sha512": "f1fac136b0051460b08f87df4a82498c35024710c703a5b9d186c9e612d079dd0de9857962a4e2690a96427965ab0901bf96b9e2b1b4a9063bda003e4e220c0f"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "farmersknives-3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/nKwD1wd7/farmersknives-3.1.jar",
+        "sha512": "04fcf35abdfc351fb2e392f1fd712a5387bfbca8da89b5ebc61720ae40065fa8786c259c786112722ddb2b16e3e738020ddc63899fd76dbfc2202535a9007789"
+      },
+      "3_1": {
+        "name": "farmersknives-3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/nKwD1wd7/farmersknives-3.1.jar",
+        "sha512": "04fcf35abdfc351fb2e392f1fd712a5387bfbca8da89b5ebc61720ae40065fa8786c259c786112722ddb2b16e3e738020ddc63899fd76dbfc2202535a9007789"
+      },
+      "3_0_2": {
+        "name": "farmersknives-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/B0v38ktj/farmersknives-3.0.2.jar",
+        "sha512": "4d9d7f1673160c45ef397008417ff9f8622630df4f797568c3ad086cdc5daa46cab36853efe66153446f0055b315c8d885e17f4ccde83f7fa2d80ab006855d0a"
+      },
+      "3_0": {
+        "name": "farmersknives-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vOQPIWJH/farmersknives-3.0.jar",
+        "sha512": "f1fac136b0051460b08f87df4a82498c35024710c703a5b9d186c9e612d079dd0de9857962a4e2690a96427965ab0901bf96b9e2b1b4a9063bda003e4e220c0f"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      },
+      "2_0": {
+        "name": "farmersknives-2.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/2.0/farmersknives-2.0.jar",
+        "sha512": "bd98a0011bb3b178c11aa1214fac96f19f1d103477237cd5c56f9dc1f917816a765140d7c6d5e214cd66ee306161f96304a21eb7e5cc50909726475b0b7a4f87"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "farmersknives-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/yZzS9MpL/farmersknives-1.3.1.jar",
+        "sha512": "0baaf021b8c91ef8e119c0efedc4c9dbc47360c3dd96d9cca16971a828e10ef6e240bae687221adfe5d3d3c30e68bbc4ace2bbcff71c996bed38089f809bc2ec"
+      },
+      "1_3_1": {
+        "name": "farmersknives-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/yZzS9MpL/farmersknives-1.3.1.jar",
+        "sha512": "0baaf021b8c91ef8e119c0efedc4c9dbc47360c3dd96d9cca16971a828e10ef6e240bae687221adfe5d3d3c30e68bbc4ace2bbcff71c996bed38089f809bc2ec"
+      },
+      "1_3": {
+        "name": "farmersknives-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.3/farmersknives-1.3.jar",
+        "sha512": "f6a4645d6950b33e472806bd6fcd936c65dc05fcf062518ae0e7440fde43ae5230b328beced9375e9484fdf0c0492be761f984f7e39af9fff1adf9b7c3063e01"
+      },
+      "1_2": {
+        "name": "farmersknives-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.2/farmersknives-1.2.jar",
+        "sha512": "d3d8a5e1d01ff1dc2f4eff17f52717e198044f5f3bc6129239eb8b1397a64358d2b09b323eecb842159bdb571e2ad4adac54c6f47568e967576aadd016973988"
+      },
+      "1_1": {
+        "name": "farmersknives-1.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.1/farmersknives-1.1.jar",
+        "sha512": "6f877f82de02fb5a2c20398956c70b950c9c6b336e75a5070c4d8df154e22e92a87a30f56ddd44ac1c1d7209ff360f711446de9af9f038c5ac06c44775b3be92"
+      },
+      "1_0": {
+        "name": "farmersknives-1.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.0/farmersknives-1.0.jar",
+        "sha512": "1b8a5f43dd123bec093ddf8a990a7f6292a1e2309d1ff69a71ed65f28c1b9f50ed9dca428271cbb4aa9d2fb320971f2e7b139036d92368ada1484a1af080c4a4"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "farmersknives-neoforge-1.21.1-4.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/wsk4wO8o/farmersknives-neoforge-1.21.1-4.1.0.jar",
+        "sha512": "9eb756509513a324fff7323d021282f7bb32c46a41ed15b46d4ff1a43be497eba87e1ded68979615f22ab131f1aa2d22e1bb9778c6af517660d2308ff5f6b4d3"
+      },
+      "1_21_1-4_1_0": {
+        "name": "farmersknives-neoforge-1.21.1-4.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/wsk4wO8o/farmersknives-neoforge-1.21.1-4.1.0.jar",
+        "sha512": "9eb756509513a324fff7323d021282f7bb32c46a41ed15b46d4ff1a43be497eba87e1ded68979615f22ab131f1aa2d22e1bb9778c6af517660d2308ff5f6b4d3"
+      },
+      "1_21_1-4_0_4": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/sgDaqbL0/farmersknives-neoforge-1.21.1-4.0.4.jar",
+        "sha512": "6bd964c2e2d3e429314f04dfe7ca936c9613124e03ffbcd037640e61d9faceac494473b44e3c4eb03483f9246dce39a2abfa4e52544167235f27247c1b18f2e0"
+      },
+      "1_21_1-4_0_3": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/ZmBFRR96/farmersknives-neoforge-1.21.1-4.0.3.jar",
+        "sha512": "7f9a86e29fa17d87a147b9feda165c4a9ecb3eef23f522f4fdf587d7ade90a18655df5083eca56b070e23cd4f3f1905a127ad62a163af17b95f756cf0e071d46"
+      },
+      "1_21_1-4_0_2": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/8M9nRvGW/farmersknives-neoforge-1.21.1-4.0.2.jar",
+        "sha512": "7227b488d17bc6bb41dae2f91e252eb141834fe84fb9a47a1724058bf3e10cd40b6d2537433430287170cbe76778b986cf6dfeb749579c9fb8fb1f62c615aa06"
+      },
+      "1_21_1-4_0_1": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/UucrgpRc/farmersknives-neoforge-1.21.1-4.0.1.jar",
+        "sha512": "ffdaec3fbb6b8531f5c55b3bff4e919234271ed52847c515bc5e5f19f60912e46ef699018389a54e654119d9cfc7d56bffec52a5faf849b790704e3d3d421875"
+      },
+      "1_21_1-4_0_0": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/bJVsYABi/farmersknives-neoforge-1.21.1-4.0.0.jar",
+        "sha512": "9306289e588926617238511a5ce98988f0c1b91e82f4e5aad718497a40c6d6fa585b3997c323bb779c0ea21cf3cbe7235ab82af5fca298e9e7fdf13c742ea995"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/8M9nRvGW/farmersknives-neoforge-1.21.1-4.0.2.jar",
+        "sha512": "7227b488d17bc6bb41dae2f91e252eb141834fe84fb9a47a1724058bf3e10cd40b6d2537433430287170cbe76778b986cf6dfeb749579c9fb8fb1f62c615aa06"
+      },
+      "1_21_1-4_0_2": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/8M9nRvGW/farmersknives-neoforge-1.21.1-4.0.2.jar",
+        "sha512": "7227b488d17bc6bb41dae2f91e252eb141834fe84fb9a47a1724058bf3e10cd40b6d2537433430287170cbe76778b986cf6dfeb749579c9fb8fb1f62c615aa06"
+      },
+      "1_21_1-4_0_1": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/UucrgpRc/farmersknives-neoforge-1.21.1-4.0.1.jar",
+        "sha512": "ffdaec3fbb6b8531f5c55b3bff4e919234271ed52847c515bc5e5f19f60912e46ef699018389a54e654119d9cfc7d56bffec52a5faf849b790704e3d3d421875"
+      },
+      "1_21_1-4_0_0": {
+        "name": "farmersknives-neoforge-1.21.1-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/bJVsYABi/farmersknives-neoforge-1.21.1-4.0.0.jar",
+        "sha512": "9306289e588926617238511a5ce98988f0c1b91e82f4e5aad718497a40c6d6fa585b3997c323bb779c0ea21cf3cbe7235ab82af5fca298e9e7fdf13c742ea995"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_11": {
+      "latest": {
+        "name": "farmersknives-fabric-1.21.11-4.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/c2QLbdcI/farmersknives-fabric-1.21.11-4.0.5.jar",
+        "sha512": "2432536164925c93c8b46968be997e84c5b5ee45003b570ddf9371dc576886e69b4afc0d05d38850bd388f1b537c006a4840629ab206c59fce13d3b301f31857"
+      },
+      "1_21_11-4_0_5": {
+        "name": "farmersknives-fabric-1.21.11-4.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/c2QLbdcI/farmersknives-fabric-1.21.11-4.0.5.jar",
+        "sha512": "2432536164925c93c8b46968be997e84c5b5ee45003b570ddf9371dc576886e69b4afc0d05d38850bd388f1b537c006a4840629ab206c59fce13d3b301f31857"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "farmersknives-fabric-1.21.5-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/5L5vLKR1/farmersknives-fabric-1.21.5-4.0.4.jar",
+        "sha512": "6771d45041e192e1c9a85bd337ff2e1a8cf335640684d943ad2a5863ccf5f3f8284c1fb92b7d7b53c3d394be9d116cc8ef2068573663fa556cb8abf164b975c8"
+      },
+      "1_21_5-4_0_4": {
+        "name": "farmersknives-fabric-1.21.5-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/5L5vLKR1/farmersknives-fabric-1.21.5-4.0.4.jar",
+        "sha512": "6771d45041e192e1c9a85bd337ff2e1a8cf335640684d943ad2a5863ccf5f3f8284c1fb92b7d7b53c3d394be9d116cc8ef2068573663fa556cb8abf164b975c8"
+      },
+      "1_21_5-4_0_3": {
+        "name": "farmersknives-fabric-1.21.5-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/hoGBGLWm/farmersknives-fabric-1.21.5-4.0.3.jar",
+        "sha512": "585f3bc7ba3c81c86969c8daa39037114caac304d009c64245a9a146967d8a2d0c23f032b773c6543f3ca743b626fb6932d52bbddd6fc70c67f1985a15229fb2"
+      },
+      "1_21_5-4_0_2": {
+        "name": "farmersknives-fabric-1.21.5-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/ASFCQqNd/farmersknives-fabric-1.21.5-4.0.2.jar",
+        "sha512": "aed28c6783f9457653e6c9d24fb536a25079521d735ab4c6b404d88009cf0ff0ea55ac21d72c17770f2213ce535c91ba418f0ead1a93ab302f5a75baf58a81f6"
+      },
+      "1_21_5-4_0_1": {
+        "name": "farmersknives-fabric-1.21.5-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/iI26C28N/farmersknives-fabric-1.21.5-4.0.1.jar",
+        "sha512": "aa70bb3e56a3acdc16d6a0322f1e2d11a52594fa3e617b6f20b14393e35f75ef6cbad3cfbec42b86a3f0f0d7418187f9ebf71b5f7ef9bf07851e8d66810daed2"
+      },
+      "1_21_5-4_0_0": {
+        "name": "farmersknives-fabric-1.21.5-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/PL59ce4y/farmersknives-fabric-1.21.5-4.0.0.jar",
+        "sha512": "17ff2edb74075c469615b3d7fa6f774dc223fb206f87b0bf5453e0eb7b7d83023d019c19280ba89f3060c6c469bb996a793dd7cabde3b031a4c3a6ca8b8087f2"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "farmersknives-fabric-1.21.1-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/2wn5TnBh/farmersknives-fabric-1.21.1-4.0.4.jar",
+        "sha512": "2529fcb0fbcbf8778c922d19c337dd2137cd6ce8723c1875a50eeefbd70f8ba29422aa475ca20f7aed1251a42cd12455035063f07c863bb57595a537d8523316"
+      },
+      "1_21_1-4_0_4": {
+        "name": "farmersknives-fabric-1.21.1-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/2wn5TnBh/farmersknives-fabric-1.21.1-4.0.4.jar",
+        "sha512": "2529fcb0fbcbf8778c922d19c337dd2137cd6ce8723c1875a50eeefbd70f8ba29422aa475ca20f7aed1251a42cd12455035063f07c863bb57595a537d8523316"
+      },
+      "1_21_1-4_0_1": {
+        "name": "farmersknives-fabric-1.21.1-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/iXaVQx81/farmersknives-fabric-1.21.1-4.0.1.jar",
+        "sha512": "3fe73511311de7bf11ee004bb52438c281bcd2726bdd571345ef73f0eb3f788b8ea33b324cdcecccdc3d1e759f5a712b6f42f491018185e1227dd90ce7cdd1d0"
+      },
+      "1_21_1-4_0_0": {
+        "name": "farmersknives-fabric-1.21.1-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/ZRV3HyA7/farmersknives-fabric-1.21.1-4.0.0.jar",
+        "sha512": "2abb102947a8a1a3431e7e0ca2cd252c7a5f3afa640f367adc28f0101b078388f37fbdaaeacc44133f7e90f3d90354c05b58140e7ed18506f59f0e5a52999195"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "farmersknives-fabric-1.21.1-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/2wn5TnBh/farmersknives-fabric-1.21.1-4.0.4.jar",
+        "sha512": "2529fcb0fbcbf8778c922d19c337dd2137cd6ce8723c1875a50eeefbd70f8ba29422aa475ca20f7aed1251a42cd12455035063f07c863bb57595a537d8523316"
+      },
+      "1_21_1-4_0_4": {
+        "name": "farmersknives-fabric-1.21.1-4.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/2wn5TnBh/farmersknives-fabric-1.21.1-4.0.4.jar",
+        "sha512": "2529fcb0fbcbf8778c922d19c337dd2137cd6ce8723c1875a50eeefbd70f8ba29422aa475ca20f7aed1251a42cd12455035063f07c863bb57595a537d8523316"
+      },
+      "1_21_1-4_0_1": {
+        "name": "farmersknives-fabric-1.21.1-4.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/iXaVQx81/farmersknives-fabric-1.21.1-4.0.1.jar",
+        "sha512": "3fe73511311de7bf11ee004bb52438c281bcd2726bdd571345ef73f0eb3f788b8ea33b324cdcecccdc3d1e759f5a712b6f42f491018185e1227dd90ce7cdd1d0"
+      },
+      "1_21_1-4_0_0": {
+        "name": "farmersknives-fabric-1.21.1-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/ZRV3HyA7/farmersknives-fabric-1.21.1-4.0.0.jar",
+        "sha512": "2abb102947a8a1a3431e7e0ca2cd252c7a5f3afa640f367adc28f0101b078388f37fbdaaeacc44133f7e90f3d90354c05b58140e7ed18506f59f0e5a52999195"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "farmersknives-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/dH5N4o0F/farmersknives-3.2.jar",
+        "sha512": "626be8b331da7db5d71b86625efe65c8319cc44797f22d3135bb5c672af4022d813dce49bea592b2e00b194d0775726346f53605352572c4c5a44e1886a48312"
+      },
+      "3_2": {
+        "name": "farmersknives-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/dH5N4o0F/farmersknives-3.2.jar",
+        "sha512": "626be8b331da7db5d71b86625efe65c8319cc44797f22d3135bb5c672af4022d813dce49bea592b2e00b194d0775726346f53605352572c4c5a44e1886a48312"
+      },
+      "3_1": {
+        "name": "farmersknives-3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/nKwD1wd7/farmersknives-3.1.jar",
+        "sha512": "04fcf35abdfc351fb2e392f1fd712a5387bfbca8da89b5ebc61720ae40065fa8786c259c786112722ddb2b16e3e738020ddc63899fd76dbfc2202535a9007789"
+      },
+      "3_0_2": {
+        "name": "farmersknives-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/B0v38ktj/farmersknives-3.0.2.jar",
+        "sha512": "4d9d7f1673160c45ef397008417ff9f8622630df4f797568c3ad086cdc5daa46cab36853efe66153446f0055b315c8d885e17f4ccde83f7fa2d80ab006855d0a"
+      },
+      "3_0": {
+        "name": "farmersknives-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vOQPIWJH/farmersknives-3.0.jar",
+        "sha512": "f1fac136b0051460b08f87df4a82498c35024710c703a5b9d186c9e612d079dd0de9857962a4e2690a96427965ab0901bf96b9e2b1b4a9063bda003e4e220c0f"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "farmersknives-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/dH5N4o0F/farmersknives-3.2.jar",
+        "sha512": "626be8b331da7db5d71b86625efe65c8319cc44797f22d3135bb5c672af4022d813dce49bea592b2e00b194d0775726346f53605352572c4c5a44e1886a48312"
+      },
+      "3_2": {
+        "name": "farmersknives-3.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/dH5N4o0F/farmersknives-3.2.jar",
+        "sha512": "626be8b331da7db5d71b86625efe65c8319cc44797f22d3135bb5c672af4022d813dce49bea592b2e00b194d0775726346f53605352572c4c5a44e1886a48312"
+      },
+      "3_1": {
+        "name": "farmersknives-3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/nKwD1wd7/farmersknives-3.1.jar",
+        "sha512": "04fcf35abdfc351fb2e392f1fd712a5387bfbca8da89b5ebc61720ae40065fa8786c259c786112722ddb2b16e3e738020ddc63899fd76dbfc2202535a9007789"
+      },
+      "3_0_2": {
+        "name": "farmersknives-3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/B0v38ktj/farmersknives-3.0.2.jar",
+        "sha512": "4d9d7f1673160c45ef397008417ff9f8622630df4f797568c3ad086cdc5daa46cab36853efe66153446f0055b315c8d885e17f4ccde83f7fa2d80ab006855d0a"
+      },
+      "3_0": {
+        "name": "farmersknives-3.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vOQPIWJH/farmersknives-3.0.jar",
+        "sha512": "f1fac136b0051460b08f87df4a82498c35024710c703a5b9d186c9e612d079dd0de9857962a4e2690a96427965ab0901bf96b9e2b1b4a9063bda003e4e220c0f"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4_1": {
+        "name": "farmersknives-2.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar",
+        "sha512": "46b24105f8caea464fadf2974df6fecea0f45351a0495a2f87028fcc637a07996baf77c8ed32c73f06e4c5902e1b896dc3e20d85e483c85c9205c00ef71146d4"
+      },
+      "2_4": {
+        "name": "farmersknives-2.4.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/Ej3lu47a/farmersknives-2.4.jar",
+        "sha512": "f5292b25f724b433b32411f3d75482abc92401577a788c203fb565208db81d9a36d405fd2f545a2f20b3c3455c7cd57d70b5b0bfdf4245fca8215d9f10060b59"
+      },
+      "2_3": {
+        "name": "farmersknives-2.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/mFGll6G1/farmersknives-2.3.jar",
+        "sha512": "5f4ccf4af8a28867b7c296399d437dccd61c582c9c6c137573042b70e62bc1a656e1a2dcfe3f00ddd53819058d2c0c016699f84ca9db388577d1e437d3e024c9"
+      },
+      "2_0": {
+        "name": "farmersknives-2.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/2.0/farmersknives-2.0.jar",
+        "sha512": "bd98a0011bb3b178c11aa1214fac96f19f1d103477237cd5c56f9dc1f917816a765140d7c6d5e214cd66ee306161f96304a21eb7e5cc50909726475b0b7a4f87"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "farmersknives-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/yZzS9MpL/farmersknives-1.3.1.jar",
+        "sha512": "0baaf021b8c91ef8e119c0efedc4c9dbc47360c3dd96d9cca16971a828e10ef6e240bae687221adfe5d3d3c30e68bbc4ace2bbcff71c996bed38089f809bc2ec"
+      },
+      "1_3_1": {
+        "name": "farmersknives-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/yZzS9MpL/farmersknives-1.3.1.jar",
+        "sha512": "0baaf021b8c91ef8e119c0efedc4c9dbc47360c3dd96d9cca16971a828e10ef6e240bae687221adfe5d3d3c30e68bbc4ace2bbcff71c996bed38089f809bc2ec"
+      },
+      "1_3": {
+        "name": "farmersknives-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.3/farmersknives-1.3.jar",
+        "sha512": "f6a4645d6950b33e472806bd6fcd936c65dc05fcf062518ae0e7440fde43ae5230b328beced9375e9484fdf0c0492be761f984f7e39af9fff1adf9b7c3063e01"
+      },
+      "1_2": {
+        "name": "farmersknives-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.2/farmersknives-1.2.jar",
+        "sha512": "d3d8a5e1d01ff1dc2f4eff17f52717e198044f5f3bc6129239eb8b1397a64358d2b09b323eecb842159bdb571e2ad4adac54c6f47568e967576aadd016973988"
+      },
+      "1_1": {
+        "name": "farmersknives-1.1.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.1/farmersknives-1.1.jar",
+        "sha512": "6f877f82de02fb5a2c20398956c70b950c9c6b336e75a5070c4d8df154e22e92a87a30f56ddd44ac1c1d7209ff360f711446de9af9f038c5ac06c44775b3be92"
+      },
+      "1_0": {
+        "name": "farmersknives-1.0.jar",
+        "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/1.0/farmersknives-1.0.jar",
+        "sha512": "1b8a5f43dd123bec093ddf8a990a7f6292a1e2309d1ff69a71ed65f28c1b9f50ed9dca428271cbb4aa9d2fb320971f2e7b139036d92368ada1484a1af080c4a4"
+      }
+    }
+  }
+}
