@@ -1,0 +1,396 @@
+{
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "emi-letsdo-compat-2.0.1+1.21.1+neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/sDXxwL9Z/emi-letsdo-compat-2.0.1%2B1.21.1%2Bneoforge.jar",
+        "sha512": "594112e7f53bc346e1b7a84fb914f519d7fbd49bf068e0bc832bba3e39361b7b5ca341bd8f211d309c475be990d249f9df10719d6aa4fe54d481e597fee1618b"
+      },
+      "2_0_1": {
+        "name": "emi-letsdo-compat-2.0.1+1.21.1+neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/sDXxwL9Z/emi-letsdo-compat-2.0.1%2B1.21.1%2Bneoforge.jar",
+        "sha512": "594112e7f53bc346e1b7a84fb914f519d7fbd49bf068e0bc832bba3e39361b7b5ca341bd8f211d309c475be990d249f9df10719d6aa4fe54d481e597fee1618b"
+      },
+      "2_0_0": {
+        "name": "emi-letsdo-compat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/kT1UCnAC/emi-letsdo-compat-2.0.0.jar",
+        "sha512": "d784150b06bbce7d432fd24cbb1b5de48cae9c7ffd3b57c92269fa9efd5d75d009a57d299808a4a089849b12530fb46a3eca34551c07556b6e891394b299c0ac"
+      }
+    }
+  },
+  "forge": {
+    "1_20_6": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/QsEva6vE/emi-letsdo-compat-1.4.jar",
+        "sha512": "89936db584fd030031b02d7aedcd30353bf45746961d8543ac5f283bbab12346d1a36f4b3c5ecfd4970ccd9657becd4c58af90155886a3547dd7fc2716996e1e"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/DH2VIM6n/emi-letsdo-compat-1.3.jar",
+        "sha512": "84b10ccb989ed8c40e864835f983f58d61fb086bcdb7778996bc7ef27e820248207f0818bafde0b28183c99f82c940c0cf6e64ad20a11999e962a9a0cdbeb113"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-forge-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/mjFf60qW/emi-letsdo-compat-forge-1.2.jar",
+        "sha512": "b3a96217b914e19861a1f378ed542c952eef778346f7ae24e7462e02676aa06b2ce93b2953b6ab027ef6381d10c139f4ce90f3a95cfc918f64c7539e42bddb8e"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/QsEva6vE/emi-letsdo-compat-1.4.jar",
+        "sha512": "89936db584fd030031b02d7aedcd30353bf45746961d8543ac5f283bbab12346d1a36f4b3c5ecfd4970ccd9657becd4c58af90155886a3547dd7fc2716996e1e"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/DH2VIM6n/emi-letsdo-compat-1.3.jar",
+        "sha512": "84b10ccb989ed8c40e864835f983f58d61fb086bcdb7778996bc7ef27e820248207f0818bafde0b28183c99f82c940c0cf6e64ad20a11999e962a9a0cdbeb113"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-forge-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/mjFf60qW/emi-letsdo-compat-forge-1.2.jar",
+        "sha512": "b3a96217b914e19861a1f378ed542c952eef778346f7ae24e7462e02676aa06b2ce93b2953b6ab027ef6381d10c139f4ce90f3a95cfc918f64c7539e42bddb8e"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/QsEva6vE/emi-letsdo-compat-1.4.jar",
+        "sha512": "89936db584fd030031b02d7aedcd30353bf45746961d8543ac5f283bbab12346d1a36f4b3c5ecfd4970ccd9657becd4c58af90155886a3547dd7fc2716996e1e"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/DH2VIM6n/emi-letsdo-compat-1.3.jar",
+        "sha512": "84b10ccb989ed8c40e864835f983f58d61fb086bcdb7778996bc7ef27e820248207f0818bafde0b28183c99f82c940c0cf6e64ad20a11999e962a9a0cdbeb113"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-forge-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/mjFf60qW/emi-letsdo-compat-forge-1.2.jar",
+        "sha512": "b3a96217b914e19861a1f378ed542c952eef778346f7ae24e7462e02676aa06b2ce93b2953b6ab027ef6381d10c139f4ce90f3a95cfc918f64c7539e42bddb8e"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/QsEva6vE/emi-letsdo-compat-1.4.jar",
+        "sha512": "89936db584fd030031b02d7aedcd30353bf45746961d8543ac5f283bbab12346d1a36f4b3c5ecfd4970ccd9657becd4c58af90155886a3547dd7fc2716996e1e"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/DH2VIM6n/emi-letsdo-compat-1.3.jar",
+        "sha512": "84b10ccb989ed8c40e864835f983f58d61fb086bcdb7778996bc7ef27e820248207f0818bafde0b28183c99f82c940c0cf6e64ad20a11999e962a9a0cdbeb113"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-forge-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/mjFf60qW/emi-letsdo-compat-forge-1.2.jar",
+        "sha512": "b3a96217b914e19861a1f378ed542c952eef778346f7ae24e7462e02676aa06b2ce93b2953b6ab027ef6381d10c139f4ce90f3a95cfc918f64c7539e42bddb8e"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/QsEva6vE/emi-letsdo-compat-1.4.jar",
+        "sha512": "89936db584fd030031b02d7aedcd30353bf45746961d8543ac5f283bbab12346d1a36f4b3c5ecfd4970ccd9657becd4c58af90155886a3547dd7fc2716996e1e"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/DH2VIM6n/emi-letsdo-compat-1.3.jar",
+        "sha512": "84b10ccb989ed8c40e864835f983f58d61fb086bcdb7778996bc7ef27e820248207f0818bafde0b28183c99f82c940c0cf6e64ad20a11999e962a9a0cdbeb113"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-forge-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/mjFf60qW/emi-letsdo-compat-forge-1.2.jar",
+        "sha512": "b3a96217b914e19861a1f378ed542c952eef778346f7ae24e7462e02676aa06b2ce93b2953b6ab027ef6381d10c139f4ce90f3a95cfc918f64c7539e42bddb8e"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "1.8.1+1.20.1+forge.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/iltPVvOV/1.8.1%2B1.20.1%2Bforge.jar",
+        "sha512": "dee27a91687582dd3fcbe06dcfae05e6a6cbd83dcb205a11b205db5587c5073771b0940517884402ce78fc98889ad775ca6aaa878b1ee5ed6bf2b558dcf6f46d"
+      },
+      "1_8_1": {
+        "name": "1.8.1+1.20.1+forge.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/iltPVvOV/1.8.1%2B1.20.1%2Bforge.jar",
+        "sha512": "dee27a91687582dd3fcbe06dcfae05e6a6cbd83dcb205a11b205db5587c5073771b0940517884402ce78fc98889ad775ca6aaa878b1ee5ed6bf2b558dcf6f46d"
+      },
+      "1_8": {
+        "name": "emi-letsdo-compat-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/tKY48PZf/emi-letsdo-compat-1.8.jar",
+        "sha512": "c48f6401aa97ba7ccc60e5c7fba3d0233552e3151e8305948dd83d99402e3b323d2f652ff8555cbe8a9629d51f6ac7396e644d8025f08af6f2de5913aa4b21dc"
+      },
+      "1_7": {
+        "name": "emi-letsdo-compat-1.7.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/CcPWK61a/emi-letsdo-compat-1.7.jar",
+        "sha512": "61259040f40dd1e2cb6928ddb64c7028ce147b30e2c8a02182c2a8864abc6b10e8614fda020885d9ccd46de10a79bb02e9f6ee27543ecc965e6a841648b386ed"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/INLVt7u2/emi-letsdo-compat-1.5.jar",
+        "sha512": "38dcf6d078cc99eaf300455e42e2f2d5d36556e22f9ef684593be637e94d130f7e3d81090292dbc882aba954d4eded8d0c873c12f11b4c59b15a2f93a23d65ba"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/QsEva6vE/emi-letsdo-compat-1.4.jar",
+        "sha512": "89936db584fd030031b02d7aedcd30353bf45746961d8543ac5f283bbab12346d1a36f4b3c5ecfd4970ccd9657becd4c58af90155886a3547dd7fc2716996e1e"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/DH2VIM6n/emi-letsdo-compat-1.3.jar",
+        "sha512": "84b10ccb989ed8c40e864835f983f58d61fb086bcdb7778996bc7ef27e820248207f0818bafde0b28183c99f82c940c0cf6e64ad20a11999e962a9a0cdbeb113"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-forge-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/mjFf60qW/emi-letsdo-compat-forge-1.2.jar",
+        "sha512": "b3a96217b914e19861a1f378ed542c952eef778346f7ae24e7462e02676aa06b2ce93b2953b6ab027ef6381d10c139f4ce90f3a95cfc918f64c7539e42bddb8e"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_1": {
+      "latest": {
+        "name": "emi-letsdo-compat-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/R9X8cd6b/emi-letsdo-compat-2.0.1.jar",
+        "sha512": "367997395da398c8125a525d1627c8625c622980aba5603f5e74462c047164d5857c56eac4957b5a002b18ebc32e27e3c4aa1a137b5e07cf3f56bd533d53ba0a"
+      },
+      "2_0_1": {
+        "name": "emi-letsdo-compat-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/R9X8cd6b/emi-letsdo-compat-2.0.1.jar",
+        "sha512": "367997395da398c8125a525d1627c8625c622980aba5603f5e74462c047164d5857c56eac4957b5a002b18ebc32e27e3c4aa1a137b5e07cf3f56bd533d53ba0a"
+      },
+      "2_0_0": {
+        "name": "emi-letsdo-compat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/Rnu76x4q/emi-letsdo-compat-2.0.0.jar",
+        "sha512": "c594d295d1454601eae7834691c18fdd93687067a9e698a975557365b57c6529ad2c58632679299c6208b57392437c19152d423e7ace803f2d47e6deadc8a98a"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/7p6BySyh/emi-letsdo-compat-1.4.jar",
+        "sha512": "332a2a1d26338daa8ccc646b6ad2c4044a7764346382025f27898820eb75220cdb37ca3767b97d7c22e777243b7de3b337250d398726f862179fb901ac27ef00"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/5uUSIbBu/emi-letsdo-compat-1.3.jar",
+        "sha512": "3ed2231f1af79231fa7dfe40e485f5ee1b8a356ddf721e4011b2d53135c264199b818d974a372be9e988ebae51b65e1310f6d919c95aebc4d4a90f24510122fd"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-fabric-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/NmIbaTJc/emi-letsdo-compat-fabric-1.2.jar",
+        "sha512": "39a8b60f401083ab1c2c52168747b5fa7881123dce25df5712bafae786fc90364cee4fd8b236630bb5567976edaa0f6b9b27d28875b8e9e18e8e877a032fa3b0"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/7p6BySyh/emi-letsdo-compat-1.4.jar",
+        "sha512": "332a2a1d26338daa8ccc646b6ad2c4044a7764346382025f27898820eb75220cdb37ca3767b97d7c22e777243b7de3b337250d398726f862179fb901ac27ef00"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/5uUSIbBu/emi-letsdo-compat-1.3.jar",
+        "sha512": "3ed2231f1af79231fa7dfe40e485f5ee1b8a356ddf721e4011b2d53135c264199b818d974a372be9e988ebae51b65e1310f6d919c95aebc4d4a90f24510122fd"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-fabric-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/NmIbaTJc/emi-letsdo-compat-fabric-1.2.jar",
+        "sha512": "39a8b60f401083ab1c2c52168747b5fa7881123dce25df5712bafae786fc90364cee4fd8b236630bb5567976edaa0f6b9b27d28875b8e9e18e8e877a032fa3b0"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/7p6BySyh/emi-letsdo-compat-1.4.jar",
+        "sha512": "332a2a1d26338daa8ccc646b6ad2c4044a7764346382025f27898820eb75220cdb37ca3767b97d7c22e777243b7de3b337250d398726f862179fb901ac27ef00"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/5uUSIbBu/emi-letsdo-compat-1.3.jar",
+        "sha512": "3ed2231f1af79231fa7dfe40e485f5ee1b8a356ddf721e4011b2d53135c264199b818d974a372be9e988ebae51b65e1310f6d919c95aebc4d4a90f24510122fd"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-fabric-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/NmIbaTJc/emi-letsdo-compat-fabric-1.2.jar",
+        "sha512": "39a8b60f401083ab1c2c52168747b5fa7881123dce25df5712bafae786fc90364cee4fd8b236630bb5567976edaa0f6b9b27d28875b8e9e18e8e877a032fa3b0"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/7p6BySyh/emi-letsdo-compat-1.4.jar",
+        "sha512": "332a2a1d26338daa8ccc646b6ad2c4044a7764346382025f27898820eb75220cdb37ca3767b97d7c22e777243b7de3b337250d398726f862179fb901ac27ef00"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/5uUSIbBu/emi-letsdo-compat-1.3.jar",
+        "sha512": "3ed2231f1af79231fa7dfe40e485f5ee1b8a356ddf721e4011b2d53135c264199b818d974a372be9e988ebae51b65e1310f6d919c95aebc4d4a90f24510122fd"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-fabric-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/NmIbaTJc/emi-letsdo-compat-fabric-1.2.jar",
+        "sha512": "39a8b60f401083ab1c2c52168747b5fa7881123dce25df5712bafae786fc90364cee4fd8b236630bb5567976edaa0f6b9b27d28875b8e9e18e8e877a032fa3b0"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/7p6BySyh/emi-letsdo-compat-1.4.jar",
+        "sha512": "332a2a1d26338daa8ccc646b6ad2c4044a7764346382025f27898820eb75220cdb37ca3767b97d7c22e777243b7de3b337250d398726f862179fb901ac27ef00"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/5uUSIbBu/emi-letsdo-compat-1.3.jar",
+        "sha512": "3ed2231f1af79231fa7dfe40e485f5ee1b8a356ddf721e4011b2d53135c264199b818d974a372be9e988ebae51b65e1310f6d919c95aebc4d4a90f24510122fd"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-fabric-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/NmIbaTJc/emi-letsdo-compat-fabric-1.2.jar",
+        "sha512": "39a8b60f401083ab1c2c52168747b5fa7881123dce25df5712bafae786fc90364cee4fd8b236630bb5567976edaa0f6b9b27d28875b8e9e18e8e877a032fa3b0"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "emi-letsdo-compat-1.8.1.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/15mc7dlf/emi-letsdo-compat-1.8.1.jar",
+        "sha512": "5522a59e11a1201d9a3c269813ab8083e9fdc926cc0f5f78f8ecea67ea474150260e731264ba5a870ec5c6e2742af83c6fb6850c8e004f739e86ac57bb2d9b29"
+      },
+      "1_8_1": {
+        "name": "emi-letsdo-compat-1.8.1.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/15mc7dlf/emi-letsdo-compat-1.8.1.jar",
+        "sha512": "5522a59e11a1201d9a3c269813ab8083e9fdc926cc0f5f78f8ecea67ea474150260e731264ba5a870ec5c6e2742af83c6fb6850c8e004f739e86ac57bb2d9b29"
+      },
+      "1_8": {
+        "name": "emi-letsdo-compat-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/KKmHxnri/emi-letsdo-compat-1.8.jar",
+        "sha512": "edc7048c4dfd87f50e135d4e6ca04abac9403c9d28a2d34e025e9d3a06424e40923b3db539afaf92a87974f51999ded3aeac63d2a604bc46c0b84a750beb2d1b"
+      },
+      "1_7": {
+        "name": "emi-letsdo-compat-1.7.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/3hv8aRHr/emi-letsdo-compat-1.7.jar",
+        "sha512": "03a4e1f9e025d03da9651b55a9a407adf9e0a063740dbbe44a4e902a8df22a51bcc1835029dcbbd532dd12ef46a1cc2a22399dd14849127f463189ba04dbda7d"
+      },
+      "1_5": {
+        "name": "emi-letsdo-compat-1.5.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/YBLEOtAW/emi-letsdo-compat-1.5.jar",
+        "sha512": "341298a8c212882b99f3664d44e6b70b80ef5fde109ad21d60d418eff7c266bd3cc903decf677f6a9e8ffbde016874f28256d827afacc56c65db03913672370b"
+      },
+      "1_4": {
+        "name": "emi-letsdo-compat-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/7p6BySyh/emi-letsdo-compat-1.4.jar",
+        "sha512": "332a2a1d26338daa8ccc646b6ad2c4044a7764346382025f27898820eb75220cdb37ca3767b97d7c22e777243b7de3b337250d398726f862179fb901ac27ef00"
+      },
+      "1_3": {
+        "name": "emi-letsdo-compat-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/5uUSIbBu/emi-letsdo-compat-1.3.jar",
+        "sha512": "3ed2231f1af79231fa7dfe40e485f5ee1b8a356ddf721e4011b2d53135c264199b818d974a372be9e988ebae51b65e1310f6d919c95aebc4d4a90f24510122fd"
+      },
+      "1_2": {
+        "name": "emi-letsdo-compat-fabric-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/k6hi4lMv/versions/NmIbaTJc/emi-letsdo-compat-fabric-1.2.jar",
+        "sha512": "39a8b60f401083ab1c2c52168747b5fa7881123dce25df5712bafae786fc90364cee4fd8b236630bb5567976edaa0f6b9b27d28875b8e9e18e8e877a032fa3b0"
+      }
+    }
+  }
+}
