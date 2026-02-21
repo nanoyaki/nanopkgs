@@ -17,13 +17,13 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "cosmic-ext-applet-privacy-indicator";
-  version = "0.2.0-unstable-2026-02-10";
+  version = "0.2.0-unstable-2026-02-20";
 
   src = fetchFromGitHub {
     owner = "D-Brox";
     repo = "cosmic-ext-applet-privacy-indicator";
-    rev = "e69833cf8b31813d5468da7eeea6311f1621d702";
-    hash = "sha256-LivssKbrzAO4kuoNcE6evs4etaiFgH0UWeOSzHtgd1A=";
+    rev = "925be4795c0134fe2eebb32c7d21c229148aa714";
+    hash = "sha256-Ev4LBGg3h8AWka+yDG2uh6Iy9l13t45Y/1aoSFXHMzQ=";
   };
 
   cargoDeps = rustPlatform.fetchCargoVendor {
