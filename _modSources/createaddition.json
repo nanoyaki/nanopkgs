@@ -11,15 +11,15 @@
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/J3uh8pqe/createaddition-fabric%2B1.20.1-1.2.3.jar",
         "sha512": "1b3547ef31fddfed5fdb9f9a822354b150462052212f1935c9c3bf4167390cb744ee56b18ff07ed19e706462b5e9bb3c7f4182fe71d9d0bab3ad1bbdeeb9ba40"
       },
-      "fabric1_2_1": {
-        "name": "createaddition-fabric+1.20.1-1.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/RsoAifnm/createaddition-fabric%2B1.20.1-1.2.1.jar",
-        "sha512": "791c8e4873f729f6a55e7b934b152b7a5c76381ee91cf0c4591258f5c9dc558611bac65d0f5aedcb68e1e83bc6d482bf4b7b7aa30fa07533854a5c5b8fa17a66"
-      },
       "fabric1_2_1c": {
         "name": "createaddition-fabric+1.20.1-1.2.1c.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/sf4kfWdG/createaddition-fabric%2B1.20.1-1.2.1c.jar",
         "sha512": "e285d7172486a18780e31bb60644e23f5855222e2d1e9b546001c32c2e39f15c0206acaad9f22bba28dc0ee0ca5bb6885728f4fccecc8bd66248830634d8ee7f"
+      },
+      "fabric1_2_1": {
+        "name": "createaddition-fabric+1.20.1-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/RsoAifnm/createaddition-fabric%2B1.20.1-1.2.1.jar",
+        "sha512": "791c8e4873f729f6a55e7b934b152b7a5c76381ee91cf0c4591258f5c9dc558611bac65d0f5aedcb68e1e83bc6d482bf4b7b7aa30fa07533854a5c5b8fa17a66"
       }
     },
     "1_19_2": {
@@ -117,9 +117,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "createaddition-1.20.1-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/SecVSw22/createaddition-1.20.1-1.3.1.jar",
-        "sha512": "d9fd62d5041670e3194848624672674b2ef23a88348f30968574803786da0a56b3d34a1ab7e542d6666cd3983d88fbedce08b2c56165a464fee7e3c383c07ad5"
+        "name": "createaddition-1.20.1-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar",
+        "sha512": "a34f5c3b0226069d2882a3e23ba0e364a78bc5d26983b0cecea8d998718f454d3238ab7c5b4b3ef1749b6f2b26a4e427839c7c32468558fa7a8edb0edc727d10"
+      },
+      "forge1_3_": {
+        "name": "createaddition-1.20.1-1.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar",
+        "sha512": "a34f5c3b0226069d2882a3e23ba0e364a78bc5d26983b0cecea8d998718f454d3238ab7c5b4b3ef1749b6f2b26a4e427839c7c32468558fa7a8edb0edc727d10"
       },
       "1_20_1-1_3_1": {
         "name": "createaddition-1.20.1-1.3.1.jar",
@@ -136,30 +141,30 @@
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/VTTLcYWM/createaddition-1.20.1-1.2.5.jar",
         "sha512": "be1d03082b2f404c7ebe93f0ad3995c8a65053f86624ef4b1ee5d5b697f62e68672f93c7e4f9bd6a50de69661b72b073be69f2ac1d1331b7f043f78caaf982ba"
       },
-      "1_20_1-1_2_4": {
-        "name": "createaddition-1.20.1-1.2.4.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9uDxUqCR/createaddition-1.20.1-1.2.4.jar",
-        "sha512": "64f298892e4590399f94bc0fee840183c4644801e322f4fb2fe72699810cd66cf66af9c3adb68229b6760fdd425c93be336cc1b70ce6257bd8503f847daac64b"
-      },
-      "1_20_1-1_2_4b": {
-        "name": "createaddition-1.20.1-1.2.4b.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/PV6XMVrk/createaddition-1.20.1-1.2.4b.jar",
-        "sha512": "3731b0205a623d126746d36a912839cf2ab3344ecb78248954ef93a3926925a2a3818fe4e53b0e22baaddad0934c2084140938b1f4ddf3afea2f0b2da228e6f9"
-      },
-      "1_20_1-1_2_4c": {
-        "name": "createaddition-1.20.1-1.2.4c.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/6hnkdvDW/createaddition-1.20.1-1.2.4c.jar",
-        "sha512": "83b76ed21e4932b8d1603dd94649194811e8c607dbf9372e6604d953bd354a6df722436f546ab307eddce451b58d2c60b10f21564c06efa4b7e6d067108effff"
+      "1_20_1-1_2_4e": {
+        "name": "createaddition-1.20.1-1.2.4e.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/4DW3pAsX/createaddition-1.20.1-1.2.4e.jar",
+        "sha512": "68d675fa7b546c5dc2778f54e074d84b1310449649ffd503d7b35b846bb725991417d6b2c3fa45de8243d5d38d33fbfbd533a34ef31a5aef5cbc04268dfaae11"
       },
       "1_20_1-1_2_4d": {
         "name": "createaddition-1.20.1-1.2.4d.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/eh2ccol5/createaddition-1.20.1-1.2.4d.jar",
         "sha512": "2958f434b67daf03665e35101ca5b08104daba0087e2be5175deebac24b08357321b796aafe4c62324f989c1ab4dba25984e864a595ba6d0fcc922adafac5a3f"
       },
-      "1_20_1-1_2_4e": {
-        "name": "createaddition-1.20.1-1.2.4e.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/4DW3pAsX/createaddition-1.20.1-1.2.4e.jar",
-        "sha512": "68d675fa7b546c5dc2778f54e074d84b1310449649ffd503d7b35b846bb725991417d6b2c3fa45de8243d5d38d33fbfbd533a34ef31a5aef5cbc04268dfaae11"
+      "1_20_1-1_2_4c": {
+        "name": "createaddition-1.20.1-1.2.4c.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/6hnkdvDW/createaddition-1.20.1-1.2.4c.jar",
+        "sha512": "83b76ed21e4932b8d1603dd94649194811e8c607dbf9372e6604d953bd354a6df722436f546ab307eddce451b58d2c60b10f21564c06efa4b7e6d067108effff"
+      },
+      "1_20_1-1_2_4b": {
+        "name": "createaddition-1.20.1-1.2.4b.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/PV6XMVrk/createaddition-1.20.1-1.2.4b.jar",
+        "sha512": "3731b0205a623d126746d36a912839cf2ab3344ecb78248954ef93a3926925a2a3818fe4e53b0e22baaddad0934c2084140938b1f4ddf3afea2f0b2da228e6f9"
+      },
+      "1_20_1-1_2_4": {
+        "name": "createaddition-1.20.1-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9uDxUqCR/createaddition-1.20.1-1.2.4.jar",
+        "sha512": "64f298892e4590399f94bc0fee840183c4644801e322f4fb2fe72699810cd66cf66af9c3adb68229b6760fdd425c93be336cc1b70ce6257bd8503f847daac64b"
       },
       "1_20_1-1_2_2": {
         "name": "createaddition-1.20.1-1.2.2.jar",
@@ -181,42 +186,22 @@
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/ic57hTDM/createaddition-1.20.1-1.1.0.jar",
         "sha512": "4395e6f0281d76c0fc8c5b3b7e0c5078afcc3640774a827f22e0af15aa0ae712eaf647350c8c967e9d4299dbe1bd0cb54749dff007e7bb4da0b2eb264eaf268a"
       },
-      "1_20_1-1_0_0": {
-        "name": "createaddition-1.20.1-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/ur7w515h/createaddition-1.20.1-1.0.0.jar",
-        "sha512": "6604709643d7b3627e75d20d9c318c59cfd2e0f1aa0303bbd3e84d68cc86562be2e0ea974b30981da257e808c6745f809cdf28fbe4032cff82d95f3314c8a6ed"
-      },
       "1_20_1-1_0_0b": {
         "name": "createaddition-1.20.1-1.0.0b.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/WzzNESVI/createaddition-1.20.1-1.0.0b.jar",
         "sha512": "65dc240d7006fa862dbe1d5205caf042700440de6fcba3ef0ba1adb2e6ecee70c62410d904a3885fb6ebcbf36c3c01cb04ab7cfb8ffaaaa5c7c6c85cded4bf3d"
       },
-      "forge1_3_": {
-        "name": "createaddition-1.20.1-1.3.3.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar",
-        "sha512": "a34f5c3b0226069d2882a3e23ba0e364a78bc5d26983b0cecea8d998718f454d3238ab7c5b4b3ef1749b6f2b26a4e427839c7c32468558fa7a8edb0edc727d10"
+      "1_20_1-1_0_0": {
+        "name": "createaddition-1.20.1-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/ur7w515h/createaddition-1.20.1-1.0.0.jar",
+        "sha512": "6604709643d7b3627e75d20d9c318c59cfd2e0f1aa0303bbd3e84d68cc86562be2e0ea974b30981da257e808c6745f809cdf28fbe4032cff82d95f3314c8a6ed"
       }
     },
     "1_19_2": {
       "latest": {
-        "name": "createaddition-1.19.2-20230527a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/329yaZQY/createaddition-1.19.2-20230527a.jar",
-        "sha512": "e0c68720670ae2e520cdfd48c18bed26c084e365317735a5d194f9d5efbff3e4b1d6c02318b9fa890c9be44911689765d1b815f9973a7e28bacca6cf15e3307e"
-      },
-      "forge20230527a": {
-        "name": "createaddition-1.19.2-20230527a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/329yaZQY/createaddition-1.19.2-20230527a.jar",
-        "sha512": "e0c68720670ae2e520cdfd48c18bed26c084e365317735a5d194f9d5efbff3e4b1d6c02318b9fa890c9be44911689765d1b815f9973a7e28bacca6cf15e3307e"
-      },
-      "forge20230411a": {
-        "name": "createaddition-1.19.2-20230411a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/STJRMuTj/createaddition-1.19.2-20230411a.jar",
-        "sha512": "6803d86edc303b5b47e33d1a2a674a98cfe898f46f2f662d26b3259deb6fee7097b84b824d721ed0fbb4a135ac1dceabf5918675cc19a968d7e3dcd22e767320"
-      },
-      "1_19_220230426a": {
-        "name": "createaddition-1.19.2-20230426a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/NWKNHur4/createaddition-1.19.2-20230426a.jar",
-        "sha512": "013d4fdb9a584c8e9158c8b5287ef6ca017b26ddb2899ec6a2a7013355dcc11642a9ca15834770c8688137b1a93028a983cad680bdcf2241dbe9f719f7f76e52"
+        "name": "createaddition-1.19.2-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/AjwN7Aq8/createaddition-1.19.2-1.2.2.jar",
+        "sha512": "a8e32e909f4389111773e4eb6f5ec44a8e2f2e6771f177db372e84b26adb33c0164ed4b029879483362354ef8fcbec161d033012f6efc99a6ae8257618c1c42d"
       },
       "1_19_2-1_2_2": {
         "name": "createaddition-1.19.2-1.2.2.jar",
@@ -242,13 +227,33 @@
         "name": "createaddition-1.19.2-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/AYUl0RYU/createaddition-1.19.2-1.0.0.jar",
         "sha512": "f03ea3e57174decc9d34c0e0c3e150dd0f634b765f131ba0901c9672edb6429f92aa806aeda6ffe7e05dd0d64247c3f43c98c5a6949d7ea3203ac3794d4310c5"
+      },
+      "forge20230527a": {
+        "name": "createaddition-1.19.2-20230527a.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/329yaZQY/createaddition-1.19.2-20230527a.jar",
+        "sha512": "e0c68720670ae2e520cdfd48c18bed26c084e365317735a5d194f9d5efbff3e4b1d6c02318b9fa890c9be44911689765d1b815f9973a7e28bacca6cf15e3307e"
+      },
+      "1_19_220230426a": {
+        "name": "createaddition-1.19.2-20230426a.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/NWKNHur4/createaddition-1.19.2-20230426a.jar",
+        "sha512": "013d4fdb9a584c8e9158c8b5287ef6ca017b26ddb2899ec6a2a7013355dcc11642a9ca15834770c8688137b1a93028a983cad680bdcf2241dbe9f719f7f76e52"
+      },
+      "forge20230411a": {
+        "name": "createaddition-1.19.2-20230411a.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/STJRMuTj/createaddition-1.19.2-20230411a.jar",
+        "sha512": "6803d86edc303b5b47e33d1a2a674a98cfe898f46f2f662d26b3259deb6fee7097b84b824d721ed0fbb4a135ac1dceabf5918675cc19a968d7e3dcd22e767320"
       }
     },
     "1_18_2": {
       "latest": {
-        "name": "createaddition-1.18.2-20230527a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/ESYFxtZC/createaddition-1.18.2-20230527a.jar",
-        "sha512": "e40a54ec6eb5e7f1f96a2a1552dfe130b487a0a4cd29f04fb6cb59b37e680b7eb4f5ab821e7a7a650d4465872a65ddcc34e631711abe6a24f6b4fec2518739b9"
+        "name": "createaddition-1.18.2-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/XNoZrlnx/createaddition-1.18.2-1.0.0.jar",
+        "sha512": "ce71625e79ea964e90caed9f88daa61e93c6dbb69b9a0a3256c9aa93fbefbaa570e026de8e57c9b67dfe8aa81a746a6ca2851f7c5493cf586dd0c10309a2733a"
+      },
+      "1_18_2-1_0_0": {
+        "name": "createaddition-1.18.2-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/XNoZrlnx/createaddition-1.18.2-1.0.0.jar",
+        "sha512": "ce71625e79ea964e90caed9f88daa61e93c6dbb69b9a0a3256c9aa93fbefbaa570e026de8e57c9b67dfe8aa81a746a6ca2851f7c5493cf586dd0c10309a2733a"
       },
       "forge20230527a": {
         "name": "createaddition-1.18.2-20230527a.jar",
@@ -264,25 +269,15 @@
         "name": "createaddition-1.18.2-20230411a.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/xJD8lq0O/createaddition-1.18.2-20230411a.jar",
         "sha512": "b70144c024a7328ec3f3ebf6efdbc0fb56d9cb620c41e57281ea0c85d2f57e579fa4bbe39902f7297b4aaf93e68371a44c1e8fe8f90de5e0603b4d78aa5c89fc"
-      },
-      "1_18_2-1_0_0": {
-        "name": "createaddition-1.18.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/XNoZrlnx/createaddition-1.18.2-1.0.0.jar",
-        "sha512": "ce71625e79ea964e90caed9f88daa61e93c6dbb69b9a0a3256c9aa93fbefbaa570e026de8e57c9b67dfe8aa81a746a6ca2851f7c5493cf586dd0c10309a2733a"
       }
     }
   },
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "createaddition-fabric+1.20.1-1.2.4.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar",
-        "sha512": "66bab7b3e0cada74d70cfc921d94f53759dd64189a261bcb7d75c5fd2818bbc375bcaa215d321c1c619092aff34ba56a94ec61e6868788d0e599913e7445341d"
-      },
-      "1_20_1-1_2_4": {
-        "name": "createaddition-fabric+1.20.1-1.2.4.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar",
-        "sha512": "66bab7b3e0cada74d70cfc921d94f53759dd64189a261bcb7d75c5fd2818bbc375bcaa215d321c1c619092aff34ba56a94ec61e6868788d0e599913e7445341d"
+        "name": "createaddition-fabric+1.20.1-1.3.4.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/KIAYldwh/createaddition-fabric%2B1.20.1-1.3.4.jar",
+        "sha512": "30183dc89d483feb1f84647661ca97ef9bcc917a50dc1a38d5d034d176339fae3cc92fce7d60ae73b0bdb5134b7dfe4098e4237d818bc64d304469bb0e6cff10"
       },
       "fabric1_3_4": {
         "name": "createaddition-fabric+1.20.1-1.3.4.jar",
@@ -299,25 +294,30 @@
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/ybLiaryg/createaddition-fabric%2B1.20.1-1.2.6.jar",
         "sha512": "f4ac98d196cef9cc0bfeac7d4070a60376b83cc5c441820a2d602443e7726aef8101fa5bbd5b60ea10ed926fc2770eff3fa5dda695268d1a96f16f4399b0bf77"
       },
+      "1_20_1-1_2_4": {
+        "name": "createaddition-fabric+1.20.1-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar",
+        "sha512": "66bab7b3e0cada74d70cfc921d94f53759dd64189a261bcb7d75c5fd2818bbc375bcaa215d321c1c619092aff34ba56a94ec61e6868788d0e599913e7445341d"
+      },
       "fabric1_2_3": {
         "name": "createaddition-fabric+1.20.1-1.2.3.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/J3uh8pqe/createaddition-fabric%2B1.20.1-1.2.3.jar",
         "sha512": "1b3547ef31fddfed5fdb9f9a822354b150462052212f1935c9c3bf4167390cb744ee56b18ff07ed19e706462b5e9bb3c7f4182fe71d9d0bab3ad1bbdeeb9ba40"
       },
-      "fabric1_2_1": {
-        "name": "createaddition-fabric+1.20.1-1.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/RsoAifnm/createaddition-fabric%2B1.20.1-1.2.1.jar",
-        "sha512": "791c8e4873f729f6a55e7b934b152b7a5c76381ee91cf0c4591258f5c9dc558611bac65d0f5aedcb68e1e83bc6d482bf4b7b7aa30fa07533854a5c5b8fa17a66"
+      "fabric1_2_1c": {
+        "name": "createaddition-fabric+1.20.1-1.2.1c.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/sf4kfWdG/createaddition-fabric%2B1.20.1-1.2.1c.jar",
+        "sha512": "e285d7172486a18780e31bb60644e23f5855222e2d1e9b546001c32c2e39f15c0206acaad9f22bba28dc0ee0ca5bb6885728f4fccecc8bd66248830634d8ee7f"
       },
       "fabric1_2_1b": {
         "name": "createaddition-fabric+1.20.1-1.2.1b.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/Emg6aiZC/createaddition-fabric%2B1.20.1-1.2.1b.jar",
         "sha512": "9c27f5b566c54faac0c1c5120d87975251a30d97f62330373f0c1ef13f9297e1229e385938e1b0f6ac472c0dc8f8036f9b7e30c051cc4d518428679cbc072ad4"
       },
-      "fabric1_2_1c": {
-        "name": "createaddition-fabric+1.20.1-1.2.1c.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/sf4kfWdG/createaddition-fabric%2B1.20.1-1.2.1c.jar",
-        "sha512": "e285d7172486a18780e31bb60644e23f5855222e2d1e9b546001c32c2e39f15c0206acaad9f22bba28dc0ee0ca5bb6885728f4fccecc8bd66248830634d8ee7f"
+      "fabric1_2_1": {
+        "name": "createaddition-fabric+1.20.1-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/RsoAifnm/createaddition-fabric%2B1.20.1-1.2.1.jar",
+        "sha512": "791c8e4873f729f6a55e7b934b152b7a5c76381ee91cf0c4591258f5c9dc558611bac65d0f5aedcb68e1e83bc6d482bf4b7b7aa30fa07533854a5c5b8fa17a66"
       },
       "fabric0_9_0": {
         "name": "createaddition-fabric+1.20.1-0.9.0.jar",
@@ -327,24 +327,9 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "createaddition-fabric+1.19.2-20230508b.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/j9xZFkpI/createaddition-fabric%2B1.19.2-20230508b.jar",
-        "sha512": "041c41dc86d4d7b69fe1a546847ab4bcc60d47ffc16f0c674c7d7331743dbe37213da4a37ae10b8f6ab02daaee9d4827a0beccfe053a6a3efcf88a34ebe7f463"
-      },
-      "fabric20230508b": {
-        "name": "createaddition-fabric+1.19.2-20230508b.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/j9xZFkpI/createaddition-fabric%2B1.19.2-20230508b.jar",
-        "sha512": "041c41dc86d4d7b69fe1a546847ab4bcc60d47ffc16f0c674c7d7331743dbe37213da4a37ae10b8f6ab02daaee9d4827a0beccfe053a6a3efcf88a34ebe7f463"
-      },
-      "fabric20230211a": {
-        "name": "createaddition-fabric+1.19.2-20230211a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/wvzuaLOF/createaddition-fabric%2B1.19.2-20230211a.jar",
-        "sha512": "2a76b43216893c964c0f717f20545642c2f88c430319ebc82d0a66596e44de666ee31143937290d19803fb71ce131a7b9950ba299acb0e5985a687a424898a5d"
-      },
-      "1_19_2-20230723a": {
-        "name": "createaddition-fabric+1.19.2-20230723a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/s1jbxOUy/createaddition-fabric%2B1.19.2-20230723a.jar",
-        "sha512": "816a1550b18f66a00fc27e3eb2404e5d5386a1d548db1eb401babb93b81bf174e5328099c0259581674a79d4f3aa84ad55380b56d7dce6d4627d8611321937ae"
+        "name": "createaddition-fabric+1.19.2-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/sAZf2bij/createaddition-fabric%2B1.19.2-1.2.3.jar",
+        "sha512": "ea0f97fb970d3b0b5864129109af48b65c0ce72fc20abdb36086e0455714e48c07e94680b524fd9f1bb7c890ffd51bfceb1a19b9bb231e31dd3f82796bb1c5e2"
       },
       "fabric1_2_3": {
         "name": "createaddition-fabric+1.19.2-1.2.3.jar",
@@ -360,13 +345,33 @@
         "name": "createaddition-fabric+1.19.2-1.2.1.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/f4IFhAfl/createaddition-fabric%2B1.19.2-1.2.1.jar",
         "sha512": "aa66d9f3ad3889615b980d96b23f07cc708b2ffb1ae4e960b31073b5da147b7f39048efce2c25a337fe0510d7c23f9787e03b9450602cfcedc29251a11fd8d06"
+      },
+      "1_19_2-20230723a": {
+        "name": "createaddition-fabric+1.19.2-20230723a.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/s1jbxOUy/createaddition-fabric%2B1.19.2-20230723a.jar",
+        "sha512": "816a1550b18f66a00fc27e3eb2404e5d5386a1d548db1eb401babb93b81bf174e5328099c0259581674a79d4f3aa84ad55380b56d7dce6d4627d8611321937ae"
+      },
+      "fabric20230508b": {
+        "name": "createaddition-fabric+1.19.2-20230508b.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/j9xZFkpI/createaddition-fabric%2B1.19.2-20230508b.jar",
+        "sha512": "041c41dc86d4d7b69fe1a546847ab4bcc60d47ffc16f0c674c7d7331743dbe37213da4a37ae10b8f6ab02daaee9d4827a0beccfe053a6a3efcf88a34ebe7f463"
+      },
+      "fabric20230211a": {
+        "name": "createaddition-fabric+1.19.2-20230211a.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/wvzuaLOF/createaddition-fabric%2B1.19.2-20230211a.jar",
+        "sha512": "2a76b43216893c964c0f717f20545642c2f88c430319ebc82d0a66596e44de666ee31143937290d19803fb71ce131a7b9950ba299acb0e5985a687a424898a5d"
       }
     },
     "1_18_2": {
       "latest": {
-        "name": "createaddition-fabric+1.18.2-20230508b.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/7PnDX55m/createaddition-fabric%2B1.18.2-20230508b.jar",
-        "sha512": "2e1513ca2c754949474441b6963a3a77a6ea43fb3a561ea3df54f0678bea27c420f665fc1e77da61a9de4574833e7372c042833586d8473b99101674f2745de2"
+        "name": "createaddition-fabric-1.18.2-20230704a.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/BwU7P7Cf/createaddition-fabric-1.18.2-20230704a.jar",
+        "sha512": "768f8ca1bce31d5d68cf0a385239107f86187055fc6c102f647fdac8b149cbc6fbe90c26d3124dc7edc9287dce4362fa1adbf965da8556d8aa9418fc214b795f"
+      },
+      "1_18_2-20230704a": {
+        "name": "createaddition-fabric-1.18.2-20230704a.jar",
+        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/BwU7P7Cf/createaddition-fabric-1.18.2-20230704a.jar",
+        "sha512": "768f8ca1bce31d5d68cf0a385239107f86187055fc6c102f647fdac8b149cbc6fbe90c26d3124dc7edc9287dce4362fa1adbf965da8556d8aa9418fc214b795f"
       },
       "fabric20230508b": {
         "name": "createaddition-fabric+1.18.2-20230508b.jar",
@@ -377,11 +382,6 @@
         "name": "createaddition-fabric+1.18.2-20230211a.jar",
         "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/gkBBLAPM/createaddition-fabric%2B1.18.2-20230211a.jar",
         "sha512": "3e080d6eda1b2cee39a84a8f6fd0548eda8c0091dc025487676431e7fa9365b50dfa3b9c6b64aeea7daecf5a5f66e39935056b6757b0fffcde43b97b2f049116"
-      },
-      "1_18_2-20230704a": {
-        "name": "createaddition-fabric-1.18.2-20230704a.jar",
-        "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/BwU7P7Cf/createaddition-fabric-1.18.2-20230704a.jar",
-        "sha512": "768f8ca1bce31d5d68cf0a385239107f86187055fc6c102f647fdac8b149cbc6fbe90c26d3124dc7edc9287dce4362fa1adbf965da8556d8aa9418fc214b795f"
       }
     }
   }

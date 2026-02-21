@@ -92,14 +92,14 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "createnuclear-1.4.0-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/z611fdf7/versions/FMrNquFh/createnuclear-1.4.0-fabric.jar",
-        "sha512": "a6b1a8552ad33e46bf9da8c8b87f344f83e614467931ec335c42af86ad5ae21db39e9e781e6fef07859ec8d8ff3e5352dca7eb7a83815828d98bf7587498cf5c"
-      },
-      "1_20_1": {
         "name": "createnuclear-1.4.1-fabric.jar",
         "url": "https://cdn.modrinth.com/data/z611fdf7/versions/KArjaK66/createnuclear-1.4.1-fabric.jar",
         "sha512": "037d42011e19b9da7f702f0fcc58d5ee75341b5693d56d3d90dcbb9a4f39c774681cdabc418bff795e91ca7278a2e0d8125fe82afbb4e2926ffb52b49a37f000"
+      },
+      "1_20_1": {
+        "name": "createnuclear-1.4.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/z611fdf7/versions/FMrNquFh/createnuclear-1.4.0-fabric.jar",
+        "sha512": "a6b1a8552ad33e46bf9da8c8b87f344f83e614467931ec335c42af86ad5ae21db39e9e781e6fef07859ec8d8ff3e5352dca7eb7a83815828d98bf7587498cf5c"
       },
       "1_3_0": {
         "name": "createnuclear-1.3.0-fabric.jar",
@@ -141,15 +141,15 @@
         "url": "https://cdn.modrinth.com/data/z611fdf7/versions/8S0zIaEM/createnuclear-1.0.1.jar",
         "sha512": "f39040e2df085689b08fed671459610fcb8eda96dc876d11b5c680d12929e843a2b42a01d88c16c4227c4944e1aba642c6778c343a2beebefe3548617bbe4d3e"
       },
-      "1_0_0-rc01": {
-        "name": "createnuclear-1.0.0-rc-01-local+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/z611fdf7/versions/WDEL0qsl/createnuclear-1.0.0-rc-01-local%2B1.20.1.jar",
-        "sha512": "9857af78ee715317d7b7bc8a5ac1de40d3511b08aeecfbcb7289d5a1fe34f41fdcc552fc8fdf71c46e8b57a6b6899582f1b0a6ebcd723619a78e79cf1c1f9ffb"
-      },
       "1_0_0": {
         "name": "createnuclear-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/z611fdf7/versions/lr7D4F6V/createnuclear-1.0.0.jar",
         "sha512": "85016b9119ac05cccc4d7b25dc7e077375318f7faac9b473b5f60f74a26f8473159bf3e97784c1b5c0c7dc0b5c889417f265afecef2697f1ec5ae7cadece9488"
+      },
+      "1_0_0-rc01": {
+        "name": "createnuclear-1.0.0-rc-01-local+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/z611fdf7/versions/WDEL0qsl/createnuclear-1.0.0-rc-01-local%2B1.20.1.jar",
+        "sha512": "9857af78ee715317d7b7bc8a5ac1de40d3511b08aeecfbcb7289d5a1fe34f41fdcc552fc8fdf71c46e8b57a6b6899582f1b0a6ebcd723619a78e79cf1c1f9ffb"
       }
     }
   }

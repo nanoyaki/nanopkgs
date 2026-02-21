@@ -699,15 +699,15 @@
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.1.1/Modern-Industrialization-1.1.1.jar",
         "sha512": "e5f23c7d9475b668bb8eb96152185176f06dee7bfea798545b87c6ad84c8ce19452e31f7ad35c0061feaf3a118aef465fcea317421ad30014032f60367218ef3"
       },
-      "1_1_0-alpha_01": {
-        "name": "Modern-Industrialization-1.1.0-alpha.01.jar",
-        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.1.0-alpha.01/Modern-Industrialization-1.1.0-alpha.01.jar",
-        "sha512": "ab08ab93ee75e8280df2df761bbfb78a367115977a467d26ceb1458d83e4102bb954013ed0d20011715e5ea70aca2f1e315b10947442bd0808211c274c7ea0b4"
-      },
       "1_1_0": {
         "name": "Modern-Industrialization-1.1.0.jar",
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.1.0/Modern-Industrialization-1.1.0.jar",
         "sha512": "c5ba9b0da7e38215376f65e887f521235c253592221dd91d223e821e869cb9489261a7fa03d5ce7d986be988e31a86abab305f7239a40bb6ed9bae16f0e2a9c3"
+      },
+      "1_1_0-alpha_01": {
+        "name": "Modern-Industrialization-1.1.0-alpha.01.jar",
+        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.1.0-alpha.01/Modern-Industrialization-1.1.0-alpha.01.jar",
+        "sha512": "ab08ab93ee75e8280df2df761bbfb78a367115977a467d26ceb1458d83e4102bb954013ed0d20011715e5ea70aca2f1e315b10947442bd0808211c274c7ea0b4"
       }
     },
     "1_18_1": {
@@ -741,15 +741,15 @@
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.1/Modern-Industrialization-1.0.1.jar",
         "sha512": "d9636140ca30402ee6afe913e951418b6fd2d47571c229a88b2a11eb505c6a74186959e8efe973025e333b4ca9a629ef6bbd28ca3aba151efcd84bff413f3fae"
       },
-      "1_0_0-alpha_06": {
-        "name": "Modern-Industrialization-1.0.0-alpha.06.jar",
-        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.0-alpha.06/Modern-Industrialization-1.0.0-alpha.06.jar",
-        "sha512": "3ed77e5e606c4a1f6ed3da9bc425ffec4636839ab7b3428796c76578d96751478c32021dadaa91bcbb7f69e25e27c95d65a1409806d753c88fb696a55c4e4f68"
-      },
       "1_0_0": {
         "name": "Modern-Industrialization-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.0/Modern-Industrialization-1.0.0.jar",
         "sha512": "a06f179cc9555089f219eb1a25cf0b6593dc7a6a757336b706d52f18e6e02c4c9a058351b69aa9a7fcc92d7ba4c624940587e83b9081683ae71efef1dc68b9d4"
+      },
+      "1_0_0-alpha_06": {
+        "name": "Modern-Industrialization-1.0.0-alpha.06.jar",
+        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.0-alpha.06/Modern-Industrialization-1.0.0-alpha.06.jar",
+        "sha512": "3ed77e5e606c4a1f6ed3da9bc425ffec4636839ab7b3428796c76578d96751478c32021dadaa91bcbb7f69e25e27c95d65a1409806d753c88fb696a55c4e4f68"
       }
     },
     "1_18": {
@@ -783,6 +783,11 @@
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.1/Modern-Industrialization-1.0.1.jar",
         "sha512": "d9636140ca30402ee6afe913e951418b6fd2d47571c229a88b2a11eb505c6a74186959e8efe973025e333b4ca9a629ef6bbd28ca3aba151efcd84bff413f3fae"
       },
+      "1_0_0": {
+        "name": "Modern-Industrialization-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.0/Modern-Industrialization-1.0.0.jar",
+        "sha512": "a06f179cc9555089f219eb1a25cf0b6593dc7a6a757336b706d52f18e6e02c4c9a058351b69aa9a7fcc92d7ba4c624940587e83b9081683ae71efef1dc68b9d4"
+      },
       "1_0_0-alpha_06": {
         "name": "Modern-Industrialization-1.0.0-alpha.06.jar",
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.0-alpha.06/Modern-Industrialization-1.0.0-alpha.06.jar",
@@ -802,11 +807,6 @@
         "name": "Modern-Industrialization-1.0.0-alpha.03.jar",
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.0-alpha.03/Modern-Industrialization-1.0.0-alpha.03.jar",
         "sha512": "ea36eaabf490b2e2d5846d4661c570f9b49f946bf22eb7c81c598226830fa17a9b92e27e9f538cbbfb3db57ec030a3020d5a104ecae0b1315954130bf29cebc8"
-      },
-      "1_0_0": {
-        "name": "Modern-Industrialization-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/1.0.0/Modern-Industrialization-1.0.0.jar",
-        "sha512": "a06f179cc9555089f219eb1a25cf0b6593dc7a6a757336b706d52f18e6e02c4c9a058351b69aa9a7fcc92d7ba4c624940587e83b9081683ae71efef1dc68b9d4"
       }
     },
     "1_17_1": {
@@ -840,20 +840,25 @@
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.7.1/Modern-Industrialization-0.7.1.jar",
         "sha512": "cffeabe1aedfb24fb293763087f789515ebfcfa162d55393abf36ff206024396c8d26ea783f8d65add51b832cacb0cedcb9b467b8f5acb517f6f5ae0549d5fc6"
       },
-      "0_7_0-alpha_01": {
-        "name": "Modern-Industrialization-0.7.0-alpha.01.jar",
-        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.7.0-alpha.01/Modern-Industrialization-0.7.0-alpha.01.jar",
-        "sha512": "b75806bd420b4bb5af8e337400ca627e30e15c3a47545d8a8ff2abe04e12e2cb8f7728d64c523de5b5b4aa02018da2a71cdbd31334fdab3444255e4f2083908a"
-      },
       "0_7_0": {
         "name": "Modern-Industrialization-0.7.0.jar",
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.7.0/Modern-Industrialization-0.7.0.jar",
         "sha512": "adc975cbeafe10dd583556e6d6c6290a0430e294c28cd42c98af5d864ecb017fc94d326a38b08671710440a015bc4b96c7a994416dcf0b5abd783d3c3a890301"
       },
+      "0_7_0-alpha_01": {
+        "name": "Modern-Industrialization-0.7.0-alpha.01.jar",
+        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.7.0-alpha.01/Modern-Industrialization-0.7.0-alpha.01.jar",
+        "sha512": "b75806bd420b4bb5af8e337400ca627e30e15c3a47545d8a8ff2abe04e12e2cb8f7728d64c523de5b5b4aa02018da2a71cdbd31334fdab3444255e4f2083908a"
+      },
       "0_6_1": {
         "name": "Modern-Industrialization-0.6.1.jar",
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.6.1/Modern-Industrialization-0.6.1.jar",
         "sha512": "46fd2830ca92f27c64ad8f1a9537327bb1dbcdec6d67ce22022ea47680afe390f93e4639998c8d77e3e32ccef342b9d8bc0ff91a0435b00b680f079e703cb2de"
+      },
+      "0_6_0": {
+        "name": "Modern-Industrialization-0.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.6.0/Modern-Industrialization-0.6.0.jar",
+        "sha512": "595f5c8a0a854237ed4ddcae10055b9f17e87950764e8be79536232f7bc927080412c84f908057489950c09aa1ac2a2bc0ed82f9f75136e8e6b1eb4358e94621"
       },
       "0_6_0-alpha_02": {
         "name": "Modern-Industrialization-0.6.0-alpha.02.jar",
@@ -864,11 +869,6 @@
         "name": "Modern-Industrialization-0.6.0-alpha.01.jar",
         "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.6.0-alpha.01/Modern-Industrialization-0.6.0-alpha.01.jar",
         "sha512": "ff685fe550c35cea96e67d68c21f639bb9cf697a0f1dc98e13579541e7f68947cdadd1fe664409ecb467e7b9374cbc3f2e2e3169820f924836ab417cc2e5f580"
-      },
-      "0_6_0": {
-        "name": "Modern-Industrialization-0.6.0.jar",
-        "url": "https://cdn.modrinth.com/data/Gov5Dboq/versions/0.6.0/Modern-Industrialization-0.6.0.jar",
-        "sha512": "595f5c8a0a854237ed4ddcae10055b9f17e87950764e8be79536232f7bc927080412c84f908057489950c09aa1ac2a2bc0ed82f9f75136e8e6b1eb4358e94621"
       },
       "0_5_12": {
         "name": "Modern-Industrialization-0.5.12.jar",

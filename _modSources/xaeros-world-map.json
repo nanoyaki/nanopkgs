@@ -447,9 +447,34 @@
     },
     "1_21": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Fabric_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yz0BNgrU/XaerosWorldMap_1.40.2_Fabric_1.21.jar",
-        "sha512": "b9838f013103b9187de3928d7612988b311fe110ab57d57bc945d03ba8d8687c1746268eea088c0cebc9014d6c2c37954f8b045a7f07aafcf22689f8469f2e70"
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e"
+      },
+      "fabric_1-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e"
+      },
+      "fabric_1-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nNEMIqdv/xaeroworldmap-fabric-1.21.1-1.40.10.jar",
+        "sha512": "430e2299f25f26bb04a7035500c19c3a267b397b9ffc0fb6a7c73a9b97c1e160b028d2c3336cd1ec35593b82e2fb8d36528da86a59dfcd1239c9ce396da21051"
+      },
+      "fabric_1-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vA8JDnKu/xaeroworldmap-fabric-1.21.1-1.40.8.jar",
+        "sha512": "d4ef3775a2dea52056733d2dfb01e2903406adf267252f4b7ff73365175d454ac3b3b4676ade28299223dbbb61a3b5b202844847a183b18e158bba6f0d74608e"
+      },
+      "fabric_1-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hT5eHHLt/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
+        "sha512": "4f86dc8c54ff49b366ab1c3842599e6e0882bb471385b2aa5e954cf81a66a585284f41143e0405458530c106d9955220e65b8313aca56c3ec8124c6ddb60905a"
+      },
+      "fabric_1-1_40_4": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/c0aUvTvJ/xaeroworldmap-fabric-1.21.1-1.40.4.jar",
+        "sha512": "a5bcc70eed3b7e625aa03d4792148815754f4121cffc201596f36b61ad536c0d5e09e5ea3005ca859c36e9d0367c5ebf2d86fc6a33f9fb4e632bdd60f14b4e45"
       },
       "1_40_2_Fabric_": {
         "name": "XaerosWorldMap_1.40.2_Fabric_1.21.jar",
@@ -485,31 +510,6 @@
         "name": "XaerosWorldMap_1.38.8_Fabric_1.21.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ekubtdIk/XaerosWorldMap_1.38.8_Fabric_1.21.jar",
         "sha512": "c5f26eb4c9808d983ab255decf42fb1b0b06c37bb85da381f26afc7995120447fe4a40d5902f28b7c44a4f50a0355ab8dabf8d570287624c807969ca9bc211be"
-      },
-      "fabric_1-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
-        "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e"
-      },
-      "fabric_1-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nNEMIqdv/xaeroworldmap-fabric-1.21.1-1.40.10.jar",
-        "sha512": "430e2299f25f26bb04a7035500c19c3a267b397b9ffc0fb6a7c73a9b97c1e160b028d2c3336cd1ec35593b82e2fb8d36528da86a59dfcd1239c9ce396da21051"
-      },
-      "fabric_1-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vA8JDnKu/xaeroworldmap-fabric-1.21.1-1.40.8.jar",
-        "sha512": "d4ef3775a2dea52056733d2dfb01e2903406adf267252f4b7ff73365175d454ac3b3b4676ade28299223dbbb61a3b5b202844847a183b18e158bba6f0d74608e"
-      },
-      "fabric_1-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hT5eHHLt/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
-        "sha512": "4f86dc8c54ff49b366ab1c3842599e6e0882bb471385b2aa5e954cf81a66a585284f41143e0405458530c106d9955220e65b8313aca56c3ec8124c6ddb60905a"
-      },
-      "fabric_1-1_40_4": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/c0aUvTvJ/xaeroworldmap-fabric-1.21.1-1.40.4.jar",
-        "sha512": "a5bcc70eed3b7e625aa03d4792148815754f4121cffc201596f36b61ad536c0d5e09e5ea3005ca859c36e9d0367c5ebf2d86fc6a33f9fb4e632bdd60f14b4e45"
       }
     },
     "1_20_6": {
@@ -707,9 +707,34 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ciwrnpWQ/XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
-        "sha512": "d26d86161c931f5804cb60af88e10e3807beb8e621ebf035914ec15cb740eadcb8845262d430ae0139d7870a8f969e851a73ed8ffee8b2dca1e01d891fee514c"
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fYGpJyOr/xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "sha512": "d025a32caf8d25dffe358a578a2067ce4e1c6bd4127d6343cf757a43115da5be37ba69f5f43a73f3cb9ce6871fd204a67bb20f6edc5d4b1f0fb848293edac289"
+      },
+      "fabric-1_20_4-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fYGpJyOr/xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "sha512": "d025a32caf8d25dffe358a578a2067ce4e1c6bd4127d6343cf757a43115da5be37ba69f5f43a73f3cb9ce6871fd204a67bb20f6edc5d4b1f0fb848293edac289"
+      },
+      "fabric-1_20_4-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QLJfyyBI/xaeroworldmap-fabric-1.20.4-1.40.10.jar",
+        "sha512": "d803de7e2d37e95c38f9c9cd434aede84880e3cd3425cc28593c8b7a7ede1e6783a46b01fb968683ae9a5591c8ef6a30079655f4117ae856b5b1a7765c154df5"
+      },
+      "fabric-1_20_4-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/PyaCaekR/xaeroworldmap-fabric-1.20.4-1.40.8.jar",
+        "sha512": "d3bb38bc8d202d92f653e9cd4123708dfcb3eeb21be98456df5b787425e4fd9e924fe8b7015022cd24bde72a7f80bad5d680a12b7036a40366a67ac8620ca083"
+      },
+      "fabric-1_20_4-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YwlTyfWy/xaeroworldmap-fabric-1.20.4-1.40.6.jar",
+        "sha512": "5ab04eacd173d6eed5776ac4933c593c0a04dd3ea66d4f6bed2c54e906cd3048eb33fca9cf6633c0c6038bba580267643bdd31cc903b24e27830d3698bd3c21e"
+      },
+      "fabric-1_20_4-1_40_4": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/OUUxTm9e/xaeroworldmap-fabric-1.20.4-1.40.4.jar",
+        "sha512": "c8cfdd1a62505f20a61f1c5cd2e2cac052eaef164c0589ff276ae0edcb40a9cea7aafce9cfe124f3bdcf774e1aa4e2c11293c5fec6925a2335dd5ba6d8c080bd"
       },
       "1_38_4_Fabric_1_20_4": {
         "name": "XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
@@ -755,31 +780,6 @@
         "name": "XaerosWorldMap_1.37.2_Fabric_1.20.3.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QPu5GIcD/XaerosWorldMap_1.37.2_Fabric_1.20.3.jar",
         "sha512": "71ec5b0ad809f867ffe469ab9518350f50765263cb234bbf363e3e1d3ec3e2cf9006acf0b91f852a93d412a5f9819381f9fad84b658c79da5b666782628b1fa5"
-      },
-      "fabric-1_20_4-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fYGpJyOr/xaeroworldmap-fabric-1.20.4-1.40.11.jar",
-        "sha512": "d025a32caf8d25dffe358a578a2067ce4e1c6bd4127d6343cf757a43115da5be37ba69f5f43a73f3cb9ce6871fd204a67bb20f6edc5d4b1f0fb848293edac289"
-      },
-      "fabric-1_20_4-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QLJfyyBI/xaeroworldmap-fabric-1.20.4-1.40.10.jar",
-        "sha512": "d803de7e2d37e95c38f9c9cd434aede84880e3cd3425cc28593c8b7a7ede1e6783a46b01fb968683ae9a5591c8ef6a30079655f4117ae856b5b1a7765c154df5"
-      },
-      "fabric-1_20_4-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/PyaCaekR/xaeroworldmap-fabric-1.20.4-1.40.8.jar",
-        "sha512": "d3bb38bc8d202d92f653e9cd4123708dfcb3eeb21be98456df5b787425e4fd9e924fe8b7015022cd24bde72a7f80bad5d680a12b7036a40366a67ac8620ca083"
-      },
-      "fabric-1_20_4-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YwlTyfWy/xaeroworldmap-fabric-1.20.4-1.40.6.jar",
-        "sha512": "5ab04eacd173d6eed5776ac4933c593c0a04dd3ea66d4f6bed2c54e906cd3048eb33fca9cf6633c0c6038bba580267643bdd31cc903b24e27830d3698bd3c21e"
-      },
-      "fabric-1_20_4-1_40_4": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/OUUxTm9e/xaeroworldmap-fabric-1.20.4-1.40.4.jar",
-        "sha512": "c8cfdd1a62505f20a61f1c5cd2e2cac052eaef164c0589ff276ae0edcb40a9cea7aafce9cfe124f3bdcf774e1aa4e2c11293c5fec6925a2335dd5ba6d8c080bd"
       }
     },
     "1_20_2": {
@@ -1045,9 +1045,29 @@
     },
     "1_20": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Fabric_1.20.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yckp3FUK/XaerosWorldMap_1.40.2_Fabric_1.20.jar",
-        "sha512": "37ce31f42c6b1f8c4b1a9b7a5bf17a4533aeb8a22c1c84e879beecb7ba7e0ec2cc6e5430e2119f350921bbb637fbc38cb54b09313ebd6004f6a13fa43d4a5e61"
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6WcEeMbU/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "sha512": "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc7160c7e7a6252abdc5bfa9b55c98ef6d12b6b2c3c46c443f507664591c"
+      },
+      "fabric_1-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6WcEeMbU/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "sha512": "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc7160c7e7a6252abdc5bfa9b55c98ef6d12b6b2c3c46c443f507664591c"
+      },
+      "fabric_1-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/erCjxXmK/xaeroworldmap-fabric-1.20.1-1.40.10.jar",
+        "sha512": "e25b66ecea7c7afd88b50ffae45ece59d80d7695fe44e5fc08d099e3fdc9d8e7af7ec7eb9e650f08060ffae57b7747f7a250523683e48a393c8044c21d677c69"
+      },
+      "fabric_1-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9lt0ikbj/xaeroworldmap-fabric-1.20.1-1.40.8.jar",
+        "sha512": "24cd5f3b0e21b59ad70f6e2f59f526a3c56e3c5cb0974ab899e0072d928e03cef16a26af1fc8bd160413b2ec0d7eb7c85777af442b09143e485ebb0e62fb05d5"
+      },
+      "fabric_1-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qNqsa3I3/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+        "sha512": "a29a6dfdd537425f9729c3f7acb5a1766d02d11919fceb988a82c702bdedf46e90b9ffffc417b179b43625395e48e2a5e350c6117358b19a571f46e06c767346"
       },
       "1_40_2_Fabric_": {
         "name": "XaerosWorldMap_1.40.2_Fabric_1.20.jar",
@@ -1183,26 +1203,6 @@
         "name": "XaerosWorldMap_1.30.3_Fabric_1.20.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/oOy5ndJf/XaerosWorldMap_1.30.3_Fabric_1.20.jar",
         "sha512": "c9891422bd2e57764d2df90901b7bec4bdb293c8bf1c3d9b9f234472165e026c0f8fc1f1afc9aa955b71fd00faa91ea81c97c6fe849ebade55d1ac07730847e0"
-      },
-      "fabric_1-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6WcEeMbU/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
-        "sha512": "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc7160c7e7a6252abdc5bfa9b55c98ef6d12b6b2c3c46c443f507664591c"
-      },
-      "fabric_1-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/erCjxXmK/xaeroworldmap-fabric-1.20.1-1.40.10.jar",
-        "sha512": "e25b66ecea7c7afd88b50ffae45ece59d80d7695fe44e5fc08d099e3fdc9d8e7af7ec7eb9e650f08060ffae57b7747f7a250523683e48a393c8044c21d677c69"
-      },
-      "fabric_1-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9lt0ikbj/xaeroworldmap-fabric-1.20.1-1.40.8.jar",
-        "sha512": "24cd5f3b0e21b59ad70f6e2f59f526a3c56e3c5cb0974ab899e0072d928e03cef16a26af1fc8bd160413b2ec0d7eb7c85777af442b09143e485ebb0e62fb05d5"
-      },
-      "fabric_1-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qNqsa3I3/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
-        "sha512": "a29a6dfdd537425f9729c3f7acb5a1766d02d11919fceb988a82c702bdedf46e90b9ffffc417b179b43625395e48e2a5e350c6117358b19a571f46e06c767346"
       }
     },
     "1_19_4": {
@@ -1623,9 +1623,34 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Fabric_1.19.1.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MeUbkNXl/XaerosWorldMap_1.40.2_Fabric_1.19.1.jar",
-        "sha512": "d48b8f31e122cbf0bf781ef0cfcb12ca038a638b3df9a4a236bbf9fd588365bee641c4cf0abaef66b6ac60c226bca8dba2057364ce884454c036af4bd5f1c70f"
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kjlyBkAo/xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "sha512": "54ce45b2978dc4f2ef298741410aa2621cf31303de277c26ceff10ce91f66d726ba1d901d281b657b74d449e9fe9d4822091f19dd45e87a7409eea34b2f42886"
+      },
+      "fabric-1_19_2-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kjlyBkAo/xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "sha512": "54ce45b2978dc4f2ef298741410aa2621cf31303de277c26ceff10ce91f66d726ba1d901d281b657b74d449e9fe9d4822091f19dd45e87a7409eea34b2f42886"
+      },
+      "fabric-1_19_2-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hKPpZCtN/xaeroworldmap-fabric-1.19.2-1.40.10.jar",
+        "sha512": "30db9e6a91f5d60420bbd45bd6449a425e176433521b9675ac68a0a0ecb49bdf309853a6bd949350faa33981fd25f1541fefc281c97030738b2c8b1de62b0273"
+      },
+      "fabric-1_19_2-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bTIxXXfw/xaeroworldmap-fabric-1.19.2-1.40.8.jar",
+        "sha512": "e6fa3a6c3bc5b3d324057d59a753ba9267426dfdd0dc73ddf9887e18039f28e622987406147882f85747933f53cbd6bb89c79eee393e9ec7588c63ecba104ca3"
+      },
+      "fabric-1_19_2-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rDQ9QSz3/xaeroworldmap-fabric-1.19.2-1.40.6.jar",
+        "sha512": "fc91041b86ef73faf07448d04dcda3f939d097559e44f4cc609a3e43565fb83912a80ae989dd05ea47438a929a35e88141ba49d2bfd1cba31f7da323004d904d"
+      },
+      "fabric-1_19_2-1_40_4": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ICkHAvBS/xaeroworldmap-fabric-1.19.2-1.40.4.jar",
+        "sha512": "89862614092b25579cbce7c3d7b718b6c30d9bdbba23800e57d7aadfa000451d2a252c89f613a1e2ccd42911af536081435c53ac6d9c2e78e0a53cbed729597b"
       },
       "1_40_2_Fabric_": {
         "name": "XaerosWorldMap_1.40.2_Fabric_1.19.1.jar",
@@ -1771,31 +1796,6 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.19.1.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gyPsXrJn/XaerosWorldMap_1.30.0_Fabric_1.19.1.jar",
         "sha512": "cdacfd5f1639e0c2753f9b6a7b724f1814456aeb2f13a2b393858ea238481d5b517c81c8a007c899c6b23eb193e643d3042f72f38fc0e92f4836f45ed05a109c"
-      },
-      "fabric-1_19_2-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kjlyBkAo/xaeroworldmap-fabric-1.19.2-1.40.11.jar",
-        "sha512": "54ce45b2978dc4f2ef298741410aa2621cf31303de277c26ceff10ce91f66d726ba1d901d281b657b74d449e9fe9d4822091f19dd45e87a7409eea34b2f42886"
-      },
-      "fabric-1_19_2-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hKPpZCtN/xaeroworldmap-fabric-1.19.2-1.40.10.jar",
-        "sha512": "30db9e6a91f5d60420bbd45bd6449a425e176433521b9675ac68a0a0ecb49bdf309853a6bd949350faa33981fd25f1541fefc281c97030738b2c8b1de62b0273"
-      },
-      "fabric-1_19_2-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bTIxXXfw/xaeroworldmap-fabric-1.19.2-1.40.8.jar",
-        "sha512": "e6fa3a6c3bc5b3d324057d59a753ba9267426dfdd0dc73ddf9887e18039f28e622987406147882f85747933f53cbd6bb89c79eee393e9ec7588c63ecba104ca3"
-      },
-      "fabric-1_19_2-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rDQ9QSz3/xaeroworldmap-fabric-1.19.2-1.40.6.jar",
-        "sha512": "fc91041b86ef73faf07448d04dcda3f939d097559e44f4cc609a3e43565fb83912a80ae989dd05ea47438a929a35e88141ba49d2bfd1cba31f7da323004d904d"
-      },
-      "fabric-1_19_2-1_40_4": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ICkHAvBS/xaeroworldmap-fabric-1.19.2-1.40.4.jar",
-        "sha512": "89862614092b25579cbce7c3d7b718b6c30d9bdbba23800e57d7aadfa000451d2a252c89f613a1e2ccd42911af536081435c53ac6d9c2e78e0a53cbed729597b"
       }
     },
     "1_18_2": {
@@ -2353,9 +2353,14 @@
     },
     "1_16_4": {
       "latest": {
-        "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Lt7swdr9/XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "sha512": "160c76de4fa3d8f42bd8f2bcbcd1c02747555d8aec57f07572c33682cdfb6601ed638aca1526869d323ca55b5764ee969d3da1f50ead8e03b7887de04b9d56c8"
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
+      },
+      "fabric-1_16_5-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       },
       "1_39_0_Fabric_1_16_5": {
         "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
@@ -2476,18 +2481,18 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "sha512": "49d10320f7247df81ef091f96f13b5d8d74edd55730b6418de30c37fb82f92efdad0cb06f8a4d7edb4a57f7655e2202fc1c60f172cd1202ba3c03e67e6bea536"
-      },
-      "fabric-1_16_5-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       }
     },
     "1_16_3": {
       "latest": {
-        "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Lt7swdr9/XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "sha512": "160c76de4fa3d8f42bd8f2bcbcd1c02747555d8aec57f07572c33682cdfb6601ed638aca1526869d323ca55b5764ee969d3da1f50ead8e03b7887de04b9d56c8"
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
+      },
+      "fabric-1_16_5-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       },
       "1_39_0_Fabric_1_16_5": {
         "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
@@ -2608,18 +2613,18 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "sha512": "49d10320f7247df81ef091f96f13b5d8d74edd55730b6418de30c37fb82f92efdad0cb06f8a4d7edb4a57f7655e2202fc1c60f172cd1202ba3c03e67e6bea536"
-      },
-      "fabric-1_16_5-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       }
     },
     "1_16_2": {
       "latest": {
-        "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Lt7swdr9/XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "sha512": "160c76de4fa3d8f42bd8f2bcbcd1c02747555d8aec57f07572c33682cdfb6601ed638aca1526869d323ca55b5764ee969d3da1f50ead8e03b7887de04b9d56c8"
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
+      },
+      "fabric-1_16_5-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       },
       "1_39_0_Fabric_1_16_5": {
         "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
@@ -2740,11 +2745,6 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "sha512": "49d10320f7247df81ef091f96f13b5d8d74edd55730b6418de30c37fb82f92efdad0cb06f8a4d7edb4a57f7655e2202fc1c60f172cd1202ba3c03e67e6bea536"
-      },
-      "fabric-1_16_5-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       }
     }
   },
@@ -3206,9 +3206,34 @@
     },
     "1_21": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_NeoForge_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qZXRCPsg/XaerosWorldMap_1.40.2_NeoForge_1.21.jar",
-        "sha512": "fbcd60a95017796a1d1c6f53ce24a8c98515b5afa50da1baae881b36022d2b00c329dc1ab1f6311ebf6508f5c4f04efeaece0d10b427847c99e4b5dad780993f"
+        "name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+        "sha512": "a4bb890dbac27937411f570432ebc5a4cc5df9562c22e7c3d6a6516ff303bfcb7f35fb39d2ce42a51591a4b2a5b5debfc933fda3f5a552560442fe69f8828b0b"
+      },
+      "neoforge_1-1_40_11": {
+        "name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+        "sha512": "a4bb890dbac27937411f570432ebc5a4cc5df9562c22e7c3d6a6516ff303bfcb7f35fb39d2ce42a51591a4b2a5b5debfc933fda3f5a552560442fe69f8828b0b"
+      },
+      "neoforge_1-1_40_10": {
+        "name": "xaeroworldmap-neoforge-1.21.1-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JgQEmOJt/xaeroworldmap-neoforge-1.21.1-1.40.10.jar",
+        "sha512": "be2f81765490229856be32808314702b08b74bc75f7e2d436dd5903ee04363d999e199db12342d32ca218638e1abe02e55011b5ac169ea869c8c8fefc2f157ae"
+      },
+      "neoforge_1-1_40_8": {
+        "name": "xaeroworldmap-neoforge-1.21.1-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vfsv6jLy/xaeroworldmap-neoforge-1.21.1-1.40.8.jar",
+        "sha512": "621e901b054b8a63a9a40065b38f50b57106956111426aab2e6c84c0f51f6617a3b544da774ac34415edb6ac2ffa32a00d0515a3862fe445bdfef83ec7bb6cca"
+      },
+      "neoforge_1-1_40_6": {
+        "name": "xaeroworldmap-neoforge-1.21.1-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xUpTkg0V/xaeroworldmap-neoforge-1.21.1-1.40.6.jar",
+        "sha512": "b16d1c0c53303e2081bb95a29ae4f994fee377e6ee47e95ab13d0a22109c59aa53701c61eb8ef55da0413fa9ce4ba8ec1320518b5cbe707cd0c8a7906c2052a3"
+      },
+      "neoforge_1-1_40_4": {
+        "name": "xaeroworldmap-neoforge-1.21.1-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Y3bNNKPI/xaeroworldmap-neoforge-1.21.1-1.40.4.jar",
+        "sha512": "3cc95d7ed61af6a5f31781ae405d491331688c9048bb6cc69b41917a4460bd1a249da298e543cf29034fb03764244137282969a08ce16396646ff1d82d17c6ba"
       },
       "1_40_2_NeoForge_": {
         "name": "XaerosWorldMap_1.40.2_NeoForge_1.21.jar",
@@ -3249,31 +3274,6 @@
         "name": "XaerosWorldMap_1.38.8_NeoForge_1.21.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8BhyyEg5/XaerosWorldMap_1.38.8_NeoForge_1.21.jar",
         "sha512": "b14c54d8f59c4e9511832c6022327333fda03b7f1c03852debe71a9a73342564a8969fcedf8506f994404db4b585b668ee309a637af280db47b62594f5751d91"
-      },
-      "neoforge_1-1_40_11": {
-        "name": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
-        "sha512": "a4bb890dbac27937411f570432ebc5a4cc5df9562c22e7c3d6a6516ff303bfcb7f35fb39d2ce42a51591a4b2a5b5debfc933fda3f5a552560442fe69f8828b0b"
-      },
-      "neoforge_1-1_40_10": {
-        "name": "xaeroworldmap-neoforge-1.21.1-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/JgQEmOJt/xaeroworldmap-neoforge-1.21.1-1.40.10.jar",
-        "sha512": "be2f81765490229856be32808314702b08b74bc75f7e2d436dd5903ee04363d999e199db12342d32ca218638e1abe02e55011b5ac169ea869c8c8fefc2f157ae"
-      },
-      "neoforge_1-1_40_8": {
-        "name": "xaeroworldmap-neoforge-1.21.1-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vfsv6jLy/xaeroworldmap-neoforge-1.21.1-1.40.8.jar",
-        "sha512": "621e901b054b8a63a9a40065b38f50b57106956111426aab2e6c84c0f51f6617a3b544da774ac34415edb6ac2ffa32a00d0515a3862fe445bdfef83ec7bb6cca"
-      },
-      "neoforge_1-1_40_6": {
-        "name": "xaeroworldmap-neoforge-1.21.1-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xUpTkg0V/xaeroworldmap-neoforge-1.21.1-1.40.6.jar",
-        "sha512": "b16d1c0c53303e2081bb95a29ae4f994fee377e6ee47e95ab13d0a22109c59aa53701c61eb8ef55da0413fa9ce4ba8ec1320518b5cbe707cd0c8a7906c2052a3"
-      },
-      "neoforge_1-1_40_4": {
-        "name": "xaeroworldmap-neoforge-1.21.1-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Y3bNNKPI/xaeroworldmap-neoforge-1.21.1-1.40.4.jar",
-        "sha512": "3cc95d7ed61af6a5f31781ae405d491331688c9048bb6cc69b41917a4460bd1a249da298e543cf29034fb03764244137282969a08ce16396646ff1d82d17c6ba"
       }
     },
     "1_20_6": {
@@ -3434,29 +3434,9 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "XaerosWorldMap_1.38.4_NeoForge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ExBGHO1W/XaerosWorldMap_1.38.4_NeoForge_1.20.4.jar",
-        "sha512": "9940001de3563f10380fc0f7b14c2135f77ce1b9a9bc7cbebb4ef5c4e7337155cf5c3a6f90466103251527f01fb71de57b8e17d484cc8eb622fcec7682954ac5"
-      },
-      "1_38_4_NeoForge_1_20_4": {
-        "name": "XaerosWorldMap_1.38.4_NeoForge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ExBGHO1W/XaerosWorldMap_1.38.4_NeoForge_1.20.4.jar",
-        "sha512": "9940001de3563f10380fc0f7b14c2135f77ce1b9a9bc7cbebb4ef5c4e7337155cf5c3a6f90466103251527f01fb71de57b8e17d484cc8eb622fcec7682954ac5"
-      },
-      "1_38_3_NeoForge_1_20_4": {
-        "name": "XaerosWorldMap_1.38.3_NeoForge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/dg8z2kP4/XaerosWorldMap_1.38.3_NeoForge_1.20.4.jar",
-        "sha512": "e15ee1e47ceea2090bf7d1285e3bd1dd3648d9aa216b320ed62a8d11c6b35d06a07172bca60e692dddd1a4bcb7ef0661ed3252f235e02df9cc3ab63a69281403"
-      },
-      "1_38_2_NeoForge_1_20_4": {
-        "name": "XaerosWorldMap_1.38.2_NeoForge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/St8x5BIB/XaerosWorldMap_1.38.2_NeoForge_1.20.4.jar",
-        "sha512": "4a140afa991084f87f423e965c35683dff944f897db995ae36c0fc64274abafa5a8c0e0746dd2cde1ba87a2682c9ee3f45d96e439e8fc9334c4e67c7743b389c"
-      },
-      "1_38_1_NeoForge_1_20_4": {
-        "name": "XaerosWorldMap_1.38.1_NeoForge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EEi7fSTX/XaerosWorldMap_1.38.1_NeoForge_1.20.4.jar",
-        "sha512": "017ae19434504f6effe19aff4908ce3ccd7e5ed0ebb9376839a05fc1a5958b0d0305e7edf11e148455b13ccc65a1964e7d289edd12eb65975e08303fc9c2e0dc"
+        "name": "xaeroworldmap-neoforge-1.20.4-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5Gsr2ASF/xaeroworldmap-neoforge-1.20.4-1.40.11.jar",
+        "sha512": "132e223f601c1918c85f1e0bb37af3b727fa95d8a0cbb0e91c16567747586a14c73f54285945ed546dcca6e3317f4e717647a8de83e710e82d53fda1f97873e7"
       },
       "neoforge-1_20_4-1_40_11": {
         "name": "xaeroworldmap-neoforge-1.20.4-1.40.11.jar",
@@ -3477,6 +3457,26 @@
         "name": "xaeroworldmap-neoforge-1.20.4-1.40.4.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/NKSENDJI/xaeroworldmap-neoforge-1.20.4-1.40.4.jar",
         "sha512": "002c4abf7915cfdda45eefa5982c9dc8dfb6a1fb820288bc21dc6fa453eb42e66664e0aa08721b0ac500d911b420fe2ee2ba2b81ccf811b4f7a9a73dd06be87e"
+      },
+      "1_38_4_NeoForge_1_20_4": {
+        "name": "XaerosWorldMap_1.38.4_NeoForge_1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ExBGHO1W/XaerosWorldMap_1.38.4_NeoForge_1.20.4.jar",
+        "sha512": "9940001de3563f10380fc0f7b14c2135f77ce1b9a9bc7cbebb4ef5c4e7337155cf5c3a6f90466103251527f01fb71de57b8e17d484cc8eb622fcec7682954ac5"
+      },
+      "1_38_3_NeoForge_1_20_4": {
+        "name": "XaerosWorldMap_1.38.3_NeoForge_1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/dg8z2kP4/XaerosWorldMap_1.38.3_NeoForge_1.20.4.jar",
+        "sha512": "e15ee1e47ceea2090bf7d1285e3bd1dd3648d9aa216b320ed62a8d11c6b35d06a07172bca60e692dddd1a4bcb7ef0661ed3252f235e02df9cc3ab63a69281403"
+      },
+      "1_38_2_NeoForge_1_20_4": {
+        "name": "XaerosWorldMap_1.38.2_NeoForge_1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/St8x5BIB/XaerosWorldMap_1.38.2_NeoForge_1.20.4.jar",
+        "sha512": "4a140afa991084f87f423e965c35683dff944f897db995ae36c0fc64274abafa5a8c0e0746dd2cde1ba87a2682c9ee3f45d96e439e8fc9334c4e67c7743b389c"
+      },
+      "1_38_1_NeoForge_1_20_4": {
+        "name": "XaerosWorldMap_1.38.1_NeoForge_1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EEi7fSTX/XaerosWorldMap_1.38.1_NeoForge_1.20.4.jar",
+        "sha512": "017ae19434504f6effe19aff4908ce3ccd7e5ed0ebb9376839a05fc1a5958b0d0305e7edf11e148455b13ccc65a1964e7d289edd12eb65975e08303fc9c2e0dc"
       }
     },
     "1_20_2": {
@@ -4582,9 +4582,34 @@
     },
     "1_21": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Forge_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iczB7uaA/XaerosWorldMap_1.40.2_Forge_1.21.jar",
-        "sha512": "fb383ecb1e4cf06724eed834527ae8ebf3fd51caaafe98ebcb338d97db0e02f64605764d0e7586b96d5d30782360ebd4a07011117da77a87eb8c8967d1fb238a"
+        "name": "xaeroworldmap-forge-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4Z1dkAAR/xaeroworldmap-forge-1.21.1-1.40.11.jar",
+        "sha512": "5efa951aab095be3e3362bbbd2e28cd90001369cae707ee2cc3f43b5cdb58d5ca3e87fcae405b81954539ece372483a860887abe72c269f0268e150ef197f89f"
+      },
+      "forge_1-1_40_11": {
+        "name": "xaeroworldmap-forge-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4Z1dkAAR/xaeroworldmap-forge-1.21.1-1.40.11.jar",
+        "sha512": "5efa951aab095be3e3362bbbd2e28cd90001369cae707ee2cc3f43b5cdb58d5ca3e87fcae405b81954539ece372483a860887abe72c269f0268e150ef197f89f"
+      },
+      "forge_1-1_40_10": {
+        "name": "xaeroworldmap-forge-1.21.1-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iobwcV25/xaeroworldmap-forge-1.21.1-1.40.10.jar",
+        "sha512": "0f82eb0fad015edb6b12e8c847f351df30ad086876d07fb515190ce112ddbc1a9a2f409dd21d9450a8a257abdc9640848c3624837108381d4b5a5870a388176a"
+      },
+      "forge_1-1_40_8": {
+        "name": "xaeroworldmap-forge-1.21.1-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/b7CCR9re/xaeroworldmap-forge-1.21.1-1.40.8.jar",
+        "sha512": "29d6ccadc8953e6e017307df3961d83d635ad36c5d3f208f4c1b0923b95d5b0281d8380d11cbda8d15b2b27bb521dac09b132ee81db85afd76aae0031ef85d9f"
+      },
+      "forge_1-1_40_6": {
+        "name": "xaeroworldmap-forge-1.21.1-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fWPvYpfa/xaeroworldmap-forge-1.21.1-1.40.6.jar",
+        "sha512": "8f747b4db4768b7b701d10e3e2acd1fb9083c4adb1d0fb00ddf9a402f6a9b26785973c43cbd2715511974c5bfe095f91a70248d41dd35f22399f02a92d0a70f3"
+      },
+      "forge_1-1_40_4": {
+        "name": "xaeroworldmap-forge-1.21.1-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qoLfIDZI/xaeroworldmap-forge-1.21.1-1.40.4.jar",
+        "sha512": "61892d40bccead14e2bf091ddebc4ec67b00ddf740333515523ca742db12c74f2dce303e3bb8c6ae57494e9c195e06519a5baff279aa0fe8e8276a2d1bd3dc3a"
       },
       "1_40_2_Forge_": {
         "name": "XaerosWorldMap_1.40.2_Forge_1.21.jar",
@@ -4620,31 +4645,6 @@
         "name": "XaerosWorldMap_1.38.8_Forge_1.21.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/RQgvSMA6/XaerosWorldMap_1.38.8_Forge_1.21.jar",
         "sha512": "409bccd911809a204969477bdf808a2e130d29346ca675f4f1e5ae8957f0fb7015a5cffea57bcc5900a19138a6d24484d21c10c5077e8a5e9ec613e812140808"
-      },
-      "forge_1-1_40_11": {
-        "name": "xaeroworldmap-forge-1.21.1-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/4Z1dkAAR/xaeroworldmap-forge-1.21.1-1.40.11.jar",
-        "sha512": "5efa951aab095be3e3362bbbd2e28cd90001369cae707ee2cc3f43b5cdb58d5ca3e87fcae405b81954539ece372483a860887abe72c269f0268e150ef197f89f"
-      },
-      "forge_1-1_40_10": {
-        "name": "xaeroworldmap-forge-1.21.1-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iobwcV25/xaeroworldmap-forge-1.21.1-1.40.10.jar",
-        "sha512": "0f82eb0fad015edb6b12e8c847f351df30ad086876d07fb515190ce112ddbc1a9a2f409dd21d9450a8a257abdc9640848c3624837108381d4b5a5870a388176a"
-      },
-      "forge_1-1_40_8": {
-        "name": "xaeroworldmap-forge-1.21.1-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/b7CCR9re/xaeroworldmap-forge-1.21.1-1.40.8.jar",
-        "sha512": "29d6ccadc8953e6e017307df3961d83d635ad36c5d3f208f4c1b0923b95d5b0281d8380d11cbda8d15b2b27bb521dac09b132ee81db85afd76aae0031ef85d9f"
-      },
-      "forge_1-1_40_6": {
-        "name": "xaeroworldmap-forge-1.21.1-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fWPvYpfa/xaeroworldmap-forge-1.21.1-1.40.6.jar",
-        "sha512": "8f747b4db4768b7b701d10e3e2acd1fb9083c4adb1d0fb00ddf9a402f6a9b26785973c43cbd2715511974c5bfe095f91a70248d41dd35f22399f02a92d0a70f3"
-      },
-      "forge_1-1_40_4": {
-        "name": "xaeroworldmap-forge-1.21.1-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qoLfIDZI/xaeroworldmap-forge-1.21.1-1.40.4.jar",
-        "sha512": "61892d40bccead14e2bf091ddebc4ec67b00ddf740333515523ca742db12c74f2dce303e3bb8c6ae57494e9c195e06519a5baff279aa0fe8e8276a2d1bd3dc3a"
       }
     },
     "1_20_6": {
@@ -4825,9 +4825,29 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "XaerosWorldMap_1.38.4_Forge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Hr1YuotO/XaerosWorldMap_1.38.4_Forge_1.20.4.jar",
-        "sha512": "6604fb7178c8b34b6b6e9bba50bf55c44c49654bc98de620191b217bd4929e7f55fa29648acce7b68439d759ae3ff4f3938d1d001f8b194e5987e8e157e087be"
+        "name": "xaeroworldmap-forge-1.20.4-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Y4bOy7MT/xaeroworldmap-forge-1.20.4-1.40.11.jar",
+        "sha512": "808dfb8056d2aadcc2924b27fc6488d9c1216a0c9f09ac3711acb1d14408eb3d6b772a038cc5309d1f68f0f1ee4a0ddd6bf886eec3fd7389defe8c3ca73b1905"
+      },
+      "forge-1_20_4-1_40_11": {
+        "name": "xaeroworldmap-forge-1.20.4-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Y4bOy7MT/xaeroworldmap-forge-1.20.4-1.40.11.jar",
+        "sha512": "808dfb8056d2aadcc2924b27fc6488d9c1216a0c9f09ac3711acb1d14408eb3d6b772a038cc5309d1f68f0f1ee4a0ddd6bf886eec3fd7389defe8c3ca73b1905"
+      },
+      "forge-1_20_4-1_40_8": {
+        "name": "xaeroworldmap-forge-1.20.4-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5BRu83pP/xaeroworldmap-forge-1.20.4-1.40.8.jar",
+        "sha512": "8b03a02d13fe7849dd152b87b7d30f65885a3089b5fde494fc623e829fc43187f7e4c3166a66cf043a18f81538d853e3fb22daeddf98069c841087e91ca1fa66"
+      },
+      "forge-1_20_4-1_40_6": {
+        "name": "xaeroworldmap-forge-1.20.4-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9z5mIl7d/xaeroworldmap-forge-1.20.4-1.40.6.jar",
+        "sha512": "12006e928212fafcd61507026f680ef386906f96a031898cfc7de914f13ac7c5929bc2994cd2e76e137af3d055cf03a03358d4d67c401861e63ff4d9df943589"
+      },
+      "forge-1_20_4-1_40_4": {
+        "name": "xaeroworldmap-forge-1.20.4-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MWKaHgkn/xaeroworldmap-forge-1.20.4-1.40.4.jar",
+        "sha512": "e5c96d70b6f1b978e64f8f3bddd535a64b1024020ddc9a047cbd31d0e5e27d0518a0029faaf443fb60dab7794ea03f62c1bd9f5588142e2df47aefca46c08e85"
       },
       "1_38_4_Forge_1_20_4": {
         "name": "XaerosWorldMap_1.38.4_Forge_1.20.4.jar",
@@ -4868,26 +4888,6 @@
         "name": "XaerosWorldMap_1.37.4_Forge_1.20.4.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hRVLy1VO/XaerosWorldMap_1.37.4_Forge_1.20.4.jar",
         "sha512": "c175919b118e83b3c06394deaef67ea25397dfcd3b2c924a9a68f66866b856e16119f32c868769544c19c05703666e8e33e7c1aae49242b91af268eaa32712f4"
-      },
-      "forge-1_20_4-1_40_11": {
-        "name": "xaeroworldmap-forge-1.20.4-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Y4bOy7MT/xaeroworldmap-forge-1.20.4-1.40.11.jar",
-        "sha512": "808dfb8056d2aadcc2924b27fc6488d9c1216a0c9f09ac3711acb1d14408eb3d6b772a038cc5309d1f68f0f1ee4a0ddd6bf886eec3fd7389defe8c3ca73b1905"
-      },
-      "forge-1_20_4-1_40_8": {
-        "name": "xaeroworldmap-forge-1.20.4-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/5BRu83pP/xaeroworldmap-forge-1.20.4-1.40.8.jar",
-        "sha512": "8b03a02d13fe7849dd152b87b7d30f65885a3089b5fde494fc623e829fc43187f7e4c3166a66cf043a18f81538d853e3fb22daeddf98069c841087e91ca1fa66"
-      },
-      "forge-1_20_4-1_40_6": {
-        "name": "xaeroworldmap-forge-1.20.4-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9z5mIl7d/xaeroworldmap-forge-1.20.4-1.40.6.jar",
-        "sha512": "12006e928212fafcd61507026f680ef386906f96a031898cfc7de914f13ac7c5929bc2994cd2e76e137af3d055cf03a03358d4d67c401861e63ff4d9df943589"
-      },
-      "forge-1_20_4-1_40_4": {
-        "name": "xaeroworldmap-forge-1.20.4-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MWKaHgkn/xaeroworldmap-forge-1.20.4-1.40.4.jar",
-        "sha512": "e5c96d70b6f1b978e64f8f3bddd535a64b1024020ddc9a047cbd31d0e5e27d0518a0029faaf443fb60dab7794ea03f62c1bd9f5588142e2df47aefca46c08e85"
       }
     },
     "1_20_2": {
@@ -4916,15 +4916,15 @@
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/GC4tOmEH/XaerosWorldMap_1.39.2_Forge_1.20.2.jar",
         "sha512": "393d464ff6e37e84e98525960932c7df338d5cd03dca6bbc822f730e88ee56264d6e0b35a8dbdf8644008913cfc1cb66d5a5e646ae5f09ecea80cb62e4cda6e1"
       },
-      "1_39_0_Forge_": {
-        "name": "XaerosWorldMap_1.39.0_Forge_1.20.2.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/AqvVkOEh/XaerosWorldMap_1.39.0_Forge_1.20.2.jar",
-        "sha512": "204a7d9edae361e7974cc5582c053aaf89cd288cf09b73e955fbd0076d360c50edbfb616e27658f8f58052b2f71df1772c0afb1b5463b165be9b529cfcb1781a"
-      },
       "1_39_0_NeoForge_": {
         "name": "XaerosWorldMap_1.39.0_NeoForge_1.20.2.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/w2c6YQi0/XaerosWorldMap_1.39.0_NeoForge_1.20.2.jar",
         "sha512": "78d05507ac0269e23f5c1b77f9f7d9a8fb70b0eadd2f6ffe17a4d3a1c87d75e631eab5e4b9c40cc4c7371ac6465baa21b50f5c891241b87776f7e44ec22c0234"
+      },
+      "1_39_0_Forge_": {
+        "name": "XaerosWorldMap_1.39.0_Forge_1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/AqvVkOEh/XaerosWorldMap_1.39.0_Forge_1.20.2.jar",
+        "sha512": "204a7d9edae361e7974cc5582c053aaf89cd288cf09b73e955fbd0076d360c50edbfb616e27658f8f58052b2f71df1772c0afb1b5463b165be9b529cfcb1781a"
       },
       "1_38_8_Forge_": {
         "name": "XaerosWorldMap_1.38.8_Forge_1.20.2.jar",
@@ -5151,9 +5151,34 @@
     },
     "1_20": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Forge_1.20.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/U3stuFts/XaerosWorldMap_1.40.2_Forge_1.20.jar",
-        "sha512": "73d0d8c8e055a944b428ce6626983ae684482186378ed074115ce503a83c2d2c08f6e484e9cb56a108691b9ad92ee384487f5093f82638138aa58ef28e180f80"
+        "name": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vUbAYOnm/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+        "sha512": "210376e3377a7c75ecd5ccaa509cf1d574ff5e2fb833ac93060423efd6104a0a435bd0e8804ee2d17f9bd60bd0d1267cfe9ee42435db18f12f4f87aca67c8900"
+      },
+      "forge_1-1_40_11": {
+        "name": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vUbAYOnm/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+        "sha512": "210376e3377a7c75ecd5ccaa509cf1d574ff5e2fb833ac93060423efd6104a0a435bd0e8804ee2d17f9bd60bd0d1267cfe9ee42435db18f12f4f87aca67c8900"
+      },
+      "forge_1-1_40_10": {
+        "name": "xaeroworldmap-forge-1.20.1-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/H325YIQU/xaeroworldmap-forge-1.20.1-1.40.10.jar",
+        "sha512": "362832b98191d05e323a714695ab114e1be49c058485beb1bbc67e72c2ff3fab840a24d7bad110f9267132546a67cc61ac255a3903af2f6b79aa6aa8ca07f789"
+      },
+      "forge_1-1_40_8": {
+        "name": "xaeroworldmap-forge-1.20.1-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QIQV9iK1/xaeroworldmap-forge-1.20.1-1.40.8.jar",
+        "sha512": "0f96010133d70f59ef8fd925d2f41c7ffbcf1f5ba801532fcba7db7006a98392292eaf3298c5f18cc798a09fe58eea07c1bf8ec952f093dcd4eefdb85bf9d6e2"
+      },
+      "forge_1-1_40_6": {
+        "name": "xaeroworldmap-forge-1.20.1-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/LYdIykWO/xaeroworldmap-forge-1.20.1-1.40.6.jar",
+        "sha512": "0867694b97f81649c2378c47e27081fdcef7b4580a499090c1f68faf8cb52634727d83f54a2580cd74e63e7ed0c959328e15bb17e3084e0daf921b35d49d02d1"
+      },
+      "forge_1-1_40_4": {
+        "name": "xaeroworldmap-forge-1.20.1-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2cJBzazb/xaeroworldmap-forge-1.20.1-1.40.4.jar",
+        "sha512": "2b5fba0e1ea66a79c265ea9bdd3b5207f1a6eaff1d9ad8b55e4c0eca91014924278767722e615b6c866343f4ce438005e3cbe8fb35e5f853e86966fcb67b4728"
       },
       "1_40_2_Forge_": {
         "name": "XaerosWorldMap_1.40.2_Forge_1.20.jar",
@@ -5289,31 +5314,6 @@
         "name": "XaerosWorldMap_1.30.3_Forge_1.20.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/S9UoAZsm/XaerosWorldMap_1.30.3_Forge_1.20.jar",
         "sha512": "e8b3bbc4024f65ada95d666b9a4787de8e7fc4279e71d691a45bccfe79726d0bbf8f06913e3a7405f51a39b8533471bb59f5fe02f74e048505fdc9a29608bf52"
-      },
-      "forge_1-1_40_11": {
-        "name": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vUbAYOnm/xaeroworldmap-forge-1.20.1-1.40.11.jar",
-        "sha512": "210376e3377a7c75ecd5ccaa509cf1d574ff5e2fb833ac93060423efd6104a0a435bd0e8804ee2d17f9bd60bd0d1267cfe9ee42435db18f12f4f87aca67c8900"
-      },
-      "forge_1-1_40_10": {
-        "name": "xaeroworldmap-forge-1.20.1-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/H325YIQU/xaeroworldmap-forge-1.20.1-1.40.10.jar",
-        "sha512": "362832b98191d05e323a714695ab114e1be49c058485beb1bbc67e72c2ff3fab840a24d7bad110f9267132546a67cc61ac255a3903af2f6b79aa6aa8ca07f789"
-      },
-      "forge_1-1_40_8": {
-        "name": "xaeroworldmap-forge-1.20.1-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QIQV9iK1/xaeroworldmap-forge-1.20.1-1.40.8.jar",
-        "sha512": "0f96010133d70f59ef8fd925d2f41c7ffbcf1f5ba801532fcba7db7006a98392292eaf3298c5f18cc798a09fe58eea07c1bf8ec952f093dcd4eefdb85bf9d6e2"
-      },
-      "forge_1-1_40_6": {
-        "name": "xaeroworldmap-forge-1.20.1-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/LYdIykWO/xaeroworldmap-forge-1.20.1-1.40.6.jar",
-        "sha512": "0867694b97f81649c2378c47e27081fdcef7b4580a499090c1f68faf8cb52634727d83f54a2580cd74e63e7ed0c959328e15bb17e3084e0daf921b35d49d02d1"
-      },
-      "forge_1-1_40_4": {
-        "name": "xaeroworldmap-forge-1.20.1-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/2cJBzazb/xaeroworldmap-forge-1.20.1-1.40.4.jar",
-        "sha512": "2b5fba0e1ea66a79c265ea9bdd3b5207f1a6eaff1d9ad8b55e4c0eca91014924278767722e615b6c866343f4ce438005e3cbe8fb35e5f853e86966fcb67b4728"
       }
     },
     "1_19_4": {
@@ -5744,9 +5744,34 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Forge_1.19.1.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/iyaHbnhs/XaerosWorldMap_1.40.2_Forge_1.19.1.jar",
-        "sha512": "c628a14ed2bbc43187941b777418aab77810131555fd2f79bba55115babe07db26c69e45bf3dd8b463507426ba3e67c3b58190a1f79f4ba3febf91979b283fcd"
+        "name": "xaeroworldmap-forge-1.19.2-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xFY0NKUM/xaeroworldmap-forge-1.19.2-1.40.11.jar",
+        "sha512": "228d149043d1690a2ce4bbf0d2105644b64a37a7944a205d1f36bcc1bba69eb2796cc8f9057a9d4246b7c691f31502148fb1330d9ce548924a472fcaa1fa5a5b"
+      },
+      "forge-1_19_2-1_40_11": {
+        "name": "xaeroworldmap-forge-1.19.2-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xFY0NKUM/xaeroworldmap-forge-1.19.2-1.40.11.jar",
+        "sha512": "228d149043d1690a2ce4bbf0d2105644b64a37a7944a205d1f36bcc1bba69eb2796cc8f9057a9d4246b7c691f31502148fb1330d9ce548924a472fcaa1fa5a5b"
+      },
+      "forge-1_19_2-1_40_10": {
+        "name": "xaeroworldmap-forge-1.19.2-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/x9y9ilpe/xaeroworldmap-forge-1.19.2-1.40.10.jar",
+        "sha512": "3ac13697d73c418e4bed458e0c439ec59274011ed5ab06f19ec6a87dc6b99c26c04bf67c034e6cd66ba1d8feacadee1e8d646e9d883b51e0cecb9679e64215cd"
+      },
+      "forge-1_19_2-1_40_8": {
+        "name": "xaeroworldmap-forge-1.19.2-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/guR7rtdI/xaeroworldmap-forge-1.19.2-1.40.8.jar",
+        "sha512": "141cf2b03a7627bf84b537a11963d341e3da29d51e7331cbd3effcc33751f904650abce3009426c18389a6cecf7e5c291f641118297ce2990face15e373cd83d"
+      },
+      "forge-1_19_2-1_40_6": {
+        "name": "xaeroworldmap-forge-1.19.2-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bpprhXbD/xaeroworldmap-forge-1.19.2-1.40.6.jar",
+        "sha512": "27a74b69c7104ca7e5c15a3c05af5c24ca09851bf6cc6d8e98131a06b0d797b9284c2e6dfcc72f3e859089ec5f264a0e37d40990637657519a79cf19fafe81cf"
+      },
+      "forge-1_19_2-1_40_4": {
+        "name": "xaeroworldmap-forge-1.19.2-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HIpwuCuJ/xaeroworldmap-forge-1.19.2-1.40.4.jar",
+        "sha512": "72919bb87fc34e2469dcb20ae8e7b581caea0927740625f6d12b649b162f5a41f742d595f669af7033656aa0118d32fdf73569fc20ac6c434b9d3da96c4f9b64"
       },
       "1_40_2_Forge_": {
         "name": "XaerosWorldMap_1.40.2_Forge_1.19.1.jar",
@@ -5892,31 +5917,6 @@
         "name": "XaerosWorldMap_1.30.0_Forge_1.19.1.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/p3dZW7fr/XaerosWorldMap_1.30.0_Forge_1.19.1.jar",
         "sha512": "e68a6641e5c6154537049a603b26389226702e0d6512689567f65c94eca2f1fabc62e3afd447485b80de04dc41939a316be9b2bf4af97d44c5908c150162e670"
-      },
-      "forge-1_19_2-1_40_11": {
-        "name": "xaeroworldmap-forge-1.19.2-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xFY0NKUM/xaeroworldmap-forge-1.19.2-1.40.11.jar",
-        "sha512": "228d149043d1690a2ce4bbf0d2105644b64a37a7944a205d1f36bcc1bba69eb2796cc8f9057a9d4246b7c691f31502148fb1330d9ce548924a472fcaa1fa5a5b"
-      },
-      "forge-1_19_2-1_40_10": {
-        "name": "xaeroworldmap-forge-1.19.2-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/x9y9ilpe/xaeroworldmap-forge-1.19.2-1.40.10.jar",
-        "sha512": "3ac13697d73c418e4bed458e0c439ec59274011ed5ab06f19ec6a87dc6b99c26c04bf67c034e6cd66ba1d8feacadee1e8d646e9d883b51e0cecb9679e64215cd"
-      },
-      "forge-1_19_2-1_40_8": {
-        "name": "xaeroworldmap-forge-1.19.2-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/guR7rtdI/xaeroworldmap-forge-1.19.2-1.40.8.jar",
-        "sha512": "141cf2b03a7627bf84b537a11963d341e3da29d51e7331cbd3effcc33751f904650abce3009426c18389a6cecf7e5c291f641118297ce2990face15e373cd83d"
-      },
-      "forge-1_19_2-1_40_6": {
-        "name": "xaeroworldmap-forge-1.19.2-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bpprhXbD/xaeroworldmap-forge-1.19.2-1.40.6.jar",
-        "sha512": "27a74b69c7104ca7e5c15a3c05af5c24ca09851bf6cc6d8e98131a06b0d797b9284c2e6dfcc72f3e859089ec5f264a0e37d40990637657519a79cf19fafe81cf"
-      },
-      "forge-1_19_2-1_40_4": {
-        "name": "xaeroworldmap-forge-1.19.2-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/HIpwuCuJ/xaeroworldmap-forge-1.19.2-1.40.4.jar",
-        "sha512": "72919bb87fc34e2469dcb20ae8e7b581caea0927740625f6d12b649b162f5a41f742d595f669af7033656aa0118d32fdf73569fc20ac6c434b9d3da96c4f9b64"
       }
     },
     "1_18_2": {
@@ -7620,9 +7620,34 @@
     },
     "1_21": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Fabric_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yz0BNgrU/XaerosWorldMap_1.40.2_Fabric_1.21.jar",
-        "sha512": "b9838f013103b9187de3928d7612988b311fe110ab57d57bc945d03ba8d8687c1746268eea088c0cebc9014d6c2c37954f8b045a7f07aafcf22689f8469f2e70"
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e"
+      },
+      "fabric_1-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+        "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e"
+      },
+      "fabric_1-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nNEMIqdv/xaeroworldmap-fabric-1.21.1-1.40.10.jar",
+        "sha512": "430e2299f25f26bb04a7035500c19c3a267b397b9ffc0fb6a7c73a9b97c1e160b028d2c3336cd1ec35593b82e2fb8d36528da86a59dfcd1239c9ce396da21051"
+      },
+      "fabric_1-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vA8JDnKu/xaeroworldmap-fabric-1.21.1-1.40.8.jar",
+        "sha512": "d4ef3775a2dea52056733d2dfb01e2903406adf267252f4b7ff73365175d454ac3b3b4676ade28299223dbbb61a3b5b202844847a183b18e158bba6f0d74608e"
+      },
+      "fabric_1-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hT5eHHLt/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
+        "sha512": "4f86dc8c54ff49b366ab1c3842599e6e0882bb471385b2aa5e954cf81a66a585284f41143e0405458530c106d9955220e65b8313aca56c3ec8124c6ddb60905a"
+      },
+      "fabric_1-1_40_4": {
+        "name": "xaeroworldmap-fabric-1.21.1-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/c0aUvTvJ/xaeroworldmap-fabric-1.21.1-1.40.4.jar",
+        "sha512": "a5bcc70eed3b7e625aa03d4792148815754f4121cffc201596f36b61ad536c0d5e09e5ea3005ca859c36e9d0367c5ebf2d86fc6a33f9fb4e632bdd60f14b4e45"
       },
       "1_40_2_Fabric_": {
         "name": "XaerosWorldMap_1.40.2_Fabric_1.21.jar",
@@ -7658,31 +7683,6 @@
         "name": "XaerosWorldMap_1.38.8_Fabric_1.21.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ekubtdIk/XaerosWorldMap_1.38.8_Fabric_1.21.jar",
         "sha512": "c5f26eb4c9808d983ab255decf42fb1b0b06c37bb85da381f26afc7995120447fe4a40d5902f28b7c44a4f50a0355ab8dabf8d570287624c807969ca9bc211be"
-      },
-      "fabric_1-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
-        "sha512": "a225d17b43d0aff03dacb0826c024aa8620afa45b43e63c8e9d5002c4dbced4afb0f2bc8c92508b60b967b6a0d78ab0f7af645a578f3632e151c0fd4f26ce89e"
-      },
-      "fabric_1-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nNEMIqdv/xaeroworldmap-fabric-1.21.1-1.40.10.jar",
-        "sha512": "430e2299f25f26bb04a7035500c19c3a267b397b9ffc0fb6a7c73a9b97c1e160b028d2c3336cd1ec35593b82e2fb8d36528da86a59dfcd1239c9ce396da21051"
-      },
-      "fabric_1-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/vA8JDnKu/xaeroworldmap-fabric-1.21.1-1.40.8.jar",
-        "sha512": "d4ef3775a2dea52056733d2dfb01e2903406adf267252f4b7ff73365175d454ac3b3b4676ade28299223dbbb61a3b5b202844847a183b18e158bba6f0d74608e"
-      },
-      "fabric_1-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hT5eHHLt/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
-        "sha512": "4f86dc8c54ff49b366ab1c3842599e6e0882bb471385b2aa5e954cf81a66a585284f41143e0405458530c106d9955220e65b8313aca56c3ec8124c6ddb60905a"
-      },
-      "fabric_1-1_40_4": {
-        "name": "xaeroworldmap-fabric-1.21.1-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/c0aUvTvJ/xaeroworldmap-fabric-1.21.1-1.40.4.jar",
-        "sha512": "a5bcc70eed3b7e625aa03d4792148815754f4121cffc201596f36b61ad536c0d5e09e5ea3005ca859c36e9d0367c5ebf2d86fc6a33f9fb4e632bdd60f14b4e45"
       }
     },
     "1_20_6": {
@@ -7880,9 +7880,34 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ciwrnpWQ/XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
-        "sha512": "d26d86161c931f5804cb60af88e10e3807beb8e621ebf035914ec15cb740eadcb8845262d430ae0139d7870a8f969e851a73ed8ffee8b2dca1e01d891fee514c"
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fYGpJyOr/xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "sha512": "d025a32caf8d25dffe358a578a2067ce4e1c6bd4127d6343cf757a43115da5be37ba69f5f43a73f3cb9ce6871fd204a67bb20f6edc5d4b1f0fb848293edac289"
+      },
+      "fabric-1_20_4-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fYGpJyOr/xaeroworldmap-fabric-1.20.4-1.40.11.jar",
+        "sha512": "d025a32caf8d25dffe358a578a2067ce4e1c6bd4127d6343cf757a43115da5be37ba69f5f43a73f3cb9ce6871fd204a67bb20f6edc5d4b1f0fb848293edac289"
+      },
+      "fabric-1_20_4-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QLJfyyBI/xaeroworldmap-fabric-1.20.4-1.40.10.jar",
+        "sha512": "d803de7e2d37e95c38f9c9cd434aede84880e3cd3425cc28593c8b7a7ede1e6783a46b01fb968683ae9a5591c8ef6a30079655f4117ae856b5b1a7765c154df5"
+      },
+      "fabric-1_20_4-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/PyaCaekR/xaeroworldmap-fabric-1.20.4-1.40.8.jar",
+        "sha512": "d3bb38bc8d202d92f653e9cd4123708dfcb3eeb21be98456df5b787425e4fd9e924fe8b7015022cd24bde72a7f80bad5d680a12b7036a40366a67ac8620ca083"
+      },
+      "fabric-1_20_4-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YwlTyfWy/xaeroworldmap-fabric-1.20.4-1.40.6.jar",
+        "sha512": "5ab04eacd173d6eed5776ac4933c593c0a04dd3ea66d4f6bed2c54e906cd3048eb33fca9cf6633c0c6038bba580267643bdd31cc903b24e27830d3698bd3c21e"
+      },
+      "fabric-1_20_4-1_40_4": {
+        "name": "xaeroworldmap-fabric-1.20.4-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/OUUxTm9e/xaeroworldmap-fabric-1.20.4-1.40.4.jar",
+        "sha512": "c8cfdd1a62505f20a61f1c5cd2e2cac052eaef164c0589ff276ae0edcb40a9cea7aafce9cfe124f3bdcf774e1aa4e2c11293c5fec6925a2335dd5ba6d8c080bd"
       },
       "1_38_4_Fabric_1_20_4": {
         "name": "XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
@@ -7928,31 +7953,6 @@
         "name": "XaerosWorldMap_1.37.2_Fabric_1.20.3.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QPu5GIcD/XaerosWorldMap_1.37.2_Fabric_1.20.3.jar",
         "sha512": "71ec5b0ad809f867ffe469ab9518350f50765263cb234bbf363e3e1d3ec3e2cf9006acf0b91f852a93d412a5f9819381f9fad84b658c79da5b666782628b1fa5"
-      },
-      "fabric-1_20_4-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fYGpJyOr/xaeroworldmap-fabric-1.20.4-1.40.11.jar",
-        "sha512": "d025a32caf8d25dffe358a578a2067ce4e1c6bd4127d6343cf757a43115da5be37ba69f5f43a73f3cb9ce6871fd204a67bb20f6edc5d4b1f0fb848293edac289"
-      },
-      "fabric-1_20_4-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/QLJfyyBI/xaeroworldmap-fabric-1.20.4-1.40.10.jar",
-        "sha512": "d803de7e2d37e95c38f9c9cd434aede84880e3cd3425cc28593c8b7a7ede1e6783a46b01fb968683ae9a5591c8ef6a30079655f4117ae856b5b1a7765c154df5"
-      },
-      "fabric-1_20_4-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/PyaCaekR/xaeroworldmap-fabric-1.20.4-1.40.8.jar",
-        "sha512": "d3bb38bc8d202d92f653e9cd4123708dfcb3eeb21be98456df5b787425e4fd9e924fe8b7015022cd24bde72a7f80bad5d680a12b7036a40366a67ac8620ca083"
-      },
-      "fabric-1_20_4-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/YwlTyfWy/xaeroworldmap-fabric-1.20.4-1.40.6.jar",
-        "sha512": "5ab04eacd173d6eed5776ac4933c593c0a04dd3ea66d4f6bed2c54e906cd3048eb33fca9cf6633c0c6038bba580267643bdd31cc903b24e27830d3698bd3c21e"
-      },
-      "fabric-1_20_4-1_40_4": {
-        "name": "xaeroworldmap-fabric-1.20.4-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/OUUxTm9e/xaeroworldmap-fabric-1.20.4-1.40.4.jar",
-        "sha512": "c8cfdd1a62505f20a61f1c5cd2e2cac052eaef164c0589ff276ae0edcb40a9cea7aafce9cfe124f3bdcf774e1aa4e2c11293c5fec6925a2335dd5ba6d8c080bd"
       }
     },
     "1_20_2": {
@@ -8218,9 +8218,29 @@
     },
     "1_20": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Fabric_1.20.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/yckp3FUK/XaerosWorldMap_1.40.2_Fabric_1.20.jar",
-        "sha512": "37ce31f42c6b1f8c4b1a9b7a5bf17a4533aeb8a22c1c84e879beecb7ba7e0ec2cc6e5430e2119f350921bbb637fbc38cb54b09313ebd6004f6a13fa43d4a5e61"
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6WcEeMbU/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "sha512": "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc7160c7e7a6252abdc5bfa9b55c98ef6d12b6b2c3c46c443f507664591c"
+      },
+      "fabric_1-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6WcEeMbU/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+        "sha512": "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc7160c7e7a6252abdc5bfa9b55c98ef6d12b6b2c3c46c443f507664591c"
+      },
+      "fabric_1-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/erCjxXmK/xaeroworldmap-fabric-1.20.1-1.40.10.jar",
+        "sha512": "e25b66ecea7c7afd88b50ffae45ece59d80d7695fe44e5fc08d099e3fdc9d8e7af7ec7eb9e650f08060ffae57b7747f7a250523683e48a393c8044c21d677c69"
+      },
+      "fabric_1-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9lt0ikbj/xaeroworldmap-fabric-1.20.1-1.40.8.jar",
+        "sha512": "24cd5f3b0e21b59ad70f6e2f59f526a3c56e3c5cb0974ab899e0072d928e03cef16a26af1fc8bd160413b2ec0d7eb7c85777af442b09143e485ebb0e62fb05d5"
+      },
+      "fabric_1-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qNqsa3I3/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+        "sha512": "a29a6dfdd537425f9729c3f7acb5a1766d02d11919fceb988a82c702bdedf46e90b9ffffc417b179b43625395e48e2a5e350c6117358b19a571f46e06c767346"
       },
       "1_40_2_Fabric_": {
         "name": "XaerosWorldMap_1.40.2_Fabric_1.20.jar",
@@ -8356,26 +8376,6 @@
         "name": "XaerosWorldMap_1.30.3_Fabric_1.20.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/oOy5ndJf/XaerosWorldMap_1.30.3_Fabric_1.20.jar",
         "sha512": "c9891422bd2e57764d2df90901b7bec4bdb293c8bf1c3d9b9f234472165e026c0f8fc1f1afc9aa955b71fd00faa91ea81c97c6fe849ebade55d1ac07730847e0"
-      },
-      "fabric_1-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/6WcEeMbU/xaeroworldmap-fabric-1.20.1-1.40.11.jar",
-        "sha512": "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc7160c7e7a6252abdc5bfa9b55c98ef6d12b6b2c3c46c443f507664591c"
-      },
-      "fabric_1-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/erCjxXmK/xaeroworldmap-fabric-1.20.1-1.40.10.jar",
-        "sha512": "e25b66ecea7c7afd88b50ffae45ece59d80d7695fe44e5fc08d099e3fdc9d8e7af7ec7eb9e650f08060ffae57b7747f7a250523683e48a393c8044c21d677c69"
-      },
-      "fabric_1-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/9lt0ikbj/xaeroworldmap-fabric-1.20.1-1.40.8.jar",
-        "sha512": "24cd5f3b0e21b59ad70f6e2f59f526a3c56e3c5cb0974ab899e0072d928e03cef16a26af1fc8bd160413b2ec0d7eb7c85777af442b09143e485ebb0e62fb05d5"
-      },
-      "fabric_1-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.20.1-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/qNqsa3I3/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
-        "sha512": "a29a6dfdd537425f9729c3f7acb5a1766d02d11919fceb988a82c702bdedf46e90b9ffffc417b179b43625395e48e2a5e350c6117358b19a571f46e06c767346"
       }
     },
     "1_19_4": {
@@ -8806,9 +8806,34 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "XaerosWorldMap_1.40.2_Fabric_1.19.1.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/MeUbkNXl/XaerosWorldMap_1.40.2_Fabric_1.19.1.jar",
-        "sha512": "d48b8f31e122cbf0bf781ef0cfcb12ca038a638b3df9a4a236bbf9fd588365bee641c4cf0abaef66b6ac60c226bca8dba2057364ce884454c036af4bd5f1c70f"
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kjlyBkAo/xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "sha512": "54ce45b2978dc4f2ef298741410aa2621cf31303de277c26ceff10ce91f66d726ba1d901d281b657b74d449e9fe9d4822091f19dd45e87a7409eea34b2f42886"
+      },
+      "fabric-1_19_2-1_40_11": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kjlyBkAo/xaeroworldmap-fabric-1.19.2-1.40.11.jar",
+        "sha512": "54ce45b2978dc4f2ef298741410aa2621cf31303de277c26ceff10ce91f66d726ba1d901d281b657b74d449e9fe9d4822091f19dd45e87a7409eea34b2f42886"
+      },
+      "fabric-1_19_2-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hKPpZCtN/xaeroworldmap-fabric-1.19.2-1.40.10.jar",
+        "sha512": "30db9e6a91f5d60420bbd45bd6449a425e176433521b9675ac68a0a0ecb49bdf309853a6bd949350faa33981fd25f1541fefc281c97030738b2c8b1de62b0273"
+      },
+      "fabric-1_19_2-1_40_8": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.8.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bTIxXXfw/xaeroworldmap-fabric-1.19.2-1.40.8.jar",
+        "sha512": "e6fa3a6c3bc5b3d324057d59a753ba9267426dfdd0dc73ddf9887e18039f28e622987406147882f85747933f53cbd6bb89c79eee393e9ec7588c63ecba104ca3"
+      },
+      "fabric-1_19_2-1_40_6": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.6.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rDQ9QSz3/xaeroworldmap-fabric-1.19.2-1.40.6.jar",
+        "sha512": "fc91041b86ef73faf07448d04dcda3f939d097559e44f4cc609a3e43565fb83912a80ae989dd05ea47438a929a35e88141ba49d2bfd1cba31f7da323004d904d"
+      },
+      "fabric-1_19_2-1_40_4": {
+        "name": "xaeroworldmap-fabric-1.19.2-1.40.4.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ICkHAvBS/xaeroworldmap-fabric-1.19.2-1.40.4.jar",
+        "sha512": "89862614092b25579cbce7c3d7b718b6c30d9bdbba23800e57d7aadfa000451d2a252c89f613a1e2ccd42911af536081435c53ac6d9c2e78e0a53cbed729597b"
       },
       "1_40_2_Fabric_": {
         "name": "XaerosWorldMap_1.40.2_Fabric_1.19.1.jar",
@@ -8954,31 +8979,6 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.19.1.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/gyPsXrJn/XaerosWorldMap_1.30.0_Fabric_1.19.1.jar",
         "sha512": "cdacfd5f1639e0c2753f9b6a7b724f1814456aeb2f13a2b393858ea238481d5b517c81c8a007c899c6b23eb193e643d3042f72f38fc0e92f4836f45ed05a109c"
-      },
-      "fabric-1_19_2-1_40_11": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.11.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/kjlyBkAo/xaeroworldmap-fabric-1.19.2-1.40.11.jar",
-        "sha512": "54ce45b2978dc4f2ef298741410aa2621cf31303de277c26ceff10ce91f66d726ba1d901d281b657b74d449e9fe9d4822091f19dd45e87a7409eea34b2f42886"
-      },
-      "fabric-1_19_2-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/hKPpZCtN/xaeroworldmap-fabric-1.19.2-1.40.10.jar",
-        "sha512": "30db9e6a91f5d60420bbd45bd6449a425e176433521b9675ac68a0a0ecb49bdf309853a6bd949350faa33981fd25f1541fefc281c97030738b2c8b1de62b0273"
-      },
-      "fabric-1_19_2-1_40_8": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.8.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/bTIxXXfw/xaeroworldmap-fabric-1.19.2-1.40.8.jar",
-        "sha512": "e6fa3a6c3bc5b3d324057d59a753ba9267426dfdd0dc73ddf9887e18039f28e622987406147882f85747933f53cbd6bb89c79eee393e9ec7588c63ecba104ca3"
-      },
-      "fabric-1_19_2-1_40_6": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.6.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/rDQ9QSz3/xaeroworldmap-fabric-1.19.2-1.40.6.jar",
-        "sha512": "fc91041b86ef73faf07448d04dcda3f939d097559e44f4cc609a3e43565fb83912a80ae989dd05ea47438a929a35e88141ba49d2bfd1cba31f7da323004d904d"
-      },
-      "fabric-1_19_2-1_40_4": {
-        "name": "xaeroworldmap-fabric-1.19.2-1.40.4.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/ICkHAvBS/xaeroworldmap-fabric-1.19.2-1.40.4.jar",
-        "sha512": "89862614092b25579cbce7c3d7b718b6c30d9bdbba23800e57d7aadfa000451d2a252c89f613a1e2ccd42911af536081435c53ac6d9c2e78e0a53cbed729597b"
       }
     },
     "1_18_2": {
@@ -9536,9 +9536,14 @@
     },
     "1_16_4": {
       "latest": {
-        "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Lt7swdr9/XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "sha512": "160c76de4fa3d8f42bd8f2bcbcd1c02747555d8aec57f07572c33682cdfb6601ed638aca1526869d323ca55b5764ee969d3da1f50ead8e03b7887de04b9d56c8"
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
+      },
+      "fabric-1_16_5-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       },
       "1_39_0_Fabric_1_16_5": {
         "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
@@ -9659,18 +9664,18 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "sha512": "49d10320f7247df81ef091f96f13b5d8d74edd55730b6418de30c37fb82f92efdad0cb06f8a4d7edb4a57f7655e2202fc1c60f172cd1202ba3c03e67e6bea536"
-      },
-      "fabric-1_16_5-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       }
     },
     "1_16_3": {
       "latest": {
-        "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Lt7swdr9/XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "sha512": "160c76de4fa3d8f42bd8f2bcbcd1c02747555d8aec57f07572c33682cdfb6601ed638aca1526869d323ca55b5764ee969d3da1f50ead8e03b7887de04b9d56c8"
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
+      },
+      "fabric-1_16_5-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       },
       "1_39_0_Fabric_1_16_5": {
         "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
@@ -9791,18 +9796,18 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "sha512": "49d10320f7247df81ef091f96f13b5d8d74edd55730b6418de30c37fb82f92efdad0cb06f8a4d7edb4a57f7655e2202fc1c60f172cd1202ba3c03e67e6bea536"
-      },
-      "fabric-1_16_5-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       }
     },
     "1_16_2": {
       "latest": {
-        "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Lt7swdr9/XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
-        "sha512": "160c76de4fa3d8f42bd8f2bcbcd1c02747555d8aec57f07572c33682cdfb6601ed638aca1526869d323ca55b5764ee969d3da1f50ead8e03b7887de04b9d56c8"
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
+      },
+      "fabric-1_16_5-1_40_10": {
+        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
+        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       },
       "1_39_0_Fabric_1_16_5": {
         "name": "XaerosWorldMap_1.39.0_Fabric_1.16.5.jar",
@@ -9923,11 +9928,6 @@
         "name": "XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar",
         "sha512": "49d10320f7247df81ef091f96f13b5d8d74edd55730b6418de30c37fb82f92efdad0cb06f8a4d7edb4a57f7655e2202fc1c60f172cd1202ba3c03e67e6bea536"
-      },
-      "fabric-1_16_5-1_40_10": {
-        "name": "xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/svnESIsn/xaeroworldmap-fabric-1.16.5-1.40.10.jar",
-        "sha512": "5c1bfd6075891738528feaeb6575227718793e17231c777ead729a1a212a2e11d6fc7266f0980887a78b55773e65e490debacdc398d76bc5ffaa9d9dc662758b"
       }
     }
   }

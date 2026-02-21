@@ -1560,11 +1560,6 @@
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/BCamHh4z/TechReborn-1.12-2.6.4.144-universal.jar",
         "sha512": "0cb7eef2e1a13663edb51e7319f1d2dc1857e5990660d1abac48daaf5d6fe0f18c396fe8fd6f3f6b31db30ac2b7032d904aea5b315aaecf3e0e08621ba3fed11"
       },
-      "2_6_4+universal": {
-        "name": "TechReborn-1.12-2.6.1.124-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ipZ8iU4O/TechReborn-1.12-2.6.1.124-universal.jar",
-        "sha512": "044e8c4a090827ab1b1aa6bc627862b0d37ce2dceabaf27f6b4208e9a0c6aab90d51d413373cb4796dbc84852352a314eeebcfb2c3ff0a640a8be540f6ca8cce"
-      },
       "2_6_3_141+universal": {
         "name": "TechReborn-1.12-2.6.3.141-universal.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/Q85y3Orh/TechReborn-1.12-2.6.3.141-universal.jar",
@@ -1574,6 +1569,11 @@
         "name": "TechReborn-1.12-2.6.2.139-universal.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/XvkxOvwp/TechReborn-1.12-2.6.2.139-universal.jar",
         "sha512": "f1e14f6a8eafb98a6b33c8a75aae58115c209d4b63d8f63eac3c6a69bcc982122d8e6f3138e7f105bcc03e2856fb9dcb497694f307df11fc5ea7e5debffb20c4"
+      },
+      "2_6_4+universal": {
+        "name": "TechReborn-1.12-2.6.1.124-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ipZ8iU4O/TechReborn-1.12-2.6.1.124-universal.jar",
+        "sha512": "044e8c4a090827ab1b1aa6bc627862b0d37ce2dceabaf27f6b4208e9a0c6aab90d51d413373cb4796dbc84852352a314eeebcfb2c3ff0a640a8be540f6ca8cce"
       },
       "2_6_0_119+universal": {
         "name": "TechReborn-1.12-2.6.0.119-universal.jar",
@@ -1745,14 +1745,9 @@
     },
     "1_11": {
       "latest": {
-        "name": "TechReborn-1.11.2-2.1.11.103-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ZAoGyg8d/TechReborn-1.11.2-2.1.11.103-universal.jar",
-        "sha512": "3df4ccab712c47b6a1de5eb5a18e5a1c9285fea0c58a7496f8ed5e766893e553f80ea289f387655e6b5dc5b1b543c8768be5ecfc59c3d0e043bb4500707e8e69"
-      },
-      "2__103+universal": {
-        "name": "TechReborn-1.11.2-2.1.11.103-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ZAoGyg8d/TechReborn-1.11.2-2.1.11.103-universal.jar",
-        "sha512": "3df4ccab712c47b6a1de5eb5a18e5a1c9285fea0c58a7496f8ed5e766893e553f80ea289f387655e6b5dc5b1b543c8768be5ecfc59c3d0e043bb4500707e8e69"
+        "name": "TechReborn-1.11.2-2.3.3.181-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/jKLTuWVz/TechReborn-1.11.2-2.3.3.181-universal.jar",
+        "sha512": "8d020594123fca9194926d12683a9641953bd01cd62ace8db4edca047d7ab12894dc386eb070a2a9411771b4fc4d2c3ed7daf7611767fe349efa257586d877c8"
       },
       "2_3_3_181+universal": {
         "name": "TechReborn-1.11.2-2.3.3.181-universal.jar",
@@ -1798,6 +1793,11 @@
         "name": "TechReborn-1.11.2-2.2.0.136-universal.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/W5jXFNBP/TechReborn-1.11.2-2.2.0.136-universal.jar",
         "sha512": "6454c1f38e01471b4a4e45183930f22eed0e182a7a5e4983d618957b59200fa10d3901dda22e6f093a75f4287bc3f0caa977abdcb52f2732ddd3df9025aa5cd6"
+      },
+      "2__103+universal": {
+        "name": "TechReborn-1.11.2-2.1.11.103-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ZAoGyg8d/TechReborn-1.11.2-2.1.11.103-universal.jar",
+        "sha512": "3df4ccab712c47b6a1de5eb5a18e5a1c9285fea0c58a7496f8ed5e766893e553f80ea289f387655e6b5dc5b1b543c8768be5ecfc59c3d0e043bb4500707e8e69"
       },
       "2_1_10_88+universal": {
         "name": "TechReborn-1.11.2-2.1.10.88-universal.jar",
@@ -1922,14 +1922,9 @@
     },
     "1_10_2": {
       "latest": {
-        "name": "TechReborn-1.10.2-2.1.10.207-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/VcbVZ1T6/TechReborn-1.10.2-2.1.10.207-universal.jar",
-        "sha512": "57aac794ac07a5467932b2f1aa2889a036d0912659d94fb3109d90cb55d4e70bc1655f6b9563facc5bb9ae4314137f7e100d2ef425f52268699a017d28bd168e"
-      },
-      "2_07+universal": {
-        "name": "TechReborn-1.10.2-2.1.10.207-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/VcbVZ1T6/TechReborn-1.10.2-2.1.10.207-universal.jar",
-        "sha512": "57aac794ac07a5467932b2f1aa2889a036d0912659d94fb3109d90cb55d4e70bc1655f6b9563facc5bb9ae4314137f7e100d2ef425f52268699a017d28bd168e"
+        "name": "TechReborn-1.10.2-2.1.19.241-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/KOqdtBIO/TechReborn-1.10.2-2.1.19.241-universal.jar",
+        "sha512": "3e7d061bcced4a99b6e5ea866ef9349ff964f783c8151adc26113d12e1442b790d162db19cc84b061672a50aadce56b8e507b0ae850d3fcd6dc6fb528898e3f1"
       },
       "2_1_19_241+universal": {
         "name": "TechReborn-1.10.2-2.1.19.241-universal.jar",
@@ -1981,6 +1976,16 @@
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/OqWG41rl/TechReborn-1.10.2-2.1.11.209-universal.jar",
         "sha512": "d672ed88ee2a4cb063b652c175181f58821ffdb0f9adb8ced9acecaf158227d904035cf71fcde0e3729ee630e8d34369def74ec95767bebddcac3b8f276db5fe"
       },
+      "2_07+universal": {
+        "name": "TechReborn-1.10.2-2.1.10.207-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/VcbVZ1T6/TechReborn-1.10.2-2.1.10.207-universal.jar",
+        "sha512": "57aac794ac07a5467932b2f1aa2889a036d0912659d94fb3109d90cb55d4e70bc1655f6b9563facc5bb9ae4314137f7e100d2ef425f52268699a017d28bd168e"
+      },
+      "2_01+universal": {
+        "name": "TechReborn-1.10.2-2.1.10.201-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ejT8BCSJ/TechReborn-1.10.2-2.1.10.201-universal.jar",
+        "sha512": "aa7fef4638cbece32510fe5ba482c23ca27abca28c9372f4985d56f5fd662d11853de1e3f1aefc6e50accffe7182533a9b7ec75df072c125e141f96c0a7bd573"
+      },
       "2_1_9_198+universal": {
         "name": "TechReborn-1.10.2-2.1.9.198-universal.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/OVsbRVRc/TechReborn-1.10.2-2.1.9.198-universal.jar",
@@ -2025,11 +2030,6 @@
         "name": "TechReborn-1.10.2-2.1.1.156-universal.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/52t2FQOi/TechReborn-1.10.2-2.1.1.156-universal.jar",
         "sha512": "643d186828c9e1930ea5ec67d016e0b52c526cb4260b36d4b1a64329069f6bdb156294cd7992988fe6c3466e3a06f41e13f8e734cc8e4f1b089c85199c4fd7cc"
-      },
-      "2_01+universal": {
-        "name": "TechReborn-1.10.2-2.1.10.201-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ejT8BCSJ/TechReborn-1.10.2-2.1.10.201-universal.jar",
-        "sha512": "aa7fef4638cbece32510fe5ba482c23ca27abca28c9372f4985d56f5fd662d11853de1e3f1aefc6e50accffe7182533a9b7ec75df072c125e141f96c0a7bd573"
       },
       "1_5_0_146+universal": {
         "name": "TechReborn-1.10.2-1.5.0.146-universal.jar",
@@ -2151,15 +2151,15 @@
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/bytPwtju/TechReborn-1.10.2-1.3.3.10-universal.jar",
         "sha512": "6d415854c5016a7ec9a58836d0b946def68125cc96ed4b2305af8cc09a7dd2d519e9772021a08b9587a47ec2c5ef9b1807ec55765602e829e9bb79250ab7b00f"
       },
-      "1_3_2_120+universal": {
-        "name": "TechReborn-1.9.4-1.3.2.120-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/Q7HlJoWw/TechReborn-1.9.4-1.3.2.120-universal.jar",
-        "sha512": "41719f4b100a48fbf65236350bf750e051ea65313d2e3c0d70f58c60dff72add792c392c11cbfbb2c90ee5a47d95dc37fec250495917f99684f4877cff40891a"
-      },
       "1_3_2_1+universal": {
         "name": "TechReborn-1.10.2-1.3.2.1-universal.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/KHETded4/TechReborn-1.10.2-1.3.2.1-universal.jar",
         "sha512": "9efc26155301e87065dae979503c2b3ac3714bfc6b5a7a91a3cdf06fba51dc7d987a0328db75d86cbdf92064d67a8a96f1d848881f41f43c2cb13cdc52f5477c"
+      },
+      "1_3_2_120+universal": {
+        "name": "TechReborn-1.9.4-1.3.2.120-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/Q7HlJoWw/TechReborn-1.9.4-1.3.2.120-universal.jar",
+        "sha512": "41719f4b100a48fbf65236350bf750e051ea65313d2e3c0d70f58c60dff72add792c392c11cbfbb2c90ee5a47d95dc37fec250495917f99684f4877cff40891a"
       }
     },
     "1_10": {
@@ -2183,15 +2183,15 @@
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/HwGKvZrK/TechReborn-1.10-1.3.3.15-universal.jar",
         "sha512": "8b6daffc34114289e5e8b01999e16896a307d6ee3449c01a8013c0608851ffb698de2197a0be529d575d1879e234a3c260fe04eb2d9aa3ca485d9905a20f7247"
       },
-      "1_3_2_120+universal": {
-        "name": "TechReborn-1.9.4-1.3.2.120-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/Q7HlJoWw/TechReborn-1.9.4-1.3.2.120-universal.jar",
-        "sha512": "41719f4b100a48fbf65236350bf750e051ea65313d2e3c0d70f58c60dff72add792c392c11cbfbb2c90ee5a47d95dc37fec250495917f99684f4877cff40891a"
-      },
       "1_3_2_6+universal": {
         "name": "TechReborn-1.10-1.3.2.6-universal.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/JU6bkQAV/TechReborn-1.10-1.3.2.6-universal.jar",
         "sha512": "5f04c41f9b66160495aea12404437a4e7605b6447e2414e3945c30f561bb17f2e5a58cff185f0bdde01fa17abd27ae3c51e748500802e723c91b84475582b6b9"
+      },
+      "1_3_2_120+universal": {
+        "name": "TechReborn-1.9.4-1.3.2.120-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/Q7HlJoWw/TechReborn-1.9.4-1.3.2.120-universal.jar",
+        "sha512": "41719f4b100a48fbf65236350bf750e051ea65313d2e3c0d70f58c60dff72add792c392c11cbfbb2c90ee5a47d95dc37fec250495917f99684f4877cff40891a"
       }
     },
     "1_9_4": {
@@ -3119,44 +3119,44 @@
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/1wkiZkmd/TechReborn-5.2.1.jar",
         "sha512": "957fa42ac1cc354c734167e94d86229c49fc0f9914e600df95e99699274f2a1c55b639924829e11869446c310a005d209da3b214a078a6a7a236c66d92c173d0"
       },
-      "5_2_0+beta": {
-        "name": "TechReborn-5.2.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/DKV3ojFL/TechReborn-5.2.0-beta.3.jar",
-        "sha512": "8b7af58b0f406e30d994eccec57f2ad8fdb2ea63c3db6e899bc64717c4c43ba2bb0593b441603a32240fb0c9eb903fc944d9460480c41ce40b8eafeb6c4a88e4"
-      },
       "5_2_0": {
         "name": "TechReborn-5.2.0.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/P4K4zKtK/TechReborn-5.2.0.jar",
         "sha512": "7dac40ad2195220c91dd6b686479f49bdb805c4b6308b51e9b0c57cb12386d32c2bad5ba518241f26d2a4f43ee7cb86446d952648090f874e2b7c28d9ab66310"
+      },
+      "5_2_0+beta": {
+        "name": "TechReborn-5.2.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/xII2SM3B/TechReborn-5.2.0-beta.1.jar",
+        "sha512": "cf1cbc4cc954114db84de211d034e8b0118a49ce2f10ff9f1f1be991fa1fe7fbe522a6cfebbcb0d5cf2bd592afd1dd8f3a2d77c2c58b8573cfaafae0baa4e230"
       }
     },
     "1_18_1": {
       "latest": {
-        "name": "TechReborn-5.1.0-beta.4.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/lbNEgSv7/TechReborn-5.1.0-beta.4.jar",
-        "sha512": "b31e93c13b845053a02d4cef9b70c6541f910cbab0fd97e5692783f1cc561e4e63f23c96d590203a7735fc2646be27b1705b529ae696a7fa99c7c37fa02f967b"
-      },
-      "5_1_0+beta": {
-        "name": "TechReborn-5.1.0-beta.9.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/A6HTiOYB/TechReborn-5.1.0-beta.9.jar",
-        "sha512": "ca747ca664b9747b2d4bf72a1a504b5151f046114a5fed6bc13c9d27fabae80ce71528a0187414f944ecf8d9320023110a6f679a488d27cb8b14032d4f6a0ee4"
+        "name": "TechReborn-5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/iGHcJpJ1/TechReborn-5.1.0.jar",
+        "sha512": "49632715e8580d41c5d9317f20482a1e42bb131d28d05ecd7704ede230a0879dabe66d9031dbbe7255158bb956539c66a9d1347f5a96439fb8018b66fcb83eb6"
       },
       "5_1_0": {
         "name": "TechReborn-5.1.0.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/iGHcJpJ1/TechReborn-5.1.0.jar",
         "sha512": "49632715e8580d41c5d9317f20482a1e42bb131d28d05ecd7704ede230a0879dabe66d9031dbbe7255158bb956539c66a9d1347f5a96439fb8018b66fcb83eb6"
+      },
+      "5_1_0+beta": {
+        "name": "TechReborn-5.1.0-beta.4.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/lbNEgSv7/TechReborn-5.1.0-beta.4.jar",
+        "sha512": "b31e93c13b845053a02d4cef9b70c6541f910cbab0fd97e5692783f1cc561e4e63f23c96d590203a7735fc2646be27b1705b529ae696a7fa99c7c37fa02f967b"
       }
     },
     "1_18": {
       "latest": {
-        "name": "TechReborn-5.1.0-beta.2.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/xpXxjkr2/TechReborn-5.1.0-beta.2.jar",
-        "sha512": "35d992f4544f2ffd731215791fb5cfcdb722f07fe4c60e720f4af815ec68eb4a1add2905953d78e9322c019328dc2f81c8438e4a910dca91e7b9b99cdc715ccc"
-      },
-      "5_1_0+beta": {
         "name": "TechReborn-5.1.0-beta.5.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/ip21Gusj/TechReborn-5.1.0-beta.5.jar",
         "sha512": "32b70e109d50aa3e118bd8f918950b678cf9773b80b3e2f0e06cf37b509dd253620ea0fef25a536d28150b5c76705c1b4f448779034f6cc88c87ab0b3b124138"
+      },
+      "5_1_0+beta": {
+        "name": "TechReborn-5.1.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/xpXxjkr2/TechReborn-5.1.0-beta.2.jar",
+        "sha512": "35d992f4544f2ffd731215791fb5cfcdb722f07fe4c60e720f4af815ec68eb4a1add2905953d78e9322c019328dc2f81c8438e4a910dca91e7b9b99cdc715ccc"
       }
     },
     "1_17_1": {
@@ -3663,9 +3663,14 @@
     },
     "1_14_4": {
       "latest": {
-        "name": "TechReborn-1.14.4-3.0.12.218.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/rtz6bh32/TechReborn-1.14.4-3.0.12.218.jar",
-        "sha512": "9c65efe4f845ee34e145eee799cfc50d3cc39e6ebdf25b926a612fdb7fd5bc65d8f822a2d3fb44996c9d97979898f61518c335d67605dfa4afec55d8a5045265"
+        "name": "TechReborn-1.14.4-3.0.22+build.273.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/yshaMGI3/TechReborn-1.14.4-3.0.22%2Bbuild.273.jar",
+        "sha512": "16f2999ad87392e63461215c1c1450849a719272ae4a819d28464e41b5a081733e07dd30fd31deb7df87728edbe5f33cdfd71d4ccec4e4f73afac585fa1c1bb7"
+      },
+      "1_14_4+3": {
+        "name": "TechReborn-1.14.4-3.0.13+build.225.jar",
+        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/bJnaM01q/TechReborn-1.14.4-3.0.13%2Bbuild.225.jar",
+        "sha512": "24dc64a1f539653c990280a79adb2d4400324456121bb5230cbdd01b7594a991a1cf7dd241e4ddfc0f278df412acf3147875d87720a599c21d7431b80526193e"
       },
       "3_0_12_218": {
         "name": "TechReborn-1.14.4-3.0.12.218.jar",
@@ -3741,11 +3746,6 @@
         "name": "TechReborn-1.14.4-3.0.0.78.jar",
         "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/DHuvuKuP/TechReborn-1.14.4-3.0.0.78.jar",
         "sha512": "ff58c51ebc58fde6d4471dbedb99caf90eff16e1f3c3ad106d2fa5e96d29984113239a16f27a8b5aeb36f311542fa1599916b59281cb42d1a38caa03cde55304"
-      },
-      "1_14_4+3": {
-        "name": "TechReborn-1.14.4-3.0.22+build.273.jar",
-        "url": "https://cdn.modrinth.com/data/3eMENr4V/versions/yshaMGI3/TechReborn-1.14.4-3.0.22%2Bbuild.273.jar",
-        "sha512": "16f2999ad87392e63461215c1c1450849a719272ae4a819d28464e41b5a081733e07dd30fd31deb7df87728edbe5f33cdfd71d4ccec4e4f73afac585fa1c1bb7"
       }
     }
   }

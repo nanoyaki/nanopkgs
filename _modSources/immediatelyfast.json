@@ -1176,14 +1176,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
-        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
-      },
-      "1__20_1": {
-        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
-        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
+        "name": "ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/Us8JqrP9/ImmediatelyFast-Fabric-1.5.4%2B1.20.4.jar",
+        "sha512": "9efa25c2062ce24ef78716c8244f89a5d393ec9f937b165ffaec2aa8c9be664acbf7168e5739a237520c59c573861a39e374fe94c35321400039ba85be4ff2a5"
       },
       "1_5_4+1_20_4": {
         "name": "ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
@@ -1394,6 +1389,11 @@
         "name": "ImmediatelyFast-1.1.21+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/FtHQIJZd/ImmediatelyFast-1.1.21%2B1.20.1.jar",
         "sha512": "d14d8889398c73132f2927a109795ef347c5c06e8f1648a29aa5c4b696fcc855490f2c92fc0367d312c8de6e9f8f0293aa6a98d2339949a6aa7075910d5c77a6"
+      },
+      "1__20_1": {
+        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
+        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
       },
       "1_1_19": {
         "name": "ImmediatelyFast-1.1.19+1.20.1.jar",
@@ -1642,6 +1642,11 @@
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/FtHQIJZd/ImmediatelyFast-1.1.21%2B1.20.1.jar",
         "sha512": "d14d8889398c73132f2927a109795ef347c5c06e8f1648a29aa5c4b696fcc855490f2c92fc0367d312c8de6e9f8f0293aa6a98d2339949a6aa7075910d5c77a6"
       },
+      "1__1": {
+        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
+        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
+      },
       "1_1_19_1": {
         "name": "ImmediatelyFast-1.1.19+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/mGqxsY9X/ImmediatelyFast-1.1.19%2B1.20.1.jar",
@@ -1676,11 +1681,6 @@
         "name": "ImmediatelyFast-1.1.13+1.20.jar",
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/Jci0UG9F/ImmediatelyFast-1.1.13%2B1.20.jar",
         "sha512": "7849d3a9b995f74ef9716e7612a38da5e985730faa54432f8e28f50d3d798c6a5244c15349e826a4b83950ea0da8cc6a04846476434a0d0ab74e75fd706a7153"
-      },
-      "1__1": {
-        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
-        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
       }
     },
     "1_19_4": {
@@ -6852,14 +6852,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
-        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
-      },
-      "1__20_1": {
-        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
-        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
+        "name": "ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/Us8JqrP9/ImmediatelyFast-Fabric-1.5.4%2B1.20.4.jar",
+        "sha512": "9efa25c2062ce24ef78716c8244f89a5d393ec9f937b165ffaec2aa8c9be664acbf7168e5739a237520c59c573861a39e374fe94c35321400039ba85be4ff2a5"
       },
       "1_5_4+1_20_4": {
         "name": "ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
@@ -7070,6 +7065,11 @@
         "name": "ImmediatelyFast-1.1.21+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/FtHQIJZd/ImmediatelyFast-1.1.21%2B1.20.1.jar",
         "sha512": "d14d8889398c73132f2927a109795ef347c5c06e8f1648a29aa5c4b696fcc855490f2c92fc0367d312c8de6e9f8f0293aa6a98d2339949a6aa7075910d5c77a6"
+      },
+      "1__20_1": {
+        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
+        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
       },
       "1_1_19": {
         "name": "ImmediatelyFast-1.1.19+1.20.1.jar",
@@ -7318,6 +7318,11 @@
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/FtHQIJZd/ImmediatelyFast-1.1.21%2B1.20.1.jar",
         "sha512": "d14d8889398c73132f2927a109795ef347c5c06e8f1648a29aa5c4b696fcc855490f2c92fc0367d312c8de6e9f8f0293aa6a98d2339949a6aa7075910d5c77a6"
       },
+      "1__1": {
+        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
+        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
+      },
       "1_1_19_1": {
         "name": "ImmediatelyFast-1.1.19+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/mGqxsY9X/ImmediatelyFast-1.1.19%2B1.20.1.jar",
@@ -7352,11 +7357,6 @@
         "name": "ImmediatelyFast-1.1.13+1.20.jar",
         "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/Jci0UG9F/ImmediatelyFast-1.1.13%2B1.20.jar",
         "sha512": "7849d3a9b995f74ef9716e7612a38da5e985730faa54432f8e28f50d3d798c6a5244c15349e826a4b83950ea0da8cc6a04846476434a0d0ab74e75fd706a7153"
-      },
-      "1__1": {
-        "name": "ImmediatelyFast-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar",
-        "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
       }
     },
     "1_19_4": {

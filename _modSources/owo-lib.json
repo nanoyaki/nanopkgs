@@ -206,15 +206,15 @@
         "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/MufQflLZ/owo-lib-0.12.15.2%2B1.21.jar",
         "sha512": "851ac7c8596f3b56c2978c438affb141ad2caba15135c3f4cd1791261eae4b93e10b5c76c85ea13584a74e6dd217408d73f9bb694149713fdaa0e71493111290"
       },
-      "0_12_15+1_21": {
-        "name": "owo-lib-0.12.15+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar",
-        "sha512": "faa86df062ec4fa58b653455deb1307a778e4307392f51a29c5a87de78da7173bb6f77a5ed239306226f2bf972aa9221fbd946a2c07232ecfa09f798ae381924"
-      },
       "0_12_15_1+1_21": {
         "name": "owo-lib-0.12.15.1+1.21.jar",
         "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar",
         "sha512": "61a7d77a76b1180890bcc3a391c0e4424e3e9e9808844831af2a42e38e190072bc3b15d6debbbdb276239b4f32d05dc1c995a3a5e6ba90c72f1f954629d52a75"
+      },
+      "0_12_15+1_21": {
+        "name": "owo-lib-0.12.15+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar",
+        "sha512": "faa86df062ec4fa58b653455deb1307a778e4307392f51a29c5a87de78da7173bb6f77a5ed239306226f2bf972aa9221fbd946a2c07232ecfa09f798ae381924"
       },
       "0_12_14+1_21": {
         "name": "owo-lib-0.12.14+1.21.jar",
@@ -829,9 +829,34 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "owo-lib-neoforge-0.12.15-beta.12+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/qm96mQBh/owo-lib-neoforge-0.12.15-beta.12%2B1.21.jar",
-        "sha512": "23decbf1a13c5233f5c6eee6e0f259672cbf4c34d28d7368e6ee67f91bfbf63345577c7f7acfd97684f706d4a6c672eaafb2ada85de9650da6aed840584958bc"
+        "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+        "sha512": "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f413667dbca1e55772445b04a70210c17b3bc13e3c88e425e7d928104b9fa"
+      },
+      "0_12_15_5-beta_1+1_21": {
+        "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+        "sha512": "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f413667dbca1e55772445b04a70210c17b3bc13e3c88e425e7d928104b9fa"
+      },
+      "0_12_15_1-beta_6+1_21": {
+        "name": "owo-lib-neoforge-0.12.15.1-beta.6+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/aDarc4xa/owo-lib-neoforge-0.12.15.1-beta.6%2B1.21.jar",
+        "sha512": "450544c2d13f42e3f9eedd4ede4f8ad9085adb604b1da3049304eab3b18e01ab43a6167eec93966eb3a93df33df7f298848977612357b2fc3c3d27cd1d08a2f9"
+      },
+      "0_12_15_1-beta_3+1_21": {
+        "name": "owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/HD3e3YKK/owo-lib-neoforge-0.12.15.1-beta.3%2B1.21.jar",
+        "sha512": "581f0f3fa733bc5d110407839159d19864de0310022d07dd8c513d03f4a6213f8b1769773d8b847a909c42da6c71c20be1e685d366ee0586eb8a42eef19f3fca"
+      },
+      "0_12_15_1-beta_2+1_21": {
+        "name": "owo-lib-neoforge-0.12.15.1-beta.2+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/xGZcfBtJ/owo-lib-neoforge-0.12.15.1-beta.2%2B1.21.jar",
+        "sha512": "539f578fc983d60113e2490ad22b2331b91e563fd41a43c09d014a4e199b7272bd847d7034dfc18077ea91dfff6f94b5a40a30d330b3af6c8d8083da2bb08490"
+      },
+      "0_12_15_1-beta_1+1_21": {
+        "name": "owo-lib-neoforge-0.12.15.1-beta.1+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/ZHGf6RkT/owo-lib-neoforge-0.12.15.1-beta.1%2B1.21.jar",
+        "sha512": "a4b2e86577f95b2d9ceaf9d6f11026cc3fbf2999705a5be8e27c481db8d0adafa3edea075adca149e84a817b69ae6464292f90531c4c6cca9f72122527ac05b9"
       },
       "0_12_15-beta_12+1_21": {
         "name": "owo-lib-neoforge-0.12.15-beta.12+1.21.jar",
@@ -863,35 +888,10 @@
         "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/W20aY40r/owo-lib-neoforge-0.12.15-beta.5%2B1.21.jar",
         "sha512": "e7c0b95ffccb4c66a76b3bd9e84f33259560e06b7ad839db7faab8960533281fbb24a9a98b6b5f54e2b49efb63fc13d6e82b1453810bf7c552cc95a4f017d71a"
       },
-      "0_12_15_5-beta_1+1_21": {
-        "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
-        "sha512": "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f413667dbca1e55772445b04a70210c17b3bc13e3c88e425e7d928104b9fa"
-      },
       "0_12_15-beta_4+1_21": {
         "name": "owo-lib-neoforge-0.12.15-beta.4+1.21.jar",
         "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/etV6oiTP/owo-lib-neoforge-0.12.15-beta.4%2B1.21.jar",
         "sha512": "1be55838d0dfa8de09629d5f22690fccc8cd5d9efc59160fa8d3948e7fee7b63f00c6c149b8f9da7c7fcf84f51f369f162cade9c98eb019cae04af30522ab878"
-      },
-      "0_12_15_1-beta_6+1_21": {
-        "name": "owo-lib-neoforge-0.12.15.1-beta.6+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/aDarc4xa/owo-lib-neoforge-0.12.15.1-beta.6%2B1.21.jar",
-        "sha512": "450544c2d13f42e3f9eedd4ede4f8ad9085adb604b1da3049304eab3b18e01ab43a6167eec93966eb3a93df33df7f298848977612357b2fc3c3d27cd1d08a2f9"
-      },
-      "0_12_15_1-beta_3+1_21": {
-        "name": "owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/HD3e3YKK/owo-lib-neoforge-0.12.15.1-beta.3%2B1.21.jar",
-        "sha512": "581f0f3fa733bc5d110407839159d19864de0310022d07dd8c513d03f4a6213f8b1769773d8b847a909c42da6c71c20be1e685d366ee0586eb8a42eef19f3fca"
-      },
-      "0_12_15_1-beta_2+1_21": {
-        "name": "owo-lib-neoforge-0.12.15.1-beta.2+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/xGZcfBtJ/owo-lib-neoforge-0.12.15.1-beta.2%2B1.21.jar",
-        "sha512": "539f578fc983d60113e2490ad22b2331b91e563fd41a43c09d014a4e199b7272bd847d7034dfc18077ea91dfff6f94b5a40a30d330b3af6c8d8083da2bb08490"
-      },
-      "0_12_15_1-beta_1+1_21": {
-        "name": "owo-lib-neoforge-0.12.15.1-beta.1+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/ZHGf6RkT/owo-lib-neoforge-0.12.15.1-beta.1%2B1.21.jar",
-        "sha512": "a4b2e86577f95b2d9ceaf9d6f11026cc3fbf2999705a5be8e27c481db8d0adafa3edea075adca149e84a817b69ae6464292f90531c4c6cca9f72122527ac05b9"
       }
     }
   },
@@ -1102,15 +1102,15 @@
         "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/MufQflLZ/owo-lib-0.12.15.2%2B1.21.jar",
         "sha512": "851ac7c8596f3b56c2978c438affb141ad2caba15135c3f4cd1791261eae4b93e10b5c76c85ea13584a74e6dd217408d73f9bb694149713fdaa0e71493111290"
       },
-      "0_12_15+1_21": {
-        "name": "owo-lib-0.12.15+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar",
-        "sha512": "faa86df062ec4fa58b653455deb1307a778e4307392f51a29c5a87de78da7173bb6f77a5ed239306226f2bf972aa9221fbd946a2c07232ecfa09f798ae381924"
-      },
       "0_12_15_1+1_21": {
         "name": "owo-lib-0.12.15.1+1.21.jar",
         "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar",
         "sha512": "61a7d77a76b1180890bcc3a391c0e4424e3e9e9808844831af2a42e38e190072bc3b15d6debbbdb276239b4f32d05dc1c995a3a5e6ba90c72f1f954629d52a75"
+      },
+      "0_12_15+1_21": {
+        "name": "owo-lib-0.12.15+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar",
+        "sha512": "faa86df062ec4fa58b653455deb1307a778e4307392f51a29c5a87de78da7173bb6f77a5ed239306226f2bf972aa9221fbd946a2c07232ecfa09f798ae381924"
       },
       "0_12_14+1_21": {
         "name": "owo-lib-0.12.14+1.21.jar",
@@ -1638,19 +1638,19 @@
     },
     "1_18_2": {
       "latest": {
-        "name": "owo-lib-0.7.2+1.18.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.7.2%2B1.18/owo-lib-0.7.2%2B1.18.jar",
-        "sha512": "2ed81e8cd549c74a1ecdf68e776e8bb53244b516f5f3b7a3e2d9255b7f8646711f02997761510effce1c8a123c97c3f2fabf2b030e0c39b211fc3416cb3a3271"
-      },
-      "0_7_2+1_18": {
-        "name": "owo-lib-0.7.2+1.18.jar",
-        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.7.2%2B1.18/owo-lib-0.7.2%2B1.18.jar",
-        "sha512": "2ed81e8cd549c74a1ecdf68e776e8bb53244b516f5f3b7a3e2d9255b7f8646711f02997761510effce1c8a123c97c3f2fabf2b030e0c39b211fc3416cb3a3271"
+        "name": "owo-lib-0.7.2-no-cme+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.7.2-no-cme%2B1.18/owo-lib-0.7.2-no-cme%2B1.18.jar",
+        "sha512": "d6d82ce6e88446adba46d686e6a71cd127eb5c3a6ef55919007d02beb8555ee214921eecf28d9b1fa463ddd05786f04497d082e3af4797c5cb45397a262ec378"
       },
       "0_7_2-no-cme+1_18": {
         "name": "owo-lib-0.7.2-no-cme+1.18.jar",
         "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.7.2-no-cme%2B1.18/owo-lib-0.7.2-no-cme%2B1.18.jar",
         "sha512": "d6d82ce6e88446adba46d686e6a71cd127eb5c3a6ef55919007d02beb8555ee214921eecf28d9b1fa463ddd05786f04497d082e3af4797c5cb45397a262ec378"
+      },
+      "0_7_2+1_18": {
+        "name": "owo-lib-0.7.2+1.18.jar",
+        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.7.2%2B1.18/owo-lib-0.7.2%2B1.18.jar",
+        "sha512": "2ed81e8cd549c74a1ecdf68e776e8bb53244b516f5f3b7a3e2d9255b7f8646711f02997761510effce1c8a123c97c3f2fabf2b030e0c39b211fc3416cb3a3271"
       },
       "0_7_1+1_18": {
         "name": "owo-lib-0.7.1+1.18.jar",

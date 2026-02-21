@@ -2,38 +2,28 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "Zeta-1.1-38.jar",
-        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/PjkPuWJo/Zeta-1.1-38.jar",
-        "sha512": "5f875beb216f57a1099a9da3ca4914928f654be8843d07b21f1b3a39844ba4d5d3db972e7994ae5f88a68d0cae67c918e6efa7c1de14c1918a78cd5a4678ff8f"
-      },
-      "1_21_1-1_1-38": {
-        "name": "Zeta-1.1-38.jar",
-        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/PjkPuWJo/Zeta-1.1-38.jar",
-        "sha512": "5f875beb216f57a1099a9da3ca4914928f654be8843d07b21f1b3a39844ba4d5d3db972e7994ae5f88a68d0cae67c918e6efa7c1de14c1918a78cd5a4678ff8f"
+        "name": "Zeta-1.1-39.jar",
+        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/iyNxYFme/Zeta-1.1-39.jar",
+        "sha512": "ef4d2ad96a30fd275c2859308212845d18a086fce003d5c248934548a12a4a0fbc8fd242231c22d95a539254c635f41815f6db86065b639edc2b5efe993fce23"
       },
       "1_1-39": {
         "name": "Zeta-1.1-39.jar",
         "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/iyNxYFme/Zeta-1.1-39.jar",
         "sha512": "ef4d2ad96a30fd275c2859308212845d18a086fce003d5c248934548a12a4a0fbc8fd242231c22d95a539254c635f41815f6db86065b639edc2b5efe993fce23"
+      },
+      "1_21_1-1_1-38": {
+        "name": "Zeta-1.1-38.jar",
+        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/PjkPuWJo/Zeta-1.1-38.jar",
+        "sha512": "5f875beb216f57a1099a9da3ca4914928f654be8843d07b21f1b3a39844ba4d5d3db972e7994ae5f88a68d0cae67c918e6efa7c1de14c1918a78cd5a4678ff8f"
       }
     }
   },
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "Zeta-1.0-27.jar",
-        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/UyIrhtXm/Zeta-1.0-27.jar",
-        "sha512": "bd597da9d4dcfaeca95c9dbdaa49872ad07a65f5e99ac0cdb5175dc830f994b24046a82c89597f81ac143ce4f7b02fa59d839099219a37954190a7b82034f0b2"
-      },
-      "1_20-27": {
-        "name": "Zeta-1.0-27.jar",
-        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/UyIrhtXm/Zeta-1.0-27.jar",
-        "sha512": "bd597da9d4dcfaeca95c9dbdaa49872ad07a65f5e99ac0cdb5175dc830f994b24046a82c89597f81ac143ce4f7b02fa59d839099219a37954190a7b82034f0b2"
-      },
-      "1_20-26": {
-        "name": "Zeta-1.0-26.jar",
-        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/PkLhBJmH/Zeta-1.0-26.jar",
-        "sha512": "2707c55dfe3eacaf8f14eb88da3a5134e1b2674233a17954c80775d24cc03e8db1c7664800e9e8dffc8d9fd7ac7813d5a8ebafeac4197bdf15be5d3706c35fdd"
+        "name": "Zeta-1.0-31.jar",
+        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/mSER3jBI/Zeta-1.0-31.jar",
+        "sha512": "0b14233864d8fdad148c33971731d8e9638d2cdceab8977162448598d78b74beb838913d445e065f6e0bf0d5cf36b8b843fc576ce47ab9899b3f2d7c713eefef"
       },
       "1_20_1-1_0-31": {
         "name": "Zeta-1.0-31.jar",
@@ -54,6 +44,16 @@
         "name": "Zeta-1.0-28.jar",
         "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/mJDm9MPg/Zeta-1.0-28.jar",
         "sha512": "1766bc3617ce9913eb4a2b45458f76ed20d6363b2033fc91b077c0109e29af9690b606939f2d1313a4309dbcf62e53556b46472445fee4474ba190dfdd599d71"
+      },
+      "1_20-27": {
+        "name": "Zeta-1.0-27.jar",
+        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/UyIrhtXm/Zeta-1.0-27.jar",
+        "sha512": "bd597da9d4dcfaeca95c9dbdaa49872ad07a65f5e99ac0cdb5175dc830f994b24046a82c89597f81ac143ce4f7b02fa59d839099219a37954190a7b82034f0b2"
+      },
+      "1_20-26": {
+        "name": "Zeta-1.0-26.jar",
+        "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/PkLhBJmH/Zeta-1.0-26.jar",
+        "sha512": "2707c55dfe3eacaf8f14eb88da3a5134e1b2674233a17954c80775d24cc03e8db1c7664800e9e8dffc8d9fd7ac7813d5a8ebafeac4197bdf15be5d3706c35fdd"
       },
       "1_20_1-1_0-24": {
         "name": "Zeta-1.0-24.jar",

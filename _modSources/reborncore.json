@@ -2,9 +2,14 @@
   "forge": {
     "1_12_2": {
       "latest": {
-        "name": "RebornCore-1.12.2-3.13.7.428-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/aI4kwSRd/RebornCore-1.12.2-3.13.7.428-universal.jar",
-        "sha512": "a099f9b6d982faf7be9785bf0c3df50e5f671983e18e546e957c6f1f58632a0d75577a213cb6dc7cd114f8c1e7b0e43d8cac93e5ed82f4293678f19220754c56"
+        "name": "RebornCore-1.12.2-3.19.5-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/9QJTQQ6n/RebornCore-1.12.2-3.19.5-universal.jar",
+        "sha512": "19433144a60e65a0fe3207e8c64151495e8504d7b5b87293c79395148fb819c5b34ddea33e1c9ed5e69631f179549049aa4e47ceb95ac4c806fe8e2903f8fbbd"
+      },
+      "1_12_2+3": {
+        "name": "RebornCore-1.12.2-3.19.5-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/9QJTQQ6n/RebornCore-1.12.2-3.19.5-universal.jar",
+        "sha512": "19433144a60e65a0fe3207e8c64151495e8504d7b5b87293c79395148fb819c5b34ddea33e1c9ed5e69631f179549049aa4e47ceb95ac4c806fe8e2903f8fbbd"
       },
       "3_13_7_428+universal": {
         "name": "RebornCore-1.12.2-3.13.7.428-universal.jar",
@@ -350,11 +355,6 @@
         "name": "RebornCore-1.12.1-3.4.2.112-universal.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/buMF3sh3/RebornCore-1.12.1-3.4.2.112-universal.jar",
         "sha512": "f8515c877043e4d1e9f85b167877a3fefdbd3aaf62409bd8138e90ddda5b057c842dcd2aa64d7baf771b362400448b7ef77bfab947a03c3cc930d5faf3c692f2"
-      },
-      "1_12_2+3": {
-        "name": "RebornCore-1.12.2-3.19.5-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/9QJTQQ6n/RebornCore-1.12.2-3.19.5-universal.jar",
-        "sha512": "19433144a60e65a0fe3207e8c64151495e8504d7b5b87293c79395148fb819c5b34ddea33e1c9ed5e69631f179549049aa4e47ceb95ac4c806fe8e2903f8fbbd"
       }
     },
     "1_12_1": {
@@ -1238,9 +1238,9 @@
         "sha512": "88d8f4f47707d8cfd34592fdb2a82302c9078662ed6dd0902cf622a4c491b2dd17ad32cb08f09e9b5c6bcf8bee61aa82b0748973c2b32e3f598f2dd31ffbb8c3"
       },
       "1_11_2+2": {
-        "name": "RebornCore-1.11.2-2.12.0.7-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/6PXmk70G/RebornCore-1.11.2-2.12.0.7-universal.jar",
-        "sha512": "13f8d761f04da00ac2a1b9cbb4db47711719af0000a9e6742d5e910f879f0e03e123316c37dd1094f03040c469e5f4b5d3abae01074741151724550d5c5b4041"
+        "name": "RebornCore-1.11.2-2.11.4.2-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/HoGdDp98/RebornCore-1.11.2-2.11.4.2-universal.jar",
+        "sha512": "8580a07e1d2c856e32ba80183bc0754dcfbd8ab55376ae5553ca40a2bb11efa0009580fc421ab0a707b35ecc9b0d300a8b1da37e1cefa0624666f2a3d71187c7"
       },
       "1_11+2": {
         "name": "RebornCore-1.11-2.11.3.65-universal.jar",
@@ -1330,14 +1330,14 @@
         "sha512": "88d8f4f47707d8cfd34592fdb2a82302c9078662ed6dd0902cf622a4c491b2dd17ad32cb08f09e9b5c6bcf8bee61aa82b0748973c2b32e3f598f2dd31ffbb8c3"
       },
       "1_11_2+2": {
-        "name": "RebornCore-1.11.2-2.12.0.7-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/6PXmk70G/RebornCore-1.11.2-2.12.0.7-universal.jar",
-        "sha512": "13f8d761f04da00ac2a1b9cbb4db47711719af0000a9e6742d5e910f879f0e03e123316c37dd1094f03040c469e5f4b5d3abae01074741151724550d5c5b4041"
+        "name": "RebornCore-1.11.2-2.11.4.2-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/HoGdDp98/RebornCore-1.11.2-2.11.4.2-universal.jar",
+        "sha512": "8580a07e1d2c856e32ba80183bc0754dcfbd8ab55376ae5553ca40a2bb11efa0009580fc421ab0a707b35ecc9b0d300a8b1da37e1cefa0624666f2a3d71187c7"
       },
       "1_11+2": {
-        "name": "RebornCore-1.11-2.11.3.65-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/XrwJKHZG/RebornCore-1.11-2.11.3.65-universal.jar",
-        "sha512": "82628dd419a53037e74ea3f40fbf8a45de38faee2a39ace00381f1315e4c2c7752f22a007f3caf0d48ea3afda5f1d221dcff52f8a4013094e16c07fbe479ee66"
+        "name": "RebornCore-1.11-2.9.0.4-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/2aGd81Tm/RebornCore-1.11-2.9.0.4-universal.jar",
+        "sha512": "0795e87bdc8497502563dbf764df37b540fc2c56dc86cc808309959c075c68fed46e7228a29d179462eda75fac442548fc0fa841039dcffc49332579d955c979"
       }
     },
     "1_10_2": {
@@ -1397,9 +1397,9 @@
         "sha512": "83de88f0e197acb51407a902ed0ae7c02e6eb22fbbe97da2c7cd6fe656757ece156c374c029a56b358373fdde5d5309e5256531e4cafc5a0efdeb3aa4cac8479"
       },
       "1_10_2+2": {
-        "name": "RebornCore-1.10.2-2.13.0.102-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/viusTZg6/RebornCore-1.10.2-2.13.0.102-universal.jar",
-        "sha512": "fa3d8d7b94318f7a7334eb18acdd3ca0ae882e1f401a0baf901635bf14ded624e2dd5c0323085bd3454a93a83aca76238369936e787e85dc521840e2bada04af"
+        "name": "RebornCore-1.10.2-2.5.4.1-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/EH29mcse/RebornCore-1.10.2-2.5.4.1-universal.jar",
+        "sha512": "d0d96d1de5832988a8b1c96e939dfb2c150793147900284df3b5c3bda4055736ce47e6765c24c3364d889f6477b5a1b7956bdc189f6616baa13fe1d055b374a8"
       },
       "1_9_4+2": {
         "name": "RebornCore-1.9.4-2.5.4.47-universal.jar",
@@ -1419,9 +1419,9 @@
         "sha512": "12555e6b8891f36aec4978dbee06aabee428057dfcf6131e887d68a69cfc05c9754ef06a93dfa8bf2895ff7a5ed9d29d14b7d1651f8fc09aba010bf0bc14d8a1"
       },
       "1_10+2": {
-        "name": "RebornCore-1.10-2.5.5.4-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/ZWbDLZf8/RebornCore-1.10-2.5.5.4-universal.jar",
-        "sha512": "eb846e364bbaaa3ea38b7a5ef56d1619155358445ea3a7120bcb1b16b5c3474550e193dcad9623ec96829c98fd3e857be55d3a6c62b9fa3bc36bad1cafe8b341"
+        "name": "RebornCore-1.10-2.5.4.2-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/Q6RfAow4/RebornCore-1.10-2.5.4.2-universal.jar",
+        "sha512": "2adadf280ce6d65e1b213c176097dac5096cffd60c69b55e8beb44bd7a7190049680d15b5b25beacfa8ade5d4876c0f8d22065f838f2009c00c45891a7aa3318"
       },
       "1_9_4+2": {
         "name": "RebornCore-1.9.4-2.5.4.47-universal.jar",
@@ -1441,50 +1441,50 @@
         "sha512": "12555e6b8891f36aec4978dbee06aabee428057dfcf6131e887d68a69cfc05c9754ef06a93dfa8bf2895ff7a5ed9d29d14b7d1651f8fc09aba010bf0bc14d8a1"
       },
       "1_9_4+2": {
-        "name": "RebornCore-1.9.4-2.5.5.52-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/hwGuTlL8/RebornCore-1.9.4-2.5.5.52-universal.jar",
-        "sha512": "f3c583b51c75703b2c4d9bf6d1739cdf66584f17925f3aa7ff2915299a14d0b109fc8c2b8e96a0a9b4a236e08d626b1ef8bbca16b9f16a4fde6b405700caebb8"
+        "name": "RebornCore-1.9.4-2.4.0.5-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/QoXPzRzk/RebornCore-1.9.4-2.4.0.5-universal.jar",
+        "sha512": "9510047e7741a4ff9f018a21b5fe0a109dd8d7421e09d88dae457a683e0560849c511bdca099a133a8c6442cac17f3fecc9e385e03abf80044dfccfb1c7101c5"
       }
     },
     "1_9": {
       "latest": {
-        "name": "RebornCore-1.9-2.0.0.5-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/OzsCrZCZ/RebornCore-1.9-2.0.0.5-universal.jar",
-        "sha512": "5e1cece8b83c8ae1ce4877602cd8f4270d583fb8bd8dac97abb75a17fb49e9ee8810949ec92627c3ccfaafdee89a125d472acb32fbb072bde3bcf3ce63d23539"
-      },
-      "1_9+2": {
         "name": "RebornCore-1.9-2.3.3.86-universal.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/DikpiLJy/RebornCore-1.9-2.3.3.86-universal.jar",
         "sha512": "de7c3a5405b9c267a6952473ad9b52cdaa4a8399a78283f284e5c68a0c70a76e18bff654f91b403cb4097cf0b70f39bab6b01c382f9e559dc7f6c2ee7db5bca0"
+      },
+      "1_9+2": {
+        "name": "RebornCore-1.9-2.0.0.5-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/OzsCrZCZ/RebornCore-1.9-2.0.0.5-universal.jar",
+        "sha512": "5e1cece8b83c8ae1ce4877602cd8f4270d583fb8bd8dac97abb75a17fb49e9ee8810949ec92627c3ccfaafdee89a125d472acb32fbb072bde3bcf3ce63d23539"
       }
     },
     "1_8_9": {
       "latest": {
-        "name": "RebornCore-1.8.9-1.2.2.3-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/KJbCZkdI/RebornCore-1.8.9-1.2.2.3-universal.jar",
-        "sha512": "3bebc397f438250436aa7a2367e4ed7584a8bc47090a124f793670cbd8f4740848607491c5c1dfc270247bd06ae776fc6a4a63cdf97a44ee1d3e7510149ffacc"
-      },
-      "1_8_9+1": {
         "name": "RebornCore-1.8.9-1.6.0.58-universal.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/TtKMXnC5/RebornCore-1.8.9-1.6.0.58-universal.jar",
         "sha512": "fff79f37d2878d01480644413cb0f8480c096a80f3aa88d95963765bf5e37ecabfb4b5d2de9d69c27e04f4158aa5f900b0c573e58191a322a023f261b4a6b9ad"
+      },
+      "1_8_9+1": {
+        "name": "RebornCore-1.8.9-1.2.2.3-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/KJbCZkdI/RebornCore-1.8.9-1.2.2.3-universal.jar",
+        "sha512": "3bebc397f438250436aa7a2367e4ed7584a8bc47090a124f793670cbd8f4740848607491c5c1dfc270247bd06ae776fc6a4a63cdf97a44ee1d3e7510149ffacc"
       }
     },
     "1_8_8": {
       "latest": {
-        "name": "RebornCore-1.8.9-1.2.2.3-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/KJbCZkdI/RebornCore-1.8.9-1.2.2.3-universal.jar",
-        "sha512": "3bebc397f438250436aa7a2367e4ed7584a8bc47090a124f793670cbd8f4740848607491c5c1dfc270247bd06ae776fc6a4a63cdf97a44ee1d3e7510149ffacc"
-      },
-      "1_8_9+1": {
         "name": "RebornCore-1.8.9-1.4.3.20-universal.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/rB3Due4h/RebornCore-1.8.9-1.4.3.20-universal.jar",
         "sha512": "ea7c60cb29de8fe5aab05ccdceaf1cbe98ff5d663b5ff9e9cd0e35c6b046c7edb2306880c4498ec19db4396e55b857218c4e464dcb0bede350d389e25607f6a5"
       },
+      "1_8_9+1": {
+        "name": "RebornCore-1.8.9-1.2.2.3-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/KJbCZkdI/RebornCore-1.8.9-1.2.2.3-universal.jar",
+        "sha512": "3bebc397f438250436aa7a2367e4ed7584a8bc47090a124f793670cbd8f4740848607491c5c1dfc270247bd06ae776fc6a4a63cdf97a44ee1d3e7510149ffacc"
+      },
       "1_8_8+1": {
-        "name": "RebornCore-1.8.8-1.2.1.36-universal.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/ibAZfUN6/RebornCore-1.8.8-1.2.1.36-universal.jar",
-        "sha512": "b24a050d3dbc62bd08bd01ff63d5b788fd7d2fb4c5428c177a78208f8bfb6abd8dc6e1fef3148b0813a15c9fb20024781c102a28976f1a1a58839c3fdd9dc58f"
+        "name": "RebornCore-1.8.8-1.0.0.18-universal.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/CpyQUIHf/RebornCore-1.8.8-1.0.0.18-universal.jar",
+        "sha512": "5fba1532f27946f31599e3401766ba78a3b41d24b243c558995b643dce8e84a1c1f0ff0d9eb135a483f839b803236876c08b7ee3949a1a481da977c335285669"
       }
     },
     "1_7_10": {
@@ -1603,14 +1603,9 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "RebornCore-5.13.0.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/LB4NR5JS/RebornCore-5.13.0.jar",
-        "sha512": "9fb94b7e5ae461ae383c3ef12fc8ab700733b8724cc4eed399117d2b4396579e3aa6caad1aff2846e64ac63a8f2b6797f5874f9873ac8cedf20d893cd37f9632"
-      },
-      "5_13_0": {
-        "name": "RebornCore-5.13.0.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/LB4NR5JS/RebornCore-5.13.0.jar",
-        "sha512": "9fb94b7e5ae461ae383c3ef12fc8ab700733b8724cc4eed399117d2b4396579e3aa6caad1aff2846e64ac63a8f2b6797f5874f9873ac8cedf20d893cd37f9632"
+        "name": "RebornCore-5.12.9.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/vpoUfM7s/RebornCore-5.12.9.jar",
+        "sha512": "8ced9444f141b59478ba19040529e726750447c817cc53abb83d33fd9063aae94d3502116298cc159ffd0ef9aa4eb4160dbdeed7007fc7ac2ea1dfde5fb8b5df"
       },
       "5_12_9": {
         "name": "RebornCore-5.12.9.jar",
@@ -1631,6 +1626,11 @@
         "name": "RebornCore-5.12.6.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/q1DBQX0b/RebornCore-5.12.6.jar",
         "sha512": "8c1dd03fa7f33fc48fb00428c337ca547451cfe81e9b4d4e598f612703789c8e3d8e1e51ecce4b200ef6813b43ba3ce977c7dd31b27c265fa2cd268941d450e4"
+      },
+      "5_13_0": {
+        "name": "RebornCore-5.13.0.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/LB4NR5JS/RebornCore-5.13.0.jar",
+        "sha512": "9fb94b7e5ae461ae383c3ef12fc8ab700733b8724cc4eed399117d2b4396579e3aa6caad1aff2846e64ac63a8f2b6797f5874f9873ac8cedf20d893cd37f9632"
       },
       "5_12_5": {
         "name": "RebornCore-5.12.5.jar",
@@ -2051,44 +2051,44 @@
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/malQy26H/RebornCore-5.2.1.jar",
         "sha512": "32df8b0c08b437e06c1885439921484bf6a4b65dd3c8395744825c5005c717c842bc149dcf8f84e37160bab6f3b43481508329b84da8dcacd3ee239729e843cc"
       },
-      "5_2_0+beta": {
-        "name": "RebornCore-5.2.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/MFgQdsCB/RebornCore-5.2.0-beta.3.jar",
-        "sha512": "66dfee56f71d9160e7ce8a963e76d612fa40511f5b88ea9b8ce4ec88c2a7acd679509941e64ea9c7642cbbf77955a2134540515e7c0000a21522f8640a272e9c"
-      },
       "5_2_0": {
         "name": "RebornCore-5.2.0.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/7DIroq6Z/RebornCore-5.2.0.jar",
         "sha512": "9c4d10c2023e9b09f514f37a08bc81b8bcb137b3c1b28a488216dcecd988dee02f571f3fe5fc30f8cbd245607777f0aa27d89dcdd26c2499d4442f684edb8827"
+      },
+      "5_2_0+beta": {
+        "name": "RebornCore-5.2.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/S1MyBAMx/RebornCore-5.2.0-beta.1.jar",
+        "sha512": "db3811d1d1f92c2cc2432fbaa953fc34a9e8f0f999f0fb7e68d7b1214c5d0b3a96c6412709b283771ae2b0e83f4c42d797412cdfc20ca749d26f433a1ad97764"
       }
     },
     "1_18_1": {
       "latest": {
-        "name": "RebornCore-5.1.0-beta.4.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/t0tWRPlN/RebornCore-5.1.0-beta.4.jar",
-        "sha512": "0a6a193b5ad9a4d509d361484accb371aa36d11429976bb7bf7ff338a51cba2d717ebd44d57e44f5f9f6e4b1949334c4319a9f6298b04b2d2930ad8333c0a951"
-      },
-      "5_1_0+beta": {
-        "name": "RebornCore-5.1.0-beta.9.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/5ASW2nOp/RebornCore-5.1.0-beta.9.jar",
-        "sha512": "c0a61134be7f42b45779ee6a576b3ab2294d11376dfdb264ffb485fbda0dfb775e06dcd7c38473db1716d3b874f58ed17aad7bf34323ac17aa3b947b03bc152b"
+        "name": "RebornCore-5.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/chaStrbt/RebornCore-5.1.0.jar",
+        "sha512": "46049a581dbe3a3ea85d3629b1d2901e7da2c24729307fe8efcde008189905ce12e4e7730fbaf2b34114f9181168f70edc3ad7b01e8c09735f1bf151c4c5da64"
       },
       "5_1_0": {
         "name": "RebornCore-5.1.0.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/chaStrbt/RebornCore-5.1.0.jar",
         "sha512": "46049a581dbe3a3ea85d3629b1d2901e7da2c24729307fe8efcde008189905ce12e4e7730fbaf2b34114f9181168f70edc3ad7b01e8c09735f1bf151c4c5da64"
+      },
+      "5_1_0+beta": {
+        "name": "RebornCore-5.1.0-beta.4.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/t0tWRPlN/RebornCore-5.1.0-beta.4.jar",
+        "sha512": "0a6a193b5ad9a4d509d361484accb371aa36d11429976bb7bf7ff338a51cba2d717ebd44d57e44f5f9f6e4b1949334c4319a9f6298b04b2d2930ad8333c0a951"
       }
     },
     "1_18": {
       "latest": {
-        "name": "RebornCore-5.1.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/1QdNVASA/RebornCore-5.1.0-beta.3.jar",
-        "sha512": "7cb3ebade71a55b69ee266a18bb4595906fc43f87537644c6eee95588b29b5bafceb81491b7162bff6bb3532b34db975f714854dfbe834d1eb73b04f6830f8f1"
-      },
-      "5_1_0+beta": {
         "name": "RebornCore-5.1.0-beta.5.jar",
         "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/bUIjbuWA/RebornCore-5.1.0-beta.5.jar",
         "sha512": "e23c00f0b398a398e021281a3082bf71b795fa084c7367cfb5595c615abe1e67495d844068d4f675ed6d0121804c63ed079f2ed7a4b3e28be1db0e03a282b726"
+      },
+      "5_1_0+beta": {
+        "name": "RebornCore-5.1.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/3NCrJdj3/versions/1QdNVASA/RebornCore-5.1.0-beta.3.jar",
+        "sha512": "7cb3ebade71a55b69ee266a18bb4595906fc43f87537644c6eee95588b29b5bafceb81491b7162bff6bb3532b34db975f714854dfbe834d1eb73b04f6830f8f1"
       }
     },
     "1_17_1": {

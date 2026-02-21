@@ -814,15 +814,15 @@
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/LbIVLEYC/appliedenergistics2-forge-15.4.1.jar",
         "sha512": "1f77da276502573e880c01f66f668125521f471e0aadc8ecb1c3c8963d1e0a51f0b29ba7b36bc8bd1f0807d851cce3baa95e92790f983f5c9c9f5c91a8388bd5"
       },
-      "15_4_0": {
-        "name": "appliedenergistics2-forge-15.4.0.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/M2fCB0ua/appliedenergistics2-forge-15.4.0.jar",
-        "sha512": "da277f2fab5ab205713dd4f856c5fbbcc477bc260e9d028830979300ee180bf12bb1b8631bc99e90289e05a1f8204767c7fbc38e8a49198e07a6cd2a9a179a9d"
-      },
       "15_3_6": {
         "name": "appliedenergistics2-forge-15.3.6.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/jshq8JsX/appliedenergistics2-forge-15.3.6.jar",
         "sha512": "93bb4ad6ba2559fb58006b7153f1e95c36cf53b15876a2d28a95b0e763bf9c26447947199623c83d8412e3bd04a0dd22644ba9dd0ee607a32268096dd10a2c9e"
+      },
+      "15_4_0": {
+        "name": "appliedenergistics2-forge-15.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/M2fCB0ua/appliedenergistics2-forge-15.4.0.jar",
+        "sha512": "da277f2fab5ab205713dd4f856c5fbbcc477bc260e9d028830979300ee180bf12bb1b8631bc99e90289e05a1f8204767c7fbc38e8a49198e07a6cd2a9a179a9d"
       },
       "15_3_5": {
         "name": "appliedenergistics2-forge-15.3.5.jar",
@@ -1414,6 +1414,11 @@
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-11.1.0/appliedenergistics2-11.1.0.jar",
         "sha512": "488828e5fa8be22982689855b993d4164eaa8f69f339cd9221165f0df316d1aafd3be66d77b155cf51be03db4f7d9c1c85e0415f01cce6b7190c878c72a238eb"
       },
+      "forge-11_0_0": {
+        "name": "appliedenergistics2-11.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-11.0.0/appliedenergistics2-11.0.0.jar",
+        "sha512": "179f05bc518e4183784bbc915bccc6dc89139c1ed6c8808d5d7286bc23a6ec040277e6c22974a323ecd85e6b67775e1da427d5eccaf76b6b68d6017a5c006cc9"
+      },
       "forge-11_0_0-alpha_6": {
         "name": "appliedenergistics2-11.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-11.0.0-alpha.6/appliedenergistics2-11.0.0-alpha.6.jar",
@@ -1443,11 +1448,6 @@
         "name": "appliedenergistics2-11.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-11.0.0-alpha.1/appliedenergistics2-11.0.0-alpha.1.jar",
         "sha512": "86ce0b27959902cff346ed440217974accbcaf50eb51a5b39059a39af9b195a48b457395f4db7fde0d3d13d0f619da153c22ea4a28ca5a0c919dcd7f4fd9ac0e"
-      },
-      "forge-11_0_0": {
-        "name": "appliedenergistics2-11.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-11.0.0/appliedenergistics2-11.0.0.jar",
-        "sha512": "179f05bc518e4183784bbc915bccc6dc89139c1ed6c8808d5d7286bc23a6ec040277e6c22974a323ecd85e6b67775e1da427d5eccaf76b6b68d6017a5c006cc9"
       }
     },
     "1_18_1": {
@@ -1471,15 +1471,10 @@
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-10.0.1/appliedenergistics2-10.0.1.jar",
         "sha512": "b53aadef4aff353ae58d8073177a5efdbb9698b6dd08207804d186a31f8fd9072be9da96a3d91b1cf0d557d1f7b9c4ce80a762816e55ef68e60f8701fc621c72"
       },
-      "forge-10_0_0-alpha_7": {
-        "name": "appliedenergistics2-10.0.0-alpha.7.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/10.0.0-alpha.7/appliedenergistics2-10.0.0-alpha.7.jar",
-        "sha512": "65a04540460a6bf8ea91c333fe942f00c765a16052899e36e005062cf1c4ba7e190a292691340dd4affaa9850dd1f0fc9b67303eb2654afc9c7dd2faf4628574"
-      },
-      "forge-10_0_0-alpha_6": {
-        "name": "appliedenergistics2-10.0.0-alpha.6.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/10.0.0-alpha.6/appliedenergistics2-10.0.0-alpha.6.jar",
-        "sha512": "5f9aa9535174bd0293e4e0a740bae900d20ee42ee51289ebf2da2f656d61a888f9e47d535acd29151716cb56abc70df251e8fb25fe507016d93ebec887768d62"
+      "forge-10_0_0": {
+        "name": "appliedenergistics2-10.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-10.0.0/appliedenergistics2-10.0.0.jar",
+        "sha512": "69bbff8f5ad5335285b4997cb60ec796604129db1941fac50b9a4d623c4cac307777ff560490f3acad0c30f882a6bc5e5551462e4645238928955f342bb4ddb1"
       },
       "forge-10_0_0-beta_4": {
         "name": "appliedenergistics2-10.0.0-beta.4.jar",
@@ -1501,10 +1496,15 @@
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/10.0.0-beta.1/appliedenergistics2-10.0.0-beta.1.jar",
         "sha512": "c8d9b6b621574e439ed24947df415fc1971f126d09ed3e8d8e98b69f4b0291aa27b98e9cf9d8a08d08720a91b1daef489085997d3aaa4997b690c8bdaddd6a94"
       },
-      "forge-10_0_0": {
-        "name": "appliedenergistics2-10.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/forge-10.0.0/appliedenergistics2-10.0.0.jar",
-        "sha512": "69bbff8f5ad5335285b4997cb60ec796604129db1941fac50b9a4d623c4cac307777ff560490f3acad0c30f882a6bc5e5551462e4645238928955f342bb4ddb1"
+      "forge-10_0_0-alpha_7": {
+        "name": "appliedenergistics2-10.0.0-alpha.7.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/10.0.0-alpha.7/appliedenergistics2-10.0.0-alpha.7.jar",
+        "sha512": "65a04540460a6bf8ea91c333fe942f00c765a16052899e36e005062cf1c4ba7e190a292691340dd4affaa9850dd1f0fc9b67303eb2654afc9c7dd2faf4628574"
+      },
+      "forge-10_0_0-alpha_6": {
+        "name": "appliedenergistics2-10.0.0-alpha.6.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/10.0.0-alpha.6/appliedenergistics2-10.0.0-alpha.6.jar",
+        "sha512": "5f9aa9535174bd0293e4e0a740bae900d20ee42ee51289ebf2da2f656d61a888f9e47d535acd29151716cb56abc70df251e8fb25fe507016d93ebec887768d62"
       }
     }
   },
@@ -2005,6 +2005,11 @@
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.1.0/appliedenergistics2-11.1.0.jar",
         "sha512": "5e9e39a95a7426e56af9fec97524cfa9bfff672789838d301361aa4aeb5ccadac93fd816b53a08ccf529978f1876e14704e6e125288f5161683569777cde10f7"
       },
+      "fabric-11_0_0": {
+        "name": "appliedenergistics2-11.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0/appliedenergistics2-11.0.0.jar",
+        "sha512": "7e608c5417fff79dac3d35b976da70c73a9c5bce8d704fe0f12cf115267cbf188e632a4bcbc34f395ec7538af03efff9c0e80ede8de4d7d0ba07a5d87fa68f21"
+      },
       "fabric-11_0_0-alpha_5": {
         "name": "appliedenergistics2-11.0.0-alpha.5.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0-alpha.5/appliedenergistics2-11.0.0-alpha.5.jar",
@@ -2024,11 +2029,6 @@
         "name": "appliedenergistics2-11.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0-alpha.1/appliedenergistics2-11.0.0-alpha.1.jar",
         "sha512": "23c90dab0b5d8c04cfe3f3b1049cd8f40e8694a269c6ff567c36aed95b701e6cbc4c1001f4f0128b89e6bff64ffe53657da27cc1149bc700fb520556def966a4"
-      },
-      "fabric-11_0_0": {
-        "name": "appliedenergistics2-11.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0/appliedenergistics2-11.0.0.jar",
-        "sha512": "7e608c5417fff79dac3d35b976da70c73a9c5bce8d704fe0f12cf115267cbf188e632a4bcbc34f395ec7538af03efff9c0e80ede8de4d7d0ba07a5d87fa68f21"
       }
     },
     "1_18_1": {
@@ -2051,6 +2051,11 @@
         "name": "appliedenergistics2-10.1.0-beta.1.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.1.0-beta.1/appliedenergistics2-10.1.0-beta.1.jar",
         "sha512": "647e46f336fe0db8489ce8d197840c9dbb51167fedd945c5353a996778aa7975e89929eef05f97de662b47137e74c8e4cf279b429ad04cbd7c81e503955233a1"
+      },
+      "fabric-10_0_0": {
+        "name": "appliedenergistics2-10.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.0.0/appliedenergistics2-10.0.0.jar",
+        "sha512": "8bbbe152975d33fe3556856359f9fe1b346eac56c12e37ba6738f871d9da9e4a658f416d9f6b3966802df7d4b8a5f4ca4a819cd921492ad33fcccce7e83867b0"
       },
       "fabric-10_0_0-beta_5": {
         "name": "appliedenergistics2-10.0.0-beta.5.jar",
@@ -2076,11 +2081,6 @@
         "name": "appliedenergistics2-10.0.0-beta.1.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.0.0-beta.1/appliedenergistics2-10.0.0-beta.1.jar",
         "sha512": "4761f2444b64f2aad9ed704476e6a8d465f7e5a4527234ca0972b905da3d7844cc77043494f08a76e20680f1871b0ef6d37457a850160c8e93304b3f12404584"
-      },
-      "fabric-10_0_0": {
-        "name": "appliedenergistics2-10.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.0.0/appliedenergistics2-10.0.0.jar",
-        "sha512": "8bbbe152975d33fe3556856359f9fe1b346eac56c12e37ba6738f871d9da9e4a658f416d9f6b3966802df7d4b8a5f4ca4a819cd921492ad33fcccce7e83867b0"
       }
     },
     "1_18": {
@@ -2094,15 +2094,15 @@
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/NX3fAZif/appliedenergistics2-fabric-11.7.2.jar",
         "sha512": "433df953ca9488fa1a8d483dcd413901aceb3b9c2325ad2b7fba57d3a74624d997c704f9f8313712ce1307369b61b3c774d2d3ee8b87307585e5cc1be48543a1"
       },
-      "fabric-10_0_0-alpha_8": {
-        "name": "appliedenergistics2-10.0.0-alpha.8.jar",
-        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/10.0.0-alpha.8/appliedenergistics2-10.0.0-alpha.8.jar",
-        "sha512": "54638bf4d882f3589bac044309da12cfb78dd1b5ee240eadeb2b7e566ae2ccb55c179d1b4b3803ac1e5fed275c1bffece8a83a1af914bdd1503b108351146ec4"
-      },
       "fabric-10_0_0-beta_2": {
         "name": "appliedenergistics2-10.0.0-beta.2.jar",
         "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.0.0-beta.2/appliedenergistics2-10.0.0-beta.2.jar",
         "sha512": "82d324b7cf0ccddfc0da2c614f46380c9ca929e959d41084fc6497f538ab3bd1cebb9f44fc403497ff9ae130a1b7c14112e5211fe65e623fc6f9396229443c22"
+      },
+      "fabric-10_0_0-alpha_8": {
+        "name": "appliedenergistics2-10.0.0-alpha.8.jar",
+        "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/10.0.0-alpha.8/appliedenergistics2-10.0.0-alpha.8.jar",
+        "sha512": "54638bf4d882f3589bac044309da12cfb78dd1b5ee240eadeb2b7e566ae2ccb55c179d1b4b3803ac1e5fed275c1bffece8a83a1af914bdd1503b108351146ec4"
       }
     }
   }

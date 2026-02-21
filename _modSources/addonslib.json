@@ -755,8 +755,8 @@
       },
       "1_21_3-1_5": {
         "name": "addonslib-1.21.3-1.5.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/V7dAVMot/addonslib-1.21.3-1.5.jar",
-        "sha512": "c17428fea62eaa59b857d6476765a6595a56907e03a20df01fb9940ee4c75e7fde1c82b2697765c8e6b52585b5328121ac4226d6b046f374353677dba61fe6d8"
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/1ZFsZJHq/addonslib-1.21.3-1.5.jar",
+        "sha512": "c9cb066d2e078edfc42d4d8b7cc19ef63812e439a903365b7f708eec998820f4a18b9f5426cabf489b4d6e9b1fcaccf0ae667e98c39097806a1097e05373559f"
       },
       "1_21_3-1_4": {
         "name": "addonslib-1.21.3-1.4.jar",
@@ -829,13 +829,13 @@
     "1_20_6": {
       "latest": {
         "name": "addonslib-1.20.6-1.6.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/hWTmRkPo/addonslib-1.20.6-1.6.jar",
-        "sha512": "16a93194cbdba77085e3d50502047da07158ca741ba5229092d47f6edf046c8a021aecca7405795e4147e05380dde5ca6b0252b510548b7b1ace4611932b2e4f"
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/ZVOFHHjY/addonslib-1.20.6-1.6.jar",
+        "sha512": "4908f60ac3ef8a8aa43f0a09c5074314639c7b271c1822caada06cd589a9e400964661325ccc877e6ef70a3acc7d461044dc45a6bb78f07cef39ccdb198ee9f6"
       },
       "1_20_6-1_6": {
         "name": "addonslib-1.20.6-1.6.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/ZVOFHHjY/addonslib-1.20.6-1.6.jar",
-        "sha512": "4908f60ac3ef8a8aa43f0a09c5074314639c7b271c1822caada06cd589a9e400964661325ccc877e6ef70a3acc7d461044dc45a6bb78f07cef39ccdb198ee9f6"
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/hWTmRkPo/addonslib-1.20.6-1.6.jar",
+        "sha512": "16a93194cbdba77085e3d50502047da07158ca741ba5229092d47f6edf046c8a021aecca7405795e4147e05380dde5ca6b0252b510548b7b1ace4611932b2e4f"
       },
       "1_20_6-1_5": {
         "name": "addonslib-1.20.6-1.5.jar",
@@ -1048,9 +1048,24 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "addonslib-1.19.2-1.5.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/OrGi6SJN/addonslib-1.19.2-1.5.jar",
-        "sha512": "fded07d13b14933091d2bbe92724118d6d8445cca566d28f49a124138828b65ea33c149bca1ed9836c7c4f17bb633b507e4b03d4aedee11c818f27baa6aca54a"
+        "name": "addonslib-1.19-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/dGsh8WGN/addonslib-1.19-1.8.jar",
+        "sha512": "d8aea8f8d518ab2221682b3690aa618696669382e57831eb561ac0b6e7d341172ef90df9ad4c629bc031ff4e26bf197a14f3a1ff5205c6b7341386f3f97f29ed"
+      },
+      "1_19-1_8": {
+        "name": "addonslib-1.19-1.8.jar",
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/dGsh8WGN/addonslib-1.19-1.8.jar",
+        "sha512": "d8aea8f8d518ab2221682b3690aa618696669382e57831eb561ac0b6e7d341172ef90df9ad4c629bc031ff4e26bf197a14f3a1ff5205c6b7341386f3f97f29ed"
+      },
+      "1_19-1_7": {
+        "name": "addonslib-1.19-1.7.jar",
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/bAVmzbPI/addonslib-1.19-1.7.jar",
+        "sha512": "a23eaad7facee230e2d4db38f2afd28eae04bef65fddcfac10109f017194110b0e343c2870586dbfd9c7e326efbdd94b3aff294100b185310104c2c1012e4cb9"
+      },
+      "1_19-1_6": {
+        "name": "addonslib-1.19-1.6.jar",
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/7OehPnqN/addonslib-1.19-1.6.jar",
+        "sha512": "9076d5795407bf71374cad3899a96eac43f5f2913a145fcc4e30216238b6516d0dfbb906bde86fc51ff405e4e430f4cfafefd953c2b51ab719db471e4e0e61b4"
       },
       "1_19_2-1_5": {
         "name": "addonslib-1.19.2-1.5.jar",
@@ -1071,21 +1086,6 @@
         "name": "addonslib-1.19.2-1.1.jar",
         "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/sAcmFw7t/addonslib-1.19.2-1.1.jar",
         "sha512": "b094fd7525d29a340a84eb29e87242c78b9fcc3601b80832de0393823e6b3f5c790f945c72910fa53ee04c47267641e48ccdb005b01fb263d1e9a2cfeb3041de"
-      },
-      "1_19-1_8": {
-        "name": "addonslib-1.19-1.8.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/dGsh8WGN/addonslib-1.19-1.8.jar",
-        "sha512": "d8aea8f8d518ab2221682b3690aa618696669382e57831eb561ac0b6e7d341172ef90df9ad4c629bc031ff4e26bf197a14f3a1ff5205c6b7341386f3f97f29ed"
-      },
-      "1_19-1_7": {
-        "name": "addonslib-1.19-1.7.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/bAVmzbPI/addonslib-1.19-1.7.jar",
-        "sha512": "a23eaad7facee230e2d4db38f2afd28eae04bef65fddcfac10109f017194110b0e343c2870586dbfd9c7e326efbdd94b3aff294100b185310104c2c1012e4cb9"
-      },
-      "1_19-1_6": {
-        "name": "addonslib-1.19-1.6.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/7OehPnqN/addonslib-1.19-1.6.jar",
-        "sha512": "9076d5795407bf71374cad3899a96eac43f5f2913a145fcc4e30216238b6516d0dfbb906bde86fc51ff405e4e430f4cfafefd953c2b51ab719db471e4e0e61b4"
       }
     },
     "1_19": {
@@ -1158,8 +1158,8 @@
       },
       "1_18_2-1_5": {
         "name": "addonslib-1.18.2-1.5.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/t4Ry4CSb/addonslib-1.18.2-1.5.jar",
-        "sha512": "e1f23a91259ae0aab81b37b896b29013d6385b0b04e295bdb13211bcba0cb31162df44240667067b8ce083ceeede1878ae6967252c5351355c1b63b5615da6ca"
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/JJ7DNWws/addonslib-1.18.2-1.5.jar",
+        "sha512": "b9d4fea1f52939bd26cafdbd9219656a64ce8375d789d7d3d36052b16ffe85b5a5c542dac8a148796a6b55abcec9831cf6378ce30840990fab74654b2904b063"
       },
       "1_18_2-1_4": {
         "name": "addonslib-1.18.2-1.4.jar",
@@ -1200,8 +1200,8 @@
       },
       "1_17_1-1_4": {
         "name": "addonslib-1.17.1-1.4.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/dY3hsvnx/addonslib-1.17.1-1.4.jar",
-        "sha512": "1be55a479f7ca2834cccb1d7f2121e4b9219bd6198155f05c57ef415cd83511db33f58a78c97b67c2e123de1b5a3706eed39ee952acd920403f9b562f17ef16a"
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/4kvL7zob/addonslib-1.17.1-1.4.jar",
+        "sha512": "3f49e20bd0782ab5f05497d9438f041e9c951aec3b6902fb4f22141d764c9705b83d116907253100cbe106f65e029b51be0e70b5dfedb24f41779c110acb43a0"
       },
       "1_17_1-1_3": {
         "name": "addonslib-1.17.1-1.3.jar",
@@ -1514,9 +1514,9 @@
         "sha512": "ede7c4a8c70cd23897a6cf0f24fcf80cebf577201d8d47117e98818b3e08d93aa3c48109eb95561571546dd773ece8094b43464f357b111ba35a60625fbcd858"
       },
       "1_21_4-1_2": {
-        "name": "addonslib-fabric-1.21.4-1.3.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/jB5vL0GD/addonslib-fabric-1.21.4-1.3.jar",
-        "sha512": "ede11468167db13fc3dc2b140065ee82ea0c8a1e951527c1066239456b3d163158063e68c5b1150d7bc1253c4734cf4ad416dc8c13f3a98a8b2e0219e66feef7"
+        "name": "addonslib-fabric-1.21.4-1.2.jar",
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/BKNjtPKZ/addonslib-fabric-1.21.4-1.2.jar",
+        "sha512": "1da1a64b0459065fa17de7bbbd13053f850bb56c1909e3409392ce33e09ca109384076a128fbde7589a9e27e6518dc177608c6a8dc99c36b2d045a7683a996b0"
       },
       "1_21_4-1_1": {
         "name": "addonslib-fabric-1.21.4-1.1.jar",
@@ -1551,9 +1551,9 @@
         "sha512": "02653fe89924130d37985bc08178c8066c1fc0412886c8c28ad115d4499128d6721b8f0d76da9963f9df681e568b810b45c8d788d3d21953cda3b4c4b0f0bdcc"
       },
       "1_21_3-1_3": {
-        "name": "addonslib-fabric-1.21.3-1.4.jar",
-        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/Wslxd2v2/addonslib-fabric-1.21.3-1.4.jar",
-        "sha512": "1d18df2028ca14bc589bc45e8537e9b2f97dd0e127afe4bdd3278563d28201f8eb1d58617e0775e5f9a2972a89f57d3a86c625a6b1f834bd0b4ca68552c57238"
+        "name": "addonslib-fabric-1.21.3-1.3.jar",
+        "url": "https://cdn.modrinth.com/data/cl5ec0Qm/versions/TgNuhTAl/addonslib-fabric-1.21.3-1.3.jar",
+        "sha512": "e890942882255a34897d853186dda87a3756c41abd1d5a23e8243aad8f4de1745964bbc533137424618b327fbf6d47e3cb8718f8a2d79e8ef17e74e3cc451d24"
       },
       "1_21_3-1_2": {
         "name": "addonslib-fabric-1.21.3-1.2.jar",

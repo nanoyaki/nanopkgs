@@ -531,19 +531,19 @@
     },
     "1_21_7": {
       "latest": {
-        "name": "NoChatReports-NEOFORGE-1.21.7-v2.14.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/LcEFTrVe/NoChatReports-NEOFORGE-1.21.7-v2.14.0.jar",
-        "sha512": "fcf4b35a4a94fbf2042e5ee57315dda06350da9352b4f3695b204bbbb4157693df5d2a8eceda0eee2fe478a89d4ba2d5f2fd74b4306f7604f8a7cf56d45ab424"
-      },
-      "NeoForgev2_14_0": {
-        "name": "NoChatReports-NEOFORGE-1.21.7-v2.14.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/LcEFTrVe/NoChatReports-NEOFORGE-1.21.7-v2.14.0.jar",
-        "sha512": "fcf4b35a4a94fbf2042e5ee57315dda06350da9352b4f3695b204bbbb4157693df5d2a8eceda0eee2fe478a89d4ba2d5f2fd74b4306f7604f8a7cf56d45ab424"
+        "name": "NoChatReports-NEOFORGE-1.21.8-v2.15.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/yi6EjUqr/NoChatReports-NEOFORGE-1.21.8-v2.15.0.jar",
+        "sha512": "9bd1694f5546f37122278b4d1dcfab8ecddb6a864b32a88402e44e17a28f1b97d292a89358830f1bf02ff624a4784838b20216d3a6c9e042f8a72ddd459438b6"
       },
       "NeoForge-1_21_8-v2_15_0": {
         "name": "NoChatReports-NEOFORGE-1.21.8-v2.15.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/yi6EjUqr/NoChatReports-NEOFORGE-1.21.8-v2.15.0.jar",
         "sha512": "9bd1694f5546f37122278b4d1dcfab8ecddb6a864b32a88402e44e17a28f1b97d292a89358830f1bf02ff624a4784838b20216d3a6c9e042f8a72ddd459438b6"
+      },
+      "NeoForgev2_14_0": {
+        "name": "NoChatReports-NEOFORGE-1.21.7-v2.14.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/LcEFTrVe/NoChatReports-NEOFORGE-1.21.7-v2.14.0.jar",
+        "sha512": "fcf4b35a4a94fbf2042e5ee57315dda06350da9352b4f3695b204bbbb4157693df5d2a8eceda0eee2fe478a89d4ba2d5f2fd74b4306f7604f8a7cf56d45ab424"
       }
     },
     "1_21_6": {
@@ -640,14 +640,9 @@
     },
     "1_21": {
       "latest": {
-        "name": "NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/erQc5yMt/NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
-        "sha512": "0ae015f498b4ffb36b498f7e3e2bc61ff35a9ea03388daee374bc027b53ca427e66b8207435ff79db38d623a83cb902c55fd1040a486d59776b722aa06ea7aec"
-      },
-      "NeoForgev2_8_0": {
-        "name": "NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/erQc5yMt/NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
-        "sha512": "0ae015f498b4ffb36b498f7e3e2bc61ff35a9ea03388daee374bc027b53ca427e66b8207435ff79db38d623a83cb902c55fd1040a486d59776b722aa06ea7aec"
+        "name": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+        "sha512": "292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21"
       },
       "NeoForge_1-v2_9_1": {
         "name": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
@@ -658,6 +653,11 @@
         "name": "NoChatReports-NEOFORGE-1.21.1-v2.9.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/TFPlGbqq/NoChatReports-NEOFORGE-1.21.1-v2.9.0.jar",
         "sha512": "f272e77584f32de504953997ecc17c57f6a7a861d039b8ed8ab2a005103ebc96498be46c83b98e20927c905701e346fd8a5fd5eb7efc7fa468b96b5a4c12de7b"
+      },
+      "NeoForgev2_8_0": {
+        "name": "NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/erQc5yMt/NoChatReports-NEOFORGE-1.21-v2.8.0.jar",
+        "sha512": "0ae015f498b4ffb36b498f7e3e2bc61ff35a9ea03388daee374bc027b53ca427e66b8207435ff79db38d623a83cb902c55fd1040a486d59776b722aa06ea7aec"
       }
     },
     "1_20_6": {
@@ -773,19 +773,19 @@
     },
     "1_21_7": {
       "latest": {
-        "name": "NoChatReports-FORGE-1.21.7-v2.14.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/yHRPQlkD/NoChatReports-FORGE-1.21.7-v2.14.0.jar",
-        "sha512": "b88dded54fa84bc074f78993345ee86766b9988f55ca574d70292613c4201e4c4fe0d2194f62abf627dada286facb26de2bdf12f64649a546129da9d5a85d4b3"
-      },
-      "Forgev2_14_0": {
-        "name": "NoChatReports-FORGE-1.21.7-v2.14.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/yHRPQlkD/NoChatReports-FORGE-1.21.7-v2.14.0.jar",
-        "sha512": "b88dded54fa84bc074f78993345ee86766b9988f55ca574d70292613c4201e4c4fe0d2194f62abf627dada286facb26de2bdf12f64649a546129da9d5a85d4b3"
+        "name": "NoChatReports-FORGE-1.21.8-v2.15.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/UIVb4Bdp/NoChatReports-FORGE-1.21.8-v2.15.0.jar",
+        "sha512": "f58f5ad03df11372c0bb666ed33146314f18fc304ee2ed4b291b52c5a7d86dbf2bfb2f80ce0fcf292459054128300027e2acb07a0cdcd41d9888bb2999b5dcee"
       },
       "Forge-1_21_8-v2_15_0": {
         "name": "NoChatReports-FORGE-1.21.8-v2.15.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/UIVb4Bdp/NoChatReports-FORGE-1.21.8-v2.15.0.jar",
         "sha512": "f58f5ad03df11372c0bb666ed33146314f18fc304ee2ed4b291b52c5a7d86dbf2bfb2f80ce0fcf292459054128300027e2acb07a0cdcd41d9888bb2999b5dcee"
+      },
+      "Forgev2_14_0": {
+        "name": "NoChatReports-FORGE-1.21.7-v2.14.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/yHRPQlkD/NoChatReports-FORGE-1.21.7-v2.14.0.jar",
+        "sha512": "b88dded54fa84bc074f78993345ee86766b9988f55ca574d70292613c4201e4c4fe0d2194f62abf627dada286facb26de2bdf12f64649a546129da9d5a85d4b3"
       }
     },
     "1_21_6": {
@@ -882,14 +882,9 @@
     },
     "1_21": {
       "latest": {
-        "name": "NoChatReports-FORGE-1.21-v2.8.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/dh2iZIOd/NoChatReports-FORGE-1.21-v2.8.0.jar",
-        "sha512": "326e8fa1774506bf0335994f43eeee764117a007f935541939140330b7d6598338745e674acd1947260478d0af614d75e15ed1bb419133e5c1736bdcc62e8cf5"
-      },
-      "Forgev2_8_0": {
-        "name": "NoChatReports-FORGE-1.21-v2.8.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/dh2iZIOd/NoChatReports-FORGE-1.21-v2.8.0.jar",
-        "sha512": "326e8fa1774506bf0335994f43eeee764117a007f935541939140330b7d6598338745e674acd1947260478d0af614d75e15ed1bb419133e5c1736bdcc62e8cf5"
+        "name": "NoChatReports-FORGE-1.21.1-v2.9.1.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/oKcwnZFn/NoChatReports-FORGE-1.21.1-v2.9.1.jar",
+        "sha512": "c4d3e459d30efb3389b68c018fad28ac8418c0dc34ee57bf6652525f846c8ddbbe93ce524b1b67502ea31d1de6ee525bda5fb3d7ccd69140a79ac4c57aca63d4"
       },
       "Forge_1-v2_9_1": {
         "name": "NoChatReports-FORGE-1.21.1-v2.9.1.jar",
@@ -900,6 +895,11 @@
         "name": "NoChatReports-FORGE-1.21.1-v2.9.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/orerIbNa/NoChatReports-FORGE-1.21.1-v2.9.0.jar",
         "sha512": "c261012dc9ebaf5e31d7d7772a6fcfb2c47b39a1592dd594063ef31a921751d4ef84d83fff04fb66e9e527904eb59b8e65603c259c28e5842a2410fea1fb14d5"
+      },
+      "Forgev2_8_0": {
+        "name": "NoChatReports-FORGE-1.21-v2.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/dh2iZIOd/NoChatReports-FORGE-1.21-v2.8.0.jar",
+        "sha512": "326e8fa1774506bf0335994f43eeee764117a007f935541939140330b7d6598338745e674acd1947260478d0af614d75e15ed1bb419133e5c1736bdcc62e8cf5"
       }
     },
     "1_20_6": {
@@ -960,19 +960,19 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "NoChatReports-FORGE-1.20.3-v2.4.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/7MEdPNQb/NoChatReports-FORGE-1.20.3-v2.4.0.jar",
-        "sha512": "49ca11e96dce87425f52b18bddec0046c314f7c876b34a9fddb751d7e63a1494eaff237fcc14d237ee9069556d99915c44ab144e5c6c81b480e5ba1072862e2b"
-      },
-      "Forgev2_4_0": {
-        "name": "NoChatReports-FORGE-1.20.3-v2.4.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/7MEdPNQb/NoChatReports-FORGE-1.20.3-v2.4.0.jar",
-        "sha512": "49ca11e96dce87425f52b18bddec0046c314f7c876b34a9fddb751d7e63a1494eaff237fcc14d237ee9069556d99915c44ab144e5c6c81b480e5ba1072862e2b"
+        "name": "NoChatReports-FORGE-1.20.4-v2.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/t4a6hnh0/NoChatReports-FORGE-1.20.4-v2.5.0.jar",
+        "sha512": "33b608846c40550e71dfef20fe9d3532d7d4631725d26947d124fcc8a20ef4de8995283db919dba835f139472c3015cfadf9298cc94aa1d2ed0da581b48a1f31"
       },
       "Forge-1_20_4-v2_5_0": {
         "name": "NoChatReports-FORGE-1.20.4-v2.5.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/t4a6hnh0/NoChatReports-FORGE-1.20.4-v2.5.0.jar",
         "sha512": "33b608846c40550e71dfef20fe9d3532d7d4631725d26947d124fcc8a20ef4de8995283db919dba835f139472c3015cfadf9298cc94aa1d2ed0da581b48a1f31"
+      },
+      "Forgev2_4_0": {
+        "name": "NoChatReports-FORGE-1.20.3-v2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/7MEdPNQb/NoChatReports-FORGE-1.20.3-v2.4.0.jar",
+        "sha512": "49ca11e96dce87425f52b18bddec0046c314f7c876b34a9fddb751d7e63a1494eaff237fcc14d237ee9069556d99915c44ab144e5c6c81b480e5ba1072862e2b"
       }
     },
     "1_20_2": {
@@ -1011,14 +1011,9 @@
     },
     "1_20": {
       "latest": {
-        "name": "NoChatReports-FORGE-1.20-v2.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/REOULxph/NoChatReports-FORGE-1.20-v2.2.0.jar",
-        "sha512": "f964137bcc3ab5738fa5b32f5a5aeafa3cf7ed581a345475bd811f504ef7b8b53e070f5afff055eb59cf8e3c5e943b9eb2c3188050350b1f96da81d9b9ad3087"
-      },
-      "Forgev2_2_0": {
-        "name": "NoChatReports-FORGE-1.20-v2.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/REOULxph/NoChatReports-FORGE-1.20-v2.2.0.jar",
-        "sha512": "f964137bcc3ab5738fa5b32f5a5aeafa3cf7ed581a345475bd811f504ef7b8b53e070f5afff055eb59cf8e3c5e943b9eb2c3188050350b1f96da81d9b9ad3087"
+        "name": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/ksEG6N5E/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+        "sha512": "39aa2e120a10ee68e9b03e3d5bd6f2d5def2fa7fcd914f55f018a85381eb0bb52055abce53a64cb0b0fba10f24da12caef085733e715907598ce468bcf59df51"
       },
       "Forge_1-v2_2_2": {
         "name": "NoChatReports-FORGE-1.20.1-v2.2.2.jar",
@@ -1029,6 +1024,11 @@
         "name": "NoChatReports-FORGE-1.20.1-v2.2.1.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/1baGRS61/NoChatReports-FORGE-1.20.1-v2.2.1.jar",
         "sha512": "4a59bec08209eeb0813285ae633f0de7fc2532a700d74e417d5e5cf6238264e3c30ba34dab670be98069d2b752c9982fd6a5a91af83d29b7287925637001c438"
+      },
+      "Forgev2_2_0": {
+        "name": "NoChatReports-FORGE-1.20-v2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/REOULxph/NoChatReports-FORGE-1.20-v2.2.0.jar",
+        "sha512": "f964137bcc3ab5738fa5b32f5a5aeafa3cf7ed581a345475bd811f504ef7b8b53e070f5afff055eb59cf8e3c5e943b9eb2c3188050350b1f96da81d9b9ad3087"
       }
     },
     "1_19_4": {
@@ -1238,19 +1238,19 @@
     },
     "1_21_7": {
       "latest": {
-        "name": "NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/LhwpK0O6/NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
-        "sha512": "6e93c822e606ad12cb650801be1b3f39fcd2fef64a9bb905f357eb01a28451afddb3a6cadb39c112463519df0a07b9ff374d39223e9bf189aee7e7182077a7ae"
-      },
-      "Fabricv2_14_0": {
-        "name": "NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/LhwpK0O6/NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
-        "sha512": "6e93c822e606ad12cb650801be1b3f39fcd2fef64a9bb905f357eb01a28451afddb3a6cadb39c112463519df0a07b9ff374d39223e9bf189aee7e7182077a7ae"
+        "name": "NoChatReports-FABRIC-1.21.8-v2.15.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/pmpg6ocz/NoChatReports-FABRIC-1.21.8-v2.15.0.jar",
+        "sha512": "444d7d69e3f769805de684f42be6f8413fe2464c314d79b95ee27e4cc5a532c6b0f28f639a14f274223661a1cde12e405a4171e7b2f69ed8b363b03fd6bcf663"
       },
       "Fabric-1_21_8-v2_15_0": {
         "name": "NoChatReports-FABRIC-1.21.8-v2.15.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/pmpg6ocz/NoChatReports-FABRIC-1.21.8-v2.15.0.jar",
         "sha512": "444d7d69e3f769805de684f42be6f8413fe2464c314d79b95ee27e4cc5a532c6b0f28f639a14f274223661a1cde12e405a4171e7b2f69ed8b363b03fd6bcf663"
+      },
+      "Fabricv2_14_0": {
+        "name": "NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/LhwpK0O6/NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
+        "sha512": "6e93c822e606ad12cb650801be1b3f39fcd2fef64a9bb905f357eb01a28451afddb3a6cadb39c112463519df0a07b9ff374d39223e9bf189aee7e7182077a7ae"
       }
     },
     "1_21_6": {
@@ -1347,14 +1347,9 @@
     },
     "1_21": {
       "latest": {
-        "name": "NoChatReports-FABRIC-1.21-v2.8.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/riMhCAII/NoChatReports-FABRIC-1.21-v2.8.0.jar",
-        "sha512": "092837afc0fcb5208561062f8e4cd69971efa94c0180ae377e318d35d8f278abbf1552e4a577be882dc7e870f884779bc36caf808c8bc90bb05490f1e034ddb8"
-      },
-      "Fabricv2_8_0": {
-        "name": "NoChatReports-FABRIC-1.21-v2.8.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/riMhCAII/NoChatReports-FABRIC-1.21-v2.8.0.jar",
-        "sha512": "092837afc0fcb5208561062f8e4cd69971efa94c0180ae377e318d35d8f278abbf1552e4a577be882dc7e870f884779bc36caf808c8bc90bb05490f1e034ddb8"
+        "name": "NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/D8K0KJXM/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+        "sha512": "23bb4a8a6a3f7071281cf97560e12f37e1f5f638a156e3fcb92a50ff0091f1fcfa3e090e7745e4b1175e7c2c784e38d73536a1044db1bf225a182fab758a5a29"
       },
       "Fabric_1-v2_9_1": {
         "name": "NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
@@ -1365,6 +1360,11 @@
         "name": "NoChatReports-FABRIC-1.21.1-v2.9.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/sOHvPS0X/NoChatReports-FABRIC-1.21.1-v2.9.0.jar",
         "sha512": "3326d278e57cc2d7bdb4348570c3876ed096af872e166241209ef5ac7c823829596a81570db029ac751e5a11b7686046f72119f259365350ca2eba10037f6d24"
+      },
+      "Fabricv2_8_0": {
+        "name": "NoChatReports-FABRIC-1.21-v2.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/riMhCAII/NoChatReports-FABRIC-1.21-v2.8.0.jar",
+        "sha512": "092837afc0fcb5208561062f8e4cd69971efa94c0180ae377e318d35d8f278abbf1552e4a577be882dc7e870f884779bc36caf808c8bc90bb05490f1e034ddb8"
       }
     },
     "1_20_6": {
@@ -1425,19 +1425,19 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "NoChatReports-FABRIC-1.20.3-v2.4.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/wNxZxzWL/NoChatReports-FABRIC-1.20.3-v2.4.0.jar",
-        "sha512": "31d7e26a5752cea1cb1e91e7d5c32a868c499bde2e4d2bfd2957bb9f2ddb8f60025156b419a21deff4c2ed1f8759ed1fec7e5d7e51d4a6e45f19b8a7b8cef517"
-      },
-      "Fabricv2_4_0": {
-        "name": "NoChatReports-FABRIC-1.20.3-v2.4.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/wNxZxzWL/NoChatReports-FABRIC-1.20.3-v2.4.0.jar",
-        "sha512": "31d7e26a5752cea1cb1e91e7d5c32a868c499bde2e4d2bfd2957bb9f2ddb8f60025156b419a21deff4c2ed1f8759ed1fec7e5d7e51d4a6e45f19b8a7b8cef517"
+        "name": "NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/tfv6A4l5/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
+        "sha512": "123501578045a30e7730530deeedebd7aae611c10d69359ba6d90aa53651455e8d08e86c4ef84242b18147eaa54775b4d06e57c1eae43a9f357bceb15a65a5ed"
       },
       "Fabric-1_20_4-v2_5_0": {
         "name": "NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/tfv6A4l5/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
         "sha512": "123501578045a30e7730530deeedebd7aae611c10d69359ba6d90aa53651455e8d08e86c4ef84242b18147eaa54775b4d06e57c1eae43a9f357bceb15a65a5ed"
+      },
+      "Fabricv2_4_0": {
+        "name": "NoChatReports-FABRIC-1.20.3-v2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/wNxZxzWL/NoChatReports-FABRIC-1.20.3-v2.4.0.jar",
+        "sha512": "31d7e26a5752cea1cb1e91e7d5c32a868c499bde2e4d2bfd2957bb9f2ddb8f60025156b419a21deff4c2ed1f8759ed1fec7e5d7e51d4a6e45f19b8a7b8cef517"
       }
     },
     "1_20_2": {
@@ -1476,14 +1476,9 @@
     },
     "1_20": {
       "latest": {
-        "name": "NoChatReports-FABRIC-1.20-v2.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9jtKRSoF/NoChatReports-FABRIC-1.20-v2.2.0.jar",
-        "sha512": "4fb19c81a6f00b79523663901d99f228bdde27764afbf5868385499bede6b634b4d26e224732a7ff43b8ea0158f5a4dbb8227696b8d84455a69ce48b4d273a0e"
-      },
-      "Fabricv2_2_0": {
-        "name": "NoChatReports-FABRIC-1.20-v2.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9jtKRSoF/NoChatReports-FABRIC-1.20-v2.2.0.jar",
-        "sha512": "4fb19c81a6f00b79523663901d99f228bdde27764afbf5868385499bede6b634b4d26e224732a7ff43b8ea0158f5a4dbb8227696b8d84455a69ce48b4d273a0e"
+        "name": "NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/HeZZR2kF/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+        "sha512": "3213e37fc12205e49f69a6c295c8c3237d8464d63dedbfbac4901892752741d22ebf7e1b40d6683143e70ca158fc95b00c2af177a1263038edce9a46b6cbeb79"
       },
       "Fabric_1-v2_2_2": {
         "name": "NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
@@ -1494,6 +1489,11 @@
         "name": "NoChatReports-FABRIC-1.20.1-v2.2.1.jar",
         "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/TbKB6mYU/NoChatReports-FABRIC-1.20.1-v2.2.1.jar",
         "sha512": "823396b67dce04dc27c0c731e3d46507c32111606f12dd3be4fd19e50eb4647b0b36047c872db6d15c2370002a3eed54d4d7c033537d429f32ab706466b8ab34"
+      },
+      "Fabricv2_2_0": {
+        "name": "NoChatReports-FABRIC-1.20-v2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9jtKRSoF/NoChatReports-FABRIC-1.20-v2.2.0.jar",
+        "sha512": "4fb19c81a6f00b79523663901d99f228bdde27764afbf5868385499bede6b634b4d26e224732a7ff43b8ea0158f5a4dbb8227696b8d84455a69ce48b4d273a0e"
       }
     },
     "1_19_4": {

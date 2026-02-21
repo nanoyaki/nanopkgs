@@ -143,15 +143,15 @@
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/wOvzypca/cardinal-components-api-6.3.1.jar",
         "sha512": "a9ccf7302478687e21e326835720a405955842da64c61c660e671bfa1f92324c9f8dd1b8caae7c815743fff5770d77b35c74d87a5e8494af82ce3092b5d19cc3"
       },
-      "6_3_0-alpha_1+25w09b": {
-        "name": "cardinal-components-api-6.3.0-alpha.1+25w09b.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/AYKRzqea/cardinal-components-api-6.3.0-alpha.1%2B25w09b.jar",
-        "sha512": "988a79fd52b19f36b85ef95abdfd8aefac678f6ec5ed12e802c3c90ebd63247df0c1c69b3eb90da9a53c55d095f970d58b71f33ec0967f6ffd8e9941fd7da3d6"
-      },
       "6_3_0": {
         "name": "cardinal-components-api-6.3.0.jar",
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/74T4Ovhm/cardinal-components-api-6.3.0.jar",
         "sha512": "1f260da4bd9298ae196fb37684b0200b03d466d44a406270661e840b8c8c6309333111567879d93e90ec95ff13081d21eec29ff221208cafb81349311d91dbee"
+      },
+      "6_3_0-alpha_1+25w09b": {
+        "name": "cardinal-components-api-6.3.0-alpha.1+25w09b.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/AYKRzqea/cardinal-components-api-6.3.0-alpha.1%2B25w09b.jar",
+        "sha512": "988a79fd52b19f36b85ef95abdfd8aefac678f6ec5ed12e802c3c90ebd63247df0c1c69b3eb90da9a53c55d095f970d58b71f33ec0967f6ffd8e9941fd7da3d6"
       }
     },
     "1_21_4": {
@@ -331,9 +331,19 @@
     },
     "1_20_6": {
       "latest": {
-        "name": "cardinal-components-api-6.0.0-pre2.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/PrBgg2Mj/cardinal-components-api-6.0.0-pre2.jar",
-        "sha512": "ad776be7ccad3116247c34a8dccf27ff715d3d267037b4e4e240016edca9b5a71fc18d49638ea4892b7081d812695df5d2a657d2e909e06a8e0b3e2762f8cd02"
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
+      },
+      "6_0_0": {
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
+      },
+      "6_0_0-rc1": {
+        "name": "cardinal-components-api-6.0.0-rc1.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
+        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
       },
       "6_0_0-pre2": {
         "name": "cardinal-components-api-6.0.0-pre2.jar",
@@ -344,16 +354,6 @@
         "name": "cardinal-components-api-6.0.0-pre1.jar",
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/QZ2WtYGD/cardinal-components-api-6.0.0-pre1.jar",
         "sha512": "da20ec34f25f343626346381b3d066b929e11ef62a6d79cf8f9ed4693a4de011bf16074f6977f8ec8a5a7c67e363e23999ece1984c6c21468ff1f94213364f48"
-      },
-      "6_0_0-rc1": {
-        "name": "cardinal-components-api-6.0.0-rc1.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
-        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
-      },
-      "6_0_0": {
-        "name": "cardinal-components-api-6.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
-        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
       }
     },
     "1_20_5-rc2": {
@@ -370,19 +370,19 @@
     },
     "1_20_5": {
       "latest": {
-        "name": "cardinal-components-api-6.0.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/ba9S2OFd/cardinal-components-api-6.0.0-beta.3.jar",
-        "sha512": "71f570513a7ccfc38679a41d39c8577cd3f621b212de831b840676ff27a19890feedb22efca1c0561b138dce28516afd61ac9b15d27122b4c328fc5eb69984f5"
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
       },
-      "6_0_0-beta_3": {
-        "name": "cardinal-components-api-6.0.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/ba9S2OFd/cardinal-components-api-6.0.0-beta.3.jar",
-        "sha512": "71f570513a7ccfc38679a41d39c8577cd3f621b212de831b840676ff27a19890feedb22efca1c0561b138dce28516afd61ac9b15d27122b4c328fc5eb69984f5"
+      "6_0_0": {
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
       },
-      "6_0_0-beta_2": {
-        "name": "cardinal-components-api-6.0.0-beta.2.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/aZhN0ofV/cardinal-components-api-6.0.0-beta.2.jar",
-        "sha512": "741d78040ea5b5e6aaf7bb5ed7281e6e2a4f7963158c12ce464c82b34ee4a1264df0d4d5bc9ed844c4326371c36c2d16c90855a9fdda871ed1e6570d478082a2"
+      "6_0_0-rc1": {
+        "name": "cardinal-components-api-6.0.0-rc1.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
+        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
       },
       "6_0_0-pre2": {
         "name": "cardinal-components-api-6.0.0-pre2.jar",
@@ -394,15 +394,15 @@
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/QZ2WtYGD/cardinal-components-api-6.0.0-pre1.jar",
         "sha512": "da20ec34f25f343626346381b3d066b929e11ef62a6d79cf8f9ed4693a4de011bf16074f6977f8ec8a5a7c67e363e23999ece1984c6c21468ff1f94213364f48"
       },
-      "6_0_0-rc1": {
-        "name": "cardinal-components-api-6.0.0-rc1.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
-        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
+      "6_0_0-beta_3": {
+        "name": "cardinal-components-api-6.0.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/ba9S2OFd/cardinal-components-api-6.0.0-beta.3.jar",
+        "sha512": "71f570513a7ccfc38679a41d39c8577cd3f621b212de831b840676ff27a19890feedb22efca1c0561b138dce28516afd61ac9b15d27122b4c328fc5eb69984f5"
       },
-      "6_0_0": {
-        "name": "cardinal-components-api-6.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
-        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
+      "6_0_0-beta_2": {
+        "name": "cardinal-components-api-6.0.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/aZhN0ofV/cardinal-components-api-6.0.0-beta.2.jar",
+        "sha512": "741d78040ea5b5e6aaf7bb5ed7281e6e2a4f7963158c12ce464c82b34ee4a1264df0d4d5bc9ed844c4326371c36c2d16c90855a9fdda871ed1e6570d478082a2"
       }
     },
     "1_20_4": {
@@ -798,15 +798,15 @@
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/wOvzypca/cardinal-components-api-6.3.1.jar",
         "sha512": "a9ccf7302478687e21e326835720a405955842da64c61c660e671bfa1f92324c9f8dd1b8caae7c815743fff5770d77b35c74d87a5e8494af82ce3092b5d19cc3"
       },
-      "6_3_0-alpha_1+25w09b": {
-        "name": "cardinal-components-api-6.3.0-alpha.1+25w09b.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/AYKRzqea/cardinal-components-api-6.3.0-alpha.1%2B25w09b.jar",
-        "sha512": "988a79fd52b19f36b85ef95abdfd8aefac678f6ec5ed12e802c3c90ebd63247df0c1c69b3eb90da9a53c55d095f970d58b71f33ec0967f6ffd8e9941fd7da3d6"
-      },
       "6_3_0": {
         "name": "cardinal-components-api-6.3.0.jar",
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/74T4Ovhm/cardinal-components-api-6.3.0.jar",
         "sha512": "1f260da4bd9298ae196fb37684b0200b03d466d44a406270661e840b8c8c6309333111567879d93e90ec95ff13081d21eec29ff221208cafb81349311d91dbee"
+      },
+      "6_3_0-alpha_1+25w09b": {
+        "name": "cardinal-components-api-6.3.0-alpha.1+25w09b.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/AYKRzqea/cardinal-components-api-6.3.0-alpha.1%2B25w09b.jar",
+        "sha512": "988a79fd52b19f36b85ef95abdfd8aefac678f6ec5ed12e802c3c90ebd63247df0c1c69b3eb90da9a53c55d095f970d58b71f33ec0967f6ffd8e9941fd7da3d6"
       }
     },
     "1_21_4": {
@@ -986,9 +986,19 @@
     },
     "1_20_6": {
       "latest": {
-        "name": "cardinal-components-api-6.0.0-pre2.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/PrBgg2Mj/cardinal-components-api-6.0.0-pre2.jar",
-        "sha512": "ad776be7ccad3116247c34a8dccf27ff715d3d267037b4e4e240016edca9b5a71fc18d49638ea4892b7081d812695df5d2a657d2e909e06a8e0b3e2762f8cd02"
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
+      },
+      "6_0_0": {
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
+      },
+      "6_0_0-rc1": {
+        "name": "cardinal-components-api-6.0.0-rc1.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
+        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
       },
       "6_0_0-pre2": {
         "name": "cardinal-components-api-6.0.0-pre2.jar",
@@ -999,16 +1009,6 @@
         "name": "cardinal-components-api-6.0.0-pre1.jar",
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/QZ2WtYGD/cardinal-components-api-6.0.0-pre1.jar",
         "sha512": "da20ec34f25f343626346381b3d066b929e11ef62a6d79cf8f9ed4693a4de011bf16074f6977f8ec8a5a7c67e363e23999ece1984c6c21468ff1f94213364f48"
-      },
-      "6_0_0-rc1": {
-        "name": "cardinal-components-api-6.0.0-rc1.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
-        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
-      },
-      "6_0_0": {
-        "name": "cardinal-components-api-6.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
-        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
       }
     },
     "1_20_5-rc2": {
@@ -1025,19 +1025,19 @@
     },
     "1_20_5": {
       "latest": {
-        "name": "cardinal-components-api-6.0.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/ba9S2OFd/cardinal-components-api-6.0.0-beta.3.jar",
-        "sha512": "71f570513a7ccfc38679a41d39c8577cd3f621b212de831b840676ff27a19890feedb22efca1c0561b138dce28516afd61ac9b15d27122b4c328fc5eb69984f5"
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
       },
-      "6_0_0-beta_3": {
-        "name": "cardinal-components-api-6.0.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/ba9S2OFd/cardinal-components-api-6.0.0-beta.3.jar",
-        "sha512": "71f570513a7ccfc38679a41d39c8577cd3f621b212de831b840676ff27a19890feedb22efca1c0561b138dce28516afd61ac9b15d27122b4c328fc5eb69984f5"
+      "6_0_0": {
+        "name": "cardinal-components-api-6.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
+        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
       },
-      "6_0_0-beta_2": {
-        "name": "cardinal-components-api-6.0.0-beta.2.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/aZhN0ofV/cardinal-components-api-6.0.0-beta.2.jar",
-        "sha512": "741d78040ea5b5e6aaf7bb5ed7281e6e2a4f7963158c12ce464c82b34ee4a1264df0d4d5bc9ed844c4326371c36c2d16c90855a9fdda871ed1e6570d478082a2"
+      "6_0_0-rc1": {
+        "name": "cardinal-components-api-6.0.0-rc1.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
+        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
       },
       "6_0_0-pre2": {
         "name": "cardinal-components-api-6.0.0-pre2.jar",
@@ -1049,15 +1049,15 @@
         "url": "https://cdn.modrinth.com/data/K01OU20C/versions/QZ2WtYGD/cardinal-components-api-6.0.0-pre1.jar",
         "sha512": "da20ec34f25f343626346381b3d066b929e11ef62a6d79cf8f9ed4693a4de011bf16074f6977f8ec8a5a7c67e363e23999ece1984c6c21468ff1f94213364f48"
       },
-      "6_0_0-rc1": {
-        "name": "cardinal-components-api-6.0.0-rc1.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/6sn1ODwV/cardinal-components-api-6.0.0-rc1.jar",
-        "sha512": "565c02ad8b37bb1fc68fec733b21934ec0e042dc570ebe16d6d9b509ad2bb2c2104bc7e67341c2db0cd6bdd45de6064615b8820c9f41013e4e730184b5ccfbb6"
+      "6_0_0-beta_3": {
+        "name": "cardinal-components-api-6.0.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/ba9S2OFd/cardinal-components-api-6.0.0-beta.3.jar",
+        "sha512": "71f570513a7ccfc38679a41d39c8577cd3f621b212de831b840676ff27a19890feedb22efca1c0561b138dce28516afd61ac9b15d27122b4c328fc5eb69984f5"
       },
-      "6_0_0": {
-        "name": "cardinal-components-api-6.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar",
-        "sha512": "dab2e2ca465722bfe65decf88184093d1ef392da990519ea16f184bf79ad0ff5a5ac8198cf387206bb469caa553400a5b782ea95c8af510d48aabd62027ee4c4"
+      "6_0_0-beta_2": {
+        "name": "cardinal-components-api-6.0.0-beta.2.jar",
+        "url": "https://cdn.modrinth.com/data/K01OU20C/versions/aZhN0ofV/cardinal-components-api-6.0.0-beta.2.jar",
+        "sha512": "741d78040ea5b5e6aaf7bb5ed7281e6e2a4f7963158c12ce464c82b34ee4a1264df0d4d5bc9ed844c4326371c36c2d16c90855a9fdda871ed1e6570d478082a2"
       }
     },
     "1_20_4": {

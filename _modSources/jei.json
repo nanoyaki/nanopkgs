@@ -2441,6 +2441,16 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/qcsoKnMS/jei-1.20.4-neoforge-17.3.1.3.jar",
         "sha512": "f4503c4a1d1f62a91c609314b8cb5e541dcc2f3fafa307043bf339282cd6f92f1ace604459e9eca485023b0f74e2d986e54b27aca38da8ed57450af916eac398"
       },
+      "17_3_0_2": {
+        "name": "jei-1.20.4-neoforge-17.3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YCQ2Uxqx/jei-1.20.4-neoforge-17.3.0.2.jar",
+        "sha512": "c5b25c458839060f48b0addd98a762ba20a607bdccd7de63da9c3f8e6a902d013f233691422748de0f05ea7f878aa2df827d599153931146dee6a4f5b676ad99"
+      },
+      "17_3_0_1": {
+        "name": "jei-1.20.4-neoforge-17.3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/bnGpFwjs/jei-1.20.4-neoforge-17.3.0.1.jar",
+        "sha512": "6c0b03f2326a4b63cc6450b762446e84080deb657cd6413cf571a98abb43265fa012a21496f4d112fad42525a8be6e87ddebefd9850d32efc14935b5f4b620eb"
+      },
       "17_3_0_56": {
         "name": "jei-1.20.4-neoforge-17.3.0.56.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/DHrib8lX/jei-1.20.4-neoforge-17.3.0.56.jar",
@@ -2490,16 +2500,6 @@
         "name": "jei-1.20.4-neoforge-17.3.0.43.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/FyVaLIOF/jei-1.20.4-neoforge-17.3.0.43.jar",
         "sha512": "5b9df684f6d38a80e26d2a78482d26c0f4260f9266791a4ec7bc6638959e2a932d06a6fcbcd6dc758e25d1421246c9d36a9255ef672f9b9d9f5455f78d177ff9"
-      },
-      "17_3_0_2": {
-        "name": "jei-1.20.4-neoforge-17.3.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YCQ2Uxqx/jei-1.20.4-neoforge-17.3.0.2.jar",
-        "sha512": "c5b25c458839060f48b0addd98a762ba20a607bdccd7de63da9c3f8e6a902d013f233691422748de0f05ea7f878aa2df827d599153931146dee6a4f5b676ad99"
-      },
-      "17_3_0_1": {
-        "name": "jei-1.20.4-neoforge-17.3.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/bnGpFwjs/jei-1.20.4-neoforge-17.3.0.1.jar",
-        "sha512": "6c0b03f2326a4b63cc6450b762446e84080deb657cd6413cf571a98abb43265fa012a21496f4d112fad42525a8be6e87ddebefd9850d32efc14935b5f4b620eb"
       },
       "17_2_0_42": {
         "name": "jei-1.20.4-neoforge-17.2.0.42.jar",
@@ -4316,6 +4316,16 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/3TBaKKFn/jei-1.20.4-forge-17.3.1.3.jar",
         "sha512": "7a622e86565885c79edd5f85cbe6af01fbacecca731e2f881a0cdb118dd6426fc07a47cb6beebb11749d983259ef28559262b6a86789a543634cc1b33f021d60"
       },
+      "17_3_0_2": {
+        "name": "jei-1.20.4-forge-17.3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/MYHGHeHY/jei-1.20.4-forge-17.3.0.2.jar",
+        "sha512": "c52a9a6dd4e9286f07941f542a1477b7c77edb664f199cb4240773f460071e954d8844dc6419c7c575aaab79e898fc6ce9e1c5c770d879ab9524ca7dd6f0bd83"
+      },
+      "17_3_0_1": {
+        "name": "jei-1.20.4-forge-17.3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lMRpjWkn/jei-1.20.4-forge-17.3.0.1.jar",
+        "sha512": "ee6e813df2d3509996731f2e249418f570541d117887c72355bf62f7925ed484d851c20e0ebdace14812e63fc10cbc6fec7b769cf9cb9ca31d51f90961892745"
+      },
       "17_3_0_56": {
         "name": "jei-1.20.4-forge-17.3.0.56.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/TpZcWMWz/jei-1.20.4-forge-17.3.0.56.jar",
@@ -4365,16 +4375,6 @@
         "name": "jei-1.20.4-forge-17.3.0.43.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HXEwA3jG/jei-1.20.4-forge-17.3.0.43.jar",
         "sha512": "2c2369818bf764b3a8e0167b4a1d6afe46631d7885a50ed74406b007ada9a5ed9f1b8eb6acfee6c920c34041519f52b5125171e527fbfc19d8b0a81631232e52"
-      },
-      "17_3_0_2": {
-        "name": "jei-1.20.4-forge-17.3.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/MYHGHeHY/jei-1.20.4-forge-17.3.0.2.jar",
-        "sha512": "c52a9a6dd4e9286f07941f542a1477b7c77edb664f199cb4240773f460071e954d8844dc6419c7c575aaab79e898fc6ce9e1c5c770d879ab9524ca7dd6f0bd83"
-      },
-      "17_3_0_1": {
-        "name": "jei-1.20.4-forge-17.3.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lMRpjWkn/jei-1.20.4-forge-17.3.0.1.jar",
-        "sha512": "ee6e813df2d3509996731f2e249418f570541d117887c72355bf62f7925ed484d851c20e0ebdace14812e63fc10cbc6fec7b769cf9cb9ca31d51f90961892745"
       },
       "17_2_0_42": {
         "name": "jei-1.20.4-forge-17.2.0.42.jar",
@@ -4449,19 +4449,19 @@
     },
     "1_20_2": {
       "latest": {
-        "name": "jei-1.20.2-forge-16.0.0.28.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/aYLp1Bp3/jei-1.20.2-forge-16.0.0.28.jar",
-        "sha512": "3c0e07a754a11a66567bd0d67c59667d338ce5d27f80ecb64f9b71de9efc158f9c66a9f3399a7eb666f5fc5cac1f252cc30ec5dad541124f2b9eb4b6246c0115"
-      },
-      "16_0_0_28": {
-        "name": "jei-1.20.2-forge-16.0.0.28.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/aYLp1Bp3/jei-1.20.2-forge-16.0.0.28.jar",
-        "sha512": "3c0e07a754a11a66567bd0d67c59667d338ce5d27f80ecb64f9b71de9efc158f9c66a9f3399a7eb666f5fc5cac1f252cc30ec5dad541124f2b9eb4b6246c0115"
+        "name": "jei-1.20.2-forge-16.0.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/WqGVuPbX/jei-1.20.2-forge-16.0.0.2.jar",
+        "sha512": "8fb824c5b9dc72e6cee4a10dce2d993db6e6991bf2014d195257ca21cde42cd89412041b9f735671c0670e801d60229c1305984f7e3bd12d2e79802b22cfc825"
       },
       "16_0_0_2": {
         "name": "jei-1.20.2-forge-16.0.0.2.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/WqGVuPbX/jei-1.20.2-forge-16.0.0.2.jar",
         "sha512": "8fb824c5b9dc72e6cee4a10dce2d993db6e6991bf2014d195257ca21cde42cd89412041b9f735671c0670e801d60229c1305984f7e3bd12d2e79802b22cfc825"
+      },
+      "16_0_0_28": {
+        "name": "jei-1.20.2-forge-16.0.0.28.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/aYLp1Bp3/jei-1.20.2-forge-16.0.0.28.jar",
+        "sha512": "3c0e07a754a11a66567bd0d67c59667d338ce5d27f80ecb64f9b71de9efc158f9c66a9f3399a7eb666f5fc5cac1f252cc30ec5dad541124f2b9eb4b6246c0115"
       }
     },
     "1_20_1": {
@@ -5784,6 +5784,11 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/k3W3h9cO/jei-1.18.2-forge-10.2.1.1002.jar",
         "sha512": "9b0defd629450af0fd0882e6b8dd9df607bbb90f582847c8870d286ff6d15da604c86688ea72a1f4cee92b735147a68f1bd83bfb4d8138401d26036b65cb68ff"
       },
+      "9_7_2_1001": {
+        "name": "jei-1.18.2-9.7.2.1001.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/PjDM0HvM/jei-1.18.2-9.7.2.1001.jar",
+        "sha512": "a127321b57d66316c3c2363a508fc1f19b314ab622425f259cbc7ecff9d0653e18b57ed12ba1cd4cd4ab29693fd61338adaa6ef52906b3a582f942cbc9942d84"
+      },
       "10_2_1_1001": {
         "name": "jei-1.18.2-forge-10.2.1.1001.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/mbMklOw5/jei-1.18.2-forge-10.2.1.1001.jar",
@@ -5793,6 +5798,11 @@
         "name": "jei-1.18.2-forge-10.2.1.283.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9Rh0nxv5/jei-1.18.2-forge-10.2.1.283.jar",
         "sha512": "fdc2968e381db1c0539addc3eeb9143843afffaad8fdff90e64a5ac5cc882abab6a17d89e7a518f32cd9ef2877687aaac1099c0c353d344d19fdf0d1dc49df06"
+      },
+      "9_7_2_281": {
+        "name": "jei-1.18.2-9.7.2.281.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/gGQrrkP0/jei-1.18.2-9.7.2.281.jar",
+        "sha512": "3533eb6c1fd792397d487b9300bc0e62ce7049d671c38f249de88f968cb8a45df2ade62705e9519f70e50584c75b3bf92d01edf04a9405127c625bccfba9d189"
       },
       "10_2_1_280": {
         "name": "jei-1.18.2-forge-10.2.1.280.jar",
@@ -5804,20 +5814,50 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/2bVezdSP/jei-1.18.2-forge-10.2.1.278.jar",
         "sha512": "b8311b979633b125ddccffada753e69099686a4382211d62af866136d256e485ea69fe98e7fecb907e12b357432a0f1f5c1c89f1c65d37bfbec23f3edab657db"
       },
+      "9_7_2_277": {
+        "name": "jei-1.18.2-9.7.2.277.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iR8LiDZQ/jei-1.18.2-9.7.2.277.jar",
+        "sha512": "c97f1d5030e5a87e5c6e6e537df2245c8874efb7ee3108a702ba50a5a500253d8b4fdab8f4975144bfeb51351438061a378ab8ebb24d029f15599316fc56037b"
+      },
+      "9_7_2_273": {
+        "name": "jei-1.18.2-9.7.2.273.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/5Rpx4puz/jei-1.18.2-9.7.2.273.jar",
+        "sha512": "031c87b5628b86e57248013fd9b9cf4fbe1ef6d91cbcf279513180aaa380310ad3b0d83f6b16423843cde04f17db5c9950682e2d9f5578c8b9e4d9c2501b5c96"
+      },
       "10_1_5_272": {
         "name": "jei-1.18.2-forge-10.1.5.272.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/WwvAWnwD/jei-1.18.2-forge-10.1.5.272.jar",
         "sha512": "847a0fb16a51e2f178e48d2b59f1d4dcf2c9bcd412c03f5ca687de2073c55777d2c6ce4364ab0fd707629f5b17c1b6173b602ba946cecb935143367f8dae0a19"
+      },
+      "9_7_2_266": {
+        "name": "jei-1.18.2-9.7.2.266.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/CYS9UQlJ/jei-1.18.2-9.7.2.266.jar",
+        "sha512": "40a6d10614713c6b9aab04f7d0aa2f4d7f9ca1dbf18167892a90daee43704c733ccbdc0eb39e2b352cafcc296b9383034d92e6aed6d4102f814574b9d7ea0f0c"
+      },
+      "9_7_2_264": {
+        "name": "jei-1.18.2-9.7.2.264.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ZutmWrpn/jei-1.18.2-9.7.2.264.jar",
+        "sha512": "2368027e5ab83e8d76031df81d0206d9d0d2ebf094dcb7977f03ccb4c414856650bd9dd411501dc6cc6fd0e6e9cc539bf74208a0d7954ae398456738b925fd9d"
       },
       "10_1_4_263": {
         "name": "jei-1.18.2-forge-10.1.4.263.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/pkE5Xei5/jei-1.18.2-forge-10.1.4.263.jar",
         "sha512": "03af18cdb69f23a16a2b27acdd1cd19c095dd65fbabd9680d248d86a02c97e780aae9f4f710fa34ce72d5ada225dedfb7a93b0390912a08aa24fd955e92d4b45"
       },
+      "9_7_2_259": {
+        "name": "jei-1.18.2-9.7.2.259.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/bQbzgoA4/jei-1.18.2-9.7.2.259.jar",
+        "sha512": "a1d40f0da626de2546c922b59ec010d272801dbf1a44adb928d296fc9b35653b50d2817ca1400dae98b6ac05b1b8b04dc89c3cd4e244765fd2e16869929d64fb"
+      },
       "10_1_4_258": {
         "name": "jei-1.18.2-forge-10.1.4.258.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/86dofjKJ/jei-1.18.2-forge-10.1.4.258.jar",
         "sha512": "75e2afef9c0e0814f249a57b6d0208089644f16cd1c1cd261fc3558420dc8f6f701d060abea3b6133a0561099316d1c2ad744da50add74bf48f4a92dba09da5f"
+      },
+      "9_7_1_255": {
+        "name": "jei-1.18.2-9.7.1.255.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/qgZFDrtm/jei-1.18.2-9.7.1.255.jar",
+        "sha512": "18836ca5fe64fa015fb699e3b7e663abcfeea0ca5c0a1eaad436515fc1bff76e36e53e90a1f305e4871c256676afe7c6193049c8b8d9ecc1ecc7e7fd4ae54d9d"
       },
       "10_1_3_240": {
         "name": "jei-1.18.2-forge-10.1.3.240.jar",
@@ -5834,15 +5874,35 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Z9hpZuiO/jei-1.18.2-forge-10.1.1.237.jar",
         "sha512": "e02e550fd2ef2db98a7cf5fb74781293e85128b47001a6ede0f5450158b993323599fdf66f8f3a72d9f4a81d6e8e179045f365dc6fc31d1d31feb66cca3afd88"
       },
+      "9_7_1_232": {
+        "name": "jei-1.18.2-9.7.1.232.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/s0hfE5pD/jei-1.18.2-9.7.1.232.jar",
+        "sha512": "e795a78088c999a321f3984e40d7ebf8f4be3456a7eed9832bf6c34ad2c766f7e8a81cee98fa7df0bbbe0dc290ddfadc3163d9e2c4409c9e22e0d495bf0dc2c6"
+      },
       "10_1_1_231": {
         "name": "jei-1.18.2-forge-10.1.1.231.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/UFlEKR24/jei-1.18.2-forge-10.1.1.231.jar",
         "sha512": "9156bb75b810f663a9009076ae0364d7c262f5f07e83ab91a598224f624eee1b2e72ff4435e0b226890c489f610f9460a25d3483748db8000edf182da69b530c"
       },
+      "9_7_0_229": {
+        "name": "jei-1.18.2-9.7.0.229.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zEbWRtBH/jei-1.18.2-9.7.0.229.jar",
+        "sha512": "0c092e7066365ad93cab081cbe39d299c49dd452a55ab7f2afd21c9e22600e1c16d6e6d1f846dafca239896fb0c175bedd9ee866f1cec2aa11ef6e958da47e47"
+      },
       "10_1_0_228": {
         "name": "jei-1.18.2-forge-10.1.0.228.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/IYwq4ihT/jei-1.18.2-forge-10.1.0.228.jar",
         "sha512": "a9ad6c1efca18ccd416c35646f67cf6b127805bde4278b41774f6458aa6a9275fafff3a35384e9c54af05fedbeb11f86515f1f90f21fbbf54fd3599e0e5ec0a9"
+      },
+      "9_7_0_226": {
+        "name": "jei-1.18.2-9.7.0.226.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/jTf7i3kP/jei-1.18.2-9.7.0.226.jar",
+        "sha512": "d152c5e6e5e8e1239c2c433c49abe46b8586f1010b885f11e1956ebf079635f495253317fe118c71580a17ec6e1273dfe79e96e80122ff5d16b3cc3c49f38f44"
+      },
+      "9_7_0_224": {
+        "name": "jei-1.18.2-9.7.0.224.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/rN5uxwV4/jei-1.18.2-9.7.0.224.jar",
+        "sha512": "cf065965de96a4a136855b915c6c2e9a78d0120cce917c13608e48240008212676526ab5f8bd8c381afe2a5631fb798c81e770345913be00204baa2da5d782df"
       },
       "10_1_0_223": {
         "name": "jei-1.18.2-forge-10.1.0.223.jar",
@@ -5869,6 +5929,11 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ANW2QrY2/jei-1.18.2-forge-10.1.0.213.jar",
         "sha512": "cddaa4dd56e747d30a1138993419c4bda165202de476d1de8480f32e55c4d2dc5f4c648856030fbe9cfefd18e7412498c30c4453cb102b03e503708b6dc76546"
       },
+      "9_7_0_209": {
+        "name": "jei-1.18.2-9.7.0.209.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ugxf8fQh/jei-1.18.2-9.7.0.209.jar",
+        "sha512": "d3976c3da43b046ef22f4fd9ad01465f88fecd16bc618d0226bde02a2fb68b9057e7474678c5eefe6bfd13cab046e4e6b9fd379da95c4ba4564ae3aeb9037b97"
+      },
       "10_1_0_208": {
         "name": "jei-1.18.2-forge-10.1.0.208.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/EJfSyADk/jei-1.18.2-forge-10.1.0.208.jar",
@@ -5888,6 +5953,31 @@
         "name": "jei-1.18.2-forge-10.1.0.200.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9kvIMFoE/jei-1.18.2-forge-10.1.0.200.jar",
         "sha512": "73642ecff97b4a177dadb6d38f79a0ee1d0211b4da81ea7ad0175baad69b5efa3cea327d6bf2094320c8a5252d50ca871f559de32265f6b5c40859578ba96099"
+      },
+      "9_7_0_196": {
+        "name": "jei-1.18.2-9.7.0.196.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/tzZ9FuFi/jei-1.18.2-9.7.0.196.jar",
+        "sha512": "adb3fa85005b67cc5c8f03489f1f607f37134443d36e77ecb6a09bdecd6a39475bf6d79e0a5e7cb251c7d04293cf60cd140ac3dd4997cba1e2f6bcaea340e5fb"
+      },
+      "9_7_0_195": {
+        "name": "jei-1.18.2-9.7.0.195.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/U0VUUPFa/jei-1.18.2-9.7.0.195.jar",
+        "sha512": "18d260c84490d92978d13bb4e754f718c1cee9f643e03778fb469378c10b7d3e823d390e1d2b351246a68af5940458fe75c8275d040018df96d872e952ad4c6a"
+      },
+      "9_7_0_194": {
+        "name": "jei-1.18.2-9.7.0.194.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/jGXoaPDY/jei-1.18.2-9.7.0.194.jar",
+        "sha512": "5cfe34c7a55a61fff11bf92e588dc98b0f25f6982bd4f714d7e0bedcadee9a5ffa4d809212469640165b98cccd08a523e0da6043c34429c11a7c23e4161e3728"
+      },
+      "9_7_0_193": {
+        "name": "jei-1.18.2-9.7.0.193.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zBPhKjKF/jei-1.18.2-9.7.0.193.jar",
+        "sha512": "a309046746593e7523c69b2a1ced8d4605216c3e3b6a7ef139cecd715bd2c5846934e1a21a96ac9fab8b7dd1d3d0beda469047676be8d84fbc8dae4e4766248f"
+      },
+      "9_7_0_192": {
+        "name": "jei-1.18.2-9.7.0.192.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/GJoGpfc7/jei-1.18.2-9.7.0.192.jar",
+        "sha512": "017d53732cdb3a3b38a9b532aa72dab7be6f861e2206b37f3443765784b373158391f4e0d2a23075d7ca46c41fc1bdc22c5536cd1f0722a1b271cd9f6c9ca143"
       },
       "10_0_0_191": {
         "name": "jei-1.18.2-forge-10.0.0.191.jar",
@@ -5918,96 +6008,6 @@
         "name": "jei-1.18.2-forge-10.0.0.184.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/sKhbpWOM/jei-1.18.2-forge-10.0.0.184.jar",
         "sha512": "450905f243311a47c46561473013434396e5b5cb01ed89d10e0f77383dd7b44d2919f17b52738e6b45e8d9b7ffe01d11823b4cd2e032c097ee0182f1723e25ba"
-      },
-      "9_7_2_1001": {
-        "name": "jei-1.18.2-9.7.2.1001.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/PjDM0HvM/jei-1.18.2-9.7.2.1001.jar",
-        "sha512": "a127321b57d66316c3c2363a508fc1f19b314ab622425f259cbc7ecff9d0653e18b57ed12ba1cd4cd4ab29693fd61338adaa6ef52906b3a582f942cbc9942d84"
-      },
-      "9_7_2_281": {
-        "name": "jei-1.18.2-9.7.2.281.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/gGQrrkP0/jei-1.18.2-9.7.2.281.jar",
-        "sha512": "3533eb6c1fd792397d487b9300bc0e62ce7049d671c38f249de88f968cb8a45df2ade62705e9519f70e50584c75b3bf92d01edf04a9405127c625bccfba9d189"
-      },
-      "9_7_2_277": {
-        "name": "jei-1.18.2-9.7.2.277.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iR8LiDZQ/jei-1.18.2-9.7.2.277.jar",
-        "sha512": "c97f1d5030e5a87e5c6e6e537df2245c8874efb7ee3108a702ba50a5a500253d8b4fdab8f4975144bfeb51351438061a378ab8ebb24d029f15599316fc56037b"
-      },
-      "9_7_2_273": {
-        "name": "jei-1.18.2-9.7.2.273.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/5Rpx4puz/jei-1.18.2-9.7.2.273.jar",
-        "sha512": "031c87b5628b86e57248013fd9b9cf4fbe1ef6d91cbcf279513180aaa380310ad3b0d83f6b16423843cde04f17db5c9950682e2d9f5578c8b9e4d9c2501b5c96"
-      },
-      "9_7_2_266": {
-        "name": "jei-1.18.2-9.7.2.266.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/CYS9UQlJ/jei-1.18.2-9.7.2.266.jar",
-        "sha512": "40a6d10614713c6b9aab04f7d0aa2f4d7f9ca1dbf18167892a90daee43704c733ccbdc0eb39e2b352cafcc296b9383034d92e6aed6d4102f814574b9d7ea0f0c"
-      },
-      "9_7_2_264": {
-        "name": "jei-1.18.2-9.7.2.264.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ZutmWrpn/jei-1.18.2-9.7.2.264.jar",
-        "sha512": "2368027e5ab83e8d76031df81d0206d9d0d2ebf094dcb7977f03ccb4c414856650bd9dd411501dc6cc6fd0e6e9cc539bf74208a0d7954ae398456738b925fd9d"
-      },
-      "9_7_2_259": {
-        "name": "jei-1.18.2-9.7.2.259.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/bQbzgoA4/jei-1.18.2-9.7.2.259.jar",
-        "sha512": "a1d40f0da626de2546c922b59ec010d272801dbf1a44adb928d296fc9b35653b50d2817ca1400dae98b6ac05b1b8b04dc89c3cd4e244765fd2e16869929d64fb"
-      },
-      "9_7_1_255": {
-        "name": "jei-1.18.2-9.7.1.255.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/qgZFDrtm/jei-1.18.2-9.7.1.255.jar",
-        "sha512": "18836ca5fe64fa015fb699e3b7e663abcfeea0ca5c0a1eaad436515fc1bff76e36e53e90a1f305e4871c256676afe7c6193049c8b8d9ecc1ecc7e7fd4ae54d9d"
-      },
-      "9_7_1_232": {
-        "name": "jei-1.18.2-9.7.1.232.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/s0hfE5pD/jei-1.18.2-9.7.1.232.jar",
-        "sha512": "e795a78088c999a321f3984e40d7ebf8f4be3456a7eed9832bf6c34ad2c766f7e8a81cee98fa7df0bbbe0dc290ddfadc3163d9e2c4409c9e22e0d495bf0dc2c6"
-      },
-      "9_7_0_229": {
-        "name": "jei-1.18.2-9.7.0.229.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zEbWRtBH/jei-1.18.2-9.7.0.229.jar",
-        "sha512": "0c092e7066365ad93cab081cbe39d299c49dd452a55ab7f2afd21c9e22600e1c16d6e6d1f846dafca239896fb0c175bedd9ee866f1cec2aa11ef6e958da47e47"
-      },
-      "9_7_0_226": {
-        "name": "jei-1.18.2-9.7.0.226.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/jTf7i3kP/jei-1.18.2-9.7.0.226.jar",
-        "sha512": "d152c5e6e5e8e1239c2c433c49abe46b8586f1010b885f11e1956ebf079635f495253317fe118c71580a17ec6e1273dfe79e96e80122ff5d16b3cc3c49f38f44"
-      },
-      "9_7_0_224": {
-        "name": "jei-1.18.2-9.7.0.224.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/rN5uxwV4/jei-1.18.2-9.7.0.224.jar",
-        "sha512": "cf065965de96a4a136855b915c6c2e9a78d0120cce917c13608e48240008212676526ab5f8bd8c381afe2a5631fb798c81e770345913be00204baa2da5d782df"
-      },
-      "9_7_0_209": {
-        "name": "jei-1.18.2-9.7.0.209.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ugxf8fQh/jei-1.18.2-9.7.0.209.jar",
-        "sha512": "d3976c3da43b046ef22f4fd9ad01465f88fecd16bc618d0226bde02a2fb68b9057e7474678c5eefe6bfd13cab046e4e6b9fd379da95c4ba4564ae3aeb9037b97"
-      },
-      "9_7_0_196": {
-        "name": "jei-1.18.2-9.7.0.196.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/tzZ9FuFi/jei-1.18.2-9.7.0.196.jar",
-        "sha512": "adb3fa85005b67cc5c8f03489f1f607f37134443d36e77ecb6a09bdecd6a39475bf6d79e0a5e7cb251c7d04293cf60cd140ac3dd4997cba1e2f6bcaea340e5fb"
-      },
-      "9_7_0_195": {
-        "name": "jei-1.18.2-9.7.0.195.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/U0VUUPFa/jei-1.18.2-9.7.0.195.jar",
-        "sha512": "18d260c84490d92978d13bb4e754f718c1cee9f643e03778fb469378c10b7d3e823d390e1d2b351246a68af5940458fe75c8275d040018df96d872e952ad4c6a"
-      },
-      "9_7_0_194": {
-        "name": "jei-1.18.2-9.7.0.194.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/jGXoaPDY/jei-1.18.2-9.7.0.194.jar",
-        "sha512": "5cfe34c7a55a61fff11bf92e588dc98b0f25f6982bd4f714d7e0bedcadee9a5ffa4d809212469640165b98cccd08a523e0da6043c34429c11a7c23e4161e3728"
-      },
-      "9_7_0_193": {
-        "name": "jei-1.18.2-9.7.0.193.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zBPhKjKF/jei-1.18.2-9.7.0.193.jar",
-        "sha512": "a309046746593e7523c69b2a1ced8d4605216c3e3b6a7ef139cecd715bd2c5846934e1a21a96ac9fab8b7dd1d3d0beda469047676be8d84fbc8dae4e4766248f"
-      },
-      "9_7_0_192": {
-        "name": "jei-1.18.2-9.7.0.192.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/GJoGpfc7/jei-1.18.2-9.7.0.192.jar",
-        "sha512": "017d53732cdb3a3b38a9b532aa72dab7be6f861e2206b37f3443765784b373158391f4e0d2a23075d7ca46c41fc1bdc22c5536cd1f0722a1b271cd9f6c9ca143"
       },
       "9_7_0_180": {
         "name": "jei-1.18.2-9.7.0.180.jar",
@@ -10665,6 +10665,11 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/hC05dIZX/jei_1.9-3.3.3.200.jar",
         "sha512": "fe87e5fd63047ae556289035b13d383898af08f2c62a0797eb4e6eff9bfe3d9dbd474fe4bb1b1fd36dd876f6fec3f6b74d86ca0bde4d38bb5eb46abb033de351"
       },
+      "3_3_3_": {
+        "name": "jei_1.9-3.3.3.199.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/enuGDv6D/jei_1.9-3.3.3.199.jar",
+        "sha512": "330d0bdce2cbda3a8861b1489a4eeb3912df6cf8172d6c4fedbc6d61f933a7d9a3b6e895cc715405e6b9931a5301d6ef96077180f3c8f63c9505ade47cdb00d9"
+      },
       "3_3_3_198": {
         "name": "jei_1.9-3.3.3.198.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/svhhqeE7/jei_1.9-3.3.3.198.jar",
@@ -10674,11 +10679,6 @@
         "name": "jei_1.9-3.3.3.197.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YIrg6UrE/jei_1.9-3.3.3.197.jar",
         "sha512": "8179e1baabe362f0170eb717bae149502e1ac24dbe748aae6bbb882fdca89ad8039369759e891fc1bb7a6a4797a1a7e4c318af2beb9223200a8563bea652a9f8"
-      },
-      "3_3_3_": {
-        "name": "jei_1.9-3.3.3.199.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/enuGDv6D/jei_1.9-3.3.3.199.jar",
-        "sha512": "330d0bdce2cbda3a8861b1489a4eeb3912df6cf8172d6c4fedbc6d61f933a7d9a3b6e895cc715405e6b9931a5301d6ef96077180f3c8f63c9505ade47cdb00d9"
       },
       "3_3_2_196": {
         "name": "jei_1.9-3.3.2.196.jar",
@@ -13480,6 +13480,16 @@
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/L3OHmPcg/jei-1.20.4-fabric-17.3.1.3.jar",
         "sha512": "d246c8ee469c0a1b4a97def38d1ed5e0c4dee41364f8c3f0e4453cb2929a728ae01ec71cfd03b24ee04012835f104c5852f5b511897cb63165b61c6493dda52f"
       },
+      "17_3_0_2": {
+        "name": "jei-1.20.4-fabric-17.3.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/xP3G6EQS/jei-1.20.4-fabric-17.3.0.2.jar",
+        "sha512": "9063b3c7463c33d26005b14104559ab4888898202f268647df74d7ee6ada2b3252c1e2d7360641d86ce0fbe214e3c4e1ed3a6919644377461d712ba8ede46939"
+      },
+      "17_3_0_1": {
+        "name": "jei-1.20.4-fabric-17.3.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/N0CceHHh/jei-1.20.4-fabric-17.3.0.1.jar",
+        "sha512": "8052e46286704cd05a433422dc7f048292b60b48914dd5973e9cd925b5c7820fe7e026a78673b89e9c01c0631200b978545e0c5a6fa7290aa7dc606187a7eac4"
+      },
       "17_3_0_56": {
         "name": "jei-1.20.4-fabric-17.3.0.56.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Rz3j6b82/jei-1.20.4-fabric-17.3.0.56.jar",
@@ -13529,16 +13539,6 @@
         "name": "jei-1.20.4-fabric-17.3.0.43.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/zLpvqhj7/jei-1.20.4-fabric-17.3.0.43.jar",
         "sha512": "97aab1bc32c03e7fa44251460e9e407f4ac82371a082ef83166d9e72cc296e9591d9d416b8046ad3f33ce65437aefda58e49bd88661b7c8485b70df5a0883479"
-      },
-      "17_3_0_2": {
-        "name": "jei-1.20.4-fabric-17.3.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/xP3G6EQS/jei-1.20.4-fabric-17.3.0.2.jar",
-        "sha512": "9063b3c7463c33d26005b14104559ab4888898202f268647df74d7ee6ada2b3252c1e2d7360641d86ce0fbe214e3c4e1ed3a6919644377461d712ba8ede46939"
-      },
-      "17_3_0_1": {
-        "name": "jei-1.20.4-fabric-17.3.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/N0CceHHh/jei-1.20.4-fabric-17.3.0.1.jar",
-        "sha512": "8052e46286704cd05a433422dc7f048292b60b48914dd5973e9cd925b5c7820fe7e026a78673b89e9c01c0631200b978545e0c5a6fa7290aa7dc606187a7eac4"
       },
       "17_2_0_42": {
         "name": "jei-1.20.4-fabric-17.2.0.42.jar",
@@ -13613,19 +13613,19 @@
     },
     "1_20_2": {
       "latest": {
-        "name": "jei-1.20.2-fabric-16.0.0.28.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/7Qec2BlS/jei-1.20.2-fabric-16.0.0.28.jar",
-        "sha512": "d0267e3ccbd78844c2b0c8def798d938871abb5f7aac584a88ebae818eb0236e0fdf1c37fdb90ec3542eebe6df025a6681eec4582a9c9802479d480f6e907e85"
-      },
-      "16_0_0_28": {
-        "name": "jei-1.20.2-fabric-16.0.0.28.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/7Qec2BlS/jei-1.20.2-fabric-16.0.0.28.jar",
-        "sha512": "d0267e3ccbd78844c2b0c8def798d938871abb5f7aac584a88ebae818eb0236e0fdf1c37fdb90ec3542eebe6df025a6681eec4582a9c9802479d480f6e907e85"
+        "name": "jei-1.20.2-fabric-16.0.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Ak6HvJFC/jei-1.20.2-fabric-16.0.0.2.jar",
+        "sha512": "d2031a55c1af698c4373f9fab08a0c158477dbd03e1f9b8e6faf87c97293753dde652364a6372ffda94d1d2c770a5b2c66dfa70eae6454d446506d1036af2932"
       },
       "16_0_0_2": {
         "name": "jei-1.20.2-fabric-16.0.0.2.jar",
         "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Ak6HvJFC/jei-1.20.2-fabric-16.0.0.2.jar",
         "sha512": "d2031a55c1af698c4373f9fab08a0c158477dbd03e1f9b8e6faf87c97293753dde652364a6372ffda94d1d2c770a5b2c66dfa70eae6454d446506d1036af2932"
+      },
+      "16_0_0_28": {
+        "name": "jei-1.20.2-fabric-16.0.0.28.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/7Qec2BlS/jei-1.20.2-fabric-16.0.0.28.jar",
+        "sha512": "d0267e3ccbd78844c2b0c8def798d938871abb5f7aac584a88ebae818eb0236e0fdf1c37fdb90ec3542eebe6df025a6681eec4582a9c9802479d480f6e907e85"
       }
     },
     "1_20_1": {

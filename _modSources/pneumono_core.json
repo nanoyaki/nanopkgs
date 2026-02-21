@@ -40,15 +40,15 @@
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/JnJkluZn/pneumonocore-1.2.1%2B1.21.9%2BA.jar",
         "sha512": "94b9968c53c2e6609ee033ec9a4011c9ebb96079ae0b394fb79aec7963941ed97d62f72a7100b08046ba2ad3591d3ba573e08cac3d9940ddef5b2b98bd3f0d3e"
       },
-      "1_2_0": {
-        "name": "pneumonocore-1.2.0+1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/swLNxtP4/pneumonocore-1.2.0%2B1.21.9.jar",
-        "sha512": "cfc25c4a8eafb38031fbb96fe6842187cb854507f0b9eb592ba7c3db9c648c623e090a39764c5ee81934befbe62256376be50bb199714ddc964421f9c9f801e7"
-      },
       "1_2_0B": {
         "name": "pneumonocore-1.2.0+1.21.9+B.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/bTBAXqEQ/pneumonocore-1.2.0%2B1.21.9%2BB.jar",
         "sha512": "dbdbdb27a7cc1c92b0eddecda478029d756517bff9ed6718260a8e40175a21a3a04b68b312c8a8ec18d3c496104a684930022662f051d40c0750d56241397652"
+      },
+      "1_2_0": {
+        "name": "pneumonocore-1.2.0+1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/swLNxtP4/pneumonocore-1.2.0%2B1.21.9.jar",
+        "sha512": "cfc25c4a8eafb38031fbb96fe6842187cb854507f0b9eb592ba7c3db9c648c623e090a39764c5ee81934befbe62256376be50bb199714ddc964421f9c9f801e7"
       }
     },
     "1_21_8": {
@@ -381,14 +381,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "pneumonocore-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
-        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
-      },
-      "1__20_1": {
-        "name": "pneumonocore-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
-        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
+        "name": "pneumonocore-1.2.1+1.20+A.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/fmCMXBJ5/pneumonocore-1.2.1%2B1.20%2BA.jar",
+        "sha512": "a3387c21274b05144adba143f554c4698b994b027c2a2045d65068cec1bb609c07383ff4d336798b0f9eda3a3544cb9ace4671306125e6d6b0c1642705686e6f"
       },
       "1_2_1+1_20+A": {
         "name": "pneumonocore-1.2.1+1.20+A.jar",
@@ -399,6 +394,11 @@
         "name": "pneumonocore-1.2.0+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/MkBO1IDi/pneumonocore-1.2.0%2B1.20.1.jar",
         "sha512": "be4355501a829b08ea2eeea01a36fae4289f37e68d3f744c03828ebdd3b282108604d1fce4f8a221fbe0037f6449bc2fbca9ac3d206fe67abefc0fba5a3ba750"
+      },
+      "1__20_1": {
+        "name": "pneumonocore-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
+        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
       },
       "1_1_19d": {
         "name": "pneumonocore-1.1.19+1.20.1d.jar",
@@ -437,6 +437,11 @@
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/MkBO1IDi/pneumonocore-1.2.0%2B1.20.1.jar",
         "sha512": "be4355501a829b08ea2eeea01a36fae4289f37e68d3f744c03828ebdd3b282108604d1fce4f8a221fbe0037f6449bc2fbca9ac3d206fe67abefc0fba5a3ba750"
       },
+      "1__1": {
+        "name": "pneumonocore-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
+        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
+      },
       "1_1_19_1d": {
         "name": "pneumonocore-1.1.19+1.20.1d.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/Nk1oNxOA/pneumonocore-1.1.19%2B1.20.1d.jar",
@@ -451,11 +456,6 @@
         "name": "pneumonocore-1.1.3+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/oYNm2ylK/pneumonocore-1.1.3%2B1.20.1.jar",
         "sha512": "1e646faef542fb015536ff8628dadf6fed3ff76f14b193db016744ac9b077de92fbe2ad8ac5423c6d5f4065f50d053216091b8611d54527ecbfb236088e32d2c"
-      },
-      "1__1": {
-        "name": "pneumonocore-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
-        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
       },
       "1_0_9": {
         "name": "pneumonocore-1.0.9+1.20.jar",
@@ -505,15 +505,15 @@
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/JnJkluZn/pneumonocore-1.2.1%2B1.21.9%2BA.jar",
         "sha512": "94b9968c53c2e6609ee033ec9a4011c9ebb96079ae0b394fb79aec7963941ed97d62f72a7100b08046ba2ad3591d3ba573e08cac3d9940ddef5b2b98bd3f0d3e"
       },
-      "1_2_0": {
-        "name": "pneumonocore-1.2.0+1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/swLNxtP4/pneumonocore-1.2.0%2B1.21.9.jar",
-        "sha512": "cfc25c4a8eafb38031fbb96fe6842187cb854507f0b9eb592ba7c3db9c648c623e090a39764c5ee81934befbe62256376be50bb199714ddc964421f9c9f801e7"
-      },
       "1_2_0B": {
         "name": "pneumonocore-1.2.0+1.21.9+B.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/bTBAXqEQ/pneumonocore-1.2.0%2B1.21.9%2BB.jar",
         "sha512": "dbdbdb27a7cc1c92b0eddecda478029d756517bff9ed6718260a8e40175a21a3a04b68b312c8a8ec18d3c496104a684930022662f051d40c0750d56241397652"
+      },
+      "1_2_0": {
+        "name": "pneumonocore-1.2.0+1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/swLNxtP4/pneumonocore-1.2.0%2B1.21.9.jar",
+        "sha512": "cfc25c4a8eafb38031fbb96fe6842187cb854507f0b9eb592ba7c3db9c648c623e090a39764c5ee81934befbe62256376be50bb199714ddc964421f9c9f801e7"
       }
     },
     "1_21_8": {
@@ -846,14 +846,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "pneumonocore-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
-        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
-      },
-      "1__20_1": {
-        "name": "pneumonocore-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
-        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
+        "name": "pneumonocore-1.2.1+1.20+A.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/fmCMXBJ5/pneumonocore-1.2.1%2B1.20%2BA.jar",
+        "sha512": "a3387c21274b05144adba143f554c4698b994b027c2a2045d65068cec1bb609c07383ff4d336798b0f9eda3a3544cb9ace4671306125e6d6b0c1642705686e6f"
       },
       "1_2_1+1_20+A": {
         "name": "pneumonocore-1.2.1+1.20+A.jar",
@@ -864,6 +859,11 @@
         "name": "pneumonocore-1.2.0+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/MkBO1IDi/pneumonocore-1.2.0%2B1.20.1.jar",
         "sha512": "be4355501a829b08ea2eeea01a36fae4289f37e68d3f744c03828ebdd3b282108604d1fce4f8a221fbe0037f6449bc2fbca9ac3d206fe67abefc0fba5a3ba750"
+      },
+      "1__20_1": {
+        "name": "pneumonocore-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
+        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
       },
       "1_1_19d": {
         "name": "pneumonocore-1.1.19+1.20.1d.jar",
@@ -902,6 +902,11 @@
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/MkBO1IDi/pneumonocore-1.2.0%2B1.20.1.jar",
         "sha512": "be4355501a829b08ea2eeea01a36fae4289f37e68d3f744c03828ebdd3b282108604d1fce4f8a221fbe0037f6449bc2fbca9ac3d206fe67abefc0fba5a3ba750"
       },
+      "1__1": {
+        "name": "pneumonocore-1.1.20+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
+        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
+      },
       "1_1_19_1d": {
         "name": "pneumonocore-1.1.19+1.20.1d.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/Nk1oNxOA/pneumonocore-1.1.19%2B1.20.1d.jar",
@@ -916,11 +921,6 @@
         "name": "pneumonocore-1.1.3+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/oYNm2ylK/pneumonocore-1.1.3%2B1.20.1.jar",
         "sha512": "1e646faef542fb015536ff8628dadf6fed3ff76f14b193db016744ac9b077de92fbe2ad8ac5423c6d5f4065f50d053216091b8611d54527ecbfb236088e32d2c"
-      },
-      "1__1": {
-        "name": "pneumonocore-1.1.20+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/2tUvWj2H/pneumonocore-1.1.20%2B1.20.1.jar",
-        "sha512": "2b343cba7a1514ae0d996f436082a67e5612e7ac87e9434f62233b585f2c1c414b024f8ef4c325995ef44bdef3423d48d78e5c0cba99c5fc884f8ef91c092e5b"
       },
       "1_0_9": {
         "name": "pneumonocore-1.0.9+1.20.jar",

@@ -184,6 +184,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/iLBQZb4J/curios-neoforge-8.0.1%2B1.20.6.jar",
         "sha512": "2e75fb771e03deb3ce2af7ac9b16f523aef56af386ae2653e34de58ac137c06f8ae51f8814a09b36c38aa295f8eb80902da895e6db7489c28cad7918d1f4c4de"
       },
+      "8_0_0": {
+        "name": "curios-neoforge-8.0.0+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/uV8dKuBO/curios-neoforge-8.0.0%2B1.20.6.jar",
+        "sha512": "a6414575157588c55f850c40c260e79458b4199e7f3290dfc6c0e28322a4cc5b0c022694b86d4090a2743a157a512b5369ee7718022cf983fc51ed1422d557bd"
+      },
       "8_0_0-beta_6": {
         "name": "curios-neoforge-8.0.0-beta.6+1.20.6.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/LP78nWgP/curios-neoforge-8.0.0-beta.6%2B1.20.6.jar",
@@ -213,11 +218,6 @@
         "name": "curios-neoforge-8.0.0-beta+1.20.6.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/BiiqnvUy/curios-neoforge-8.0.0-beta%2B1.20.6.jar",
         "sha512": "8e2e581a91353cdc0addb5907adcf39c4c7e643b4acf1fbf2473d1e4e126e197d89d556ca793731ae0652ca705b6a346181151bcaa8248439cba1dbc5073f2dd"
-      },
-      "8_0_0": {
-        "name": "curios-neoforge-8.0.0+1.20.6.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/uV8dKuBO/curios-neoforge-8.0.0%2B1.20.6.jar",
-        "sha512": "a6414575157588c55f850c40c260e79458b4199e7f3290dfc6c0e28322a4cc5b0c022694b86d4090a2743a157a512b5369ee7718022cf983fc51ed1422d557bd"
       }
     },
     "1_20_4": {
@@ -241,6 +241,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/suXbeF6v/curios-neoforge-7.4.1%2B1.20.4.jar",
         "sha512": "1d9e64c254b1a89a32a48c0dd388437c0899350f92186b6d6ea26a87647ccc71da9330f4b2569b7cae27b76717740c5cc2b2911d056c62fefa92ac330b38d512"
       },
+      "7_4_0": {
+        "name": "curios-neoforge-7.4.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/wlGMHF77/curios-neoforge-7.4.0%2B1.20.4.jar",
+        "sha512": "740784bb33d0912178f254a380484b6e69a2d3a44a94126cf85833c69b966e1314f6f9177b3a5ce227e04e4a6fcc3a543cf32875f50b2e210e1fbc9418d6516b"
+      },
       "7_4_0-beta_2": {
         "name": "curios-neoforge-7.4.0-beta.2+1.20.4.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/DmFR6XO3/curios-neoforge-7.4.0-beta.2%2B1.20.4.jar",
@@ -250,11 +255,6 @@
         "name": "curios-neoforge-7.4.0-beta+1.20.4.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/TOk3Lved/curios-neoforge-7.4.0-beta%2B1.20.4.jar",
         "sha512": "bc87baed7a586805ddb3e3f8f19ac7b248bcfaa64b3033ad31b026a63814c37515e43b8b7db1e4478e699285ae874cdf036a9716dbb135e71522065770152904"
-      },
-      "7_4_0": {
-        "name": "curios-neoforge-7.4.0+1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/wlGMHF77/curios-neoforge-7.4.0%2B1.20.4.jar",
-        "sha512": "740784bb33d0912178f254a380484b6e69a2d3a44a94126cf85833c69b966e1314f6f9177b3a5ce227e04e4a6fcc3a543cf32875f50b2e210e1fbc9418d6516b"
       },
       "7_3_4": {
         "name": "curios-neoforge-7.3.4+1.20.4.jar",
@@ -382,6 +382,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6EgL0aP4/curios-forge-5.8.1%2B1.20.1.jar",
         "sha512": "c08e6eda72096be64d9c80fd5d4569f456a0001ff975b549e2b32c97df221832efaa75b379ba4cd9bdf8cc5272571b91f262eeab02c692597b288f89603098c6"
       },
+      "5_8_0": {
+        "name": "curios-forge-5.8.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
+        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
+      },
       "5_8_0-beta_2": {
         "name": "curios-forge-5.8.0-beta.2+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/nJQvdzJp/curios-forge-5.8.0-beta.2%2B1.20.1.jar",
@@ -391,11 +396,6 @@
         "name": "curios-forge-5.8.0-beta+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/WHmuOhGH/curios-forge-5.8.0-beta%2B1.20.1.jar",
         "sha512": "95292b5fd7a14da68e13b4a53e3e4f5988ca199d74e2f517767f63ab7cc4e5b0c7809fdd5d24bafb21efb21ae826c62093f3bf17c50d6fab547c817848deb8a8"
-      },
-      "5_8_0": {
-        "name": "curios-forge-5.8.0+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
-        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
       },
       "5_7_2": {
         "name": "curios-forge-5.7.2+1.20.1.jar",
@@ -564,6 +564,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6EgL0aP4/curios-forge-5.8.1%2B1.20.1.jar",
         "sha512": "c08e6eda72096be64d9c80fd5d4569f456a0001ff975b549e2b32c97df221832efaa75b379ba4cd9bdf8cc5272571b91f262eeab02c692597b288f89603098c6"
       },
+      "5_8_0_1": {
+        "name": "curios-forge-5.8.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
+        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
+      },
       "5_8_0-beta_2_1": {
         "name": "curios-forge-5.8.0-beta.2+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/nJQvdzJp/curios-forge-5.8.0-beta.2%2B1.20.1.jar",
@@ -573,11 +578,6 @@
         "name": "curios-forge-5.8.0-beta+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/WHmuOhGH/curios-forge-5.8.0-beta%2B1.20.1.jar",
         "sha512": "95292b5fd7a14da68e13b4a53e3e4f5988ca199d74e2f517767f63ab7cc4e5b0c7809fdd5d24bafb21efb21ae826c62093f3bf17c50d6fab547c817848deb8a8"
-      },
-      "5_8_0_1": {
-        "name": "curios-forge-5.8.0+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
-        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
       },
       "5_7_2_1": {
         "name": "curios-forge-5.7.2+1.20.1.jar",
@@ -708,6 +708,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/NQfh5LGq/curios-forge-8.0.1%2B1.20.6.jar",
         "sha512": "f1c13bff7ed0f3510619666f6303c083111dcc621f1a158778da2d9335cc14fd122aabcebb3fa2cc4658a638bd117e131554c5f8451faf9c5111960e92f3234a"
       },
+      "8_0_0": {
+        "name": "curios-forge-8.0.0+1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/REeqT3om/curios-forge-8.0.0%2B1.20.6.jar",
+        "sha512": "2ed098606de32f9b15236ab5293ef55c66138060d55ae7b0db1196690dc5f3aa4f202ac4a7616b3062d06f312c777e5bdee0705d018b941f8d78213e0ed909f7"
+      },
       "8_0_0-beta_5": {
         "name": "curios-forge-8.0.0-beta.5+1.20.6.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/3XX6mBZ8/curios-forge-8.0.0-beta.5%2B1.20.6.jar",
@@ -722,11 +727,6 @@
         "name": "curios-forge-8.0.0-beta+1.20.6.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/CP6RHJq7/curios-forge-8.0.0-beta%2B1.20.6.jar",
         "sha512": "3a3f5fb3ebb1acc700107fda5761abdf06fcf76e44fd29e1490dc7b2341aebedc7116471455c06c300aa38fbb5b9999365fd34ee8deb554953c214f8ea8ee415"
-      },
-      "8_0_0": {
-        "name": "curios-forge-8.0.0+1.20.6.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/REeqT3om/curios-forge-8.0.0%2B1.20.6.jar",
-        "sha512": "2ed098606de32f9b15236ab5293ef55c66138060d55ae7b0db1196690dc5f3aa4f202ac4a7616b3062d06f312c777e5bdee0705d018b941f8d78213e0ed909f7"
       }
     },
     "1_20_4": {
@@ -740,6 +740,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/TeuWjj6h/curios-forge-7.4.2%2B1.20.4.jar",
         "sha512": "cf843b0ccce2e2f7deb204c9f688b216d70ec574d35a8e2700bbc09b88595b109e45e2e0dc30cd5031bca28383b5f3aa8c02921d043ea6ba80fc743b4bbc646f"
       },
+      "7_4_0": {
+        "name": "curios-forge-7.4.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/nyvHHyUE/curios-forge-7.4.0%2B1.20.4.jar",
+        "sha512": "625d83c6b64ab704de6ea3abd063f357776a0545d76d4ce89eed3b716fee202bf221359fc34d708a7b3cf56c635d399c20d661729ba65af17603751a8b7f28d1"
+      },
       "7_4_0-beta_2": {
         "name": "curios-forge-7.4.0-beta.2+1.20.4.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/kKPFv8aa/curios-forge-7.4.0-beta.2%2B1.20.4.jar",
@@ -749,11 +754,6 @@
         "name": "curios-forge-7.4.0-beta+1.20.4.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/adn5hcLm/curios-forge-7.4.0-beta%2B1.20.4.jar",
         "sha512": "f506e3b23fd40b21d8448005d867aad7032df4d98a3b483328e350daea653d1c04e9bb06a51644ac66705d8ff36691e1e058d2078179a2dda6751cd8346a4814"
-      },
-      "7_4_0": {
-        "name": "curios-forge-7.4.0+1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/nyvHHyUE/curios-forge-7.4.0%2B1.20.4.jar",
-        "sha512": "625d83c6b64ab704de6ea3abd063f357776a0545d76d4ce89eed3b716fee202bf221359fc34d708a7b3cf56c635d399c20d661729ba65af17603751a8b7f28d1"
       },
       "7_3_4": {
         "name": "curios-forge-7.3.4+1.20.4.jar",
@@ -879,6 +879,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6EgL0aP4/curios-forge-5.8.1%2B1.20.1.jar",
         "sha512": "c08e6eda72096be64d9c80fd5d4569f456a0001ff975b549e2b32c97df221832efaa75b379ba4cd9bdf8cc5272571b91f262eeab02c692597b288f89603098c6"
       },
+      "5_8_0": {
+        "name": "curios-forge-5.8.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
+        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
+      },
       "5_8_0-beta_2": {
         "name": "curios-forge-5.8.0-beta.2+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/nJQvdzJp/curios-forge-5.8.0-beta.2%2B1.20.1.jar",
@@ -888,11 +893,6 @@
         "name": "curios-forge-5.8.0-beta+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/WHmuOhGH/curios-forge-5.8.0-beta%2B1.20.1.jar",
         "sha512": "95292b5fd7a14da68e13b4a53e3e4f5988ca199d74e2f517767f63ab7cc4e5b0c7809fdd5d24bafb21efb21ae826c62093f3bf17c50d6fab547c817848deb8a8"
-      },
-      "5_8_0": {
-        "name": "curios-forge-5.8.0+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
-        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
       },
       "5_7_2": {
         "name": "curios-forge-5.7.2+1.20.1.jar",
@@ -994,15 +994,15 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/9yUPTnRR/curios-forge-5.3.0%2B1.20.1.jar",
         "sha512": "e03973409ebfe2d520f3b9fd6546da7a90781aaefdbf50d35b02fe6f5817822275f46fa43939daa88d12a0f5290f2564210d9deb10fef13f63beba4b2e0fd502"
       },
-      "5_2_0-beta_3": {
-        "name": "curios-forge-5.2.0-beta.3+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/SeLn387u/curios-forge-5.2.0-beta.3%2B1.20.1.jar",
-        "sha512": "d3cc4e6b2014f53df2589688f516a456eea9f3e0d8e60cc45e88f85468ff2fb9049a5c8bfb57659bd7b3394071f7c36757213b9c97e56bfc4ada6e6077e91df7"
-      },
       "5_2_0": {
         "name": "curios-forge-5.2.0+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/GbHsY4Wa/curios-forge-5.2.0%2B1.20.1.jar",
         "sha512": "807f14566397fb039da93f973fad68b67d877ccb5a8153bd1a052a77d7a0b60904bfc9059ce2d1324a4b2d29c3c674ff5a722243d6b3e63e135d003a6806582d"
+      },
+      "5_2_0-beta_3": {
+        "name": "curios-forge-5.2.0-beta.3+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/SeLn387u/curios-forge-5.2.0-beta.3%2B1.20.1.jar",
+        "sha512": "d3cc4e6b2014f53df2589688f516a456eea9f3e0d8e60cc45e88f85468ff2fb9049a5c8bfb57659bd7b3394071f7c36757213b9c97e56bfc4ada6e6077e91df7"
       }
     },
     "1_20": {
@@ -1066,6 +1066,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/6EgL0aP4/curios-forge-5.8.1%2B1.20.1.jar",
         "sha512": "c08e6eda72096be64d9c80fd5d4569f456a0001ff975b549e2b32c97df221832efaa75b379ba4cd9bdf8cc5272571b91f262eeab02c692597b288f89603098c6"
       },
+      "5_8_0_1": {
+        "name": "curios-forge-5.8.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
+        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
+      },
       "5_8_0-beta_2_1": {
         "name": "curios-forge-5.8.0-beta.2+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/nJQvdzJp/curios-forge-5.8.0-beta.2%2B1.20.1.jar",
@@ -1075,11 +1080,6 @@
         "name": "curios-forge-5.8.0-beta+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/WHmuOhGH/curios-forge-5.8.0-beta%2B1.20.1.jar",
         "sha512": "95292b5fd7a14da68e13b4a53e3e4f5988ca199d74e2f517767f63ab7cc4e5b0c7809fdd5d24bafb21efb21ae826c62093f3bf17c50d6fab547c817848deb8a8"
-      },
-      "5_8_0_1": {
-        "name": "curios-forge-5.8.0+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/YGa5gGxr/curios-forge-5.8.0%2B1.20.1.jar",
-        "sha512": "1cd6e030c676ba42a44233dbc4abf36ef8e88ef3b7c2288c9f88cd25336f0b52378a4573e2195aff6f4db38e8f9ad019f6001b9c9d040e44f598c0f0fae77c59"
       },
       "5_7_2_1": {
         "name": "curios-forge-5.7.2+1.20.1.jar",
@@ -1181,6 +1181,11 @@
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/9yUPTnRR/curios-forge-5.3.0%2B1.20.1.jar",
         "sha512": "e03973409ebfe2d520f3b9fd6546da7a90781aaefdbf50d35b02fe6f5817822275f46fa43939daa88d12a0f5290f2564210d9deb10fef13f63beba4b2e0fd502"
       },
+      "5_2_0_1": {
+        "name": "curios-forge-5.2.0+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/GbHsY4Wa/curios-forge-5.2.0%2B1.20.1.jar",
+        "sha512": "807f14566397fb039da93f973fad68b67d877ccb5a8153bd1a052a77d7a0b60904bfc9059ce2d1324a4b2d29c3c674ff5a722243d6b3e63e135d003a6806582d"
+      },
       "5_2_0-beta_3_1": {
         "name": "curios-forge-5.2.0-beta.3+1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/SeLn387u/curios-forge-5.2.0-beta.3%2B1.20.1.jar",
@@ -1195,11 +1200,6 @@
         "name": "curios-forge-5.2.0-beta.1+1.20.jar",
         "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/p4wqBrgO/curios-forge-5.2.0-beta.1%2B1.20.jar",
         "sha512": "16be9f86752ca531a02176719def6967bf76cd9ae230d73ea84bd1c688dc0f8b901afdc568ef5d51ea2cfca9fa91dd0710783876d7b38be10f036b87a10815d4"
-      },
-      "5_2_0_1": {
-        "name": "curios-forge-5.2.0+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/GbHsY4Wa/curios-forge-5.2.0%2B1.20.1.jar",
-        "sha512": "807f14566397fb039da93f973fad68b67d877ccb5a8153bd1a052a77d7a0b60904bfc9059ce2d1324a4b2d29c3c674ff5a722243d6b3e63e135d003a6806582d"
       }
     },
     "1_19_4": {

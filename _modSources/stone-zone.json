@@ -114,14 +114,9 @@
     },
     "1_21": {
       "latest": {
-        "name": "stonezone-1.21-2.10.0-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/OjqkQ4BL/stonezone-1.21-2.10.0-neoforge.jar",
-        "sha512": "1ec21df8a6abdd2b7832fc70315d3a3c264f656c187951d060406da0745cbf3331bab68dad4940f938d2a5e5975b9d582947980f7fb35d1d840525b28913394a"
-      },
-      "neoforge_2_10_0": {
-        "name": "stonezone-1.21-2.10.0-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/OjqkQ4BL/stonezone-1.21-2.10.0-neoforge.jar",
-        "sha512": "1ec21df8a6abdd2b7832fc70315d3a3c264f656c187951d060406da0745cbf3331bab68dad4940f938d2a5e5975b9d582947980f7fb35d1d840525b28913394a"
+        "name": "stonezone-1.21-2.11.11-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/n0tKS3j0/stonezone-1.21-2.11.11-neoforge.jar",
+        "sha512": "fe95b85031550e830129a8adb989ec5adbc074a7403c5e2737afc9b1316bc1ddaa9b97525bb1060892bcb0e9de23e4cc7d94da2f68d9adff29204f829a3fcaac"
       },
       "1_21-2_11_11": {
         "name": "stonezone-1.21-2.11.11-neoforge.jar",
@@ -222,6 +217,11 @@
         "name": "stonezone-1.21-2.10.1-neoforge.jar",
         "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/TTrAegFp/stonezone-1.21-2.10.1-neoforge.jar",
         "sha512": "ff05f0fd69b07f2e5c603266ba061fd21c6874d4f7f0ae90d2815e3fa087a340467e8fd6564e090f6e5b0a72d61fb78cf9433b97e59622a671fdfb291d747ef0"
+      },
+      "neoforge_2_10_0": {
+        "name": "stonezone-1.21-2.10.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/OjqkQ4BL/stonezone-1.21-2.10.0-neoforge.jar",
+        "sha512": "1ec21df8a6abdd2b7832fc70315d3a3c264f656c187951d060406da0745cbf3331bab68dad4940f938d2a5e5975b9d582947980f7fb35d1d840525b28913394a"
       }
     }
   },
@@ -389,8 +389,8 @@
       },
       "1_20-2_7_14": {
         "name": "stonezone-1.20-2.7.14.jar",
-        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/Sow0dEzO/stonezone-1.20-2.7.14.jar",
-        "sha512": "4b6aa996a181d25ef279e6d799dc7fc038676a51fce43467f0e700bf7a0aab8f5a1f9f8ba6f664783cf59b35903fa22b4db790e56fefdc6303aec39ce846e8cb"
+        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/INuf9oDw/stonezone-1.20-2.7.14.jar",
+        "sha512": "c78dc8f230c9bd57038a9c1eb14bd1f7e4da1ff77f0c0c251ee33fd61bb4ac31f106de710d883a08fb604887878fe93388698a41042d950779bc5b6a3a66a38c"
       },
       "1_20-2_7_13": {
         "name": "stonezone-1.20-2.7.13.jar",
@@ -579,14 +579,9 @@
     },
     "1_21": {
       "latest": {
-        "name": "stonezone-1.21-2.10.0-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/DzZCzkha/stonezone-1.21-2.10.0-fabric.jar",
-        "sha512": "879af146079f145f60c0ec96fef0be13d28f796cfb6c363c28d43a7a4b6202b897a6ee05f7b1d52f20717735be614b7dda9f527f8455488ae86d1090abcbccfa"
-      },
-      "fabric_2_10_0": {
-        "name": "stonezone-1.21-2.10.0-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/DzZCzkha/stonezone-1.21-2.10.0-fabric.jar",
-        "sha512": "879af146079f145f60c0ec96fef0be13d28f796cfb6c363c28d43a7a4b6202b897a6ee05f7b1d52f20717735be614b7dda9f527f8455488ae86d1090abcbccfa"
+        "name": "stonezone-1.21-2.11.11-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/FdpTgg97/stonezone-1.21-2.11.11-fabric.jar",
+        "sha512": "27256d779ad3a4db9ec73ceb9042bc0db812e5c03973035250305140e6f1b36683f3523a1a2fe32016ad09c51a03d01404aa908808015d8975dccb6d144176d7"
       },
       "1_21-2_11_11": {
         "name": "stonezone-1.21-2.11.11-fabric.jar",
@@ -687,6 +682,11 @@
         "name": "stonezone-1.21-2.10.1-fabric.jar",
         "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/q350L7S1/stonezone-1.21-2.10.1-fabric.jar",
         "sha512": "3f662207cebb11a3096e0dab74a7f494b63d2add582355b953a3d20a2fd7cd4cd986dd0e4f4eb01bba22dc0c18f21c30b758a700478882c149b71f95c75cb81a"
+      },
+      "fabric_2_10_0": {
+        "name": "stonezone-1.21-2.10.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/DzZCzkha/stonezone-1.21-2.10.0-fabric.jar",
+        "sha512": "879af146079f145f60c0ec96fef0be13d28f796cfb6c363c28d43a7a4b6202b897a6ee05f7b1d52f20717735be614b7dda9f527f8455488ae86d1090abcbccfa"
       }
     },
     "1_20_1": {
@@ -852,8 +852,8 @@
       },
       "1_20-2_7_14": {
         "name": "stonezone-1.20-2.7.14-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/vvTdcKua/stonezone-1.20-2.7.14-fabric.jar",
-        "sha512": "4b2f688a3b8dc4d3ef41be4c879875f12b7048db2656e02d8e42df119681ac99ecfb7d5e17f4a67fb7e42d6bf524f401bd523bbe6fa5996e69984951d0fc1a7a"
+        "url": "https://cdn.modrinth.com/data/uYwn8IP5/versions/5A7EfNY7/stonezone-1.20-2.7.14-fabric.jar",
+        "sha512": "ec6dc3d33ae43b353eb876f72060281f7a19a4b13d092c750359373737e372b3f02e4dc01eeb3d9916272c7a46be3aa227272735c9dbd08b9063cf47a82563be"
       },
       "1_20-2_7_13": {
         "name": "stonezone-1.20-2.7.13-fabric.jar",

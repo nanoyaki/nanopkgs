@@ -71,24 +71,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
-        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/lbSRE8Te/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.104.jar",
-        "sha512": "b9fbd1f8550c8be9cd12161a403cafafbd6f4ec774cc2ea7e64844014232a75a6cc3ca7f913a3e59116c4ff2c2c9b219bcb8840db65b814d493a5ccfa5f03070"
-      },
-      "3_19_5+mcbuild_104": {
-        "name": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
-        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/lbSRE8Te/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.104.jar",
-        "sha512": "b9fbd1f8550c8be9cd12161a403cafafbd6f4ec774cc2ea7e64844014232a75a6cc3ca7f913a3e59116c4ff2c2c9b219bcb8840db65b814d493a5ccfa5f03070"
-      },
-      "3_19_5+mcbuild_76": {
-        "name": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.76.jar",
-        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/uN07Qzsk/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.76.jar",
-        "sha512": "883f6e838fd2bb390b327a10ae021eb18e1dc2d7fc68532f7c7d8e3e8f0a5726652b47c71bfd67558d10eb29fcebced7db22f186093963bb32e2dd8acdad7c1f"
-      },
-      "3_19_4+mcbuild_39": {
-        "name": "sophisticatedbackpacks-3.19.4+mc1.20.1-SNAPSHOT-build.39.jar",
-        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/QglCOMrE/sophisticatedbackpacks-3.19.4%2Bmc1.20.1-SNAPSHOT-build.39.jar",
-        "sha512": "c2e3d0363f481a6a7f761ee250bc1522bec5d1a86e877c7bad40b28db5ce98466896535d06f8131938f24f60bc2b15b26298b6b61b9b685b89f0163c5ea5fb18"
+        "name": "sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/Jk6o7s4h/sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
+        "sha512": "651a6121533e5693c26bde85141339cb89b5cfee5a750d67cbdad12a97a51ec8a0a3b3b59845afe9013b477fce9570f80ae0047e1c7054f458bc9c1b93ef748c"
       },
       "1_20_1-3_23_4_5_110": {
         "name": "sophisticatedbackpacks-1.20.1-3.23.4.5.110.jar",
@@ -119,6 +104,21 @@
         "name": "sophisticatedbackpacks-1.20.1-3.20.11.26.jar",
         "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/ZgK5kbFw/sophisticatedbackpacks-1.20.1-3.20.11.26.jar",
         "sha512": "1aaec3ae1d0777e404a97d175a392726f54b9d64e908b0125dfdd2a13d626a1eb80ad4ad63a9d926139b58954f91cff47135857da7f08878d0c280355ad6d272"
+      },
+      "3_19_5+mcbuild_104": {
+        "name": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
+        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/lbSRE8Te/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.104.jar",
+        "sha512": "b9fbd1f8550c8be9cd12161a403cafafbd6f4ec774cc2ea7e64844014232a75a6cc3ca7f913a3e59116c4ff2c2c9b219bcb8840db65b814d493a5ccfa5f03070"
+      },
+      "3_19_5+mcbuild_76": {
+        "name": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.76.jar",
+        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/uN07Qzsk/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.76.jar",
+        "sha512": "883f6e838fd2bb390b327a10ae021eb18e1dc2d7fc68532f7c7d8e3e8f0a5726652b47c71bfd67558d10eb29fcebced7db22f186093963bb32e2dd8acdad7c1f"
+      },
+      "3_19_4+mcbuild_39": {
+        "name": "sophisticatedbackpacks-3.19.4+mc1.20.1-SNAPSHOT-build.39.jar",
+        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/QglCOMrE/sophisticatedbackpacks-3.19.4%2Bmc1.20.1-SNAPSHOT-build.39.jar",
+        "sha512": "c2e3d0363f481a6a7f761ee250bc1522bec5d1a86e877c7bad40b28db5ce98466896535d06f8131938f24f60bc2b15b26298b6b61b9b685b89f0163c5ea5fb18"
       }
     },
     "1_19_4": {
@@ -145,9 +145,14 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "sophisticatedbackpacks-3.19.5+mc1.19.2-SNAPSHOT-build.103.jar",
-        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/KDTmbW5b/sophisticatedbackpacks-3.19.5%2Bmc1.19.2-SNAPSHOT-build.103.jar",
-        "sha512": "548a6a568fd3eba2cf87a649c3eab1e3029f5e8da7c095490ed946cf524f04a0a472246e131a60d35b07ba2ef840f6cec03223f8174c8a7b45e06d643beca136"
+        "name": "sophisticatedbackpacks-1.19.2-3.20.2.22.jar",
+        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/xDzV8ICU/sophisticatedbackpacks-1.19.2-3.20.2.22.jar",
+        "sha512": "1a093237eb5793a9ac037805d7b31f47248b760c77d16819e071f36fa7b6ef6b39d1baba918e30c67d3c5dc9a43a07af68438e75261f0664d9e0403d466de4da"
+      },
+      "1_19_2-3_20_2_22": {
+        "name": "sophisticatedbackpacks-1.19.2-3.20.2.22.jar",
+        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/xDzV8ICU/sophisticatedbackpacks-1.19.2-3.20.2.22.jar",
+        "sha512": "1a093237eb5793a9ac037805d7b31f47248b760c77d16819e071f36fa7b6ef6b39d1baba918e30c67d3c5dc9a43a07af68438e75261f0664d9e0403d466de4da"
       },
       "3_19_5+mcbuild_103": {
         "name": "sophisticatedbackpacks-3.19.5+mc1.19.2-SNAPSHOT-build.103.jar",
@@ -163,11 +168,6 @@
         "name": "sophisticatedbackpacks-3.19.5+mc1.19.2-SNAPSHOT-build.40.jar",
         "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/p6aQYYmC/sophisticatedbackpacks-3.19.5%2Bmc1.19.2-SNAPSHOT-build.40.jar",
         "sha512": "51314540dd182f022be740fdf6cca6801d2fbf3739aeae53792ec272681ea12d636d1520be75b0d06a8c0641a18e6a3de3551d1f185c71f322ce238dd0bb6c00"
-      },
-      "1_19_2-3_20_2_22": {
-        "name": "sophisticatedbackpacks-1.19.2-3.20.2.22.jar",
-        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/xDzV8ICU/sophisticatedbackpacks-1.19.2-3.20.2.22.jar",
-        "sha512": "1a093237eb5793a9ac037805d7b31f47248b760c77d16819e071f36fa7b6ef6b39d1baba918e30c67d3c5dc9a43a07af68438e75261f0664d9e0403d466de4da"
       }
     }
   }

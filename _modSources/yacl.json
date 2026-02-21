@@ -255,6 +255,11 @@
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/9ACWUOXp/yet-another-config-lib-fabric-3.0.1%2B1.19.4.jar",
         "sha512": "55f37c8009da54b85b0906b7dabc284995df6389c72b447d83c56f04692aca66546799551612755f56a0c182fe77690409803bb00ea7f3d7af4a4eda60965d6f"
       },
+      "3_0_0": {
+        "name": "yet-another-config-lib-fabric-3.0.0+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Vc0cNGqC/yet-another-config-lib-fabric-3.0.0%2B1.19.4.jar",
+        "sha512": "74c5d6c0af0d39b5892fb478085b711202c59787cd5d4ee506efaa4b71c902f057149f590ac04a8780a66d5e9847b4294d63f0db5f5e9be13697393d242a9401"
+      },
       "3_0_0-beta_2": {
         "name": "yet-another-config-lib-fabric-3.0.0-beta.2+1.19.4.jar",
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/SiEAKMh4/yet-another-config-lib-fabric-3.0.0-beta.2%2B1.19.4.jar",
@@ -264,11 +269,6 @@
         "name": "yet-another-config-lib-fabric-3.0.0-beta.1+1.19.4.jar",
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/jZFsc9tg/yet-another-config-lib-fabric-3.0.0-beta.1%2B1.19.4.jar",
         "sha512": "1988761916071555226be33b51ff0bb2acf0cf943cf04125d74d1112bb1e1cdf779891b942355e131de3d90d9a9574d6cbb9bd7cb02b875e85f17ac99d5f87fe"
-      },
-      "3_0_0": {
-        "name": "yet-another-config-lib-fabric-3.0.0+1.19.4.jar",
-        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Vc0cNGqC/yet-another-config-lib-fabric-3.0.0%2B1.19.4.jar",
-        "sha512": "74c5d6c0af0d39b5892fb478085b711202c59787cd5d4ee506efaa4b71c902f057149f590ac04a8780a66d5e9847b4294d63f0db5f5e9be13697393d242a9401"
       },
       "2_5_1": {
         "name": "yet-another-config-lib-fabric-2.5.1+1.19.4.jar",
@@ -796,8 +796,8 @@
       },
       "3_7_1": {
         "name": "yet_another_config_lib_v3-3.7.1+1.21.6-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/DKPJinOD/yet_another_config_lib_v3-3.7.1%2B1.21.6-neoforge.jar",
-        "sha512": "5bcd79b933fb4bc503c1c66c07538fad671129517a7cc0ad6b2de0cadef8ec1e3a2f9894e411dfebdd0a07c10a4cd4a4e67eda126eaaa3624d99f0f43e8bdc54"
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/V4O5YiQk/yet_another_config_lib_v3-3.7.1%2B1.21.6-neoforge.jar",
+        "sha512": "ef64f7aa1e95504370f675f8a38a171bda85449b0041f1d3a05454d4a529edb34f9b0e652b4fc5e42d481b1b8129824e4849be25e99352c1dff1746fb119f508"
       },
       "3_7_0": {
         "name": "yet_another_config_lib_v3-3.7.0+1.21.6-neoforge.jar",
@@ -1690,6 +1690,11 @@
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/wa9YGZhd/yet-another-config-lib-forge-3.0.1%2B1.19.4.jar",
         "sha512": "2a56a4f55ca5eb52e3e4704ca87b01e8a181a467e5769172e747dc34c338cc39a5dd5cf9c0d1b2f42d78d76f31fbb73edfb158805287b4dff1f80b1b3d8fe2e1"
       },
+      "3_0_0": {
+        "name": "yet-another-config-lib-forge-3.0.0+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/uRw9Zalc/yet-another-config-lib-forge-3.0.0%2B1.19.4.jar",
+        "sha512": "6fec5026f6f84d5ead2eeae13ceb1f10aff1c38f288b23be11c6173accdf401ef1ee8110e6a0e25015dc9b6c960e8f531d0d39c3045e7aefd43c1a854631e501"
+      },
       "3_0_0-beta_2": {
         "name": "yet-another-config-lib-forge-3.0.0-beta.2+1.19.4.jar",
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/gfyPkvYv/yet-another-config-lib-forge-3.0.0-beta.2%2B1.19.4.jar",
@@ -1699,11 +1704,6 @@
         "name": "yet-another-config-lib-forge-3.0.0-beta.1+1.19.4.jar",
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/oIlFdLZI/yet-another-config-lib-forge-3.0.0-beta.1%2B1.19.4.jar",
         "sha512": "d8b06cf9c793962a04ccdb6a3d78bb8aa4c4a175ea60a413bc47e9c3ca6000d6e154f799a19b181e3178e06e69aaf3fc4d2a7e122b35945ade818a18c9d7d752"
-      },
-      "3_0_0": {
-        "name": "yet-another-config-lib-forge-3.0.0+1.19.4.jar",
-        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/uRw9Zalc/yet-another-config-lib-forge-3.0.0%2B1.19.4.jar",
-        "sha512": "6fec5026f6f84d5ead2eeae13ceb1f10aff1c38f288b23be11c6173accdf401ef1ee8110e6a0e25015dc9b6c960e8f531d0d39c3045e7aefd43c1a854631e501"
       },
       "2_5_1": {
         "name": "yet-another-config-lib-forge-2.5.1+1.19.4.jar",
@@ -2772,6 +2772,11 @@
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/9ACWUOXp/yet-another-config-lib-fabric-3.0.1%2B1.19.4.jar",
         "sha512": "55f37c8009da54b85b0906b7dabc284995df6389c72b447d83c56f04692aca66546799551612755f56a0c182fe77690409803bb00ea7f3d7af4a4eda60965d6f"
       },
+      "3_0_0": {
+        "name": "yet-another-config-lib-fabric-3.0.0+1.19.4.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Vc0cNGqC/yet-another-config-lib-fabric-3.0.0%2B1.19.4.jar",
+        "sha512": "74c5d6c0af0d39b5892fb478085b711202c59787cd5d4ee506efaa4b71c902f057149f590ac04a8780a66d5e9847b4294d63f0db5f5e9be13697393d242a9401"
+      },
       "3_0_0-beta_2": {
         "name": "yet-another-config-lib-fabric-3.0.0-beta.2+1.19.4.jar",
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/SiEAKMh4/yet-another-config-lib-fabric-3.0.0-beta.2%2B1.19.4.jar",
@@ -2781,11 +2786,6 @@
         "name": "yet-another-config-lib-fabric-3.0.0-beta.1+1.19.4.jar",
         "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/jZFsc9tg/yet-another-config-lib-fabric-3.0.0-beta.1%2B1.19.4.jar",
         "sha512": "1988761916071555226be33b51ff0bb2acf0cf943cf04125d74d1112bb1e1cdf779891b942355e131de3d90d9a9574d6cbb9bd7cb02b875e85f17ac99d5f87fe"
-      },
-      "3_0_0": {
-        "name": "yet-another-config-lib-fabric-3.0.0+1.19.4.jar",
-        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Vc0cNGqC/yet-another-config-lib-fabric-3.0.0%2B1.19.4.jar",
-        "sha512": "74c5d6c0af0d39b5892fb478085b711202c59787cd5d4ee506efaa4b71c902f057149f590ac04a8780a66d5e9847b4294d63f0db5f5e9be13697393d242a9401"
       },
       "2_5_1": {
         "name": "yet-another-config-lib-fabric-2.5.1+1.19.4.jar",

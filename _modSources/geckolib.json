@@ -380,11 +380,6 @@
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/AMvqWzXw/geckolib-neoforge-1.21.11-5.4.2.jar",
         "sha512": "34cdec8a1182a490cc350f41dfddc1dd9edfab62d75378c12fe9726d7ab54661c4b03193f60889255cc381c8af2a605b419f90565cd081ee5846122dd5f2708f"
       },
-      "5_4-alpha-1": {
-        "name": "geckolib-neoforge-1.21.11-5.4-alpha-1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/vpb3FqZQ/geckolib-neoforge-1.21.11-5.4-alpha-1.jar",
-        "sha512": "b85ac495a9ffac160802e31e03f950ff838c8379348f25dd9e2612458136c29d1eb4ce259a04bbe751df07b901924ceaba69b91bc1a57e6f038f38d5f1bb056a"
-      },
       "5_4_1": {
         "name": "geckolib-neoforge-1.21.11-5.4.1.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/ZDzCLY3R/geckolib-neoforge-1.21.11-5.4.1.jar",
@@ -394,6 +389,11 @@
         "name": "geckolib-neoforge-1.21.11-5.4.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/RzfCWlJE/geckolib-neoforge-1.21.11-5.4.jar",
         "sha512": "401bce3edb827105ea590587aea3ac053e2d7ef994cae35a3011826c45a7eb192cf9f300a198b83d1a8d46e56f4b2d1fd558e00a4897b510ab1a5c8b4c75c830"
+      },
+      "5_4-alpha-1": {
+        "name": "geckolib-neoforge-1.21.11-5.4-alpha-1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/vpb3FqZQ/geckolib-neoforge-1.21.11-5.4-alpha-1.jar",
+        "sha512": "b85ac495a9ffac160802e31e03f950ff838c8379348f25dd9e2612458136c29d1eb4ce259a04bbe751df07b901924ceaba69b91bc1a57e6f038f38d5f1bb056a"
       }
     },
     "1_21_10": {
@@ -480,20 +480,10 @@
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/GbxHZH7t/geckolib-neoforge-1.21.5-5.1.0.jar",
         "sha512": "4e26cb51825b8535c45a88e53d3dfda122674fd76d621bdc27ac1a1beb6d9450007f2d3fed9842ac245401dd19bc7a15ac893120db5bbb77af82ca811f6d31c3"
       },
-      "5_0-alpha2": {
-        "name": "geckolib-neoforge-1.21.5-5.0-alpha2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/3SXxFJwk/geckolib-neoforge-1.21.5-5.0-alpha2.jar",
-        "sha512": "789c3af21d6ea7b02bf2d286b4ec0a18afc8b4fdcfb899a3bec49bafd24338062cf4703c80998c885c2eedea993de830a808a028ee2e730dcacb5f1662404efa"
-      },
       "5_0_2": {
         "name": "geckolib-neoforge-1.21.5-5.0.2.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/3GwkHtM0/geckolib-neoforge-1.21.5-5.0.2.jar",
         "sha512": "60745de4019bf246f4ac27d303cf9991b4f4f881730ea964e308a069f4506fb8b43c0d897edef5bf82730021e6366976967d690fa55040eb8a78ceabf5bf0b5f"
-      },
-      "5_0-alpha1": {
-        "name": "geckolib-neoforge-1.21.5-5.0-alpha1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/z4VahJSu/geckolib-neoforge-1.21.5-5.0-alpha1.jar",
-        "sha512": "3ab3e7800ad5686a401c35dc7e897a06c2bfbc4908de0bd05766a0c6627f2aa5d1e09d13a027bf526757c137ca09a91b66247aca20a7eb7657645b0cbe73728d"
       },
       "5_0_1": {
         "name": "geckolib-neoforge-1.21.5-5.0.1.jar",
@@ -504,6 +494,16 @@
         "name": "geckolib-neoforge-1.21.5-5.0.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/eGuuc0wI/geckolib-neoforge-1.21.5-5.0.jar",
         "sha512": "e5475c49122417cfd38e467bd8cb193f8c1eb56bc4b7f5a045c02806840b4463fc888be0427bcbea90740bca6c4104725f83e71a2d35bd1ed670ab4a22ab9445"
+      },
+      "5_0-alpha2": {
+        "name": "geckolib-neoforge-1.21.5-5.0-alpha2.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/3SXxFJwk/geckolib-neoforge-1.21.5-5.0-alpha2.jar",
+        "sha512": "789c3af21d6ea7b02bf2d286b4ec0a18afc8b4fdcfb899a3bec49bafd24338062cf4703c80998c885c2eedea993de830a808a028ee2e730dcacb5f1662404efa"
+      },
+      "5_0-alpha1": {
+        "name": "geckolib-neoforge-1.21.5-5.0-alpha1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/z4VahJSu/geckolib-neoforge-1.21.5-5.0-alpha1.jar",
+        "sha512": "3ab3e7800ad5686a401c35dc7e897a06c2bfbc4908de0bd05766a0c6627f2aa5d1e09d13a027bf526757c137ca09a91b66247aca20a7eb7657645b0cbe73728d"
       }
     },
     "1_21_4": {
@@ -549,16 +549,6 @@
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/y2zed8ii/geckolib-neoforge-1.21.3-4.7.3.jar",
         "sha512": "df5f4fd68151764c472eb4931932de643591af0b18171910107bdd6474bada129cf40d55c19b7fed224e7e8773ddf310c903fdb8417238670f2a6e4c23607aee"
       },
-      "4_7-beta-2": {
-        "name": "geckolib-neoforge-1.21.3-4.7-beta-2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/IwKBDdGw/geckolib-neoforge-1.21.3-4.7-beta-2.jar",
-        "sha512": "d7d4861242c8c2400e891a4ac7afb6c61aaa27d95794f77adb3fc3d34bf1c1068f82b43085026f230e688cfe7a10b049a7870cd031f0cf8b8e831773d7e3c79a"
-      },
-      "4_7-beta-1": {
-        "name": "geckolib-neoforge-1.21.3-4.7-beta-1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/CkyFkiq6/geckolib-neoforge-1.21.3-4.7-beta-1.jar",
-        "sha512": "818c40f42cb0db2ef944782291283a575561700c8f2fb7b75a1f4acfbde8e2025dee6570be5dcb320219904dd767dc831868546452ef9e3611ccc4bb8ec90885"
-      },
       "4_7_1": {
         "name": "geckolib-neoforge-1.21.3-4.7.1.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/AVssT38D/geckolib-neoforge-1.21.3-4.7.1.jar",
@@ -568,6 +558,16 @@
         "name": "geckolib-neoforge-1.21.3-4.7.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qgoRty83/geckolib-neoforge-1.21.3-4.7.jar",
         "sha512": "cad5924c12951a735240fb52172f0dea5f2b938fc0023b3a4d320bb3d6726ea7b85f84106decb2828bbb3cfc1906be4b64101cb9ab7d59762863ec4db5e7861f"
+      },
+      "4_7-beta-2": {
+        "name": "geckolib-neoforge-1.21.3-4.7-beta-2.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/IwKBDdGw/geckolib-neoforge-1.21.3-4.7-beta-2.jar",
+        "sha512": "d7d4861242c8c2400e891a4ac7afb6c61aaa27d95794f77adb3fc3d34bf1c1068f82b43085026f230e688cfe7a10b049a7870cd031f0cf8b8e831773d7e3c79a"
+      },
+      "4_7-beta-1": {
+        "name": "geckolib-neoforge-1.21.3-4.7-beta-1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/CkyFkiq6/geckolib-neoforge-1.21.3-4.7-beta-1.jar",
+        "sha512": "818c40f42cb0db2ef944782291283a575561700c8f2fb7b75a1f4acfbde8e2025dee6570be5dcb320219904dd767dc831868546452ef9e3611ccc4bb8ec90885"
       }
     },
     "1_21_1": {
@@ -867,8 +867,8 @@
       },
       "4_4_2": {
         "name": "geckolib-neoforge-1.20.1-4.4.2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/jM7tAFAm/geckolib-neoforge-1.20.1-4.4.2.jar",
-        "sha512": "24014f8218be1f9f2fc32c4d8abeb01552be87f5fa29bc84f4a0d00dfb845d519c13e3ed79714e6dabd91f6609a2e20224c0578d560d208586bbe29a26d4b5ce"
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/NWOU2OY5/geckolib-neoforge-1.20.1-4.4.2.jar",
+        "sha512": "8a01349ea5f4b512b1a12f9fccb42b910d9146e2cbca9f7e171262a0b5a1b74c068e55666535b7353a7644e936221e6b137b43c10cdd63e1ee1038aa5ea79d4e"
       },
       "4_4": {
         "name": "geckolib-neoforge-1.20.1-4.4.jar",
@@ -1026,20 +1026,10 @@
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/sh5tZHc0/geckolib-forge-1.21.5-5.1.0.jar",
         "sha512": "8decd53de3a332f6852c831976e5d4644fad6b8fd312fb35b25cb3fa5b015294cbbe615703983a5710bb2912be80233d176c6e17bd3d9ac01fc83aa2f3069142"
       },
-      "5_0-alpha2": {
-        "name": "geckolib-forge-1.21.5-5.0-alpha2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/xCQYoG4D/geckolib-forge-1.21.5-5.0-alpha2.jar",
-        "sha512": "b4d8c8b8194ded7327d43627bc49cbd8c66f1a8ed44c466b725ee7fdeaac237697af1ae58ae0c8e1f3099b40d81e10f452974fbfae887d572e166731db1a1e66"
-      },
       "5_0_2": {
         "name": "geckolib-forge-1.21.5-5.0.2.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/XqBPtEFk/geckolib-forge-1.21.5-5.0.2.jar",
         "sha512": "049d420864019cbb9764725b11bcc6f96eb3c9d662d6ca4f21c3e8044587bf694cccc4ab8bbb169d3dda9e819298674302772763637bf8c73734077a85d25475"
-      },
-      "5_0-alpha1": {
-        "name": "geckolib-forge-1.21.5-5.0-alpha1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/8fJuOvVY/geckolib-forge-1.21.5-5.0-alpha1.jar",
-        "sha512": "3d94c7e3592615a188a626c499f8178418bed6bf75c06eef86e610b22289e0fe1610badcbbe5a11799bc77b35fae5842f25bdf3545866643d3410f4c8c2adcff"
       },
       "5_0_1": {
         "name": "geckolib-forge-1.21.5-5.0.1.jar",
@@ -1050,6 +1040,16 @@
         "name": "geckolib-forge-1.21.5-5.0.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/knAYoqZm/geckolib-forge-1.21.5-5.0.jar",
         "sha512": "dd924bc85bc9de63833cf07e5789ab04aaf207e10535bf9b0f84e127707c3dd386cbbcc18f925cec7b0a5d5d1594fef89ba7f8107b99eef713d3e204c73117af"
+      },
+      "5_0-alpha2": {
+        "name": "geckolib-forge-1.21.5-5.0-alpha2.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/xCQYoG4D/geckolib-forge-1.21.5-5.0-alpha2.jar",
+        "sha512": "b4d8c8b8194ded7327d43627bc49cbd8c66f1a8ed44c466b725ee7fdeaac237697af1ae58ae0c8e1f3099b40d81e10f452974fbfae887d572e166731db1a1e66"
+      },
+      "5_0-alpha1": {
+        "name": "geckolib-forge-1.21.5-5.0-alpha1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/8fJuOvVY/geckolib-forge-1.21.5-5.0-alpha1.jar",
+        "sha512": "3d94c7e3592615a188a626c499f8178418bed6bf75c06eef86e610b22289e0fe1610badcbbe5a11799bc77b35fae5842f25bdf3545866643d3410f4c8c2adcff"
       }
     },
     "1_21_4": {
@@ -1095,16 +1095,6 @@
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/2J2BngcR/geckolib-forge-1.21.3-4.7.3.jar",
         "sha512": "a18b44f07297a8aeb99cb41a868d59be6c0cfb7ea8dc7f4e0de6c07e74b3c8c41d4eb1921c8e552b43611fe171e6276d97a1136b0d5776f03776b4295104de4d"
       },
-      "4_7-beta-2": {
-        "name": "geckolib-forge-1.21.3-4.7-beta-2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/y8Qwtdid/geckolib-forge-1.21.3-4.7-beta-2.jar",
-        "sha512": "ed0589a8eb00face94ffa16750ae959d07ff5814bad6920320ea705265c4d829495e835fd93f9374853fa286621c3b8ec1354d6f013267aecc706ae070bc92b5"
-      },
-      "4_7-beta-1": {
-        "name": "geckolib-forge-1.21.3-4.7-beta-1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/uKR7v9zt/geckolib-forge-1.21.3-4.7-beta-1.jar",
-        "sha512": "840de27b72721b9cf9580e0073b8723ccdcc91dc5f88093ef541b22e94f0291615267f8af01fba7b02b324c27b937220128f21f41865d77efb5a488084395c64"
-      },
       "4_7_1": {
         "name": "geckolib-forge-1.21.3-4.7.1.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/UFbGpLQr/geckolib-forge-1.21.3-4.7.1.jar",
@@ -1114,6 +1104,16 @@
         "name": "geckolib-forge-1.21.3-4.7.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/QhCggGdv/geckolib-forge-1.21.3-4.7.jar",
         "sha512": "1230feb20a4f4edea9c6d09b0c6bdc060ad3fe3b1d1bb208ca457f723bc1ce8152ef51a8dd942d00749d3a39c9839f2ad7be0cb38e115737fd8f23b7f1c4027d"
+      },
+      "4_7-beta-2": {
+        "name": "geckolib-forge-1.21.3-4.7-beta-2.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/y8Qwtdid/geckolib-forge-1.21.3-4.7-beta-2.jar",
+        "sha512": "ed0589a8eb00face94ffa16750ae959d07ff5814bad6920320ea705265c4d829495e835fd93f9374853fa286621c3b8ec1354d6f013267aecc706ae070bc92b5"
+      },
+      "4_7-beta-1": {
+        "name": "geckolib-forge-1.21.3-4.7-beta-1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/uKR7v9zt/geckolib-forge-1.21.3-4.7-beta-1.jar",
+        "sha512": "840de27b72721b9cf9580e0073b8723ccdcc91dc5f88093ef541b22e94f0291615267f8af01fba7b02b324c27b937220128f21f41865d77efb5a488084395c64"
       }
     },
     "1_21_1": {
@@ -2038,11 +2038,6 @@
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Tpz3L71y/geckolib-fabric-1.21.11-5.4.2.jar",
         "sha512": "302e4305a31d1a0833d5b42dd4c66abfd5f5c88087cae794a77257addf9e98306e06ad72d27a6512daa70306486f57e525480f79bdaf2ad301cbca00a6c5bc3b"
       },
-      "5_4-alpha-1": {
-        "name": "geckolib-fabric-1.21.11-5.4-alpha-1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/wmusUcv8/geckolib-fabric-1.21.11-5.4-alpha-1.jar",
-        "sha512": "64698731eeabd640d956630411a05b816f9fc6cccc098a71dcfedcd73d803095a831ea5b3798ea616680183a6b50454d40836a4cf5da12dd93cfd08ecc1eb25c"
-      },
       "5_4_1": {
         "name": "geckolib-fabric-1.21.11-5.4.1.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/WqyoGBsc/geckolib-fabric-1.21.11-5.4.1.jar",
@@ -2052,6 +2047,11 @@
         "name": "geckolib-fabric-1.21.11-5.4.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/4ILtHPhH/geckolib-fabric-1.21.11-5.4.jar",
         "sha512": "ed7d8405c7a87ebd7e1bc155742e2d923fab0030a5c879d9f93bc856e3f4e80ccf7ffb3171c0d053ad7b24b9d0b6288dce70bcbc1d5f7e91900099272b2bf680"
+      },
+      "5_4-alpha-1": {
+        "name": "geckolib-fabric-1.21.11-5.4-alpha-1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/wmusUcv8/geckolib-fabric-1.21.11-5.4-alpha-1.jar",
+        "sha512": "64698731eeabd640d956630411a05b816f9fc6cccc098a71dcfedcd73d803095a831ea5b3798ea616680183a6b50454d40836a4cf5da12dd93cfd08ecc1eb25c"
       }
     },
     "1_21_10": {
@@ -2138,20 +2138,10 @@
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/AyXpbm2h/geckolib-fabric-1.21.5-5.1.0.jar",
         "sha512": "5042b2030bc16f8a357dcb353655c1b02f7ca1aab92031ead53ca53c1072cf7a07021daa0633b81f665bf995fee59deca69de3f438aa16ccfa4c55a552759598"
       },
-      "5_0-alpha2": {
-        "name": "geckolib-fabric-1.21.5-5.0-alpha2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Ez3pBvK0/geckolib-fabric-1.21.5-5.0-alpha2.jar",
-        "sha512": "15ded430c02cc92280e6de6ba06aa0efb47c92bc2c6d290bd22220971a44a8a14937c06ac3adf571ba90cfe788a719763f5dc202cc3a6e2b80143004d847177f"
-      },
       "5_0_2": {
         "name": "geckolib-fabric-1.21.5-5.0.2.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/yA5TcXk9/geckolib-fabric-1.21.5-5.0.2.jar",
         "sha512": "3d597a7ffda59aa86da35b157841556287abb935138d5ec5b2b4d8655a1ed98bf8e777f6ac3cae674c82991adb9312f6b95e57a6efd1ff60eaa8dea2b681778d"
-      },
-      "5_0-alpha1": {
-        "name": "geckolib-fabric-1.21.5-5.0-alpha1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/xJWRzLbN/geckolib-fabric-1.21.5-5.0-alpha1.jar",
-        "sha512": "1a27157d18ea6b1a80ff148638e021d7acbf901444430e341cb3050206463b838e09f0d8cf25e97e8d083f96a62937cdb1c1682e4314dfc77cbac86ee9e096b5"
       },
       "5_0_1": {
         "name": "geckolib-fabric-1.21.5-5.0.1.jar",
@@ -2162,6 +2152,16 @@
         "name": "geckolib-fabric-1.21.5-5.0.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/U5Cn0w1m/geckolib-fabric-1.21.5-5.0.jar",
         "sha512": "8baa172d9f2c5f2e1475ed8e7c4c10f8253fbb7f846b0eff2d8da40ad3604a6ad34e8b659f577d4425916069ee2e5f00f701f8002f2115428bfdaa86a10772e3"
+      },
+      "5_0-alpha2": {
+        "name": "geckolib-fabric-1.21.5-5.0-alpha2.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Ez3pBvK0/geckolib-fabric-1.21.5-5.0-alpha2.jar",
+        "sha512": "15ded430c02cc92280e6de6ba06aa0efb47c92bc2c6d290bd22220971a44a8a14937c06ac3adf571ba90cfe788a719763f5dc202cc3a6e2b80143004d847177f"
+      },
+      "5_0-alpha1": {
+        "name": "geckolib-fabric-1.21.5-5.0-alpha1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/xJWRzLbN/geckolib-fabric-1.21.5-5.0-alpha1.jar",
+        "sha512": "1a27157d18ea6b1a80ff148638e021d7acbf901444430e341cb3050206463b838e09f0d8cf25e97e8d083f96a62937cdb1c1682e4314dfc77cbac86ee9e096b5"
       }
     },
     "1_21_4": {
@@ -2198,19 +2198,9 @@
     },
     "1_21_3": {
       "latest": {
-        "name": "geckolib-fabric-1.21.3-4.7-beta-2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/j1hMqntb/geckolib-fabric-1.21.3-4.7-beta-2.jar",
-        "sha512": "cc6f2f2a939f442d6af503bf6e9a7dea1d5dfc04e10bdbe238ba5986f72e52bb582c8bd2bd8454c142063eed9ff059f7e1aa05032af267c59a1f2e941d4a00a6"
-      },
-      "4_7-beta-2": {
-        "name": "geckolib-fabric-1.21.3-4.7-beta-2.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/j1hMqntb/geckolib-fabric-1.21.3-4.7-beta-2.jar",
-        "sha512": "cc6f2f2a939f442d6af503bf6e9a7dea1d5dfc04e10bdbe238ba5986f72e52bb582c8bd2bd8454c142063eed9ff059f7e1aa05032af267c59a1f2e941d4a00a6"
-      },
-      "4_7-beta-1": {
-        "name": "geckolib-fabric-1.21.3-4.7-beta-1.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/iyAxg8Kv/geckolib-fabric-1.21.3-4.7-beta-1.jar",
-        "sha512": "7af55de6384e8e1c8688c8816dda23ae28af049b721e1fedce08fbdc5e37e6c921e7fa033c2fe913c4d2b9b8e4457c7964530d18aea92c0f6baae0976e7b43d0"
+        "name": "geckolib-fabric-1.21.3-4.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/7fKNdJBM/geckolib-fabric-1.21.3-4.7.1.jar",
+        "sha512": "5e52d8a7efdf6f4fb468fa46bdeaf49a940cf0e9c95da4bf47e475c949ea9e7808f28b680665f487cd9184bcf6e56ef7f51e59f2e944c6bca48521dd6d84def3"
       },
       "4_7_1": {
         "name": "geckolib-fabric-1.21.3-4.7.1.jar",
@@ -2221,6 +2211,16 @@
         "name": "geckolib-fabric-1.21.3-4.7.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HP3Tp4zn/geckolib-fabric-1.21.3-4.7.jar",
         "sha512": "b54d5f24f0d74bc5549aef8c39419e2da076c88019884d7346c27ecb4db0f2a9c0a00fd42b5eaa8d35989fbf7eb7e362f3c72c57b040e248a6831c1a529aa10f"
+      },
+      "4_7-beta-2": {
+        "name": "geckolib-fabric-1.21.3-4.7-beta-2.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/j1hMqntb/geckolib-fabric-1.21.3-4.7-beta-2.jar",
+        "sha512": "cc6f2f2a939f442d6af503bf6e9a7dea1d5dfc04e10bdbe238ba5986f72e52bb582c8bd2bd8454c142063eed9ff059f7e1aa05032af267c59a1f2e941d4a00a6"
+      },
+      "4_7-beta-1": {
+        "name": "geckolib-fabric-1.21.3-4.7-beta-1.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/iyAxg8Kv/geckolib-fabric-1.21.3-4.7-beta-1.jar",
+        "sha512": "7af55de6384e8e1c8688c8816dda23ae28af049b721e1fedce08fbdc5e37e6c921e7fa033c2fe913c4d2b9b8e4457c7964530d18aea92c0f6baae0976e7b43d0"
       }
     },
     "1_21_1": {
@@ -2675,26 +2675,14 @@
     },
     "1_19_3-pre3": {
       "latest": {
-        "name": "geckolib-fabric-1.19.3-pre3-4.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/daSMlw4L/geckolib-fabric-1.19.3-pre3-4.0.0.jar",
-        "sha512": "02967eaf9a51ed95659053076e6c967d896f5bb8bcef6271d2af84620fa19c5245a0994004db866387b299c0b4e72ec8292c252a9082797574b0adf4b3a39c21"
-      },
-      "4_0_0": {
         "name": "geckolib-fabric-1.19.3-rc1-4.0.0.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/uk7FQRvC/geckolib-fabric-1.19.3-rc1-4.0.0.jar",
         "sha512": "d3478eacfba7a56d61d1ed877e49658c668d35710f14478371fc745376e7afb5106d6af121239fbfdb2658f92867f8e6adb621b9fbc9b29ecca50c1825c505a8"
-      }
-    },
-    "1_19_3-pre2": {
-      "latest": {
-        "name": "geckolib-fabric-1.19.3-pre2-4.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DgA0gMMc/geckolib-fabric-1.19.3-pre2-4.0.0.jar",
-        "sha512": "3d4b33eb82afb6399304861f2e0c9abcab85c5cfec90d0501745b95a63709eeec93dc113f40c6f0af57cd3524cdaa74778b026af3ca241691a1567d6363c9c2b"
       },
       "4_0_0": {
-        "name": "geckolib-fabric-1.19.3-pre2-4.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DgA0gMMc/geckolib-fabric-1.19.3-pre2-4.0.0.jar",
-        "sha512": "3d4b33eb82afb6399304861f2e0c9abcab85c5cfec90d0501745b95a63709eeec93dc113f40c6f0af57cd3524cdaa74778b026af3ca241691a1567d6363c9c2b"
+        "name": "geckolib-fabric-1.19.3-pre3-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/daSMlw4L/geckolib-fabric-1.19.3-pre3-4.0.0.jar",
+        "sha512": "02967eaf9a51ed95659053076e6c967d896f5bb8bcef6271d2af84620fa19c5245a0994004db866387b299c0b4e72ec8292c252a9082797574b0adf4b3a39c21"
       }
     },
     "1_19_3-rc2": {
@@ -2707,6 +2695,18 @@
         "name": "geckolib-fabric-1.19.3-rc2-4.0.0.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/E1Z2wSuT/geckolib-fabric-1.19.3-rc2-4.0.0.jar",
         "sha512": "e5511139cb5ec397d3b3b83f3e8841d75d63b91262b05898d609c613ef2552244e5c1279bf8149d43f5c2503feb72581db318cda7ef9da3ed1e8678c2b2a92f8"
+      }
+    },
+    "1_19_3-pre2": {
+      "latest": {
+        "name": "geckolib-fabric-1.19.3-pre2-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DgA0gMMc/geckolib-fabric-1.19.3-pre2-4.0.0.jar",
+        "sha512": "3d4b33eb82afb6399304861f2e0c9abcab85c5cfec90d0501745b95a63709eeec93dc113f40c6f0af57cd3524cdaa74778b026af3ca241691a1567d6363c9c2b"
+      },
+      "4_0_0": {
+        "name": "geckolib-fabric-1.19.3-pre2-4.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/DgA0gMMc/geckolib-fabric-1.19.3-pre2-4.0.0.jar",
+        "sha512": "3d4b33eb82afb6399304861f2e0c9abcab85c5cfec90d0501745b95a63709eeec93dc113f40c6f0af57cd3524cdaa74778b026af3ca241691a1567d6363c9c2b"
       }
     },
     "1_19_3": {
@@ -3009,7 +3009,7 @@
       "3_0_56": {
         "name": "geckolib-fabric-1.18-3.0.56.jar",
         "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/3.0.56/geckolib-fabric-1.18-3.0.56.jar",
-        "sha512": "e702426c8a03b9311dd5f7f354f28c93b3eae72f7768d5336d7ed455c99a358cbbc7ab9843a726d62ba2a0f3a2ea2c04def480138affb751b104272de4ae0a8f"
+        "sha512": "a22511a305ac816da211f79bbbcf91ac9ab25695bd68e597ffe8c126798d670432410bf4b2ae340f98c3ca01c93167bc7b0dbb7c6f455d884aa1de78d9698594"
       }
     },
     "1_17_1": {
@@ -3168,9 +3168,9 @@
         "sha512": "8945b89e5fb3ad2a604f255920177a50a96919d466f2070a4b91bbd92a5ae789ad66019db8c3f598127726b7affd15d393c1e14caaf7d81d81de0a8ae2e2049a"
       },
       "3_1_30": {
-        "name": "geckolib-fabric-22w43a-3.1.30.jar",
-        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/nQTlPpY3/geckolib-fabric-22w43a-3.1.30.jar",
-        "sha512": "d9e9df87dc3e16e07e52f7f8239c504bef4770cc220d774b952dc4ed8479a6048c664a45463b4cb9fe6ca1f1d6f213b3c99695e0fd03df935398b3603ce6d58c"
+        "name": "geckolib-fabric-22w42a-3.1.30.jar",
+        "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/sa9wyf1R/geckolib-fabric-22w42a-3.1.30.jar",
+        "sha512": "844917f5f20ca01881d4b357bb0fbfebe7a034c5344d0b02c027e57511968719bc963620ae8fec0eeb46cf691ddb107c49e0214d2ff35a7dca1644508dc1c904"
       },
       "3_1_29": {
         "name": "geckolib-fabric-22w42a-3.1.29.jar",

@@ -11,15 +11,15 @@
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/2mIvRTNp/fabric-seasons-2.4.2-BETA%2B1.21.jar",
         "sha512": "1fa611aecdeb7d3a7dbf46b29b3fcb747f02d8c3ebd58ffa47ecb6b07c049990b54843c207db4814ae1ab6b3ccfa2854864d245bdc3074fe52faa9097c3619d3"
       },
-      "2_4-BETA+1_21": {
-        "name": "fabric-seasons-2.4-BETA+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/SgG5rslx/fabric-seasons-2.4-BETA%2B1.21.jar",
-        "sha512": "729cff7f7086d81a600a655e6166bdec252c1258ffb4517329978d315ffd50bf7129ab1cd2fcabe00c9996f5ac757c617e892862fa6fc0c0502454c112f95262"
-      },
       "2_4_1-BETA+1_21": {
         "name": "fabric-seasons-2.4.1-BETA+1.21.jar",
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/vPuQOuvv/fabric-seasons-2.4.1-BETA%2B1.21.jar",
         "sha512": "b795636736b381c313bfec746c80db5f57787be978c0d493d1d866a28feba53370fcdb6c798956fb905e7a08643f5a1fea0e0daae131fc280da33eb10efd38eb"
+      },
+      "2_4-BETA+1_21": {
+        "name": "fabric-seasons-2.4-BETA+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/SgG5rslx/fabric-seasons-2.4-BETA%2B1.21.jar",
+        "sha512": "729cff7f7086d81a600a655e6166bdec252c1258ffb4517329978d315ffd50bf7129ab1cd2fcabe00c9996f5ac757c617e892862fa6fc0c0502454c112f95262"
       }
     },
     "1_20_4": {
@@ -77,15 +77,15 @@
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/sdV8aBn8/fabric-seasons-2.4.2-BETA%2B1.20.jar",
         "sha512": "7de3208e455046e6c0ea6f41bcd17242498b1db942ee58ff93ff44b1368e65146a5d49bbe9d50874e47c19f8a75129dd3df56e10f218eeb13ae9847e32c99a8e"
       },
-      "2_4-BETA+1_20": {
-        "name": "fabric-seasons-2.4-BETA+1.20.jar",
-        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/bLvuhMT5/fabric-seasons-2.4-BETA%2B1.20.jar",
-        "sha512": "037dad5a7b96366052b9de235cad9aaf7ea101a9d823484ffcd2815185bb19cd13100837bd6259fae090f7417a578ddf69d7e7a84e72bdffbe362ee4d2fa73e4"
-      },
       "2_4_1-BETA+1_20": {
         "name": "fabric-seasons-2.4.1-BETA+1.20.jar",
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/AoFUONjx/fabric-seasons-2.4.1-BETA%2B1.20.jar",
         "sha512": "c3c80d976e79dab3c32dcc74430a3a6df218328dc1cbe365e1ba37f6946bb8fabb77d812be5d4c81703c86b426121a18878a8dba24f967475a1257816f1c5b5c"
+      },
+      "2_4-BETA+1_20": {
+        "name": "fabric-seasons-2.4-BETA+1.20.jar",
+        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/bLvuhMT5/fabric-seasons-2.4-BETA%2B1.20.jar",
+        "sha512": "037dad5a7b96366052b9de235cad9aaf7ea101a9d823484ffcd2815185bb19cd13100837bd6259fae090f7417a578ddf69d7e7a84e72bdffbe362ee4d2fa73e4"
       },
       "2_3+1_20": {
         "name": "fabric-seasons-2.3+1.20.jar",
@@ -200,15 +200,15 @@
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/5TNKN9aR/fabric-seasons-2.3%2B1.19.jar",
         "sha512": "089eac2a3bd5d474dde65f8f82249276fe3d94a2300b67b96c2ce8d76219bdd38f39cd0c1e9d0461e92044d8db76d5493567beb709bc8019f63c9b16720fc151"
       },
-      "2_2+1_19": {
-        "name": "fabric-seasons-2.2+1.19.jar",
-        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/k9JfRwVM/fabric-seasons-2.2%2B1.19.jar",
-        "sha512": "82e5df828c297db4c61b88c896fcfd8178cb424131fef7a882704b2e159f94c28945745e0a59932c76d925b59746bf4ff2b5e6c00a99481f510a78c0b9d64440"
-      },
       "2_2_1+1_19": {
         "name": "fabric-seasons-2.2.1+1.19.jar",
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/rLlocL2I/fabric-seasons-2.2.1%2B1.19.jar",
         "sha512": "39150bfc8225365013736dcc6b3a9b2659679d6916d949ede22789ea29b5c738673cf6864db526a4113a71e77f987bdfbb428f8ea2bd201f71bed0986f432012"
+      },
+      "2_2+1_19": {
+        "name": "fabric-seasons-2.2+1.19.jar",
+        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/k9JfRwVM/fabric-seasons-2.2%2B1.19.jar",
+        "sha512": "82e5df828c297db4c61b88c896fcfd8178cb424131fef7a882704b2e159f94c28945745e0a59932c76d925b59746bf4ff2b5e6c00a99481f510a78c0b9d64440"
       },
       "2_1+1_19": {
         "name": "fabric-seasons-2.1+1.19.jar",
@@ -264,31 +264,19 @@
     },
     "1_17_1": {
       "latest": {
-        "name": "fabric-seasons-1.3-BETA+1.17.jar",
-        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.3-BETA%2B1.17/fabric-seasons-1.3-BETA%2B1.17.jar",
-        "sha512": "d36a3cc1678c62fa91fa0ff6b3fceffc7dd8dc9165d354b7260495f2addab44179427cf3d071f49cfae495cb569808393451167d18dd78017247aeae1f4085bd"
-      },
-      "1_3-BETA+1_17": {
-        "name": "fabric-seasons-1.3-BETA+1.17.jar",
-        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.3-BETA%2B1.17/fabric-seasons-1.3-BETA%2B1.17.jar",
-        "sha512": "d36a3cc1678c62fa91fa0ff6b3fceffc7dd8dc9165d354b7260495f2addab44179427cf3d071f49cfae495cb569808393451167d18dd78017247aeae1f4085bd"
+        "name": "fabric-seasons-1.3.1-BETA+1.17.jar",
+        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.3.1-BETA%2B1.17/fabric-seasons-1.3.1-BETA%2B1.17.jar",
+        "sha512": "b481e1b15e6b1f7d2fb0aeaf75b463265b51a979d8e83dfee6ceaaabfb4aa7ca28d451a2da554080cefddea8a4ab98b2a39843d5f3e0534211c47a50c62d95d7"
       },
       "1_3_1-BETA+1_17": {
         "name": "fabric-seasons-1.3.1-BETA+1.17.jar",
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.3.1-BETA%2B1.17/fabric-seasons-1.3.1-BETA%2B1.17.jar",
         "sha512": "b481e1b15e6b1f7d2fb0aeaf75b463265b51a979d8e83dfee6ceaaabfb4aa7ca28d451a2da554080cefddea8a4ab98b2a39843d5f3e0534211c47a50c62d95d7"
-      }
-    },
-    "1_17-pre1": {
-      "latest": {
-        "name": "seasons-1.17-pre1-1.2-BETA.jar",
-        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.2-BETA-1.17/seasons-1.17-pre1-1.2-BETA.jar",
-        "sha512": "22beb8c7f266a01044bb51ed74e89006db037186c18ad57e073fddbe6a5659d6fbacea93ca19e74ebbd23e22577c367d1183ed7629b1b844f71d0b3978a4192e"
       },
-      "1_2-BETA-1_17": {
-        "name": "seasons-1.17-pre1-1.2-BETA.jar",
-        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.2-BETA-1.17/seasons-1.17-pre1-1.2-BETA.jar",
-        "sha512": "22beb8c7f266a01044bb51ed74e89006db037186c18ad57e073fddbe6a5659d6fbacea93ca19e74ebbd23e22577c367d1183ed7629b1b844f71d0b3978a4192e"
+      "1_3-BETA+1_17": {
+        "name": "fabric-seasons-1.3-BETA+1.17.jar",
+        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.3-BETA%2B1.17/fabric-seasons-1.3-BETA%2B1.17.jar",
+        "sha512": "d36a3cc1678c62fa91fa0ff6b3fceffc7dd8dc9165d354b7260495f2addab44179427cf3d071f49cfae495cb569808393451167d18dd78017247aeae1f4085bd"
       }
     },
     "1_17-rc1": {
@@ -301,6 +289,18 @@
         "name": "fabric-seasons-1.2.1-BETA+1.17.jar",
         "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.2.1-BETA%2B1.17/fabric-seasons-1.2.1-BETA%2B1.17.jar",
         "sha512": "e16ea0b3ab2f15f08ddea5219232a98bae6cbd28380de9d2ffd998dc6464b4b0d21c9a4d4ddc04d1453e474489ac0c70bdac949bee0c1d9b2a985346498122a4"
+      }
+    },
+    "1_17-pre1": {
+      "latest": {
+        "name": "seasons-1.17-pre1-1.2-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.2-BETA-1.17/seasons-1.17-pre1-1.2-BETA.jar",
+        "sha512": "22beb8c7f266a01044bb51ed74e89006db037186c18ad57e073fddbe6a5659d6fbacea93ca19e74ebbd23e22577c367d1183ed7629b1b844f71d0b3978a4192e"
+      },
+      "1_2-BETA-1_17": {
+        "name": "seasons-1.17-pre1-1.2-BETA.jar",
+        "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.2-BETA-1.17/seasons-1.17-pre1-1.2-BETA.jar",
+        "sha512": "22beb8c7f266a01044bb51ed74e89006db037186c18ad57e073fddbe6a5659d6fbacea93ca19e74ebbd23e22577c367d1183ed7629b1b844f71d0b3978a4192e"
       }
     },
     "1_17": {

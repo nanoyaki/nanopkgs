@@ -1215,9 +1215,29 @@
     },
     "1_20": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_Fabric_1.20.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/jcQ3zpWh/Xaeros_Minimap_25.3.2_Fabric_1.20.jar",
-        "sha512": "4c5a0382d23140f7620dfc340d2c63f94102b7cde808cf96a06a1f734211c21317597fb55a22fe541e66049e3688b18068ebad0585c542f712aad4141ba78c9f"
+        "name": "xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7wlcmhtN/xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "sha512": "9dfdc116a9ecec65547cbf9f0a9a1b2cb261d081c565c7e98bacec21dd6561323cdce7ab4837e5d1080a2ba392e125586005043ac95ded68892469b7b5d11f4a"
+      },
+      "fabric_1-25_3_10": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7wlcmhtN/xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "sha512": "9dfdc116a9ecec65547cbf9f0a9a1b2cb261d081c565c7e98bacec21dd6561323cdce7ab4837e5d1080a2ba392e125586005043ac95ded68892469b7b5d11f4a"
+      },
+      "fabric_1-25_3_9": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rcRP4SQh/xaerominimap-fabric-1.20.1-25.3.9.jar",
+        "sha512": "b0fc74979a734cb68987de80a80c11ed8e4f3f35ab8c1cb733032dfbde614901afb84fe90e57fe728900143fbbaf2c40bb08f7f132a546f1dc8069881166b6c2"
+      },
+      "fabric_1-25_3_7": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/UJOJu5Vz/xaerominimap-fabric-1.20.1-25.3.7.jar",
+        "sha512": "93d6da324e52f64623bbdb4d95017f0266f1f2f8346498d529cdaac6b67424d680b7dad038b2492632458d540f4455aad783c7ef8373bc3c6b573119dbf86688"
+      },
+      "fabric_1-25_3_5": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/6MQBeVDz/xaerominimap-fabric-1.20.1-25.3.5.jar",
+        "sha512": "a19fc789f42d1362d0ddef791f03d68d9916989ed9fb15f3c61f0e2c14ef5860f94d755864ac928168b27e50b3e74738b9436a124ed33e8ff7e88cc9f5ca9785"
       },
       "25_3_2_Fabric_": {
         "name": "Xaeros_Minimap_25.3.2_Fabric_1.20.jar",
@@ -1388,26 +1408,6 @@
         "name": "Xaeros_Minimap_23.4.4_Fabric_1.20.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/I8fXehdE/Xaeros_Minimap_23.4.4_Fabric_1.20.jar",
         "sha512": "143efc89b5a11437c52b10c8872b184f4818f7262d73c69bfb0a8254e68826221bb9a4deb436b32426b99b5b99656cced5c9d2e33b97e6b1492d585b72d75f73"
-      },
-      "fabric_1-25_3_10": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7wlcmhtN/xaerominimap-fabric-1.20.1-25.3.10.jar",
-        "sha512": "9dfdc116a9ecec65547cbf9f0a9a1b2cb261d081c565c7e98bacec21dd6561323cdce7ab4837e5d1080a2ba392e125586005043ac95ded68892469b7b5d11f4a"
-      },
-      "fabric_1-25_3_9": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rcRP4SQh/xaerominimap-fabric-1.20.1-25.3.9.jar",
-        "sha512": "b0fc74979a734cb68987de80a80c11ed8e4f3f35ab8c1cb733032dfbde614901afb84fe90e57fe728900143fbbaf2c40bb08f7f132a546f1dc8069881166b6c2"
-      },
-      "fabric_1-25_3_7": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.7.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/UJOJu5Vz/xaerominimap-fabric-1.20.1-25.3.7.jar",
-        "sha512": "93d6da324e52f64623bbdb4d95017f0266f1f2f8346498d529cdaac6b67424d680b7dad038b2492632458d540f4455aad783c7ef8373bc3c6b573119dbf86688"
-      },
-      "fabric_1-25_3_5": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/6MQBeVDz/xaerominimap-fabric-1.20.1-25.3.5.jar",
-        "sha512": "a19fc789f42d1362d0ddef791f03d68d9916989ed9fb15f3c61f0e2c14ef5860f94d755864ac928168b27e50b3e74738b9436a124ed33e8ff7e88cc9f5ca9785"
       }
     },
     "1_19_4": {
@@ -1888,9 +1888,24 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_Fabric_1.19.1.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/qSgYmsyz/Xaeros_Minimap_25.3.2_Fabric_1.19.1.jar",
-        "sha512": "4377668a4b61cd7507c3147898a07c267116aac097204524f952780f13835404d2f7bec4fef1abc4b4b4ddcb134f0e31cfd7cc54dfcc0aac3f09b5ebbdca4760"
+        "name": "xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Gx6yn9HQ/xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "sha512": "585749ed0c9e6ca95fa1dd9935195c10880403f9caeefc73d7f4c819510dc31c2fca58f6e504f067b24cfa0ac0c34dad278ce81c29756bc678f6b4865e976bfb"
+      },
+      "fabric-1_19_2-25_3_10": {
+        "name": "xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Gx6yn9HQ/xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "sha512": "585749ed0c9e6ca95fa1dd9935195c10880403f9caeefc73d7f4c819510dc31c2fca58f6e504f067b24cfa0ac0c34dad278ce81c29756bc678f6b4865e976bfb"
+      },
+      "fabric-1_19_2-25_3_9": {
+        "name": "xaerominimap-fabric-1.19.2-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/q53Wo7s4/xaerominimap-fabric-1.19.2-25.3.9.jar",
+        "sha512": "dcb7d86567509e00709c1dab6eca4f5e16ec0cb0d078b972c412d2eee6a6bdfa0bbf382ffbe7b79dbccb4a068b22e0f510c2043b3a27d1c14e399b47cf6aa604"
+      },
+      "fabric-1_19_2-25_3_5": {
+        "name": "xaerominimap-fabric-1.19.2-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/F0jrcYdR/xaerominimap-fabric-1.19.2-25.3.5.jar",
+        "sha512": "5d03b8d9bf4ed2f721e9e6d7317e20172c2126383eff31ceddafa003245a428874113a2b83f48b041d413bf72c5d4875104925a4617e4ca480fe5727ccfcf451"
       },
       "25_3_2_Fabric_": {
         "name": "Xaeros_Minimap_25.3.2_Fabric_1.19.1.jar",
@@ -2071,21 +2086,6 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.19.1.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/FojbYoas/Xaeros_Minimap_23.4.0_Fabric_1.19.1.jar",
         "sha512": "eeee2986247918a08e5036bf62d177924a93a911b7305a56e64a84730a73e8e339cae01e2eb17502ce3a0c0a976f14d966e7908f221a38a605211b1fbd6a67a9"
-      },
-      "fabric-1_19_2-25_3_10": {
-        "name": "xaerominimap-fabric-1.19.2-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Gx6yn9HQ/xaerominimap-fabric-1.19.2-25.3.10.jar",
-        "sha512": "585749ed0c9e6ca95fa1dd9935195c10880403f9caeefc73d7f4c819510dc31c2fca58f6e504f067b24cfa0ac0c34dad278ce81c29756bc678f6b4865e976bfb"
-      },
-      "fabric-1_19_2-25_3_9": {
-        "name": "xaerominimap-fabric-1.19.2-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/q53Wo7s4/xaerominimap-fabric-1.19.2-25.3.9.jar",
-        "sha512": "dcb7d86567509e00709c1dab6eca4f5e16ec0cb0d078b972c412d2eee6a6bdfa0bbf382ffbe7b79dbccb4a068b22e0f510c2043b3a27d1c14e399b47cf6aa604"
-      },
-      "fabric-1_19_2-25_3_5": {
-        "name": "xaerominimap-fabric-1.19.2-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/F0jrcYdR/xaerominimap-fabric-1.19.2-25.3.5.jar",
-        "sha512": "5d03b8d9bf4ed2f721e9e6d7317e20172c2126383eff31ceddafa003245a428874113a2b83f48b041d413bf72c5d4875104925a4617e4ca480fe5727ccfcf451"
       }
     },
     "1_18_2": {
@@ -2713,9 +2713,14 @@
     },
     "1_16_4": {
       "latest": {
-        "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/O9t3Scfw/Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "sha512": "19e1928b68d2560911e5a2c35ce7040c1c29eefb95cc61b1e00a0afc9d0341cad539b8f14ad1cf2810e3cfd88ccf6082df18c994a470b1c9c40b389c272004bd"
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
+      },
+      "fabric-1_16_5-25_3_9": {
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       },
       "24_6_1_Fabric_1_16_5": {
         "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
@@ -2861,18 +2866,18 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lC4hcOVE/Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "sha512": "5c5539256c9515ecd32530937b005dd860dcc21ac840844221f29865cf9e3dbc909553df3f388a2442f89e96049caa7536c978afb31995d024bae257f263567e"
-      },
-      "fabric-1_16_5-25_3_9": {
-        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       }
     },
     "1_16_3": {
       "latest": {
-        "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/O9t3Scfw/Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "sha512": "19e1928b68d2560911e5a2c35ce7040c1c29eefb95cc61b1e00a0afc9d0341cad539b8f14ad1cf2810e3cfd88ccf6082df18c994a470b1c9c40b389c272004bd"
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
+      },
+      "fabric-1_16_5-25_3_9": {
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       },
       "24_6_1_Fabric_1_16_5": {
         "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
@@ -3018,18 +3023,18 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lC4hcOVE/Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "sha512": "5c5539256c9515ecd32530937b005dd860dcc21ac840844221f29865cf9e3dbc909553df3f388a2442f89e96049caa7536c978afb31995d024bae257f263567e"
-      },
-      "fabric-1_16_5-25_3_9": {
-        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       }
     },
     "1_16_2": {
       "latest": {
-        "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/O9t3Scfw/Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "sha512": "19e1928b68d2560911e5a2c35ce7040c1c29eefb95cc61b1e00a0afc9d0341cad539b8f14ad1cf2810e3cfd88ccf6082df18c994a470b1c9c40b389c272004bd"
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
+      },
+      "fabric-1_16_5-25_3_9": {
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       },
       "24_6_1_Fabric_1_16_5": {
         "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
@@ -3175,11 +3180,6 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lC4hcOVE/Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "sha512": "5c5539256c9515ecd32530937b005dd860dcc21ac840844221f29865cf9e3dbc909553df3f388a2442f89e96049caa7536c978afb31995d024bae257f263567e"
-      },
-      "fabric-1_16_5-25_3_9": {
-        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       }
     }
   },
@@ -3666,9 +3666,29 @@
     },
     "1_21": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/iTA5fl45/Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
-        "sha512": "e34edc81388b9f119f1096778f651655411e98a909d7979001ba9a40951bc4d239dd997fd4e5aa660db87b7c41fcdb1b100325ce37a243f604b49c153c97cf55"
+        "name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+        "sha512": "97dbc7ddc8b86edead71f60e3257175abe9e05e94387447aad2467cfcf0a5211ed848ee3df9bb3c308183405f997f8acd508ac01f8ee374f08d9af00729fc1d8"
+      },
+      "neoforge_1-25_3_10": {
+        "name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+        "sha512": "97dbc7ddc8b86edead71f60e3257175abe9e05e94387447aad2467cfcf0a5211ed848ee3df9bb3c308183405f997f8acd508ac01f8ee374f08d9af00729fc1d8"
+      },
+      "neoforge_1-25_3_9": {
+        "name": "xaerominimap-neoforge-1.21.1-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7KUAY3Iw/xaerominimap-neoforge-1.21.1-25.3.9.jar",
+        "sha512": "57ac202fa0e692ed338bbeee7834afd07dac31f8c0f6911a737f73b7c4d9e066ad262a6974d0a3ded665d95e01c280aa56c8f2f6df999f50236c621cc37a4cf6"
+      },
+      "neoforge_1-25_3_7": {
+        "name": "xaerominimap-neoforge-1.21.1-25.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/MQMsfPNl/xaerominimap-neoforge-1.21.1-25.3.7.jar",
+        "sha512": "134fac5099ac8a4283962fdc37ec7fcf521811fd0460d755ae5182048d2f8dcaf0e61590e5e098d84c22cd67714b501936bb175d8f1c04a2e2cff52837a8cf70"
+      },
+      "neoforge_1-25_3_5": {
+        "name": "xaerominimap-neoforge-1.21.1-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/puXrtfcK/xaerominimap-neoforge-1.21.1-25.3.5.jar",
+        "sha512": "b9e261eff2987e12244a70ccc1c65688da73343f182f5c59afcfce58cd61f2c930a4920a139bea62c5c5915f9b99bf9b624c09535901f5dd679b7998f7701f17"
       },
       "25_3_2_NeoForge_": {
         "name": "Xaeros_Minimap_25.3.2_NeoForge_1.21.jar",
@@ -3734,26 +3754,6 @@
         "name": "Xaeros_Minimap_24.2.1_NeoForge_1.21.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/cDXVTAcY/Xaeros_Minimap_24.2.1_NeoForge_1.21.jar",
         "sha512": "7bf5235a5d3607b300c3dffd860fe593c1ffbc41885b89755586940e03d89bb6037e8884118693fe522e13fe1ce6583f5b63ffa6583996693e51eb0712871689"
-      },
-      "neoforge_1-25_3_10": {
-        "name": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar",
-        "sha512": "97dbc7ddc8b86edead71f60e3257175abe9e05e94387447aad2467cfcf0a5211ed848ee3df9bb3c308183405f997f8acd508ac01f8ee374f08d9af00729fc1d8"
-      },
-      "neoforge_1-25_3_9": {
-        "name": "xaerominimap-neoforge-1.21.1-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7KUAY3Iw/xaerominimap-neoforge-1.21.1-25.3.9.jar",
-        "sha512": "57ac202fa0e692ed338bbeee7834afd07dac31f8c0f6911a737f73b7c4d9e066ad262a6974d0a3ded665d95e01c280aa56c8f2f6df999f50236c621cc37a4cf6"
-      },
-      "neoforge_1-25_3_7": {
-        "name": "xaerominimap-neoforge-1.21.1-25.3.7.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/MQMsfPNl/xaerominimap-neoforge-1.21.1-25.3.7.jar",
-        "sha512": "134fac5099ac8a4283962fdc37ec7fcf521811fd0460d755ae5182048d2f8dcaf0e61590e5e098d84c22cd67714b501936bb175d8f1c04a2e2cff52837a8cf70"
-      },
-      "neoforge_1-25_3_5": {
-        "name": "xaerominimap-neoforge-1.21.1-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/puXrtfcK/xaerominimap-neoforge-1.21.1-25.3.5.jar",
-        "sha512": "b9e261eff2987e12244a70ccc1c65688da73343f182f5c59afcfce58cd61f2c930a4920a139bea62c5c5915f9b99bf9b624c09535901f5dd679b7998f7701f17"
       }
     },
     "1_20_6": {
@@ -4503,9 +4503,24 @@
     },
     "1_21": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_Forge_1.21.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nVjx8BAd/Xaeros_Minimap_25.3.2_Forge_1.21.jar",
-        "sha512": "e1e5ca0dffca1c640d16e4ba28688e880cc17aa4a8c45b91d4ace1d86e08222e4c71a0c0a956df67a0703f908710134a334b872cedc3d935ae023b8e49583023"
+        "name": "xaerominimap-forge-1.21.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JItSZSRo/xaerominimap-forge-1.21.1-25.3.10.jar",
+        "sha512": "ee876f5abffe868939d111b75648556aa210daae1c948e74dda48180290e76b3304f1f7fcbe42de9e938f1002cc3720ddd1830cb1dea1ffba19c93ea9e6ae827"
+      },
+      "forge_1-25_3_10": {
+        "name": "xaerominimap-forge-1.21.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JItSZSRo/xaerominimap-forge-1.21.1-25.3.10.jar",
+        "sha512": "ee876f5abffe868939d111b75648556aa210daae1c948e74dda48180290e76b3304f1f7fcbe42de9e938f1002cc3720ddd1830cb1dea1ffba19c93ea9e6ae827"
+      },
+      "forge_1-25_3_9": {
+        "name": "xaerominimap-forge-1.21.1-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ONmDn2Tl/xaerominimap-forge-1.21.1-25.3.9.jar",
+        "sha512": "5eebf9c4509477bdcc443a2291c984c2fb7c67a3d3f383777f135d5faa3fa74bb93deb7c67d441f6a27fa1cef66353b767dd34a58fd8c6ad68f1be42e3e3f420"
+      },
+      "forge_1-25_3_5": {
+        "name": "xaerominimap-forge-1.21.1-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/QGvLgTlG/xaerominimap-forge-1.21.1-25.3.5.jar",
+        "sha512": "fc612d4bd0194da5366c12099acb4de4b1ed129c5563adf51ed89597127bf90450992f1a39423f6384561749eeee2cd38d4e8d944c3afd4f1fcac2e8c14e67e5"
       },
       "25_3_2_Forge_": {
         "name": "Xaeros_Minimap_25.3.2_Forge_1.21.jar",
@@ -4566,21 +4581,6 @@
         "name": "Xaeros_Minimap_24.2.1_Forge_1.21.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/qcuUYSKu/Xaeros_Minimap_24.2.1_Forge_1.21.jar",
         "sha512": "081e0f023d000b29e8b05dd22786fee43fdc73fad6c0c1596af9df0ec19757b1b13159d6f0a345300fa622d334f28968245cf715dd4693fd0cdb2f7ef97a77f6"
-      },
-      "forge_1-25_3_10": {
-        "name": "xaerominimap-forge-1.21.1-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JItSZSRo/xaerominimap-forge-1.21.1-25.3.10.jar",
-        "sha512": "ee876f5abffe868939d111b75648556aa210daae1c948e74dda48180290e76b3304f1f7fcbe42de9e938f1002cc3720ddd1830cb1dea1ffba19c93ea9e6ae827"
-      },
-      "forge_1-25_3_9": {
-        "name": "xaerominimap-forge-1.21.1-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ONmDn2Tl/xaerominimap-forge-1.21.1-25.3.9.jar",
-        "sha512": "5eebf9c4509477bdcc443a2291c984c2fb7c67a3d3f383777f135d5faa3fa74bb93deb7c67d441f6a27fa1cef66353b767dd34a58fd8c6ad68f1be42e3e3f420"
-      },
-      "forge_1-25_3_5": {
-        "name": "xaerominimap-forge-1.21.1-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/QGvLgTlG/xaerominimap-forge-1.21.1-25.3.5.jar",
-        "sha512": "fc612d4bd0194da5366c12099acb4de4b1ed129c5563adf51ed89597127bf90450992f1a39423f6384561749eeee2cd38d4e8d944c3afd4f1fcac2e8c14e67e5"
       }
     },
     "1_20_6": {
@@ -4753,25 +4753,25 @@
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Vh8qzfv2/Xaeros_Minimap_24.5.0_Forge_1.20.4.jar",
         "sha512": "e1a7f33d4d4b72fcdf4382a0b56d41c110a24fb906343db908de91ae73add3a08e14372ad6044e1c6756989c52d96e2752600ccbc89bf7cde74ea583f214b8f8"
       },
-      "24_4_0_Forge_": {
-        "name": "Xaeros_Minimap_24.4.0_Forge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/vAquXdvj/Xaeros_Minimap_24.4.0_Forge_1.20.4.jar",
-        "sha512": "ca296e694ec9a386fef6b20215001989e0681188ff375e9c3ebdb1d5f61efe915f16ffe0cc7b93fc56eeb47bd20f76bc17fa59f01792665c9e367da6f87d4d05"
-      },
       "24_4_0_NeoForge_": {
         "name": "Xaeros_Minimap_24.4.0_NeoForge_1.20.4.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/VcfSPmn6/Xaeros_Minimap_24.4.0_NeoForge_1.20.4.jar",
         "sha512": "d7112ef1af9cc18bd297c46b9175715449381e784c8d2ff23c5b1a171e5e1133b5cb4b42f5a5ca4578b44ae92fee63cd3f51fd491a138e2e68da08a16e72b8e2"
       },
-      "24_3_0_Forge_": {
-        "name": "Xaeros_Minimap_24.3.0_Forge_1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/qSDCOk0h/Xaeros_Minimap_24.3.0_Forge_1.20.4.jar",
-        "sha512": "8fb30897c45d80dfba552f9ac91dd40dbce3824d716dee89ae2a3d2245ec32a59eed8066509f3750def488738352dc759db5ca913635ac9909006a8c53a4760e"
+      "24_4_0_Forge_": {
+        "name": "Xaeros_Minimap_24.4.0_Forge_1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/vAquXdvj/Xaeros_Minimap_24.4.0_Forge_1.20.4.jar",
+        "sha512": "ca296e694ec9a386fef6b20215001989e0681188ff375e9c3ebdb1d5f61efe915f16ffe0cc7b93fc56eeb47bd20f76bc17fa59f01792665c9e367da6f87d4d05"
       },
       "24_3_0_NeoForge_": {
         "name": "Xaeros_Minimap_24.3.0_NeoForge_1.20.4.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/WcoTEWrk/Xaeros_Minimap_24.3.0_NeoForge_1.20.4.jar",
         "sha512": "a26723ca2f3d95b21e231481e0b9cb482e6f6fc33340bf3a49e295fcb73070600a5642b3e7ca3efc9778507f085799506905cadaff25608be9cdca3a740c21f2"
+      },
+      "24_3_0_Forge_": {
+        "name": "Xaeros_Minimap_24.3.0_Forge_1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/qSDCOk0h/Xaeros_Minimap_24.3.0_Forge_1.20.4.jar",
+        "sha512": "8fb30897c45d80dfba552f9ac91dd40dbce3824d716dee89ae2a3d2245ec32a59eed8066509f3750def488738352dc759db5ca913635ac9909006a8c53a4760e"
       },
       "24_2_0_Forge_": {
         "name": "Xaeros_Minimap_24.2.0_Forge_1.20.4.jar",
@@ -4887,15 +4887,15 @@
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/5yFRcnp4/Xaeros_Minimap_25.2.0_Forge_1.20.2.jar",
         "sha512": "dc4185b96340d4cd2b7ba098a05b88d38d8f1ec118ab71191ca14d95da7e5f17f4d8e0d3e7d32a39e15a9abf35045f394602b5c800ad4f7ad7bbd3cba085cf1d"
       },
-      "25_1_0_Forge_": {
-        "name": "Xaeros_Minimap_25.1.0_Forge_1.20.2.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/vmDgMVyb/Xaeros_Minimap_25.1.0_Forge_1.20.2.jar",
-        "sha512": "2fa3fcb100caa4d5eb4794fdf60425d03cab3fe74079ac5d4f74b09ed5e005b0d5493ddb2dc75abb4ef0ebb6c52b9c6dea69d4ad862dcaa61585cd469a5823df"
-      },
       "25_1_0_NeoForge_": {
         "name": "Xaeros_Minimap_25.1.0_NeoForge_1.20.2.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/XxumVxmL/Xaeros_Minimap_25.1.0_NeoForge_1.20.2.jar",
         "sha512": "ebecc1c5093bb122b974f2ab4ec8f0a3cdbdc791266192217ae84ec21915cd2d17276ea0d38bdb8c26c898406f4ea5e3adb1bd255b55e10e7a8d6a8fbb0b96ea"
+      },
+      "25_1_0_Forge_": {
+        "name": "Xaeros_Minimap_25.1.0_Forge_1.20.2.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/vmDgMVyb/Xaeros_Minimap_25.1.0_Forge_1.20.2.jar",
+        "sha512": "2fa3fcb100caa4d5eb4794fdf60425d03cab3fe74079ac5d4f74b09ed5e005b0d5493ddb2dc75abb4ef0ebb6c52b9c6dea69d4ad862dcaa61585cd469a5823df"
       },
       "25_0_0_Forge_": {
         "name": "Xaeros_Minimap_25.0.0_Forge_1.20.2.jar",
@@ -5187,9 +5187,29 @@
     },
     "1_20": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_Forge_1.20.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/33Ak0hoU/Xaeros_Minimap_25.3.2_Forge_1.20.jar",
-        "sha512": "a4188f0ae4e89d917bac55524e0ec96dc46588bf4fb2b7633a5b0289e1e30b624465dffec127b24419f639199c02fe1afc9074af9204c82bb71e0f213b85ce5a"
+        "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/iMXAV165/xaerominimap-forge-1.20.1-25.3.10.jar",
+        "sha512": "ad7d8e38419c91f77ac09a77c3972256977458ef50c5560b1d11f293b2a6ff4d04dee8ebfaa2688776c3db9a64e946f835229ebd0d89391e39bee5ad16bebd0a"
+      },
+      "forge_1-25_3_10": {
+        "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/iMXAV165/xaerominimap-forge-1.20.1-25.3.10.jar",
+        "sha512": "ad7d8e38419c91f77ac09a77c3972256977458ef50c5560b1d11f293b2a6ff4d04dee8ebfaa2688776c3db9a64e946f835229ebd0d89391e39bee5ad16bebd0a"
+      },
+      "forge_1-25_3_9": {
+        "name": "xaerominimap-forge-1.20.1-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/iKFd6gwm/xaerominimap-forge-1.20.1-25.3.9.jar",
+        "sha512": "c5e9660e5a5a2739cb0699886b4197c50c38700e9fe62364584a35680a9641b94a070c883eb42426635dec7e3bbfda07fb5acee0eb8953eaa5277bddee3f3d67"
+      },
+      "forge_1-25_3_7": {
+        "name": "xaerominimap-forge-1.20.1-25.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/oJfy1fNM/xaerominimap-forge-1.20.1-25.3.7.jar",
+        "sha512": "401a23d24d3897566a46989c42ab4a049f4d55175a9138ce7565c8babd9cdbb29d9786128815b5c624f293fbba0bebdec34db68d257d46a421d28835f9d4fd0a"
+      },
+      "forge_1-25_3_5": {
+        "name": "xaerominimap-forge-1.20.1-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/8SbF22u3/xaerominimap-forge-1.20.1-25.3.5.jar",
+        "sha512": "0811f254ad5c764e3d9f1a00c3eb2840ed470dc3919f345bfefe6dc3f327c909ca07b847979c22e2ffba3a5d62712a4cbe8619e7b3a1695a1b67e4ae2a1fb148"
       },
       "25_3_2_Forge_": {
         "name": "Xaeros_Minimap_25.3.2_Forge_1.20.jar",
@@ -5355,26 +5375,6 @@
         "name": "Xaeros_Minimap_23.4.4_Forge_1.20.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/ETOFR9KA/Xaeros_Minimap_23.4.4_Forge_1.20.jar",
         "sha512": "ce487081964c0b87b21cf59522fc3a96f4bb201480b3e0cbde1279803b984396cc4961b5f844dcd7d79ce5971bbebc81bc87bf3a8f791af367b6dcb5839bdc66"
-      },
-      "forge_1-25_3_10": {
-        "name": "xaerominimap-forge-1.20.1-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/iMXAV165/xaerominimap-forge-1.20.1-25.3.10.jar",
-        "sha512": "ad7d8e38419c91f77ac09a77c3972256977458ef50c5560b1d11f293b2a6ff4d04dee8ebfaa2688776c3db9a64e946f835229ebd0d89391e39bee5ad16bebd0a"
-      },
-      "forge_1-25_3_9": {
-        "name": "xaerominimap-forge-1.20.1-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/iKFd6gwm/xaerominimap-forge-1.20.1-25.3.9.jar",
-        "sha512": "c5e9660e5a5a2739cb0699886b4197c50c38700e9fe62364584a35680a9641b94a070c883eb42426635dec7e3bbfda07fb5acee0eb8953eaa5277bddee3f3d67"
-      },
-      "forge_1-25_3_7": {
-        "name": "xaerominimap-forge-1.20.1-25.3.7.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/oJfy1fNM/xaerominimap-forge-1.20.1-25.3.7.jar",
-        "sha512": "401a23d24d3897566a46989c42ab4a049f4d55175a9138ce7565c8babd9cdbb29d9786128815b5c624f293fbba0bebdec34db68d257d46a421d28835f9d4fd0a"
-      },
-      "forge_1-25_3_5": {
-        "name": "xaerominimap-forge-1.20.1-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/8SbF22u3/xaerominimap-forge-1.20.1-25.3.5.jar",
-        "sha512": "0811f254ad5c764e3d9f1a00c3eb2840ed470dc3919f345bfefe6dc3f327c909ca07b847979c22e2ffba3a5d62712a4cbe8619e7b3a1695a1b67e4ae2a1fb148"
       }
     },
     "1_19_4": {
@@ -5855,9 +5855,29 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_Forge_1.19.1.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/P8BoHnhx/Xaeros_Minimap_25.3.2_Forge_1.19.1.jar",
-        "sha512": "4196ad9ff3383ad8dce1c8c8579de725d5db353f0d5470d42166ef4115a57fd5244483a8e666bc13aaf191cb801ce1c61c76786254b86579ab5ae54ee058d51c"
+        "name": "xaerominimap-forge-1.19.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/dp3BhGn8/xaerominimap-forge-1.19.2-25.3.10.jar",
+        "sha512": "b61e373523968c19a0b1d2481b1b0ee97708f5e1d3db6a8169fe43b9995dcad5a8c1e3bb200463bdd6cd1002cfc28a89c6299e42e247f2a895b7f028dd83220b"
+      },
+      "forge-1_19_2-25_3_10": {
+        "name": "xaerominimap-forge-1.19.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/dp3BhGn8/xaerominimap-forge-1.19.2-25.3.10.jar",
+        "sha512": "b61e373523968c19a0b1d2481b1b0ee97708f5e1d3db6a8169fe43b9995dcad5a8c1e3bb200463bdd6cd1002cfc28a89c6299e42e247f2a895b7f028dd83220b"
+      },
+      "forge-1_19_2-25_3_9": {
+        "name": "xaerominimap-forge-1.19.2-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Wy7UXEZb/xaerominimap-forge-1.19.2-25.3.9.jar",
+        "sha512": "a4a8cab94b9e41f2135c41536662910f8434d43a791d4386ecc1d46313475858ba5670e9d92ddeab6df4cd7cd43d4eeea5f78138506da405f131fc4bdb9dda81"
+      },
+      "forge-1_19_2-25_3_7": {
+        "name": "xaerominimap-forge-1.19.2-25.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/suejh48l/xaerominimap-forge-1.19.2-25.3.7.jar",
+        "sha512": "8c178c2da14e51c0c836e0a83eb63a530661f7e0ed454b507ce9f47aa572df3ba80e0cd7dad0d9dbb9aa038331e692692919fdee9d8186073cf83bb5a15d8697"
+      },
+      "forge-1_19_2-25_3_5": {
+        "name": "xaerominimap-forge-1.19.2-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/eoV8DGuv/xaerominimap-forge-1.19.2-25.3.5.jar",
+        "sha512": "f3d6ab007c2aed535c2b758dbbd29b7111b7f00f19e29ff55a61d2f8227785c630acdc97feef896bd9753d67feffbcdbbe7759f1ed08b89f2d58c35bf77836ca"
       },
       "25_3_2_Forge_": {
         "name": "Xaeros_Minimap_25.3.2_Forge_1.19.1.jar",
@@ -6038,26 +6058,6 @@
         "name": "Xaeros_Minimap_23.4.0_Forge_1.19.1.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/9zye2qw4/Xaeros_Minimap_23.4.0_Forge_1.19.1.jar",
         "sha512": "f805ef13c48f65e31b52dd372b4e4fc78f68b6c6f99672e32915ce5c7b93a1defb6bb416694b130859c0ec4484012567f9094fee8736acbae81d6b9a1a0b2c60"
-      },
-      "forge-1_19_2-25_3_10": {
-        "name": "xaerominimap-forge-1.19.2-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/dp3BhGn8/xaerominimap-forge-1.19.2-25.3.10.jar",
-        "sha512": "b61e373523968c19a0b1d2481b1b0ee97708f5e1d3db6a8169fe43b9995dcad5a8c1e3bb200463bdd6cd1002cfc28a89c6299e42e247f2a895b7f028dd83220b"
-      },
-      "forge-1_19_2-25_3_9": {
-        "name": "xaerominimap-forge-1.19.2-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Wy7UXEZb/xaerominimap-forge-1.19.2-25.3.9.jar",
-        "sha512": "a4a8cab94b9e41f2135c41536662910f8434d43a791d4386ecc1d46313475858ba5670e9d92ddeab6df4cd7cd43d4eeea5f78138506da405f131fc4bdb9dda81"
-      },
-      "forge-1_19_2-25_3_7": {
-        "name": "xaerominimap-forge-1.19.2-25.3.7.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/suejh48l/xaerominimap-forge-1.19.2-25.3.7.jar",
-        "sha512": "8c178c2da14e51c0c836e0a83eb63a530661f7e0ed454b507ce9f47aa572df3ba80e0cd7dad0d9dbb9aa038331e692692919fdee9d8186073cf83bb5a15d8697"
-      },
-      "forge-1_19_2-25_3_5": {
-        "name": "xaerominimap-forge-1.19.2-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/eoV8DGuv/xaerominimap-forge-1.19.2-25.3.5.jar",
-        "sha512": "f3d6ab007c2aed535c2b758dbbd29b7111b7f00f19e29ff55a61d2f8227785c630acdc97feef896bd9753d67feffbcdbbe7759f1ed08b89f2d58c35bf77836ca"
       }
     },
     "1_18_2": {
@@ -6447,8 +6447,8 @@
       },
       "24_4_0_Forge_": {
         "name": "Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rBMvNMgt/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "sha512": "9d5dcd92b727f4697918e77d00dafe6c86d4390cd06407b718f644bb40f4e19f4416106e44ae9769c40ca002957b953e914dd6d1ff3da1988b260c1ed5faca71"
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/joU7eDLa/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
+        "sha512": "2095272997d0ee34d77f783db23dc465fe1bb12c438bd2bab94a3b46b21b0b944cf5376511c24a206f998d8a45ba9bf17f10a23aa4d65fcb30e471228ad10161"
       },
       "24_3_0_Forge_": {
         "name": "Xaeros_Minimap_24.3.0_Forge_1.16.5.jar",
@@ -6599,8 +6599,8 @@
       },
       "24_4_0_Forge_1_16_5": {
         "name": "Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rBMvNMgt/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "sha512": "9d5dcd92b727f4697918e77d00dafe6c86d4390cd06407b718f644bb40f4e19f4416106e44ae9769c40ca002957b953e914dd6d1ff3da1988b260c1ed5faca71"
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/joU7eDLa/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
+        "sha512": "2095272997d0ee34d77f783db23dc465fe1bb12c438bd2bab94a3b46b21b0b944cf5376511c24a206f998d8a45ba9bf17f10a23aa4d65fcb30e471228ad10161"
       },
       "24_3_0_Forge_1_16_5": {
         "name": "Xaeros_Minimap_24.3.0_Forge_1.16.5.jar",
@@ -6751,8 +6751,8 @@
       },
       "24_4_0_Forge_1_16_5": {
         "name": "Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rBMvNMgt/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "sha512": "9d5dcd92b727f4697918e77d00dafe6c86d4390cd06407b718f644bb40f4e19f4416106e44ae9769c40ca002957b953e914dd6d1ff3da1988b260c1ed5faca71"
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/joU7eDLa/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
+        "sha512": "2095272997d0ee34d77f783db23dc465fe1bb12c438bd2bab94a3b46b21b0b944cf5376511c24a206f998d8a45ba9bf17f10a23aa4d65fcb30e471228ad10161"
       },
       "24_3_0_Forge_1_16_5": {
         "name": "Xaeros_Minimap_24.3.0_Forge_1.16.5.jar",
@@ -6903,8 +6903,8 @@
       },
       "24_4_0_Forge_1_16_5": {
         "name": "Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rBMvNMgt/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
-        "sha512": "9d5dcd92b727f4697918e77d00dafe6c86d4390cd06407b718f644bb40f4e19f4416106e44ae9769c40ca002957b953e914dd6d1ff3da1988b260c1ed5faca71"
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/joU7eDLa/Xaeros_Minimap_24.4.0_Forge_1.16.5.jar",
+        "sha512": "2095272997d0ee34d77f783db23dc465fe1bb12c438bd2bab94a3b46b21b0b944cf5376511c24a206f998d8a45ba9bf17f10a23aa4d65fcb30e471228ad10161"
       },
       "24_3_0_Forge_1_16_5": {
         "name": "Xaeros_Minimap_24.3.0_Forge_1.16.5.jar",
@@ -8709,9 +8709,29 @@
     },
     "1_20": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_Fabric_1.20.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/jcQ3zpWh/Xaeros_Minimap_25.3.2_Fabric_1.20.jar",
-        "sha512": "4c5a0382d23140f7620dfc340d2c63f94102b7cde808cf96a06a1f734211c21317597fb55a22fe541e66049e3688b18068ebad0585c542f712aad4141ba78c9f"
+        "name": "xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7wlcmhtN/xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "sha512": "9dfdc116a9ecec65547cbf9f0a9a1b2cb261d081c565c7e98bacec21dd6561323cdce7ab4837e5d1080a2ba392e125586005043ac95ded68892469b7b5d11f4a"
+      },
+      "fabric_1-25_3_10": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7wlcmhtN/xaerominimap-fabric-1.20.1-25.3.10.jar",
+        "sha512": "9dfdc116a9ecec65547cbf9f0a9a1b2cb261d081c565c7e98bacec21dd6561323cdce7ab4837e5d1080a2ba392e125586005043ac95ded68892469b7b5d11f4a"
+      },
+      "fabric_1-25_3_9": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rcRP4SQh/xaerominimap-fabric-1.20.1-25.3.9.jar",
+        "sha512": "b0fc74979a734cb68987de80a80c11ed8e4f3f35ab8c1cb733032dfbde614901afb84fe90e57fe728900143fbbaf2c40bb08f7f132a546f1dc8069881166b6c2"
+      },
+      "fabric_1-25_3_7": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/UJOJu5Vz/xaerominimap-fabric-1.20.1-25.3.7.jar",
+        "sha512": "93d6da324e52f64623bbdb4d95017f0266f1f2f8346498d529cdaac6b67424d680b7dad038b2492632458d540f4455aad783c7ef8373bc3c6b573119dbf86688"
+      },
+      "fabric_1-25_3_5": {
+        "name": "xaerominimap-fabric-1.20.1-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/6MQBeVDz/xaerominimap-fabric-1.20.1-25.3.5.jar",
+        "sha512": "a19fc789f42d1362d0ddef791f03d68d9916989ed9fb15f3c61f0e2c14ef5860f94d755864ac928168b27e50b3e74738b9436a124ed33e8ff7e88cc9f5ca9785"
       },
       "25_3_2_Fabric_": {
         "name": "Xaeros_Minimap_25.3.2_Fabric_1.20.jar",
@@ -8882,26 +8902,6 @@
         "name": "Xaeros_Minimap_23.4.4_Fabric_1.20.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/I8fXehdE/Xaeros_Minimap_23.4.4_Fabric_1.20.jar",
         "sha512": "143efc89b5a11437c52b10c8872b184f4818f7262d73c69bfb0a8254e68826221bb9a4deb436b32426b99b5b99656cced5c9d2e33b97e6b1492d585b72d75f73"
-      },
-      "fabric_1-25_3_10": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/7wlcmhtN/xaerominimap-fabric-1.20.1-25.3.10.jar",
-        "sha512": "9dfdc116a9ecec65547cbf9f0a9a1b2cb261d081c565c7e98bacec21dd6561323cdce7ab4837e5d1080a2ba392e125586005043ac95ded68892469b7b5d11f4a"
-      },
-      "fabric_1-25_3_9": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/rcRP4SQh/xaerominimap-fabric-1.20.1-25.3.9.jar",
-        "sha512": "b0fc74979a734cb68987de80a80c11ed8e4f3f35ab8c1cb733032dfbde614901afb84fe90e57fe728900143fbbaf2c40bb08f7f132a546f1dc8069881166b6c2"
-      },
-      "fabric_1-25_3_7": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.7.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/UJOJu5Vz/xaerominimap-fabric-1.20.1-25.3.7.jar",
-        "sha512": "93d6da324e52f64623bbdb4d95017f0266f1f2f8346498d529cdaac6b67424d680b7dad038b2492632458d540f4455aad783c7ef8373bc3c6b573119dbf86688"
-      },
-      "fabric_1-25_3_5": {
-        "name": "xaerominimap-fabric-1.20.1-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/6MQBeVDz/xaerominimap-fabric-1.20.1-25.3.5.jar",
-        "sha512": "a19fc789f42d1362d0ddef791f03d68d9916989ed9fb15f3c61f0e2c14ef5860f94d755864ac928168b27e50b3e74738b9436a124ed33e8ff7e88cc9f5ca9785"
       }
     },
     "1_19_4": {
@@ -9397,9 +9397,29 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "Xaeros_Minimap_25.3.2_Fabric_1.19.1.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/qSgYmsyz/Xaeros_Minimap_25.3.2_Fabric_1.19.1.jar",
-        "sha512": "4377668a4b61cd7507c3147898a07c267116aac097204524f952780f13835404d2f7bec4fef1abc4b4b4ddcb134f0e31cfd7cc54dfcc0aac3f09b5ebbdca4760"
+        "name": "xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Gx6yn9HQ/xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "sha512": "585749ed0c9e6ca95fa1dd9935195c10880403f9caeefc73d7f4c819510dc31c2fca58f6e504f067b24cfa0ac0c34dad278ce81c29756bc678f6b4865e976bfb"
+      },
+      "fabric-1_19_2-25_3_10": {
+        "name": "xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Gx6yn9HQ/xaerominimap-fabric-1.19.2-25.3.10.jar",
+        "sha512": "585749ed0c9e6ca95fa1dd9935195c10880403f9caeefc73d7f4c819510dc31c2fca58f6e504f067b24cfa0ac0c34dad278ce81c29756bc678f6b4865e976bfb"
+      },
+      "fabric-1_19_2-25_3_9": {
+        "name": "xaerominimap-fabric-1.19.2-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/q53Wo7s4/xaerominimap-fabric-1.19.2-25.3.9.jar",
+        "sha512": "dcb7d86567509e00709c1dab6eca4f5e16ec0cb0d078b972c412d2eee6a6bdfa0bbf382ffbe7b79dbccb4a068b22e0f510c2043b3a27d1c14e399b47cf6aa604"
+      },
+      "fabric-1_19_2-25_3_7": {
+        "name": "xaerominimap-fabric-1.19.2-25.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Pr7u15HG/xaerominimap-fabric-1.19.2-25.3.7.jar",
+        "sha512": "e4efe075975d6aeb3662d894e708ce5a781de193536277cbc0da7d124831fa09ee3aa1471f3cbe0d6800174bb4e3363ac763a5b816d5ae6169d1bbcf36adde0f"
+      },
+      "fabric-1_19_2-25_3_5": {
+        "name": "xaerominimap-fabric-1.19.2-25.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/F0jrcYdR/xaerominimap-fabric-1.19.2-25.3.5.jar",
+        "sha512": "5d03b8d9bf4ed2f721e9e6d7317e20172c2126383eff31ceddafa003245a428874113a2b83f48b041d413bf72c5d4875104925a4617e4ca480fe5727ccfcf451"
       },
       "25_3_2_Fabric_": {
         "name": "Xaeros_Minimap_25.3.2_Fabric_1.19.1.jar",
@@ -9585,26 +9605,6 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.19.1.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/FojbYoas/Xaeros_Minimap_23.4.0_Fabric_1.19.1.jar",
         "sha512": "eeee2986247918a08e5036bf62d177924a93a911b7305a56e64a84730a73e8e339cae01e2eb17502ce3a0c0a976f14d966e7908f221a38a605211b1fbd6a67a9"
-      },
-      "fabric-1_19_2-25_3_10": {
-        "name": "xaerominimap-fabric-1.19.2-25.3.10.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Gx6yn9HQ/xaerominimap-fabric-1.19.2-25.3.10.jar",
-        "sha512": "585749ed0c9e6ca95fa1dd9935195c10880403f9caeefc73d7f4c819510dc31c2fca58f6e504f067b24cfa0ac0c34dad278ce81c29756bc678f6b4865e976bfb"
-      },
-      "fabric-1_19_2-25_3_9": {
-        "name": "xaerominimap-fabric-1.19.2-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/q53Wo7s4/xaerominimap-fabric-1.19.2-25.3.9.jar",
-        "sha512": "dcb7d86567509e00709c1dab6eca4f5e16ec0cb0d078b972c412d2eee6a6bdfa0bbf382ffbe7b79dbccb4a068b22e0f510c2043b3a27d1c14e399b47cf6aa604"
-      },
-      "fabric-1_19_2-25_3_7": {
-        "name": "xaerominimap-fabric-1.19.2-25.3.7.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Pr7u15HG/xaerominimap-fabric-1.19.2-25.3.7.jar",
-        "sha512": "e4efe075975d6aeb3662d894e708ce5a781de193536277cbc0da7d124831fa09ee3aa1471f3cbe0d6800174bb4e3363ac763a5b816d5ae6169d1bbcf36adde0f"
-      },
-      "fabric-1_19_2-25_3_5": {
-        "name": "xaerominimap-fabric-1.19.2-25.3.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/F0jrcYdR/xaerominimap-fabric-1.19.2-25.3.5.jar",
-        "sha512": "5d03b8d9bf4ed2f721e9e6d7317e20172c2126383eff31ceddafa003245a428874113a2b83f48b041d413bf72c5d4875104925a4617e4ca480fe5727ccfcf451"
       }
     },
     "1_18_2": {
@@ -10237,9 +10237,14 @@
     },
     "1_16_4": {
       "latest": {
-        "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/O9t3Scfw/Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "sha512": "19e1928b68d2560911e5a2c35ce7040c1c29eefb95cc61b1e00a0afc9d0341cad539b8f14ad1cf2810e3cfd88ccf6082df18c994a470b1c9c40b389c272004bd"
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
+      },
+      "fabric-1_16_5-25_3_9": {
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       },
       "24_6_1_Fabric_1_16_5": {
         "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
@@ -10385,18 +10390,18 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lC4hcOVE/Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "sha512": "5c5539256c9515ecd32530937b005dd860dcc21ac840844221f29865cf9e3dbc909553df3f388a2442f89e96049caa7536c978afb31995d024bae257f263567e"
-      },
-      "fabric-1_16_5-25_3_9": {
-        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       }
     },
     "1_16_3": {
       "latest": {
-        "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/O9t3Scfw/Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "sha512": "19e1928b68d2560911e5a2c35ce7040c1c29eefb95cc61b1e00a0afc9d0341cad539b8f14ad1cf2810e3cfd88ccf6082df18c994a470b1c9c40b389c272004bd"
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
+      },
+      "fabric-1_16_5-25_3_9": {
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       },
       "24_6_1_Fabric_1_16_5": {
         "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
@@ -10542,18 +10547,18 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lC4hcOVE/Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "sha512": "5c5539256c9515ecd32530937b005dd860dcc21ac840844221f29865cf9e3dbc909553df3f388a2442f89e96049caa7536c978afb31995d024bae257f263567e"
-      },
-      "fabric-1_16_5-25_3_9": {
-        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       }
     },
     "1_16_2": {
       "latest": {
-        "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/O9t3Scfw/Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
-        "sha512": "19e1928b68d2560911e5a2c35ce7040c1c29eefb95cc61b1e00a0afc9d0341cad539b8f14ad1cf2810e3cfd88ccf6082df18c994a470b1c9c40b389c272004bd"
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
+      },
+      "fabric-1_16_5-25_3_9": {
+        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
+        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       },
       "24_6_1_Fabric_1_16_5": {
         "name": "Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar",
@@ -10699,11 +10704,6 @@
         "name": "Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/lC4hcOVE/Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar",
         "sha512": "5c5539256c9515ecd32530937b005dd860dcc21ac840844221f29865cf9e3dbc909553df3f388a2442f89e96049caa7536c978afb31995d024bae257f263567e"
-      },
-      "fabric-1_16_5-25_3_9": {
-        "name": "xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Sj0gjgxV/xaerominimap-fabric-1.16.5-25.3.9.jar",
-        "sha512": "d9b6b6e2f4e7e49610ab9c0226fbe698b60fc2552030afaf0c03c3922ec7461b7f39cb6c4900c2ca3c3d8dd6a66c0a0dee744c7c5e661239377b68794c3cb6ef"
       }
     }
   }

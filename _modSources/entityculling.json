@@ -588,12 +588,12 @@
     "1_20_4": {
       "latest": {
         "name": "entityculling-neoforge-1.9.5-mc1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/RL18HkhP/entityculling-neoforge-1.9.5-mc1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/PnGREVMN/entityculling-neoforge-1.9.5-mc1.20.4.jar",
         "sha512": "2067fb021e3cd398aa5966513c2a29e0c546063a81766a9cfbeab9317017f5c679eee8f15eb8b7162444e062fac2170dfd33aa0390c6b0f63e2eb31feb827948"
       },
       "1_9_5": {
         "name": "entityculling-neoforge-1.9.5-mc1.20.4.jar",
-        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/PnGREVMN/entityculling-neoforge-1.9.5-mc1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/RL18HkhP/entityculling-neoforge-1.9.5-mc1.20.4.jar",
         "sha512": "2067fb021e3cd398aa5966513c2a29e0c546063a81766a9cfbeab9317017f5c679eee8f15eb8b7162444e062fac2170dfd33aa0390c6b0f63e2eb31feb827948"
       },
       "1_9_4": {
@@ -1816,19 +1816,19 @@
     },
     "1_19": {
       "latest": {
-        "name": "entityculling-forge-1.5.2-mc1.19.jar",
-        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.19/entityculling-forge-1.5.2-mc1.19.jar",
-        "sha512": "c8925d95c85de184e0b0e5076f26062982c4e2c61f11da092a614b29ebe671c4912d110b5d55adfb2df6f82add5804b7dbb2a046d798d24e1e20cb6e9a72bb3f"
-      },
-      "1_5_2": {
-        "name": "entityculling-forge-1.5.2-mc1.19.jar",
-        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.19/entityculling-forge-1.5.2-mc1.19.jar",
-        "sha512": "c8925d95c85de184e0b0e5076f26062982c4e2c61f11da092a614b29ebe671c4912d110b5d55adfb2df6f82add5804b7dbb2a046d798d24e1e20cb6e9a72bb3f"
+        "name": "entityculling-forge-1.5.2-mc1.19.1.jar",
+        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.19-fix/entityculling-forge-1.5.2-mc1.19.1.jar",
+        "sha512": "4075d6b1614c5ab8226157e1ecb5ac159a2ac7b31f02c54ad85979e9ff028f394d984aaf63a2b9f6f3b2163a77df188f158c34abe6363a3a869d25e1ab30de32"
       },
       "1_5_2fix": {
         "name": "entityculling-forge-1.5.2-mc1.19.1.jar",
         "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.19-fix/entityculling-forge-1.5.2-mc1.19.1.jar",
         "sha512": "4075d6b1614c5ab8226157e1ecb5ac159a2ac7b31f02c54ad85979e9ff028f394d984aaf63a2b9f6f3b2163a77df188f158c34abe6363a3a869d25e1ab30de32"
+      },
+      "1_5_2": {
+        "name": "entityculling-forge-1.5.2-mc1.19.jar",
+        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.19/entityculling-forge-1.5.2-mc1.19.jar",
+        "sha512": "c8925d95c85de184e0b0e5076f26062982c4e2c61f11da092a614b29ebe671c4912d110b5d55adfb2df6f82add5804b7dbb2a046d798d24e1e20cb6e9a72bb3f"
       }
     },
     "1_18_2": {

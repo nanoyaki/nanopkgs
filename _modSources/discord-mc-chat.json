@@ -1079,6 +1079,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -1088,11 +1093,6 @@
         "name": "MCDiscordChat-2.1.3.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
       }
     },
     "1_19_3": {
@@ -1186,6 +1186,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -1196,20 +1201,15 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
-      "2_1_1": {
-        "name": "MCDiscordChat-2.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
-        "sha512": "80c2d787301e4547df6dacdb150737ee7e1fb1903549cf88a1826dde1d5e7ad23d2c99269fb5c3e492b4dbdfae40ab910924fffd32adf4f3f3c37831e8226272"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
       "1_19_3-2_1_2": {
         "name": "MCDiscordChat-1.19.3-2.1.2.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
         "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "2_1_1": {
+        "name": "MCDiscordChat-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
+        "sha512": "80c2d787301e4547df6dacdb150737ee7e1fb1903549cf88a1826dde1d5e7ad23d2c99269fb5c3e492b4dbdfae40ab910924fffd32adf4f3f3c37831e8226272"
       }
     },
     "1_19_2": {
@@ -1303,10 +1303,25 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_0": {
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -1322,21 +1337,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.8.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.8/MCDiscordChat-2.0.0-alpha.8.jar",
         "sha512": "94dfaea91e79a25352087e8702f5eb1e9a8a60e85d6b0182e75c4912779ba8ae5856404768d985c5b449d288b1e3e7cba545333bc6395fc3796694674049f86f"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_19_1": {
@@ -1415,10 +1415,25 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/tldGNWOW/MC-Discord-Chat-2.2.5.jar",
         "sha512": "1265c8fa83985ee197c7d6ba76c54501cfc9b35c2cdf686e72f0775f4d39171853918c9280c66050027c0ba3b1c5b038357671deb00fc20020ea602e64ff7c68"
       },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_0": {
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -1434,21 +1449,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.8.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.8/MCDiscordChat-2.0.0-alpha.8.jar",
         "sha512": "94dfaea91e79a25352087e8702f5eb1e9a8a60e85d6b0182e75c4912779ba8ae5856404768d985c5b449d288b1e3e7cba545333bc6395fc3796694674049f86f"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_19": {
@@ -1624,6 +1624,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -1634,6 +1639,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -1643,6 +1658,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -1668,31 +1693,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_18_1": {
@@ -1786,6 +1786,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -1796,6 +1801,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -1805,6 +1820,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -1830,31 +1855,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_18": {
@@ -1948,6 +1948,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -1958,6 +1963,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -1967,6 +1982,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -1992,31 +2017,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_17_1": {
@@ -2110,6 +2110,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -2120,6 +2125,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -2129,6 +2144,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -2154,31 +2179,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_17": {
@@ -2272,6 +2272,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -2282,6 +2287,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -2291,6 +2306,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -2316,31 +2341,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_16_5": {
@@ -2434,6 +2434,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -2444,6 +2449,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -2453,6 +2468,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -2478,31 +2503,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_16_4": {
@@ -2596,6 +2596,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -2606,6 +2611,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -2615,6 +2630,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -2640,31 +2665,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_15_2": {
@@ -2758,6 +2758,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -2768,6 +2773,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -2777,6 +2792,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -2802,31 +2827,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_14_4": {
@@ -2920,6 +2920,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -2930,6 +2935,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -2939,6 +2954,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -2964,31 +2989,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.6.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.6/MCDiscordChat-2.0.0-alpha.6.jar",
         "sha512": "4de91aee0408ae57e0adef37f522f6111faa14c2664f29a9348aea8d49cb16c85f57b3e56381daca0e3b6717cacea9e38194389e3429f6cdf59504812f3e3eaf"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     }
   },
@@ -4072,6 +4072,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -4081,11 +4086,6 @@
         "name": "MCDiscordChat-2.1.3.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
       }
     },
     "1_19_3": {
@@ -4179,6 +4179,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -4189,20 +4194,15 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
-      "2_1_1": {
-        "name": "MCDiscordChat-2.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
-        "sha512": "80c2d787301e4547df6dacdb150737ee7e1fb1903549cf88a1826dde1d5e7ad23d2c99269fb5c3e492b4dbdfae40ab910924fffd32adf4f3f3c37831e8226272"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
       "1_19_3-2_1_2": {
         "name": "MCDiscordChat-1.19.3-2.1.2.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
         "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "2_1_1": {
+        "name": "MCDiscordChat-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
+        "sha512": "80c2d787301e4547df6dacdb150737ee7e1fb1903549cf88a1826dde1d5e7ad23d2c99269fb5c3e492b4dbdfae40ab910924fffd32adf4f3f3c37831e8226272"
       }
     },
     "1_19_2": {
@@ -4296,10 +4296,25 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_0": {
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -4315,21 +4330,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.8.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.8/MCDiscordChat-2.0.0-alpha.8.jar",
         "sha512": "94dfaea91e79a25352087e8702f5eb1e9a8a60e85d6b0182e75c4912779ba8ae5856404768d985c5b449d288b1e3e7cba545333bc6395fc3796694674049f86f"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_19_1": {
@@ -4408,10 +4408,25 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/tldGNWOW/MC-Discord-Chat-2.2.5.jar",
         "sha512": "1265c8fa83985ee197c7d6ba76c54501cfc9b35c2cdf686e72f0775f4d39171853918c9280c66050027c0ba3b1c5b038357671deb00fc20020ea602e64ff7c68"
       },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_0": {
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -4427,21 +4442,6 @@
         "name": "MCDiscordChat-2.0.0-alpha.8.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.8/MCDiscordChat-2.0.0-alpha.8.jar",
         "sha512": "94dfaea91e79a25352087e8702f5eb1e9a8a60e85d6b0182e75c4912779ba8ae5856404768d985c5b449d288b1e3e7cba545333bc6395fc3796694674049f86f"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_19": {
@@ -4632,6 +4632,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -4642,6 +4647,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -4651,6 +4666,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -4701,31 +4726,6 @@
         "name": "MCDiscordChat-1.18-2.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.18/MCDiscordChat-1.18-2.0.0-alpha.1.jar",
         "sha512": "f14d2777219163628c9414447ed29c235bf6c57da6746c95f398497ceb5fd182a9731a21ad7c5da7fca96a4d0f7cec4688904c87d31b3c573d6a23ef0a0c17ee"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       },
       "1_12_1_1_18": {
         "name": "MCDiscordChat-1.18-1.12.1.jar",
@@ -4854,6 +4854,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -4864,6 +4869,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -4873,6 +4888,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -4923,31 +4948,6 @@
         "name": "MCDiscordChat-1.18-2.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.18/MCDiscordChat-1.18-2.0.0-alpha.1.jar",
         "sha512": "f14d2777219163628c9414447ed29c235bf6c57da6746c95f398497ceb5fd182a9731a21ad7c5da7fca96a4d0f7cec4688904c87d31b3c573d6a23ef0a0c17ee"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       },
       "1_12_1_1_18": {
         "name": "MCDiscordChat-1.18-1.12.1.jar",
@@ -5076,6 +5076,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -5086,6 +5091,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -5095,6 +5110,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -5145,31 +5170,6 @@
         "name": "MCDiscordChat-1.18-2.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.18/MCDiscordChat-1.18-2.0.0-alpha.1.jar",
         "sha512": "f14d2777219163628c9414447ed29c235bf6c57da6746c95f398497ceb5fd182a9731a21ad7c5da7fca96a4d0f7cec4688904c87d31b3c573d6a23ef0a0c17ee"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       },
       "1_12_1_": {
         "name": "MCDiscordChat-1.18-1.12.1.jar",
@@ -5298,6 +5298,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -5308,6 +5313,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -5317,6 +5332,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -5367,31 +5392,6 @@
         "name": "MCDiscordChat-1.17-2.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.17/MCDiscordChat-1.17-2.0.0-alpha.1.jar",
         "sha512": "41656455ce7689b0e6b3a2dd3b97d35363c14bb25e0934e1d1b4ce24d68269329f348e4e5bab7b23f770550a72727a9f7c4d18fa56972b6e71e59ac4c4107806"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       },
       "1_12_1_1_17": {
         "name": "MCDiscordChat-1.17-1.12.1.jar",
@@ -5610,6 +5610,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -5620,6 +5625,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -5629,6 +5644,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -5679,31 +5704,6 @@
         "name": "MCDiscordChat-1.17-2.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.17/MCDiscordChat-1.17-2.0.0-alpha.1.jar",
         "sha512": "41656455ce7689b0e6b3a2dd3b97d35363c14bb25e0934e1d1b4ce24d68269329f348e4e5bab7b23f770550a72727a9f7c4d18fa56972b6e71e59ac4c4107806"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       },
       "1_12_1_": {
         "name": "MCDiscordChat-1.17-1.12.1.jar",
@@ -5922,6 +5922,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -5932,6 +5937,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -5941,6 +5956,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -5986,31 +6011,6 @@
         "name": "MCDiscordChat-1.16-2.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.16/MCDiscordChat-1.16-2.0.0-alpha.1.jar",
         "sha512": "bd197bb0e430bd4006e26f9bbc81ebc7eba7aff8b8cb74565d7cf198e820a2e5ee3802a1b2354ca4ba8a746d98f61c799e685c3c838186a9bdb6fd6859c1f6c6"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       },
       "1_11_0_1_16": {
         "name": "MCDiscordChat-1.16-1.11.0.jar",
@@ -6114,6 +6114,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -6124,6 +6129,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -6133,6 +6148,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -6178,31 +6203,6 @@
         "name": "MCDiscordChat-1.16-2.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.16/MCDiscordChat-1.16-2.0.0-alpha.1.jar",
         "sha512": "bd197bb0e430bd4006e26f9bbc81ebc7eba7aff8b8cb74565d7cf198e820a2e5ee3802a1b2354ca4ba8a746d98f61c799e685c3c838186a9bdb6fd6859c1f6c6"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       },
       "1_11_0_1_16": {
         "name": "MCDiscordChat-1.16-1.11.0.jar",
@@ -6306,6 +6306,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -6316,6 +6321,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -6325,6 +6340,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -6360,31 +6385,6 @@
         "name": "MCDiscordChat-1.15.2-2.0.0-alpha.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.4_1.15/MCDiscordChat-1.15.2-2.0.0-alpha.4.jar",
         "sha512": "f46d8eed501cb8900dbb0e8c8f2f74e6123ce2a79e845c1282bd834363b1543e282ac63e78c848c6a438110c57ab67937f5372018a28cf2d9f17c7dec0111879"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     },
     "1_14_4": {
@@ -6478,6 +6478,11 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/s3vYTmUO/MCDiscordChat-2.2.0.jar",
         "sha512": "0f7a4159813c5c8c24639b0b9d9fb31486d87eb6b1ad56650450b440e2f447ad94749a90ff809f1d7abe30c66d1a098b844c4c69a8e80b40db5fab30e191fdf8"
       },
+      "1_20-2_1_4": {
+        "name": "MCDiscordChat-1.20-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
+        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
+      },
       "2_1_4": {
         "name": "MCDiscordChat-2.1.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/XWK9xoXO/MCDiscordChat-2.1.4.jar",
@@ -6488,6 +6493,16 @@
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/fLICu606/MCDiscordChat-2.1.3.jar",
         "sha512": "54b0d7d1ca8365c84bfa76357e14ec96274c2caa214b2d29f86296cfb137b1c67956e1fa97277f1ffebabb14004453c33841d7b84656621535c9e1630b1c1431"
       },
+      "1_19_3-2_1_2": {
+        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
+        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
+      },
+      "1_19_2-2_1_2": {
+        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
+        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
+      },
       "2_1_1": {
         "name": "MCDiscordChat-2.1.1.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/pPv3Xq6F/MCDiscordChat-2.1.1.jar",
@@ -6497,6 +6512,16 @@
         "name": "MCDiscordChat-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/BpgHHZbm/MCDiscordChat-2.1.0.jar",
         "sha512": "d29e619ac27f8df966b1edd20b0468db48771c88a96fca840de580a71befd83d9f5b6937e991e6493fff1f6974375f7d2428a75c2c58231905f2215d8451f055"
+      },
+      "2_0_0": {
+        "name": "MCDiscordChat-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
+        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
+      },
+      "2_0_0-rc_1": {
+        "name": "MCDiscordChat-2.0.0-rc.1.jar",
+        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
+        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
       },
       "2_0_0-alpha_10": {
         "name": "MCDiscordChat-2.0.0-alpha.10.jar",
@@ -6532,31 +6557,6 @@
         "name": "MCDiscordChat-1.14.4-2.0.0-alpha.4.jar",
         "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.4_1.14/MCDiscordChat-1.14.4-2.0.0-alpha.4.jar",
         "sha512": "36be3e14f8b5847885b2a3e1752e2df2b939a63c983496782567e529aaf1342e1c1cb6e88788cabeae5846d4b5b297bee69f84abe564f5d1aec85f1eb48f4036"
-      },
-      "2_0_0-rc_1": {
-        "name": "MCDiscordChat-2.0.0-rc.1.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/TOUtdvRY/MCDiscordChat-2.0.0-rc.1.jar",
-        "sha512": "f377499f4b2969727ac7d2d5a77e91a3d65c269fa929c53dae1b6cc65d71e372ca504efdb1c7803b9a9e5e39c8543f94e0aa4b6963a0dafc2945570d99069d61"
-      },
-      "2_0_0": {
-        "name": "MCDiscordChat-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/qdchULd2/MCDiscordChat-2.0.0.jar",
-        "sha512": "7a916ff5ed4f237b04d8001a25b13545e2f0bfa63804979b21efb462f6002bb2c03a8218dd8547132d6585ecb934e700b246861cceadeca0764d96f2d8837e2e"
-      },
-      "1_20-2_1_4": {
-        "name": "MCDiscordChat-1.20-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar",
-        "sha512": "f4e4141c03705259d701e822cfee861c2de2d15ffea4b076693ffe5c2fe9ae61b70c7bef8eee148286b8e0eba7568ee58518dadd611e9f482ff34863698c7573"
-      },
-      "1_19_3-2_1_2": {
-        "name": "MCDiscordChat-1.19.3-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/KfjWYrXa/MCDiscordChat-1.19.3-2.1.2.jar",
-        "sha512": "8494f5726526e870bc7d2301e710f764f8dba0913de09e73c9b3bc09a2a1b0907d2a2fe8b24c3da96e40f6c5273d3948d9ddd49fe90a2ba449560493b778a28f"
-      },
-      "1_19_2-2_1_2": {
-        "name": "MCDiscordChat-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/D0sHdnXY/versions/JkO4CnWv/MCDiscordChat-1.19.2-2.1.2.jar",
-        "sha512": "39bda0eb30ec75f77141bb5ed37db4b18c180242856580d109617ca9d0bf51789160ddf80bc620d7c04f23bbcd88a8b404e998f0352d305a03027d09fa3dec98"
       }
     }
   }

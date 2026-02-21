@@ -33,19 +33,9 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "Quark-4.0-458.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/J3etK5WK/Quark-4.0-458.jar",
-        "sha512": "bee68b5f5c1a0608e20b8f06166d574c6bba1e2f10e5aef4e94928257698f817212f09a499e053486b0473f56b15380bc08c7c29118fb8806e3209a568cb1548"
-      },
-      "4_0-458": {
-        "name": "Quark-4.0-458.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/J3etK5WK/Quark-4.0-458.jar",
-        "sha512": "bee68b5f5c1a0608e20b8f06166d574c6bba1e2f10e5aef4e94928257698f817212f09a499e053486b0473f56b15380bc08c7c29118fb8806e3209a568cb1548"
-      },
-      "4_0-450": {
-        "name": "Quark-4.0-450.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/iRvSixz9/Quark-4.0-450.jar",
-        "sha512": "c63f7562242a864f68fb7f52bd5aee0c588f484fe4a49417f4ba3a060011c4cdeaaa326301b02a1bf7f206c118eebf941e35342161e7508b762e0f0c5154b320"
+        "name": "Quark-4.0-462.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar",
+        "sha512": "585b182ccd51066e841141c9bc74fe8b820df86119828b7542b56771c3fcaf8bcc92f9d67f4e87736e82a45bb9166f71c015b95e230f964215290707b6475eed"
       },
       "1_20_1-4_0-462": {
         "name": "Quark-4.0-462.jar",
@@ -66,6 +56,11 @@
         "name": "Quark-4.0-459.jar",
         "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/EuOnf9qn/Quark-4.0-459.jar",
         "sha512": "736a6e8f85cdb3be2ed4c6ccdc0bc8a17fd09f7731918456b2392439d600b91dd6a6245a83eb72c38d08d335b0882a66a47e3795bd2f173453ea1f6657f79be6"
+      },
+      "4_0-458": {
+        "name": "Quark-4.0-458.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/J3etK5WK/Quark-4.0-458.jar",
+        "sha512": "bee68b5f5c1a0608e20b8f06166d574c6bba1e2f10e5aef4e94928257698f817212f09a499e053486b0473f56b15380bc08c7c29118fb8806e3209a568cb1548"
       },
       "1_20_1-4_0-457": {
         "name": "Quark-4.0-457.jar",
@@ -91,6 +86,11 @@
         "name": "Quark-4.0-450.jar",
         "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/wnlS2qGl/Quark-4.0-450.jar",
         "sha512": "3071c941e5cda08d2cf9ec554268edbf970de11769d5ac319885cbd8af0809c927815f6b8c45dac15a07c6cc22a2d91f03993399f2c42ea6ccbedc8197690d94"
+      },
+      "4_0-450": {
+        "name": "Quark-4.0-450.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/iRvSixz9/Quark-4.0-450.jar",
+        "sha512": "c63f7562242a864f68fb7f52bd5aee0c588f484fe4a49417f4ba3a060011c4cdeaaa326301b02a1bf7f206c118eebf941e35342161e7508b762e0f0c5154b320"
       },
       "1_20_1-4_0-449": {
         "name": "Quark-4.0-449.jar",
@@ -160,9 +160,89 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "Quark-3.4-402.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/qNOl7hL2/Quark-3.4-402.jar",
-        "sha512": "233dcb36a6227ba02abd6283bd6d072c532a43bcbe54420f694e1bbbe0a74582c333588f22b96b92da7d9a2470cbb0432923921a40dba0dfa2405420194e4d9b"
+        "name": "Quark-3.4-418.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/8po5DGR8/Quark-3.4-418.jar",
+        "sha512": "716a0b27b62c8870aceb11ef3c5a44d479d700b14163e6f5e52d3e4d380659e49d07971d4502f68f20fc0477cb5bb94f69abab0ca862b6952d9e58985b7ca953"
+      },
+      "1_19_2-3_4-418": {
+        "name": "Quark-3.4-418.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/8po5DGR8/Quark-3.4-418.jar",
+        "sha512": "716a0b27b62c8870aceb11ef3c5a44d479d700b14163e6f5e52d3e4d380659e49d07971d4502f68f20fc0477cb5bb94f69abab0ca862b6952d9e58985b7ca953"
+      },
+      "1_19_2-3_4-417": {
+        "name": "Quark-3.4-417.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/M1mbFwiX/Quark-3.4-417.jar",
+        "sha512": "f5fe137c26b742e37ebe994b12aa30373b75bd41e9adedec644b8367ef2c6c6dd9bdbc409b165f0890f9a5fe3e0db7decba6d27c9bd1acf6188949402067ee33"
+      },
+      "1_19_2-3_4-416": {
+        "name": "Quark-3.4-416.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/ZqUi5HxP/Quark-3.4-416.jar",
+        "sha512": "d6a50ef7ef3799f4b29fd405d0de6d2c1c756e9d079885865f0ce84e3f593d75e9f0f2ee9435cebd20ccf13f8dafda59bc98b2409b813e09195fd0c84d624dbf"
+      },
+      "1_19_2-3_4-415": {
+        "name": "Quark-3.4-415.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/mxjAPHWr/Quark-3.4-415.jar",
+        "sha512": "297b47c2adcdb7686394d9e54803b9c15790747759984b78ea1db259f892aa7c6d5d2d16f887ed97d3d4676641c4f0f11844ae5d4e998071949779e538fc4494"
+      },
+      "1_19_2-3_4-414": {
+        "name": "Quark-3.4-414.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/nYJW7kfd/Quark-3.4-414.jar",
+        "sha512": "397aefa0de87b943449e1b86bb7bf31a3a2d68d43e4100ddfcae601a1a1d5904494563a20efd6131d5cf87b5aa48c7d23f7e9b7d6ce8ccc1f90bf147249669a6"
+      },
+      "1_19_2-3_4-413": {
+        "name": "Quark-3.4-413.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/2y7uLplb/Quark-3.4-413.jar",
+        "sha512": "088b9023a91557bf8b23a0d8d07d918a15920262c153d29cabe4e5d2b08d8f026416ebb08c01eb78005fadaf4ab57fe6749bfc3cccd3cb6f8e8deb2be6a0f729"
+      },
+      "1_19_2-3_4-412": {
+        "name": "Quark-3.4-412.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/Bz5rycUV/Quark-3.4-412.jar",
+        "sha512": "7a8f1c42be9cd1ab0db7464817792bb3a1a71cfd3b0b8387375f422c02d098df5d62962bf7c870c5dbb03aa5bf1b173f389fce9db78a55d3c96f65879181683c"
+      },
+      "1_19_2-3_4-411": {
+        "name": "Quark-3.4-411.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/stYFI7Km/Quark-3.4-411.jar",
+        "sha512": "f6c690fc9090db172873fd255b72be42f74df8f685401a0e72ae1c88e2760276dc3779459950032334677877fafc67363b342b98eea96cbebc19bfb1b0b64d99"
+      },
+      "1_19_2-3_4-410": {
+        "name": "Quark-3.4-410.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/htdpIhCQ/Quark-3.4-410.jar",
+        "sha512": "f17d4639a1a2f24a46b1203cf6e30e2709b7db4cfff2ca81173cf9ef43e853c5b69639cf774bfc7769c4fcb09db8d3acca3038f9faf4fedbb890fef7c2822e21"
+      },
+      "1_19_2-3_4-409": {
+        "name": "Quark-3.4-409.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/QipVljYx/Quark-3.4-409.jar",
+        "sha512": "ba542e00d1228a07a91dab8ca958e76c3f79aca223b5034de2f41028156a6e78a877e57a5e85a411ea0748c04459248d44ffebdbac2e8c5abd18c05f14d56f51"
+      },
+      "1_19_2-3_4-408": {
+        "name": "Quark-3.4-408.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/l56EicrO/Quark-3.4-408.jar",
+        "sha512": "f023955d714759175a9d4c8d673319130aa832628126609614c2d1c4a3c549e637ed4415251619abe1f96058861fe2a2d93bdb4d1c30651217dace736c1abaaf"
+      },
+      "1_19_2-3_4-407": {
+        "name": "Quark-3.4-407.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/zyvZoGBo/Quark-3.4-407.jar",
+        "sha512": "30ce90d4344e0a335e6ede2f899940173a11afdf4021a71fe08d79615fca7595c5008e3bea98ab9803d2e51898c5184a3a61a0d7242b048b8fce8d64c7290563"
+      },
+      "1_19_2-3_4-406": {
+        "name": "Quark-3.4-406.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/8B3wEsDO/Quark-3.4-406.jar",
+        "sha512": "c0dc6e0eb89752f75f5136b2573069a871ee8565dd29030e1ca9eec0fc1966aebf6da7f2e82d323a3392bffe372e510b09303cd8f130d5d3a2902fee24f1dc18"
+      },
+      "1_19_2-3_4-405": {
+        "name": "Quark-3.4-405.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/Vjf1btuB/Quark-3.4-405.jar",
+        "sha512": "c5fb64a6869944a0e5f6f7d81a60e6a6674885cc00ff8664d70c32b97e2793d6ec8a268b4a3ec4f26b7ebd88dfea7d8cb87762e6fadf64d5d7b19c6f3f2fe1b6"
+      },
+      "1_19_2-3_4-404": {
+        "name": "Quark-3.4-404.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/SabfrHOJ/Quark-3.4-404.jar",
+        "sha512": "ee5f75b79c39a69af0a3b830ec26c03ff3ba4bd02b70e205dba918334be2aa7924d4cebe03662bab56a5920e29421ac1954be277ce6ee7e0a1e1d62ecd83ecb6"
+      },
+      "1_19_2-3_4-403": {
+        "name": "Quark-3.4-403.jar",
+        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/JXifdD4Q/Quark-3.4-403.jar",
+        "sha512": "e2b0ef45cf3a8cc86e3d7d35aa71e44987b0a1e01b136f74212ed13750311eed9715bad77df9b6a5c8c384739b5299b27557f4c0f37a2cd747489a7bb0b90b5a"
       },
       "3_4-402": {
         "name": "Quark-3.4-402.jar",
@@ -283,86 +363,6 @@
         "name": "Quark-3.3-371.jar",
         "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/NBd2DS3z/Quark-3.3-371.jar",
         "sha512": "f7058bcd33ab1cc84b4c8336c9ba138433ab7f6bc90652ea5da2b1f8fca966d05764aa4ac600f9b3d4ee6b6822d29027615760478405447a3cc73627ddef49a1"
-      },
-      "1_19_2-3_4-418": {
-        "name": "Quark-3.4-418.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/8po5DGR8/Quark-3.4-418.jar",
-        "sha512": "716a0b27b62c8870aceb11ef3c5a44d479d700b14163e6f5e52d3e4d380659e49d07971d4502f68f20fc0477cb5bb94f69abab0ca862b6952d9e58985b7ca953"
-      },
-      "1_19_2-3_4-417": {
-        "name": "Quark-3.4-417.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/M1mbFwiX/Quark-3.4-417.jar",
-        "sha512": "f5fe137c26b742e37ebe994b12aa30373b75bd41e9adedec644b8367ef2c6c6dd9bdbc409b165f0890f9a5fe3e0db7decba6d27c9bd1acf6188949402067ee33"
-      },
-      "1_19_2-3_4-416": {
-        "name": "Quark-3.4-416.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/ZqUi5HxP/Quark-3.4-416.jar",
-        "sha512": "d6a50ef7ef3799f4b29fd405d0de6d2c1c756e9d079885865f0ce84e3f593d75e9f0f2ee9435cebd20ccf13f8dafda59bc98b2409b813e09195fd0c84d624dbf"
-      },
-      "1_19_2-3_4-415": {
-        "name": "Quark-3.4-415.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/mxjAPHWr/Quark-3.4-415.jar",
-        "sha512": "297b47c2adcdb7686394d9e54803b9c15790747759984b78ea1db259f892aa7c6d5d2d16f887ed97d3d4676641c4f0f11844ae5d4e998071949779e538fc4494"
-      },
-      "1_19_2-3_4-414": {
-        "name": "Quark-3.4-414.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/nYJW7kfd/Quark-3.4-414.jar",
-        "sha512": "397aefa0de87b943449e1b86bb7bf31a3a2d68d43e4100ddfcae601a1a1d5904494563a20efd6131d5cf87b5aa48c7d23f7e9b7d6ce8ccc1f90bf147249669a6"
-      },
-      "1_19_2-3_4-413": {
-        "name": "Quark-3.4-413.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/2y7uLplb/Quark-3.4-413.jar",
-        "sha512": "088b9023a91557bf8b23a0d8d07d918a15920262c153d29cabe4e5d2b08d8f026416ebb08c01eb78005fadaf4ab57fe6749bfc3cccd3cb6f8e8deb2be6a0f729"
-      },
-      "1_19_2-3_4-412": {
-        "name": "Quark-3.4-412.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/Bz5rycUV/Quark-3.4-412.jar",
-        "sha512": "7a8f1c42be9cd1ab0db7464817792bb3a1a71cfd3b0b8387375f422c02d098df5d62962bf7c870c5dbb03aa5bf1b173f389fce9db78a55d3c96f65879181683c"
-      },
-      "1_19_2-3_4-411": {
-        "name": "Quark-3.4-411.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/stYFI7Km/Quark-3.4-411.jar",
-        "sha512": "f6c690fc9090db172873fd255b72be42f74df8f685401a0e72ae1c88e2760276dc3779459950032334677877fafc67363b342b98eea96cbebc19bfb1b0b64d99"
-      },
-      "1_19_2-3_4-410": {
-        "name": "Quark-3.4-410.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/htdpIhCQ/Quark-3.4-410.jar",
-        "sha512": "f17d4639a1a2f24a46b1203cf6e30e2709b7db4cfff2ca81173cf9ef43e853c5b69639cf774bfc7769c4fcb09db8d3acca3038f9faf4fedbb890fef7c2822e21"
-      },
-      "1_19_2-3_4-409": {
-        "name": "Quark-3.4-409.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/QipVljYx/Quark-3.4-409.jar",
-        "sha512": "ba542e00d1228a07a91dab8ca958e76c3f79aca223b5034de2f41028156a6e78a877e57a5e85a411ea0748c04459248d44ffebdbac2e8c5abd18c05f14d56f51"
-      },
-      "1_19_2-3_4-408": {
-        "name": "Quark-3.4-408.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/l56EicrO/Quark-3.4-408.jar",
-        "sha512": "f023955d714759175a9d4c8d673319130aa832628126609614c2d1c4a3c549e637ed4415251619abe1f96058861fe2a2d93bdb4d1c30651217dace736c1abaaf"
-      },
-      "1_19_2-3_4-407": {
-        "name": "Quark-3.4-407.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/zyvZoGBo/Quark-3.4-407.jar",
-        "sha512": "30ce90d4344e0a335e6ede2f899940173a11afdf4021a71fe08d79615fca7595c5008e3bea98ab9803d2e51898c5184a3a61a0d7242b048b8fce8d64c7290563"
-      },
-      "1_19_2-3_4-406": {
-        "name": "Quark-3.4-406.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/8B3wEsDO/Quark-3.4-406.jar",
-        "sha512": "c0dc6e0eb89752f75f5136b2573069a871ee8565dd29030e1ca9eec0fc1966aebf6da7f2e82d323a3392bffe372e510b09303cd8f130d5d3a2902fee24f1dc18"
-      },
-      "1_19_2-3_4-405": {
-        "name": "Quark-3.4-405.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/Vjf1btuB/Quark-3.4-405.jar",
-        "sha512": "c5fb64a6869944a0e5f6f7d81a60e6a6674885cc00ff8664d70c32b97e2793d6ec8a268b4a3ec4f26b7ebd88dfea7d8cb87762e6fadf64d5d7b19c6f3f2fe1b6"
-      },
-      "1_19_2-3_4-404": {
-        "name": "Quark-3.4-404.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/SabfrHOJ/Quark-3.4-404.jar",
-        "sha512": "ee5f75b79c39a69af0a3b830ec26c03ff3ba4bd02b70e205dba918334be2aa7924d4cebe03662bab56a5920e29421ac1954be277ce6ee7e0a1e1d62ecd83ecb6"
-      },
-      "1_19_2-3_4-403": {
-        "name": "Quark-3.4-403.jar",
-        "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/JXifdD4Q/Quark-3.4-403.jar",
-        "sha512": "e2b0ef45cf3a8cc86e3d7d35aa71e44987b0a1e01b136f74212ed13750311eed9715bad77df9b6a5c8c384739b5299b27557f4c0f37a2cd747489a7bb0b90b5a"
       }
     },
     "1_18_2": {

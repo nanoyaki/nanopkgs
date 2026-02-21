@@ -29,9 +29,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "lithostitched-1.5.2-neoforge-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/qH7PeRGc/lithostitched-1.5.2-neoforge-1.21.9.jar",
-        "sha512": "272188b4dad09443fef26553bdf9d2b0e4b433ba4cf1d6fb83dd089d43be593f069209cd9327fb6be0664fc4f02b40ddf575a785c07d0b43e26ebff15ac71e40"
+        "name": "lithostitched-1.5.2+patched-neoforge-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5oukMAVM/lithostitched-1.5.2%2Bpatched-neoforge-1.21.9.jar",
+        "sha512": "0eaa791ebb0b61cad94c2fe9282c0da9c9b5d8eacbdd29acdf2f476b3c64d3dfa10b370f1efb8a0dad5e58e7c96fac033078b8c392b9a89465fd78122e7bf2ed"
+      },
+      "1_5_2+patched1_21_9": {
+        "name": "lithostitched-1.5.2+patched-neoforge-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5oukMAVM/lithostitched-1.5.2%2Bpatched-neoforge-1.21.9.jar",
+        "sha512": "0eaa791ebb0b61cad94c2fe9282c0da9c9b5d8eacbdd29acdf2f476b3c64d3dfa10b370f1efb8a0dad5e58e7c96fac033078b8c392b9a89465fd78122e7bf2ed"
       },
       "1_5_21_21_9": {
         "name": "lithostitched-1.5.2-neoforge-1.21.9.jar",
@@ -42,43 +47,38 @@
         "name": "lithostitched-1.5.1-neoforge-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/sfzhADx6/lithostitched-1.5.1-neoforge-1.21.9.jar",
         "sha512": "dcc8da2c16050b10aecc3643e49aa6022e15468b98aa7d5c5ac7776d91a8dbc758131e3c83c119bf75ba3e145d6439a0aeb1c63c1dc75bead30893e9eb58b44f"
-      },
-      "1_5_2+patched1_21_9": {
-        "name": "lithostitched-1.5.2+patched-neoforge-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5oukMAVM/lithostitched-1.5.2%2Bpatched-neoforge-1.21.9.jar",
-        "sha512": "0eaa791ebb0b61cad94c2fe9282c0da9c9b5d8eacbdd29acdf2f476b3c64d3dfa10b370f1efb8a0dad5e58e7c96fac033078b8c392b9a89465fd78122e7bf2ed"
       }
     },
     "1_21_9": {
       "latest": {
-        "name": "lithostitched-1.5.2-neoforge-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/qH7PeRGc/lithostitched-1.5.2-neoforge-1.21.9.jar",
-        "sha512": "272188b4dad09443fef26553bdf9d2b0e4b433ba4cf1d6fb83dd089d43be593f069209cd9327fb6be0664fc4f02b40ddf575a785c07d0b43e26ebff15ac71e40"
-      },
-      "1_5_2": {
-        "name": "lithostitched-1.5.2-neoforge-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/qH7PeRGc/lithostitched-1.5.2-neoforge-1.21.9.jar",
-        "sha512": "272188b4dad09443fef26553bdf9d2b0e4b433ba4cf1d6fb83dd089d43be593f069209cd9327fb6be0664fc4f02b40ddf575a785c07d0b43e26ebff15ac71e40"
+        "name": "lithostitched-1.5.2+patched-neoforge-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5oukMAVM/lithostitched-1.5.2%2Bpatched-neoforge-1.21.9.jar",
+        "sha512": "0eaa791ebb0b61cad94c2fe9282c0da9c9b5d8eacbdd29acdf2f476b3c64d3dfa10b370f1efb8a0dad5e58e7c96fac033078b8c392b9a89465fd78122e7bf2ed"
       },
       "1_5_2+patched": {
         "name": "lithostitched-1.5.2+patched-neoforge-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5oukMAVM/lithostitched-1.5.2%2Bpatched-neoforge-1.21.9.jar",
         "sha512": "0eaa791ebb0b61cad94c2fe9282c0da9c9b5d8eacbdd29acdf2f476b3c64d3dfa10b370f1efb8a0dad5e58e7c96fac033078b8c392b9a89465fd78122e7bf2ed"
       },
+      "1_5_2": {
+        "name": "lithostitched-1.5.2-neoforge-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/qH7PeRGc/lithostitched-1.5.2-neoforge-1.21.9.jar",
+        "sha512": "272188b4dad09443fef26553bdf9d2b0e4b433ba4cf1d6fb83dd089d43be593f069209cd9327fb6be0664fc4f02b40ddf575a785c07d0b43e26ebff15ac71e40"
+      },
       "1_5_1": {
         "name": "lithostitched-1.5.1-neoforge-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/sfzhADx6/lithostitched-1.5.1-neoforge-1.21.9.jar",
         "sha512": "dcc8da2c16050b10aecc3643e49aa6022e15468b98aa7d5c5ac7776d91a8dbc758131e3c83c119bf75ba3e145d6439a0aeb1c63c1dc75bead30893e9eb58b44f"
       },
-      "1_5_0-beta6": {
-        "name": "lithostitched-1.5.0-beta6-neoforge-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/NqxuZmvR/lithostitched-1.5.0-beta6-neoforge-1.21.9.jar",
-        "sha512": "61d25c5be7dc0e79a3e8b80535a9ff0f6d4a96ab40da9eaa1660e60b8bca73d29f861c33ba0d4b83a3fc6bc5eea3a049764148ec42c946dcffc0171990cced71"
-      },
       "1_5_0": {
         "name": "lithostitched-1.5.0-neoforge-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/muQreCQd/lithostitched-1.5.0-neoforge-1.21.9.jar",
         "sha512": "638768e09232183d23e50b61372a3ab768c42958de1d59de2e8a6315c2908a18c246b087182380e151d78216997756412943cf8e6bbeae7b6b0cf0559918b2a4"
+      },
+      "1_5_0-beta6": {
+        "name": "lithostitched-1.5.0-beta6-neoforge-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/NqxuZmvR/lithostitched-1.5.0-beta6-neoforge-1.21.9.jar",
+        "sha512": "61d25c5be7dc0e79a3e8b80535a9ff0f6d4a96ab40da9eaa1660e60b8bca73d29f861c33ba0d4b83a3fc6bc5eea3a049764148ec42c946dcffc0171990cced71"
       }
     },
     "1_21_8": {
@@ -132,14 +132,9 @@
     },
     "1_21_6": {
       "latest": {
-        "name": "lithostitched-neoforge-1.21.5-1.4.8.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ZgKQ5gKA/lithostitched-neoforge-1.21.5-1.4.8.jar",
-        "sha512": "ca0cd16f57a242f3764a76cd44465b3d224c04f091fe05ff12964d65e37f92d6973459b1ce928af075b2fa4d45ff370ac6c76443b747c162584f36d4e315c705"
-      },
-      "1_4_81_21_5": {
-        "name": "lithostitched-neoforge-1.21.5-1.4.8.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ZgKQ5gKA/lithostitched-neoforge-1.21.5-1.4.8.jar",
-        "sha512": "ca0cd16f57a242f3764a76cd44465b3d224c04f091fe05ff12964d65e37f92d6973459b1ce928af075b2fa4d45ff370ac6c76443b747c162584f36d4e315c705"
+        "name": "lithostitched-neoforge-1.21.6-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/iR8K35Nc/lithostitched-neoforge-1.21.6-1.4.11.jar",
+        "sha512": "08958d0032689121d586771dcc2578acca133fd0ee7cb09648f0455ee7b7a8bb2aeffcefb04f5979b9040a9acfd4b6c693c33514cabc2ee6c80c880ff91f5103"
       },
       "1_4_11": {
         "name": "lithostitched-neoforge-1.21.6-1.4.11.jar",
@@ -155,6 +150,11 @@
         "name": "lithostitched-neoforge-1.21.6-1.4.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/10V7mRXp/lithostitched-neoforge-1.21.6-1.4.9.jar",
         "sha512": "f4c41b5c9f9fa72ef238bf9b0489e01af71bd5580e45390d9721f6072dfe2bad73aea11cb973bb41a53fcc2cf5dae5fe0ac5f296aac1de7322793e5f245478cd"
+      },
+      "1_4_81_21_5": {
+        "name": "lithostitched-neoforge-1.21.5-1.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ZgKQ5gKA/lithostitched-neoforge-1.21.5-1.4.8.jar",
+        "sha512": "ca0cd16f57a242f3764a76cd44465b3d224c04f091fe05ff12964d65e37f92d6973459b1ce928af075b2fa4d45ff370ac6c76443b747c162584f36d4e315c705"
       }
     },
     "1_21_5": {
@@ -173,15 +173,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/egww3dtk/lithostitched-neoforge-1.21.5-1.4.7.jar",
         "sha512": "ec047adc9dcee9fdad1796ac6b2a36c63b75cc0c37301882b6655ae9856f7c9dc4c10faa95c41c55a5f01b4d6c0da753490f0974b1e3799ddf674538211467f0"
       },
-      "1_4_6+beta": {
-        "name": "lithostitched-neoforge-1.21.5-1.4.6+beta.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/El3s64kH/lithostitched-neoforge-1.21.5-1.4.6%2Bbeta.jar",
-        "sha512": "60bc41718c521e862a4619b99544c32b13a70a0ec5e579317f411a8446d6dc4464179d8de37f90187add685648a17ffc12fc6ac16579247833b0f1a0f7db4602"
-      },
       "1_4_6": {
         "name": "lithostitched-neoforge-1.21.5-1.4.6.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/rJIa3tih/lithostitched-neoforge-1.21.5-1.4.6.jar",
         "sha512": "d1b4b31357a3cbec487284e23133cfee250e27f284d1dc449fd431df3b234cb88c86facf5d245b16f0053763790b78c11b0311132be192532a04c4eba62e7517"
+      },
+      "1_4_6+beta": {
+        "name": "lithostitched-neoforge-1.21.5-1.4.6+beta.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/El3s64kH/lithostitched-neoforge-1.21.5-1.4.6%2Bbeta.jar",
+        "sha512": "60bc41718c521e862a4619b99544c32b13a70a0ec5e579317f411a8446d6dc4464179d8de37f90187add685648a17ffc12fc6ac16579247833b0f1a0f7db4602"
       }
     },
     "1_21_4": {
@@ -296,8 +296,8 @@
       },
       "1_3_2": {
         "name": "lithostitched-neoforge-1.21.2-1.3.2.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/deAmWZXP/lithostitched-neoforge-1.21.2-1.3.2.jar",
-        "sha512": "076fd6b8ecf83c3d9f16aa4f602b06e7fb4d2a1e4c74d948a0564e3f29370e7d3d367155d53b705e859d416298c4379c89f3c7dd9c6818746257119b5d8e01d6"
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/VxuWl0uh/lithostitched-neoforge-1.21.2-1.3.2.jar",
+        "sha512": "6089626832b5a3779c4850e9911abc7da5eaf4fcfb096b51ce851a659bc8333bf4c9f40e27ef75853768f7507c8037ed90a83838ed2d8fe98aa278e17781c7c8"
       },
       "1_3_1a": {
         "name": "lithostitched-neoforge-1.21.2-1.3.1a.jar",
@@ -336,6 +336,11 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/dGZOQXkv/lithostitched-1.5.2-neoforge-1.21.1.jar",
         "sha512": "8b6f20c1f99f568f3cb15d9ebaaa7e15078f8894f7bd383dc02303d67ffd367cdfb44d7edfbfd3901c0174ef150d31d0543478322a4a7eef423e6c2720674872"
       },
+      "1_5_0": {
+        "name": "lithostitched-1.5.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/LB6vOkpN/lithostitched-1.5.0-neoforge-1.21.1.jar",
+        "sha512": "11c3d2df8b7d0f7dfb667f1e191adc3607ee72de237df579ad0457e7400b6ff0577b0b731768127dde62b2e0f075419c39f34598870cea210bd86e452c5dd677"
+      },
       "1_5_0-beta6": {
         "name": "lithostitched-1.5.0-beta6-neoforge-1.21.1.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/4YkDhFjR/lithostitched-1.5.0-beta6-neoforge-1.21.1.jar",
@@ -360,11 +365,6 @@
         "name": "lithostitched-1.5.0+beta2-neoforge-1.21.1.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/P6xqzoFX/lithostitched-1.5.0%2Bbeta2-neoforge-1.21.1.jar",
         "sha512": "ef68e85af3d1019a0eb069cc2c3dbc38c8b40ab468c15df44c7b9e606004fd0dc8267412d04bf132bd6186097b1393346755fe2aaef7e74d6dc5c7659fa06d8d"
-      },
-      "1_5_0": {
-        "name": "lithostitched-1.5.0-neoforge-1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/LB6vOkpN/lithostitched-1.5.0-neoforge-1.21.1.jar",
-        "sha512": "11c3d2df8b7d0f7dfb667f1e191adc3607ee72de237df579ad0457e7400b6ff0577b0b731768127dde62b2e0f075419c39f34598870cea210bd86e452c5dd677"
       },
       "1_4_111_21": {
         "name": "lithostitched-neoforge-1.21.1-1.4.11.jar",
@@ -451,15 +451,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wHZ4Skp8/lithostitched-neoforge-1.21.1-1.3.4.jar",
         "sha512": "2d6579acd3258e7a680369c526faf272294818d2d9255163f8b2196db802596558e4ebb130f8e009b1a1f2e909492170f53395c1655856f6103ef64f37295af6"
       },
-      "1_3_1": {
-        "name": "lithostitched-neoforge-1.21-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/PWFjbGew/lithostitched-neoforge-1.21-1.3.1.jar",
-        "sha512": "491fb9fd437c52a1a781e78d6ed099a1e38db301580f2e16c6e75a8e3d941b31dd37c9154f277b34c27a6a254da817da87b70b114c90de979093b44fc71a07a4"
-      },
       "1_3_1a": {
         "name": "lithostitched-neoforge-1.21-1.3.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/HJrI8SHi/lithostitched-neoforge-1.21-1.3.1a.jar",
         "sha512": "7934be8b9c7346d3c47c3c3687f3f674d9b7863444e0de0ecaafe60c566e4e228daa75f12fb3ef911b3060d32d2faa839a05dc435a2a612cebe8fbb38f10ed44"
+      },
+      "1_3_1": {
+        "name": "lithostitched-neoforge-1.21-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/PWFjbGew/lithostitched-neoforge-1.21-1.3.1.jar",
+        "sha512": "491fb9fd437c52a1a781e78d6ed099a1e38db301580f2e16c6e75a8e3d941b31dd37c9154f277b34c27a6a254da817da87b70b114c90de979093b44fc71a07a4"
       },
       "1_3_0": {
         "name": "lithostitched-neoforge-1.21-1.3.0.jar",
@@ -473,8 +473,8 @@
       },
       "1_2_5a": {
         "name": "lithostitched-neoforge-1.21-1.2.5a.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/yK0ChVxe/lithostitched-neoforge-1.21-1.2.5a.jar",
-        "sha512": "2eb29a415731676d226dba4913fb31371ac25e61446f730a558fff844921f63ec71f84eb453b4a9d009f53def97b3b82f8019db8f45804e6e7367744f77d248c"
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/K5Kvl5Yi/lithostitched-neoforge-1.21-1.2.5a.jar",
+        "sha512": "aa4b23219c6244a6e98bd3cbfdf30ee310e5f6e0f695a9406605152dc181d51c63e41097f8d55c651f35d475cd9356d364d39ba2946217345eda275d26f38de3"
       }
     },
     "1_21": {
@@ -568,15 +568,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wHZ4Skp8/lithostitched-neoforge-1.21.1-1.3.4.jar",
         "sha512": "2d6579acd3258e7a680369c526faf272294818d2d9255163f8b2196db802596558e4ebb130f8e009b1a1f2e909492170f53395c1655856f6103ef64f37295af6"
       },
-      "1_3_1": {
-        "name": "lithostitched-neoforge-1.21-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/PWFjbGew/lithostitched-neoforge-1.21-1.3.1.jar",
-        "sha512": "491fb9fd437c52a1a781e78d6ed099a1e38db301580f2e16c6e75a8e3d941b31dd37c9154f277b34c27a6a254da817da87b70b114c90de979093b44fc71a07a4"
-      },
       "1_3_1a": {
         "name": "lithostitched-neoforge-1.21-1.3.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/HJrI8SHi/lithostitched-neoforge-1.21-1.3.1a.jar",
         "sha512": "7934be8b9c7346d3c47c3c3687f3f674d9b7863444e0de0ecaafe60c566e4e228daa75f12fb3ef911b3060d32d2faa839a05dc435a2a612cebe8fbb38f10ed44"
+      },
+      "1_3_1": {
+        "name": "lithostitched-neoforge-1.21-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/PWFjbGew/lithostitched-neoforge-1.21-1.3.1.jar",
+        "sha512": "491fb9fd437c52a1a781e78d6ed099a1e38db301580f2e16c6e75a8e3d941b31dd37c9154f277b34c27a6a254da817da87b70b114c90de979093b44fc71a07a4"
       },
       "1_3_0": {
         "name": "lithostitched-neoforge-1.21-1.3.0.jar",
@@ -588,15 +588,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/UV9akXBT/lithostitched-neoforge-1.21-1.2.6.jar",
         "sha512": "8e1711cd71aaacb1fa921410e85b2334534e8cad24454c42dfde8ea79423ffdaeeb29638f0350bcd9735a6f12900b16a4de03490d550c95615a1c9b8d363cf5c"
       },
+      "1_2_5a": {
+        "name": "lithostitched-neoforge-1.21-1.2.5a.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/K5Kvl5Yi/lithostitched-neoforge-1.21-1.2.5a.jar",
+        "sha512": "aa4b23219c6244a6e98bd3cbfdf30ee310e5f6e0f695a9406605152dc181d51c63e41097f8d55c651f35d475cd9356d364d39ba2946217345eda275d26f38de3"
+      },
       "1_2_5": {
         "name": "lithostitched-neoforge-1.21-1.2.5.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/6PZ4jxK5/lithostitched-neoforge-1.21-1.2.5.jar",
         "sha512": "5cf80728e58434eee2730d92d8dd7df31e57b82fc342fc2060dd7532f33ade6b45c1355683aea88ebca1ffa6393c9e21af44fb45f8c0d766a7e7f7744306be4e"
-      },
-      "1_2_5a": {
-        "name": "lithostitched-neoforge-1.21-1.2.5a.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/yK0ChVxe/lithostitched-neoforge-1.21-1.2.5a.jar",
-        "sha512": "2eb29a415731676d226dba4913fb31371ac25e61446f730a558fff844921f63ec71f84eb453b4a9d009f53def97b3b82f8019db8f45804e6e7367744f77d248c"
       },
       "1_2_4": {
         "name": "lithostitched-neoforge-1.21-1.2.4.jar",
@@ -652,20 +652,20 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/gLnnBHzT/lithostitched-neoforge-1.20.5-1.1.8.jar",
         "sha512": "202835a8356e371d1fc5a39b10adf4fd86bd691f96e3dd34350daee5a871837bbb14e2f93a16009c6b2d419814fc0d2020799336de2862fb684552583dbf8314"
       },
-      "1_1_7": {
-        "name": "lithostitched-neoforge-1.20.5-1.1.7.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/t46P71pQ/lithostitched-neoforge-1.20.5-1.1.7.jar",
-        "sha512": "816bfee5c5313624dbe89f1876903cf69e6e02d9c2bdee13a2a8c2e92eee312fe79c83cf36fd5e46b683065f290374ff381b307d968f4825bbedaab89a33374a"
+      "1_1_7b": {
+        "name": "lithostitched-neoforge-1.20.5-1.1.7b.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/WpqMDbHg/lithostitched-neoforge-1.20.5-1.1.7b.jar",
+        "sha512": "d6fd6079a6606c50b5225c0b85678e35dad97dc7878368776e94ca3426ff49b4e8aa221086995988d77e690da451435743e2a4bc9c24603724a8334db6168584"
       },
       "1_1_7a": {
         "name": "lithostitched-neoforge-1.20.5-1.1.7a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/yl71RvCO/lithostitched-neoforge-1.20.5-1.1.7a.jar",
         "sha512": "1b9a964fa651d87d814eb8ef39248286edf03a3bf6cce79a4c2ad1bef5348546986731e4ee2deeec52e708176bd437b15ea8226d837d5ed2148aab28c34c6712"
       },
-      "1_1_7b": {
-        "name": "lithostitched-neoforge-1.20.5-1.1.7b.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/WpqMDbHg/lithostitched-neoforge-1.20.5-1.1.7b.jar",
-        "sha512": "d6fd6079a6606c50b5225c0b85678e35dad97dc7878368776e94ca3426ff49b4e8aa221086995988d77e690da451435743e2a4bc9c24603724a8334db6168584"
+      "1_1_7": {
+        "name": "lithostitched-neoforge-1.20.5-1.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/t46P71pQ/lithostitched-neoforge-1.20.5-1.1.7.jar",
+        "sha512": "816bfee5c5313624dbe89f1876903cf69e6e02d9c2bdee13a2a8c2e92eee312fe79c83cf36fd5e46b683065f290374ff381b307d968f4825bbedaab89a33374a"
       },
       "1_1_6": {
         "name": "lithostitched-neoforge-1.20.5-1.1.6.jar",
@@ -795,14 +795,9 @@
     },
     "1_20_2": {
       "latest": {
-        "name": "lithostitched-forge-1.20.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/nxR2QJq9/lithostitched-forge-1.20.2-1.0.0.jar",
-        "sha512": "a5593fa19a8f16fcc312e47cfc20bfec2f862f96f9c91f8557fae0625af538e5524258be9fbdf2efd92641bcb6091aca7abf2d6441cbd123ac812486c231647e"
-      },
-      "1_20_2-1_0_0": {
-        "name": "lithostitched-forge-1.20.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/nxR2QJq9/lithostitched-forge-1.20.2-1.0.0.jar",
-        "sha512": "a5593fa19a8f16fcc312e47cfc20bfec2f862f96f9c91f8557fae0625af538e5524258be9fbdf2efd92641bcb6091aca7abf2d6441cbd123ac812486c231647e"
+        "name": "lithostitched-forge-1.20.2-1.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/VyXuOP1c/lithostitched-forge-1.20.2-1.1.5.jar",
+        "sha512": "8aa5fb5f33db46937cde2709ac24dfad38193562604dc5b96b3ecdecb07107c8538848683b63c14e7bc5492d27866ed6e088e26f7085a7c036b0399ec2dced32"
       },
       "1_1_5": {
         "name": "lithostitched-forge-1.20.2-1.1.5.jar",
@@ -838,18 +833,18 @@
         "name": "lithostitched-forge-1.20.2+-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/1d7slIuK/lithostitched-forge-1.20.2%2B-1.0.0.jar",
         "sha512": "37fcca07be7080abb5fe3650e98284e620f8068f0ede62a37c68af3db03800b325e4527e00a6d9a5a20788b2df72b1cb4f998f6f3eab149449ff8a328ea66fc1"
+      },
+      "1_20_2-1_0_0": {
+        "name": "lithostitched-forge-1.20.2-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/nxR2QJq9/lithostitched-forge-1.20.2-1.0.0.jar",
+        "sha512": "a5593fa19a8f16fcc312e47cfc20bfec2f862f96f9c91f8557fae0625af538e5524258be9fbdf2efd92641bcb6091aca7abf2d6441cbd123ac812486c231647e"
       }
     },
     "1_20_1": {
       "latest": {
-        "name": "lithostitched-forge-1.20.1-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/2GhadkWw/lithostitched-forge-1.20.1-1.0.0.jar",
-        "sha512": "e412867e227a5daeb7675f72e69a79838b45abcd092c4af141c10953569373f3e0cc34404fca43e2704c9dc9f1eb9268fae47e3c4bd8a3306d2573f621a281e7"
-      },
-      "1_20_1-1_0_0": {
-        "name": "lithostitched-forge-1.20.1-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/2GhadkWw/lithostitched-forge-1.20.1-1.0.0.jar",
-        "sha512": "e412867e227a5daeb7675f72e69a79838b45abcd092c4af141c10953569373f3e0cc34404fca43e2704c9dc9f1eb9268fae47e3c4bd8a3306d2573f621a281e7"
+        "name": "lithostitched-forge-1.20.1-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/srPoHKt8/lithostitched-forge-1.20.1-1.4.11.jar",
+        "sha512": "4e50a0fb4f054b429803cb20fc0820011b12098ebca1f17b1b0634cab832369e08446901d5e97fd35b01e99cf6066d20a16cc673c5b7bc8196568b3db67128c2"
       },
       "1_4_111_20": {
         "name": "lithostitched-forge-1.20.1-1.4.11.jar",
@@ -912,9 +907,9 @@
         "sha512": "70837ac8e040f8f77952b01ee2188e0ccb04156e1ef5ce6676d57ec36ca7eb16d72a80cb19094e7203708f015640925cda9bd379cfaf14c6ff407bb9947c13a0"
       },
       "1_3_7": {
-        "name": "lithostitched-forge-1.20.1a-1.3.7.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/81or9vk4/lithostitched-forge-1.20.1a-1.3.7.jar",
-        "sha512": "5b6f9ab65d31a6bff7aab149f42fc7ac6ccec77f26fe4b3a79827d4de7f002db0c47b8cb7c8a2ba497805f219a652d865ce431777f04dcce59324c7a850caf1f"
+        "name": "lithostitched-forge-1.20.1-1.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/UZgOHe6W/lithostitched-forge-1.20.1-1.3.7.jar",
+        "sha512": "5eb3df0b4658bd0468c9876cc97d58ddcf3f37039abcff8788ce906235b01d60da2dc5b86af8716261d7670d683eb4ccb505850b53da7cadab4f36dac3475501"
       },
       "1_3_5": {
         "name": "lithostitched-forge-1.20.1-1.3.5.jar",
@@ -931,20 +926,20 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/BsN3REQF/lithostitched-forge-1.20.1-1.3.3.jar",
         "sha512": "ae0eba66e6c4abb5ed81b8e3781d0ba2e52df1a2fb48fd7dbe3e14a21be73a2a429df32b91c47a2fcbb361da35f3d753f337b7d7bd31fa8d3370ebd3c8d7ab4b"
       },
-      "1_3_1": {
-        "name": "lithostitched-forge-1.20.1-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/M41XYB2W/lithostitched-forge-1.20.1-1.3.1.jar",
-        "sha512": "fdf5574f620451b4274f9bdb1b4ecbef639d799524528a3c1aca17c7f19d89a296d3da2211d7b1bba4895efe150b2a51eb6520f8a3f798e25430a74e02a36cb6"
+      "1_3_1b": {
+        "name": "lithostitched-forge-1.20.1-1.3.1b.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/F4sKKz7J/lithostitched-forge-1.20.1-1.3.1b.jar",
+        "sha512": "0a606927b16e230a9217006536eb8d6d8d1598d8b5f00c06a473276184d2823991f91eba5bf0c7e1a59ccf85ea9f32382fa2e725ae9cb84c9d97e98e8fd28821"
       },
       "1_3_1a": {
         "name": "lithostitched-forge-1.20.1-1.3.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/tTHfCbHY/lithostitched-forge-1.20.1-1.3.1a.jar",
         "sha512": "23202f8f96c665af27be9b8b8521929645de34ced9a6bf38c86df257209127dd739780405cdfb1e35da683fc72719717049cf64c03708a2d7a2a5d1740cb23a1"
       },
-      "1_3_1b": {
-        "name": "lithostitched-forge-1.20.1-1.3.1b.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/F4sKKz7J/lithostitched-forge-1.20.1-1.3.1b.jar",
-        "sha512": "0a606927b16e230a9217006536eb8d6d8d1598d8b5f00c06a473276184d2823991f91eba5bf0c7e1a59ccf85ea9f32382fa2e725ae9cb84c9d97e98e8fd28821"
+      "1_3_1": {
+        "name": "lithostitched-forge-1.20.1-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/M41XYB2W/lithostitched-forge-1.20.1-1.3.1.jar",
+        "sha512": "fdf5574f620451b4274f9bdb1b4ecbef639d799524528a3c1aca17c7f19d89a296d3da2211d7b1bba4895efe150b2a51eb6520f8a3f798e25430a74e02a36cb6"
       },
       "1_3_0": {
         "name": "lithostitched-forge-1.20.1-1.3.0.jar",
@@ -990,6 +985,11 @@
         "name": "lithostitched-forge-1.20.1-1.1.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/fqTBv1lv/lithostitched-forge-1.20.1-1.1.0.jar",
         "sha512": "d52683bdc35e77a6c17d51e8bed00a866301e158c14391c8a202cb943a009928b4a19b36ab0501ea6b50c9cd51a4176e9d7972a644dadb570013679626f63d1d"
+      },
+      "1_20_1-1_0_0": {
+        "name": "lithostitched-forge-1.20.1-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/2GhadkWw/lithostitched-forge-1.20.1-1.0.0.jar",
+        "sha512": "e412867e227a5daeb7675f72e69a79838b45abcd092c4af141c10953569373f3e0cc34404fca43e2704c9dc9f1eb9268fae47e3c4bd8a3306d2573f621a281e7"
       }
     },
     "1_20": {
@@ -1060,9 +1060,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "lithostitched-1.5.2-fabric-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wOA5KvR7/lithostitched-1.5.2-fabric-1.21.9.jar",
-        "sha512": "99a34f59cbbbc4c5f609d51977c9b7de78a027e6386aab1119d0af0a727c1e99d53f028814f802b10b65b30980f88c5702e7b7c7044d12d2473edfd69765c535"
+        "name": "lithostitched-1.5.2+patched-fabric-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pqqSPaU1/lithostitched-1.5.2%2Bpatched-fabric-1.21.9.jar",
+        "sha512": "fc35e49621e40b9810762d36813d0ef454e449bfe05d479006cad1213db2405814c9f7524c4bea087279e4b843364b7f11333bf2a6dd5d4aee0f463d6c953d23"
+      },
+      "1_5_2+patched1_21_9": {
+        "name": "lithostitched-1.5.2+patched-fabric-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pqqSPaU1/lithostitched-1.5.2%2Bpatched-fabric-1.21.9.jar",
+        "sha512": "fc35e49621e40b9810762d36813d0ef454e449bfe05d479006cad1213db2405814c9f7524c4bea087279e4b843364b7f11333bf2a6dd5d4aee0f463d6c953d23"
       },
       "1_5_21_21_9": {
         "name": "lithostitched-1.5.2-fabric-1.21.9.jar",
@@ -1073,43 +1078,38 @@
         "name": "lithostitched-1.5.1-fabric-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/OHVYggvo/lithostitched-1.5.1-fabric-1.21.9.jar",
         "sha512": "e97b7bcd98bc26307589822c98e24e4a0c7b859f0461ed810401250686c7ba00ed7e9e89842b9714ce0dc81da33042c563d9f11a7e03da9036854085f37e5163"
-      },
-      "1_5_2+patched1_21_9": {
-        "name": "lithostitched-1.5.2+patched-fabric-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pqqSPaU1/lithostitched-1.5.2%2Bpatched-fabric-1.21.9.jar",
-        "sha512": "fc35e49621e40b9810762d36813d0ef454e449bfe05d479006cad1213db2405814c9f7524c4bea087279e4b843364b7f11333bf2a6dd5d4aee0f463d6c953d23"
       }
     },
     "1_21_9": {
       "latest": {
-        "name": "lithostitched-1.5.2-fabric-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wOA5KvR7/lithostitched-1.5.2-fabric-1.21.9.jar",
-        "sha512": "99a34f59cbbbc4c5f609d51977c9b7de78a027e6386aab1119d0af0a727c1e99d53f028814f802b10b65b30980f88c5702e7b7c7044d12d2473edfd69765c535"
-      },
-      "1_5_2": {
-        "name": "lithostitched-1.5.2-fabric-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wOA5KvR7/lithostitched-1.5.2-fabric-1.21.9.jar",
-        "sha512": "99a34f59cbbbc4c5f609d51977c9b7de78a027e6386aab1119d0af0a727c1e99d53f028814f802b10b65b30980f88c5702e7b7c7044d12d2473edfd69765c535"
+        "name": "lithostitched-1.5.2+patched-fabric-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pqqSPaU1/lithostitched-1.5.2%2Bpatched-fabric-1.21.9.jar",
+        "sha512": "fc35e49621e40b9810762d36813d0ef454e449bfe05d479006cad1213db2405814c9f7524c4bea087279e4b843364b7f11333bf2a6dd5d4aee0f463d6c953d23"
       },
       "1_5_2+patched": {
         "name": "lithostitched-1.5.2+patched-fabric-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pqqSPaU1/lithostitched-1.5.2%2Bpatched-fabric-1.21.9.jar",
         "sha512": "fc35e49621e40b9810762d36813d0ef454e449bfe05d479006cad1213db2405814c9f7524c4bea087279e4b843364b7f11333bf2a6dd5d4aee0f463d6c953d23"
       },
+      "1_5_2": {
+        "name": "lithostitched-1.5.2-fabric-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wOA5KvR7/lithostitched-1.5.2-fabric-1.21.9.jar",
+        "sha512": "99a34f59cbbbc4c5f609d51977c9b7de78a027e6386aab1119d0af0a727c1e99d53f028814f802b10b65b30980f88c5702e7b7c7044d12d2473edfd69765c535"
+      },
       "1_5_1": {
         "name": "lithostitched-1.5.1-fabric-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/OHVYggvo/lithostitched-1.5.1-fabric-1.21.9.jar",
         "sha512": "e97b7bcd98bc26307589822c98e24e4a0c7b859f0461ed810401250686c7ba00ed7e9e89842b9714ce0dc81da33042c563d9f11a7e03da9036854085f37e5163"
       },
-      "1_5_0-beta6": {
-        "name": "lithostitched-1.5.0-beta6-fabric-1.21.9.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5zV4yxgE/lithostitched-1.5.0-beta6-fabric-1.21.9.jar",
-        "sha512": "570ab96511e1d634945cb987c8becae1db5e3708343417a37156310bddd2f76215eaf821847984335e0c3792aeef1eb23a3b69454656dde955a14f732e3cc9bd"
-      },
       "1_5_0": {
         "name": "lithostitched-1.5.0-fabric-1.21.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/xJFiGgq5/lithostitched-1.5.0-fabric-1.21.9.jar",
         "sha512": "e5fdecca30e23de43e4c243c142e4b43692b926c03ae584c705d1c4cab11073fcc2d789b3d861252f049ae9c1998099e843860b9c343b34b5d15cde6fd1b13b1"
+      },
+      "1_5_0-beta6": {
+        "name": "lithostitched-1.5.0-beta6-fabric-1.21.9.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5zV4yxgE/lithostitched-1.5.0-beta6-fabric-1.21.9.jar",
+        "sha512": "570ab96511e1d634945cb987c8becae1db5e3708343417a37156310bddd2f76215eaf821847984335e0c3792aeef1eb23a3b69454656dde955a14f732e3cc9bd"
       }
     },
     "1_21_8": {
@@ -1158,14 +1158,9 @@
     },
     "1_21_6": {
       "latest": {
-        "name": "lithostitched-fabric-1.21.5-1.4.8.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wupt6y4U/lithostitched-fabric-1.21.5-1.4.8.jar",
-        "sha512": "bfc7d3309cf6c26ed20b556380be2c84d6103c5d92484255fb9a44f3409830a5cec4f958cfd758c16357c3f1b022356f4d5947d461eaf2c0a3805521ed073b4a"
-      },
-      "1_4_81_21_5": {
-        "name": "lithostitched-fabric-1.21.5-1.4.8.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wupt6y4U/lithostitched-fabric-1.21.5-1.4.8.jar",
-        "sha512": "bfc7d3309cf6c26ed20b556380be2c84d6103c5d92484255fb9a44f3409830a5cec4f958cfd758c16357c3f1b022356f4d5947d461eaf2c0a3805521ed073b4a"
+        "name": "lithostitched-fabric-1.21.6-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ROo8a9VV/lithostitched-fabric-1.21.6-1.4.11.jar",
+        "sha512": "1d63192dba2dcc16f15652f3128a390da582fb5be09a4aa1ad3805c805da0fff3b15fbcade1ebbe9d503eaec1bda4a3e063902aba3d6eeca0eb8bce6fcddb859"
       },
       "1_4_11": {
         "name": "lithostitched-fabric-1.21.6-1.4.11.jar",
@@ -1181,6 +1176,11 @@
         "name": "lithostitched-fabric-1.21.6-1.4.9.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pUosRaxD/lithostitched-fabric-1.21.6-1.4.9.jar",
         "sha512": "aa6ae9ac3b41547651a78e15e27a91da591762d001b5afd15c221962660c62134f5677b856d02cbac02cbab25ecdf300fa35d4e2fc581f0a3eefe1ab39bf53d2"
+      },
+      "1_4_81_21_5": {
+        "name": "lithostitched-fabric-1.21.5-1.4.8.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/wupt6y4U/lithostitched-fabric-1.21.5-1.4.8.jar",
+        "sha512": "bfc7d3309cf6c26ed20b556380be2c84d6103c5d92484255fb9a44f3409830a5cec4f958cfd758c16357c3f1b022356f4d5947d461eaf2c0a3805521ed073b4a"
       }
     },
     "1_21_5": {
@@ -1199,15 +1199,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/KrpeNXfE/lithostitched-fabric-1.21.5-1.4.7.jar",
         "sha512": "504b8d9852ea2e007823a5e41e27bebb0d6f43d342c57a8f949748857e04a9bbc46d23b8c2ee279439c4844abfa03c114073b449e72112a40bf9ff278dc83643"
       },
-      "1_4_6+beta": {
-        "name": "lithostitched-fabric-1.21.5-1.4.6+beta.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/3ujVE3vK/lithostitched-fabric-1.21.5-1.4.6%2Bbeta.jar",
-        "sha512": "f21c191f803e7e598665ce71b9a77db6b2fdf13eafa94e56903825bd958473f7adfb3e1cdc010f24cd75faecefe76c9ecea2d745a3a5f2349497fdb8ecaadc57"
-      },
       "1_4_6": {
         "name": "lithostitched-fabric-1.21.5-1.4.6.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/47OkCgjv/lithostitched-fabric-1.21.5-1.4.6.jar",
         "sha512": "aae0a8085207b5302f1846e67ec446b0d9697f2775774774996ae4f1f6287cd20e74ef46046bed9ce30210e28efb9c11e415d8188cd7738e0ec8e323c9c8255d"
+      },
+      "1_4_6+beta": {
+        "name": "lithostitched-fabric-1.21.5-1.4.6+beta.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/3ujVE3vK/lithostitched-fabric-1.21.5-1.4.6%2Bbeta.jar",
+        "sha512": "f21c191f803e7e598665ce71b9a77db6b2fdf13eafa94e56903825bd958473f7adfb3e1cdc010f24cd75faecefe76c9ecea2d745a3a5f2349497fdb8ecaadc57"
       }
     },
     "1_21_4": {
@@ -1352,6 +1352,11 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/W5lr8Dq8/lithostitched-1.5.2-fabric-1.21.1.jar",
         "sha512": "0ca363cf3f8a19d6d32fa1f70593c21ec988455d457dd0520669de30f3e1aecada5f413bd17c3fd54c644c7f64a76be5ac5ee47395c6536fa4314f7c6e8ea18b"
       },
+      "1_5_0": {
+        "name": "lithostitched-1.5.0-fabric-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/7FWLrZRG/lithostitched-1.5.0-fabric-1.21.1.jar",
+        "sha512": "096c69a60a488e7084a80aa11e4ca4b48c24b136b38fcaa5ccea77f815f0371d768ffa5cdc8f7dc40deb47ebc3373e8e5e77abe6d0d5c8ff5e5d1b7018c23e23"
+      },
       "1_5_0-beta6": {
         "name": "lithostitched-1.5.0-beta6-fabric-1.21.1.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/CD0tXkXN/lithostitched-1.5.0-beta6-fabric-1.21.1.jar",
@@ -1371,11 +1376,6 @@
         "name": "lithostitched-1.5.0+beta2-fabric-1.21.1.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/jrEV4Iak/lithostitched-1.5.0%2Bbeta2-fabric-1.21.1.jar",
         "sha512": "8f424a00e59695c88a30e5b9063bad322d9865930014770adcbe4d5817e2d3804202334f7eae42cbce5eb993e476e75939c230b803a43c32b295297ec8dbd118"
-      },
-      "1_5_0": {
-        "name": "lithostitched-1.5.0-fabric-1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/7FWLrZRG/lithostitched-1.5.0-fabric-1.21.1.jar",
-        "sha512": "096c69a60a488e7084a80aa11e4ca4b48c24b136b38fcaa5ccea77f815f0371d768ffa5cdc8f7dc40deb47ebc3373e8e5e77abe6d0d5c8ff5e5d1b7018c23e23"
       },
       "1_4_111_21": {
         "name": "lithostitched-fabric-1.21.1-1.4.11.jar",
@@ -1457,15 +1457,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/94cenLm9/lithostitched-fabric-1.21.1-1.3.4.jar",
         "sha512": "057187a66f921de209e1a4f90b98ecdd59e810f801177aa753e90f9bea179634023b70fd8cdacf9b911525990d41fdd5e0fb0e1e54106824395e21913cfde167"
       },
-      "1_3_1": {
-        "name": "lithostitched-fabric-1.21-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/X5v9j1X1/lithostitched-fabric-1.21-1.3.1.jar",
-        "sha512": "3cdb32cdbed5fd884fde4777eb65d1d0a97f25f66163838a478516f76b7ce1711a7b5468fa7219ad2b05a017a4acd0360a008b99923de67ff058a98d158759f4"
-      },
       "1_3_1a": {
         "name": "lithostitched-fabric-1.21-1.3.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/LgdrvcTC/lithostitched-fabric-1.21-1.3.1a.jar",
         "sha512": "c2dd78400b15bc64a05b8c00fdf06bf8f824ab8e16d8d743d8dfe1bf37833334beca73c406d99501fc6cdd4f4b9e4fa42752c6db1110fd10f69e288818c82e4e"
+      },
+      "1_3_1": {
+        "name": "lithostitched-fabric-1.21-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/X5v9j1X1/lithostitched-fabric-1.21-1.3.1.jar",
+        "sha512": "3cdb32cdbed5fd884fde4777eb65d1d0a97f25f66163838a478516f76b7ce1711a7b5468fa7219ad2b05a017a4acd0360a008b99923de67ff058a98d158759f4"
       },
       "1_3_0": {
         "name": "lithostitched-fabric-1.21-1.3.0.jar",
@@ -1479,8 +1479,8 @@
       },
       "1_2_5a": {
         "name": "lithostitched-fabric-1.21-1.2.5a.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/Vhhj8lsB/lithostitched-fabric-1.21-1.2.5a.jar",
-        "sha512": "10127e5b759353abc9c07520dbaae04ff70a918a33277bce19f412cca26394182fb8faf7b751bcf37bfc10b8433bfcb2323dcc59e34d0ef9ad08514599df62f2"
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/VbzU92p9/lithostitched-fabric-1.21-1.2.5a.jar",
+        "sha512": "93c526a1e15d51aaf7cf474a3f4eb2af3229489db34ec24404e28a88ab8e9460ac144142d67803b76a7a7b613bf5ef808900f8e299847f250068d2149cc25296"
       }
     },
     "1_21": {
@@ -1569,15 +1569,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/94cenLm9/lithostitched-fabric-1.21.1-1.3.4.jar",
         "sha512": "057187a66f921de209e1a4f90b98ecdd59e810f801177aa753e90f9bea179634023b70fd8cdacf9b911525990d41fdd5e0fb0e1e54106824395e21913cfde167"
       },
-      "1_3_1": {
-        "name": "lithostitched-fabric-1.21-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/X5v9j1X1/lithostitched-fabric-1.21-1.3.1.jar",
-        "sha512": "3cdb32cdbed5fd884fde4777eb65d1d0a97f25f66163838a478516f76b7ce1711a7b5468fa7219ad2b05a017a4acd0360a008b99923de67ff058a98d158759f4"
-      },
       "1_3_1a": {
         "name": "lithostitched-fabric-1.21-1.3.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/LgdrvcTC/lithostitched-fabric-1.21-1.3.1a.jar",
         "sha512": "c2dd78400b15bc64a05b8c00fdf06bf8f824ab8e16d8d743d8dfe1bf37833334beca73c406d99501fc6cdd4f4b9e4fa42752c6db1110fd10f69e288818c82e4e"
+      },
+      "1_3_1": {
+        "name": "lithostitched-fabric-1.21-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/X5v9j1X1/lithostitched-fabric-1.21-1.3.1.jar",
+        "sha512": "3cdb32cdbed5fd884fde4777eb65d1d0a97f25f66163838a478516f76b7ce1711a7b5468fa7219ad2b05a017a4acd0360a008b99923de67ff058a98d158759f4"
       },
       "1_3_0": {
         "name": "lithostitched-fabric-1.21-1.3.0.jar",
@@ -1589,15 +1589,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/1ifn2416/lithostitched-fabric-1.21-1.2.6.jar",
         "sha512": "65a9f042fef895d41eb7101c236be2629b3bc79eb7d133d8d4c46f6a17c99ea8ba33208a93f4d7b21008cb759785e70fc621aa005d63b1d40b990269f77e16f4"
       },
+      "1_2_5a": {
+        "name": "lithostitched-fabric-1.21-1.2.5a.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/VbzU92p9/lithostitched-fabric-1.21-1.2.5a.jar",
+        "sha512": "93c526a1e15d51aaf7cf474a3f4eb2af3229489db34ec24404e28a88ab8e9460ac144142d67803b76a7a7b613bf5ef808900f8e299847f250068d2149cc25296"
+      },
       "1_2_5": {
         "name": "lithostitched-fabric-1.21-1.2.5.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/IK5OY4kh/lithostitched-fabric-1.21-1.2.5.jar",
         "sha512": "eaa15e3e9e9cf46e2ce0e64846bdebe4fb94a0bd83f3d8a33b6e6115dcc55787cbf04422a1004531ecdbcc62bac16c0bd520d87706944497d6360d7d4b17c1f9"
-      },
-      "1_2_5a": {
-        "name": "lithostitched-fabric-1.21-1.2.5a.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/Vhhj8lsB/lithostitched-fabric-1.21-1.2.5a.jar",
-        "sha512": "10127e5b759353abc9c07520dbaae04ff70a918a33277bce19f412cca26394182fb8faf7b751bcf37bfc10b8433bfcb2323dcc59e34d0ef9ad08514599df62f2"
       },
       "1_2_4": {
         "name": "lithostitched-fabric-1.21-1.2.4.jar",
@@ -1665,20 +1665,20 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/DzU5aqhv/lithostitched-fabric-1.20.5-1.1.8.jar",
         "sha512": "4558cacdcfc33aebcceb20e279e24a6421f53502bc5a777d76f915641c9f605552a5bc1dccffbedaa03a4df209461290cbee668331a0406c5d94c0bda48a3667"
       },
-      "1_1_7": {
-        "name": "lithostitched-fabric-1.20.5-1.1.7.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ZeoIH2iV/lithostitched-fabric-1.20.5-1.1.7.jar",
-        "sha512": "918a651df6039025e9001db8c6b64283a4f8a6a77f2d7e1e68297e2f49ce07b727d2a272f85feb3ff4f1b39aee3e0e48f0562b7896b65c79fbeb2fbc21dd9263"
+      "1_1_7b": {
+        "name": "lithostitched-fabric-1.20.5-1.1.7b.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/il99xVpN/lithostitched-fabric-1.20.5-1.1.7b.jar",
+        "sha512": "3d523dfe17adf02eff8f773e98a1bc126a7b3b7190536316bed0ba885cee4226da28872791f1600f72a422ce0b2e45e173c4757f5b5741109e3e1eceeebdfc25"
       },
       "1_1_7a": {
         "name": "lithostitched-fabric-1.20.5-1.1.7a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/cRMmOPJV/lithostitched-fabric-1.20.5-1.1.7a.jar",
         "sha512": "9ffec7a589fa06f8c9722524f066f9bc47c9932d82132328bc8139c4f6fc4dde28f8050b7fa4cdad30d0fb01084cff1d5d62f027b110d4a5043e0ac47184a66d"
       },
-      "1_1_7b": {
-        "name": "lithostitched-fabric-1.20.5-1.1.7b.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/il99xVpN/lithostitched-fabric-1.20.5-1.1.7b.jar",
-        "sha512": "3d523dfe17adf02eff8f773e98a1bc126a7b3b7190536316bed0ba885cee4226da28872791f1600f72a422ce0b2e45e173c4757f5b5741109e3e1eceeebdfc25"
+      "1_1_7": {
+        "name": "lithostitched-fabric-1.20.5-1.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ZeoIH2iV/lithostitched-fabric-1.20.5-1.1.7.jar",
+        "sha512": "918a651df6039025e9001db8c6b64283a4f8a6a77f2d7e1e68297e2f49ce07b727d2a272f85feb3ff4f1b39aee3e0e48f0562b7896b65c79fbeb2fbc21dd9263"
       },
       "1_1_6": {
         "name": "lithostitched-fabric-1.20.5-1.1.6.jar",
@@ -1688,14 +1688,9 @@
     },
     "1_20_4": {
       "latest": {
-        "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
-        "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
-      },
-      "1_20_2-1_0_0": {
-        "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
-        "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
+        "name": "lithostitched-fabric-1.20.4-1.1.8.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/waP0noCS/lithostitched-fabric-1.20.4-1.1.8.jar",
+        "sha512": "01b78f96de364acf56a7c0ec6dc88bbc136607f991b19988967e093636627c49f02f14745592f8dad78996cad837035c7e385a1798ff642cdb82df7ab5a62972"
       },
       "1_1_8": {
         "name": "lithostitched-fabric-1.20.4-1.1.8.jar",
@@ -1722,16 +1717,16 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/sOHwiEW6/lithostitched-fabric-1.20.4-1.1.2.jar",
         "sha512": "78c266a70ce7f2a4200436d7348c9d25b203221831ee872c9f8ecdb9d001862949b770a9c00a2eeeabf4ebc3438deb3093c44352ba715e52979ac69bc94f48d0"
       },
-      "1_1_1": {
-        "name": "lithostitched-fabric-1.20.4-1.1.1-dev.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/GSpxeHSW/lithostitched-fabric-1.20.4-1.1.1-dev.jar",
-        "sha512": "6603d683d60427ff2ef8b03790001c023ddebd2a78248a73688bdc23a0247a9fe57701b6617948513bf1baa3ee6366a3a0edb5fddda4ca0a5ea29c66f02f1af7"
-      },
       "1_1_1a": {
         "name": "lithostitched-fabric-1.20.4-1.1.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/y49el8x8/lithostitched-fabric-1.20.4-1.1.1a.jar",
         "sha512": "98c76a1a3d880735adcee2142e98e9b8f8e116983599063dd1986485b74de63031c3cfc7f82d63ff725082b599ecb8d114ddb2011a064a56057cacb18460f47d"
       },
+      "1_1_1": {
+        "name": "lithostitched-fabric-1.20.4-1.1.1-dev.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/GSpxeHSW/lithostitched-fabric-1.20.4-1.1.1-dev.jar",
+        "sha512": "6603d683d60427ff2ef8b03790001c023ddebd2a78248a73688bdc23a0247a9fe57701b6617948513bf1baa3ee6366a3a0edb5fddda4ca0a5ea29c66f02f1af7"
+      },
       "1_1_0": {
         "name": "lithostitched-fabric-1.20.2-1.1.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/lSEqJCDB/lithostitched-fabric-1.20.2-1.1.0.jar",
@@ -1741,18 +1736,18 @@
         "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/nWGTsnuc/lithostitched-fabric-1.20.2-1.0.0.jar",
         "sha512": "c0e1238a0965c2d65ab25eaf7580465e98eb13c72b098aff75a0ae2669add26f07a51749aae6c017682578fdf5f28f999320042156f3d544ea0be00dec4e65a6"
+      },
+      "1_20_2-1_0_0": {
+        "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
+        "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
       }
     },
     "1_20_3": {
       "latest": {
-        "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
-        "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
-      },
-      "1_20_2-1_0_0": {
-        "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
-        "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
+        "name": "lithostitched-fabric-1.20.2-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/lSEqJCDB/lithostitched-fabric-1.20.2-1.1.0.jar",
+        "sha512": "5ded7cea87e6289adaf176ddaa4cdfdfdbeebc87f6c82564d59582041d3bee345c014d2ce55cb18c08b36edd196b3b4d4505f3acce1c922b77ccf37dba5a7a5f"
       },
       "1_1_0": {
         "name": "lithostitched-fabric-1.20.2-1.1.0.jar",
@@ -1763,18 +1758,18 @@
         "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/nWGTsnuc/lithostitched-fabric-1.20.2-1.0.0.jar",
         "sha512": "c0e1238a0965c2d65ab25eaf7580465e98eb13c72b098aff75a0ae2669add26f07a51749aae6c017682578fdf5f28f999320042156f3d544ea0be00dec4e65a6"
-      }
-    },
-    "1_20_2": {
-      "latest": {
-        "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
-        "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
       },
       "1_20_2-1_0_0": {
         "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
         "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "lithostitched-fabric-1.20.1-1.1.8.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/6fbZrlp1/lithostitched-fabric-1.20.1-1.1.8.jar",
+        "sha512": "2dfd2e9dd8a5c8d44efa852016b1a28fc16ed2f43b74c1ff8b1b53f4e5ca1e5aa031c26c8b6b3c0ffc9c18ca527fcb9d8e29d9f7a6872183853c27f472bf31d0"
       },
       "1_1_8": {
         "name": "lithostitched-fabric-1.20.1-1.1.8.jar",
@@ -1791,15 +1786,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/P9uKfQS0/lithostitched-fabric-1.20.1-1.1.5.jar",
         "sha512": "1cb591ab4218779c8e89f2fdcaab74381884240c7b0d66d1d406ff33455541a53a3f54704b3aee25fdd9b17ead3f26c6b9cde84f20008f35835a88eb3bad3c7c"
       },
-      "1_1_4": {
-        "name": "lithostitched-fabric-1.20.1-1.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/d0nhXKYJ/lithostitched-fabric-1.20.1-1.1.4.jar",
-        "sha512": "f3b247f698b2b5e1d0ad64e402dd16fb107248c69c777414556a224fe37262a41164f82380d47608aeac82c86c91348b24a4ccc712ca82e8918f73353b26a064"
-      },
       "1_1_4a": {
         "name": "lithostitched-fabric-1.20.1-1.1.4a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/uU1zP8Xq/lithostitched-fabric-1.20.1-1.1.4a.jar",
         "sha512": "9754b50519883d1a95f9e9e059da00cbecbf92b9270af3bc099de286ce1d831023d58ebb8affaa9ed9386ced8f50f3b5df84a4e41dfe8632bf4c15dcc5ddc05c"
+      },
+      "1_1_4": {
+        "name": "lithostitched-fabric-1.20.1-1.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/d0nhXKYJ/lithostitched-fabric-1.20.1-1.1.4.jar",
+        "sha512": "f3b247f698b2b5e1d0ad64e402dd16fb107248c69c777414556a224fe37262a41164f82380d47608aeac82c86c91348b24a4ccc712ca82e8918f73353b26a064"
       },
       "1_1_3": {
         "name": "lithostitched-fabric-1.20.1-1.1.3.jar",
@@ -1811,15 +1806,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/4ac1XgMH/lithostitched-fabric-1.20.1-1.1.2.jar",
         "sha512": "61f4a80d6096ca49ca124ce6bd4e9a0cd2849bf087d2df8b0a9af335cbd9c0cffad97f7d7bb16887b2c29f3f998b014a6b47e9e9765b0ae56100791bae488f63"
       },
-      "1_1_1": {
-        "name": "lithostitched-fabric-1.20.1-1.1.1-dev.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/xoeYggd1/lithostitched-fabric-1.20.1-1.1.1-dev.jar",
-        "sha512": "bc88dbee8a4af2f335fb467e41899ce13fa089bc4bbf5d1d240e6d8e5a7887f63b30aab87a718eff2b5ed8bccc16368ac97119487eec96dda2fbc81103b5173f"
-      },
       "1_1_1a": {
         "name": "lithostitched-fabric-1.20.1-1.1.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5QR5PAS6/lithostitched-fabric-1.20.1-1.1.1a.jar",
         "sha512": "31347011efb6b5afbce297e18483b484a82b3b42ae3721ed60ff5de869f355273e31f48eec32996929f8acbbb2692e200324648962dd1195ba96af0e289afe57"
+      },
+      "1_1_1": {
+        "name": "lithostitched-fabric-1.20.1-1.1.1-dev.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/xoeYggd1/lithostitched-fabric-1.20.1-1.1.1-dev.jar",
+        "sha512": "bc88dbee8a4af2f335fb467e41899ce13fa089bc4bbf5d1d240e6d8e5a7887f63b30aab87a718eff2b5ed8bccc16368ac97119487eec96dda2fbc81103b5173f"
       },
       "1_1_0": {
         "name": "lithostitched-fabric-1.20.2-1.1.0.jar",
@@ -1830,18 +1825,18 @@
         "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/nWGTsnuc/lithostitched-fabric-1.20.2-1.0.0.jar",
         "sha512": "c0e1238a0965c2d65ab25eaf7580465e98eb13c72b098aff75a0ae2669add26f07a51749aae6c017682578fdf5f28f999320042156f3d544ea0be00dec4e65a6"
+      },
+      "1_20_2-1_0_0": {
+        "name": "lithostitched-fabric-1.20.2-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/ffxUpKO9/lithostitched-fabric-1.20.2-1.0.0.jar",
+        "sha512": "0fb34a088fb1d3f3ddee16d3b0065f3b10f87b444eb571425e1c94212ad693029b90721d4aac81d5e542d34772605788a8ad53a0cb1a10e8817bc1d85f7185ba"
       }
     },
     "1_20_1": {
       "latest": {
-        "name": "lithostitched-fabric-1.20.1-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/8fRJMUtj/lithostitched-fabric-1.20.1-1.0.0.jar",
-        "sha512": "3f339d0e044970c7105d61a09cd79665961b13159a19164283cc09f0fb9161d81e99ec98d8ef99661b0c61cd7959f7ae9df13c214fe994ed2e9d9b8dc3745625"
-      },
-      "1_20_1-1_0_0": {
-        "name": "lithostitched-fabric-1.20.1-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/8fRJMUtj/lithostitched-fabric-1.20.1-1.0.0.jar",
-        "sha512": "3f339d0e044970c7105d61a09cd79665961b13159a19164283cc09f0fb9161d81e99ec98d8ef99661b0c61cd7959f7ae9df13c214fe994ed2e9d9b8dc3745625"
+        "name": "lithostitched-fabric-1.20.1-1.4.11.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/9bbVphAR/lithostitched-fabric-1.20.1-1.4.11.jar",
+        "sha512": "d8e840907e3f7326c1e6605b65c46eb4e920e4790ab4074884ad21913f0c097dcacf4b813091239eb58bd65b7c75b96d04bb4df6eec830f89a21e217e3c0fdec"
       },
       "1_4_111_20": {
         "name": "lithostitched-fabric-1.20.1-1.4.11.jar",
@@ -1918,20 +1913,20 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/B7lT1iMp/lithostitched-fabric-1.20.1-1.3.3.jar",
         "sha512": "57ed0f6cdc0f27428811f96aa1c5034160a8d0f4bedb2391022c44e2a6603a2b06a267cafbabced14dd77f4d05a70c6633db8c07cbf820a91d7094700d8d8cc1"
       },
-      "1_3_1": {
-        "name": "lithostitched-fabric-1.20.1-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/7NuLbnMJ/lithostitched-fabric-1.20.1-1.3.1.jar",
-        "sha512": "244cc7cd0d4f2279f269de41c3e6d4d4edc111d76b8a157545d673638a7d3dede6791f37da620e910e3e51a5bdef2b5f60dfeb7c7bbab9025d7e0c5baddc1492"
+      "1_3_1b": {
+        "name": "lithostitched-fabric-1.20.1-1.3.1b.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/Bl43XrQ6/lithostitched-fabric-1.20.1-1.3.1b.jar",
+        "sha512": "ab9d602b7f67fd9e9f4bb4cf29f36752c14ecd9bdb45e7cbe37404eee70eb69042878aac27a966525eb8b97631e9c94a94b360f306c820a719cef901be248233"
       },
       "1_3_1a": {
         "name": "lithostitched-fabric-1.20.1-1.3.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/B6E4jva8/lithostitched-fabric-1.20.1-1.3.1a.jar",
         "sha512": "e2a69c43fdf64f202898a29e63782c1925e7191a25ad39f49aba05dc03f7f7784e0a11460d6371649aaac095ffcb77635d58bc0707d0cb300ddb3be762b01fe1"
       },
-      "1_3_1b": {
-        "name": "lithostitched-fabric-1.20.1-1.3.1b.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/Bl43XrQ6/lithostitched-fabric-1.20.1-1.3.1b.jar",
-        "sha512": "ab9d602b7f67fd9e9f4bb4cf29f36752c14ecd9bdb45e7cbe37404eee70eb69042878aac27a966525eb8b97631e9c94a94b360f306c820a719cef901be248233"
+      "1_3_1": {
+        "name": "lithostitched-fabric-1.20.1-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/7NuLbnMJ/lithostitched-fabric-1.20.1-1.3.1.jar",
+        "sha512": "244cc7cd0d4f2279f269de41c3e6d4d4edc111d76b8a157545d673638a7d3dede6791f37da620e910e3e51a5bdef2b5f60dfeb7c7bbab9025d7e0c5baddc1492"
       },
       "1_3_0": {
         "name": "lithostitched-fabric-1.20.1-1.3.0.jar",
@@ -1953,15 +1948,15 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/P9uKfQS0/lithostitched-fabric-1.20.1-1.1.5.jar",
         "sha512": "1cb591ab4218779c8e89f2fdcaab74381884240c7b0d66d1d406ff33455541a53a3f54704b3aee25fdd9b17ead3f26c6b9cde84f20008f35835a88eb3bad3c7c"
       },
-      "1_1_4": {
-        "name": "lithostitched-fabric-1.20.1-1.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/d0nhXKYJ/lithostitched-fabric-1.20.1-1.1.4.jar",
-        "sha512": "f3b247f698b2b5e1d0ad64e402dd16fb107248c69c777414556a224fe37262a41164f82380d47608aeac82c86c91348b24a4ccc712ca82e8918f73353b26a064"
-      },
       "1_1_4a": {
         "name": "lithostitched-fabric-1.20.1-1.1.4a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/uU1zP8Xq/lithostitched-fabric-1.20.1-1.1.4a.jar",
         "sha512": "9754b50519883d1a95f9e9e059da00cbecbf92b9270af3bc099de286ce1d831023d58ebb8affaa9ed9386ced8f50f3b5df84a4e41dfe8632bf4c15dcc5ddc05c"
+      },
+      "1_1_4": {
+        "name": "lithostitched-fabric-1.20.1-1.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/d0nhXKYJ/lithostitched-fabric-1.20.1-1.1.4.jar",
+        "sha512": "f3b247f698b2b5e1d0ad64e402dd16fb107248c69c777414556a224fe37262a41164f82380d47608aeac82c86c91348b24a4ccc712ca82e8918f73353b26a064"
       },
       "1_1_3": {
         "name": "lithostitched-fabric-1.20.1-1.1.3.jar",
@@ -1973,20 +1968,25 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/4ac1XgMH/lithostitched-fabric-1.20.1-1.1.2.jar",
         "sha512": "61f4a80d6096ca49ca124ce6bd4e9a0cd2849bf087d2df8b0a9af335cbd9c0cffad97f7d7bb16887b2c29f3f998b014a6b47e9e9765b0ae56100791bae488f63"
       },
-      "1_1_1": {
-        "name": "lithostitched-fabric-1.20.1-1.1.1-dev.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/xoeYggd1/lithostitched-fabric-1.20.1-1.1.1-dev.jar",
-        "sha512": "bc88dbee8a4af2f335fb467e41899ce13fa089bc4bbf5d1d240e6d8e5a7887f63b30aab87a718eff2b5ed8bccc16368ac97119487eec96dda2fbc81103b5173f"
-      },
       "1_1_1a": {
         "name": "lithostitched-fabric-1.20.1-1.1.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/5QR5PAS6/lithostitched-fabric-1.20.1-1.1.1a.jar",
         "sha512": "31347011efb6b5afbce297e18483b484a82b3b42ae3721ed60ff5de869f355273e31f48eec32996929f8acbbb2692e200324648962dd1195ba96af0e289afe57"
       },
+      "1_1_1": {
+        "name": "lithostitched-fabric-1.20.1-1.1.1-dev.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/xoeYggd1/lithostitched-fabric-1.20.1-1.1.1-dev.jar",
+        "sha512": "bc88dbee8a4af2f335fb467e41899ce13fa089bc4bbf5d1d240e6d8e5a7887f63b30aab87a718eff2b5ed8bccc16368ac97119487eec96dda2fbc81103b5173f"
+      },
       "1_1_0": {
         "name": "lithostitched-fabric-1.20.1-1.1.0.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/RpsFZIW7/lithostitched-fabric-1.20.1-1.1.0.jar",
         "sha512": "6056dd4591c5a7863f369b347081fdb9ae665e7ba7f13b8d4f8fd986ec3b8e1f5d23546c49f907c336d43591d0ae4af63e42e0b11e7724aa5ff3b6469fff83f2"
+      },
+      "1_20_1-1_0_0": {
+        "name": "lithostitched-fabric-1.20.1-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/8fRJMUtj/lithostitched-fabric-1.20.1-1.0.0.jar",
+        "sha512": "3f339d0e044970c7105d61a09cd79665961b13159a19164283cc09f0fb9161d81e99ec98d8ef99661b0c61cd7959f7ae9df13c214fe994ed2e9d9b8dc3745625"
       }
     },
     "1_20": {
@@ -2070,20 +2070,20 @@
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/B7lT1iMp/lithostitched-fabric-1.20.1-1.3.3.jar",
         "sha512": "57ed0f6cdc0f27428811f96aa1c5034160a8d0f4bedb2391022c44e2a6603a2b06a267cafbabced14dd77f4d05a70c6633db8c07cbf820a91d7094700d8d8cc1"
       },
-      "1_3_1": {
-        "name": "lithostitched-fabric-1.20.1-1.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/7NuLbnMJ/lithostitched-fabric-1.20.1-1.3.1.jar",
-        "sha512": "244cc7cd0d4f2279f269de41c3e6d4d4edc111d76b8a157545d673638a7d3dede6791f37da620e910e3e51a5bdef2b5f60dfeb7c7bbab9025d7e0c5baddc1492"
+      "1_3_1b": {
+        "name": "lithostitched-fabric-1.20.1-1.3.1b.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/Bl43XrQ6/lithostitched-fabric-1.20.1-1.3.1b.jar",
+        "sha512": "ab9d602b7f67fd9e9f4bb4cf29f36752c14ecd9bdb45e7cbe37404eee70eb69042878aac27a966525eb8b97631e9c94a94b360f306c820a719cef901be248233"
       },
       "1_3_1a": {
         "name": "lithostitched-fabric-1.20.1-1.3.1a.jar",
         "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/B6E4jva8/lithostitched-fabric-1.20.1-1.3.1a.jar",
         "sha512": "e2a69c43fdf64f202898a29e63782c1925e7191a25ad39f49aba05dc03f7f7784e0a11460d6371649aaac095ffcb77635d58bc0707d0cb300ddb3be762b01fe1"
       },
-      "1_3_1b": {
-        "name": "lithostitched-fabric-1.20.1-1.3.1b.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/Bl43XrQ6/lithostitched-fabric-1.20.1-1.3.1b.jar",
-        "sha512": "ab9d602b7f67fd9e9f4bb4cf29f36752c14ecd9bdb45e7cbe37404eee70eb69042878aac27a966525eb8b97631e9c94a94b360f306c820a719cef901be248233"
+      "1_3_1": {
+        "name": "lithostitched-fabric-1.20.1-1.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/7NuLbnMJ/lithostitched-fabric-1.20.1-1.3.1.jar",
+        "sha512": "244cc7cd0d4f2279f269de41c3e6d4d4edc111d76b8a157545d673638a7d3dede6791f37da620e910e3e51a5bdef2b5f60dfeb7c7bbab9025d7e0c5baddc1492"
       },
       "1_3_0": {
         "name": "lithostitched-fabric-1.20.1-1.3.0.jar",

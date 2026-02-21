@@ -2,29 +2,29 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "create-new-age-1.1.7+neoforge-mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ZyNyY0OA/create-new-age-1.1.7%2Bneoforge-mc1.21.1.jar",
-        "sha512": "60ed318e4da1542567e540f84f34e3bcf0414b8b9ad6d9ece429af3e5b89ab25f5ffc2b797f90c0f7c6b1bf8446ce5a0b7188ca9da754cb8872575422047c8a4"
+        "name": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/eQ9rbApE/create-new-age-1.1.7c%2Bneoforge-mc1.21.1.jar",
+        "sha512": "810f5079647e4d3f181b9e42c741379af2d904d3be0fae83efa5dd9f67e7bac3041539e972ecc0bc0e0c53c2b453fcfa0931c749327a5573ee2ecba61ffc5070"
       },
-      "1_1_7+mc": {
-        "name": "create-new-age-1.1.7+neoforge-mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ZyNyY0OA/create-new-age-1.1.7%2Bneoforge-mc1.21.1.jar",
-        "sha512": "60ed318e4da1542567e540f84f34e3bcf0414b8b9ad6d9ece429af3e5b89ab25f5ffc2b797f90c0f7c6b1bf8446ce5a0b7188ca9da754cb8872575422047c8a4"
-      },
-      "1_1_7a+mc": {
-        "name": "create-new-age-1.1.7a+neoforge-mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/jKQGO6gz/create-new-age-1.1.7a%2Bneoforge-mc1.21.1.jar",
-        "sha512": "ea7b69efbffeb53659bb186684ae2c6a3dfcdaf010a7eb18990bcda0afbfbc6535fbd541522f67793a5c7d5f2c5448f3937e89cf5e2434e141c4b7f0c4fbc147"
+      "1_1_7c+mc": {
+        "name": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/eQ9rbApE/create-new-age-1.1.7c%2Bneoforge-mc1.21.1.jar",
+        "sha512": "810f5079647e4d3f181b9e42c741379af2d904d3be0fae83efa5dd9f67e7bac3041539e972ecc0bc0e0c53c2b453fcfa0931c749327a5573ee2ecba61ffc5070"
       },
       "1_1_7b+mc": {
         "name": "create-new-age-1.1.7b+neoforge-mc1.21.1-dev.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/18k5Q2Hd/create-new-age-1.1.7b%2Bneoforge-mc1.21.1-dev.jar",
         "sha512": "235984e17b62b8480b681e073f187aaaa460bb384f38fbc28b4d3b4ead585f58e68ea5336a13a1e8cd338aad60151965472927b2ca61541f42540b641a2e9f7d"
       },
-      "1_1_7c+mc": {
-        "name": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/eQ9rbApE/create-new-age-1.1.7c%2Bneoforge-mc1.21.1.jar",
-        "sha512": "810f5079647e4d3f181b9e42c741379af2d904d3be0fae83efa5dd9f67e7bac3041539e972ecc0bc0e0c53c2b453fcfa0931c749327a5573ee2ecba61ffc5070"
+      "1_1_7a+mc": {
+        "name": "create-new-age-1.1.7a+neoforge-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/jKQGO6gz/create-new-age-1.1.7a%2Bneoforge-mc1.21.1.jar",
+        "sha512": "ea7b69efbffeb53659bb186684ae2c6a3dfcdaf010a7eb18990bcda0afbfbc6535fbd541522f67793a5c7d5f2c5448f3937e89cf5e2434e141c4b7f0c4fbc147"
+      },
+      "1_1_7+mc": {
+        "name": "create-new-age-1.1.7+neoforge-mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ZyNyY0OA/create-new-age-1.1.7%2Bneoforge-mc1.21.1.jar",
+        "sha512": "60ed318e4da1542567e540f84f34e3bcf0414b8b9ad6d9ece429af3e5b89ab25f5ffc2b797f90c0f7c6b1bf8446ce5a0b7188ca9da754cb8872575422047c8a4"
       },
       "1_1_6+mc": {
         "name": "create-new-age-1.1.6+neoforge-mc1.21.1.jar",
@@ -39,14 +39,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "create-new-age-forge-1.20.1-1.1.pre5.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/hExvnyfK/create-new-age-forge-1.20.1-1.1.pre5.jar",
-        "sha512": "51b515f8b9b37a087daa2e89d481b016e36d72e80e25e2246e85adb6f2cbca35d20ee9623bd97dde0357c1606290d6ea5c393d9fc8a8eb7e824d107cd08e2b7f"
-      },
-      "1_1_pre5": {
-        "name": "create-new-age-forge-1.20.1-1.1.pre5.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/hExvnyfK/create-new-age-forge-1.20.1-1.1.pre5.jar",
-        "sha512": "51b515f8b9b37a087daa2e89d481b016e36d72e80e25e2246e85adb6f2cbca35d20ee9623bd97dde0357c1606290d6ea5c393d9fc8a8eb7e824d107cd08e2b7f"
+        "name": "create-new-age-forge-1.20.1-1.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/8pm2JUQy/create-new-age-forge-1.20.1-1.1.4.jar",
+        "sha512": "c1e8b474fb1757b1c227233bece734e4f8e496497f0e23ab9ecb0562e41fcee782b706e22861a1a8915bca6b8d77d787a74a9e8ecad2bf78fdaa289eab8d008b"
       },
       "1_1_4": {
         "name": "create-new-age-forge-1.20.1-1.1.4.jar",
@@ -67,75 +62,60 @@
         "name": "create-new-age-forge-1.20.1-1.1.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/OHszECIT/create-new-age-forge-1.20.1-1.1.jar",
         "sha512": "accfeda80fd69f90434450f3f20e506d47e6892efee08bf644ffcc342332e3311404e0cd68fe1bbca00dbdc914f1930376591290cb6a4fde55e513058b54fff3"
+      },
+      "1_1_pre5": {
+        "name": "create-new-age-forge-1.20.1-1.1.pre5.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/hExvnyfK/create-new-age-forge-1.20.1-1.1.pre5.jar",
+        "sha512": "51b515f8b9b37a087daa2e89d481b016e36d72e80e25e2246e85adb6f2cbca35d20ee9623bd97dde0357c1606290d6ea5c393d9fc8a8eb7e824d107cd08e2b7f"
       }
     }
   },
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "create-new-age-1.1.7+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/23lNs3wj/create-new-age-1.1.7%2Bforge-mc1.20.1.jar",
-        "sha512": "ce87f4d793bb04099c7bab06e9994867ba90888f0f9bce4a3a533c6f4e888aac439c6fd31eb026884c632fca21300ef35afa8cf2b901b89bff52f986d4c4a6c2"
-      },
-      "1_1_7+mc": {
-        "name": "create-new-age-1.1.7+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/23lNs3wj/create-new-age-1.1.7%2Bforge-mc1.20.1.jar",
-        "sha512": "ce87f4d793bb04099c7bab06e9994867ba90888f0f9bce4a3a533c6f4e888aac439c6fd31eb026884c632fca21300ef35afa8cf2b901b89bff52f986d4c4a6c2"
-      },
-      "1_1_7b+mc": {
-        "name": "create-new-age-1.1.7b+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/SFEQocaa/create-new-age-1.1.7b%2Bforge-mc1.20.1.jar",
-        "sha512": "43f9900ec554fe9c8ef0406b2c99994c27ec06de7c813637b2ec5031b3c3580a5b000a57fea31fe35abb343533e6a5eb83c60d0138f2d936d1f036ce51fe492e"
-      },
-      "1_1_7c+mc": {
-        "name": "create-new-age-1.1.7c+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/pkgslFCg/create-new-age-1.1.7c%2Bforge-mc1.20.1.jar",
-        "sha512": "6aeeae3f61101b0936841064865854181e036f73c13734d91b16758c7e9ec444314c8bc1ab0e1d2a3ec22be7baa04adcceedf74c9449850ed261bf908ebfa41c"
-      },
-      "1_1_7d+mc": {
-        "name": "create-new-age-1.1.7d+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/7c0YvAdE/create-new-age-1.1.7d%2Bforge-mc1.20.1.jar",
-        "sha512": "6ac7fe16a3ffccfbd603bd2b5738f906daf36f4eef9bab3c0ccc68ac2249dd0885978860445097d037baf74006027e21a6458bd2a83b1135a1d897ce1173fe2c"
-      },
-      "1_1_7e+mc": {
-        "name": "create-new-age-1.1.7e+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/mBY9X7fu/create-new-age-1.1.7e%2Bforge-mc1.20.1.jar",
-        "sha512": "33559235f97c56825ed6cf56f20a87ecc7fe694777fd215dbd0cc24987faae19a27c8d200e8df10e43152d252b9de98da064186b052506235b32339b9fbd4e0f"
+        "name": "create-new-age-1.1.7f+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/zQStvTFw/create-new-age-1.1.7f%2Bforge-mc1.20.1.jar",
+        "sha512": "88c3032d597c4d4f655bd695fae4b9c4a2f9b2528998386928a955f0b34dde93d7a03fa1c4e0d724e4b392ba3a9bfb0a697542a9fc5780fd8ba16880bce21a9c"
       },
       "1_1_7f+mc": {
         "name": "create-new-age-1.1.7f+forge-mc1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/zQStvTFw/create-new-age-1.1.7f%2Bforge-mc1.20.1.jar",
         "sha512": "88c3032d597c4d4f655bd695fae4b9c4a2f9b2528998386928a955f0b34dde93d7a03fa1c4e0d724e4b392ba3a9bfb0a697542a9fc5780fd8ba16880bce21a9c"
       },
-      "1_1_pre5": {
-        "name": "create-new-age-forge-1.20.1-1.1.pre5.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/hExvnyfK/create-new-age-forge-1.20.1-1.1.pre5.jar",
-        "sha512": "51b515f8b9b37a087daa2e89d481b016e36d72e80e25e2246e85adb6f2cbca35d20ee9623bd97dde0357c1606290d6ea5c393d9fc8a8eb7e824d107cd08e2b7f"
+      "1_1_7e+mc": {
+        "name": "create-new-age-1.1.7e+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/mBY9X7fu/create-new-age-1.1.7e%2Bforge-mc1.20.1.jar",
+        "sha512": "33559235f97c56825ed6cf56f20a87ecc7fe694777fd215dbd0cc24987faae19a27c8d200e8df10e43152d252b9de98da064186b052506235b32339b9fbd4e0f"
       },
-      "1_1_pre4": {
-        "name": "create-new-age-forge-1.20.1-1.1.pre4.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/HuzzzYL6/create-new-age-forge-1.20.1-1.1.pre4.jar",
-        "sha512": "d1d369f68f601ed7e5c0de933a19218866094a6022b1a305534c90cda68a5adb21f3f0400ddbc4e1dd82987a62e27c1f8d34cabf2f3cc5730cc36f8d8e285fa6"
+      "1_1_7d+mc": {
+        "name": "create-new-age-1.1.7d+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/7c0YvAdE/create-new-age-1.1.7d%2Bforge-mc1.20.1.jar",
+        "sha512": "6ac7fe16a3ffccfbd603bd2b5738f906daf36f4eef9bab3c0ccc68ac2249dd0885978860445097d037baf74006027e21a6458bd2a83b1135a1d897ce1173fe2c"
+      },
+      "1_1_7c+mc": {
+        "name": "create-new-age-1.1.7c+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/pkgslFCg/create-new-age-1.1.7c%2Bforge-mc1.20.1.jar",
+        "sha512": "6aeeae3f61101b0936841064865854181e036f73c13734d91b16758c7e9ec444314c8bc1ab0e1d2a3ec22be7baa04adcceedf74c9449850ed261bf908ebfa41c"
+      },
+      "1_1_7b+mc": {
+        "name": "create-new-age-1.1.7b+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/SFEQocaa/create-new-age-1.1.7b%2Bforge-mc1.20.1.jar",
+        "sha512": "43f9900ec554fe9c8ef0406b2c99994c27ec06de7c813637b2ec5031b3c3580a5b000a57fea31fe35abb343533e6a5eb83c60d0138f2d936d1f036ce51fe492e"
+      },
+      "1_1_7+mc": {
+        "name": "create-new-age-1.1.7+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/23lNs3wj/create-new-age-1.1.7%2Bforge-mc1.20.1.jar",
+        "sha512": "ce87f4d793bb04099c7bab06e9994867ba90888f0f9bce4a3a533c6f4e888aac439c6fd31eb026884c632fca21300ef35afa8cf2b901b89bff52f986d4c4a6c2"
       },
       "1_1_4": {
         "name": "create-new-age-forge-1.20.1-1.1.4.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/8pm2JUQy/create-new-age-forge-1.20.1-1.1.4.jar",
         "sha512": "c1e8b474fb1757b1c227233bece734e4f8e496497f0e23ab9ecb0562e41fcee782b706e22861a1a8915bca6b8d77d787a74a9e8ecad2bf78fdaa289eab8d008b"
       },
-      "1_1_pre3": {
-        "name": "create-new-age-forge-1.20.1-1.1.pre3.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/7BLYh3Vj/create-new-age-forge-1.20.1-1.1.pre3.jar",
-        "sha512": "085259a5c3c1c782005a23fa2ed929ebb3a5ff0e4ce2f65d2e27ab11ef1b98b5a8c6a27dbf87f5bcf15eca99d3d63b9248ee6d43d1f963951cf3d80037290c39"
-      },
       "1_1_3": {
         "name": "create-new-age-forge-1.20.1-1.1.3.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/YS0a9QFJ/create-new-age-forge-1.20.1-1.1.3.jar",
         "sha512": "0b1fff0c03e26364d5c9ce5a8267f18fcc3ec840483e2169095fc5a0552e3d02b4b3554af3c6e2642e6313ff03e9f99f16cb53ff6942004423b66562fd0cd047"
-      },
-      "1_1_pre2": {
-        "name": "create-new-age-forge-1.20.1-1.1.pre2.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ioExlpoB/create-new-age-forge-1.20.1-1.1.pre2.jar",
-        "sha512": "8db22766152932808a87f0628a6505465e4eb75f7206e8c8261756ba22a9f85b396547256d9ecae92ef2e592fcc4415ef42ec3bf9d6943eb159f166ae6e8e8b9"
       },
       "1_1_2": {
         "name": "create-new-age-forge-1.20.1-1.1.2.jar",
@@ -152,47 +132,52 @@
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/OHszECIT/create-new-age-forge-1.20.1-1.1.jar",
         "sha512": "accfeda80fd69f90434450f3f20e506d47e6892efee08bf644ffcc342332e3311404e0cd68fe1bbca00dbdc914f1930376591290cb6a4fde55e513058b54fff3"
       },
+      "1_1_pre5": {
+        "name": "create-new-age-forge-1.20.1-1.1.pre5.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/hExvnyfK/create-new-age-forge-1.20.1-1.1.pre5.jar",
+        "sha512": "51b515f8b9b37a087daa2e89d481b016e36d72e80e25e2246e85adb6f2cbca35d20ee9623bd97dde0357c1606290d6ea5c393d9fc8a8eb7e824d107cd08e2b7f"
+      },
+      "1_1_pre4": {
+        "name": "create-new-age-forge-1.20.1-1.1.pre4.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/HuzzzYL6/create-new-age-forge-1.20.1-1.1.pre4.jar",
+        "sha512": "d1d369f68f601ed7e5c0de933a19218866094a6022b1a305534c90cda68a5adb21f3f0400ddbc4e1dd82987a62e27c1f8d34cabf2f3cc5730cc36f8d8e285fa6"
+      },
+      "1_1_pre3": {
+        "name": "create-new-age-forge-1.20.1-1.1.pre3.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/7BLYh3Vj/create-new-age-forge-1.20.1-1.1.pre3.jar",
+        "sha512": "085259a5c3c1c782005a23fa2ed929ebb3a5ff0e4ce2f65d2e27ab11ef1b98b5a8c6a27dbf87f5bcf15eca99d3d63b9248ee6d43d1f963951cf3d80037290c39"
+      },
+      "1_1_pre2": {
+        "name": "create-new-age-forge-1.20.1-1.1.pre2.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ioExlpoB/create-new-age-forge-1.20.1-1.1.pre2.jar",
+        "sha512": "8db22766152932808a87f0628a6505465e4eb75f7206e8c8261756ba22a9f85b396547256d9ecae92ef2e592fcc4415ef42ec3bf9d6943eb159f166ae6e8e8b9"
+      },
       "1_0_1b": {
         "name": "create-new-age-forge-1.20.1-1.0.1b.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/a6W08wcK/create-new-age-forge-1.20.1-1.0.1b.jar",
         "sha512": "fa3e2c25634efb1faa1b92ec45f7ae85a5e6bb939ac602af408cdd4ea4a45d93331c1e290c6fd75dd593d51a4d35ef4384f05ce26deb1dbafb9d390a4f38af32"
       },
-      "1_0": {
-        "name": "create-new-age-forge-1.20.1-1.0.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/RCECmmih/create-new-age-forge-1.20.1-1.0.jar",
-        "sha512": "cbd10b3a328545494535fd10b0c152a2848ff9a3a807b911277ae5fb07e391e7a98e891509369dba015aef8f5ee06122bad095ade1a9dbcd26b240bbe1f61ad4"
+      "1_0c": {
+        "name": "create-new-age-forge-1.20.1-1.0c.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/EZOMcIeF/create-new-age-forge-1.20.1-1.0c.jar",
+        "sha512": "1f05aefc1d6de67ce8f4143f0f8da04c7da6ec4d8dd1c649329335f18f45435edc37760118d94d84b4e84b50d22ab7be6d67090f377020c2b3c0a3e3f675e12a"
       },
       "1_0b": {
         "name": "create-new-age-forge-1.20.1-1.0b.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rWaKt59k/create-new-age-forge-1.20.1-1.0b.jar",
         "sha512": "320039dbfc5b632de9209cbf23f4bdd9481dfa1a7e89f50e668438b901a7d3be073833a329bfce2d9b1fc4a3f28cfc205f8d30cc149f015b91a37fa05aed8015"
       },
-      "1_0c": {
-        "name": "create-new-age-forge-1.20.1-1.0c.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/EZOMcIeF/create-new-age-forge-1.20.1-1.0c.jar",
-        "sha512": "1f05aefc1d6de67ce8f4143f0f8da04c7da6ec4d8dd1c649329335f18f45435edc37760118d94d84b4e84b50d22ab7be6d67090f377020c2b3c0a3e3f675e12a"
+      "1_0": {
+        "name": "create-new-age-forge-1.20.1-1.0.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/RCECmmih/create-new-age-forge-1.20.1-1.0.jar",
+        "sha512": "cbd10b3a328545494535fd10b0c152a2848ff9a3a807b911277ae5fb07e391e7a98e891509369dba015aef8f5ee06122bad095ade1a9dbcd26b240bbe1f61ad4"
       }
     },
     "1_19_2": {
       "latest": {
-        "name": "create-new-age-forge-1.19.2-1.1.pre5.hf1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rrNIuoca/create-new-age-forge-1.19.2-1.1.pre5.hf1.jar",
-        "sha512": "73633dea0e6357bbb6eea089e860ab3b4b195b4bc790d3a2cbe14aa523323b6393a6f5b17690388994ae2bbff847c08b4d4ff903cd07401b1b5b5f6a830587b7"
-      },
-      "1_1_pre5_hf1": {
-        "name": "create-new-age-forge-1.19.2-1.1.pre5.hf1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rrNIuoca/create-new-age-forge-1.19.2-1.1.pre5.hf1.jar",
-        "sha512": "73633dea0e6357bbb6eea089e860ab3b4b195b4bc790d3a2cbe14aa523323b6393a6f5b17690388994ae2bbff847c08b4d4ff903cd07401b1b5b5f6a830587b7"
-      },
-      "1_1_pre5": {
-        "name": "create-new-age-forge-1.19.2-1.1.pre5.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/dWpdPzIU/create-new-age-forge-1.19.2-1.1.pre5.jar",
-        "sha512": "f2e76d14753bef6dc322b7353b4e8e8c7a1662264a57d9b39cf48902bc16ffe6175acd18727766806dff29ef9f1bee74fc5787fe710786fcced94955d936b368"
-      },
-      "1_1_pre4": {
-        "name": "create-new-age-forge-1.19.2-1.1.pre4.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/vMKWsHwr/create-new-age-forge-1.19.2-1.1.pre4.jar",
-        "sha512": "90744b158b2df5823dbfdc7be4ef9ab48bc76f58303dcd120c82e268f3893e09975d6c4800833a741e334d78083ad62e60938df6e97779fd2ffb14e19eddbb33"
+        "name": "create-new-age-forge-1.19.2-1.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/bLna6SZ1/create-new-age-forge-1.19.2-1.1.2.jar",
+        "sha512": "c24529de3e41b0796b5abd14d9faf111ba5be84c87aee6f2003bbbb5cf10c96386c00369181e9e034a067028bed38763401ee116e49f905f53137c9d52a88efc"
       },
       "1_1_2": {
         "name": "create-new-age-forge-1.19.2-1.1.2.jar",
@@ -209,69 +194,104 @@
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/UMQnwuOr/create-new-age-forge-1.19.2-1.1.jar",
         "sha512": "5c100291e19e2460787935a6989884d569e1ab3840c81d975464900a0d329deda0a6d628ca738b6ba157384c013a20157b3de9e11cddc43b0a0f2402dc3a64dc"
       },
+      "1_1_pre5_hf1": {
+        "name": "create-new-age-forge-1.19.2-1.1.pre5.hf1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rrNIuoca/create-new-age-forge-1.19.2-1.1.pre5.hf1.jar",
+        "sha512": "73633dea0e6357bbb6eea089e860ab3b4b195b4bc790d3a2cbe14aa523323b6393a6f5b17690388994ae2bbff847c08b4d4ff903cd07401b1b5b5f6a830587b7"
+      },
+      "1_1_pre5": {
+        "name": "create-new-age-forge-1.19.2-1.1.pre5.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/dWpdPzIU/create-new-age-forge-1.19.2-1.1.pre5.jar",
+        "sha512": "f2e76d14753bef6dc322b7353b4e8e8c7a1662264a57d9b39cf48902bc16ffe6175acd18727766806dff29ef9f1bee74fc5787fe710786fcced94955d936b368"
+      },
+      "1_1_pre4": {
+        "name": "create-new-age-forge-1.19.2-1.1.pre4.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/vMKWsHwr/create-new-age-forge-1.19.2-1.1.pre4.jar",
+        "sha512": "90744b158b2df5823dbfdc7be4ef9ab48bc76f58303dcd120c82e268f3893e09975d6c4800833a741e334d78083ad62e60938df6e97779fd2ffb14e19eddbb33"
+      },
       "1_0_1": {
         "name": "create-new-age-forge-1.19.2-1.0.1.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/jqMmLNLe/create-new-age-forge-1.19.2-1.0.1.jar",
         "sha512": "d16a817b8aa774a118499dfbbcfa046468e43ec387b44c34c3374acff5c661bd8956e472aa2759200fe3b529ef791c1f7aadecac3365ee85c39be3530cd5b977"
       },
-      "1_0": {
-        "name": "create-new-age-forge-1.19.2-1.0.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/m8YprJWF/create-new-age-forge-1.19.2-1.0.jar",
-        "sha512": "acda5e0666a4c854fb1f1ce01f76d92ab18fc12c88580637d81d804b8d5024469d0e5d3d3150815418707f90321b26657fd11529bbd907b95e1d4bfc272319e7"
-      },
-      "1_0b": {
-        "name": "create-new-age-forge-1.19.2-1.0b.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/B3pDiU3b/create-new-age-forge-1.19.2-1.0b.jar",
-        "sha512": "c421b905761b1412b39f0da7783f23c231e64597641e05c483723ac5c533d429723926ab594fef3e4d7e3ff3fee66c0cefc8f2e962f77c54cfcc31c43c7bc269"
+      "1_0d": {
+        "name": "create-new-age-forge-1.19.2-1.0d.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/CqRrkNGx/create-new-age-forge-1.19.2-1.0d.jar",
+        "sha512": "768dad9073a6450d38ddbf2f353487e85a3f5be065e3984b572d40229a54de266a512c64c226fb14ab3ab28c0a4916cb7cc877134f3c92b41c68b656b3747f3d"
       },
       "1_0c": {
         "name": "create-new-age-forge-1.19.2-1.0c.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ao3q73HP/create-new-age-forge-1.19.2-1.0c.jar",
         "sha512": "7c585272e4ef38b7ec4aa54bffa855674db33af4b7d3c4efc4a633c14c595cc7fe520ada099a2978d9e22858c071b77198cd7f7e603c862cbf73be36a5802b89"
       },
-      "1_0d": {
-        "name": "create-new-age-forge-1.19.2-1.0d.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/CqRrkNGx/create-new-age-forge-1.19.2-1.0d.jar",
-        "sha512": "768dad9073a6450d38ddbf2f353487e85a3f5be065e3984b572d40229a54de266a512c64c226fb14ab3ab28c0a4916cb7cc877134f3c92b41c68b656b3747f3d"
+      "1_0b": {
+        "name": "create-new-age-forge-1.19.2-1.0b.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/B3pDiU3b/create-new-age-forge-1.19.2-1.0b.jar",
+        "sha512": "c421b905761b1412b39f0da7783f23c231e64597641e05c483723ac5c533d429723926ab594fef3e4d7e3ff3fee66c0cefc8f2e962f77c54cfcc31c43c7bc269"
+      },
+      "1_0": {
+        "name": "create-new-age-forge-1.19.2-1.0.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/m8YprJWF/create-new-age-forge-1.19.2-1.0.jar",
+        "sha512": "acda5e0666a4c854fb1f1ce01f76d92ab18fc12c88580637d81d804b8d5024469d0e5d3d3150815418707f90321b26657fd11529bbd907b95e1d4bfc272319e7"
       }
     }
   },
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "create-new-age-1.1.7+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/md9ccTF9/create-new-age-1.1.7%2Bfabric-mc1.20.1.jar",
-        "sha512": "25c01a8e079c0f9a5caeb17e0fea7d6ff92a5f86a74b29c7df00313f612d9feea66d0c6ca4feceb3d14d5a2e955d8b8c5d06fe1b373796476c778787f2244082"
+        "name": "create-new-age-1.1.7f+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ILLS3a8B/create-new-age-1.1.7f%2Bfabric-mc1.20.1.jar",
+        "sha512": "4fd664d779082efe35151e066d86fe44706927086252469e1152d7099bad2ce57094b5873e3b16294c68c0a7219e1f6a980108e7a48b43365e4b27fd97826450"
       },
-      "1_1_7+mc": {
-        "name": "create-new-age-1.1.7+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/md9ccTF9/create-new-age-1.1.7%2Bfabric-mc1.20.1.jar",
-        "sha512": "25c01a8e079c0f9a5caeb17e0fea7d6ff92a5f86a74b29c7df00313f612d9feea66d0c6ca4feceb3d14d5a2e955d8b8c5d06fe1b373796476c778787f2244082"
-      },
-      "1_1_7b+mc": {
-        "name": "create-new-age-1.1.7b+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/V23pyQvC/create-new-age-1.1.7b%2Bfabric-mc1.20.1.jar",
-        "sha512": "4bd927abc9b36aa71b670f0f9069b241d3d4e17d1ba12c4e90a1dc8a1a5e28b988f79415eab90d73c47594f10a376e642b562b0f723e79fa46b53716264ca0c9"
-      },
-      "1_1_7c+mc": {
-        "name": "create-new-age-1.1.7c+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/jE95BD7t/create-new-age-1.1.7c%2Bfabric-mc1.20.1.jar",
-        "sha512": "485a10a4239a5609684ec9339ca3d7c685075f3e1b1888f9ef536e44091c3126efc69c474b75ff0efa336f4277ed779c71a7069c2e8bdfff6de8327bfa039749"
-      },
-      "1_1_7d+mc": {
-        "name": "create-new-age-1.1.7d+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/CNraMMfg/create-new-age-1.1.7d%2Bfabric-mc1.20.1.jar",
-        "sha512": "4ac39f2893d4a918e5ed62f7871fe0a0d4705e17602136059262e74a4066e269b44c027b9b7a311cf4f78b6af5d2da8283137e23e1e5c518dd553c0526f7a504"
+      "1_1_7f+mc": {
+        "name": "create-new-age-1.1.7f+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ILLS3a8B/create-new-age-1.1.7f%2Bfabric-mc1.20.1.jar",
+        "sha512": "4fd664d779082efe35151e066d86fe44706927086252469e1152d7099bad2ce57094b5873e3b16294c68c0a7219e1f6a980108e7a48b43365e4b27fd97826450"
       },
       "1_1_7e+mc": {
         "name": "create-new-age-1.1.7e+fabric-mc1.20.1.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/jCBNa8QP/create-new-age-1.1.7e%2Bfabric-mc1.20.1.jar",
         "sha512": "14e5b6a6f1d87a1006c79c772df89297ed4b8ab6ae6f62eb03edc7d756184a20c8f8e4f14ae4ebe6a81443a71b5af48dbae1899257da2fe8f11a375dfbfc546c"
       },
-      "1_1_7f+mc": {
-        "name": "create-new-age-1.1.7f+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/ILLS3a8B/create-new-age-1.1.7f%2Bfabric-mc1.20.1.jar",
-        "sha512": "4fd664d779082efe35151e066d86fe44706927086252469e1152d7099bad2ce57094b5873e3b16294c68c0a7219e1f6a980108e7a48b43365e4b27fd97826450"
+      "1_1_7d+mc": {
+        "name": "create-new-age-1.1.7d+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/CNraMMfg/create-new-age-1.1.7d%2Bfabric-mc1.20.1.jar",
+        "sha512": "4ac39f2893d4a918e5ed62f7871fe0a0d4705e17602136059262e74a4066e269b44c027b9b7a311cf4f78b6af5d2da8283137e23e1e5c518dd553c0526f7a504"
+      },
+      "1_1_7c+mc": {
+        "name": "create-new-age-1.1.7c+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/jE95BD7t/create-new-age-1.1.7c%2Bfabric-mc1.20.1.jar",
+        "sha512": "485a10a4239a5609684ec9339ca3d7c685075f3e1b1888f9ef536e44091c3126efc69c474b75ff0efa336f4277ed779c71a7069c2e8bdfff6de8327bfa039749"
+      },
+      "1_1_7b+mc": {
+        "name": "create-new-age-1.1.7b+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/V23pyQvC/create-new-age-1.1.7b%2Bfabric-mc1.20.1.jar",
+        "sha512": "4bd927abc9b36aa71b670f0f9069b241d3d4e17d1ba12c4e90a1dc8a1a5e28b988f79415eab90d73c47594f10a376e642b562b0f723e79fa46b53716264ca0c9"
+      },
+      "1_1_7+mc": {
+        "name": "create-new-age-1.1.7+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/md9ccTF9/create-new-age-1.1.7%2Bfabric-mc1.20.1.jar",
+        "sha512": "25c01a8e079c0f9a5caeb17e0fea7d6ff92a5f86a74b29c7df00313f612d9feea66d0c6ca4feceb3d14d5a2e955d8b8c5d06fe1b373796476c778787f2244082"
+      },
+      "1_1_2": {
+        "name": "create-new-age-fabric-1.20.1-1.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rk63oafd/create-new-age-fabric-1.20.1-1.1.2.jar",
+        "sha512": "a94c20d349546a774a89265c56650e547de353af7e8eb8d7ca7a69033570bdaa7c8d478edda3a6c50379d64d708c3ffd581da4214abc3930694fcf8462b03058"
+      },
+      "1_1_1": {
+        "name": "create-new-age-fabric-1.20.1-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/Za0g1RgO/create-new-age-fabric-1.20.1-1.1.1.jar",
+        "sha512": "cdf790252d121a6cf8c1fd594e8eec499619fef3d467e29ce46bd6c67209c37a3111803ae1e4f21e7e5f3fa7f6b3bec998a2626c10c9ff81e3b761b26c82f6ef"
+      },
+      "1_1_fix1": {
+        "name": "create-new-age-fabric-1.20.1-1.1.fix1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/N9ynh7Qk/create-new-age-fabric-1.20.1-1.1.fix1.jar",
+        "sha512": "97a02cbef3736a875e987fa24db48b76675172dae6105d2374244d257d17250c524035c507d8dc4e4be7df4df6ca7afcdfc228c2123861013251d97137310e78"
+      },
+      "1_1": {
+        "name": "create-new-age-fabric-1.20.1-1.1.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/zco5jNBv/create-new-age-fabric-1.20.1-1.1.jar",
+        "sha512": "0b3b2084fea52f77b9756d1fbbe4cb0b9abe92e61930b1763a550824f51f7cdec7d5a7bdc382b7a8ab103e9327f54c78b21ec4069bc924955c6fde1d2f4d088b"
       },
       "1_1_pre5": {
         "name": "create-new-age-fabric-1.20.1-1.1.pre5.jar",
@@ -288,35 +308,15 @@
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/9w7r8hfq/create-new-age-fabric-1.20.1-1.1.pre3.jar",
         "sha512": "5b34b892cc24a96def2deb25955e0aa195fa3f0d8229d2f50e71636582ad096b9be7aee6558c5a03641632b914eee314eca1067d29ede3f0c775ff2fa0af2c36"
       },
-      "1_1_2": {
-        "name": "create-new-age-fabric-1.20.1-1.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/rk63oafd/create-new-age-fabric-1.20.1-1.1.2.jar",
-        "sha512": "a94c20d349546a774a89265c56650e547de353af7e8eb8d7ca7a69033570bdaa7c8d478edda3a6c50379d64d708c3ffd581da4214abc3930694fcf8462b03058"
-      },
       "1_1_pre1": {
         "name": "create-new-age-fabric-1.20.1-1.1.pre1.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/1PPcbRSB/create-new-age-fabric-1.20.1-1.1.pre1.jar",
         "sha512": "bf38807e8eb0048cfd1687d21bc17a5e1fd0feedac247f5a544279df21738340cf025e8b86c4662b7d3c7bcec58988d0f91eb7f666e140b9af8a1d504c071ca2"
       },
-      "1_1_fix1": {
-        "name": "create-new-age-fabric-1.20.1-1.1.fix1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/N9ynh7Qk/create-new-age-fabric-1.20.1-1.1.fix1.jar",
-        "sha512": "97a02cbef3736a875e987fa24db48b76675172dae6105d2374244d257d17250c524035c507d8dc4e4be7df4df6ca7afcdfc228c2123861013251d97137310e78"
-      },
-      "1_1_1": {
-        "name": "create-new-age-fabric-1.20.1-1.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/Za0g1RgO/create-new-age-fabric-1.20.1-1.1.1.jar",
-        "sha512": "cdf790252d121a6cf8c1fd594e8eec499619fef3d467e29ce46bd6c67209c37a3111803ae1e4f21e7e5f3fa7f6b3bec998a2626c10c9ff81e3b761b26c82f6ef"
-      },
       "1_1_pre0": {
         "name": "create-new-age-fabric-1.20.1-1.1.pre0.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/B7bCM6IZ/create-new-age-fabric-1.20.1-1.1.pre0.jar",
         "sha512": "b8bf11df7bd49cb193f770a385dc8c0f5cb0ec8b9d101fc12fb8089bc73505265b008b884b10e7b55ec5a42c25ec9c672656357620a63027634b47eceb4804a3"
-      },
-      "1_1": {
-        "name": "create-new-age-fabric-1.20.1-1.1.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/zco5jNBv/create-new-age-fabric-1.20.1-1.1.jar",
-        "sha512": "0b3b2084fea52f77b9756d1fbbe4cb0b9abe92e61930b1763a550824f51f7cdec7d5a7bdc382b7a8ab103e9327f54c78b21ec4069bc924955c6fde1d2f4d088b"
       },
       "1_0_1": {
         "name": "create-new-age-fabric-1.20.1-1.0.1.jar",
@@ -340,15 +340,15 @@
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/fxl3gvEu/create-new-age-fabric-1.19.2-1.0.1.jar",
         "sha512": "94b9a4c37cd81abefa3519b3a0667ebec43cad183da04ea1202dde6a7513abb44a07de3d2e1771453d241fdcefb2008174aab08dfc70881221dd0857a842567f"
       },
-      "1_0": {
-        "name": "create-new-age-fabric-1.19.2-1.0.jar",
-        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/w4tgCPFK/create-new-age-fabric-1.19.2-1.0.jar",
-        "sha512": "1428a1b8930d6fd895335fedfbb3d2f73a3c4e9a6f301c7ccc286e5b189e27bd50878b518318f5aabbeac4f032f618a6cbd4c17f63d0b2859110a74114338da2"
-      },
       "1_0b": {
         "name": "create-new-age-fabric-1.19.2-1.0b.jar",
         "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/WzRb0DBJ/create-new-age-fabric-1.19.2-1.0b.jar",
         "sha512": "944c0c943d48d94d4643b37d5e0e768f7ebae95fd3fd27594b8261792e11e814593993e52fa223391bb7409dbd8f77118e2af10179a98ebb2fe6ec8786d14a13"
+      },
+      "1_0": {
+        "name": "create-new-age-fabric-1.19.2-1.0.jar",
+        "url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/w4tgCPFK/create-new-age-fabric-1.19.2-1.0.jar",
+        "sha512": "1428a1b8930d6fd895335fedfbb3d2f73a3c4e9a6f301c7ccc286e5b189e27bd50878b518318f5aabbeac4f032f618a6cbd4c17f63d0b2859110a74114338da2"
       }
     }
   }

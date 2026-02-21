@@ -147,14 +147,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "Planets+.zip",
-        "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/LPf3yMUh/Planets%2B.zip",
-        "sha512": "1a950a5282615023f59f1423c08f3ed53c2ff01252ffae8f57a19f15da082c88275aee57cbb439f33bbbda91ac2268a1702ca324fcc337767b90181e4db1eea5"
-      },
-      "1_20_1-BV1": {
-        "name": "Planets+.zip",
-        "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/LPf3yMUh/Planets%2B.zip",
-        "sha512": "1a950a5282615023f59f1423c08f3ed53c2ff01252ffae8f57a19f15da082c88275aee57cbb439f33bbbda91ac2268a1702ca324fcc337767b90181e4db1eea5"
+        "name": "Planets+-BV1.7.5.zip",
+        "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/wbOWu0VE/Planets%2B%20BV1.7.5.zip",
+        "sha512": "98542c8af46f4c9a9ee9913e48b4c61cd75e7e6ba5141d97b4cb913a7a60f05a740f1a37802194e03de3557f7e95d0009a84b24aa95f4c38c58559bf19478891"
       },
       "BV1_7_5-MAINPACK-DATAPACK": {
         "name": "Planets+-BV1.7.5.zip",
@@ -191,6 +186,11 @@
         "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/qYqnn4Ds/Planets%2B%20BV1.4.zip",
         "sha512": "73f3eed63d602486788960570d6b1ed1800f8bcd01d6fd1117780cad7a795442208144bf8566eab59e7f3bf2a497125754bca32e093226f2be484839eed33e02"
       },
+      "DABV1": {
+        "name": "Planets+-BV1.4-devbuild.zip",
+        "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/vtl0khTU/Planets%2B%20BV1.4%20devbuild.zip",
+        "sha512": "dea8f43b07ccb8c3df4009756ed6cb0fdad6993ef73b66f5dc9ba6459325aa0ecc15d712199c311e7ab749fa0615ead02218b0440645f1f6061100c3bea3abde"
+      },
       "BV1_3": {
         "name": "Planets+-BV1.3.zip",
         "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/vGeVY7zb/Planets%2B%20BV1.3.zip",
@@ -211,10 +211,10 @@
         "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/v9uRWTC8/Planets%2B%20BV1.1.1.zip",
         "sha512": "ed54306f4f70eb173188f4f711cfa21a8d897d2204428aac9cffa7d931b6156991f59ceeef43487f0304882f41f4418446875275810012b59f5c8439e5bfe3cd"
       },
-      "DABV1": {
-        "name": "Planets+-BV1.4-devbuild.zip",
-        "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/vtl0khTU/Planets%2B%20BV1.4%20devbuild.zip",
-        "sha512": "dea8f43b07ccb8c3df4009756ed6cb0fdad6993ef73b66f5dc9ba6459325aa0ecc15d712199c311e7ab749fa0615ead02218b0440645f1f6061100c3bea3abde"
+      "1_20_1-BV1": {
+        "name": "Planets+.zip",
+        "url": "https://cdn.modrinth.com/data/NfrID7Y9/versions/LPf3yMUh/Planets%2B.zip",
+        "sha512": "1a950a5282615023f59f1423c08f3ed53c2ff01252ffae8f57a19f15da082c88275aee57cbb439f33bbbda91ac2268a1702ca324fcc337767b90181e4db1eea5"
       }
     }
   }

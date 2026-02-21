@@ -1,14 +1,13 @@
 # SPDX-FileCopyrightText: 2025 Hana Kretzer <hanakretzer@gmail.com>
 #
 # SPDX-License-Identifier: MIT
-{ self, ... }:
-
 {
   perSystem =
     {
       lib,
       pkgs,
       self',
+      config,
       ...
     }:
 
@@ -79,7 +78,7 @@
             set -ex
 
             ${lib.concatMapStrings (project: ''
-              nix run ${self}#mod-source -- "${project}"
+              ${config.apps.mod-source.program} "${project}"
               sleep 0.01
             '') (lib.importJSON ./_modSources/_projects.json)}
           '';
@@ -107,6 +106,7 @@
               [
                 .[]
                 | .version_number as $raw_version
+                | .date_published as $date
                 | .files[0] as $file
                 | .loaders[] as $loader
                 | .game_versions[] as $game_version
@@ -121,11 +121,12 @@
                       + "[\\-\\+]?|[\\-\\+]?("
                       + "fabric|quilt|"
                       + $loader
-                      + ")[\\-\\+]?)"
+                      + ")[\\-\\+]?)+"
                       ; ""
                     )
                     | gsub("\\."; "_")
                   ),
+                  date_published: $date,
                   file: {
                     name: ($file.filename | gsub(" "; "-")),
                     url: $file.url,
@@ -137,7 +138,7 @@
                 .loader,
                 (.game_version | test("^\\d+\\_\\d+")),
                 (.game_version | [scan("\\d+") | tonumber]),
-                (.version      | [scan("\\d+") | tonumber])
+                .date_published
               )
               | reverse
               | reduce .[] as $i ({};
@@ -145,6 +146,9 @@
                 | .[$i.loader][$i.game_version][$i.version] = $i.file
               )
             '
+
+            curl 'https://api.modrinth.com/v2/project/'"$project"'/version' \
+              | jq -r "$jq_query" > "_modSources/$project.json"
 
             jq -r \
               --arg project "$project" \
@@ -157,10 +161,7 @@
               > "_modSources/_projects.json.tmp" \
               && mv "_modSources/_projects.json.tmp" "_modSources/_projects.json"
 
-            curl 'https://api.modrinth.com/v2/project/'"$project"'/version' \
-              | jq -r "$jq_query" > "_modSources/$project.json"
-
-            nix fmt
+            ${lib.getExe config.formatter}
           '';
           inheritPath = false;
         };

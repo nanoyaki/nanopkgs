@@ -52,15 +52,15 @@
         "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/Ezsw7hJc/cicada-lib-0.14.3%2B1.21.6-1.21.8.jar",
         "sha512": "3f22a058c3cb714860848573ce2ce49ad39ed624430a15f8c327fd858596f2fb16292f5f5ac7949364887db0b564df8128235f3be230683686a45e242f14ea83"
       },
-      "0_14_2+1_21_6-and-above": {
-        "name": "cicada-lib-0.14.2+1.21.6-and-above.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/IuhIWrCl/cicada-lib-0.14.2%2B1.21.6-and-above.jar",
-        "sha512": "f94a8e4403f5b6d0442545e55726f9a28dc46c6576820fdb276cd3728a781bc092a5877093c0085600414c576c1866805731baf64d6f69582a61dbe22ae29811"
-      },
       "0_14_2+1_21_6": {
         "name": "cicada-lib-0.14.2+1.21.6-1.21.8.jar",
         "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/qqkFe1AL/cicada-lib-0.14.2%2B1.21.6-1.21.8.jar",
         "sha512": "58fc66913b4ebeab356d2abf15852a30592e630f4e9761d5fbfe0d0e6dd0aa7e87dcd368ede7a9622fdbc300b52a54ef3bd92692ce8d7df6a14f536d638177fd"
+      },
+      "0_14_2+1_21_6-and-above": {
+        "name": "cicada-lib-0.14.2+1.21.6-and-above.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/IuhIWrCl/cicada-lib-0.14.2%2B1.21.6-and-above.jar",
+        "sha512": "f94a8e4403f5b6d0442545e55726f9a28dc46c6576820fdb276cd3728a781bc092a5877093c0085600414c576c1866805731baf64d6f69582a61dbe22ae29811"
       },
       "0_14_1+1_21_6-and-above": {
         "name": "cicada-lib-0.14.1+1.21.6-and-above.jar",
@@ -170,7 +170,7 @@
       },
       "0_14_2": {
         "name": "cicada-lib-0.14.2+1.21.5.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/PUmgNaEH/cicada-lib-0.14.2%2B1.21.5.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/cSx08lv3/cicada-lib-0.14.2%2B1.21.5.jar",
         "sha512": "b4333b27f9e3e0c8049a211e26e2e2700c7645d3ad66645b0c54a65cf3fe8611b3b628cb968810e2b1a528cdc94cdc2bc6cd3709e7484a06f35c8eeb0bd75753"
       },
       "0_14_1": {
@@ -222,7 +222,7 @@
       },
       "0_14_2": {
         "name": "cicada-lib-0.14.2+1.21.4.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/zyeNFEKi/cicada-lib-0.14.2%2B1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xtp0Uf94/cicada-lib-0.14.2%2B1.21.4.jar",
         "sha512": "38405fb11e581411b9235d6da961e344e322d1ec6721edb4d2f770d8ab1c68f9ab895c919c9b7bee1e8896dbe8fa8701b9fadbea45d6cccf07c3bc5551d1bdb4"
       },
       "0_14_1": {
@@ -334,7 +334,7 @@
       },
       "0_14_2+1_21_2": {
         "name": "cicada-lib-0.14.2+1.21.2-1.21.3.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/LB6EPkmT/cicada-lib-0.14.2%2B1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/SgvO0iuc/cicada-lib-0.14.2%2B1.21.2-1.21.3.jar",
         "sha512": "fdc8048d2fb385a5c969e825a38afcc2504b9eb8c2273ff049469f835932722f91a8c28e25c28101c8f13a593e03f2d53a9abf5ac171274c9ca8a9af7e42a568"
       },
       "0_14_1+1_21_2": {
@@ -451,7 +451,7 @@
       },
       "0_14_21_21_3": {
         "name": "cicada-lib-0.14.2+1.21.2-1.21.3.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/LB6EPkmT/cicada-lib-0.14.2%2B1.21.2-1.21.3.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/SgvO0iuc/cicada-lib-0.14.2%2B1.21.2-1.21.3.jar",
         "sha512": "fdc8048d2fb385a5c969e825a38afcc2504b9eb8c2273ff049469f835932722f91a8c28e25c28101c8f13a593e03f2d53a9abf5ac171274c9ca8a9af7e42a568"
       },
       "0_14_11_21_3": {
@@ -842,7 +842,7 @@
       },
       "0_14_2+1_20_5": {
         "name": "cicada-lib-0.14.2+1.20.5-1.20.6.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/P4QtfATY/cicada-lib-0.14.2%2B1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/qZ8p4CBt/cicada-lib-0.14.2%2B1.20.5-1.20.6.jar",
         "sha512": "64f9f8ab321ce72e17540f78040c3734be52be9379acd2689736cb2c151b3d285a364fef5004cf7707c30598eac4c6804e382268747ccc8fad2ab5c1c1cea53e"
       },
       "0_14_1+1_20_5": {
@@ -999,7 +999,7 @@
       },
       "0_14_21_20_6": {
         "name": "cicada-lib-0.14.2+1.20.5-1.20.6.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/P4QtfATY/cicada-lib-0.14.2%2B1.20.5-1.20.6.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/qZ8p4CBt/cicada-lib-0.14.2%2B1.20.5-1.20.6.jar",
         "sha512": "64f9f8ab321ce72e17540f78040c3734be52be9379acd2689736cb2c151b3d285a364fef5004cf7707c30598eac4c6804e382268747ccc8fad2ab5c1c1cea53e"
       },
       "0_14_11_20_6": {
@@ -1657,7 +1657,7 @@
       },
       "0_14_2": {
         "name": "cicada-lib-0.14.2+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/NnSiZSe6/cicada-lib-0.14.2%2B1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/KgsqJnsN/cicada-lib-0.14.2%2B1.20.1.jar",
         "sha512": "6f0129b8aa048336901ccffeedd34502d8fd133089e3e333104052ecdc6c5786ad613ef54ffbdf525d383f8b94a9bdfa205f23c3beeafd634280c8fbdc4bb770"
       },
       "0_14_1": {
@@ -1824,7 +1824,7 @@
       },
       "0_14_2_1": {
         "name": "cicada-lib-0.14.2+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/NnSiZSe6/cicada-lib-0.14.2%2B1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/KgsqJnsN/cicada-lib-0.14.2%2B1.20.1.jar",
         "sha512": "6f0129b8aa048336901ccffeedd34502d8fd133089e3e333104052ecdc6c5786ad613ef54ffbdf525d383f8b94a9bdfa205f23c3beeafd634280c8fbdc4bb770"
       },
       "0_14_1_1": {
@@ -1991,7 +1991,7 @@
       },
       "0_14_2and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1and-below": {
@@ -2158,7 +2158,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -2325,7 +2325,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -2492,7 +2492,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -2659,7 +2659,7 @@
       },
       "0_14_2_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1_4-and-below": {
@@ -2826,7 +2826,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -2993,7 +2993,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -3160,7 +3160,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -3327,7 +3327,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -3494,7 +3494,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -3661,7 +3661,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -3828,7 +3828,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -3985,7 +3985,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -4142,7 +4142,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -4299,7 +4299,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {
@@ -4456,7 +4456,7 @@
       },
       "0_14_2+1_19_4-and-below": {
         "name": "cicada-lib-0.14.2+1.19.4-and-below.jar",
-        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/xXLpaO8Z/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
+        "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/OSakAwgf/cicada-lib-0.14.2%2B1.19.4-and-below.jar",
         "sha512": "f7ecfe46595c654aff4f6aba98e9a6f83ed19e2ea58328db60dcbd2269f9aafb8763ccd19369564ed784f96c86e66aa446c0510ae39749f05fd3469039ef2f52"
       },
       "0_14_1+1_19_4-and-below": {

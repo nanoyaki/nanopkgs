@@ -2,9 +2,14 @@
   "fabric": {
     "1_21_4": {
       "latest": {
-        "name": "mythicmetals-0.25.0-alpha.3+1.21.4.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/mkWQb0i5/mythicmetals-0.25.0-alpha.3%2B1.21.4.jar",
-        "sha512": "cfbb667cf1b347314658e8a79c60fadd8a304b9002c81057fd835df32b74fb951e9b4e54c4f2e060708e530e05828c081ad9291be0d4e871bc20eb9c210d459e"
+        "name": "mythicmetals-0.25.0+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/X6SlyXME/mythicmetals-0.25.0%2B1.21.4.jar",
+        "sha512": "ee7f805fbeffc31a456790aaa8178ae0ccae2f8600f92bc409a3e5ef38d25477651cd6a70ddd2ad557cc068e2037f35d2bf632ae73f5fb969d07c4e599e67700"
+      },
+      "0_25_0": {
+        "name": "mythicmetals-0.25.0+1.21.4.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/X6SlyXME/mythicmetals-0.25.0%2B1.21.4.jar",
+        "sha512": "ee7f805fbeffc31a456790aaa8178ae0ccae2f8600f92bc409a3e5ef38d25477651cd6a70ddd2ad557cc068e2037f35d2bf632ae73f5fb969d07c4e599e67700"
       },
       "0_25_0-alpha_3": {
         "name": "mythicmetals-0.25.0-alpha.3+1.21.4.jar",
@@ -20,11 +25,6 @@
         "name": "mythicmetals-0.25.0-alpha.1+1.21.4.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/TQRbXYxY/mythicmetals-0.25.0-alpha.1%2B1.21.4.jar",
         "sha512": "d0f1ec459fde4ea47ef804308b18465c243d74309da7ea4b291d57f45d806d154d15425c5e707bc8061a910bd39bc528a98f7b42a2f48c90b1acaecfb1d1290a"
-      },
-      "0_25_0": {
-        "name": "mythicmetals-0.25.0+1.21.4.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/X6SlyXME/mythicmetals-0.25.0%2B1.21.4.jar",
-        "sha512": "ee7f805fbeffc31a456790aaa8178ae0ccae2f8600f92bc409a3e5ef38d25477651cd6a70ddd2ad557cc068e2037f35d2bf632ae73f5fb969d07c4e599e67700"
       }
     },
     "1_21_1": {
@@ -130,6 +130,11 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/VDByzfQk/mythicmetals-0.20.1%2B1.21.jar",
         "sha512": "6d68806aba40251579a0d8776f57bb71629c1def6ef64bca07f6f814df8836478fe39d013f9ae90d133688491e3e1e8b5673c3ec970af01c4dd3af2aa3ea147c"
       },
+      "0_20_0": {
+        "name": "mythicmetals-0.20.0+1.21.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/ZIfuUDWZ/mythicmetals-0.20.0%2B1.21.jar",
+        "sha512": "0ffb8a46a080810b8af7a5092be99a9bdd037069b23e2765b33756fd77096eaff0d4db0cf22bcdf030f22680896eb55a370e509f4c5bb4f5da674b6e43caab09"
+      },
       "0_20_0alpha6": {
         "name": "mythicmetals-0.20.0+1.21-alpha6.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/veDBwPco/mythicmetals-0.20.0%2B1.21-alpha6.jar",
@@ -159,11 +164,6 @@
         "name": "mythicmetals-0.20.0+1.21-alpha.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/6TgXIBYQ/mythicmetals-0.20.0%2B1.21-alpha.jar",
         "sha512": "9ae75b5fff9e33660f4bb950783fbaa448db8c06660653e08b20c06452fb9bac13ff6ea41d24076966118730bad6939a953bd715817d633bf13d7f60c1082794"
-      },
-      "0_20_0": {
-        "name": "mythicmetals-0.20.0+1.21.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/ZIfuUDWZ/mythicmetals-0.20.0%2B1.21.jar",
-        "sha512": "0ffb8a46a080810b8af7a5092be99a9bdd037069b23e2765b33756fd77096eaff0d4db0cf22bcdf030f22680896eb55a370e509f4c5bb4f5da674b6e43caab09"
       }
     },
     "1_20_4": {
@@ -236,15 +236,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/usAeRRkO/mythicmetals-0.19.9%2B1.20.1.jar",
         "sha512": "b21cb200f430e9f2e97b84af3ec70c0d1b4c9dfbb4bdeb01df1e6dd4367158aac8bded4cecb5bedf1e0e9e9c3b88cd0fab7d981572a1eace3d9e22a7c49c3a74"
       },
-      "0_19_8": {
-        "name": "mythicmetals-0.19.8+1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/oX8zgD2L/mythicmetals-0.19.8%2B1.20.1.jar",
-        "sha512": "5538b53493b0d6b29b23ce2f738d1e87e83c87250c6729e88d6158b228a5c025a7394fecdec6661587c1883afcdf3f6c41d5938820c1292719539eb5bbb6e034"
-      },
       "0_19_8hotfix": {
         "name": "mythicmetals-0.19.8+1.20.1-hotfix.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/fytvhVxG/mythicmetals-0.19.8%2B1.20.1-hotfix.jar",
         "sha512": "33e1cee2904e0a99cea7c356d2799a41d0da38ffd6e8f955adf2e1a116f89e9355fdb46da79cbd6cd8dfe291244e472588a3f3e1b3925332f9dbfe582e89b23a"
+      },
+      "0_19_8": {
+        "name": "mythicmetals-0.19.8+1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/oX8zgD2L/mythicmetals-0.19.8%2B1.20.1.jar",
+        "sha512": "5538b53493b0d6b29b23ce2f738d1e87e83c87250c6729e88d6158b228a5c025a7394fecdec6661587c1883afcdf3f6c41d5938820c1292719539eb5bbb6e034"
       },
       "0_19_7": {
         "name": "mythicmetals-0.19.7+1.20.1.jar",
@@ -276,15 +276,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/pNJx3IJp/mythicmetals-0.19.1%2B1.20.jar",
         "sha512": "a0664b02d90538b217e0be8036f52472749d6af3d517140bfe8b96c70dcda00315c000a0d16dcf53a501401775c34a773330cae1b50462ce5c32ba0d7e705e49"
       },
-      "0_19_0+1_20-alpha": {
-        "name": "mythicmetals-0.19.0+1.20-alpha.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/iA7KLbpI/mythicmetals-0.19.0%2B1.20-alpha.jar",
-        "sha512": "a5a87af59f10a2fc8cf3345fb0301ff40387bf6cbb18525fe2e02e330ada8483d759a2a635d699292b6752db9659ceca9205e4d5632a5020c30e103ab9c9b478"
-      },
       "0_19_0+1_20": {
         "name": "mythicmetals-0.19.0+1.20.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/LPl3Mnvq/mythicmetals-0.19.0%2B1.20.jar",
         "sha512": "d73cb77a4781cc731f7b9643bf482e23c7af436f771d59d89097bea12e645911956e68672aedd587c457eeeaaee8a5cc852848b49d1f2fbf45a62ae8bc5d960f"
+      },
+      "0_19_0+1_20-alpha": {
+        "name": "mythicmetals-0.19.0+1.20-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/iA7KLbpI/mythicmetals-0.19.0%2B1.20-alpha.jar",
+        "sha512": "a5a87af59f10a2fc8cf3345fb0301ff40387bf6cbb18525fe2e02e330ada8483d759a2a635d699292b6752db9659ceca9205e4d5632a5020c30e103ab9c9b478"
       },
       "0_18_2+1_20": {
         "name": "mythicmetals-0.18.2+1.20.jar",
@@ -387,15 +387,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/SmivJzGC/mythicmetals-0.17.1%2B1.19.3.jar",
         "sha512": "cadbaefc347452e0fad11f0edcebc74d1f9883f2614b25274103109f66f23e4bdf991dfbcc2a4913eb52097d41ab18bbbf16ce7cfeed7bf887e1a0448fcf9f4c"
       },
-      "0_17_0ALPHA": {
-        "name": "mythicmetals-0.17.0+1.19.3-ALPHA.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/HTjIvv8l/mythicmetals-0.17.0%2B1.19.3-ALPHA.jar",
-        "sha512": "807379c2646dd305c9d94d3db9f6fb00f6828169c4efe75884dc08a954a5323c4d0e421e439a0aa3feb1e9ec3eacc0e0a30515c8c13cf79ca74a7cbbd3f56c7e"
-      },
       "0_17_0": {
         "name": "mythicmetals-0.17.0+1.19.3.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/ym2DWI1h/mythicmetals-0.17.0%2B1.19.3.jar",
         "sha512": "2aee6214e9c71646f6d1df7fe3f0fa557c1e8a4604cbb93f41b5f72f8ae9e87fabf29d0700d13e02fa2e224453d9e67868fa0e9c94b6676403d73b9f05f5b012"
+      },
+      "0_17_0ALPHA": {
+        "name": "mythicmetals-0.17.0+1.19.3-ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/HTjIvv8l/mythicmetals-0.17.0%2B1.19.3-ALPHA.jar",
+        "sha512": "807379c2646dd305c9d94d3db9f6fb00f6828169c4efe75884dc08a954a5323c4d0e421e439a0aa3feb1e9ec3eacc0e0a30515c8c13cf79ca74a7cbbd3f56c7e"
       }
     },
     "1_19_2": {
@@ -414,15 +414,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/63wOArJr/mythicmetals-0.17.2%2B1.19.2.jar",
         "sha512": "074a04bfeb4c30cbe567236d61577c0724e0ab47626b754edbecb2290fa228372ac8c8f967fd09fb72893475b2a0bd1f03c5892f21c559c4d2bfffad51a79f3b"
       },
-      "0_17_0ALPHA": {
-        "name": "mythicmetals-0.17.0+1.19.2-ALPHA.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/Yga4MpqK/mythicmetals-0.17.0%2B1.19.2-ALPHA.jar",
-        "sha512": "b2c2bce5c40e55ec4ef9eb46d3dbc2356664e3f04dbfb91ac51f932dd5ecf0260e10045f263d97b8f083e5f604514eda98fbe068ef65180fdc39f02978fff030"
-      },
       "0_17_0": {
         "name": "mythicmetals-0.17.0+1.19.2.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/l2iJ4HnV/mythicmetals-0.17.0%2B1.19.2.jar",
         "sha512": "55d9d8ecda9c4e1cd5e30dc64a9d00dcbbe9d8f57e6c95e9fb785950a16cc1ab181ddfc410c3b8998e4e54950467f7511a7e316926db51257fb05ebe2d6e12ff"
+      },
+      "0_17_0ALPHA": {
+        "name": "mythicmetals-0.17.0+1.19.2-ALPHA.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/Yga4MpqK/mythicmetals-0.17.0%2B1.19.2-ALPHA.jar",
+        "sha512": "b2c2bce5c40e55ec4ef9eb46d3dbc2356664e3f04dbfb91ac51f932dd5ecf0260e10045f263d97b8f083e5f604514eda98fbe068ef65180fdc39f02978fff030"
       },
       "0_16_4": {
         "name": "mythicmetals-0.16.4+1.19.2.jar",
@@ -454,15 +454,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/WGJQPx8G/mythicmetals-0.15.4.jar",
         "sha512": "c59ed3ab64ce071808df9ed0cd3a747d90a2e6b469fb9924472abccd805f12051e9e3340e9dc3f4c7480a02662c8d79a440484f2581d8d31157fdec5ab001972"
       },
-      "0_15_3": {
-        "name": "mythicmetals-0.15.3.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.15.3/mythicmetals-0.15.3.jar",
-        "sha512": "bfbf5479063b8bdee0b0543840b75d66f3048ec5aad38b648b909217598fb37ea44d7718465286fcdf24d92e587379932043691cdf50b58f788d8fb11585a3fb"
-      },
       "0_15_3+hotfix": {
         "name": "mythicmetals-0.15.3+hotfix.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.15.3%2Bhotfix/mythicmetals-0.15.3%2Bhotfix.jar",
         "sha512": "56ff3a4aa89685913334cde7e5c6258ca67f0ec711978915ecc28f3640f4bfe97282d00e2f4d4157bef80605e471f5c197c320f8f0448610b3e1ed1d250a500f"
+      },
+      "0_15_3": {
+        "name": "mythicmetals-0.15.3.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.15.3/mythicmetals-0.15.3.jar",
+        "sha512": "bfbf5479063b8bdee0b0543840b75d66f3048ec5aad38b648b909217598fb37ea44d7718465286fcdf24d92e587379932043691cdf50b58f788d8fb11585a3fb"
       }
     },
     "1_19_1": {
@@ -476,15 +476,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/WGJQPx8G/mythicmetals-0.15.4.jar",
         "sha512": "c59ed3ab64ce071808df9ed0cd3a747d90a2e6b469fb9924472abccd805f12051e9e3340e9dc3f4c7480a02662c8d79a440484f2581d8d31157fdec5ab001972"
       },
-      "0_15_3": {
-        "name": "mythicmetals-0.15.3.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.15.3/mythicmetals-0.15.3.jar",
-        "sha512": "bfbf5479063b8bdee0b0543840b75d66f3048ec5aad38b648b909217598fb37ea44d7718465286fcdf24d92e587379932043691cdf50b58f788d8fb11585a3fb"
-      },
       "0_15_3+hotfix": {
         "name": "mythicmetals-0.15.3+hotfix.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.15.3%2Bhotfix/mythicmetals-0.15.3%2Bhotfix.jar",
         "sha512": "56ff3a4aa89685913334cde7e5c6258ca67f0ec711978915ecc28f3640f4bfe97282d00e2f4d4157bef80605e471f5c197c320f8f0448610b3e1ed1d250a500f"
+      },
+      "0_15_3": {
+        "name": "mythicmetals-0.15.3.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.15.3/mythicmetals-0.15.3.jar",
+        "sha512": "bfbf5479063b8bdee0b0543840b75d66f3048ec5aad38b648b909217598fb37ea44d7718465286fcdf24d92e587379932043691cdf50b58f788d8fb11585a3fb"
       }
     },
     "1_19": {
@@ -587,15 +587,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.1/mythicmetals-0.12.1.jar",
         "sha512": "046748922c1310b6086199ffd901eef733e6d5a8d447e45b8044d877a12a53da1f19e4b43e132df40cc52103ca2669a204e60ef8ab54fa51b39e509d8f64ab4b"
       },
-      "0_12_0-alpha": {
-        "name": "mythicmetals-0.12.0-alpha.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.0-alpha/mythicmetals-0.12.0-alpha.jar",
-        "sha512": "ba2b235ebfbd50a5b9705f57a0b91b0d75b4ace6038f607dfcd5d23efde970d30dcb685be12868f3c038829dc43c47313bdb9034f631aaab07da44b54078f431"
-      },
       "0_12_0": {
         "name": "mythicmetals-0.12.0.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.0/mythicmetals-0.12.0.jar",
         "sha512": "961961a1b561a3e0f311800fa779a6fc58f43578d2d089d19afed36b052dcb5f5c4f0b9cd4128984d08ae64fd495d35d5f44f43a7540c209c4a52424b948ec1d"
+      },
+      "0_12_0-alpha": {
+        "name": "mythicmetals-0.12.0-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.0-alpha/mythicmetals-0.12.0-alpha.jar",
+        "sha512": "ba2b235ebfbd50a5b9705f57a0b91b0d75b4ace6038f607dfcd5d23efde970d30dcb685be12868f3c038829dc43c47313bdb9034f631aaab07da44b54078f431"
       },
       "0_11_4": {
         "name": "mythicmetals-0.11.4.jar",
@@ -639,15 +639,15 @@
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.1/mythicmetals-0.12.1.jar",
         "sha512": "046748922c1310b6086199ffd901eef733e6d5a8d447e45b8044d877a12a53da1f19e4b43e132df40cc52103ca2669a204e60ef8ab54fa51b39e509d8f64ab4b"
       },
-      "0_12_0-alpha": {
-        "name": "mythicmetals-0.12.0-alpha.jar",
-        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.0-alpha/mythicmetals-0.12.0-alpha.jar",
-        "sha512": "ba2b235ebfbd50a5b9705f57a0b91b0d75b4ace6038f607dfcd5d23efde970d30dcb685be12868f3c038829dc43c47313bdb9034f631aaab07da44b54078f431"
-      },
       "0_12_0": {
         "name": "mythicmetals-0.12.0.jar",
         "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.0/mythicmetals-0.12.0.jar",
         "sha512": "961961a1b561a3e0f311800fa779a6fc58f43578d2d089d19afed36b052dcb5f5c4f0b9cd4128984d08ae64fd495d35d5f44f43a7540c209c4a52424b948ec1d"
+      },
+      "0_12_0-alpha": {
+        "name": "mythicmetals-0.12.0-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/bAWzYNRd/versions/0.12.0-alpha/mythicmetals-0.12.0-alpha.jar",
+        "sha512": "ba2b235ebfbd50a5b9705f57a0b91b0d75b4ace6038f607dfcd5d23efde970d30dcb685be12868f3c038829dc43c47313bdb9034f631aaab07da44b54078f431"
       },
       "0_11_4": {
         "name": "mythicmetals-0.11.4.jar",

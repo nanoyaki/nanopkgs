@@ -53,8 +53,8 @@
       },
       "1_21-2_11_18": {
         "name": "everycomp-1.21-2.11.18-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yOyByPAg/everycomp-1.21-2.11.18-neoforge.jar",
-        "sha512": "7c6583fb863728b7614be567a028274fd1c883b9e31e0b7113893a8af344764c3dc578b4d8655c88fb137a63115e4439322a8ed1f7829892a7eaedf0e0dab4e2"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/XFWpWKvY/everycomp-1.21-2.11.18-neoforge.jar",
+        "sha512": "a8d0a368f8f221b477d606edaa440fa57220b623cfc5c932f7b1d3402f6b040e661f9829571f7c28a5cd0aa748ef877975906685707106050ee9a43b99ce283d"
       },
       "1_21-2_11_17": {
         "name": "everycomp-1.21-2.11.17-neoforge.jar",
@@ -339,129 +339,9 @@
     },
     "1_21": {
       "latest": {
-        "name": "everycomp-1.21-2.9.10-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OA1qCzkH/everycomp-1.21-2.9.10-neoforge.jar",
-        "sha512": "c07bcdea2188982deffe1d3f8f8d7bbd011ab2cb8c20a4dda47e92c73ce3306435ba23daeb164503993eb98a3cfd593eed27e9682cec03a3cb299fb18d77788a"
-      },
-      "neoforge_2_9_10": {
-        "name": "everycomp-1.21-2.9.10-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OA1qCzkH/everycomp-1.21-2.9.10-neoforge.jar",
-        "sha512": "c07bcdea2188982deffe1d3f8f8d7bbd011ab2cb8c20a4dda47e92c73ce3306435ba23daeb164503993eb98a3cfd593eed27e9682cec03a3cb299fb18d77788a"
-      },
-      "neoforge_2_9_9": {
-        "name": "everycomp-1.21-2.9.9-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9JCwqsF9/everycomp-1.21-2.9.9-neoforge.jar",
-        "sha512": "25fd4a7af842fe141f574eaa93903abab5146bfb4ce0f9329463e9f101e635bdf7aa05346d4e2cd72161446da417d95954f913d49c600c7b7bf4f3d42d5eeb7c"
-      },
-      "neoforge_2_9_8": {
-        "name": "everycomp-1.21-2.9.8-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UhQXx3QJ/everycomp-1.21-2.9.8-neoforge.jar",
-        "sha512": "3c9999d6aeaff8ce61e2377184b593e0bb401cec39c998efe458585832797fe5fdbda1ffc012d1871bbda97f9a106827d26b0c28a3e4107351aabb2b11c57447"
-      },
-      "neoforge_2_9_7": {
-        "name": "everycomp-1.21-2.9.7-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/RQW0SkWr/everycomp-1.21-2.9.7-neoforge.jar",
-        "sha512": "418997dd1709fcec21b0c7d0cdca8299886f86d26f27ab1bc3ff6ec7d235800618093ed0a6ce5841d02352c682bd890607c7361cf2a24d6f39b49456f3552ae6"
-      },
-      "neoforge_2_9_6": {
-        "name": "everycomp-1.21-2.9.6-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lenHbtLC/everycomp-1.21-2.9.6-neoforge.jar",
-        "sha512": "d80872861f6179afd6f81603b41e6588c9c0ec352d00da0c74ec89daac6b02434f7afb56a4608134a70898704883acd4e7b249af3aac067ac030fc4e4ba3e228"
-      },
-      "neoforge_2_9_5": {
-        "name": "everycomp-1.21-2.9.5-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WYLmjQKt/everycomp-1.21-2.9.5-neoforge.jar",
-        "sha512": "678f6c57ba30c19a5da342ea9934af61630ccb7bb6cf6341986c6a9d7ce993a29104cadd492e24d7308a5bc732aa1037a67b47979c749fa158a61408e98cd2a8"
-      },
-      "neoforge_2_9_4": {
-        "name": "everycomp-1.21-2.9.4-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/EgHgby9t/everycomp-1.21-2.9.4-neoforge.jar",
-        "sha512": "1bc041ad2e774edba77ea96bc5b7c8db292f0d43a1a7e556ed5343b34a9f726ad52bcbcb7f0092d399eb0467432265f76d6a66090d243035f16132653d188dee"
-      },
-      "neoforge_2_9_3": {
-        "name": "everycomp-1.21-2.9.3-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9HVQbO9R/everycomp-1.21-2.9.3-neoforge.jar",
-        "sha512": "5b046b1276ccdeee8ff088e35277e06a24fe1b360e82f41d9c97140883c93aef45728f4b3079bb791814f9e6ff40c7b8297f2dd308e8dd9820627151d5350521"
-      },
-      "neoforge_2_9_2": {
-        "name": "everycomp-1.21-2.9.2-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/axPGwxK5/everycomp-1.21-2.9.2-neoforge.jar",
-        "sha512": "4ea840d632cea35718aa1e97ec98356dd3a8c5c4f54e04b6b8df27ee46c0ca119d3ca6d35a932af98d1c26985e907dd469e4d147c65aedd62073d657fe5a744a"
-      },
-      "neoforge_2_9_1": {
-        "name": "everycomp-1.21-2.9.1-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/TlbUwAGV/everycomp-1.21-2.9.1-neoforge.jar",
-        "sha512": "0bf815162a25c7e943845c125d39c423148f56e2d6e9b92282c4e580573466e190c730127e409d8840290fa3e1fbe5c96bb8efa7c0f3f35c9e3d3dd3bafd0b74"
-      },
-      "neoforge_2_9_0": {
-        "name": "everycomp-1.21-2.9.0-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Oo4l6QKT/everycomp-1.21-2.9.0-neoforge.jar",
-        "sha512": "b7c093179bfc8807c38201a48a73992054ca20939a94e9ec8e411de0ceb14c063b0a2c9688d3068d2128643ed1e30f22551ab05007292d945ef2a411c81ad364"
-      },
-      "neoforge_2_8_5": {
-        "name": "everycomp-1.21-2.8.5-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ETV1SzfB/everycomp-1.21-2.8.5-neoforge.jar",
-        "sha512": "12653420d8f179b0da97248d515deab6eff5f1b43f123308bfa61b8186f2e6c8faf4640e76838b28a4031d312854b0a8f8094e2d67c3fcdd5cf00661835efbfd"
-      },
-      "neoforge_2_8_4": {
-        "name": "everycomp-1.21-2.8.4-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/KhGzGnz3/everycomp-1.21-2.8.4-neoforge.jar",
-        "sha512": "384780d3469a786a723327bebadc6101427decd3d10333788c9b901799833061fdc4421e11c73734386812d390a432efd2a98c3a0ab69457126a042b33dda4ef"
-      },
-      "neoforge_2_8_3": {
-        "name": "everycomp-1.21-2.8.3-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9sxJ1jhg/everycomp-1.21-2.8.3-neoforge.jar",
-        "sha512": "e1101673f719762946eeb8218b8d9ecade7f668fdd2ad312615bdcb59945c58cd6c8aa6a0c86d64ec6bd819a494ebe41b0992b805d5c72a5f524642e45871f17"
-      },
-      "neoforge_2_8_2": {
-        "name": "everycomp-1.21-2.8.2-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/v9Ttfm7R/everycomp-1.21-2.8.2-neoforge.jar",
-        "sha512": "f3aa6936cf38192d10b3bbbe841e20dab48d84954a37c43037547ed19b1feee8aae882b2983e3a7c1c09e14c471c27710487ae3015e71c7434c36a9c13b7a53f"
-      },
-      "neoforge_2_8_1": {
-        "name": "everycomp-1.21-2.8.1-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MoJlf2Vk/everycomp-1.21-2.8.1-neoforge.jar",
-        "sha512": "0db29e0ad6aab7430c2926ebd27f889a647bbd32a2ad3d031c1fc36d688d4d2f1c77bb6ba9e1db423663c889f169c7aefb3a1e91d56cfe05e69b8bd91a27694a"
-      },
-      "neoforge_2_8_0": {
-        "name": "everycomp-1.21-2.8.0-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pLoAKVhz/everycomp-1.21-2.8.0-neoforge.jar",
-        "sha512": "61cde6b8e77b8a30853772992d1b3ec9e7a4e890b2e68803e13eee05bfdae848c61cba8c2d196c3948d3b120b63c6ce9bf0bb0606ae126a90d70e3d099ecbe5a"
-      },
-      "neoforge_2_7_6": {
-        "name": "everycomp-1.21-2.7.6-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/me5YtblJ/everycomp-1.21-2.7.6-neoforge.jar",
-        "sha512": "2e955fa82038d12548943bfa8f671b619f9bc8608ff76b68854369e1613a3ce79fac2b5d85cc369481890249b33655ed89c69b2ff69929168f6e0bd2d3c5a5a6"
-      },
-      "neoforge_2_7_5": {
-        "name": "everycomp-1.21-2.7.5-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pJ4ghpwb/everycomp-1.21-2.7.5-neoforge.jar",
-        "sha512": "76b355bf1062a68c289ea21a137df36d7dd72350baa99a473783de1e05ab4f2a3a7b1ca34731859b2aba38a10f369af4a8e4ee4135ef7408cd2810298bf37ac3"
-      },
-      "neoforge_2_7_4": {
-        "name": "everycomp-1.21-2.7.4-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iYv97teh/everycomp-1.21-2.7.4-neoforge.jar",
-        "sha512": "ab4488fd79f65547851e4a4fdec6a41c8f5c3bca8ac807f85c063ddbfca62b5293cbfcc05794600a1dc5751eb7676c3b97fdbf5ab93f2a2429dd65512f4e9f27"
-      },
-      "neoforge_2_7_3": {
-        "name": "everycomp-1.21-2.7.3-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/H2xjDtQb/everycomp-1.21-2.7.3-neoforge.jar",
-        "sha512": "8973de3cd0093faf55888a8adda4865aa36400b6d85eaa0fa5e81073a36b717e0ae2d5ab92fc737e3fd8dff72f83c97fd4a3edd2fbe30eadfce03ab7ce354817"
-      },
-      "neoforge_2_7_2": {
-        "name": "everycomp-1.21-2.7.2-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ALf0fZU0/everycomp-1.21-2.7.2-neoforge.jar",
-        "sha512": "95ab466dcb2a078b906f17baf407e25af151af9ca1f2ffb3fb7a34689cde79d5e014f180b1b799abfc27a343e016a94a39d95dac7d4afc40aeb19e0d23fb6ace"
-      },
-      "neoforge_2_7_1": {
-        "name": "everycomp-1.21-2.7.1-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/PLPS8oGv/everycomp-1.21-2.7.1-neoforge.jar",
-        "sha512": "2bcd5405bfe2552b254475def4f4204b3339c76bf200bef7f2678b1aa02b2652e4ed0d055ee09b31d4f4c32ddec63be58aa543b94dce0f07d6d388e3f03e15c8"
-      },
-      "neoforge_2_7_0": {
-        "name": "everycomp-1.21-2.7.0-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/fQaRl4Yw/everycomp-1.21-2.7.0-neoforge.jar",
-        "sha512": "c472455ab5b2797e39efc3ed1257c252ba144b1dc0a93e22741ef85d8fa6750491bf97a6521b92a25edffab371c1d41ec9f76ecf050b48a9983b22626b172cf9"
+        "name": "everycomp-1.21-2.11.27-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MgmTy7is/everycomp-1.21-2.11.27-neoforge.jar",
+        "sha512": "744d59bb722902fb00b79c22725c65aee722cb089265f56ccd1214b86d12f50e5b077f0651eee41891ba650665584156a6b1268798f31dc49d05063ea5b350ae"
       },
       "1_21-2_11_27": {
         "name": "everycomp-1.21-2.11.27-neoforge.jar",
@@ -493,6 +373,11 @@
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/w1IUNI4F/everycomp-1.21-2.11.22-neoforge.jar",
         "sha512": "eda2b21bc101e49b3737764af07a7c42e0f76602c0d9651e8f7c8c8650d3a4bdc3c0612b9ebcbe94c9dec9e00b775275cfa8145324dba264e2621527c796b3f4"
       },
+      "1_21-2_1": {
+        "name": "everycomp-1.21-2.11.21-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/2LzN1Ef9/everycomp-1.21-2.11.21-neoforge.jar",
+        "sha512": "43f7942ac38e785e4d6ecf2fce8e437634a58f6d695b8bb88730928e68c4806bb5e7f9a4b4254bafc68099df218c12c7329789332704dc057f484e024f9ec6f4"
+      },
       "1_21-2_11_20": {
         "name": "everycomp-1.21-2.11.20-neoforge.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7Nfu5pAk/everycomp-1.21-2.11.20-neoforge.jar",
@@ -505,8 +390,8 @@
       },
       "1_21-2_11_18": {
         "name": "everycomp-1.21-2.11.18-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yOyByPAg/everycomp-1.21-2.11.18-neoforge.jar",
-        "sha512": "7c6583fb863728b7614be567a028274fd1c883b9e31e0b7113893a8af344764c3dc578b4d8655c88fb137a63115e4439322a8ed1f7829892a7eaedf0e0dab4e2"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/XFWpWKvY/everycomp-1.21-2.11.18-neoforge.jar",
+        "sha512": "a8d0a368f8f221b477d606edaa440fa57220b623cfc5c932f7b1d3402f6b040e661f9829571f7c28a5cd0aa748ef877975906685707106050ee9a43b99ce283d"
       },
       "1_21-2_11_17": {
         "name": "everycomp-1.21-2.11.17-neoforge.jar",
@@ -668,24 +553,134 @@
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/m7cxs5d8/everycomp-1.21-2.10.0-neoforge.jar",
         "sha512": "db36994ce59e3736a4494d84e1d75137bbde2f6beaaab38434c43a63fe8b30b99f2b56c5b94f1a36f5f561f12381d17724b7910d6b32dffc3375542ff42bb28e"
       },
-      "1_21-2_1": {
-        "name": "everycomp-1.21-2.11.21-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/2LzN1Ef9/everycomp-1.21-2.11.21-neoforge.jar",
-        "sha512": "43f7942ac38e785e4d6ecf2fce8e437634a58f6d695b8bb88730928e68c4806bb5e7f9a4b4254bafc68099df218c12c7329789332704dc057f484e024f9ec6f4"
+      "neoforge_2_9_10": {
+        "name": "everycomp-1.21-2.9.10-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OA1qCzkH/everycomp-1.21-2.9.10-neoforge.jar",
+        "sha512": "c07bcdea2188982deffe1d3f8f8d7bbd011ab2cb8c20a4dda47e92c73ce3306435ba23daeb164503993eb98a3cfd593eed27e9682cec03a3cb299fb18d77788a"
+      },
+      "neoforge_2_9_9": {
+        "name": "everycomp-1.21-2.9.9-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9JCwqsF9/everycomp-1.21-2.9.9-neoforge.jar",
+        "sha512": "25fd4a7af842fe141f574eaa93903abab5146bfb4ce0f9329463e9f101e635bdf7aa05346d4e2cd72161446da417d95954f913d49c600c7b7bf4f3d42d5eeb7c"
+      },
+      "neoforge_2_9_8": {
+        "name": "everycomp-1.21-2.9.8-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UhQXx3QJ/everycomp-1.21-2.9.8-neoforge.jar",
+        "sha512": "3c9999d6aeaff8ce61e2377184b593e0bb401cec39c998efe458585832797fe5fdbda1ffc012d1871bbda97f9a106827d26b0c28a3e4107351aabb2b11c57447"
+      },
+      "neoforge_2_9_7": {
+        "name": "everycomp-1.21-2.9.7-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/RQW0SkWr/everycomp-1.21-2.9.7-neoforge.jar",
+        "sha512": "418997dd1709fcec21b0c7d0cdca8299886f86d26f27ab1bc3ff6ec7d235800618093ed0a6ce5841d02352c682bd890607c7361cf2a24d6f39b49456f3552ae6"
+      },
+      "neoforge_2_9_6": {
+        "name": "everycomp-1.21-2.9.6-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lenHbtLC/everycomp-1.21-2.9.6-neoforge.jar",
+        "sha512": "d80872861f6179afd6f81603b41e6588c9c0ec352d00da0c74ec89daac6b02434f7afb56a4608134a70898704883acd4e7b249af3aac067ac030fc4e4ba3e228"
+      },
+      "neoforge_2_9_5": {
+        "name": "everycomp-1.21-2.9.5-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WYLmjQKt/everycomp-1.21-2.9.5-neoforge.jar",
+        "sha512": "678f6c57ba30c19a5da342ea9934af61630ccb7bb6cf6341986c6a9d7ce993a29104cadd492e24d7308a5bc732aa1037a67b47979c749fa158a61408e98cd2a8"
+      },
+      "neoforge_2_9_4": {
+        "name": "everycomp-1.21-2.9.4-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/EgHgby9t/everycomp-1.21-2.9.4-neoforge.jar",
+        "sha512": "1bc041ad2e774edba77ea96bc5b7c8db292f0d43a1a7e556ed5343b34a9f726ad52bcbcb7f0092d399eb0467432265f76d6a66090d243035f16132653d188dee"
+      },
+      "neoforge_2_9_3": {
+        "name": "everycomp-1.21-2.9.3-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9HVQbO9R/everycomp-1.21-2.9.3-neoforge.jar",
+        "sha512": "5b046b1276ccdeee8ff088e35277e06a24fe1b360e82f41d9c97140883c93aef45728f4b3079bb791814f9e6ff40c7b8297f2dd308e8dd9820627151d5350521"
+      },
+      "neoforge_2_9_2": {
+        "name": "everycomp-1.21-2.9.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/axPGwxK5/everycomp-1.21-2.9.2-neoforge.jar",
+        "sha512": "4ea840d632cea35718aa1e97ec98356dd3a8c5c4f54e04b6b8df27ee46c0ca119d3ca6d35a932af98d1c26985e907dd469e4d147c65aedd62073d657fe5a744a"
+      },
+      "neoforge_2_9_1": {
+        "name": "everycomp-1.21-2.9.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/TlbUwAGV/everycomp-1.21-2.9.1-neoforge.jar",
+        "sha512": "0bf815162a25c7e943845c125d39c423148f56e2d6e9b92282c4e580573466e190c730127e409d8840290fa3e1fbe5c96bb8efa7c0f3f35c9e3d3dd3bafd0b74"
+      },
+      "neoforge_2_9_0": {
+        "name": "everycomp-1.21-2.9.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Oo4l6QKT/everycomp-1.21-2.9.0-neoforge.jar",
+        "sha512": "b7c093179bfc8807c38201a48a73992054ca20939a94e9ec8e411de0ceb14c063b0a2c9688d3068d2128643ed1e30f22551ab05007292d945ef2a411c81ad364"
+      },
+      "neoforge_2_8_5": {
+        "name": "everycomp-1.21-2.8.5-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ETV1SzfB/everycomp-1.21-2.8.5-neoforge.jar",
+        "sha512": "12653420d8f179b0da97248d515deab6eff5f1b43f123308bfa61b8186f2e6c8faf4640e76838b28a4031d312854b0a8f8094e2d67c3fcdd5cf00661835efbfd"
+      },
+      "neoforge_2_8_4": {
+        "name": "everycomp-1.21-2.8.4-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/KhGzGnz3/everycomp-1.21-2.8.4-neoforge.jar",
+        "sha512": "384780d3469a786a723327bebadc6101427decd3d10333788c9b901799833061fdc4421e11c73734386812d390a432efd2a98c3a0ab69457126a042b33dda4ef"
+      },
+      "neoforge_2_8_3": {
+        "name": "everycomp-1.21-2.8.3-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9sxJ1jhg/everycomp-1.21-2.8.3-neoforge.jar",
+        "sha512": "e1101673f719762946eeb8218b8d9ecade7f668fdd2ad312615bdcb59945c58cd6c8aa6a0c86d64ec6bd819a494ebe41b0992b805d5c72a5f524642e45871f17"
+      },
+      "neoforge_2_8_2": {
+        "name": "everycomp-1.21-2.8.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/v9Ttfm7R/everycomp-1.21-2.8.2-neoforge.jar",
+        "sha512": "f3aa6936cf38192d10b3bbbe841e20dab48d84954a37c43037547ed19b1feee8aae882b2983e3a7c1c09e14c471c27710487ae3015e71c7434c36a9c13b7a53f"
+      },
+      "neoforge_2_8_1": {
+        "name": "everycomp-1.21-2.8.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/MoJlf2Vk/everycomp-1.21-2.8.1-neoforge.jar",
+        "sha512": "0db29e0ad6aab7430c2926ebd27f889a647bbd32a2ad3d031c1fc36d688d4d2f1c77bb6ba9e1db423663c889f169c7aefb3a1e91d56cfe05e69b8bd91a27694a"
+      },
+      "neoforge_2_8_0": {
+        "name": "everycomp-1.21-2.8.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pLoAKVhz/everycomp-1.21-2.8.0-neoforge.jar",
+        "sha512": "61cde6b8e77b8a30853772992d1b3ec9e7a4e890b2e68803e13eee05bfdae848c61cba8c2d196c3948d3b120b63c6ce9bf0bb0606ae126a90d70e3d099ecbe5a"
+      },
+      "neoforge_2_7_6": {
+        "name": "everycomp-1.21-2.7.6-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/me5YtblJ/everycomp-1.21-2.7.6-neoforge.jar",
+        "sha512": "2e955fa82038d12548943bfa8f671b619f9bc8608ff76b68854369e1613a3ce79fac2b5d85cc369481890249b33655ed89c69b2ff69929168f6e0bd2d3c5a5a6"
+      },
+      "neoforge_2_7_5": {
+        "name": "everycomp-1.21-2.7.5-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pJ4ghpwb/everycomp-1.21-2.7.5-neoforge.jar",
+        "sha512": "76b355bf1062a68c289ea21a137df36d7dd72350baa99a473783de1e05ab4f2a3a7b1ca34731859b2aba38a10f369af4a8e4ee4135ef7408cd2810298bf37ac3"
+      },
+      "neoforge_2_7_4": {
+        "name": "everycomp-1.21-2.7.4-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iYv97teh/everycomp-1.21-2.7.4-neoforge.jar",
+        "sha512": "ab4488fd79f65547851e4a4fdec6a41c8f5c3bca8ac807f85c063ddbfca62b5293cbfcc05794600a1dc5751eb7676c3b97fdbf5ab93f2a2429dd65512f4e9f27"
+      },
+      "neoforge_2_7_3": {
+        "name": "everycomp-1.21-2.7.3-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/H2xjDtQb/everycomp-1.21-2.7.3-neoforge.jar",
+        "sha512": "8973de3cd0093faf55888a8adda4865aa36400b6d85eaa0fa5e81073a36b717e0ae2d5ab92fc737e3fd8dff72f83c97fd4a3edd2fbe30eadfce03ab7ce354817"
+      },
+      "neoforge_2_7_2": {
+        "name": "everycomp-1.21-2.7.2-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ALf0fZU0/everycomp-1.21-2.7.2-neoforge.jar",
+        "sha512": "95ab466dcb2a078b906f17baf407e25af151af9ca1f2ffb3fb7a34689cde79d5e014f180b1b799abfc27a343e016a94a39d95dac7d4afc40aeb19e0d23fb6ace"
+      },
+      "neoforge_2_7_1": {
+        "name": "everycomp-1.21-2.7.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/PLPS8oGv/everycomp-1.21-2.7.1-neoforge.jar",
+        "sha512": "2bcd5405bfe2552b254475def4f4204b3339c76bf200bef7f2678b1aa02b2652e4ed0d055ee09b31d4f4c32ddec63be58aa543b94dce0f07d6d388e3f03e15c8"
+      },
+      "neoforge_2_7_0": {
+        "name": "everycomp-1.21-2.7.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/fQaRl4Yw/everycomp-1.21-2.7.0-neoforge.jar",
+        "sha512": "c472455ab5b2797e39efc3ed1257c252ba144b1dc0a93e22741ef85d8fa6750491bf97a6521b92a25edffab371c1d41ec9f76ecf050b48a9983b22626b172cf9"
       }
     }
   },
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "everycomp-1.21-2.6.72.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7UFDB8hp/everycomp-1.21-2.6.72.jar",
-        "sha512": "6d58661fdaa71e0529d0f6b61803c59d6bab55af3a338030b460fbdd12a87c713c71d3173bc03a0a3282a5dcf85840c5e67ce52b29cfdfca841c43d79a02d8f3"
-      },
-      "1_21-2_6_72": {
-        "name": "everycomp-1.21-2.6.72.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7UFDB8hp/everycomp-1.21-2.6.72.jar",
-        "sha512": "6d58661fdaa71e0529d0f6b61803c59d6bab55af3a338030b460fbdd12a87c713c71d3173bc03a0a3282a5dcf85840c5e67ce52b29cfdfca841c43d79a02d8f3"
+        "name": "everycomp-1.20-2.9.17-forge.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/VfyRmElC/everycomp-1.20-2.9.17-forge.jar",
+        "sha512": "b56c5258a8a34178205574fc262a35c7a5d31299954f3a90d3fb876433cc000b2a89ff9ffecfdb5bd5eb68524ae582a7c4807ca9297b6438fc4861a6b11f036a"
       },
       "1_20-2_9_17": {
         "name": "everycomp-1.20-2.9.17-forge.jar",
@@ -714,8 +709,8 @@
       },
       "1_20-2_9_12": {
         "name": "everycomp-1.20-2.9.12-forge.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Wa7DK8Yb/everycomp-1.20-2.9.12-forge.jar",
-        "sha512": "db03a2c4724a347428ba15c7a8979838aea8e92d221db16baba0b2a05a59d774b9da24791063060000244de9a2eaa9b4ea3e208cbbea91a7eed044b3b3a763db"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/VrCOF3LT/everycomp-1.20-2.9.12-forge.jar",
+        "sha512": "f988385a17283fccb3fb05180de2484e4430731413a1f243b78069c3ffd63285d16088d56077240e2a178e2f7d9a1b515b72ce1f57534246dc588f3de5a95278"
       },
       "1_20-2_9_11": {
         "name": "everycomp-1.20-2.9.11-forge.jar",
@@ -959,8 +954,8 @@
       },
       "1_20-2_7_12": {
         "name": "everycomp-1.20-2.7.12.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/fJRRPDux/everycomp-1.20-2.7.12.jar",
-        "sha512": "9fbfa7e79a8737dc4c54aadb860ec598b8e10f88eadd43b5af6a478772c12be69e7735c505d4ca7a0fd49463fbab171fe240923cbc06097b1dbb49e54bbf943a"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/atv3A4RT/everycomp-1.20-2.7.12.jar",
+        "sha512": "beb1972e9f15864d3e525e3158339e095111ee6c149a8eb5c82def4e17d4f1ffc2fae269136f05684e34201b7437a18a7721a06437ac56a31ed9f90dca31946e"
       },
       "1_20-2_7_11": {
         "name": "everycomp-1.20-2.7.11.jar",
@@ -1072,15 +1067,15 @@
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wQkYKezf/everycomp-1.20-2.6.85.jar",
         "sha512": "d7a4b0a1cb6e011ac3e02a1cb9f64d54d7307e1b91190c4c139067ac0126182a4e380aa94647970df74d48ad72395b1bc10ee6c1e0c58b6671142539776753f2"
       },
-      "1_20-2_6_84": {
-        "name": "everycomp-1.20-2.6.84.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/CGyyawAQ/everycomp-1.20-2.6.84.jar",
-        "sha512": "dbb3b50b3b4444527371ec9471251c7090a600c15babe0528af4a09a0a27b68aae779f328ec46f0a7049620adcd8694475bf0fbc5f015eebabdf6e8dcb454aba"
-      },
       "1_20-2_6_84H": {
         "name": "everycomp-1.20-2.6.84H.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Jo99fieW/everycomp-1.20-2.6.84H.jar",
         "sha512": "2eba0a26a3107a50af3b434df674d29572352c10602a7db157df141ad5525330d8da450f7501f890f8557f4c590b68bb92d8a984ebdefe0923c02b08615a44ba"
+      },
+      "1_20-2_6_84": {
+        "name": "everycomp-1.20-2.6.84.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/CGyyawAQ/everycomp-1.20-2.6.84.jar",
+        "sha512": "dbb3b50b3b4444527371ec9471251c7090a600c15babe0528af4a09a0a27b68aae779f328ec46f0a7049620adcd8694475bf0fbc5f015eebabdf6e8dcb454aba"
       },
       "1_20-2_6_83": {
         "name": "everycomp-1.20-2.6.83.jar",
@@ -1136,6 +1131,11 @@
         "name": "everycomp-1.20-2.6.73.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dV2UygLD/everycomp-1.20-2.6.73.jar",
         "sha512": "4593a6ae7079ba14adbcdb78ef3d93e0e9053bbdca8b224f6614a7a4f48f9a05e9a2e9c973e7c6f0d8be3d1af3c4c43d710f7d0460def918b4c355b8af81dc57"
+      },
+      "1_21-2_6_72": {
+        "name": "everycomp-1.21-2.6.72.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7UFDB8hp/everycomp-1.21-2.6.72.jar",
+        "sha512": "6d58661fdaa71e0529d0f6b61803c59d6bab55af3a338030b460fbdd12a87c713c71d3173bc03a0a3282a5dcf85840c5e67ce52b29cfdfca841c43d79a02d8f3"
       },
       "1_20-2_6_71": {
         "name": "everycomp-1.20-2.6.71.jar",
@@ -1369,8 +1369,8 @@
       },
       "1_20-2_6_25": {
         "name": "everycomp-1.20-2.6.25.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/AuVISPae/everycomp-1.20-2.6.25.jar",
-        "sha512": "de78ca2917f4bf399dca6fc3ebf8a328b9a32032dfdf122e327f57e46bc2b18c62ee7e4ca348cfbec72f55152100ed50e7bfa8f3526b1453b6305b7b2f1d1393"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ldDCDRSn/everycomp-1.20-2.6.25.jar",
+        "sha512": "d54aacabfb67c1dbfb9731e0ac9a0fefdb734b145d29c7293a008446a680ced32f5571ac01871532807c036e2309edd9b0758c61e506fec2c572214750879dce"
       },
       "1_20-2_6_24": {
         "name": "everycomp-1.20-2.6.24.jar",
@@ -1399,8 +1399,8 @@
       },
       "1_20-2_6_18": {
         "name": "everycomp-1.20-2.6.18.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WWgDJm0m/everycomp-1.20-2.6.18.jar",
-        "sha512": "01e05bfe61eabdbd564eb6a5c44c728c3740654cd77577bc8b7b7ad7d684ab6a4c68968c5ee2823e9d5e22bea91c7c72df7b0ff16d6c115921963ab1bcf93c64"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/uaqJxCwc/everycomp-1.20-2.6.18.jar",
+        "sha512": "037454e9800fd1b8bbd2926a3747ef32a822b92dd59de685446cb950bf3e730f579d3f5e77df7b9932243a3abfb98cf6bc449251adcbbc4075a04bc5d29d5592"
       },
       "1_20-2_6_17": {
         "name": "everycomp-1.20-2.6.17.jar",
@@ -1475,94 +1475,9 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "everycomp-1.19.2-2.2.3.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/b1XioTmg/everycomp-1.19.2-2.2.3.jar",
-        "sha512": "e9ced4f2d96ca6eca28bb3493f7734a4f5977c47ecb28e6035e876ee57e8c5175c1a2c50d0dc46b1bb4d893815ae5c896da100f14d9d281beb4f8c5dbae03e24"
-      },
-      "55": {
-        "name": "everycomp-1.19.2-2.2.3.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/b1XioTmg/everycomp-1.19.2-2.2.3.jar",
-        "sha512": "e9ced4f2d96ca6eca28bb3493f7734a4f5977c47ecb28e6035e876ee57e8c5175c1a2c50d0dc46b1bb4d893815ae5c896da100f14d9d281beb4f8c5dbae03e24"
-      },
-      "53": {
-        "name": "everycomp-1.19.2-2.2.2.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/tc3MTPTL/everycomp-1.19.2-2.2.2.jar",
-        "sha512": "8785d3f87b2428e2c2f049da04e27b6ef619fd2c09be3f97fd7fa2f2b54cf0d0e56e14e96571c14b52c126214b92b5eea7ecc480a1d7c0a2ada050e60a6cb337"
-      },
-      "51": {
-        "name": "everycomp-1.19.2-2.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/nT0bbw3F/everycomp-1.19.2-2.2.1.jar",
-        "sha512": "1a6e08103c8bbf899a8a3fdff7dfbcb47654c9ae78f127e30cb334f34ed2eddb41aa44fbfa2bb05d7151dbfb9149213079c22789e593359d729b47682bef78df"
-      },
-      "49": {
-        "name": "everycomp-1.19.2-2.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/z9aAwaBr/everycomp-1.19.2-2.2.0.jar",
-        "sha512": "88bc974a4b6e0f7dfeaa0b4cfb66dca1e6a3467bfa8d67873be607929c7945f6e223699f0ea1f87cfe15727a9b7b4b7c002e7173f340e8398f9d5ecfa262deac"
-      },
-      "47": {
-        "name": "everycomp-1.19.2-2.1.6.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/xjhkFzL5/everycomp-1.19.2-2.1.6.jar",
-        "sha512": "7fb15cd37cf3978537a3253aa2dff83c908dd7925cd0eb3dc887b618c5c988a04fdbca14693a26a7ca27676cfbe64ac667e03082e815714f3827ee73c30fdfcc"
-      },
-      "46": {
-        "name": "everycomp-1.19.2-2.1.5.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZR6F8Dxv/everycomp-1.19.2-2.1.5.jar",
-        "sha512": "8cfb221e247b48c81f721cfe1c11fbc79b564827b99ee106659e306ccfd53c934447acff441a0fc97a8f013e2a5474dda95355660f29358a823bc37fb75ef49a"
-      },
-      "45": {
-        "name": "everycomp-1.19.2-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/2poA0Vtt/everycomp-1.19.2-2.1.4.jar",
-        "sha512": "71f9925dabaae7c69984d7ef237a13bf015aadd76a38cf2d099ff4678f567edc28107bd93fa79576ed5926c8e6c0f131062bb61753484d8e22e85c6c9cced13b"
-      },
-      "43": {
-        "name": "everycomp-1.19.2-2.1.3.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yqv7OMSl/everycomp-1.19.2-2.1.3.jar",
-        "sha512": "361061eb68641778e10c7e149d313e6794f930f9f866e65475e80294f558b3a2c93b2715387ecd68a9ebc825a28f407089fb67f0adbdba343556d9ee717bb637"
-      },
-      "42": {
-        "name": "everycomp-1.19.2-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7eopwXy6/everycomp-1.19.2-2.1.2.jar",
-        "sha512": "6746197bfa9cd7a04338320552f0507a94c66d62a59715f2beffd5dc8869ba43d449ed6bb36ff908f5219a832275c89d42cb21e65ef59022d900ff14023afaaf"
-      },
-      "41": {
-        "name": "everycomp-1.19.2-2.1.0.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/8QpAlJB2/everycomp-1.19.2-2.1.0.jar",
-        "sha512": "f44079765cd93c11bcbc0e02c04fd4a815911d30854b1c4bc0accfe536b9fe0326826c9095590e5d32c8bab0a0f00ddca98bbce46c265c5fb95062eed820ea39"
-      },
-      "37": {
-        "name": "everycomp-1.19.2-2.0.10.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UUbeiPEL/everycomp-1.19.2-2.0.10.jar",
-        "sha512": "57e263e08561e2a913ba333ec4976d7285ba15fc95069b447ef6e5140c5a32b3b70435bd3c1f4e99ee3d8faa9f835f8d20b0fa8958e6a531a0139246e8fbc738"
-      },
-      "35": {
-        "name": "everycomp-1.19.2-2.0.9.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FvG1WLx7/everycomp-1.19.2-2.0.9.jar",
-        "sha512": "71d1361e3b8494560e2b363ce29aa6fb052c56ac831b29b79b80198b10a84e96707ca85356bf48abf93742579b77eebf82ee04d6a8b4ff65bc596df6fe80c8fd"
-      },
-      "33": {
-        "name": "everycomp-1.19.2-2.0.8.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/oCmigAvj/everycomp-1.19.2-2.0.8.jar",
-        "sha512": "4267e5e170ea48bd0bee4195c379b2fbbb2db271f82ffbfef333c3517ad3325e7c5299703a2aead7d46b8bdcea6ea7aae486086aabb4537f58ed4c4035749470"
-      },
-      "31": {
-        "name": "everycomp-1.19.2-2.0.7.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NrPPXELT/everycomp-1.19.2-2.0.7.jar",
-        "sha512": "9e9780256806d327cd0387dce2cb190b889cbe2a418de8a006dba446f8a7a01f26921ceca56e0d734f0730ea0f9bb06ce40d38e9d23452b0e86da12afc7145f5"
-      },
-      "30": {
-        "name": "everycomp-1.19.2-2.0.6.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1tS9qlQ4/everycomp-1.19.2-2.0.6.jar",
-        "sha512": "86ae1d87ef09d95be86ab94f991ff2406ccceb130dc0d872c8d478dcd5628b0f678a1b1bac9aa7b75ace3285dce7a799b8ecaef4683aa3d53e6c3943878ebe99"
-      },
-      "29": {
-        "name": "everycomp-1.19.2-2.0.5.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dfUU8YPz/everycomp-1.19.2-2.0.5.jar",
-        "sha512": "d306c8939875d904c62331240e6ce014f249109ccaf080923393f03a66acc41e357477d6f16c0d72e36f988ada39cc3aa3119c7fb88f0e7216810e1ee7149c1c"
-      },
-      "27": {
-        "name": "everycomp-1.19.2-2.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Y0legal5/everycomp-1.19.2-2.0.4.jar",
-        "sha512": "4359e2c2043fbbf23689c1f2b697659aa9e52e06834fd9160a185f212645b5daac26ab371a38fbcb255149ddb3d726799a1b29e35ac3b9572b29c66834dd6e7b"
+        "name": "everycomp-1.19.2-2.5.36.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/xUCsILcc/everycomp-1.19.2-2.5.36.jar",
+        "sha512": "822b8fcd39c9426e832788c1ef99c02677458d3257f28911a00146c906575ce7367f4117b382eaa94840f4a9bfa2d29597db209efd94c93c7b38419cb6ed5cd1"
       },
       "1_19_2-2_5_36": {
         "name": "everycomp-1.19.2-2.5.36.jar",
@@ -1803,6 +1718,91 @@
         "name": "everycomp-1.19.2-2.3.0.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NpMgxhLU/everycomp-1.19.2-2.3.0.jar",
         "sha512": "05a97ba381d9bb1b265136c42d1a975e289cb33ae6458aca3326d4ad49373c8fb4ccdd0dd7db7873ad2985d58fce76ee9f7c5e8c7c2dfeb955bb20ec21dd62e5"
+      },
+      "55": {
+        "name": "everycomp-1.19.2-2.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/b1XioTmg/everycomp-1.19.2-2.2.3.jar",
+        "sha512": "e9ced4f2d96ca6eca28bb3493f7734a4f5977c47ecb28e6035e876ee57e8c5175c1a2c50d0dc46b1bb4d893815ae5c896da100f14d9d281beb4f8c5dbae03e24"
+      },
+      "53": {
+        "name": "everycomp-1.19.2-2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/tc3MTPTL/everycomp-1.19.2-2.2.2.jar",
+        "sha512": "8785d3f87b2428e2c2f049da04e27b6ef619fd2c09be3f97fd7fa2f2b54cf0d0e56e14e96571c14b52c126214b92b5eea7ecc480a1d7c0a2ada050e60a6cb337"
+      },
+      "51": {
+        "name": "everycomp-1.19.2-2.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/nT0bbw3F/everycomp-1.19.2-2.2.1.jar",
+        "sha512": "1a6e08103c8bbf899a8a3fdff7dfbcb47654c9ae78f127e30cb334f34ed2eddb41aa44fbfa2bb05d7151dbfb9149213079c22789e593359d729b47682bef78df"
+      },
+      "49": {
+        "name": "everycomp-1.19.2-2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/z9aAwaBr/everycomp-1.19.2-2.2.0.jar",
+        "sha512": "88bc974a4b6e0f7dfeaa0b4cfb66dca1e6a3467bfa8d67873be607929c7945f6e223699f0ea1f87cfe15727a9b7b4b7c002e7173f340e8398f9d5ecfa262deac"
+      },
+      "47": {
+        "name": "everycomp-1.19.2-2.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/xjhkFzL5/everycomp-1.19.2-2.1.6.jar",
+        "sha512": "7fb15cd37cf3978537a3253aa2dff83c908dd7925cd0eb3dc887b618c5c988a04fdbca14693a26a7ca27676cfbe64ac667e03082e815714f3827ee73c30fdfcc"
+      },
+      "46": {
+        "name": "everycomp-1.19.2-2.1.5.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZR6F8Dxv/everycomp-1.19.2-2.1.5.jar",
+        "sha512": "8cfb221e247b48c81f721cfe1c11fbc79b564827b99ee106659e306ccfd53c934447acff441a0fc97a8f013e2a5474dda95355660f29358a823bc37fb75ef49a"
+      },
+      "45": {
+        "name": "everycomp-1.19.2-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/2poA0Vtt/everycomp-1.19.2-2.1.4.jar",
+        "sha512": "71f9925dabaae7c69984d7ef237a13bf015aadd76a38cf2d099ff4678f567edc28107bd93fa79576ed5926c8e6c0f131062bb61753484d8e22e85c6c9cced13b"
+      },
+      "43": {
+        "name": "everycomp-1.19.2-2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yqv7OMSl/everycomp-1.19.2-2.1.3.jar",
+        "sha512": "361061eb68641778e10c7e149d313e6794f930f9f866e65475e80294f558b3a2c93b2715387ecd68a9ebc825a28f407089fb67f0adbdba343556d9ee717bb637"
+      },
+      "42": {
+        "name": "everycomp-1.19.2-2.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/7eopwXy6/everycomp-1.19.2-2.1.2.jar",
+        "sha512": "6746197bfa9cd7a04338320552f0507a94c66d62a59715f2beffd5dc8869ba43d449ed6bb36ff908f5219a832275c89d42cb21e65ef59022d900ff14023afaaf"
+      },
+      "41": {
+        "name": "everycomp-1.19.2-2.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/8QpAlJB2/everycomp-1.19.2-2.1.0.jar",
+        "sha512": "f44079765cd93c11bcbc0e02c04fd4a815911d30854b1c4bc0accfe536b9fe0326826c9095590e5d32c8bab0a0f00ddca98bbce46c265c5fb95062eed820ea39"
+      },
+      "37": {
+        "name": "everycomp-1.19.2-2.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UUbeiPEL/everycomp-1.19.2-2.0.10.jar",
+        "sha512": "57e263e08561e2a913ba333ec4976d7285ba15fc95069b447ef6e5140c5a32b3b70435bd3c1f4e99ee3d8faa9f835f8d20b0fa8958e6a531a0139246e8fbc738"
+      },
+      "35": {
+        "name": "everycomp-1.19.2-2.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FvG1WLx7/everycomp-1.19.2-2.0.9.jar",
+        "sha512": "71d1361e3b8494560e2b363ce29aa6fb052c56ac831b29b79b80198b10a84e96707ca85356bf48abf93742579b77eebf82ee04d6a8b4ff65bc596df6fe80c8fd"
+      },
+      "33": {
+        "name": "everycomp-1.19.2-2.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/oCmigAvj/everycomp-1.19.2-2.0.8.jar",
+        "sha512": "4267e5e170ea48bd0bee4195c379b2fbbb2db271f82ffbfef333c3517ad3325e7c5299703a2aead7d46b8bdcea6ea7aae486086aabb4537f58ed4c4035749470"
+      },
+      "31": {
+        "name": "everycomp-1.19.2-2.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NrPPXELT/everycomp-1.19.2-2.0.7.jar",
+        "sha512": "9e9780256806d327cd0387dce2cb190b889cbe2a418de8a006dba446f8a7a01f26921ceca56e0d734f0730ea0f9bb06ce40d38e9d23452b0e86da12afc7145f5"
+      },
+      "30": {
+        "name": "everycomp-1.19.2-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1tS9qlQ4/everycomp-1.19.2-2.0.6.jar",
+        "sha512": "86ae1d87ef09d95be86ab94f991ff2406ccceb130dc0d872c8d478dcd5628b0f678a1b1bac9aa7b75ace3285dce7a799b8ecaef4683aa3d53e6c3943878ebe99"
+      },
+      "29": {
+        "name": "everycomp-1.19.2-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dfUU8YPz/everycomp-1.19.2-2.0.5.jar",
+        "sha512": "d306c8939875d904c62331240e6ce014f249109ccaf080923393f03a66acc41e357477d6f16c0d72e36f988ada39cc3aa3119c7fb88f0e7216810e1ee7149c1c"
+      },
+      "27": {
+        "name": "everycomp-1.19.2-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Y0legal5/everycomp-1.19.2-2.0.4.jar",
+        "sha512": "4359e2c2043fbbf23689c1f2b697659aa9e52e06834fd9160a185f212645b5daac26ab371a38fbcb255149ddb3d726799a1b29e35ac3b9572b29c66834dd6e7b"
       }
     },
     "1_19_1": {
@@ -1911,9 +1911,99 @@
     },
     "1_18_2": {
       "latest": {
-        "name": "everycomp-1.18.2-1.5.15.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZaOmtkWW/everycomp-1.18.2-1.5.15.jar",
-        "sha512": "61e249dcd01f626a3b9506387dfb45f056b82f02bf6c1c963514b9c26a842c0c7ed3385a7b170cbb238c75165059768ad664c7579629eebbabf7c936fbf20a78"
+        "name": "everycomp-1.18.2-1.6.20.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/kP7dyuvZ/everycomp-1.18.2-1.6.20.jar",
+        "sha512": "1300bb64b4926233f59ed360455c740c882babb6a671af44b5b15f9c6c3199021155f743c6cc79672926140a80b66571d017884e2552bcda6334b6e8cbbfbc6a"
+      },
+      "1_18_2-1_6_20": {
+        "name": "everycomp-1.18.2-1.6.20.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/kP7dyuvZ/everycomp-1.18.2-1.6.20.jar",
+        "sha512": "1300bb64b4926233f59ed360455c740c882babb6a671af44b5b15f9c6c3199021155f743c6cc79672926140a80b66571d017884e2552bcda6334b6e8cbbfbc6a"
+      },
+      "1_18_2-1_6_19": {
+        "name": "everycomp-1.18.2-1.6.19.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pcmts5Mg/everycomp-1.18.2-1.6.19.jar",
+        "sha512": "ee7f55a573d82911f62aa1495ec8389419f92facc1d97ec5beb937993c49fdff7c90bd9b73a5d3212d46b569e67402232bf11d422263a793b6db1eb3e3c096e4"
+      },
+      "1_18_2-1_6_18": {
+        "name": "everycomp-1.18.2-1.6.18.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/J5e2M2ee/everycomp-1.18.2-1.6.18.jar",
+        "sha512": "3130e574daaf4e5ae420165a479386a9bef6c41aeb08b49c4f972f17da11d852917e32d233ab9f8926692aa798ee9d4ea1a1c079da8a9586cc0d98337afd3fb3"
+      },
+      "1_18_2-1_6_17": {
+        "name": "everycomp-1.18.2-1.6.17.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/vAPTr1BS/everycomp-1.18.2-1.6.17.jar",
+        "sha512": "2f1050fdb21fc3b6d56ecce2afdaf9f8ef132a7da96c1047d8b36e161a430b3e55a1bc6fa6ed101cccc2d1e4aecaaa11bf4b8c5e84db40961d1acaf9f0d83b10"
+      },
+      "1_18_2-1_6_16": {
+        "name": "everycomp-1.18.2-1.6.16.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WccYxEpj/everycomp-1.18.2-1.6.16.jar",
+        "sha512": "e871cf3c342d9b17043388e09c3b654ee3bc6bb9f2313c29f2396a60922f66c26d84223f03117e4f1d27ac64bbccb7414c0c589554dbd583c9c052de1023587a"
+      },
+      "1_18_2-1_6_15": {
+        "name": "everycomp-1.18.2-1.6.15.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/cPzC69b3/everycomp-1.18.2-1.6.15.jar",
+        "sha512": "d943c072381900f0e70e53ceb6e144c39a5b23dbd4b4ec530521a533cf6dac308dcd0c6eb7c0c2fdf7e5b88a15a4bae790861e36457e10209db30680dab96f0a"
+      },
+      "1_18_2-1_6_14": {
+        "name": "everycomp-1.18.2-1.6.14.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/nWjn764k/everycomp-1.18.2-1.6.14.jar",
+        "sha512": "9d19726523921d56562dcbdd91d162a70f4af622ddd634abff0efb5136216b0bf2d78aac123b163486ef60c627e2ddaa91c772ecf2875404006b6fbd8382b3e2"
+      },
+      "1_18_2-1_6_13": {
+        "name": "everycomp-1.18.2-1.6.13.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zPwOkG1I/everycomp-1.18.2-1.6.13.jar",
+        "sha512": "a9084644fba30949a356f5085e7b6034ce163d6d5fc659952a06580d81681c31f2eb7ac258aad2e47a170a88a4d4e0485fe819c1a7ca745327d5c48535dde221"
+      },
+      "1_18_2-1_6_12": {
+        "name": "everycomp-1.18.2-1.6.12.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ls71g31A/everycomp-1.18.2-1.6.12.jar",
+        "sha512": "e4a9ae0f34d11db6a4ee7b66b76e33b1461e36530686f21bf97de8163fececb404137811d57241951477c1fa6cefcc88bdebd946142bc01616714fdd2fe9c197"
+      },
+      "1_18_2-1_6_11": {
+        "name": "everycomp-1.18.2-1.6.11.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/5wIkLMZO/everycomp-1.18.2-1.6.11.jar",
+        "sha512": "9791b8ad731c53d1ed7ca693cf1aa16567f0d40f6201da33e810f67785a9145bb4af7156432a2b5acb14e4d8acd0a04479fafd00ff8544e2b465bd5f2a2d51ce"
+      },
+      "1_18_2-1_6_10": {
+        "name": "everycomp-1.18.2-1.6.10.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/uQGwteWY/everycomp-1.18.2-1.6.10.jar",
+        "sha512": "a11fca5f99130ad3ef117cbb68ce859b8570e135dd67f7c766736b07d8947be77be109a1a49e8972586238384d52bb85c642e26aecc34486b6ea268b3514ea9c"
+      },
+      "1_18_2-1_6_9": {
+        "name": "everycomp-1.18.2-1.6.9.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/493IjPAj/everycomp-1.18.2-1.6.9.jar",
+        "sha512": "f676500cd753f5e0fa3b6f83300182caa4e6924cbebb9d1c175dd81920ffb588a3217a38b4d95e66877c26f30e2b0c2060277df310acb7882398da0d365d6569"
+      },
+      "1_18_2-1_6_8": {
+        "name": "everycomp-1.18.2-1.6.8.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/27gIHRrt/everycomp-1.18.2-1.6.8.jar",
+        "sha512": "f3bf4857a7aefd3912a5c25097bae0be174c4415143b6d7d5a50c3c878fba6a0797a2b7850137da5232e46dc1e8877279a0af6acd65ce3937ca892defa547028"
+      },
+      "1_18_2-1_6_7": {
+        "name": "everycomp-1.18.2-1.6.7.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/cJvuEiZo/everycomp-1.18.2-1.6.7.jar",
+        "sha512": "eb065c672e60fb682e64c8bf2df0540bbc23bfb81ec915700b291cd41790b7b853baa542ccc03f7dd76185e49fc3de3e2128388daadd8170f90824164e02c44d"
+      },
+      "1_18_2-1_6_6": {
+        "name": "everycomp-1.18.2-1.6.6.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NVkX4NC2/everycomp-1.18.2-1.6.6.jar",
+        "sha512": "9679d2c23c413cecff86f9729b223856ec275dec3cc71b9d17fdc6d23c1388460a9ccca57caac2411c365bddd4713a37fb648b110a278511573f85d7166ab1f5"
+      },
+      "1_18_2-1_6_5": {
+        "name": "everycomp-1.18.2-1.6.5.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/AspsTEeS/everycomp-1.18.2-1.6.5.jar",
+        "sha512": "02008fb5c3d79ae2a18d23e65d686dfae3828d54346d5d7e1e23169bbdc9a9d21477f4ca2a5d3a49cf78eb3dc6a4cc3e8be1aa36c21c31e9e6d1b16b820fd8eb"
+      },
+      "1_18_2-1_6_4": {
+        "name": "everycomp-1.18.2-1.6.4.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NPU1uAHO/everycomp-1.18.2-1.6.4.jar",
+        "sha512": "1be8dcb8e3ec4fbb8d5c6bdcb4d67253ea80c71985a6e1b0aaebf13f6493a32f84922c4640c2e218abee0648c8e945bdae280f705cf8fe4968d8b55be2d970f0"
+      },
+      "1_18_2-1_5_18": {
+        "name": "everycomp-1.18.2-1.5.18.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yjfsvOEU/everycomp-1.18.2-1.5.18.jar",
+        "sha512": "00c5d6f8bc55977231b7b24b0e913ea21ac4b684067e7dc8e7662759930e028e39279876e8513677998418418ef047ccf56955cfc4d91f5265113e03d0a19b9c"
       },
       "52": {
         "name": "everycomp-1.18.2-1.5.15.jar",
@@ -2035,96 +2125,6 @@
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NzA1gqFO/everycomp-1.18.2-1.0.3.jar",
         "sha512": "7f3880fc376232f62ae5dc2c6aaa9ff29a9f2d47086dd014ca42ba22bc8e157a4bbdfc7a835e39e230fbe79161258194752bafd06e32d1c8e80696e36d1c8f0f"
       },
-      "1_18_2-1_6_20": {
-        "name": "everycomp-1.18.2-1.6.20.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/kP7dyuvZ/everycomp-1.18.2-1.6.20.jar",
-        "sha512": "1300bb64b4926233f59ed360455c740c882babb6a671af44b5b15f9c6c3199021155f743c6cc79672926140a80b66571d017884e2552bcda6334b6e8cbbfbc6a"
-      },
-      "1_18_2-1_6_19": {
-        "name": "everycomp-1.18.2-1.6.19.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pcmts5Mg/everycomp-1.18.2-1.6.19.jar",
-        "sha512": "ee7f55a573d82911f62aa1495ec8389419f92facc1d97ec5beb937993c49fdff7c90bd9b73a5d3212d46b569e67402232bf11d422263a793b6db1eb3e3c096e4"
-      },
-      "1_18_2-1_6_18": {
-        "name": "everycomp-1.18.2-1.6.18.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/J5e2M2ee/everycomp-1.18.2-1.6.18.jar",
-        "sha512": "3130e574daaf4e5ae420165a479386a9bef6c41aeb08b49c4f972f17da11d852917e32d233ab9f8926692aa798ee9d4ea1a1c079da8a9586cc0d98337afd3fb3"
-      },
-      "1_18_2-1_6_17": {
-        "name": "everycomp-1.18.2-1.6.17.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/vAPTr1BS/everycomp-1.18.2-1.6.17.jar",
-        "sha512": "2f1050fdb21fc3b6d56ecce2afdaf9f8ef132a7da96c1047d8b36e161a430b3e55a1bc6fa6ed101cccc2d1e4aecaaa11bf4b8c5e84db40961d1acaf9f0d83b10"
-      },
-      "1_18_2-1_6_16": {
-        "name": "everycomp-1.18.2-1.6.16.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/WccYxEpj/everycomp-1.18.2-1.6.16.jar",
-        "sha512": "e871cf3c342d9b17043388e09c3b654ee3bc6bb9f2313c29f2396a60922f66c26d84223f03117e4f1d27ac64bbccb7414c0c589554dbd583c9c052de1023587a"
-      },
-      "1_18_2-1_6_15": {
-        "name": "everycomp-1.18.2-1.6.15.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/cPzC69b3/everycomp-1.18.2-1.6.15.jar",
-        "sha512": "d943c072381900f0e70e53ceb6e144c39a5b23dbd4b4ec530521a533cf6dac308dcd0c6eb7c0c2fdf7e5b88a15a4bae790861e36457e10209db30680dab96f0a"
-      },
-      "1_18_2-1_6_14": {
-        "name": "everycomp-1.18.2-1.6.14.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/nWjn764k/everycomp-1.18.2-1.6.14.jar",
-        "sha512": "9d19726523921d56562dcbdd91d162a70f4af622ddd634abff0efb5136216b0bf2d78aac123b163486ef60c627e2ddaa91c772ecf2875404006b6fbd8382b3e2"
-      },
-      "1_18_2-1_6_13": {
-        "name": "everycomp-1.18.2-1.6.13.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zPwOkG1I/everycomp-1.18.2-1.6.13.jar",
-        "sha512": "a9084644fba30949a356f5085e7b6034ce163d6d5fc659952a06580d81681c31f2eb7ac258aad2e47a170a88a4d4e0485fe819c1a7ca745327d5c48535dde221"
-      },
-      "1_18_2-1_6_12": {
-        "name": "everycomp-1.18.2-1.6.12.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ls71g31A/everycomp-1.18.2-1.6.12.jar",
-        "sha512": "e4a9ae0f34d11db6a4ee7b66b76e33b1461e36530686f21bf97de8163fececb404137811d57241951477c1fa6cefcc88bdebd946142bc01616714fdd2fe9c197"
-      },
-      "1_18_2-1_6_11": {
-        "name": "everycomp-1.18.2-1.6.11.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/5wIkLMZO/everycomp-1.18.2-1.6.11.jar",
-        "sha512": "9791b8ad731c53d1ed7ca693cf1aa16567f0d40f6201da33e810f67785a9145bb4af7156432a2b5acb14e4d8acd0a04479fafd00ff8544e2b465bd5f2a2d51ce"
-      },
-      "1_18_2-1_6_10": {
-        "name": "everycomp-1.18.2-1.6.10.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/uQGwteWY/everycomp-1.18.2-1.6.10.jar",
-        "sha512": "a11fca5f99130ad3ef117cbb68ce859b8570e135dd67f7c766736b07d8947be77be109a1a49e8972586238384d52bb85c642e26aecc34486b6ea268b3514ea9c"
-      },
-      "1_18_2-1_6_9": {
-        "name": "everycomp-1.18.2-1.6.9.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/493IjPAj/everycomp-1.18.2-1.6.9.jar",
-        "sha512": "f676500cd753f5e0fa3b6f83300182caa4e6924cbebb9d1c175dd81920ffb588a3217a38b4d95e66877c26f30e2b0c2060277df310acb7882398da0d365d6569"
-      },
-      "1_18_2-1_6_8": {
-        "name": "everycomp-1.18.2-1.6.8.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/27gIHRrt/everycomp-1.18.2-1.6.8.jar",
-        "sha512": "f3bf4857a7aefd3912a5c25097bae0be174c4415143b6d7d5a50c3c878fba6a0797a2b7850137da5232e46dc1e8877279a0af6acd65ce3937ca892defa547028"
-      },
-      "1_18_2-1_6_7": {
-        "name": "everycomp-1.18.2-1.6.7.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/cJvuEiZo/everycomp-1.18.2-1.6.7.jar",
-        "sha512": "eb065c672e60fb682e64c8bf2df0540bbc23bfb81ec915700b291cd41790b7b853baa542ccc03f7dd76185e49fc3de3e2128388daadd8170f90824164e02c44d"
-      },
-      "1_18_2-1_6_6": {
-        "name": "everycomp-1.18.2-1.6.6.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NVkX4NC2/everycomp-1.18.2-1.6.6.jar",
-        "sha512": "9679d2c23c413cecff86f9729b223856ec275dec3cc71b9d17fdc6d23c1388460a9ccca57caac2411c365bddd4713a37fb648b110a278511573f85d7166ab1f5"
-      },
-      "1_18_2-1_6_5": {
-        "name": "everycomp-1.18.2-1.6.5.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/AspsTEeS/everycomp-1.18.2-1.6.5.jar",
-        "sha512": "02008fb5c3d79ae2a18d23e65d686dfae3828d54346d5d7e1e23169bbdc9a9d21477f4ca2a5d3a49cf78eb3dc6a4cc3e8be1aa36c21c31e9e6d1b16b820fd8eb"
-      },
-      "1_18_2-1_6_4": {
-        "name": "everycomp-1.18.2-1.6.4.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NPU1uAHO/everycomp-1.18.2-1.6.4.jar",
-        "sha512": "1be8dcb8e3ec4fbb8d5c6bdcb4d67253ea80c71985a6e1b0aaebf13f6493a32f84922c4640c2e218abee0648c8e945bdae280f705cf8fe4968d8b55be2d970f0"
-      },
-      "1_18_2-1_5_18": {
-        "name": "everycomp-1.18.2-1.5.18.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yjfsvOEU/everycomp-1.18.2-1.5.18.jar",
-        "sha512": "00c5d6f8bc55977231b7b24b0e913ea21ac4b684067e7dc8e7662759930e028e39279876e8513677998418418ef047ccf56955cfc4d91f5265113e03d0a19b9c"
-      },
       "1": {
         "name": "everycomp-1.18.2-1.0.2.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Hu3R6pwa/everycomp-1.18.2-1.0.2.jar",
@@ -2213,8 +2213,8 @@
       },
       "1_21-2_11_18": {
         "name": "everycomp-1.21-2.11.18-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/aumzMYpM/everycomp-1.21-2.11.18-fabric.jar",
-        "sha512": "6dfc94705062f4dcd8fd762392cc2195092ca53e100831560551018c9674469ddcc563be432e705cfcd08a3a1ce298a81284a357a52dc2a7602c185b117a83d1"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/sk44lxGm/everycomp-1.21-2.11.18-fabric.jar",
+        "sha512": "2f93b4c0b150ce0f4756eb9b1ec9521c4926f67fd0ebfa37b2feb44ba9855fb9865d2c4d650da884c54fc2e91429b66c5fdab735ca8a927bd8277f816db9ea0a"
       },
       "1_21-2_11_17": {
         "name": "everycomp-1.21-2.11.17-fabric.jar",
@@ -2499,129 +2499,9 @@
     },
     "1_21": {
       "latest": {
-        "name": "everycomp-1.21-2.9.10-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4ce2ZEWG/everycomp-1.21-2.9.10-fabric.jar",
-        "sha512": "31a4d455daef82e89726b20d48e8e1a4f288bfd988b61ebd2651cc0a32a92dd3cf5cd3fac023748703dcf0e53a113d1e86b7f458d1de8df3a3d6307115d2b53e"
-      },
-      "fabric_2_9_10": {
-        "name": "everycomp-1.21-2.9.10-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4ce2ZEWG/everycomp-1.21-2.9.10-fabric.jar",
-        "sha512": "31a4d455daef82e89726b20d48e8e1a4f288bfd988b61ebd2651cc0a32a92dd3cf5cd3fac023748703dcf0e53a113d1e86b7f458d1de8df3a3d6307115d2b53e"
-      },
-      "fabric_2_9_9": {
-        "name": "everycomp-1.21-2.9.9-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ETVfpwdq/everycomp-1.21-2.9.9-fabric.jar",
-        "sha512": "1ce6fc8e609aa361348630a1ea6fd9f7788b5abdc7361a4a32004aa5c3b6693316501f943732ce71c34eeb6042acb008ab08fdfc296bf1bda4ac3a0a3bf6ea48"
-      },
-      "fabric_2_9_8": {
-        "name": "everycomp-1.21-2.9.8-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OpYDbqEp/everycomp-1.21-2.9.8-fabric.jar",
-        "sha512": "07d121b1eaac4e15d2f9ec76c318210486dbcdc922c49c4408a192c857511e44e65757ce4e8f0a71bde3c708a0454b015e12264477e60ba32f40b02b26c48616"
-      },
-      "fabric_2_9_7": {
-        "name": "everycomp-1.21-2.9.7-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/2mR0mmoo/everycomp-1.21-2.9.7-fabric.jar",
-        "sha512": "39246aa00b483851a54399abe9319f217fd6fe7f90756f64cf524c5a99368c5d466214e9c1c15d6303b12ff9a173160cba51717de2c36c58331424d40fedeb24"
-      },
-      "fabric_2_9_6": {
-        "name": "everycomp-1.21-2.9.6-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/BRNzJ4De/everycomp-1.21-2.9.6-fabric.jar",
-        "sha512": "2c3dda119dc8e1fcaf529b57b83021d7f2938a7efab3e0fcf17aee25733099817953afafff48986b8d4420106e5049ba0d84e777c49cfa2bda8122d9f7e3591b"
-      },
-      "fabric_2_9_5": {
-        "name": "everycomp-1.21-2.9.5-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ioA9amD2/everycomp-1.21-2.9.5-fabric.jar",
-        "sha512": "263a4d8fa35b0063a74ab8357eea1a13e6757c129d7590ae211206a4602cad2db6d07985e2e3a39e59b9b37cf2800e900fedfb956b63378c5a528605434fc825"
-      },
-      "fabric_2_9_4": {
-        "name": "everycomp-1.21-2.9.4-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OOwLtOF5/everycomp-1.21-2.9.4-fabric.jar",
-        "sha512": "4e45835f584adf0b71bd6baa907212daccadcb2a234f6fce70242badd10c93b461525c811460b9ec012c2c0e9bb5eeeb4558261b8fae63a74597efa303a0accd"
-      },
-      "fabric_2_9_3": {
-        "name": "everycomp-1.21-2.9.3-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/k2bQcxK8/everycomp-1.21-2.9.3-fabric.jar",
-        "sha512": "77c9f8d1454cd58c4e6841d6a8ca4a2ef93b5cdb31d36063b0b2c98369a090d72809d212a5a07e9bef11419650daadf6dfc11102e6f583e453fbc43c1c9e0474"
-      },
-      "fabric_2_9_2": {
-        "name": "everycomp-1.21-2.9.2-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/xuRWo2WY/everycomp-1.21-2.9.2-fabric.jar",
-        "sha512": "fff229b75e3bc363dc9af17519cab7b8155fe78c7073716dc5c46f657af55e6eb9f5a3efa11aa838425929ad8b22ff22cf0fbd17786f6f10e5ade92d2bbb56be"
-      },
-      "fabric_2_9_1": {
-        "name": "everycomp-1.21-2.9.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1bw1bGHC/everycomp-1.21-2.9.1-fabric.jar",
-        "sha512": "0731b94e8550c5813c2d6e6d51e14e1230c826d89b387653a02186b39f27ef3e68f39f7a0f221f71e04b9b1ebce9eaffca49361d7ba4e73f0c3a4fd9bb3f7f65"
-      },
-      "fabric_2_9_0": {
-        "name": "everycomp-1.21-2.9.0-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4QnXxoRZ/everycomp-1.21-2.9.0-fabric.jar",
-        "sha512": "b393c3773ca93c1d1ba65180a8c0ab579852a1e7952b957d967bcaca89b2ac3e5f1cd03130e47f21b724ab5326a24154f5aa47204b0b2869fdfa2f5828b68961"
-      },
-      "fabric_2_8_5": {
-        "name": "everycomp-1.21-2.8.5-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/prJ9spxW/everycomp-1.21-2.8.5-fabric.jar",
-        "sha512": "a1411fb42465b942c7462ef61ba8257bcf30abfd30af7aea5a5a12a9ec1a916c30c5972cee523fecb3fa22d77f27cab66ea0c8741f754d961fb6e88fa5432cab"
-      },
-      "fabric_2_8_4": {
-        "name": "everycomp-1.21-2.8.4-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NT0IdLCd/everycomp-1.21-2.8.4-fabric.jar",
-        "sha512": "48b83db540f686eefadddbb364e60d122b1e1c245d39a34e35c3d70737871b94500ab3249e1653bdc2dc53aafa632179853630bba1cdb818cf08c181a88d6c89"
-      },
-      "fabric_2_8_3": {
-        "name": "everycomp-1.21-2.8.3-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/vuEdVbrU/everycomp-1.21-2.8.3-fabric.jar",
-        "sha512": "6077fc88210e6abcb881ee1a700ca14667df927642f2115c93b43bdd6630e4ddc2ddba49393af71c02211c0819005eb83fb777bed4c2d8909c3deacdd054b3bb"
-      },
-      "fabric_2_8_2": {
-        "name": "everycomp-1.21-2.8.2-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/njHlGV5J/everycomp-1.21-2.8.2-fabric.jar",
-        "sha512": "c02cf33eadd47c7dc512cdf8e984a167570b4bbc814169c015fe0848ad85a4c31881ff9f4f61f5499dda90cbc378fcf5587ea5b1ddf0a930d3aaf296c4d19f75"
-      },
-      "fabric_2_8_1": {
-        "name": "everycomp-1.21-2.8.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NipWx7Lh/everycomp-1.21-2.8.1-fabric.jar",
-        "sha512": "f256b1ffef57ee9f45fb35ca78318b2296e7fd0ca23b8dc3279deb17ce4cb48b0fbcb3afe09ff657002f080c2df4b5f0fa61a4f53ae580bd904beaa2fbbdac8b"
-      },
-      "fabric_2_8_0": {
-        "name": "everycomp-1.21-2.8.0-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/msvLBj5E/everycomp-1.21-2.8.0-fabric.jar",
-        "sha512": "11f2032a0ac31d45a8ba1e7dd0eb9417bd991efa9f78635cd74459961c6798c14ffb385832b05982fd61d365092cbdd305b28604579be61a8bc5c0367802bbfd"
-      },
-      "fabric_2_7_6": {
-        "name": "everycomp-1.21-2.7.6-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/bZ3QgXIO/everycomp-1.21-2.7.6-fabric.jar",
-        "sha512": "b24fbbc010a61e3c3a8d0e8221cab1f2f6e989e8f6504d6242fef56835fe681497efb6b48c7ea0829700a3e774b01ed14dbe5d37062a492374525782884f2268"
-      },
-      "fabric_2_7_5": {
-        "name": "everycomp-1.21-2.7.5-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dGFt3y2d/everycomp-1.21-2.7.5-fabric.jar",
-        "sha512": "bebad6e15965165c43877c27188474130d89ce13802af4a9f0ae0aaae3429eb782314cb6ad18686d3f9f02c320e1632fca0077853946f456bc1e5deac881ad52"
-      },
-      "fabric_2_7_4": {
-        "name": "everycomp-1.21-2.7.4-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Vpuoe6Id/everycomp-1.21-2.7.4-fabric.jar",
-        "sha512": "7436bfeca20b1f1d83b1488c3784032cedeada946050e1429fd7a4acd4e71d67ea5a130ee32504dec9177752779f4454c1fc4ab15f762e8517696b0c9f4fb69c"
-      },
-      "fabric_2_7_3": {
-        "name": "everycomp-1.21-2.7.3-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/byZLs6Li/everycomp-1.21-2.7.3-fabric.jar",
-        "sha512": "136883e854301b157ee0dd6b568e72b2b4f645e015ecb7ee07ea537c64d49bfd4ade63a329dd49659069b7f6e57c8778a82bf4dee99e003f78806fb4e8832597"
-      },
-      "fabric_2_7_2": {
-        "name": "everycomp-1.21-2.7.2-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/mS2wDeQp/everycomp-1.21-2.7.2-fabric.jar",
-        "sha512": "d82d1ffb6f5d3bb8ae6511640848f70ceb7334a1fc6882e0500660cb47b82f151a81d6c1be83f2112c8ff751e82f9aa0025557c7bdcfd6e5dada514b1c25b83a"
-      },
-      "fabric_2_7_1": {
-        "name": "everycomp-1.21-2.7.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/tq9Qpsu4/everycomp-1.21-2.7.1-fabric.jar",
-        "sha512": "7f12da0520e75f8cf3857ebf5e52304f55caefc7f1a3a9ac8d0f8fa75818aecc93c54e8e2125d9ffc29bf110c607cd8129fff7f0fb1e61f8e71e74f48f408912"
-      },
-      "fabric_2_7_0": {
-        "name": "everycomp-1.21-2.7.0-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Jat6rj5t/everycomp-1.21-2.7.0-fabric.jar",
-        "sha512": "fd2144cc4c5d491730596989ab15181b537b276d9b7c90929186d1b47cb71281008d0e8cb526c2220fd17e8db93647c7e884b9b0a2471cbe74b1a8f409044f4e"
+        "name": "everycomp-1.21-2.11.27-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/BdvCrKzt/everycomp-1.21-2.11.27-fabric.jar",
+        "sha512": "5c6393bb61eed1594c1014b5694970ec23d55fc0abf4a05f2238153d22c1b872ebdf47211868990f6c410b8bd3d9a96e377e73cf5a95e7d2a783f75870db4c7d"
       },
       "1_21-2_11_27": {
         "name": "everycomp-1.21-2.11.27-fabric.jar",
@@ -2653,6 +2533,11 @@
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/cBXXYZu9/everycomp-1.21-2.11.22-fabric.jar",
         "sha512": "5d0b5cec4b9940cb7b64e5738de9fa37d8f2f3637d4a79afdc5d3b2400fe1c490083fde33b0e1eb78392883600f1497d989a97c50f10122442390cf26df319f5"
       },
+      "1_21-2_1": {
+        "name": "everycomp-1.21-2.11.21-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/upBcRS1I/everycomp-1.21-2.11.21-fabric.jar",
+        "sha512": "3d432b2f297d888740db410cf6217dae8e801dce94ca0be0faf324064584d0df076a1b5728cc35487f43daa4bdbe5c951b501bf84b7b9619ace21c32904a7d65"
+      },
       "1_21-2_11_20": {
         "name": "everycomp-1.21-2.11.20-fabric.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/iQ46j29j/everycomp-1.21-2.11.20-fabric.jar",
@@ -2665,8 +2550,8 @@
       },
       "1_21-2_11_18": {
         "name": "everycomp-1.21-2.11.18-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/aumzMYpM/everycomp-1.21-2.11.18-fabric.jar",
-        "sha512": "6dfc94705062f4dcd8fd762392cc2195092ca53e100831560551018c9674469ddcc563be432e705cfcd08a3a1ce298a81284a357a52dc2a7602c185b117a83d1"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/sk44lxGm/everycomp-1.21-2.11.18-fabric.jar",
+        "sha512": "2f93b4c0b150ce0f4756eb9b1ec9521c4926f67fd0ebfa37b2feb44ba9855fb9865d2c4d650da884c54fc2e91429b66c5fdab735ca8a927bd8277f816db9ea0a"
       },
       "1_21-2_11_17": {
         "name": "everycomp-1.21-2.11.17-fabric.jar",
@@ -2828,22 +2713,132 @@
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/8t5nTN3U/everycomp-1.21-2.10.0-fabric.jar",
         "sha512": "88f07cb3a2cc7be0946f92befd3d5b1cb79282bf1cea2b94b771e1cac6e451654d03ff99aa7a5ef87dda0b775fa8a48f7294a871c7777c4edfa2aa55d0bffeb7"
       },
-      "1_21-2_1": {
-        "name": "everycomp-1.21-2.11.21-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/upBcRS1I/everycomp-1.21-2.11.21-fabric.jar",
-        "sha512": "3d432b2f297d888740db410cf6217dae8e801dce94ca0be0faf324064584d0df076a1b5728cc35487f43daa4bdbe5c951b501bf84b7b9619ace21c32904a7d65"
+      "fabric_2_9_10": {
+        "name": "everycomp-1.21-2.9.10-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4ce2ZEWG/everycomp-1.21-2.9.10-fabric.jar",
+        "sha512": "31a4d455daef82e89726b20d48e8e1a4f288bfd988b61ebd2651cc0a32a92dd3cf5cd3fac023748703dcf0e53a113d1e86b7f458d1de8df3a3d6307115d2b53e"
+      },
+      "fabric_2_9_9": {
+        "name": "everycomp-1.21-2.9.9-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ETVfpwdq/everycomp-1.21-2.9.9-fabric.jar",
+        "sha512": "1ce6fc8e609aa361348630a1ea6fd9f7788b5abdc7361a4a32004aa5c3b6693316501f943732ce71c34eeb6042acb008ab08fdfc296bf1bda4ac3a0a3bf6ea48"
+      },
+      "fabric_2_9_8": {
+        "name": "everycomp-1.21-2.9.8-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OpYDbqEp/everycomp-1.21-2.9.8-fabric.jar",
+        "sha512": "07d121b1eaac4e15d2f9ec76c318210486dbcdc922c49c4408a192c857511e44e65757ce4e8f0a71bde3c708a0454b015e12264477e60ba32f40b02b26c48616"
+      },
+      "fabric_2_9_7": {
+        "name": "everycomp-1.21-2.9.7-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/2mR0mmoo/everycomp-1.21-2.9.7-fabric.jar",
+        "sha512": "39246aa00b483851a54399abe9319f217fd6fe7f90756f64cf524c5a99368c5d466214e9c1c15d6303b12ff9a173160cba51717de2c36c58331424d40fedeb24"
+      },
+      "fabric_2_9_6": {
+        "name": "everycomp-1.21-2.9.6-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/BRNzJ4De/everycomp-1.21-2.9.6-fabric.jar",
+        "sha512": "2c3dda119dc8e1fcaf529b57b83021d7f2938a7efab3e0fcf17aee25733099817953afafff48986b8d4420106e5049ba0d84e777c49cfa2bda8122d9f7e3591b"
+      },
+      "fabric_2_9_5": {
+        "name": "everycomp-1.21-2.9.5-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ioA9amD2/everycomp-1.21-2.9.5-fabric.jar",
+        "sha512": "263a4d8fa35b0063a74ab8357eea1a13e6757c129d7590ae211206a4602cad2db6d07985e2e3a39e59b9b37cf2800e900fedfb956b63378c5a528605434fc825"
+      },
+      "fabric_2_9_4": {
+        "name": "everycomp-1.21-2.9.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/OOwLtOF5/everycomp-1.21-2.9.4-fabric.jar",
+        "sha512": "4e45835f584adf0b71bd6baa907212daccadcb2a234f6fce70242badd10c93b461525c811460b9ec012c2c0e9bb5eeeb4558261b8fae63a74597efa303a0accd"
+      },
+      "fabric_2_9_3": {
+        "name": "everycomp-1.21-2.9.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/k2bQcxK8/everycomp-1.21-2.9.3-fabric.jar",
+        "sha512": "77c9f8d1454cd58c4e6841d6a8ca4a2ef93b5cdb31d36063b0b2c98369a090d72809d212a5a07e9bef11419650daadf6dfc11102e6f583e453fbc43c1c9e0474"
+      },
+      "fabric_2_9_2": {
+        "name": "everycomp-1.21-2.9.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/xuRWo2WY/everycomp-1.21-2.9.2-fabric.jar",
+        "sha512": "fff229b75e3bc363dc9af17519cab7b8155fe78c7073716dc5c46f657af55e6eb9f5a3efa11aa838425929ad8b22ff22cf0fbd17786f6f10e5ade92d2bbb56be"
+      },
+      "fabric_2_9_1": {
+        "name": "everycomp-1.21-2.9.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/1bw1bGHC/everycomp-1.21-2.9.1-fabric.jar",
+        "sha512": "0731b94e8550c5813c2d6e6d51e14e1230c826d89b387653a02186b39f27ef3e68f39f7a0f221f71e04b9b1ebce9eaffca49361d7ba4e73f0c3a4fd9bb3f7f65"
+      },
+      "fabric_2_9_0": {
+        "name": "everycomp-1.21-2.9.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/4QnXxoRZ/everycomp-1.21-2.9.0-fabric.jar",
+        "sha512": "b393c3773ca93c1d1ba65180a8c0ab579852a1e7952b957d967bcaca89b2ac3e5f1cd03130e47f21b724ab5326a24154f5aa47204b0b2869fdfa2f5828b68961"
+      },
+      "fabric_2_8_5": {
+        "name": "everycomp-1.21-2.8.5-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/prJ9spxW/everycomp-1.21-2.8.5-fabric.jar",
+        "sha512": "a1411fb42465b942c7462ef61ba8257bcf30abfd30af7aea5a5a12a9ec1a916c30c5972cee523fecb3fa22d77f27cab66ea0c8741f754d961fb6e88fa5432cab"
+      },
+      "fabric_2_8_4": {
+        "name": "everycomp-1.21-2.8.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NT0IdLCd/everycomp-1.21-2.8.4-fabric.jar",
+        "sha512": "48b83db540f686eefadddbb364e60d122b1e1c245d39a34e35c3d70737871b94500ab3249e1653bdc2dc53aafa632179853630bba1cdb818cf08c181a88d6c89"
+      },
+      "fabric_2_8_3": {
+        "name": "everycomp-1.21-2.8.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/vuEdVbrU/everycomp-1.21-2.8.3-fabric.jar",
+        "sha512": "6077fc88210e6abcb881ee1a700ca14667df927642f2115c93b43bdd6630e4ddc2ddba49393af71c02211c0819005eb83fb777bed4c2d8909c3deacdd054b3bb"
+      },
+      "fabric_2_8_2": {
+        "name": "everycomp-1.21-2.8.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/njHlGV5J/everycomp-1.21-2.8.2-fabric.jar",
+        "sha512": "c02cf33eadd47c7dc512cdf8e984a167570b4bbc814169c015fe0848ad85a4c31881ff9f4f61f5499dda90cbc378fcf5587ea5b1ddf0a930d3aaf296c4d19f75"
+      },
+      "fabric_2_8_1": {
+        "name": "everycomp-1.21-2.8.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/NipWx7Lh/everycomp-1.21-2.8.1-fabric.jar",
+        "sha512": "f256b1ffef57ee9f45fb35ca78318b2296e7fd0ca23b8dc3279deb17ce4cb48b0fbcb3afe09ff657002f080c2df4b5f0fa61a4f53ae580bd904beaa2fbbdac8b"
+      },
+      "fabric_2_8_0": {
+        "name": "everycomp-1.21-2.8.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/msvLBj5E/everycomp-1.21-2.8.0-fabric.jar",
+        "sha512": "11f2032a0ac31d45a8ba1e7dd0eb9417bd991efa9f78635cd74459961c6798c14ffb385832b05982fd61d365092cbdd305b28604579be61a8bc5c0367802bbfd"
+      },
+      "fabric_2_7_6": {
+        "name": "everycomp-1.21-2.7.6-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/bZ3QgXIO/everycomp-1.21-2.7.6-fabric.jar",
+        "sha512": "b24fbbc010a61e3c3a8d0e8221cab1f2f6e989e8f6504d6242fef56835fe681497efb6b48c7ea0829700a3e774b01ed14dbe5d37062a492374525782884f2268"
+      },
+      "fabric_2_7_5": {
+        "name": "everycomp-1.21-2.7.5-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/dGFt3y2d/everycomp-1.21-2.7.5-fabric.jar",
+        "sha512": "bebad6e15965165c43877c27188474130d89ce13802af4a9f0ae0aaae3429eb782314cb6ad18686d3f9f02c320e1632fca0077853946f456bc1e5deac881ad52"
+      },
+      "fabric_2_7_4": {
+        "name": "everycomp-1.21-2.7.4-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Vpuoe6Id/everycomp-1.21-2.7.4-fabric.jar",
+        "sha512": "7436bfeca20b1f1d83b1488c3784032cedeada946050e1429fd7a4acd4e71d67ea5a130ee32504dec9177752779f4454c1fc4ab15f762e8517696b0c9f4fb69c"
+      },
+      "fabric_2_7_3": {
+        "name": "everycomp-1.21-2.7.3-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/byZLs6Li/everycomp-1.21-2.7.3-fabric.jar",
+        "sha512": "136883e854301b157ee0dd6b568e72b2b4f645e015ecb7ee07ea537c64d49bfd4ade63a329dd49659069b7f6e57c8778a82bf4dee99e003f78806fb4e8832597"
+      },
+      "fabric_2_7_2": {
+        "name": "everycomp-1.21-2.7.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/mS2wDeQp/everycomp-1.21-2.7.2-fabric.jar",
+        "sha512": "d82d1ffb6f5d3bb8ae6511640848f70ceb7334a1fc6882e0500660cb47b82f151a81d6c1be83f2112c8ff751e82f9aa0025557c7bdcfd6e5dada514b1c25b83a"
+      },
+      "fabric_2_7_1": {
+        "name": "everycomp-1.21-2.7.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/tq9Qpsu4/everycomp-1.21-2.7.1-fabric.jar",
+        "sha512": "7f12da0520e75f8cf3857ebf5e52304f55caefc7f1a3a9ac8d0f8fa75818aecc93c54e8e2125d9ffc29bf110c607cd8129fff7f0fb1e61f8e71e74f48f408912"
+      },
+      "fabric_2_7_0": {
+        "name": "everycomp-1.21-2.7.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Jat6rj5t/everycomp-1.21-2.7.0-fabric.jar",
+        "sha512": "fd2144cc4c5d491730596989ab15181b537b276d9b7c90929186d1b47cb71281008d0e8cb526c2220fd17e8db93647c7e884b9b0a2471cbe74b1a8f409044f4e"
       }
     },
     "1_20_1": {
       "latest": {
-        "name": "everycomp-1.21-2.6.72-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FA9p5nCM/everycomp-1.21-2.6.72-fabric.jar",
-        "sha512": "09eb7e7da9dca51a734133290ab5ea5b55684427958a2353a5e61347c1ff17f0cd492cbff706b55095909dba8b20ebec711edaa01f7a7b7eb71ab20e9f8d5b81"
-      },
-      "1_21-2_6_72": {
-        "name": "everycomp-1.21-2.6.72-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FA9p5nCM/everycomp-1.21-2.6.72-fabric.jar",
-        "sha512": "09eb7e7da9dca51a734133290ab5ea5b55684427958a2353a5e61347c1ff17f0cd492cbff706b55095909dba8b20ebec711edaa01f7a7b7eb71ab20e9f8d5b81"
+        "name": "everycomp-1.20-2.9.17-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wG2XYdpH/everycomp-1.20-2.9.17-fabric.jar",
+        "sha512": "f3a2e498381ad456d53f13c7823b9802f6890ceb83aba91829979b5544c8f585048df34c21aab3ae6bc9ca33f7df0671dae64d2908564e99cb35a57ab71cc3c5"
       },
       "1_20-2_9_17": {
         "name": "everycomp-1.20-2.9.17-fabric.jar",
@@ -2872,8 +2867,8 @@
       },
       "1_20-2_9_12": {
         "name": "everycomp-1.20-2.9.12-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/aUZ3gVKy/everycomp-1.20-2.9.12-fabric.jar",
-        "sha512": "24edb34858ae9a4e90cf43f028d31e954ff1011b79c9643c375412bf2d579c70a9617252f486dfd580f19c2cd5babbcd88abaaedaf67db2d9c48a80298e6e293"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/yPkvt9Da/everycomp-1.20-2.9.12-fabric.jar",
+        "sha512": "f5de4642aeb6e5a86a7f216bd616b059cd81510b1b0cfa46a2e32cb0de58837122bde6c5f3990988ba542e1b08bb3e2ac060c267e3cad91b21205e128d173c8a"
       },
       "1_20-2_9_11": {
         "name": "everycomp-1.20-2.9.11-fabric.jar",
@@ -3117,8 +3112,8 @@
       },
       "1_20-2_7_12": {
         "name": "everycomp-1.20-2.7.12-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zdHKHsCQ/everycomp-1.20-2.7.12-fabric.jar",
-        "sha512": "1f63445937464b2c6d73c7f98c283654fb658ce3f425e6b9fbe2aecd1939b053ef6b00137fc781c8e275ee89a2f4c27c792edf85408cd376c446779f1d6a6891"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZA2CniBw/everycomp-1.20-2.7.12-fabric.jar",
+        "sha512": "831b01d86500c1c6dd3818bc4cde51b2a6ce215c56deea714ce3c2c9e5d635d031cf7aa453019b8457fe622d17e77053ab3f2d85da40c81b20860d66c546feaa"
       },
       "1_20-2_7_11": {
         "name": "everycomp-1.20-2.7.11-fabric.jar",
@@ -3230,15 +3225,15 @@
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/UQRJEwI4/everycomp-1.20-2.6.85-fabric.jar",
         "sha512": "9206cee163a4de46142f93411bf38f1886d8c7a3b325b71dea2f99dd5f7d07e8587f74bdf642cf4b5a764430663987fcbdcab185551fe2796c7639dfcef42c7e"
       },
-      "1_20-2_6_84": {
-        "name": "everycomp-1.20-2.6.84-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/s2BuNwqr/everycomp-1.20-2.6.84-fabric.jar",
-        "sha512": "6b88ffec07ee5a4d47d06d95c0ae68a4fc8b8c20f21eaa0e8a3f0f10cdd940d6afe6e47135082bef25469fe3063342d953b019be80bae36bfcf932e1f1e3f934"
-      },
       "1_20-2_6_84H": {
         "name": "everycomp-1.20-2.6.84H-fabric.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/N9PNJLJp/everycomp-1.20-2.6.84H-fabric.jar",
         "sha512": "6869b92f38262ba82204835c5634830a1fbd914e7ffffa382015b859694cc2c157743fb7a8fdf9784622652e9355a315918cf0e44c2038263ad0ba93b2ba4398"
+      },
+      "1_20-2_6_84": {
+        "name": "everycomp-1.20-2.6.84-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/s2BuNwqr/everycomp-1.20-2.6.84-fabric.jar",
+        "sha512": "6b88ffec07ee5a4d47d06d95c0ae68a4fc8b8c20f21eaa0e8a3f0f10cdd940d6afe6e47135082bef25469fe3063342d953b019be80bae36bfcf932e1f1e3f934"
       },
       "1_20-2_6_83": {
         "name": "everycomp-1.20-2.6.83-fabric.jar",
@@ -3294,6 +3289,11 @@
         "name": "everycomp-1.20-2.6.73-fabric.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/zCxLLB45/everycomp-1.20-2.6.73-fabric.jar",
         "sha512": "fe110891b201e52462926bc19ea2330ba4cd3610d73d8268230912494fee5f162e8346f9f3bb9f55c4f40b9ac2b91c66bdf118c5648a1763d8b25bf569a26359"
+      },
+      "1_21-2_6_72": {
+        "name": "everycomp-1.21-2.6.72-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/FA9p5nCM/everycomp-1.21-2.6.72-fabric.jar",
+        "sha512": "09eb7e7da9dca51a734133290ab5ea5b55684427958a2353a5e61347c1ff17f0cd492cbff706b55095909dba8b20ebec711edaa01f7a7b7eb71ab20e9f8d5b81"
       },
       "1_20-2_6_71": {
         "name": "everycomp-1.20-2.6.71-fabric.jar",
@@ -3522,8 +3522,8 @@
       },
       "1_20-2_6_25": {
         "name": "everycomp-1.20-2.6.25-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/phRuBALr/everycomp-1.20-2.6.25-fabric.jar",
-        "sha512": "3dab7bd2f512e889563f8c133bf68dd56c2ad7f3823f301a24aca9286cb2f200ed817910cf290ffb16b066c7bb0939773999ef0af6b130d83556bf110b5abbc8"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/TVK3W6SA/everycomp-1.20-2.6.25-fabric.jar",
+        "sha512": "a0da8b7e298a1a7f475cc3c97f6ec6181e1c5ef52e21f5e6f85fac8454b4a39f29c3ef1e46f58be9e71c12cd15364dbc117871040fead2cdde5ace5f55c865ae"
       },
       "1_20-2_6_24": {
         "name": "everycomp-1.20-2.6.24-fabric.jar",
@@ -3547,8 +3547,8 @@
       },
       "1_20-2_6_18": {
         "name": "everycomp-1.20-2.6.18-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/JNijNm1M/everycomp-1.20-2.6.18-fabric.jar",
-        "sha512": "94c28cbbab4b61c6ce7431a4cc0ea49f5c2fe723d25bb8a114cd0de24c2f206b1031f4c6d8ba5adc98a789f5a9975be11d1eedd18e272c438dab4a9f0fb7732a"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/ZOwlUSVB/everycomp-1.20-2.6.18-fabric.jar",
+        "sha512": "a877ae2308355d3fadc0d82b73366dbb99f8e8076942f8a2ef5a5777dd3d6b69d868756c48b7302c734f56433dd267e4feb064154e8c59ee2e1b0abe1e2ecfeb"
       },
       "1_20-2_6_17": {
         "name": "everycomp-1.20-2.6.17-fabric.jar",
@@ -3557,8 +3557,8 @@
       },
       "1_20-2_6_16": {
         "name": "everycomp-1.20-2.6.16-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/33Re5qC4/everycomp-1.20-2.6.16-fabric.jar",
-        "sha512": "8b82ddede69c7893d606ec4fcc69a74ca5290dcac4e853744086d83eebbf99f61a25d1543a6443b30f73a998b32db56a4c1153e40f500e1d914320255afe1f3b"
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/YWe4x7iI/everycomp-1.20-2.6.16-fabric.jar",
+        "sha512": "5d21cbc43a000167ca05cb6c8bfb118531fd949569f94e589b290c2073f9c83859fd014068596283084d6c474c923215df5baef340cd8812d566be2a6093b3e6"
       },
       "1_20-2_6_15": {
         "name": "everycomp-1.20-2.6.15-fabric.jar",
@@ -3608,54 +3608,9 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "everycomp-1.19.2-2.2.2-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pm57oLza/everycomp-1.19.2-2.2.2-fabric.jar",
-        "sha512": "85efd20cda8f6b229cf097e747e3ed99528f3304f66edccf7bed7b48eecd19af29cb4401bfcd1e91a97b51c3f67920a0f0d59d95b0fc86d48339484ad6ec0149"
-      },
-      "54": {
-        "name": "everycomp-1.19.2-2.2.2-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pm57oLza/everycomp-1.19.2-2.2.2-fabric.jar",
-        "sha512": "85efd20cda8f6b229cf097e747e3ed99528f3304f66edccf7bed7b48eecd19af29cb4401bfcd1e91a97b51c3f67920a0f0d59d95b0fc86d48339484ad6ec0149"
-      },
-      "48": {
-        "name": "everycomp-1.19.2-2.1.6.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/bydtz5G4/everycomp-1.19.2-2.1.6.jar",
-        "sha512": "59ebd48ce8722d6204f4eaf768d93493ffef483e9932b475c49b88ed8ba41fb6148b1569e4eef4fd17b29b0782411884a32ee84d129a29a930b4cf35379abca7"
-      },
-      "44": {
-        "name": "everycomp-1.19.2-2.1.4.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/IWxQDcor/everycomp-1.19.2-2.1.4.jar",
-        "sha512": "cd3d033ce9131ac7b36f33e368128edea24a62efd6a989ff5af511f5470b4adee1673927796685d186b214183f69f39aa7238541b24309b597cb55aba0149512"
-      },
-      "40": {
-        "name": "everycomp-1.19.2-2.1.0.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lLd8iGXo/everycomp-1.19.2-2.1.0.jar",
-        "sha512": "88804c2bdaa87803231177dc9284cafe8368684d444a042ea98e6b6bbe7e012dd2797e6a04335aa7fe4a6c0195305a664d41164483b8c9c62cf4997ea6e7f52c"
-      },
-      "38": {
-        "name": "everycomp-1.19.2-2.0.10.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/l4LawWbA/everycomp-1.19.2-2.0.10.jar",
-        "sha512": "a6b56c0c021ed12195a1c89bba08a2503711c5e69b51f111e145904d9f3687df9b84ab443c99622a65b595ecdb5c0f23612517d484a35b53e5835798bcd77e58"
-      },
-      "36": {
-        "name": "everycomp-1.19.2-2.0.9.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Z2hwkr6O/everycomp-1.19.2-2.0.9.jar",
-        "sha512": "df2f7f1d9d17eb8b3fa9c2a016fdf9bc9a30be62b618ce6a95e98d34ad98d21eb4e720fce56fce6b9104c01ad4ae84936dec49f1383ec28fa6544a9d0aa0b971"
-      },
-      "34": {
-        "name": "everycomp-1.19.2-2.0.8.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/fOW9UoZN/everycomp-1.19.2-2.0.8.jar",
-        "sha512": "26e2fa8f4ef7f9da79f94671d34ee52c5f649d19c6b58e07070ffb2cc732a33914872af7cc8c553260d8646505c6de462e51015e7aa40d239005ec5c9efeca92"
-      },
-      "32": {
-        "name": "everycomp-1.19.2-2.0.7.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/LyVTuZBn/everycomp-1.19.2-2.0.7.jar",
-        "sha512": "fd38d854bc313aed08f34d3167d53d6960a5eea4935e1ce75ac99c9a4e7dd5629c6784f90916dba300364ba887dee7d2024375727c17619780c83ccb9839a4a2"
-      },
-      "28": {
-        "name": "everycomp-1.19.2-2.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9JNqGOWn/everycomp-1.19.2-2.0.4.jar",
-        "sha512": "03852beda30977a88d9b3147b589632419d4eaa0d204f560a342e3ab9709b92504ceaecf5f829eeba54f27c3e69f440dc32aa167f5b7817204eb164a612db9c6"
+        "name": "everycomp-1.19.2-2.5.36-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/PjUdiB5P/everycomp-1.19.2-2.5.36-fabric.jar",
+        "sha512": "cb1bc3498cce5ce9579fa510e5c3e89dbc3c2bc79fb0a078b5033e8f2ff842d57d1b23d071d486db9731f4aa089671d58ed4e38947be693cb3446815419d9c27"
       },
       "1_19_2-2_5_36": {
         "name": "everycomp-1.19.2-2.5.36-fabric.jar",
@@ -3891,6 +3846,51 @@
         "name": "everycomp-1.19.2-2.3.0-fabric.jar",
         "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/J7lg1K7k/everycomp-1.19.2-2.3.0-fabric.jar",
         "sha512": "d9263ffd671947bdd02a3c1191c192e0058b4721f97328e4095daef42b27daa5dd537efe946db0cab6e26c61018f87bd0bdb0540c7ec08091b545eb662f608a7"
+      },
+      "54": {
+        "name": "everycomp-1.19.2-2.2.2-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/pm57oLza/everycomp-1.19.2-2.2.2-fabric.jar",
+        "sha512": "85efd20cda8f6b229cf097e747e3ed99528f3304f66edccf7bed7b48eecd19af29cb4401bfcd1e91a97b51c3f67920a0f0d59d95b0fc86d48339484ad6ec0149"
+      },
+      "48": {
+        "name": "everycomp-1.19.2-2.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/bydtz5G4/everycomp-1.19.2-2.1.6.jar",
+        "sha512": "59ebd48ce8722d6204f4eaf768d93493ffef483e9932b475c49b88ed8ba41fb6148b1569e4eef4fd17b29b0782411884a32ee84d129a29a930b4cf35379abca7"
+      },
+      "44": {
+        "name": "everycomp-1.19.2-2.1.4.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/IWxQDcor/everycomp-1.19.2-2.1.4.jar",
+        "sha512": "cd3d033ce9131ac7b36f33e368128edea24a62efd6a989ff5af511f5470b4adee1673927796685d186b214183f69f39aa7238541b24309b597cb55aba0149512"
+      },
+      "40": {
+        "name": "everycomp-1.19.2-2.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/lLd8iGXo/everycomp-1.19.2-2.1.0.jar",
+        "sha512": "88804c2bdaa87803231177dc9284cafe8368684d444a042ea98e6b6bbe7e012dd2797e6a04335aa7fe4a6c0195305a664d41164483b8c9c62cf4997ea6e7f52c"
+      },
+      "38": {
+        "name": "everycomp-1.19.2-2.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/l4LawWbA/everycomp-1.19.2-2.0.10.jar",
+        "sha512": "a6b56c0c021ed12195a1c89bba08a2503711c5e69b51f111e145904d9f3687df9b84ab443c99622a65b595ecdb5c0f23612517d484a35b53e5835798bcd77e58"
+      },
+      "36": {
+        "name": "everycomp-1.19.2-2.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/Z2hwkr6O/everycomp-1.19.2-2.0.9.jar",
+        "sha512": "df2f7f1d9d17eb8b3fa9c2a016fdf9bc9a30be62b618ce6a95e98d34ad98d21eb4e720fce56fce6b9104c01ad4ae84936dec49f1383ec28fa6544a9d0aa0b971"
+      },
+      "34": {
+        "name": "everycomp-1.19.2-2.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/fOW9UoZN/everycomp-1.19.2-2.0.8.jar",
+        "sha512": "26e2fa8f4ef7f9da79f94671d34ee52c5f649d19c6b58e07070ffb2cc732a33914872af7cc8c553260d8646505c6de462e51015e7aa40d239005ec5c9efeca92"
+      },
+      "32": {
+        "name": "everycomp-1.19.2-2.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/LyVTuZBn/everycomp-1.19.2-2.0.7.jar",
+        "sha512": "fd38d854bc313aed08f34d3167d53d6960a5eea4935e1ce75ac99c9a4e7dd5629c6784f90916dba300364ba887dee7d2024375727c17619780c83ccb9839a4a2"
+      },
+      "28": {
+        "name": "everycomp-1.19.2-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/9JNqGOWn/everycomp-1.19.2-2.0.4.jar",
+        "sha512": "03852beda30977a88d9b3147b589632419d4eaa0d204f560a342e3ab9709b92504ceaecf5f829eeba54f27c3e69f440dc32aa167f5b7817204eb164a612db9c6"
       }
     },
     "1_19_1": {

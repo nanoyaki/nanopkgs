@@ -407,15 +407,15 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/BiKPJ2ts/AE2WTLib-12.8.5.jar",
         "sha512": "bd52604e597d49ba1339228790f07fe1018214e5deffa5642e422d35216ae133cebd2cf6920a45c1ae79e66a84eca2c14e797130cff968120f518ee343a9b9c7"
       },
-      "12_8_4-beta": {
-        "name": "AE2WTLib-12.8.4-beta.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/FpAIpNhx/AE2WTLib-12.8.4-beta.jar",
-        "sha512": "24f0f357c21dac53a88d1aac3a0137af6fac3e5d21a5868dd64a90a07deb71409654a4d18b6ac99bd5f16e8106f15637aa9ad6f488f71c366f8ab91972a75219"
-      },
       "12_8_4": {
         "name": "AE2WTLib-12.8.4.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/VOVugdFz/AE2WTLib-12.8.4.jar",
         "sha512": "5f0a5b522d02d273957f8627471ff24df81b0c373968f1f97c40d0f4df08584fbcb8af7e51fbba1ef10ae71a91e1763a9131466225d2eb5e80b71f2f17c1b4dd"
+      },
+      "12_8_4-beta": {
+        "name": "AE2WTLib-12.8.4-beta.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/FpAIpNhx/AE2WTLib-12.8.4-beta.jar",
+        "sha512": "24f0f357c21dac53a88d1aac3a0137af6fac3e5d21a5868dd64a90a07deb71409654a4d18b6ac99bd5f16e8106f15637aa9ad6f488f71c366f8ab91972a75219"
       },
       "12_8_3-beta": {
         "name": "AE2WTLib-12.8.3-beta.jar",
@@ -499,6 +499,16 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.1-forge/AE2WTLib-11.0.1.jar",
         "sha512": "3e179d5dacc65d4014d9840d19b145e5bb96e0c26f1b9658c6ee0163278545c66dcdedcf4ad81f1ae38637a0f747e92b7c9fe86f2b09c09172377153649786d7"
       },
+      "11_0_0": {
+        "name": "AE2WTLib-11.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-forge/AE2WTLib-11.0.0.jar",
+        "sha512": "79b8b84d55b69eb33df9f53079e7752931ef071f82c8d742f4ee98477850b42a820fd27ea5e45bcd18fe479ba5e83387abad56f78046661cd9dd82750cdd28cc"
+      },
+      "11_0_0-beta_1": {
+        "name": "AE2WTLib-11.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-beta.1-forge/AE2WTLib-11.0.0-beta.1.jar",
+        "sha512": "3d23834eb92417eb25b253cee910713c9d8c3042b925b269ea1bb0c14af18c4fc3b478b42d05ea5f90e15ad50496b5f9f39abe011a0ca879baeb6ab096f06269"
+      },
       "11_0_0-alpha_2": {
         "name": "AE2WTLib-11.0.0-alpha.2.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-alpha.2-forge/AE2WTLib-11.0.0-alpha.2.jar",
@@ -508,16 +518,6 @@
         "name": "AE2WTLib-11.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-alpha.1-forge/AE2WTLib-11.0.0-alpha.1.jar",
         "sha512": "18c1bcda14ab988913ec5e54945557dfa42fee2d9941c6201b6001ec91342fe00c6cbb6fc96305f48d190c244f80aef0903996347ea7ebcac8cc59c2f296affc"
-      },
-      "11_0_0-beta_1": {
-        "name": "AE2WTLib-11.0.0-beta.1.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-beta.1-forge/AE2WTLib-11.0.0-beta.1.jar",
-        "sha512": "3d23834eb92417eb25b253cee910713c9d8c3042b925b269ea1bb0c14af18c4fc3b478b42d05ea5f90e15ad50496b5f9f39abe011a0ca879baeb6ab096f06269"
-      },
-      "11_0_0": {
-        "name": "AE2WTLib-11.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-forge/AE2WTLib-11.0.0.jar",
-        "sha512": "79b8b84d55b69eb33df9f53079e7752931ef071f82c8d742f4ee98477850b42a820fd27ea5e45bcd18fe479ba5e83387abad56f78046661cd9dd82750cdd28cc"
       }
     },
     "1_18_1": {
@@ -629,15 +629,15 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/UtqbMyTo/AE2WTLib-12.8.5.jar",
         "sha512": "d5471393c0a5a5175027054dab7a0eaf83c788fdd77200a5a38a9ebae213be129506ad7231bd012a1064d86d3876bd71c58bdada1b4bdd86796d44d9c85bb934"
       },
-      "12_8_4-beta": {
-        "name": "AE2WTLib-12.8.4-beta.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/SsCru80f/AE2WTLib-12.8.4-beta.jar",
-        "sha512": "65b0406af6192dd38fb67aad957998495132294f205922315fbddb46aa379908fdcd3bb05f7c58c75e1d1e13ebd9331a183890490f99baa71aeed897fa168f89"
-      },
       "12_8_4": {
         "name": "AE2WTLib-12.8.4.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/uSTNPmOl/AE2WTLib-12.8.4.jar",
         "sha512": "1db5231ef66a4ab39f292c3cbd55b115baf97c2e59fe3b3749f6b3b3a302c1b1e2e83b1de23a91cdca3d5164644e5c2d985166b45fdc6d6a3085f586f4a194ed"
+      },
+      "12_8_4-beta": {
+        "name": "AE2WTLib-12.8.4-beta.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/SsCru80f/AE2WTLib-12.8.4-beta.jar",
+        "sha512": "65b0406af6192dd38fb67aad957998495132294f205922315fbddb46aa379908fdcd3bb05f7c58c75e1d1e13ebd9331a183890490f99baa71aeed897fa168f89"
       },
       "12_8_3-beta": {
         "name": "AE2WTLib-12.8.3-beta.jar",
@@ -738,6 +738,16 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.1-fabric/AE2WTLib-11.0.1.jar",
         "sha512": "489b39bf1501b1012432ec3498c3691c5738ace4b936a5f0c83d7348200c7b6ab506830f350038765c33434db823d2d6e5f7cd9bf7611f2e22438872c720626a"
       },
+      "11_0_0": {
+        "name": "AE2WTLib-11.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-fabric/AE2WTLib-11.0.0.jar",
+        "sha512": "3b2556e3d3f2f905211a90c6caad9e88724f9a9af582ba0d4723bffca18419e6599d849b7e9aba7aaf5b282b57063be7e25d71487c76727f027f6b99caac7651"
+      },
+      "11_0_0-beta_1": {
+        "name": "AE2WTLib-11.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-beta.1-fabric/AE2WTLib-11.0.0-beta.1.jar",
+        "sha512": "37bdbb88a8415780a4511f9d96e9fb0067eb88361652ecdf8f746d401da3f9130b7f6cd17013c4e990c061c7b097d409ea50f0bb3d133f42c75da9fa15bca9e9"
+      },
       "11_0_0-alpha_2": {
         "name": "AE2WTLib-11.0.0-alpha.2.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-alpha.2-fabric/AE2WTLib-11.0.0-alpha.2.jar",
@@ -747,16 +757,6 @@
         "name": "AE2WTLib-11.0.0-alpha.1.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-alpha.1-fabric/AE2WTLib-11.0.0-alpha.1.jar",
         "sha512": "ac36d263f22e1402de141837769b374673a3b8a8df84ec59272d73745c5b72abfbbb0c4b3d32a8e769ac4289153ccf1ea39f3bd19ebd196c5432d5bbd1a8fd41"
-      },
-      "11_0_0-beta_1": {
-        "name": "AE2WTLib-11.0.0-beta.1.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-beta.1-fabric/AE2WTLib-11.0.0-beta.1.jar",
-        "sha512": "37bdbb88a8415780a4511f9d96e9fb0067eb88361652ecdf8f746d401da3f9130b7f6cd17013c4e990c061c7b097d409ea50f0bb3d133f42c75da9fa15bca9e9"
-      },
-      "11_0_0": {
-        "name": "AE2WTLib-11.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/11.0.0-fabric/AE2WTLib-11.0.0.jar",
-        "sha512": "3b2556e3d3f2f905211a90c6caad9e88724f9a9af582ba0d4723bffca18419e6599d849b7e9aba7aaf5b282b57063be7e25d71487c76727f027f6b99caac7651"
       }
     },
     "1_18_1": {
@@ -800,6 +800,26 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.1-release/AE2WTLib-10.0.1-release.jar",
         "sha512": "ebca4eb5921b2ae2bf443917a0b2b11eabbdcd4578b4b0303a7f5630d9c7aa55901db9d8a6df4f3ad1963f486f721fef9c3dceca54ce799d8c61ad19ad1a2a4c"
       },
+      "10_0_0-release": {
+        "name": "AE2WTLib-10.0.0-release.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-release/AE2WTLib-10.0.0-release.jar",
+        "sha512": "3a895870b677baa65d746e8c460c359c087a436cdb935656712df96b76fc4a7dd97d6c5366a5f3b2ddbc045e21e286ba63785c96a53a79d4d131ecd9d2adf3d3"
+      },
+      "10_0_0-beta_5": {
+        "name": "AE2WTLib-10.0.0-beta.5.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.5/AE2WTLib-10.0.0-beta.5.jar",
+        "sha512": "49531c34a67e394a16848c8a8a05e897702a9f91f147b87cd6a6bd62eecfdf81db319193dc9941b0092441bacf57b13cd14f78f12fa66d58ee0a9400f86f6d1a"
+      },
+      "10_0_0-beta_4": {
+        "name": "AE2WTLib-10.0.0-beta.4.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.4/AE2WTLib-10.0.0-beta.4.jar",
+        "sha512": "cdb3d45f18d5ce0414a839acd0aa9c167bef4dcdec295c6bc627c0090ebc08ce8505768415c8e3a7a077a89078be4c53a5149416d48dd0e45090c4b4082e8abf"
+      },
+      "10_0_0-beta_3": {
+        "name": "AE2WTLib-10.0.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.3/AE2WTLib-10.0.0-beta.3.jar",
+        "sha512": "d425116bbbd56601d3bec148e0537a585d264f4d63af7cc6968c8343d6f8eb6530bed00275c0fe9824dba8d4079241dac3b74281f5a2488d73354714819d8340"
+      },
       "10_0_0-alpha_10": {
         "name": "AE2WTLib-10.0.0-alpha.10.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-alpha.10/AE2WTLib-10.0.0-alpha.10.jar",
@@ -829,33 +849,18 @@
         "name": "AE2WTLib-10.0.0-alpha.5.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-alpha.5/AE2WTLib-10.0.0-alpha.5.jar",
         "sha512": "e80850c5a3cb89f7282034220840cbd027c74508a2b278d1a9f558fcb382f8252a253c2e6944978007f9c53f812430dff4f36aca83a12271598f581a00e6f255"
-      },
-      "10_0_0-beta_5": {
-        "name": "AE2WTLib-10.0.0-beta.5.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.5/AE2WTLib-10.0.0-beta.5.jar",
-        "sha512": "49531c34a67e394a16848c8a8a05e897702a9f91f147b87cd6a6bd62eecfdf81db319193dc9941b0092441bacf57b13cd14f78f12fa66d58ee0a9400f86f6d1a"
-      },
-      "10_0_0-beta_4": {
-        "name": "AE2WTLib-10.0.0-beta.4.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.4/AE2WTLib-10.0.0-beta.4.jar",
-        "sha512": "cdb3d45f18d5ce0414a839acd0aa9c167bef4dcdec295c6bc627c0090ebc08ce8505768415c8e3a7a077a89078be4c53a5149416d48dd0e45090c4b4082e8abf"
+      }
+    },
+    "1_18": {
+      "latest": {
+        "name": "AE2WTLib-10.0.0-beta.3.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.3/AE2WTLib-10.0.0-beta.3.jar",
+        "sha512": "d425116bbbd56601d3bec148e0537a585d264f4d63af7cc6968c8343d6f8eb6530bed00275c0fe9824dba8d4079241dac3b74281f5a2488d73354714819d8340"
       },
       "10_0_0-beta_3": {
         "name": "AE2WTLib-10.0.0-beta.3.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.3/AE2WTLib-10.0.0-beta.3.jar",
         "sha512": "d425116bbbd56601d3bec148e0537a585d264f4d63af7cc6968c8343d6f8eb6530bed00275c0fe9824dba8d4079241dac3b74281f5a2488d73354714819d8340"
-      },
-      "10_0_0-release": {
-        "name": "AE2WTLib-10.0.0-release.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-release/AE2WTLib-10.0.0-release.jar",
-        "sha512": "3a895870b677baa65d746e8c460c359c087a436cdb935656712df96b76fc4a7dd97d6c5366a5f3b2ddbc045e21e286ba63785c96a53a79d4d131ecd9d2adf3d3"
-      }
-    },
-    "1_18": {
-      "latest": {
-        "name": "AE2WTLib-10.0.0-alpha.10.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-alpha.10/AE2WTLib-10.0.0-alpha.10.jar",
-        "sha512": "76b038f6f613766b538b213d8d2ee760b3d77410392b8b428795645082135f9b4adfd26bf872a8993ae479bdec78d1c10b8eef741c0d317e023ca27434872ad0"
       },
       "10_0_0-alpha_10": {
         "name": "AE2WTLib-10.0.0-alpha.10.jar",
@@ -896,11 +901,6 @@
         "name": "AE2WTLib-10.0.0-alpha.3.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-alpha.3/AE2WTLib-10.0.0-alpha.3.jar",
         "sha512": "efd63713d3289f7dc2f09f162134c94f7e7c370714fad7240a72807cc5c1aa13ba37ef61d400d0c1770d3b1623f8093d50c2bcbcd2daec1cb45d7d4bbc92b5b6"
-      },
-      "10_0_0-beta_3": {
-        "name": "AE2WTLib-10.0.0-beta.3.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/10.0.0-beta.3/AE2WTLib-10.0.0-beta.3.jar",
-        "sha512": "d425116bbbd56601d3bec148e0537a585d264f4d63af7cc6968c8343d6f8eb6530bed00275c0fe9824dba8d4079241dac3b74281f5a2488d73354714819d8340"
       },
       "10_0_0-alpha_2": {
         "name": "AE2WTLib-10.0.0-alpha.2.jar",
@@ -944,45 +944,45 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-beta.5/AE2WTLib-9.0.0-beta.5.jar",
         "sha512": "20945d3851ad2438d8a1ee787613450f6cc026da0053a2414e1960e4821aad62752cef4a8e9ea98f7f84e039715c3d718aae49fcc109d100b1d73eb8954ad5c9"
       },
-      "9_0_0-alpha_4": {
-        "name": "AE2WTLib-9.0.0-alpha.4.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.4/AE2WTLib-9.0.0-alpha.4.jar",
-        "sha512": "521dfcfb9fc09a0f1e911e1e412536016adc5d475f742b96f253ca3c00736487b32559031b6c1d13850ca370b5b1cbee5cf6b7f9975a53f114c9bce3ff7a822f"
-      },
       "9_0_0-beta_4": {
         "name": "AE2WTLib-9.0.0-beta.4.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-beta.4/AE2WTLib-9.0.0-beta.4.jar",
         "sha512": "d8c123be1af547fc76bdf9df26d0de6dd277ce96b718cc4dcb939619c121b16961f819c8096b71e9480a5ac6a0e1fb29971d2889502de0de3f60c17e8f211b0b"
-      },
-      "9_0_0-alpha_3": {
-        "name": "AE2WTLib-9.0.0-alpha.3.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.3/AE2WTLib-9.0.0-alpha.3.jar",
-        "sha512": "3b6d3934e3f8980016a4fba2ce9121a8219273b95b69c77238da29a3461e6cfbc1ec2980ba54af7c9ba6fe2c70f5be0b6d37dd14ade2c7a14568267c6d2a439e"
       },
       "9_0_0-beta_3": {
         "name": "AE2WTLib-9.0.0-beta.3.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-beta.3/AE2WTLib-9.0.0-beta.3.jar",
         "sha512": "93beee3826d3aeede39d6e906c244add0d89fed338659f0c7ad1998964a89c73e5ae41dc130685ddd6f3f8181607896bc4959a91592fd7d72c8c3c5ad845da53"
       },
-      "9_0_0-alpha_2": {
-        "name": "AE2WTLib-9.0.0-alpha.2.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.2/AE2WTLib-9.0.0-alpha.2.jar",
-        "sha512": "80b21177d767fb2819178b6053784a0077272c4d2d4327ed1a3fe6b20c9a143c27b570867b5330d4ea0f6f8214c0a3a449150e2a6b613877fcb2ce50343c7a38"
-      },
       "9_0_0-beta_2": {
         "name": "AE2WTLib-9.0.0-beta.2.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-beta.2/AE2WTLib-9.0.0-beta.2.jar",
         "sha512": "560ae9e3663e15e67980f8285b1618778d973b69c2410473e15194494ab5fe28fff5860f0b5f720205532c50fe51828e161b63ae5c12d7c74e53c998bf274ae7"
       },
-      "9_0_0-alpha_1": {
-        "name": "AE2WTLib-9.0.0-alpha.1.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.1/AE2WTLib-9.0.0-alpha.1.jar",
-        "sha512": "9cc3098c2078cc8f13bc26bd71a7b066a7fba9b6f5eb83e222f1342c6feeb85d021c83d43095455ba50e59d8ef0b702ce68b9bba48656dbe4891a993edcc1826"
-      },
       "9_0_0-beta_1": {
         "name": "AE2WTLib-9.0.0-beta.1.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-beta.1/AE2WTLib-9.0.0-beta.1.jar",
         "sha512": "9e95b549fe49f6f89dd3d3ae9d34f82f68c1b4eb011b75ce980837b4faa9cbf206cc1c4acc0b0d5ebf3f77012053e9513bb2e81a6727a0371c9662846761976a"
+      },
+      "9_0_0-alpha_4": {
+        "name": "AE2WTLib-9.0.0-alpha.4.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.4/AE2WTLib-9.0.0-alpha.4.jar",
+        "sha512": "521dfcfb9fc09a0f1e911e1e412536016adc5d475f742b96f253ca3c00736487b32559031b6c1d13850ca370b5b1cbee5cf6b7f9975a53f114c9bce3ff7a822f"
+      },
+      "9_0_0-alpha_3": {
+        "name": "AE2WTLib-9.0.0-alpha.3.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.3/AE2WTLib-9.0.0-alpha.3.jar",
+        "sha512": "3b6d3934e3f8980016a4fba2ce9121a8219273b95b69c77238da29a3461e6cfbc1ec2980ba54af7c9ba6fe2c70f5be0b6d37dd14ade2c7a14568267c6d2a439e"
+      },
+      "9_0_0-alpha_2": {
+        "name": "AE2WTLib-9.0.0-alpha.2.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.2/AE2WTLib-9.0.0-alpha.2.jar",
+        "sha512": "80b21177d767fb2819178b6053784a0077272c4d2d4327ed1a3fe6b20c9a143c27b570867b5330d4ea0f6f8214c0a3a449150e2a6b613877fcb2ce50343c7a38"
+      },
+      "9_0_0-alpha_1": {
+        "name": "AE2WTLib-9.0.0-alpha.1.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/9.0.0-alpha.1/AE2WTLib-9.0.0-alpha.1.jar",
+        "sha512": "9cc3098c2078cc8f13bc26bd71a7b066a7fba9b6f5eb83e222f1342c6feeb85d021c83d43095455ba50e59d8ef0b702ce68b9bba48656dbe4891a993edcc1826"
       }
     },
     "1_16_5": {
@@ -1001,30 +1001,30 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.5-release/AE2WTLib-1.2.5-release.jar",
         "sha512": "b90d04a3fcb64948ddcad6f24004403b7d904691c3274c29c76bff6682a8d350b2e809c1b2d4b191b0c49e69d83bf18fded01c6bc62400294bf15d1b222e211b"
       },
-      "1_2_4-alpha_1": {
-        "name": "AE2WTLib-1.2.4-alpha.1.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.4-alpha.1/AE2WTLib-1.2.4-alpha.1.jar",
-        "sha512": "428bd8b3657770dd481cd7a00dd7d55314a6072a7957574bccc8b883f2caa22786445939369b8eefa805441be441d89adf7e134b1dde1d232bfe2ce3dfd25b03"
+      "1_2_4-release": {
+        "name": "AE2WTLib-1.2.4-release.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.4-release/AE2WTLib-1.2.4-release.jar",
+        "sha512": "72186adc7ccf72adbae4600b77e6b315f7d02924d4c74792c615fef2b4efc5b6d97085be6acc4f069c9c192b2f16844b537caf802c0acdd5e00c9011788ff889"
       },
       "1_2_4-beta_1": {
         "name": "AE2WTLib-1.2.4-beta.1.jar",
         "url": "https://cdn.modrinth.com//data/pNabrMMw/versions/1.2.4-beta.1/AE2WTLib-1.2.4-beta.1.jar",
         "sha512": "bbb064b07657c4eb9056132a68428621c154270e6d372632e628c3f9938397ba1241434a1abddb20431f7d42d9d2f4c953a11634ea037adde43469dbac7da357"
       },
-      "1_2_4-alpha": {
-        "name": "AE2WTLib-1.2.4-alpha.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.4-alpha/AE2WTLib-1.2.4-alpha.jar",
-        "sha512": "6fc0f9356203f4d432638769a12474090fa6bccfb075f3c383cbfb33dd0bf18b13fc5e1f5f816ebb30ce99fc05de2756652323a77ee380a0183649b0fe2ce034"
-      },
       "1_2_4-beta": {
         "name": "AE2WTLib-1.2.4-beta.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.4-beta/AE2WTLib-1.2.4-beta.jar",
         "sha512": "f7014e16c82d039809e31fa493ca2b4dd5656dd759b5113382410a935d30cf34d9a69a860b6022e280a26bbde92619914eced26a02c493873911da14ddb6f2e1"
       },
-      "1_2_4-release": {
-        "name": "AE2WTLib-1.2.4-release.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.4-release/AE2WTLib-1.2.4-release.jar",
-        "sha512": "72186adc7ccf72adbae4600b77e6b315f7d02924d4c74792c615fef2b4efc5b6d97085be6acc4f069c9c192b2f16844b537caf802c0acdd5e00c9011788ff889"
+      "1_2_4-alpha_1": {
+        "name": "AE2WTLib-1.2.4-alpha.1.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.4-alpha.1/AE2WTLib-1.2.4-alpha.1.jar",
+        "sha512": "428bd8b3657770dd481cd7a00dd7d55314a6072a7957574bccc8b883f2caa22786445939369b8eefa805441be441d89adf7e134b1dde1d232bfe2ce3dfd25b03"
+      },
+      "1_2_4-alpha": {
+        "name": "AE2WTLib-1.2.4-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.2.4-alpha/AE2WTLib-1.2.4-alpha.jar",
+        "sha512": "6fc0f9356203f4d432638769a12474090fa6bccfb075f3c383cbfb33dd0bf18b13fc5e1f5f816ebb30ce99fc05de2756652323a77ee380a0183649b0fe2ce034"
       },
       "1_2_3-beta_6": {
         "name": "AE2WTLib-1.2.3-beta.6.jar",
@@ -1101,6 +1101,11 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.1.1-beta/AE2WTLib-1.1.1-beta.jar",
         "sha512": "51363d031ace432f90be0ebacaead59495075fb99992f8b10524eefc1285d29da72f4945e4b95dc20124588d0cf602191b6d723793d60d2fee4fad13f4025517"
       },
+      "1_0_9-release": {
+        "name": "AE2WTLib-1.0.9-release.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.9-release/AE2WTLib-1.0.9-release.jar",
+        "sha512": "0291d8f7fdd4d9b6e492153b53412164324fc9b24c335163e18d198088fb90e9efc8df518bad5eb284ae9690452a28dcfb4de65960f3005acf0870a5b34d0b06"
+      },
       "1_1_0-beta_1": {
         "name": "AE2WTLib-1.1.0-beta.1.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.1.0-beta.1/AE2WTLib-1.1.0-beta.1.jar",
@@ -1111,20 +1116,15 @@
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.1.0-beta/AE2WTLib-1.1.0-beta.jar",
         "sha512": "275168a9e164115ac59c04e74c3880441392adce33fe95b15c1684285a644e095c8e069ad91ff5b70a194aa9053af2dae5f9ac651cc9301c0a3fea3483b595b0"
       },
-      "1_0_9-release": {
-        "name": "AE2WTLib-1.0.9-release.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.9-release/AE2WTLib-1.0.9-release.jar",
-        "sha512": "0291d8f7fdd4d9b6e492153b53412164324fc9b24c335163e18d198088fb90e9efc8df518bad5eb284ae9690452a28dcfb4de65960f3005acf0870a5b34d0b06"
+      "1_0_8-release": {
+        "name": "AE2WTLib-1.0.8-release.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.8-release/AE2WTLib-1.0.8-release.jar",
+        "sha512": "9a9571257437c06ca04d1ccc3c2e78b8c0a365d1caad1d752ff26f3c55c8a46a7cab27af0e2e782bf8780cd480cd3e1122c12dc5c344dfce87aa084bc7787c91"
       },
       "1_0_8-beta": {
         "name": "AE2WTLib-1.0.8-beta.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.8-beta/AE2WTLib-1.0.8-beta.jar",
         "sha512": "b3afe97f4ab9a19813dc8e8638af472fe0cc06265a774154f258c2621ef5fe2f265fb8e37c98f2ca5ffae04d2f723f5988bd2ad2e6fa9946ea60bfbf97e996c5"
-      },
-      "1_0_8-release": {
-        "name": "AE2WTLib-1.0.8-release.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.8-release/AE2WTLib-1.0.8-release.jar",
-        "sha512": "9a9571257437c06ca04d1ccc3c2e78b8c0a365d1caad1d752ff26f3c55c8a46a7cab27af0e2e782bf8780cd480cd3e1122c12dc5c344dfce87aa084bc7787c91"
       },
       "1_0_7-beta_1": {
         "name": "AE2WTLib-1.0.7-beta.1.jar",
@@ -1175,6 +1175,11 @@
         "name": "AE2WTLib-1.0.1-beta.5.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.1-beta.5/AE2WTLib-1.0.1-beta.5.jar",
         "sha512": "7085c48bfaef859d88a3ebb5ec9761e6725bcac400c6aaea02f63059c766cf89230493720b941df05f9a23f67782d4a704ae52e53e27553f37cc37624f1cb6e6"
+      },
+      "1_0_0-beta": {
+        "name": "AE2WTLib-1.0.0-beta.jar",
+        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.0-beta/AE2WTLib-1.0.0-beta.jar",
+        "sha512": "894bdbefae4105f1f40620eb767cdf3bc74c747fd5796aad06875016523d6141cc05bf46087642f8d68fe85540cd494c1d8a33d1dd4d86d9c0de5afc6aae51fa"
       },
       "1_0_0-alpha_719185266": {
         "name": "AE2WTLib-1.0-SNAPSHOT.jar",
@@ -1245,11 +1250,6 @@
         "name": "AE2WTLib-1.0-SNAPSHOT.jar",
         "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.0-alpha.662006877/AE2WTLib-1.0-SNAPSHOT.jar",
         "sha512": "33d5321a8c2c9d5a2e5c4f1397afd2b54428a546c8e8599af39c8a8c438128046c446537b04dd99e9cda657d76cec7a8407e33fb7cb6e3c3ef4f35d0e89e63c9"
-      },
-      "1_0_0-beta": {
-        "name": "AE2WTLib-1.0.0-beta.jar",
-        "url": "https://cdn.modrinth.com/data/pNabrMMw/versions/1.0.0-beta/AE2WTLib-1.0.0-beta.jar",
-        "sha512": "894bdbefae4105f1f40620eb767cdf3bc74c747fd5796aad06875016523d6141cc05bf46087642f8d68fe85540cd494c1d8a33d1dd4d86d9c0de5afc6aae51fa"
       }
     }
   }
