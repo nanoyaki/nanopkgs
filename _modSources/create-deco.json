@@ -11,7 +11,7 @@
         "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/k95JcfbJ/createdeco-2.1.2-1.21.1-neo.jar",
         "sha512": "c600f15ce173b01f86aed12d40d97c11298d63c0f707f83e5a1f14129cefd45c15ea28642b23b7847033fdd3d36c61b0a13db6e96b060d55ea778178103b4b09"
       },
-      "2_1_1": {
+      "2_1_1Neoforge": {
         "name": "createdeco-2.1.1-1.21.1-neo.jar",
         "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/XNUfWapE/createdeco-2.1.1-1.21.1-neo.jar",
         "sha512": "01da584d5937e43c61b1ca205c58fe6be2e21af7d7852224a63309f7df3450458ad98ab66bcac35f78dc48ff9d0a53220c96ccca1d359e8d388b525b47dce743"
@@ -55,9 +55,14 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "createdeco-2.0.2-1.20.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar",
-        "sha512": "f7ce4b520b7eb47fb9d1a8f510465b96673dee2d6f91ff0720713ee62143d095b399a980666538ebfb8b401fb5e93baf50a2cb2be6a4f2adfde2024f198a35c9"
+        "name": "createdeco-2.1.1-1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/OHgy53E6/createdeco-2.1.1-1.20.1-fabric.jar",
+        "sha512": "96153a62eac6c98d80a29ff5186cf38c304ffaa0463867c6ac6826db8b3234230e78503dcbbac2bc81d467c9f2a07d4fb3b1908d7b6e85d775aabc1492c682d1"
+      },
+      "2_1_1Fabric": {
+        "name": "createdeco-2.1.1-1.20.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/OHgy53E6/createdeco-2.1.1-1.20.1-fabric.jar",
+        "sha512": "96153a62eac6c98d80a29ff5186cf38c304ffaa0463867c6ac6826db8b3234230e78503dcbbac2bc81d467c9f2a07d4fb3b1908d7b6e85d775aabc1492c682d1"
       },
       "2_0_2": {
         "name": "createdeco-2.0.2-1.20.1-fabric.jar",
