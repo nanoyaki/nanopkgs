@@ -2,9 +2,19 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "connectiblechains-neoforge-1.21.1-1.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/mtlKi9L4/connectiblechains-neoforge-1.21.1-1.2.0.jar",
-        "sha512": "0c7279e7ba919a7c37d8f88bbc55b30070ed7db023d37eb78c28ea029d0db62424ff55e84b4aa22ea7beb2e9f886ad0fa9acb4e9e7ff48d96548925129664bcc"
+        "name": "connectiblechains-neoforge-1.21.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/fRH45agR/connectiblechains-neoforge-1.21.1-1.2.3.jar",
+        "sha512": "dbd7390fe5e5736fe5814fa4ab430886de8b37fbffba0734be54cfe0f59fea9f31cc8cab4834b83492b6a5d4131cf0f51dcb7c11d4e7f38d44b81857aa8927c4"
+      },
+      "1_2_3": {
+        "name": "connectiblechains-neoforge-1.21.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/fRH45agR/connectiblechains-neoforge-1.21.1-1.2.3.jar",
+        "sha512": "dbd7390fe5e5736fe5814fa4ab430886de8b37fbffba0734be54cfe0f59fea9f31cc8cab4834b83492b6a5d4131cf0f51dcb7c11d4e7f38d44b81857aa8927c4"
+      },
+      "1_2_2": {
+        "name": "connectiblechains-neoforge-1.21.1-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/aEtTpmQG/connectiblechains-neoforge-1.21.1-1.2.2.jar",
+        "sha512": "936412f82976d43eb8ad0487e6aa90673f4479c52063e0d9d68ffb7244ef22b4afb119db4df569fa3f8b3e999e605ed9b4a90735b93c81871ba877576fdef49d"
       },
       "1_2_0": {
         "name": "connectiblechains-neoforge-1.21.1-1.2.0.jar",
@@ -61,9 +71,29 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "connectiblechains-forge-1.20.1-1.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/OwC3WJuh/connectiblechains-forge-1.20.1-1.2.0.jar",
-        "sha512": "84db89a29b699f3e00e7d2aa98c99b35baf8b5a0c12037709b4c41af0748394f9a16d24db8ad4c239c086252c73f2d69b005d73cb9c903485c43e086a81da5b0"
+        "name": "connectiblechains-forge-1.20.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/um63lkGi/connectiblechains-forge-1.20.1-1.2.3.jar",
+        "sha512": "150412aebbee84066c661253168937b1f1642f89c207978068fba723ffb69e7d59dfcdbce99c57bae5acd0a2b61ebc3035b903b72d5ede5a1bd9aa5b1da9e4f8"
+      },
+      "1_2_3": {
+        "name": "connectiblechains-forge-1.20.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/um63lkGi/connectiblechains-forge-1.20.1-1.2.3.jar",
+        "sha512": "150412aebbee84066c661253168937b1f1642f89c207978068fba723ffb69e7d59dfcdbce99c57bae5acd0a2b61ebc3035b903b72d5ede5a1bd9aa5b1da9e4f8"
+      },
+      "1_2_2": {
+        "name": "connectiblechains-forge-1.20.1-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/VkjDAzFS/connectiblechains-forge-1.20.1-1.2.2.jar",
+        "sha512": "7ada1f1521aacc2276b80dc098412ca5f85469d0f7412e74e69a834a231a4e11e398213f18dad1773c06460ad2c0fe8af60d511ebf5c8a09205f724878034b71"
+      },
+      "1_2_1": {
+        "name": "connectiblechains-forge-1.20.1-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/udUQGkmN/connectiblechains-forge-1.20.1-1.2.1.jar",
+        "sha512": "59726bf3f272252b9a2265eb397f4bceb2bad11001b375c62c5d7035ac1292cdf2cc58458d6d651abfc5bcd37dbf6862a8cb0f323dfe422863d1fcb22820df84"
+      },
+      "1_2_0h": {
+        "name": "connectiblechains-forge-1.20.1-1.2.0h.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/1LfhO5lC/connectiblechains-forge-1.20.1-1.2.0h.jar",
+        "sha512": "f85b3e771f6dd4e25c4adeedab623ada6b6f9c32a57c7526a3827994e7763111a552a4718dd4fcff4b1ca6bdaf9a5b6ec7bbcc5fa6f25f0af71004257e778efa"
       },
       "1_2_0": {
         "name": "connectiblechains-forge-1.20.1-1.2.0.jar",
@@ -115,9 +145,19 @@
   "fabric": {
     "1_21_1": {
       "latest": {
-        "name": "connectiblechains-fabric-1.21.1-1.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/R3Ojh2DF/connectiblechains-fabric-1.21.1-1.2.0.jar",
-        "sha512": "7a2bd53f8524646ac8ed3376aa479a22a71cf4bcfa685cebc9b11757b95f6ab28e3ee9a51990515f18305b225156e94f8ef2b41fc80f14f2c72088ae47363405"
+        "name": "connectiblechains-fabric-1.21.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/fytxVWij/connectiblechains-fabric-1.21.1-1.2.3.jar",
+        "sha512": "5a0b92972657cb21cf8d2dc4e32b9279b2a19cb5a15d8c58b185b7dc0f722ebdc7a1a077878ffa85312589ea2f6c9520e8a4aceef1fbbfbe069a1a6f2af62ef3"
+      },
+      "1_2_3": {
+        "name": "connectiblechains-fabric-1.21.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/fytxVWij/connectiblechains-fabric-1.21.1-1.2.3.jar",
+        "sha512": "5a0b92972657cb21cf8d2dc4e32b9279b2a19cb5a15d8c58b185b7dc0f722ebdc7a1a077878ffa85312589ea2f6c9520e8a4aceef1fbbfbe069a1a6f2af62ef3"
+      },
+      "1_2_2": {
+        "name": "connectiblechains-fabric-1.21.1-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/CmCFdZaR/connectiblechains-fabric-1.21.1-1.2.2.jar",
+        "sha512": "7c5af8f8dc8ae5b9a85ab32fda600543ec513b0edfebe9fdaffb6e1222962ab5cb63c381d97dde3298b297bc7fd45a340f6dcb1a5df635f73a76f214c2096cae"
       },
       "1_2_0": {
         "name": "connectiblechains-fabric-1.21.1-1.2.0.jar",
@@ -172,9 +212,24 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "connectiblechains-fabric-1.20.1-1.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/uy5YM0wY/connectiblechains-fabric-1.20.1-1.2.0.jar",
-        "sha512": "7a4aa3240619c964c3a499666afeb28ad850545273aca7578560a8ea39ee65be2a1cfd21bb8e4218c22a8994fbe7aa83ca5af2b6e15eb6eb612fd71eab48897e"
+        "name": "connectiblechains-fabric-1.20.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/3rT7NdQ0/connectiblechains-fabric-1.20.1-1.2.3.jar",
+        "sha512": "c38cdcbb2f3a93b6d4eb14ede1774c34da41640088ea03f0b2de27fcd87186f5daaacec4df36ef6518410f8031c1bff6ccfc97d432f9edb64aa2cf0e32936f04"
+      },
+      "1_2_3": {
+        "name": "connectiblechains-fabric-1.20.1-1.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/3rT7NdQ0/connectiblechains-fabric-1.20.1-1.2.3.jar",
+        "sha512": "c38cdcbb2f3a93b6d4eb14ede1774c34da41640088ea03f0b2de27fcd87186f5daaacec4df36ef6518410f8031c1bff6ccfc97d432f9edb64aa2cf0e32936f04"
+      },
+      "1_2_2": {
+        "name": "connectiblechains-fabric-1.20.1-1.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/YarW5Yyh/connectiblechains-fabric-1.20.1-1.2.2.jar",
+        "sha512": "13530ba61027e28c9ca80d6507053a942993a57ce52492cbe80b404833ea43ad0518bfdd8171110607d86c660b999ff8a792ef1a454219d44d698de33bac09c7"
+      },
+      "1_2_1": {
+        "name": "connectiblechains-fabric-1.20.1-1.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/5pzBXDS3/versions/AdNtIHQ0/connectiblechains-fabric-1.20.1-1.2.1.jar",
+        "sha512": "d3f646a9a6c94d8495ffa491b929fbecd3a4511ce658322f5e0c4ab7e3af761a15f36b22d10c5800b66d46185a8000633c611fd5f3c262a8422c71ce9adc5d2b"
       },
       "1_2_0": {
         "name": "connectiblechains-fabric-1.20.1-1.2.0.jar",
