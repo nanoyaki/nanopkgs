@@ -13,7 +13,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `avdump` -> `B9005-GitHubRelease-unstable-2024-03-10`
 - `check-project-conflicts`
 - `clipboard-manager` -> `0.1.0-unstable-2026-02-15`
-- `cosmic-classic-menu` -> `0.0.11-unstable-2025-12-27`
+- `cosmic-classic-menu` -> `0.0.11-unstable-2026-02-25`
 - `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-20`
 - `dwproton-bin` -> `10.0-18`
 - `error-pages` -> `0-unstable-2024-11-22`
