@@ -12,6 +12,18 @@
         "sha512": "ca70fb6b1aa29bd78df542799590817871205830e59a26bdabcb2899cd8ce59c4cd535d29e11c2f8188ceb9787d126b9c7ec4ec6e4d83ebeb398935239016354"
       }
     },
+    "1_21_10": {
+      "latest": {
+        "name": "gaboulibs-neoforge-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/nllFsxYb/gaboulibs-neoforge-1.4.jar",
+        "sha512": "9744dca47a4f831ce67fe314f5c4f173b420a03e4efa6fa1df24ed2a7bc0afd3b5fdc77975c34a78e58c6edbd9e62457cd5736f8fc7c4931bedacf8508c0deda"
+      },
+      "NeoForge-1_4": {
+        "name": "gaboulibs-neoforge-1.4.jar",
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/nllFsxYb/gaboulibs-neoforge-1.4.jar",
+        "sha512": "9744dca47a4f831ce67fe314f5c4f173b420a03e4efa6fa1df24ed2a7bc0afd3b5fdc77975c34a78e58c6edbd9e62457cd5736f8fc7c4931bedacf8508c0deda"
+      }
+    },
     "1_21_9": {
       "latest": {
         "name": "gaboulibs-neoforge-1.4.jar",
@@ -38,9 +50,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "gaboulibs-neoforge-1.4.jar",
-        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/XpnYS53h/gaboulibs-neoforge-1.4.jar",
-        "sha512": "047ee57d2b08fdf44b754f5b1ce5aab9866d67c51e55aa408c5ec386654150632d90bcba37b69c2f8589054f4c1b1345bb4504537cca19ea6ba271964090b869"
+        "name": "gaboulibs-neoforge-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/Xv1vh6wM/gaboulibs-neoforge-1.4.1.jar",
+        "sha512": "62cd4c33d917893ead05e2ba1aaec330fcea867e390a2da882a93ebbd5a4795f1bfc4f123712e3012bef7cecce31d6576153e86d98d136e86294f531d8c8e96f"
+      },
+      "NeoForge-1_4_1": {
+        "name": "gaboulibs-neoforge-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/Xv1vh6wM/gaboulibs-neoforge-1.4.1.jar",
+        "sha512": "62cd4c33d917893ead05e2ba1aaec330fcea867e390a2da882a93ebbd5a4795f1bfc4f123712e3012bef7cecce31d6576153e86d98d136e86294f531d8c8e96f"
       },
       "NeoForge-1_4": {
         "name": "gaboulibs-neoforge-1.4.jar",
@@ -85,8 +102,8 @@
     "1_20_5": {
       "latest": {
         "name": "gaboulibs-neoforge-1.4.jar",
-        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/vvbf2ym6/gaboulibs-neoforge-1.4.jar",
-        "sha512": "2bb9865ea402ca9f8861feb3932d6a5d9e88ea2df3950b41278c06d770708d23c7058a5ec1e2500c63663b2583d333a4a1777b3108bffab62bfc5963d0534450"
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/hc5IjjIg/gaboulibs-neoforge-1.4.jar",
+        "sha512": "8b43d411d6689d0265860711706f873b50bba8dce8bb79910fe71f0d4aabd9b818fb87f7860092b3bbe23a262c52c1375a804bffcb80ac481b0da35644a21618"
       },
       "NeoForge-1_4": {
         "name": "gaboulibs-neoforge-1.4.jar",
@@ -224,9 +241,14 @@
     },
     "1_20_6": {
       "latest": {
-        "name": "gaboulibs-fabric-1.4.jar",
-        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/9cFdmN7i/gaboulibs-fabric-1.4.jar",
-        "sha512": "e89bc938f180334508c693de5d92f9c4d9420112ce6e8b33062d21e3a72f74eabc65295556d775cd814a69c76a95bce7d846cbad3aba9fa9d82ffe2298d93d43"
+        "name": "gaboulibs-fabric-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/Neiw94IT/gaboulibs-fabric-1.4.1.jar",
+        "sha512": "930db7a4a65035875a5afb27772598351f3c996180bc385807836af5e0ebc301a06e21e0c3a5c53635af56313f746810d5341e819d12112d380ce128575f1d39"
+      },
+      "Fabric-1_4_1": {
+        "name": "gaboulibs-fabric-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/Neiw94IT/gaboulibs-fabric-1.4.1.jar",
+        "sha512": "930db7a4a65035875a5afb27772598351f3c996180bc385807836af5e0ebc301a06e21e0c3a5c53635af56313f746810d5341e819d12112d380ce128575f1d39"
       },
       "Fabric-1_4": {
         "name": "gaboulibs-fabric-1.4.jar",
@@ -237,8 +259,8 @@
     "1_20_5": {
       "latest": {
         "name": "gaboulibs-fabric-1.4.jar",
-        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/HglRqy9P/gaboulibs-fabric-1.4.jar",
-        "sha512": "6d1f9076d473c3a7c7033affea0ee1903963b3feda67927f732e6dd24c254535a9917309e870dd5d7333c22edb268f12bebd939619217b5d2302f9a57a05b377"
+        "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/3P0oyNkM/gaboulibs-fabric-1.4.jar",
+        "sha512": "42dc9a80089fbc490562fce1318b62f4daf9d0bffb7192c54c4a381360232f35a689e83a89bc593cd39b45ebbb486c067612d577c0e7fb680e4dd8539817b563"
       },
       "Fabric-1_4": {
         "name": "gaboulibs-fabric-1.4.jar",

@@ -13,7 +13,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `avdump` -> `B9005-GitHubRelease-unstable-2024-03-10`
 - `check-project-conflicts`
 - `clipboard-manager` -> `0.1.0-unstable-2026-02-15`
-- `cosmic-classic-menu` -> `0.0.11-unstable-2026-02-25`
+- `cosmic-classic-menu` -> `0.0.12-unstable-2026-02-26`
 - `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-20`
 - `dwproton-bin` -> `10.0-18`
 - `error-pages` -> `0-unstable-2024-11-22`
@@ -24,15 +24,15 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-01-28`
 - `oldlibcosmicAppHook`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-02-22`
-- `osu-lazer-bin` -> `2026.209.0-tachyon`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-02-26`
+- `osu-lazer-bin` -> `2026.226.0-tachyon`
 - `prefetch`
 - `prowlarr` -> `2.3.2.5245`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `6.0.0-dev.6-unstable-2026-02-24`
+- `shoko` -> `6.0.0-dev.9-unstable-2026-02-28`
 - `shoko-webui` -> `2.5.3-dev.0-unstable-2026-02-20`
-- `shokofin` -> `6.0.4-dev.2-unstable-2026-02-17`
+- `shokofin` -> `6.0.4-dev.3-unstable-2026-02-26`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2026-02-21`
 - `suwayomi-webui` -> `20251230.01-unstable-2026-02-21`
