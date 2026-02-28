@@ -2,9 +2,14 @@
   "fabric": {
     "26_1-snapshot-10": {
       "latest": {
-        "name": "fabric-api-0.143.6+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/n5TuJL5H/fabric-api-0.143.6%2B26.1.jar",
-        "sha512": "00cd2aca51fec68025b3a8ef629cb493c4f25043c93a0286360ae22ca20ee8ee8372fee5b4da45f30e4b53c5350663be8947ca158ca968f08a649ba887940aa7"
+        "name": "fabric-api-0.143.7+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/2qcuvmg4/fabric-api-0.143.7%2B26.1.jar",
+        "sha512": "da77e25586a617a8b5c68db0c6e68b39d8f33dfb46c1aec9b5ffe1e4eb0f1126a91097e36f8754b6810e9a621e347ca1bf28b175c4da96bac712ccf14d51255d"
+      },
+      "0_143_7+26_1": {
+        "name": "fabric-api-0.143.7+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/2qcuvmg4/fabric-api-0.143.7%2B26.1.jar",
+        "sha512": "da77e25586a617a8b5c68db0c6e68b39d8f33dfb46c1aec9b5ffe1e4eb0f1126a91097e36f8754b6810e9a621e347ca1bf28b175c4da96bac712ccf14d51255d"
       },
       "0_143_6+26_1": {
         "name": "fabric-api-0.143.6+26.1.jar",
@@ -1022,9 +1027,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "fabric-api-0.116.8+1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/3wZtvzew/fabric-api-0.116.8%2B1.21.1.jar",
-        "sha512": "5a4b29861e9526ce1ccb3a856acf0053397d43fd0756786f3188147f0892c216370bc85b692a8293a9e129538293a087ec9eff4fdbe8b6e43608a7e56b226364"
+        "name": "fabric-api-0.116.9+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yGAe1owa/fabric-api-0.116.9%2B1.21.1.jar",
+        "sha512": "e643876079b950aef9aad3eee8d27046305895e8d0f595f7f95010839adeaa25c55a6dc8624ccfba1201194d6598fcbc11f23a7a553ccefbb8c0ceacf388bb79"
+      },
+      "0_116_9": {
+        "name": "fabric-api-0.116.9+1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yGAe1owa/fabric-api-0.116.9%2B1.21.1.jar",
+        "sha512": "e643876079b950aef9aad3eee8d27046305895e8d0f595f7f95010839adeaa25c55a6dc8624ccfba1201194d6598fcbc11f23a7a553ccefbb8c0ceacf388bb79"
       },
       "0_116_8": {
         "name": "fabric-api-0.116.8+1.21.1.jar",

@@ -16,21 +16,21 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "cosmic-classic-menu";
-  version = "0.0.11-unstable-2026-02-25";
+  version = "0.0.12-unstable-2026-02-26";
 
   src = fetchgit {
     url = "https://github.com/championpeak87/cosmic-classic-menu.git";
-    rev = "c9e7abce3d69b47a600d72921aa0aaf6605f52e0";
+    rev = "11d7143f75aa402c5f9a588dfe07140b8121ec2b";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-bRz2LQYUQFGGsIxvnZf8e4ObP9y1sxiVNcKy/TRHKUQ=";
+    sha256 = "sha256-8bWCAHZ4uJRcbXz+1irJWrG7YAW2pufHLKpE8nx5bSs=";
   };
 
   cargoDeps = rustPlatform.fetchCargoVendor {
     inherit (finalAttrs) src;
-    hash = "sha256-cOSyJryGDrbzF1M8941t6KcXxuIolbhhQ9ZITwNBaUA=";
+    hash = "sha256-t0mDmhHSj1SO7ShUW8b7C/C+F0Y+yV0dzEO+5KNAg2s=";
   };
 
   nativeBuildInputs = [
