@@ -1,0 +1,510 @@
+{
+  "quilt": {
+    "1_20_1": {
+      "latest": {
+        "name": "createcobblestone-1.4.9+fabric-1.20.1-131.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/tont39ZS/createcobblestone-1.4.9%2Bfabric-1.20.1-131.jar",
+        "sha512": "01c816316930754ebd667d5a8edd379cdff925de39efa3fdfe205bcffbfb604c8e197b72a559a1eeb26f6034cbbfec5178ff6a28275d943ebf75e526e8317e11"
+      },
+      "1_4_9131": {
+        "name": "createcobblestone-1.4.9+fabric-1.20.1-131.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/tont39ZS/createcobblestone-1.4.9%2Bfabric-1.20.1-131.jar",
+        "sha512": "01c816316930754ebd667d5a8edd379cdff925de39efa3fdfe205bcffbfb604c8e197b72a559a1eeb26f6034cbbfec5178ff6a28275d943ebf75e526e8317e11"
+      },
+      "1_4_8126": {
+        "name": "createcobblestone-1.4.8+fabric-1.20.1-126.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/SJyVhxvo/createcobblestone-1.4.8%2Bfabric-1.20.1-126.jar",
+        "sha512": "d60651a8251dae4e4e615d4983f7ce91e853a1df0cac7aca2526296568294c63fbcfa8066a0bc871d5b0785c36073308154a25d99598cb4846066714a7ad0376"
+      },
+      "1_4_7123": {
+        "name": "createcobblestone-1.4.7+fabric-1.20.1-123.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CH9LS5Rm/createcobblestone-1.4.7%2Bfabric-1.20.1-123.jar",
+        "sha512": "28b3563f44b9a3eeda50c2d7f3d7d534c4785b5a14e5af0ea3b17a0a4883f91af75df2449e1680208d89061e16be0cb66b2956d187fcd56fcaeb182c1d56ea09"
+      },
+      "1_4_495": {
+        "name": "createcobblestone-1.4.4+fabric-1.20.1-95.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/VEhxPD2J/createcobblestone-1.4.4%2Bfabric-1.20.1-95.jar",
+        "sha512": "20519787eddb456c5511a05f2e26c177a06f3f3124d56c18c76c55efafab92cd14fe21a48fef1ee7a517e19ef30a441aae9dc994463837ad13936e578a8fa14d"
+      },
+      "1_4_4-beta-291": {
+        "name": "createcobblestone-1.4.4-beta-2+fabric-1.20.1-91.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/TZzdkq8g/createcobblestone-1.4.4-beta-2%2Bfabric-1.20.1-91.jar",
+        "sha512": "c4e59933a329fe98b0b787cfad79e58333b749efa4dc23a29a37d1f026609336c7db0fb28203a69c132422eeaad796ba11b7ef8bd5bb83190c0d9a36cf6908d2"
+      },
+      "1_4_4-beta89": {
+        "name": "createcobblestone-1.4.4-beta+fabric-1.20.1-89.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/7r4K0lq8/createcobblestone-1.4.4-beta%2Bfabric-1.20.1-89.jar",
+        "sha512": "757bcff975dd61f94310ea0bcfd1f749678f351e5a3db48df9f9a650659d2c1f800438a32794bcde646ef326cace7ce02c9dc2ec9b43f3495d3bf2346578c917"
+      },
+      "1_4_387": {
+        "name": "createcobblestone-1.4.3+fabric-1.20.1-87.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/1cFERuAB/createcobblestone-1.4.3%2Bfabric-1.20.1-87.jar",
+        "sha512": "8dea8aed54b22a88df157f80b51cb50fa669e938769ff4828af31d7db8f190dfbd164538024da74cdec4af0d3512c1bf6d286a9e110c97ea572e5bb82e9ef4da"
+      },
+      "1_4_3-beta85": {
+        "name": "createcobblestone-1.4.3-beta+fabric-1.20.1-85.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/izAUzAiM/createcobblestone-1.4.3-beta%2Bfabric-1.20.1-85.jar",
+        "sha512": "60bc571e0d7df859a21f1f251fa7f61284fa12de698edd1254b192124d5827624d8099e62bbf2c726408eaeac5834e8252ef72afe21528e5426fe8d78ac19d18"
+      },
+      "1_4_274": {
+        "name": "createcobblestone-1.4.2+fabric-1.20.1-74.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/lqkT7RU9/createcobblestone-1.4.2%2Bfabric-1.20.1-74.jar",
+        "sha512": "7c3ddedd734ddf7b3bac1efd6d63cb81c674c19adbea661909c6c7073f87a5a07f755b8ca72502b2a33e3401361708a994e15261b2be64674b0a11acbcedc073"
+      },
+      "1_4_173": {
+        "name": "createcobblestone-1.4.1+fabric-1.20.1-73.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/FHwRy1XA/createcobblestone-1.4.1%2Bfabric-1.20.1-73.jar",
+        "sha512": "b71e14bc87cba4e9e9e783f1968bde80bc3a9b6e46ea890421628f550178b9c26764b5335e6afdf3f527c8fe8d18dd9f81d6682c831b727eb1f7fb6c7bbfcb26"
+      },
+      "1_4_1-beta-472": {
+        "name": "createcobblestone-1.4.1-beta-4+fabric-1.20.1-72.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/ZtSFv7ML/createcobblestone-1.4.1-beta-4%2Bfabric-1.20.1-72.jar",
+        "sha512": "068cc5d5c7b1da6b2b139abbc579feac63eee9b67db49c2dac2aa399cc07ed9c5ec5644a40d3c81a03d591bb4afbe6a07c54bc927a5a9b2e1f8dc309f089cb2d"
+      },
+      "1_4_1-beta-365": {
+        "name": "createcobblestone-1.4.1-beta-3+fabric-1.20.1-65.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/Qf1UWcXB/createcobblestone-1.4.1-beta-3%2Bfabric-1.20.1-65.jar",
+        "sha512": "586c66a9022d4a2e69e036dc79299221fddc7d54df73b56107d84ae9cd1bd4380cda0495b24ce8a3e0904511c229f85f46850df4e25c01e83e2583bd0b3a4e14"
+      },
+      "1_4_1-beta-259": {
+        "name": "createcobblestone-1.4.1-beta-2+fabric-1.20.1-59.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/lPh49SVK/createcobblestone-1.4.1-beta-2%2Bfabric-1.20.1-59.jar",
+        "sha512": "362c3e88c131e8cafb26f70c62d67648164805900e9bbf4620c905a148f14ed701829a56e9eda6186e7efdc76ff97bf94ac51fa614054e9d79eb975569e01ee3"
+      },
+      "1_4_1-beta56": {
+        "name": "createcobblestone-1.4.1-beta+fabric-1.20.1-56.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/EreH9UX4/createcobblestone-1.4.1-beta%2Bfabric-1.20.1-56.jar",
+        "sha512": "a363b389bee5b0876caddadb386d7139ea14fe508d28870294018107c626338d03916b559481bf6d1046bca0716b9ceb8ba1673b382117628466cb6a2cda441f"
+      },
+      "1_451": {
+        "name": "createcobblestone-1.4+fabric-1.20.1-51.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/QpgmnaIy/createcobblestone-1.4%2Bfabric-1.20.1-51.jar",
+        "sha512": "2c92d6b1f3e43bd5dbde4d96ecdeeaffd26e67f22ac07926a6bcc5d12f3530f9a8e93a4310eaaec095b96c4d4110c43a7b81ea9203e083e7ccc3ebfdb46ad808"
+      },
+      "1_4-beta-250": {
+        "name": "createcobblestone-1.4-beta-2+fabric-1.20.1-50.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/i0kDNbFS/createcobblestone-1.4-beta-2%2Bfabric-1.20.1-50.jar",
+        "sha512": "941e1916e40126fc651c762104e9afcf2fd78346f042018c1da44429c30511b74a3c48b2ae7e82e9486841fa07e598737f729957aa3df699ae7a6704e417899b"
+      },
+      "1_4-beta49": {
+        "name": "createcobblestone-1.4-beta+fabric-1.20.1-49.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/j2fahJdX/createcobblestone-1.4-beta%2Bfabric-1.20.1-49.jar",
+        "sha512": "4359bf1bac5773d2acb08f594bc306b5aea525102839e254699c86705bfe99ba407e908175328628823eb2b12781005402098217a6a067bc1017b23bd7e1477e"
+      },
+      "1_3_238": {
+        "name": "createcobblestone-1.3.2+fabric-1.20.1-38.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/7kZwvvUD/createcobblestone-1.3.2%2Bfabric-1.20.1-38.jar",
+        "sha512": "7367fc6fa6146e551f82da4770e9e3a775652b0e53792850c975e1ec3af2698ba7fc8b06fc63d4e56f3fddb077eca1be60b997bcf3f057df6127b3bc03790ec9"
+      },
+      "1_3_136": {
+        "name": "createcobblestone-1.3.1+fabric-1.20.1-36.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/KlI5O8tb/createcobblestone-1.3.1%2Bfabric-1.20.1-36.jar",
+        "sha512": "c30db2fccec9f515bdb10c4ce6345c2bbb06c572520a0fca29cc5c48a2a8ca62072b23b3f8c23d7e6870072fc395eeffc51252096ff410e0fcf0dee16c06a69f"
+      },
+      "1_3_032": {
+        "name": "createcobblestone-1.3.0+fabric-1.20.1-32.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/YWCOxZ3q/createcobblestone-1.3.0%2Bfabric-1.20.1-32.jar",
+        "sha512": "f5ed612fc65e7c3d28256e7e2ea918be612393d1585afbcd68c4ac178c349972702df702b5a3878f32cbedc0b2df143a25b511471afbe7748d8c7c715003cd9a"
+      },
+      "1_2_022": {
+        "name": "createcobblestone-1.2.0+fabric-1.20.1-22.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CXcJWPtc/createcobblestone-1.2.0%2Bfabric-1.20.1-22.jar",
+        "sha512": "aa6b698877d92a52e965f69ca177b296d4158e4feaeab54c6f3ab1133fbab50ac127c73c029ae5be0edecdfb01708a5b5dc698fb9b3aaa9d8481d42e9b15ef41"
+      },
+      "1_1_019": {
+        "name": "createcobblestone-1.1.0+fabric-1.20.1-19.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/e4vNrqZC/createcobblestone-1.1.0%2Bfabric-1.20.1-19.jar",
+        "sha512": "6497774b901e6455f9e6578d5f9573f6c4aac25a69ff675336f5b56555bd7809c8089452fb1a1ef84adf4bff8afd413f3d1d1eb6af6cfd298ad4107ae2539fd7"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "createcobblestone-1.4.9+neoforge-1.21.1-130.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/LEOroMJx/createcobblestone-1.4.9%2Bneoforge-1.21.1-130.jar",
+        "sha512": "aa440541b67f91b782e150d96e954d0e7f6f8b3b76cc41a01f07b1b0da0b0b5d71a7236767af6bfef7bfacb84f389a97d2ecd80157674a8a8e4121de5c69b774"
+      },
+      "1_4_9130": {
+        "name": "createcobblestone-1.4.9+neoforge-1.21.1-130.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/LEOroMJx/createcobblestone-1.4.9%2Bneoforge-1.21.1-130.jar",
+        "sha512": "aa440541b67f91b782e150d96e954d0e7f6f8b3b76cc41a01f07b1b0da0b0b5d71a7236767af6bfef7bfacb84f389a97d2ecd80157674a8a8e4121de5c69b774"
+      },
+      "1_4_7120": {
+        "name": "createcobblestone-1.4.7+neoforge-1.21.1-120.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/ZQn7810k/createcobblestone-1.4.7%2Bneoforge-1.21.1-120.jar",
+        "sha512": "8c7b040121d2ad62808acb57b0cbe0b6a23677b06d69129c52a9a17a9589d4c65d5a7be9a9124ae1d42457aa84c0b0b52a62e3a53898fcfc4e282045205ed122"
+      },
+      "1_4_6a114": {
+        "name": "createcobblestone-1.4.6a+neoforge-1.21.1-114.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/Gnzl4KFQ/createcobblestone-1.4.6a%2Bneoforge-1.21.1-114.jar",
+        "sha512": "fe23eafe5ac53bbc53aed521bef8251e252d610371e5a76a82d94c2f38ee244074210a8f95eaedd1f117b187d48d2f7b39370d8800918dd3dde9a2e5b74dc455"
+      },
+      "1_4_6113": {
+        "name": "createcobblestone-1.4.6+neoforge-1.21.1-113.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/FeX13mB1/createcobblestone-1.4.6%2Bneoforge-1.21.1-113.jar",
+        "sha512": "571072c7871223966ce6f8da954cb2adc2cf41e4ea60c50b3a12f6eb746543bada7f8045c579cb4c16a96033a2aa75fcf01680b1141bca4858fe17ecb8dfbcba"
+      },
+      "1_4_5110": {
+        "name": "createcobblestone-1.4.5+neoforge-1.21.1-110.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/7NkzJBsw/createcobblestone-1.4.5%2Bneoforge-1.21.1-110.jar",
+        "sha512": "e305a5df3e5384f6f51bf3a87c71e48d87445487bcb7f4825222932220c82116052b508a63ab02644a443f979c29a72677641cdb41c5c8f922768afdc7358d7e"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "createcobblestone-1.4.9+forge-1.20.1-132.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CsaTRgR9/createcobblestone-1.4.9%2Bforge-1.20.1-132.jar",
+        "sha512": "ecd3d8976cc1df6d7c1a62980c4798ee01cdd38abb77b2213e3c731d6e60e59b981d6f68f7f5b6277d89dd0b3fe19e0916bcee3dfd8212dc4ed320c06bdece2e"
+      },
+      "1_4_9+forge132": {
+        "name": "createcobblestone-1.4.9+forge-1.20.1-132.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CsaTRgR9/createcobblestone-1.4.9%2Bforge-1.20.1-132.jar",
+        "sha512": "ecd3d8976cc1df6d7c1a62980c4798ee01cdd38abb77b2213e3c731d6e60e59b981d6f68f7f5b6277d89dd0b3fe19e0916bcee3dfd8212dc4ed320c06bdece2e"
+      },
+      "1_4_8+forge127": {
+        "name": "createcobblestone-1.4.8+forge-1.20.1-127.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/xIKGLTek/createcobblestone-1.4.8%2Bforge-1.20.1-127.jar",
+        "sha512": "ccca520e2c0f650e1295ad0eb8e1333bbc055902003f6b911a740ace9e34e9c2d07d096e4a725cc433f624f8eb9007d67af1d7aadf76774866d490b18f74aacf"
+      },
+      "1_4_5+forge106": {
+        "name": "createcobblestone-1.4.5+forge-1.20.1-106.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/sKxIOl5O/createcobblestone-1.4.5%2Bforge-1.20.1-106.jar",
+        "sha512": "494637f4bb7c7e93c477bb7f64dcfe9bfe0009368a0f33216130e2e8e48f9691a51fd0bfd3f543004ad229f64d8728987732a8dfdd71e624ad1c8f6fcc4d48ff"
+      },
+      "1_4_5-beta+forge101": {
+        "name": "createcobblestone-1.4.5-beta+forge-1.20.1-101.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/DCxsFol4/createcobblestone-1.4.5-beta%2Bforge-1.20.1-101.jar",
+        "sha512": "a7268a6b1d1af7f86db033e7345f1f2cfab6b3bb30b8cd7335b18f984d5fcbd5eaacdd2bb411b048d4b3dd32af1db88f8aff2659b18276be3bed4258d69e8cc1"
+      },
+      "1_4_4+forge95": {
+        "name": "createcobblestone-1.4.4+forge-1.20.1-95.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/lTPDaqeK/createcobblestone-1.4.4%2Bforge-1.20.1-95.jar",
+        "sha512": "2e8fc2ba5d9b00d5e518313185a8cf9bd3b4d642438b566cac2eb5e39f42af5a6d699858da82fa88737c3dbfe85519cb9c77ca0650216de7477a91dffecfbcab"
+      },
+      "1_4_4-beta-2+forge91": {
+        "name": "createcobblestone-1.4.4-beta-2+forge-1.20.1-91.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/cCNm5Qq4/createcobblestone-1.4.4-beta-2%2Bforge-1.20.1-91.jar",
+        "sha512": "171a6a075a045783d638012a4829543afe6506c08661ca5b3d4f9972ecea76fb21e7b03d436ae5932c95bef4a746c06566125abe438463759acedaea545966cc"
+      },
+      "1_4_4-beta+forge89": {
+        "name": "createcobblestone-1.4.4-beta+forge-1.20.1-89.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/QjhWBSAm/createcobblestone-1.4.4-beta%2Bforge-1.20.1-89.jar",
+        "sha512": "c7cd13dd580fb42e8c3cac35a3d88d65c98ef31451c85760170ab780a7c3f63fce4a9f0842d35e9843691d0d5b58960b0f9f1eecf91f996658f0cad14103786e"
+      },
+      "1_4_3+forge87": {
+        "name": "createcobblestone-1.4.3+forge-1.20.1-87.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/gCWFQTei/createcobblestone-1.4.3%2Bforge-1.20.1-87.jar",
+        "sha512": "10361078a0fc4810a17067b7fcf708dabe9076fb2dd7d23692be0a71778841c6ade43ee9b0b00682f79040ca97f14f0a8613c139f7d4329f7f01be945cbc01f5"
+      },
+      "1_4_3-beta+forge85": {
+        "name": "createcobblestone-1.4.3-beta+forge-1.20.1-85.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/OgCyaGyx/createcobblestone-1.4.3-beta%2Bforge-1.20.1-85.jar",
+        "sha512": "dcb7ce5b019adacf59217f85f82256cdd19be3c17ad1a6e1ff73fd99f1e38ac21426aeedc1004323ce1b6d34cb495d4636aa61dc186cb6d71613f016e13e2b1b"
+      },
+      "1_4_2+forge74": {
+        "name": "createcobblestone-1.4.2+forge-1.20.1-74.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/PH9a0847/createcobblestone-1.4.2%2Bforge-1.20.1-74.jar",
+        "sha512": "ba4377ea6235376b66f7acd99bb06005e86d398d5f52f51279afc155e86b8f10e41d3d6f9af109fb651c8e8957ad1a0696348fa783c1f2f48ca58f31885fae3d"
+      },
+      "1_4_1+forge73": {
+        "name": "createcobblestone-1.4.1+forge-1.20.1-73.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/HsAb44aC/createcobblestone-1.4.1%2Bforge-1.20.1-73.jar",
+        "sha512": "f57ebe83df966b1c83686ca03dc23ce5520f21cab415e4ed38eefd2e62622f80a70f02c89600982053e6beac69e0b8688442da46a71570cd65b76460293a8b33"
+      },
+      "1_4_1-beta-4+forge72": {
+        "name": "createcobblestone-1.4.1-beta-4+forge-1.20.1-72.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/G6D60flP/createcobblestone-1.4.1-beta-4%2Bforge-1.20.1-72.jar",
+        "sha512": "1eed5382896c3e1d897302517ef114cebb9ba6404d015f92428b0b57ed232e85ba791ff0fb8ad69938967a57fb1b38d252b0f73b6fe6849c27f24bac199a5cf6"
+      },
+      "1_4_1-beta-3+forge65": {
+        "name": "createcobblestone-1.4.1-beta-3+forge-1.20.1-65.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/E6hDlDez/createcobblestone-1.4.1-beta-3%2Bforge-1.20.1-65.jar",
+        "sha512": "3d96e3195734f36b440b0af0475b30a20d1362ea47c26520f126b7e08bf7faca99bd18fb10a587f9719e720b40bbc6b2ce26576691d1529f7d08684e9272dfce"
+      },
+      "1_4_1-beta-2+forge59": {
+        "name": "createcobblestone-1.4.1-beta-2+forge-1.20.1-59.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/c2GrB7ee/createcobblestone-1.4.1-beta-2%2Bforge-1.20.1-59.jar",
+        "sha512": "bb2bee39f2a1ad315b5a8686e9bf5cc8e45c738b99f78dfea331304510ca582f59331688696280b9fae7b1d6575ad3b1fd7f6d22a6d99fa00010829d2ca2afcf"
+      },
+      "1_4_1-beta+forge56": {
+        "name": "createcobblestone-1.4.1-beta+forge-1.20.1-56.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/EgoFxTvU/createcobblestone-1.4.1-beta%2Bforge-1.20.1-56.jar",
+        "sha512": "790232720cbd6fba6d78fa9be216e355077dd433d2052dc8fbd00218e7896027d812a9e3e27cf019eaa952c73196538c3d9d642e7559a8c4a352db8d7bad2705"
+      },
+      "1_4+forge51": {
+        "name": "createcobblestone-1.4+forge-1.20.1-51.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/mMAAJCI3/createcobblestone-1.4%2Bforge-1.20.1-51.jar",
+        "sha512": "0b51309a6212c9c6c502b6f9bdc932ebbba71a5be064bb12b9ddf028e139b67989f1969bce9848e80208c6c8a82c281709057c67d19bcfcf8eaa2396d8ff8d59"
+      },
+      "1_4-beta-2+forge50": {
+        "name": "createcobblestone-1.4-beta-2+forge-1.20.1-50.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/5qlUvKKZ/createcobblestone-1.4-beta-2%2Bforge-1.20.1-50.jar",
+        "sha512": "176d030dd02085b5ba91ea31ff2e06102c284905fd0f3187de4cc2035e6d1ab4c1ca4e34f7a7730fa573f81bc797b36133297c24f11a04aa388ea467e8744fe4"
+      },
+      "1_4-beta+forge49": {
+        "name": "createcobblestone-1.4-beta+forge-1.20.1-49.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/mqO18VhC/createcobblestone-1.4-beta%2Bforge-1.20.1-49.jar",
+        "sha512": "b4eeadf51e54ad0a1c143c6be9bfbbd5ba3a067f5b06cd3009bd9e6b79e25ce2c43dba25c5106ff4b4d46da7bd3fd9ccf641adbf5856ac820b45bf28cf258243"
+      },
+      "1_3_2+forge38": {
+        "name": "createcobblestone-1.3.2+forge-1.20.1-38.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/BGKwjiCF/createcobblestone-1.3.2%2Bforge-1.20.1-38.jar",
+        "sha512": "0f04e1d6f0115ae7ee319470cc278c63be576ff7ba4eef7051a452aae884d5b55d81319ae2fc1906fa3d51c984034485493e944e7c12cc776c1f0c9e9f3d97b4"
+      },
+      "1_3_1+forge36": {
+        "name": "createcobblestone-1.3.1+forge-1.20.1-36.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/szlzj05H/createcobblestone-1.3.1%2Bforge-1.20.1-36.jar",
+        "sha512": "32a53f0a5512f7de3b389e77af29efebc7a583e42e8785dc3b3461d3eed1f157107595c54d0b5be57ca597e7b2681d20407eba0071af24619441fbed8b924e40"
+      },
+      "1_3_0+forge32": {
+        "name": "createcobblestone-1.3.0+forge-1.20.1-32.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/XykQfbLb/createcobblestone-1.3.0%2Bforge-1.20.1-32.jar",
+        "sha512": "47cac0baf28dec7505f26bae1ad93d0a8a668b931709fea32efce2f482bf2dcc02c5a9ebea3175a24969819b8e2c1461bbd8faea4b45d6ff112c7fbdf311f14f"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "createcobblestone-1.4.9+forge-1.20.1-132.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CsaTRgR9/createcobblestone-1.4.9%2Bforge-1.20.1-132.jar",
+        "sha512": "ecd3d8976cc1df6d7c1a62980c4798ee01cdd38abb77b2213e3c731d6e60e59b981d6f68f7f5b6277d89dd0b3fe19e0916bcee3dfd8212dc4ed320c06bdece2e"
+      },
+      "1_4_9132": {
+        "name": "createcobblestone-1.4.9+forge-1.20.1-132.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CsaTRgR9/createcobblestone-1.4.9%2Bforge-1.20.1-132.jar",
+        "sha512": "ecd3d8976cc1df6d7c1a62980c4798ee01cdd38abb77b2213e3c731d6e60e59b981d6f68f7f5b6277d89dd0b3fe19e0916bcee3dfd8212dc4ed320c06bdece2e"
+      },
+      "1_4_8127": {
+        "name": "createcobblestone-1.4.8+forge-1.20.1-127.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/xIKGLTek/createcobblestone-1.4.8%2Bforge-1.20.1-127.jar",
+        "sha512": "ccca520e2c0f650e1295ad0eb8e1333bbc055902003f6b911a740ace9e34e9c2d07d096e4a725cc433f624f8eb9007d67af1d7aadf76774866d490b18f74aacf"
+      },
+      "1_4_5106": {
+        "name": "createcobblestone-1.4.5+forge-1.20.1-106.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/sKxIOl5O/createcobblestone-1.4.5%2Bforge-1.20.1-106.jar",
+        "sha512": "494637f4bb7c7e93c477bb7f64dcfe9bfe0009368a0f33216130e2e8e48f9691a51fd0bfd3f543004ad229f64d8728987732a8dfdd71e624ad1c8f6fcc4d48ff"
+      },
+      "1_4_5-beta101": {
+        "name": "createcobblestone-1.4.5-beta+forge-1.20.1-101.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/DCxsFol4/createcobblestone-1.4.5-beta%2Bforge-1.20.1-101.jar",
+        "sha512": "a7268a6b1d1af7f86db033e7345f1f2cfab6b3bb30b8cd7335b18f984d5fcbd5eaacdd2bb411b048d4b3dd32af1db88f8aff2659b18276be3bed4258d69e8cc1"
+      },
+      "1_4_495": {
+        "name": "createcobblestone-1.4.4+forge-1.20.1-95.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/lTPDaqeK/createcobblestone-1.4.4%2Bforge-1.20.1-95.jar",
+        "sha512": "2e8fc2ba5d9b00d5e518313185a8cf9bd3b4d642438b566cac2eb5e39f42af5a6d699858da82fa88737c3dbfe85519cb9c77ca0650216de7477a91dffecfbcab"
+      },
+      "1_4_4-beta-291": {
+        "name": "createcobblestone-1.4.4-beta-2+forge-1.20.1-91.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/cCNm5Qq4/createcobblestone-1.4.4-beta-2%2Bforge-1.20.1-91.jar",
+        "sha512": "171a6a075a045783d638012a4829543afe6506c08661ca5b3d4f9972ecea76fb21e7b03d436ae5932c95bef4a746c06566125abe438463759acedaea545966cc"
+      },
+      "1_4_4-beta89": {
+        "name": "createcobblestone-1.4.4-beta+forge-1.20.1-89.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/QjhWBSAm/createcobblestone-1.4.4-beta%2Bforge-1.20.1-89.jar",
+        "sha512": "c7cd13dd580fb42e8c3cac35a3d88d65c98ef31451c85760170ab780a7c3f63fce4a9f0842d35e9843691d0d5b58960b0f9f1eecf91f996658f0cad14103786e"
+      },
+      "1_4_387": {
+        "name": "createcobblestone-1.4.3+forge-1.20.1-87.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/gCWFQTei/createcobblestone-1.4.3%2Bforge-1.20.1-87.jar",
+        "sha512": "10361078a0fc4810a17067b7fcf708dabe9076fb2dd7d23692be0a71778841c6ade43ee9b0b00682f79040ca97f14f0a8613c139f7d4329f7f01be945cbc01f5"
+      },
+      "1_4_3-beta85": {
+        "name": "createcobblestone-1.4.3-beta+forge-1.20.1-85.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/OgCyaGyx/createcobblestone-1.4.3-beta%2Bforge-1.20.1-85.jar",
+        "sha512": "dcb7ce5b019adacf59217f85f82256cdd19be3c17ad1a6e1ff73fd99f1e38ac21426aeedc1004323ce1b6d34cb495d4636aa61dc186cb6d71613f016e13e2b1b"
+      },
+      "1_4_274": {
+        "name": "createcobblestone-1.4.2+forge-1.20.1-74.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/PH9a0847/createcobblestone-1.4.2%2Bforge-1.20.1-74.jar",
+        "sha512": "ba4377ea6235376b66f7acd99bb06005e86d398d5f52f51279afc155e86b8f10e41d3d6f9af109fb651c8e8957ad1a0696348fa783c1f2f48ca58f31885fae3d"
+      },
+      "1_4_173": {
+        "name": "createcobblestone-1.4.1+forge-1.20.1-73.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/HsAb44aC/createcobblestone-1.4.1%2Bforge-1.20.1-73.jar",
+        "sha512": "f57ebe83df966b1c83686ca03dc23ce5520f21cab415e4ed38eefd2e62622f80a70f02c89600982053e6beac69e0b8688442da46a71570cd65b76460293a8b33"
+      },
+      "1_4_1-beta-472": {
+        "name": "createcobblestone-1.4.1-beta-4+forge-1.20.1-72.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/G6D60flP/createcobblestone-1.4.1-beta-4%2Bforge-1.20.1-72.jar",
+        "sha512": "1eed5382896c3e1d897302517ef114cebb9ba6404d015f92428b0b57ed232e85ba791ff0fb8ad69938967a57fb1b38d252b0f73b6fe6849c27f24bac199a5cf6"
+      },
+      "1_4_1-beta-365": {
+        "name": "createcobblestone-1.4.1-beta-3+forge-1.20.1-65.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/E6hDlDez/createcobblestone-1.4.1-beta-3%2Bforge-1.20.1-65.jar",
+        "sha512": "3d96e3195734f36b440b0af0475b30a20d1362ea47c26520f126b7e08bf7faca99bd18fb10a587f9719e720b40bbc6b2ce26576691d1529f7d08684e9272dfce"
+      },
+      "1_4_1-beta-259": {
+        "name": "createcobblestone-1.4.1-beta-2+forge-1.20.1-59.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/c2GrB7ee/createcobblestone-1.4.1-beta-2%2Bforge-1.20.1-59.jar",
+        "sha512": "bb2bee39f2a1ad315b5a8686e9bf5cc8e45c738b99f78dfea331304510ca582f59331688696280b9fae7b1d6575ad3b1fd7f6d22a6d99fa00010829d2ca2afcf"
+      },
+      "1_4_1-beta56": {
+        "name": "createcobblestone-1.4.1-beta+forge-1.20.1-56.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/EgoFxTvU/createcobblestone-1.4.1-beta%2Bforge-1.20.1-56.jar",
+        "sha512": "790232720cbd6fba6d78fa9be216e355077dd433d2052dc8fbd00218e7896027d812a9e3e27cf019eaa952c73196538c3d9d642e7559a8c4a352db8d7bad2705"
+      },
+      "1_451": {
+        "name": "createcobblestone-1.4+forge-1.20.1-51.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/mMAAJCI3/createcobblestone-1.4%2Bforge-1.20.1-51.jar",
+        "sha512": "0b51309a6212c9c6c502b6f9bdc932ebbba71a5be064bb12b9ddf028e139b67989f1969bce9848e80208c6c8a82c281709057c67d19bcfcf8eaa2396d8ff8d59"
+      },
+      "1_4-beta-250": {
+        "name": "createcobblestone-1.4-beta-2+forge-1.20.1-50.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/5qlUvKKZ/createcobblestone-1.4-beta-2%2Bforge-1.20.1-50.jar",
+        "sha512": "176d030dd02085b5ba91ea31ff2e06102c284905fd0f3187de4cc2035e6d1ab4c1ca4e34f7a7730fa573f81bc797b36133297c24f11a04aa388ea467e8744fe4"
+      },
+      "1_4-beta49": {
+        "name": "createcobblestone-1.4-beta+forge-1.20.1-49.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/mqO18VhC/createcobblestone-1.4-beta%2Bforge-1.20.1-49.jar",
+        "sha512": "b4eeadf51e54ad0a1c143c6be9bfbbd5ba3a067f5b06cd3009bd9e6b79e25ce2c43dba25c5106ff4b4d46da7bd3fd9ccf641adbf5856ac820b45bf28cf258243"
+      },
+      "1_3_238": {
+        "name": "createcobblestone-1.3.2+forge-1.20.1-38.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/BGKwjiCF/createcobblestone-1.3.2%2Bforge-1.20.1-38.jar",
+        "sha512": "0f04e1d6f0115ae7ee319470cc278c63be576ff7ba4eef7051a452aae884d5b55d81319ae2fc1906fa3d51c984034485493e944e7c12cc776c1f0c9e9f3d97b4"
+      },
+      "1_3_136": {
+        "name": "createcobblestone-1.3.1+forge-1.20.1-36.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/szlzj05H/createcobblestone-1.3.1%2Bforge-1.20.1-36.jar",
+        "sha512": "32a53f0a5512f7de3b389e77af29efebc7a583e42e8785dc3b3461d3eed1f157107595c54d0b5be57ca597e7b2681d20407eba0071af24619441fbed8b924e40"
+      },
+      "1_3_032": {
+        "name": "createcobblestone-1.3.0+forge-1.20.1-32.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/XykQfbLb/createcobblestone-1.3.0%2Bforge-1.20.1-32.jar",
+        "sha512": "47cac0baf28dec7505f26bae1ad93d0a8a668b931709fea32efce2f482bf2dcc02c5a9ebea3175a24969819b8e2c1461bbd8faea4b45d6ff112c7fbdf311f14f"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "createcobblestone-1.4.9+fabric-1.20.1-131.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/tont39ZS/createcobblestone-1.4.9%2Bfabric-1.20.1-131.jar",
+        "sha512": "01c816316930754ebd667d5a8edd379cdff925de39efa3fdfe205bcffbfb604c8e197b72a559a1eeb26f6034cbbfec5178ff6a28275d943ebf75e526e8317e11"
+      },
+      "1_4_9131": {
+        "name": "createcobblestone-1.4.9+fabric-1.20.1-131.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/tont39ZS/createcobblestone-1.4.9%2Bfabric-1.20.1-131.jar",
+        "sha512": "01c816316930754ebd667d5a8edd379cdff925de39efa3fdfe205bcffbfb604c8e197b72a559a1eeb26f6034cbbfec5178ff6a28275d943ebf75e526e8317e11"
+      },
+      "1_4_8126": {
+        "name": "createcobblestone-1.4.8+fabric-1.20.1-126.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/SJyVhxvo/createcobblestone-1.4.8%2Bfabric-1.20.1-126.jar",
+        "sha512": "d60651a8251dae4e4e615d4983f7ce91e853a1df0cac7aca2526296568294c63fbcfa8066a0bc871d5b0785c36073308154a25d99598cb4846066714a7ad0376"
+      },
+      "1_4_7123": {
+        "name": "createcobblestone-1.4.7+fabric-1.20.1-123.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CH9LS5Rm/createcobblestone-1.4.7%2Bfabric-1.20.1-123.jar",
+        "sha512": "28b3563f44b9a3eeda50c2d7f3d7d534c4785b5a14e5af0ea3b17a0a4883f91af75df2449e1680208d89061e16be0cb66b2956d187fcd56fcaeb182c1d56ea09"
+      },
+      "1_4_495": {
+        "name": "createcobblestone-1.4.4+fabric-1.20.1-95.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/VEhxPD2J/createcobblestone-1.4.4%2Bfabric-1.20.1-95.jar",
+        "sha512": "20519787eddb456c5511a05f2e26c177a06f3f3124d56c18c76c55efafab92cd14fe21a48fef1ee7a517e19ef30a441aae9dc994463837ad13936e578a8fa14d"
+      },
+      "1_4_4-beta-291": {
+        "name": "createcobblestone-1.4.4-beta-2+fabric-1.20.1-91.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/TZzdkq8g/createcobblestone-1.4.4-beta-2%2Bfabric-1.20.1-91.jar",
+        "sha512": "c4e59933a329fe98b0b787cfad79e58333b749efa4dc23a29a37d1f026609336c7db0fb28203a69c132422eeaad796ba11b7ef8bd5bb83190c0d9a36cf6908d2"
+      },
+      "1_4_4-beta89": {
+        "name": "createcobblestone-1.4.4-beta+fabric-1.20.1-89.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/7r4K0lq8/createcobblestone-1.4.4-beta%2Bfabric-1.20.1-89.jar",
+        "sha512": "757bcff975dd61f94310ea0bcfd1f749678f351e5a3db48df9f9a650659d2c1f800438a32794bcde646ef326cace7ce02c9dc2ec9b43f3495d3bf2346578c917"
+      },
+      "1_4_387": {
+        "name": "createcobblestone-1.4.3+fabric-1.20.1-87.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/1cFERuAB/createcobblestone-1.4.3%2Bfabric-1.20.1-87.jar",
+        "sha512": "8dea8aed54b22a88df157f80b51cb50fa669e938769ff4828af31d7db8f190dfbd164538024da74cdec4af0d3512c1bf6d286a9e110c97ea572e5bb82e9ef4da"
+      },
+      "1_4_3-beta85": {
+        "name": "createcobblestone-1.4.3-beta+fabric-1.20.1-85.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/izAUzAiM/createcobblestone-1.4.3-beta%2Bfabric-1.20.1-85.jar",
+        "sha512": "60bc571e0d7df859a21f1f251fa7f61284fa12de698edd1254b192124d5827624d8099e62bbf2c726408eaeac5834e8252ef72afe21528e5426fe8d78ac19d18"
+      },
+      "1_4_274": {
+        "name": "createcobblestone-1.4.2+fabric-1.20.1-74.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/lqkT7RU9/createcobblestone-1.4.2%2Bfabric-1.20.1-74.jar",
+        "sha512": "7c3ddedd734ddf7b3bac1efd6d63cb81c674c19adbea661909c6c7073f87a5a07f755b8ca72502b2a33e3401361708a994e15261b2be64674b0a11acbcedc073"
+      },
+      "1_4_173": {
+        "name": "createcobblestone-1.4.1+fabric-1.20.1-73.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/FHwRy1XA/createcobblestone-1.4.1%2Bfabric-1.20.1-73.jar",
+        "sha512": "b71e14bc87cba4e9e9e783f1968bde80bc3a9b6e46ea890421628f550178b9c26764b5335e6afdf3f527c8fe8d18dd9f81d6682c831b727eb1f7fb6c7bbfcb26"
+      },
+      "1_4_1-beta-472": {
+        "name": "createcobblestone-1.4.1-beta-4+fabric-1.20.1-72.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/ZtSFv7ML/createcobblestone-1.4.1-beta-4%2Bfabric-1.20.1-72.jar",
+        "sha512": "068cc5d5c7b1da6b2b139abbc579feac63eee9b67db49c2dac2aa399cc07ed9c5ec5644a40d3c81a03d591bb4afbe6a07c54bc927a5a9b2e1f8dc309f089cb2d"
+      },
+      "1_4_1-beta-365": {
+        "name": "createcobblestone-1.4.1-beta-3+fabric-1.20.1-65.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/Qf1UWcXB/createcobblestone-1.4.1-beta-3%2Bfabric-1.20.1-65.jar",
+        "sha512": "586c66a9022d4a2e69e036dc79299221fddc7d54df73b56107d84ae9cd1bd4380cda0495b24ce8a3e0904511c229f85f46850df4e25c01e83e2583bd0b3a4e14"
+      },
+      "1_4_1-beta-259": {
+        "name": "createcobblestone-1.4.1-beta-2+fabric-1.20.1-59.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/lPh49SVK/createcobblestone-1.4.1-beta-2%2Bfabric-1.20.1-59.jar",
+        "sha512": "362c3e88c131e8cafb26f70c62d67648164805900e9bbf4620c905a148f14ed701829a56e9eda6186e7efdc76ff97bf94ac51fa614054e9d79eb975569e01ee3"
+      },
+      "1_4_1-beta56": {
+        "name": "createcobblestone-1.4.1-beta+fabric-1.20.1-56.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/EreH9UX4/createcobblestone-1.4.1-beta%2Bfabric-1.20.1-56.jar",
+        "sha512": "a363b389bee5b0876caddadb386d7139ea14fe508d28870294018107c626338d03916b559481bf6d1046bca0716b9ceb8ba1673b382117628466cb6a2cda441f"
+      },
+      "1_451": {
+        "name": "createcobblestone-1.4+fabric-1.20.1-51.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/QpgmnaIy/createcobblestone-1.4%2Bfabric-1.20.1-51.jar",
+        "sha512": "2c92d6b1f3e43bd5dbde4d96ecdeeaffd26e67f22ac07926a6bcc5d12f3530f9a8e93a4310eaaec095b96c4d4110c43a7b81ea9203e083e7ccc3ebfdb46ad808"
+      },
+      "1_4-beta-250": {
+        "name": "createcobblestone-1.4-beta-2+fabric-1.20.1-50.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/i0kDNbFS/createcobblestone-1.4-beta-2%2Bfabric-1.20.1-50.jar",
+        "sha512": "941e1916e40126fc651c762104e9afcf2fd78346f042018c1da44429c30511b74a3c48b2ae7e82e9486841fa07e598737f729957aa3df699ae7a6704e417899b"
+      },
+      "1_4-beta49": {
+        "name": "createcobblestone-1.4-beta+fabric-1.20.1-49.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/j2fahJdX/createcobblestone-1.4-beta%2Bfabric-1.20.1-49.jar",
+        "sha512": "4359bf1bac5773d2acb08f594bc306b5aea525102839e254699c86705bfe99ba407e908175328628823eb2b12781005402098217a6a067bc1017b23bd7e1477e"
+      },
+      "1_3_238": {
+        "name": "createcobblestone-1.3.2+fabric-1.20.1-38.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/7kZwvvUD/createcobblestone-1.3.2%2Bfabric-1.20.1-38.jar",
+        "sha512": "7367fc6fa6146e551f82da4770e9e3a775652b0e53792850c975e1ec3af2698ba7fc8b06fc63d4e56f3fddb077eca1be60b997bcf3f057df6127b3bc03790ec9"
+      },
+      "1_3_136": {
+        "name": "createcobblestone-1.3.1+fabric-1.20.1-36.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/KlI5O8tb/createcobblestone-1.3.1%2Bfabric-1.20.1-36.jar",
+        "sha512": "c30db2fccec9f515bdb10c4ce6345c2bbb06c572520a0fca29cc5c48a2a8ca62072b23b3f8c23d7e6870072fc395eeffc51252096ff410e0fcf0dee16c06a69f"
+      },
+      "1_3_032": {
+        "name": "createcobblestone-1.3.0+fabric-1.20.1-32.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/YWCOxZ3q/createcobblestone-1.3.0%2Bfabric-1.20.1-32.jar",
+        "sha512": "f5ed612fc65e7c3d28256e7e2ea918be612393d1585afbcd68c4ac178c349972702df702b5a3878f32cbedc0b2df143a25b511471afbe7748d8c7c715003cd9a"
+      },
+      "1_2_022": {
+        "name": "createcobblestone-1.2.0+fabric-1.20.1-22.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/CXcJWPtc/createcobblestone-1.2.0%2Bfabric-1.20.1-22.jar",
+        "sha512": "aa6b698877d92a52e965f69ca177b296d4158e4feaeab54c6f3ab1133fbab50ac127c73c029ae5be0edecdfb01708a5b5dc698fb9b3aaa9d8481d42e9b15ef41"
+      },
+      "1_1_019": {
+        "name": "createcobblestone-1.1.0+fabric-1.20.1-19.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/e4vNrqZC/createcobblestone-1.1.0%2Bfabric-1.20.1-19.jar",
+        "sha512": "6497774b901e6455f9e6578d5f9573f6c4aac25a69ff675336f5b56555bd7809c8089452fb1a1ef84adf4bff8afd413f3d1d1eb6af6cfd298ad4107ae2539fd7"
+      },
+      "1_1_018": {
+        "name": "createcobblestone-1.1.0+fabric-1.20.1-18.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/WEcomIF1/createcobblestone-1.1.0%2Bfabric-1.20.1-18.jar",
+        "sha512": "d9c645c5db40e8cf04046d28930dfa4737553865dcf4b41bf10b6c032f79be301e30ecca0da11503ed55aed6a2da33136d4d2f6b0fbe4d1b67a760dbe92ae788"
+      },
+      "1_0_014": {
+        "name": "createcobblestone-1.0.0+fabric-1.20.1-14.jar",
+        "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/7bqwqV8R/createcobblestone-1.0.0%2Bfabric-1.20.1-14.jar",
+        "sha512": "152e70c814578a95148a645df8e86e9816537b1b9308e0ff2fe40854dd927f701ff70003965062559fab84415572df1a4fbd8703001bbecb1154c338fff3ace7"
+      }
+    }
+  }
+}

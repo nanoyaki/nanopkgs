@@ -1,0 +1,652 @@
+{
+  "quilt": {
+    "1_20_1": {
+      "latest": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/poCB9NQw/create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "sha512": "5e5f6665ff1b84bf0076fd8906fff59e2e8f719996bb911c0bbf6cb0402547dee1053d93cb565ef87fe81019c8ec4b03e43be16c65525563cd19aaf4e46f8f15"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/ilaQZdXE/create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "sha512": "ce8d7df3ca558ec362fda8d9168a005d225390babf92c9ebb8e26efebbb60ea13619913b65600a2a333c788612388d822c191c970b2c92f9096ea2bbe28a379c"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rJtQgKfg/create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "sha512": "fcd68456d7371761050d807d41baa572ed5733f538dbe54457b89af714a865c74d242a085d8bf9cec046d38f5718b71d26aff5d702c49378ad3265b4085ce416"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Mtu5SiXD/create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "sha512": "f062e88a916ed1c6f270d4c8189c1529abd1f79d9ac66b5dbbc98eac7306ad378d56c3875025d6549c55b0148531a72f3e6467907b4dea480b64195e77a5922a"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/dLg1oZMa/create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "sha512": "7f9f27f6194bd85540245683761316a6c4e92b0198f02aa064945fc25c62d347a8034b1e07fc85d9241d713614c31b23df1574f7a49886db642ae7077dd34256"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HCCbxXM2/create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "sha512": "e0e68c9bb19517796523e51a4edb3816c5ba90cdee8276e22c464a472bcd9b3b442333a9460074853662989f0b0bd97b8fbf600183fd6364ad5cd3e615639db9"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/poCB9NQw/create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "sha512": "5e5f6665ff1b84bf0076fd8906fff59e2e8f719996bb911c0bbf6cb0402547dee1053d93cb565ef87fe81019c8ec4b03e43be16c65525563cd19aaf4e46f8f15"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/ilaQZdXE/create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "sha512": "ce8d7df3ca558ec362fda8d9168a005d225390babf92c9ebb8e26efebbb60ea13619913b65600a2a333c788612388d822c191c970b2c92f9096ea2bbe28a379c"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rJtQgKfg/create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "sha512": "fcd68456d7371761050d807d41baa572ed5733f538dbe54457b89af714a865c74d242a085d8bf9cec046d38f5718b71d26aff5d702c49378ad3265b4085ce416"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Mtu5SiXD/create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "sha512": "f062e88a916ed1c6f270d4c8189c1529abd1f79d9ac66b5dbbc98eac7306ad378d56c3875025d6549c55b0148531a72f3e6467907b4dea480b64195e77a5922a"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/dLg1oZMa/create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "sha512": "7f9f27f6194bd85540245683761316a6c4e92b0198f02aa064945fc25c62d347a8034b1e07fc85d9241d713614c31b23df1574f7a49886db642ae7077dd34256"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HCCbxXM2/create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "sha512": "e0e68c9bb19517796523e51a4edb3816c5ba90cdee8276e22c464a472bcd9b3b442333a9460074853662989f0b0bd97b8fbf600183fd6364ad5cd3e615639db9"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/tvaJdpyt/create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "sha512": "10e4b79bbbea10dccf385c8d4c4d8ab05d2bb9f29217f3f391c6ae76663d904c5268f17ab4cce9cfa83c843f3e40a1df443f156db0aa7e2f02762a764a046803"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/tvaJdpyt/create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "sha512": "10e4b79bbbea10dccf385c8d4c4d8ab05d2bb9f29217f3f391c6ae76663d904c5268f17ab4cce9cfa83c843f3e40a1df443f156db0aa7e2f02762a764a046803"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/ys7FB9Uy/create_ultimate_factory-1.8.0-fabric-1.19.2.jar",
+        "sha512": "d66e53fd3b339ce1bfc921eb69f5ca4503bfa0e27292359a31bec1bd094b2d22b1f399b3b5844244908fa151ebfe0046ab8e24d3f0e3f7175279fb8a72897afd"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/cBQrsXfG/create_ultimate_factory-1.7.0-fabric-1.19.2.jar",
+        "sha512": "f2523c0cf11fd566628f039310bb36dae2cd59ece4e5c365bdeba7f2e35efcc5de3d2f30896df27c55892d0e97df60770bdb5c7c188ec9d5071ac98f51081e82"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/6BGhwHAZ/create_ultimate_factory-1.6.0-fabric-1.19.2.jar",
+        "sha512": "8a7da0fe401871015549e5694f605c339c6cf3ad51dda41d61650b3a0317883bd9b6924b253e2f9ec840f217b3d080cd29c8a9172786584a0fceee49fe1f07f4"
+      }
+    }
+  },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      },
+      "2_2_2": {
+        "name": "create_ultimate_factory-2.2.2-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/4CYo7mOl/create_ultimate_factory-2.2.2-neoforge-1.21.1.jar",
+        "sha512": "292f3112d0baaed63d065fa22b9df081fcd99e8162f2774e87292ea81b22ad5ac94ff7f1934ba3707aafd347cff863166f77fcdee3541a40cd54ef8ee7a68d57"
+      },
+      "2_2_1": {
+        "name": "create_ultimate_factory-2.2.1-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/hZoEJMVk/create_ultimate_factory-2.2.1-neoforge-1.21.1.jar",
+        "sha512": "c619b353f8c7d8ab25f60c40c2959f9f68390fe110e1ab9510191462061e6facbb6216888b2a1d58c350408ad3acda8e34edf6d9ab4642b78418ea83f143e986"
+      },
+      "2_2_0": {
+        "name": "create_ultimate_factory-2.2.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/FoxkF0vx/create_ultimate_factory-2.2.0-neoforge-1.21.1.jar",
+        "sha512": "3b1c8895ce308e8c226f5c1dc0828cf95115aceef280f9a9df1752929480407e895a77bc841331e86cfe882e22d630bdc7a256a1782d6cfefef3be765a51e405"
+      },
+      "2_1_1": {
+        "name": "create_ultimate_factory-2.1.1-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/6AugFPbn/create_ultimate_factory-2.1.1-neoforge-1.21.1.jar",
+        "sha512": "4a3cf76ce80759a0d4cd815660cf21489ab66f02e01c0a162b21d9dc6f3188f853d02f583b2332881ac27db30f7b03e9bb1268f39ed94d2e468491f143dfb385"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/2adaEArL/create_ultimate_factory-2.1.0-neoforge-1.21.1.jar",
+        "sha512": "1df201cb6ed562cacf99c5445a5c31fb1baf52fdc3cdad6a6c86d4ae1ae5e77cf0633e7ac856d2e1a8717f9ae6ae1c535c9708fb5e5c42c1fd48d7d819119729"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Dui7tLRK/create_ultimate_factory-2.0.0-neoforge-1.21.1.jar",
+        "sha512": "b6cfc40ca2b4874d84134894dbfbf9d9de968dc5153cfce6b2ae8c52b2ad0f81fc4ead5dfd4ef1593720d0628def35148902e6421e7665eb2b9a6bf7cc6148f4"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/KsRB2OZz/create_ultimate_factory-1.9.0-neoforge-1.21.1.jar",
+        "sha512": "bf8138c5502007c4dadca812041dbd092f8fdc4fec0740e76f9f3350a640604ea2a655b2542e17aec4ab7e014bb5e371ea9da565477da38e7a3822412716b2a3"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      },
+      "2_2_2": {
+        "name": "create_ultimate_factory-2.2.2-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/4CYo7mOl/create_ultimate_factory-2.2.2-neoforge-1.21.1.jar",
+        "sha512": "292f3112d0baaed63d065fa22b9df081fcd99e8162f2774e87292ea81b22ad5ac94ff7f1934ba3707aafd347cff863166f77fcdee3541a40cd54ef8ee7a68d57"
+      },
+      "2_2_1": {
+        "name": "create_ultimate_factory-2.2.1-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/hZoEJMVk/create_ultimate_factory-2.2.1-neoforge-1.21.1.jar",
+        "sha512": "c619b353f8c7d8ab25f60c40c2959f9f68390fe110e1ab9510191462061e6facbb6216888b2a1d58c350408ad3acda8e34edf6d9ab4642b78418ea83f143e986"
+      },
+      "2_2_0": {
+        "name": "create_ultimate_factory-2.2.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/FoxkF0vx/create_ultimate_factory-2.2.0-neoforge-1.21.1.jar",
+        "sha512": "3b1c8895ce308e8c226f5c1dc0828cf95115aceef280f9a9df1752929480407e895a77bc841331e86cfe882e22d630bdc7a256a1782d6cfefef3be765a51e405"
+      },
+      "2_1_1": {
+        "name": "create_ultimate_factory-2.1.1-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/6AugFPbn/create_ultimate_factory-2.1.1-neoforge-1.21.1.jar",
+        "sha512": "4a3cf76ce80759a0d4cd815660cf21489ab66f02e01c0a162b21d9dc6f3188f853d02f583b2332881ac27db30f7b03e9bb1268f39ed94d2e468491f143dfb385"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/2adaEArL/create_ultimate_factory-2.1.0-neoforge-1.21.1.jar",
+        "sha512": "1df201cb6ed562cacf99c5445a5c31fb1baf52fdc3cdad6a6c86d4ae1ae5e77cf0633e7ac856d2e1a8717f9ae6ae1c535c9708fb5e5c42c1fd48d7d819119729"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Dui7tLRK/create_ultimate_factory-2.0.0-neoforge-1.21.1.jar",
+        "sha512": "b6cfc40ca2b4874d84134894dbfbf9d9de968dc5153cfce6b2ae8c52b2ad0f81fc4ead5dfd4ef1593720d0628def35148902e6421e7665eb2b9a6bf7cc6148f4"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/KsRB2OZz/create_ultimate_factory-1.9.0-neoforge-1.21.1.jar",
+        "sha512": "bf8138c5502007c4dadca812041dbd092f8fdc4fec0740e76f9f3350a640604ea2a655b2542e17aec4ab7e014bb5e371ea9da565477da38e7a3822412716b2a3"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_2": {
+        "name": "create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/zbl26nG4/create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "sha512": "a0dfb487fa40b438c1c8e9d0b4e3bf2ae5528f6afa66ba7db52f3928449a19dab3704c05884bb27d70f3a280487390addc8f5d962cafa81bd20b976942937a50"
+      },
+      "2_2_1": {
+        "name": "create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/feuPrlUZ/create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "sha512": "d5ef288ff419cca42fdcb30d2ad87c3446e5c3fc76b488052279d463bdce4273b95e5fd8661bae269a3e59a8b7888bac548084744cc331db49cfcd7fa5d5f923"
+      },
+      "2_2_0": {
+        "name": "create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/egUeV48k/create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "sha512": "05c1032b6ef1f7215943167d4e91e0c793a9edabb69ae14ce20c73403425a54fe77e78b0de9f5ac14548169c34d85ec0b6de69edaa7554e14ffdfca35273ab57"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HUUFbBmD/create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "sha512": "5be23119e16e08f5487fc980b2a8f27bcd879c422472337586c8baa4baf416a985d3343bd1a1750fb9e133ecef7b764181ca2bf1c80238f5ca672220f643d5f5"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/E4qlTlkB/create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "sha512": "13fa1c79f625a342efe7bb7318cb1d859b1edb196b71cf4e94dd3c001da54fc2daa259dd18ebcff57787e2f42464f8cc73b3eed4640accfd5f612de7656a0e25"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/1Wj124XI/create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "sha512": "595d3c0ffa577e86db9431a194d1dfea7ea73d581ad2ebd5ed265e9e5ed0f9f80ce6863112c96c43731905113e78ae12a9d79b8ac7ad6dae013d15e459367dce"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/BMc1p29F/create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "sha512": "a07bb09579c17d746e6853244b8799b56792cba22193393170ceb7332ec04536bd62399db096b9f302a329c83db5b1780df27d3943fe97f91f6546dbc06bf587"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/WeuGvary/create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "sha512": "15f8cc1e1d05371cbdc709a83316f82e639ed9634f2a4c04d3d864cd7d9b1df0a786570de54d63944bd183084e9e53864ec54d7c2dd132f6ce94b12658c17cf7"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/2krn6GBL/create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "sha512": "2a9e12b82d118e1e22789756a8fcd3a95771e2485056763b5c778fad0642dd1ebcd151f5e52219b9b995a486257482e9b3c8e4241a52205a75ef51ceefee29db"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/IciYaCRA/create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "sha512": "d668426cd867b1301720757054b77939635ba3dca93513096b88ce111d0c44ec64de57c5cd9d4d7983682ca65cead4153cb9057929b0cee7996c9f01af8374b1"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_2": {
+        "name": "create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/zbl26nG4/create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "sha512": "a0dfb487fa40b438c1c8e9d0b4e3bf2ae5528f6afa66ba7db52f3928449a19dab3704c05884bb27d70f3a280487390addc8f5d962cafa81bd20b976942937a50"
+      },
+      "2_2_1": {
+        "name": "create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/feuPrlUZ/create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "sha512": "d5ef288ff419cca42fdcb30d2ad87c3446e5c3fc76b488052279d463bdce4273b95e5fd8661bae269a3e59a8b7888bac548084744cc331db49cfcd7fa5d5f923"
+      },
+      "2_2_0": {
+        "name": "create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/egUeV48k/create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "sha512": "05c1032b6ef1f7215943167d4e91e0c793a9edabb69ae14ce20c73403425a54fe77e78b0de9f5ac14548169c34d85ec0b6de69edaa7554e14ffdfca35273ab57"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HUUFbBmD/create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "sha512": "5be23119e16e08f5487fc980b2a8f27bcd879c422472337586c8baa4baf416a985d3343bd1a1750fb9e133ecef7b764181ca2bf1c80238f5ca672220f643d5f5"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/E4qlTlkB/create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "sha512": "13fa1c79f625a342efe7bb7318cb1d859b1edb196b71cf4e94dd3c001da54fc2daa259dd18ebcff57787e2f42464f8cc73b3eed4640accfd5f612de7656a0e25"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/1Wj124XI/create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "sha512": "595d3c0ffa577e86db9431a194d1dfea7ea73d581ad2ebd5ed265e9e5ed0f9f80ce6863112c96c43731905113e78ae12a9d79b8ac7ad6dae013d15e459367dce"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/BMc1p29F/create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "sha512": "a07bb09579c17d746e6853244b8799b56792cba22193393170ceb7332ec04536bd62399db096b9f302a329c83db5b1780df27d3943fe97f91f6546dbc06bf587"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/WeuGvary/create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "sha512": "15f8cc1e1d05371cbdc709a83316f82e639ed9634f2a4c04d3d864cd7d9b1df0a786570de54d63944bd183084e9e53864ec54d7c2dd132f6ce94b12658c17cf7"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/2krn6GBL/create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "sha512": "2a9e12b82d118e1e22789756a8fcd3a95771e2485056763b5c778fad0642dd1ebcd151f5e52219b9b995a486257482e9b3c8e4241a52205a75ef51ceefee29db"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/IciYaCRA/create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "sha512": "d668426cd867b1301720757054b77939635ba3dca93513096b88ce111d0c44ec64de57c5cd9d4d7983682ca65cead4153cb9057929b0cee7996c9f01af8374b1"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/DgbBwr4p/create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "sha512": "683c72e9ae25d792c7c4a2d264a393cfa771ace2ce7dd76e4def17b43e638e1cd93394951dad3dde9d5b04bcec659e30c30669b76088593f9c4ddf0232a0d2a8"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/DgbBwr4p/create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "sha512": "683c72e9ae25d792c7c4a2d264a393cfa771ace2ce7dd76e4def17b43e638e1cd93394951dad3dde9d5b04bcec659e30c30669b76088593f9c4ddf0232a0d2a8"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/BlXBD9lv/create_ultimate_factory-1.8.0-forge-1.19.2.jar",
+        "sha512": "3afd6f07665d0f899bc284514775098208ee1f5c32162695ac43a20b615e1cd823a9217349bfa26a859b557eca7bd5d46c00e5056c3cfbf377f3781d70071a65"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Ipz8LmXu/create_ultimate_factory-1.7.0-forge-1.19.2.jar",
+        "sha512": "dbf8380f4cb1a5a41a8f720ecf1506f1b941eac82643f03340bad10de14870f61c6228da2835d6eef9ef963031a2810180f14ea97d4957a30873e1fb45291097"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/7K7hy96o/create_ultimate_factory-1.6.0-forge-1.19.2.jar",
+        "sha512": "94967befa8bd38c72a922a23a4278463cf860630b3201d751095c14a24b9f34ea7d416810a0ab00512535b05a9f6ad9cfa34f1c19baa105cce812aaff5348a8f"
+      }
+    }
+  },
+  "forge": {
+    "1_21_1": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "sha512": "18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_2": {
+        "name": "create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/zbl26nG4/create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "sha512": "a0dfb487fa40b438c1c8e9d0b4e3bf2ae5528f6afa66ba7db52f3928449a19dab3704c05884bb27d70f3a280487390addc8f5d962cafa81bd20b976942937a50"
+      },
+      "2_2_1": {
+        "name": "create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/feuPrlUZ/create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "sha512": "d5ef288ff419cca42fdcb30d2ad87c3446e5c3fc76b488052279d463bdce4273b95e5fd8661bae269a3e59a8b7888bac548084744cc331db49cfcd7fa5d5f923"
+      },
+      "2_2_0": {
+        "name": "create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/egUeV48k/create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "sha512": "05c1032b6ef1f7215943167d4e91e0c793a9edabb69ae14ce20c73403425a54fe77e78b0de9f5ac14548169c34d85ec0b6de69edaa7554e14ffdfca35273ab57"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HUUFbBmD/create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "sha512": "5be23119e16e08f5487fc980b2a8f27bcd879c422472337586c8baa4baf416a985d3343bd1a1750fb9e133ecef7b764181ca2bf1c80238f5ca672220f643d5f5"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/E4qlTlkB/create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "sha512": "13fa1c79f625a342efe7bb7318cb1d859b1edb196b71cf4e94dd3c001da54fc2daa259dd18ebcff57787e2f42464f8cc73b3eed4640accfd5f612de7656a0e25"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/1Wj124XI/create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "sha512": "595d3c0ffa577e86db9431a194d1dfea7ea73d581ad2ebd5ed265e9e5ed0f9f80ce6863112c96c43731905113e78ae12a9d79b8ac7ad6dae013d15e459367dce"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/BMc1p29F/create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "sha512": "a07bb09579c17d746e6853244b8799b56792cba22193393170ceb7332ec04536bd62399db096b9f302a329c83db5b1780df27d3943fe97f91f6546dbc06bf587"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/WeuGvary/create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "sha512": "15f8cc1e1d05371cbdc709a83316f82e639ed9634f2a4c04d3d864cd7d9b1df0a786570de54d63944bd183084e9e53864ec54d7c2dd132f6ce94b12658c17cf7"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/2krn6GBL/create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "sha512": "2a9e12b82d118e1e22789756a8fcd3a95771e2485056763b5c778fad0642dd1ebcd151f5e52219b9b995a486257482e9b3c8e4241a52205a75ef51ceefee29db"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/IciYaCRA/create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "sha512": "d668426cd867b1301720757054b77939635ba3dca93513096b88ce111d0c44ec64de57c5cd9d4d7983682ca65cead4153cb9057929b0cee7996c9f01af8374b1"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_3": {
+        "name": "create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/PxrEq0C1/create_ultimate_factory-2.2.3-forge-1.20.1.jar",
+        "sha512": "5903defeaa2a51f0a4bea05ced9430881261a4216eacbe2547f8ab7397b52e238d8336f33a2962f23c3629507167d9ef88f9b2caac8ef2955241e6a5097a590e"
+      },
+      "2_2_2": {
+        "name": "create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/zbl26nG4/create_ultimate_factory-2.2.2-forge-1.20.1.jar",
+        "sha512": "a0dfb487fa40b438c1c8e9d0b4e3bf2ae5528f6afa66ba7db52f3928449a19dab3704c05884bb27d70f3a280487390addc8f5d962cafa81bd20b976942937a50"
+      },
+      "2_2_1": {
+        "name": "create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/feuPrlUZ/create_ultimate_factory-2.2.1-forge-1.20.1.jar",
+        "sha512": "d5ef288ff419cca42fdcb30d2ad87c3446e5c3fc76b488052279d463bdce4273b95e5fd8661bae269a3e59a8b7888bac548084744cc331db49cfcd7fa5d5f923"
+      },
+      "2_2_0": {
+        "name": "create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/egUeV48k/create_ultimate_factory-2.2.0-forge-1.20.1.jar",
+        "sha512": "05c1032b6ef1f7215943167d4e91e0c793a9edabb69ae14ce20c73403425a54fe77e78b0de9f5ac14548169c34d85ec0b6de69edaa7554e14ffdfca35273ab57"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HUUFbBmD/create_ultimate_factory-2.1.0-forge-1.20.1.jar",
+        "sha512": "5be23119e16e08f5487fc980b2a8f27bcd879c422472337586c8baa4baf416a985d3343bd1a1750fb9e133ecef7b764181ca2bf1c80238f5ca672220f643d5f5"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/E4qlTlkB/create_ultimate_factory-2.0.0-forge-1.20.1.jar",
+        "sha512": "13fa1c79f625a342efe7bb7318cb1d859b1edb196b71cf4e94dd3c001da54fc2daa259dd18ebcff57787e2f42464f8cc73b3eed4640accfd5f612de7656a0e25"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/1Wj124XI/create_ultimate_factory-1.9.0-forge-1.20.1.jar",
+        "sha512": "595d3c0ffa577e86db9431a194d1dfea7ea73d581ad2ebd5ed265e9e5ed0f9f80ce6863112c96c43731905113e78ae12a9d79b8ac7ad6dae013d15e459367dce"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/BMc1p29F/create_ultimate_factory-1.8.0-forge-1.20.1.jar",
+        "sha512": "a07bb09579c17d746e6853244b8799b56792cba22193393170ceb7332ec04536bd62399db096b9f302a329c83db5b1780df27d3943fe97f91f6546dbc06bf587"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/WeuGvary/create_ultimate_factory-1.7.0-forge-1.20.1.jar",
+        "sha512": "15f8cc1e1d05371cbdc709a83316f82e639ed9634f2a4c04d3d864cd7d9b1df0a786570de54d63944bd183084e9e53864ec54d7c2dd132f6ce94b12658c17cf7"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/2krn6GBL/create_ultimate_factory-1.6.0-forge-1.20.1.jar",
+        "sha512": "2a9e12b82d118e1e22789756a8fcd3a95771e2485056763b5c778fad0642dd1ebcd151f5e52219b9b995a486257482e9b3c8e4241a52205a75ef51ceefee29db"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/IciYaCRA/create_ultimate_factory-1.5.1-forge-1.20.1.jar",
+        "sha512": "d668426cd867b1301720757054b77939635ba3dca93513096b88ce111d0c44ec64de57c5cd9d4d7983682ca65cead4153cb9057929b0cee7996c9f01af8374b1"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/DgbBwr4p/create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "sha512": "683c72e9ae25d792c7c4a2d264a393cfa771ace2ce7dd76e4def17b43e638e1cd93394951dad3dde9d5b04bcec659e30c30669b76088593f9c4ddf0232a0d2a8"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/DgbBwr4p/create_ultimate_factory-1.9.0-forge-1.19.2.jar",
+        "sha512": "683c72e9ae25d792c7c4a2d264a393cfa771ace2ce7dd76e4def17b43e638e1cd93394951dad3dde9d5b04bcec659e30c30669b76088593f9c4ddf0232a0d2a8"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/BlXBD9lv/create_ultimate_factory-1.8.0-forge-1.19.2.jar",
+        "sha512": "3afd6f07665d0f899bc284514775098208ee1f5c32162695ac43a20b615e1cd823a9217349bfa26a859b557eca7bd5d46c00e5056c3cfbf377f3781d70071a65"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Ipz8LmXu/create_ultimate_factory-1.7.0-forge-1.19.2.jar",
+        "sha512": "dbf8380f4cb1a5a41a8f720ecf1506f1b941eac82643f03340bad10de14870f61c6228da2835d6eef9ef963031a2810180f14ea97d4957a30873e1fb45291097"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-forge-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/7K7hy96o/create_ultimate_factory-1.6.0-forge-1.19.2.jar",
+        "sha512": "94967befa8bd38c72a922a23a4278463cf860630b3201d751095c14a24b9f34ea7d416810a0ab00512535b05a9f6ad9cfa34f1c19baa105cce812aaff5348a8f"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/poCB9NQw/create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "sha512": "5e5f6665ff1b84bf0076fd8906fff59e2e8f719996bb911c0bbf6cb0402547dee1053d93cb565ef87fe81019c8ec4b03e43be16c65525563cd19aaf4e46f8f15"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/ilaQZdXE/create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "sha512": "ce8d7df3ca558ec362fda8d9168a005d225390babf92c9ebb8e26efebbb60ea13619913b65600a2a333c788612388d822c191c970b2c92f9096ea2bbe28a379c"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rJtQgKfg/create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "sha512": "fcd68456d7371761050d807d41baa572ed5733f538dbe54457b89af714a865c74d242a085d8bf9cec046d38f5718b71d26aff5d702c49378ad3265b4085ce416"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Mtu5SiXD/create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "sha512": "f062e88a916ed1c6f270d4c8189c1529abd1f79d9ac66b5dbbc98eac7306ad378d56c3875025d6549c55b0148531a72f3e6467907b4dea480b64195e77a5922a"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/dLg1oZMa/create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "sha512": "7f9f27f6194bd85540245683761316a6c4e92b0198f02aa064945fc25c62d347a8034b1e07fc85d9241d713614c31b23df1574f7a49886db642ae7077dd34256"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HCCbxXM2/create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "sha512": "e0e68c9bb19517796523e51a4edb3816c5ba90cdee8276e22c464a472bcd9b3b442333a9460074853662989f0b0bd97b8fbf600183fd6364ad5cd3e615639db9"
+      }
+    },
+    "1_20": {
+      "latest": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_1_0": {
+        "name": "create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rqKE4xS1/create_ultimate_factory-2.1.0-fabric-1.20.1.jar",
+        "sha512": "de9c27465f5b12266f7120735cde4fe9e9dfa2b44258ac1404cc7c54a3508698066b66b47119ac47d902df55da72a52e35174f6dcf65759c8652b5d01561a6c8"
+      },
+      "2_0_0": {
+        "name": "create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/poCB9NQw/create_ultimate_factory-2.0.0-fabric-1.20.1.jar",
+        "sha512": "5e5f6665ff1b84bf0076fd8906fff59e2e8f719996bb911c0bbf6cb0402547dee1053d93cb565ef87fe81019c8ec4b03e43be16c65525563cd19aaf4e46f8f15"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/ilaQZdXE/create_ultimate_factory-1.9.0-fabric-1.20.1.jar",
+        "sha512": "ce8d7df3ca558ec362fda8d9168a005d225390babf92c9ebb8e26efebbb60ea13619913b65600a2a333c788612388d822c191c970b2c92f9096ea2bbe28a379c"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/rJtQgKfg/create_ultimate_factory-1.8.0-fabric-1.20.1.jar",
+        "sha512": "fcd68456d7371761050d807d41baa572ed5733f538dbe54457b89af714a865c74d242a085d8bf9cec046d38f5718b71d26aff5d702c49378ad3265b4085ce416"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/Mtu5SiXD/create_ultimate_factory-1.7.0-fabric-1.20.1.jar",
+        "sha512": "f062e88a916ed1c6f270d4c8189c1529abd1f79d9ac66b5dbbc98eac7306ad378d56c3875025d6549c55b0148531a72f3e6467907b4dea480b64195e77a5922a"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/dLg1oZMa/create_ultimate_factory-1.6.0-fabric-1.20.1.jar",
+        "sha512": "7f9f27f6194bd85540245683761316a6c4e92b0198f02aa064945fc25c62d347a8034b1e07fc85d9241d713614c31b23df1574f7a49886db642ae7077dd34256"
+      },
+      "1_5_1": {
+        "name": "create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/HCCbxXM2/create_ultimate_factory-1.5.1-fabric-1.20.1.jar",
+        "sha512": "e0e68c9bb19517796523e51a4edb3816c5ba90cdee8276e22c464a472bcd9b3b442333a9460074853662989f0b0bd97b8fbf600183fd6364ad5cd3e615639db9"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/tvaJdpyt/create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "sha512": "10e4b79bbbea10dccf385c8d4c4d8ab05d2bb9f29217f3f391c6ae76663d904c5268f17ab4cce9cfa83c843f3e40a1df443f156db0aa7e2f02762a764a046803"
+      },
+      "1_9_0": {
+        "name": "create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/tvaJdpyt/create_ultimate_factory-1.9.0-fabric-1.19.2.jar",
+        "sha512": "10e4b79bbbea10dccf385c8d4c4d8ab05d2bb9f29217f3f391c6ae76663d904c5268f17ab4cce9cfa83c843f3e40a1df443f156db0aa7e2f02762a764a046803"
+      },
+      "1_8_0": {
+        "name": "create_ultimate_factory-1.8.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/ys7FB9Uy/create_ultimate_factory-1.8.0-fabric-1.19.2.jar",
+        "sha512": "d66e53fd3b339ce1bfc921eb69f5ca4503bfa0e27292359a31bec1bd094b2d22b1f399b3b5844244908fa151ebfe0046ab8e24d3f0e3f7175279fb8a72897afd"
+      },
+      "1_7_0": {
+        "name": "create_ultimate_factory-1.7.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/cBQrsXfG/create_ultimate_factory-1.7.0-fabric-1.19.2.jar",
+        "sha512": "f2523c0cf11fd566628f039310bb36dae2cd59ece4e5c365bdeba7f2e35efcc5de3d2f30896df27c55892d0e97df60770bdb5c7c188ec9d5071ac98f51081e82"
+      },
+      "1_6_0": {
+        "name": "create_ultimate_factory-1.6.0-fabric-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/6BGhwHAZ/create_ultimate_factory-1.6.0-fabric-1.19.2.jar",
+        "sha512": "8a7da0fe401871015549e5694f605c339c6cf3ad51dda41d61650b3a0317883bd9b6924b253e2f9ec840f217b3d080cd29c8a9172786584a0fceee49fe1f07f4"
+      }
+    }
+  }
+}

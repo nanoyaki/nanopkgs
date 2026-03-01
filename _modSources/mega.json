@@ -1,0 +1,666 @@
+{
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "megacells-4.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/uuYUevGe/megacells-4.10.1.jar",
+        "sha512": "43b5452c0ce745f03cabef962cf74392376bff752a2ad1dac71af0982905970c4c6e94a62a37a18ad0ea3beb235ba0ef69d40b77fcfb5643789b04bfb03fe03a"
+      },
+      "4_10_1": {
+        "name": "megacells-4.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/uuYUevGe/megacells-4.10.1.jar",
+        "sha512": "43b5452c0ce745f03cabef962cf74392376bff752a2ad1dac71af0982905970c4c6e94a62a37a18ad0ea3beb235ba0ef69d40b77fcfb5643789b04bfb03fe03a"
+      },
+      "4_10_0": {
+        "name": "megacells-4.10.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/X0ht22nC/megacells-4.10.0.jar",
+        "sha512": "2dfbb120e79d1e0054ddfef8c9154b3ecf79247a25c879249725fe81d8edc78e7c3ed00617028c9d9ed9937dca48eaa65d71e1f7e23356c32ff8324d10475599"
+      },
+      "4_9_1": {
+        "name": "megacells-4.9.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/MsWWD6kH/megacells-4.9.1.jar",
+        "sha512": "2974cbdcb1f7e69b1d653df6d8e30c6b5f3126c0f42987b0b1d6ea3e070ab6a1989633679fe056986220663b7ba2a3d7aadf8d8a3f3857b7ba9273dea98b928e"
+      },
+      "4_9_0": {
+        "name": "megacells-4.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/QLJNl0ZF/megacells-4.9.0.jar",
+        "sha512": "c38cf91c050088911ea8f11d3534a0c8aa1225412a389ba92e3eda8298b78629ed4de6815dbc6e20865757bf2b5f8dd5e2f6a0f0c255e8939acffa74b1d6a615"
+      },
+      "4_8_5": {
+        "name": "megacells-4.8.5.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/KYnFJuzf/megacells-4.8.5.jar",
+        "sha512": "d6df5734ba35409ec7cb303cb88a21ed98ec7d0247e1cc32873e5d29d9cf36187b4fbc34104cc5c6ae2eed4d5036b65adf4d96c270ca179b4ab79385d6e78b7e"
+      },
+      "4_8_4": {
+        "name": "megacells-4.8.4.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/JDPSA6z6/megacells-4.8.4.jar",
+        "sha512": "d9bb8b81e6c048f48408b9ecd2201d734d478bd6336dbb855976ffebdeb99d9ae10d9ac75659e6d8e3fe3f9b69e989009c56d5a4d81c06308c621e590c497552"
+      },
+      "4_8_3": {
+        "name": "megacells-4.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/4KO70l2R/megacells-4.8.3.jar",
+        "sha512": "0b7900573becbef03e5f072134537860ce73c895ddc3c9003fdbc4dae297fdb28bbe60f3c2c1aa224d26c447c612d71258b6ac1299c1e047d520f11e96914358"
+      },
+      "4_8_2": {
+        "name": "megacells-4.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/ISTqZ0sB/megacells-4.8.2.jar",
+        "sha512": "c4713a5baafb7cfeb12073177ef4d41b4cbe59136c70d2234773296c8e72e394baa1252142094d98782c7438186cf123d965603f462dcd43350e0377786e3449"
+      },
+      "4_8_1": {
+        "name": "megacells-4.8.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/mbImR1r1/megacells-4.8.1.jar",
+        "sha512": "5767f5d5c5398aeb9adcc0b3cadf180248b32a58991619e84b1736a212803f4723f142ac43ba7cdefe8fb769db4723cc38e83199cead52c4d1c0c9beb28f8bfd"
+      },
+      "4_8_0": {
+        "name": "megacells-4.8.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/PMtwcujp/megacells-4.8.0.jar",
+        "sha512": "f1af1b01493c26ed3cb7c95c8ae0315d51542fbaa6f702a3eb422143fe1a7072f3d369cae24e95425ba461f4cbf3d0277af36b9ac3e3134eb8176ddcf3e98005"
+      },
+      "4_7_0": {
+        "name": "megacells-4.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/DOwrNVxV/megacells-4.7.0.jar",
+        "sha512": "f39dce481a8c14a4f9340f19681510946b09db001f1803fa3f9a51a27a8cc36a48cf65e6956b8dfba6e55962cc54e1a819e3c9a6f766905b119ceb7d75d84f73"
+      },
+      "4_6_1": {
+        "name": "megacells-4.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/KqcSnrin/megacells-4.6.1.jar",
+        "sha512": "21d9f60f9f6309ea2571e8f167cc2f5c4eee6a1d42a62ee4b56ceb7f0204ce9f5a02cbbda43313c86d9853e3332a91727821f5eccf0cdda9d9356a53d582e427"
+      },
+      "4_6_0": {
+        "name": "megacells-4.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/COAexxHz/megacells-4.6.0.jar",
+        "sha512": "a98f956ae385f015728cbdbbd8b0a889fdd587ceb514a18b85d39558199371e67c2b2c23a4357fb28a64d5f4cba7b7f0a0be8bc047ee8c7324b73164567013a3"
+      },
+      "4_5_0": {
+        "name": "megacells-4.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/BfkrkLgj/megacells-4.5.0.jar",
+        "sha512": "6e8cdda3816c04f5b9f00e434f62914b4edceb9d75c49d539780aa67fcc007422a5af83f0dd38d268c1575dd3fbb04594cfa545033a818ff1f8a2b10a9725c37"
+      },
+      "4_4_0": {
+        "name": "megacells-4.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/VekxOvrc/megacells-4.4.0.jar",
+        "sha512": "076177e58fa79c980e13dedb2fcd660520e0f0b0cf2a94e50f0b31ede4c77bd13c10a8add147d4450e4d86d8a23fe75a446a271e08ebc744b7ce3132e8e2c2ce"
+      },
+      "4_3_0": {
+        "name": "megacells-4.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/AqGmBGvA/megacells-4.3.0.jar",
+        "sha512": "7643e15490e55ad45a66745c5912d68776c3115a9c4903d9515c0a803bfe88d0ca09f4384639eaf2d6c09db683c6fc16e796470d0ffed89aa3cc2c2a65914de7"
+      },
+      "4_2_2": {
+        "name": "megacells-4.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/dGPoqkBw/megacells-4.2.2.jar",
+        "sha512": "9f584cb637986a0e49a4f8ad76e5a8c814af149d35ee2eee4f1f1bbf1c9cfb5f061cbf79f41173953c4af9e6a4576cf9b777e3e190b1517e5cd0dce43e55eb0c"
+      },
+      "4_2_1": {
+        "name": "megacells-4.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/fvqCJnS6/megacells-4.2.1.jar",
+        "sha512": "737878f3f13c417a3172dc5d8013e251a62bb4dc0a5cef31d7f17ef52a0c69610e86fb45635d2f2ba1a8d7d0911d6678a994044ee7a977b4708769c15a7c4345"
+      },
+      "4_2_0": {
+        "name": "megacells-4.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/onngoGv3/megacells-4.2.0.jar",
+        "sha512": "c815dd3282fdfc0563f3fe4010a6033a256d7adc9b6bf06b788847a2b63f7109a60633ae8f2a8e6398623643f127c2e47b6ad3b89797d5cdb596abb7c0360df8"
+      },
+      "4_1_0": {
+        "name": "megacells-4.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/oy10RkeI/megacells-4.1.0.jar",
+        "sha512": "98bd263d6642c37ce8753d09e2ed3627d28a31f2ad0cb3df65c7cd1879c34b9cecf23a7aeb150285f86e2d894ca22ff2d0503c34622c32bf26d548a687a81c7d"
+      },
+      "4_0_2": {
+        "name": "megacells-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/QBZorwdy/megacells-4.0.2.jar",
+        "sha512": "720011eaeafa6274a455c349866ee6e6440d3bbac151c91ed6cbeb49bddef32e1610aa4106b2eda8337b57b218a2e84f722f11e58bb46bb7f1b0ae09cecbc9a9"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "megacells-4.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/KqcSnrin/megacells-4.6.1.jar",
+        "sha512": "21d9f60f9f6309ea2571e8f167cc2f5c4eee6a1d42a62ee4b56ceb7f0204ce9f5a02cbbda43313c86d9853e3332a91727821f5eccf0cdda9d9356a53d582e427"
+      },
+      "4_6_1": {
+        "name": "megacells-4.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/KqcSnrin/megacells-4.6.1.jar",
+        "sha512": "21d9f60f9f6309ea2571e8f167cc2f5c4eee6a1d42a62ee4b56ceb7f0204ce9f5a02cbbda43313c86d9853e3332a91727821f5eccf0cdda9d9356a53d582e427"
+      },
+      "4_6_0": {
+        "name": "megacells-4.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/COAexxHz/megacells-4.6.0.jar",
+        "sha512": "a98f956ae385f015728cbdbbd8b0a889fdd587ceb514a18b85d39558199371e67c2b2c23a4357fb28a64d5f4cba7b7f0a0be8bc047ee8c7324b73164567013a3"
+      },
+      "4_5_0": {
+        "name": "megacells-4.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/BfkrkLgj/megacells-4.5.0.jar",
+        "sha512": "6e8cdda3816c04f5b9f00e434f62914b4edceb9d75c49d539780aa67fcc007422a5af83f0dd38d268c1575dd3fbb04594cfa545033a818ff1f8a2b10a9725c37"
+      },
+      "4_4_0": {
+        "name": "megacells-4.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/VekxOvrc/megacells-4.4.0.jar",
+        "sha512": "076177e58fa79c980e13dedb2fcd660520e0f0b0cf2a94e50f0b31ede4c77bd13c10a8add147d4450e4d86d8a23fe75a446a271e08ebc744b7ce3132e8e2c2ce"
+      },
+      "4_3_0": {
+        "name": "megacells-4.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/AqGmBGvA/megacells-4.3.0.jar",
+        "sha512": "7643e15490e55ad45a66745c5912d68776c3115a9c4903d9515c0a803bfe88d0ca09f4384639eaf2d6c09db683c6fc16e796470d0ffed89aa3cc2c2a65914de7"
+      },
+      "4_2_2": {
+        "name": "megacells-4.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/dGPoqkBw/megacells-4.2.2.jar",
+        "sha512": "9f584cb637986a0e49a4f8ad76e5a8c814af149d35ee2eee4f1f1bbf1c9cfb5f061cbf79f41173953c4af9e6a4576cf9b777e3e190b1517e5cd0dce43e55eb0c"
+      },
+      "4_2_1": {
+        "name": "megacells-4.2.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/fvqCJnS6/megacells-4.2.1.jar",
+        "sha512": "737878f3f13c417a3172dc5d8013e251a62bb4dc0a5cef31d7f17ef52a0c69610e86fb45635d2f2ba1a8d7d0911d6678a994044ee7a977b4708769c15a7c4345"
+      },
+      "4_2_0": {
+        "name": "megacells-4.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/onngoGv3/megacells-4.2.0.jar",
+        "sha512": "c815dd3282fdfc0563f3fe4010a6033a256d7adc9b6bf06b788847a2b63f7109a60633ae8f2a8e6398623643f127c2e47b6ad3b89797d5cdb596abb7c0360df8"
+      },
+      "4_1_0": {
+        "name": "megacells-4.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/oy10RkeI/megacells-4.1.0.jar",
+        "sha512": "98bd263d6642c37ce8753d09e2ed3627d28a31f2ad0cb3df65c7cd1879c34b9cecf23a7aeb150285f86e2d894ca22ff2d0503c34622c32bf26d548a687a81c7d"
+      },
+      "4_0_2": {
+        "name": "megacells-4.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/QBZorwdy/megacells-4.0.2.jar",
+        "sha512": "720011eaeafa6274a455c349866ee6e6440d3bbac151c91ed6cbeb49bddef32e1610aa4106b2eda8337b57b218a2e84f722f11e58bb46bb7f1b0ae09cecbc9a9"
+      },
+      "4_0_1-alpha": {
+        "name": "megacells-4.0.1-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/L6NUUhCF/megacells-4.0.1-alpha.jar",
+        "sha512": "e8e5f15415c933df218760c16de72bc13991504f9e2d8c63ff35dca414af5c9a99216b9cb263711836bc3cb7efa0ea15c2ffbcc3890e0193b649750ca2898d3e"
+      },
+      "4_0_0-alpha": {
+        "name": "megacells-4.0.0-alpha.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/LyPXXWTi/megacells-4.0.0-alpha.jar",
+        "sha512": "f57cd1d51c33d41cfe8749a423f80c9885fb08e587d1eaedecb03a9c81fa2ca038a29ca36b08bf0113c3ace1158f21db50d0c9e5976e0cd086b6d3ba46dae7dd"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "megacells-3.0.2-beta.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/l4btlzH7/megacells-3.0.2-beta.jar",
+        "sha512": "0a308b8d887232eda2af3d7f733f95c60bf969751c1cd1cc602db8f4bc5e3f01a0d8fbef3f2b041a0ef8b737fffe5db6099d192ccf6a40d344a20fb64a20def4"
+      },
+      "3_0_2-beta": {
+        "name": "megacells-3.0.2-beta.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/l4btlzH7/megacells-3.0.2-beta.jar",
+        "sha512": "0a308b8d887232eda2af3d7f733f95c60bf969751c1cd1cc602db8f4bc5e3f01a0d8fbef3f2b041a0ef8b737fffe5db6099d192ccf6a40d344a20fb64a20def4"
+      },
+      "3_0_1-beta": {
+        "name": "megacells-3.0.1-beta.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/Q9GUeq0j/megacells-3.0.1-beta.jar",
+        "sha512": "3fd2a2861f44b1ab6ca7b2da441dd2cac3b7ec9a133f4e8501a96c8340978a756b8c35282ed3019130ef954def0ae55354f1012d77d7dfc9fc22f1097ba910aa"
+      },
+      "3_0_0": {
+        "name": "megacells-3.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/B3kjVq7K/megacells-3.0.0.jar",
+        "sha512": "dcd9c9c7ee19e59f7305c48215336ff3ff2ab97560b9cd42a77f393369a26a91c7b1ff0548af0178226ed26287bc694f61bb45a03196fbebc65a7d2c1918cf6c"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "megacells-forge-2.4.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/SH2D1n3s/megacells-forge-2.4.6-1.20.1.jar",
+        "sha512": "a4fe5ee459310785e3bfb2ec7ceab5fb817e2faa26397599cbb6a114147a0199254df2e35d110aa31b07379ac36a246fa4d5dac07020384316eb47ba6b322e25"
+      },
+      "forge-2_4_6": {
+        "name": "megacells-forge-2.4.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/SH2D1n3s/megacells-forge-2.4.6-1.20.1.jar",
+        "sha512": "a4fe5ee459310785e3bfb2ec7ceab5fb817e2faa26397599cbb6a114147a0199254df2e35d110aa31b07379ac36a246fa4d5dac07020384316eb47ba6b322e25"
+      },
+      "forge-2_4_5": {
+        "name": "megacells-forge-2.4.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/7xqN6FcJ/megacells-forge-2.4.5-1.20.1.jar",
+        "sha512": "5f2f7f8364f14803018b701ad1040be5112f0d4b048dcfc4550b49855937a28abde2ead2fb26c46f1df0d86235104cc5f282fc06c9caf4765fc1653169068822"
+      },
+      "forge-2_4_4": {
+        "name": "megacells-forge-2.4.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/Jeg9Zxud/megacells-forge-2.4.4-1.20.1.jar",
+        "sha512": "6d2dae1c3c31c3c475cb2a666159f125fe363f4dafa5db42e19bf19d7467ee98e828993171d245b379cd50a2e51bc122fd29be74b22f61938b8cb01aaaec4210"
+      },
+      "forge-2_4_3": {
+        "name": "megacells-forge-2.4.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/O5j1cW8a/megacells-forge-2.4.3-1.20.1.jar",
+        "sha512": "98c6a30d7173ad52f5d72fc4325d98bd245a188fd2047af10e14e82361f8da09ac48cd19e96b78fa93471cb82bf2b9773f71703c24aac367479045c8108edf13"
+      },
+      "forge-2_4_2": {
+        "name": "megacells-forge-2.4.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/l8NUkxiO/megacells-forge-2.4.2-1.20.1.jar",
+        "sha512": "9332e926a97f0bbeea79dab5126d94a1ab0a7dde09a8ba06e040d5e35c5a2109f7716054e73a24e482f53f4fe759f13cf07f155c01d37f05fe3b2a1fdcecaa5b"
+      },
+      "forge-2_4_1": {
+        "name": "megacells-forge-2.4.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/lKmR7OgZ/megacells-forge-2.4.1-1.20.1.jar",
+        "sha512": "faf7faf9a88ce0112bbc287e13c8d2fc7da379d22eb3d963675c56c2b3ba9f7ba2743d0c54e4314576e8152b3b06faf50484a2a9a88db4386b9030de1ffcb663"
+      },
+      "forge-2_4_0": {
+        "name": "megacells-forge-2.4.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/CRxkn3HQ/megacells-forge-2.4.0-1.20.1.jar",
+        "sha512": "2892881ae84e25611e92a57ad584ddc6259d773db922dce0e5b5e6b30bd171cf07f99f646fdc0976a06614d0ea7ee8d36307ee51733c5940f23ff1b1bf780897"
+      },
+      "forge-2_3_6": {
+        "name": "megacells-forge-2.3.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/gVzDjcbE/megacells-forge-2.3.6-1.20.1.jar",
+        "sha512": "d4f859924230eb2e6e0f88223593cc88b2c994e286d24603d4b4ec365bf3d22ef79dc18f4a7a9c263b66a04ffb48ea66d5a1e96ffef79d8d7fa02a474073bf07"
+      },
+      "forge-2_3_5": {
+        "name": "megacells-forge-2.3.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/31N0zkmR/megacells-forge-2.3.5-1.20.1.jar",
+        "sha512": "f4fe753e3190b930dc8c4913d86769763a16d0980d52afa7f495075c3039758c6fd2a934efb996fa9d9004c2b01f7cb769497b6d1e25b894375ce22416417172"
+      },
+      "forge-2_3_3": {
+        "name": "megacells-forge-2.3.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/N2i9ZJ76/megacells-forge-2.3.3-1.20.1.jar",
+        "sha512": "a85a0c25900779a41f617e54ae74c63e8bb2856456e2e15172d28d86c14a0545ee00d540b9567ecbd9611585c388055373d31bd32c38fab59affaba0a8f98b7e"
+      },
+      "forge-2_3_2": {
+        "name": "megacells-forge-2.3.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/yKTDA1E4/megacells-forge-2.3.2-1.20.1.jar",
+        "sha512": "033fb49ca7e55ae2d0ea8099c6b9d79d4dc7ec5968caf576667952bcd0d29bcf6c1417e5fa73ec3effb0fade0c488f3a33f0f1861f4c83a36f9417c59f52fdf4"
+      },
+      "forge-2_3_1": {
+        "name": "megacells-forge-2.3.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/lC6CZQbo/megacells-forge-2.3.1-1.20.1.jar",
+        "sha512": "b9fe703b944006c36a5d95a4973fbb6d5b6daf561a2c2f87387664aac3e15cd84919c95a21309694afbeb02fd1925b15d9b7354f28e6946ad501b62205c55200"
+      },
+      "forge-2_3_0": {
+        "name": "megacells-forge-2.3.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/dSlp53nO/megacells-forge-2.3.0-1.20.1.jar",
+        "sha512": "aa68a61049fe082b79ac1eb5c4edc2c18a1e232d42d073b2c09839f5d9baa37902d58f00149da9b3d2a7ea4d04c6a29c052dc03ecd8ce9c21625215430837e5f"
+      }
+    }
+  },
+  "forge": {
+    "1_20_1": {
+      "latest": {
+        "name": "megacells-forge-2.4.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/SH2D1n3s/megacells-forge-2.4.6-1.20.1.jar",
+        "sha512": "a4fe5ee459310785e3bfb2ec7ceab5fb817e2faa26397599cbb6a114147a0199254df2e35d110aa31b07379ac36a246fa4d5dac07020384316eb47ba6b322e25"
+      },
+      "forge-2_4_6": {
+        "name": "megacells-forge-2.4.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/SH2D1n3s/megacells-forge-2.4.6-1.20.1.jar",
+        "sha512": "a4fe5ee459310785e3bfb2ec7ceab5fb817e2faa26397599cbb6a114147a0199254df2e35d110aa31b07379ac36a246fa4d5dac07020384316eb47ba6b322e25"
+      },
+      "forge-2_4_5": {
+        "name": "megacells-forge-2.4.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/7xqN6FcJ/megacells-forge-2.4.5-1.20.1.jar",
+        "sha512": "5f2f7f8364f14803018b701ad1040be5112f0d4b048dcfc4550b49855937a28abde2ead2fb26c46f1df0d86235104cc5f282fc06c9caf4765fc1653169068822"
+      },
+      "forge-2_4_4": {
+        "name": "megacells-forge-2.4.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/Jeg9Zxud/megacells-forge-2.4.4-1.20.1.jar",
+        "sha512": "6d2dae1c3c31c3c475cb2a666159f125fe363f4dafa5db42e19bf19d7467ee98e828993171d245b379cd50a2e51bc122fd29be74b22f61938b8cb01aaaec4210"
+      },
+      "forge-2_4_3": {
+        "name": "megacells-forge-2.4.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/O5j1cW8a/megacells-forge-2.4.3-1.20.1.jar",
+        "sha512": "98c6a30d7173ad52f5d72fc4325d98bd245a188fd2047af10e14e82361f8da09ac48cd19e96b78fa93471cb82bf2b9773f71703c24aac367479045c8108edf13"
+      },
+      "forge-2_4_2": {
+        "name": "megacells-forge-2.4.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/l8NUkxiO/megacells-forge-2.4.2-1.20.1.jar",
+        "sha512": "9332e926a97f0bbeea79dab5126d94a1ab0a7dde09a8ba06e040d5e35c5a2109f7716054e73a24e482f53f4fe759f13cf07f155c01d37f05fe3b2a1fdcecaa5b"
+      },
+      "forge-2_4_1": {
+        "name": "megacells-forge-2.4.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/lKmR7OgZ/megacells-forge-2.4.1-1.20.1.jar",
+        "sha512": "faf7faf9a88ce0112bbc287e13c8d2fc7da379d22eb3d963675c56c2b3ba9f7ba2743d0c54e4314576e8152b3b06faf50484a2a9a88db4386b9030de1ffcb663"
+      },
+      "forge-2_4_0": {
+        "name": "megacells-forge-2.4.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/CRxkn3HQ/megacells-forge-2.4.0-1.20.1.jar",
+        "sha512": "2892881ae84e25611e92a57ad584ddc6259d773db922dce0e5b5e6b30bd171cf07f99f646fdc0976a06614d0ea7ee8d36307ee51733c5940f23ff1b1bf780897"
+      },
+      "forge-2_3_6": {
+        "name": "megacells-forge-2.3.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/gVzDjcbE/megacells-forge-2.3.6-1.20.1.jar",
+        "sha512": "d4f859924230eb2e6e0f88223593cc88b2c994e286d24603d4b4ec365bf3d22ef79dc18f4a7a9c263b66a04ffb48ea66d5a1e96ffef79d8d7fa02a474073bf07"
+      },
+      "forge-2_3_5": {
+        "name": "megacells-forge-2.3.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/31N0zkmR/megacells-forge-2.3.5-1.20.1.jar",
+        "sha512": "f4fe753e3190b930dc8c4913d86769763a16d0980d52afa7f495075c3039758c6fd2a934efb996fa9d9004c2b01f7cb769497b6d1e25b894375ce22416417172"
+      },
+      "forge-2_3_3": {
+        "name": "megacells-forge-2.3.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/N2i9ZJ76/megacells-forge-2.3.3-1.20.1.jar",
+        "sha512": "a85a0c25900779a41f617e54ae74c63e8bb2856456e2e15172d28d86c14a0545ee00d540b9567ecbd9611585c388055373d31bd32c38fab59affaba0a8f98b7e"
+      },
+      "forge-2_3_2": {
+        "name": "megacells-forge-2.3.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/yKTDA1E4/megacells-forge-2.3.2-1.20.1.jar",
+        "sha512": "033fb49ca7e55ae2d0ea8099c6b9d79d4dc7ec5968caf576667952bcd0d29bcf6c1417e5fa73ec3effb0fade0c488f3a33f0f1861f4c83a36f9417c59f52fdf4"
+      },
+      "forge-2_3_1": {
+        "name": "megacells-forge-2.3.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/lC6CZQbo/megacells-forge-2.3.1-1.20.1.jar",
+        "sha512": "b9fe703b944006c36a5d95a4973fbb6d5b6daf561a2c2f87387664aac3e15cd84919c95a21309694afbeb02fd1925b15d9b7354f28e6946ad501b62205c55200"
+      },
+      "forge-2_3_0": {
+        "name": "megacells-forge-2.3.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/dSlp53nO/megacells-forge-2.3.0-1.20.1.jar",
+        "sha512": "aa68a61049fe082b79ac1eb5c4edc2c18a1e232d42d073b2c09839f5d9baa37902d58f00149da9b3d2a7ea4d04c6a29c052dc03ecd8ce9c21625215430837e5f"
+      },
+      "forge-2_2_9": {
+        "name": "megacells-forge-2.2.9-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/DNnDa1IV/megacells-forge-2.2.9-1.20.1.jar",
+        "sha512": "39418c4e81f68af3b59d3d4f831179d9f4f920c37ddd776c9f10a1e4d4ea2b986d7eb3a5c1573dc36bf5fc5a5458e6a53fc1b556fe696fe4b467f222f7c9297b"
+      },
+      "forge-2_2_8": {
+        "name": "megacells-forge-2.2.8-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/yRj13UIN/megacells-forge-2.2.8-1.20.1.jar",
+        "sha512": "8a9d6df80879fc1c2eb1512aa90a162e2d2caa7c9a0fb63d833801576c3e98506b15647a26c39ab4ba8611b89147f58019c857a440e0ad2e6d9526f91a48bb0f"
+      },
+      "forge-2_2_7": {
+        "name": "megacells-forge-2.2.7-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/WcfO6sF3/megacells-forge-2.2.7-1.20.1.jar",
+        "sha512": "5d50be648bf433213488d1f167f060eba890b7d2529d55d553eb0660a05cf555b498da53711098c77315a2d244504bc45becdcd4ce8a157380bf95597cf6a6d8"
+      },
+      "forge-2_2_6": {
+        "name": "megacells-forge-2.2.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/TB8s9guU/megacells-forge-2.2.6-1.20.1.jar",
+        "sha512": "9983bece78a4a6f05a529500cfcb545b579c8c674f58c4abec5f023c8cfaaa661f742d9cab9035c735a6acd769155e95f336b7deed627b63eee67197d7be27b5"
+      },
+      "forge-2_2_5": {
+        "name": "megacells-forge-2.2.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/pSvK3HJm/megacells-forge-2.2.5-1.20.1.jar",
+        "sha512": "82f40b86ec4e418e724a31c74dceb99b294992fd596c36478248a45aa85e43215d6f81514cb85751dd148aeca194e033babf7e8d2d6a2d7b1badcce46851ace1"
+      },
+      "forge-2_2_4": {
+        "name": "megacells-forge-2.2.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/JNbDNwsI/megacells-forge-2.2.4-1.20.1.jar",
+        "sha512": "343c42a322136173047cf62c1ff3d90a75a6471a37fdd243b2090d66695c979f9a4002d9ac64feb00a999afafd688986f497160d7735b8116ac6eb7f4a1fc356"
+      },
+      "forge-2_2_3": {
+        "name": "megacells-forge-2.2.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/lZ15tLJ0/megacells-forge-2.2.3-1.20.1.jar",
+        "sha512": "fef22937f94792e38717c647722b1f05616400a2e002cee676d89b72b3af2e1c8c22b0cf6d5345c172d4245264a226fdcce224a57d2b4cb95088e099cf445b19"
+      },
+      "forge-2_2_2": {
+        "name": "megacells-forge-2.2.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/aQQ74ThR/megacells-forge-2.2.2-1.20.1.jar",
+        "sha512": "ec3034c6089c9caade50251814f95e05f4b823e0524304208fad361227a9f0e1ed73e1aa08ccc4365d5e3d842f855865cf31c6073425359e1422d7c011d22322"
+      },
+      "forge-2_2_1": {
+        "name": "megacells-forge-2.2.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/JJ5baCs8/megacells-forge-2.2.1-1.20.1.jar",
+        "sha512": "fd668de1461cfaead80eb70d1a74e89d317be22c800a1ac7b11d7b543ddc94aea7a3da649d50265b579688e18dc3fe8dd3ef8bf59498506bb0e659d2ae6c9627"
+      },
+      "forge-2_2_0": {
+        "name": "megacells-forge-2.2.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/u60pWwgo/megacells-forge-2.2.0-1.20.1.jar",
+        "sha512": "c60eb9e50b11a7567b1db7991383ee0147648f424812e967d93630eb07721fafdb16fe2674b22b95d326e79fde3a5acdcb836207bc071a93e3f02c2fb6169d6e"
+      },
+      "forge-2_1_5": {
+        "name": "megacells-forge-2.1.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/6VBb1I9D/megacells-forge-2.1.5-1.20.1.jar",
+        "sha512": "bffe236d13eb809a95071d1ad22c4c74071d78a600efea17c984b00ec806e7cb134ed6cc12ae21804039b8016a91a9f7200d735b86057f7ccb9d24d7b47be8bc"
+      },
+      "forge-2_1_4": {
+        "name": "megacells-forge-2.1.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/foyoqsLf/megacells-forge-2.1.4-1.20.1.jar",
+        "sha512": "72693f41d5e388f18f1f06e4af88e0d91f7929deec5a404c99002b551e236c671b473f6d6d6f5780e745f7e886b8fa753952263ff477de729971e6e8c64fd75d"
+      },
+      "forge-2_1_3": {
+        "name": "megacells-forge-2.1.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/n5p4WbEZ/megacells-forge-2.1.3-1.20.1.jar",
+        "sha512": "ae92f3407f29b235be7485182971c23c5f52483325de50cd57bd35c9ca0f8dd45770e8ada2ea0e324afdaea6614f76814787297228131efef0fd5221522b8c4a"
+      },
+      "forge-2_1_2": {
+        "name": "megacells-forge-2.1.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/FyAbI9tY/megacells-forge-2.1.2-1.20.1.jar",
+        "sha512": "c30e6c47af296371223cb9ffbd95f50d348bb82dba72323d391befd210122a608ea6cced3fd46d99a5ea83d6dcb8cd64698a45ed834d874f6c286debbd87b370"
+      },
+      "forge-2_1_1": {
+        "name": "megacells-forge-2.1.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/G3xZowzv/megacells-forge-2.1.1-1.20.1.jar",
+        "sha512": "050c9f292e1799f5088f6d7cb303de775d551520f26226ec001c40c0d1d6622da04ba3d77937903b7402e4f2b9cb7edef692f739da97c451241e0199e0a77e6c"
+      },
+      "forge-2_1_0": {
+        "name": "megacells-forge-2.1.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/TCvPjGfL/megacells-forge-2.1.0-1.20.1.jar",
+        "sha512": "97d217bd1c129cbe84a8d696c4ab4347af1f180346a0d617a0dff64cc71ebc242b4400960822be1f7514ff70b74026fa0564a1a73e8b77a8fd894088b8783e07"
+      },
+      "forge-2_1_0-beta_8": {
+        "name": "megacells-forge-2.1.0-beta.8-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/NDrnxHRc/megacells-forge-2.1.0-beta.8-1.20.1.jar",
+        "sha512": "b3d3cc71ed9cff886903a4cd74f4af5196d2f55827f5a94cf8948199f7b1d4146cb388544139b340e9cdffaf8b7da8d98a39cea3a050f97e1767ab49bb56aace"
+      },
+      "forge-2_1_0-beta_7": {
+        "name": "megacells-forge-2.1.0-beta.7-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/NIAPABXD/megacells-forge-2.1.0-beta.7-1.20.1.jar",
+        "sha512": "f772bfd16e79662cb8800d583232d6eac7c05d346f01892a5a9d6ea2db72928b9ef67575e77bc962736c6eac8e4b70cf159e386ef6da82103e1f54e1b275a6b7"
+      },
+      "forge-2_1_0-beta_6": {
+        "name": "megacells-forge-2.1.0-beta.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/ePyMz5ZW/megacells-forge-2.1.0-beta.6-1.20.1.jar",
+        "sha512": "1344cef306e21fe82ef80646ef25a61909c38b22d53698cc61beab5767ff7076c18988825b036f02c3e7072769dbfbc2038d7d065698aebb93a88de03f57693b"
+      },
+      "forge-2_1_0-beta_5": {
+        "name": "megacells-forge-2.1.0-beta.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/uO8Rvrdi/megacells-forge-2.1.0-beta.5-1.20.1.jar",
+        "sha512": "ce0253f4202927d2919bd0c486dbad27da80b470f15a1485bae053334b42e3f7564149bca8613822c05da4a83c6d7c6e99a5023f7774458f0ebbf959d75aa466"
+      },
+      "forge-2_1_0-beta_4": {
+        "name": "megacells-forge-2.1.0-beta.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/AW4GXp7Z/megacells-forge-2.1.0-beta.4-1.20.1.jar",
+        "sha512": "44f5521965506be123220ab524bc88f30d4272be916d6945b1202ec6e700eb1b60ade1409da1c432d01a0868775bc23e26676c5f286b9a431968e1c00d972570"
+      },
+      "forge-2_1_0-beta_3": {
+        "name": "megacells-forge-2.1.0-beta.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/Vy0DT5lf/megacells-forge-2.1.0-beta.3-1.20.1.jar",
+        "sha512": "52b50ba104e34bf67b81702178a70f9851299ab1e68c057571ea7164a52a0b105ffb29d628151882e00870135b8e3988f5ded9e4082534d1b902f69bc28377e3"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "megacells-forge-2.0.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/Y0MNa8O8/megacells-forge-2.0.4-1.19.2.jar",
+        "sha512": "76ed5df678060e71de89510da2d3a50e818238ffb63a9a776545915b5e66d79e30362ea3570838547af26a981ae3a76d3e7dd42dada8abe5e293865a2bd14337"
+      },
+      "forge-2_0_4": {
+        "name": "megacells-forge-2.0.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/Y0MNa8O8/megacells-forge-2.0.4-1.19.2.jar",
+        "sha512": "76ed5df678060e71de89510da2d3a50e818238ffb63a9a776545915b5e66d79e30362ea3570838547af26a981ae3a76d3e7dd42dada8abe5e293865a2bd14337"
+      },
+      "forge-2_0_1": {
+        "name": "megacells-forge-2.0.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/keZsbl1N/megacells-forge-2.0.1-1.19.2.jar",
+        "sha512": "041cd18527b16e9f3b7fc6fc67c4380c5726d7b5cdd7fe808326cdc55908c708e63ed4b666f5db854de12212d21b33ef78f4b53cfbcbd621ae0130132f898fda"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "MEGACells-1.4.2-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/8UdxXHjn/MEGACells-1.4.2-1.18.2.jar",
+        "sha512": "46898ac43424a5eb2f8faaaa8e9eb3811d2abdeb55907ef1d95ae204018aeac4e523619c2325bca1a656f7498378b9917847f2ad041c2dfcea9b4e8b9b0d0f34"
+      },
+      "1_4_2": {
+        "name": "MEGACells-1.4.2-1.18.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/8UdxXHjn/MEGACells-1.4.2-1.18.2.jar",
+        "sha512": "46898ac43424a5eb2f8faaaa8e9eb3811d2abdeb55907ef1d95ae204018aeac4e523619c2325bca1a656f7498378b9917847f2ad041c2dfcea9b4e8b9b0d0f34"
+      }
+    }
+  },
+  "fabric": {
+    "1_20_1": {
+      "latest": {
+        "name": "megacells-fabric-2.4.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/NINqmdmJ/megacells-fabric-2.4.6-1.20.1.jar",
+        "sha512": "1a3b63876be10bc8dc4c5fcbb7f9f782e1f7ce42f070cffd871ace519f9ad945b5cbc28aeb2d810cc8bb671d6fa5dc1dd0188edcb4d2cd00c32a03779402613b"
+      },
+      "fabric-2_4_6": {
+        "name": "megacells-fabric-2.4.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/NINqmdmJ/megacells-fabric-2.4.6-1.20.1.jar",
+        "sha512": "1a3b63876be10bc8dc4c5fcbb7f9f782e1f7ce42f070cffd871ace519f9ad945b5cbc28aeb2d810cc8bb671d6fa5dc1dd0188edcb4d2cd00c32a03779402613b"
+      },
+      "fabric-2_4_5": {
+        "name": "megacells-fabric-2.4.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/cV92t9un/megacells-fabric-2.4.5-1.20.1.jar",
+        "sha512": "7fffc34150a31eddb376bfd50747c9546362cd7ada52988da73fc058d322cec5ecde10599df3dd1e9fabaeb98b40fed8abefafc6cb8da5a9869025fc37ea2293"
+      },
+      "fabric-2_3_6": {
+        "name": "megacells-fabric-2.3.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/2HZO5szB/megacells-fabric-2.3.6-1.20.1.jar",
+        "sha512": "e2bf04870f0f5d2bb9636faccc41d07244defc4301caa944ff983dbdf96503dc774a08e8a306fb476c2333095a87900030ff498a828f4bce6c5ff2e23cbe2172"
+      },
+      "fabric-2_3_5": {
+        "name": "megacells-fabric-2.3.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/v7Kg0Zte/megacells-fabric-2.3.5-1.20.1.jar",
+        "sha512": "2d8d8913a106c0d111310695d06fa0aa30f7b60493d93bd2c03f68f798c6b059fde721f97a2504ff384bab30c8182e27a343d015f621b3dc7d249da9e01ac896"
+      },
+      "fabric-2_3_4": {
+        "name": "megacells-fabric-2.3.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/Lcm6sMnQ/megacells-fabric-2.3.4-1.20.1.jar",
+        "sha512": "11718d25236534fa1ccd5cbf445d6492b640be9870690b00883ba096b70c0e2230996faa09dcab29c3b489df88cdbf1a397aa053852391979e88c36430bd3190"
+      },
+      "fabric-2_3_3": {
+        "name": "megacells-fabric-2.3.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/TujoYhIC/megacells-fabric-2.3.3-1.20.1.jar",
+        "sha512": "c2b5a6dd324ca65f158de19ad1de7ea784b25d1cbf1c9d7d84f99e6d50f42451d7a4320018d5b192f8aab95618642d26bdf991b0dca53c73afdb46e519f4e3b9"
+      },
+      "fabric-2_3_2": {
+        "name": "megacells-fabric-2.3.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/wIpzUDYC/megacells-fabric-2.3.2-1.20.1.jar",
+        "sha512": "07391bce3e4995d5263108f52265dc0db9dfad3f666d7b942fce92e57ac460030017bc0a7fd8cd48cd784e7a398e664f52f758dcb1b401da2337e421d8472d9a"
+      },
+      "fabric-2_3_1": {
+        "name": "megacells-fabric-2.3.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/rtYqCajS/megacells-fabric-2.3.1-1.20.1.jar",
+        "sha512": "d72fa437c537d9dce03c7d5ef6ebd5faaa5e27f37512f1bd0831cdb6f691e395e42c0a1af252d1b5f734a55c15621cda064471a8947b16913f9645dab8e0159e"
+      },
+      "fabric-2_3_0": {
+        "name": "megacells-fabric-2.3.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/TWhQofcA/megacells-fabric-2.3.0-1.20.1.jar",
+        "sha512": "d161c903b9273f5a1ef0ac985af5119d5db3e0e091fccca58c9c38babb7b14275857e1ea3b2a4380941930319f9e52a0a6059d08832b53b2fd5aa8db7e1e106f"
+      },
+      "fabric-2_2_9": {
+        "name": "megacells-fabric-2.2.9-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/ppXpGJ6y/megacells-fabric-2.2.9-1.20.1.jar",
+        "sha512": "6ec69a9398e3972a739037e4089c3184e7922411ffbc29b406e9b35fce1359b9dd61bf5b12cfc925946f372e7bc973f61849245cf30a67e03ec6af94b02d6d58"
+      },
+      "fabric-2_2_8": {
+        "name": "megacells-fabric-2.2.8-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/RPPyhbnp/megacells-fabric-2.2.8-1.20.1.jar",
+        "sha512": "5ec0698a3b4178d8fc8f8d5b1397a75bd828b63e16733b0ef107686f4f644845246dfb76dc1b5f7edec6612c3d8c789a6b74596a1e8c264dd9d91a4a634759f5"
+      },
+      "fabric-2_2_7": {
+        "name": "megacells-fabric-2.2.7-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/TZXSxt5C/megacells-fabric-2.2.7-1.20.1.jar",
+        "sha512": "53172975e572e73f6c491a7579a6cd80d7f49c83953c32f2fe8d3acdc2183f4b51d3345aa9f6c02ddb660d7b36767c5f8a7b533f894996a753d1e96790c8f41c"
+      },
+      "fabric-2_2_6": {
+        "name": "megacells-fabric-2.2.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/hDMNNLrr/megacells-fabric-2.2.6-1.20.1.jar",
+        "sha512": "e775de29af591f1b5fe610c5821fb0fc1d72e407215c42aff754b709afa037e48b0352dd74cd6578dbc104d5a09d5dc1e14f72b517a12cdfa39d2eb351e99aed"
+      },
+      "fabric-2_2_5": {
+        "name": "megacells-fabric-2.2.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/jv0VOvc9/megacells-fabric-2.2.5-1.20.1.jar",
+        "sha512": "b8c3e380446125cfcceec04acd1b311e60241827c686c56bc319c969bc3119680a275c47fdaa9b3eda529977617b9bc9942c48d15f54095cf1bc2adfd7432962"
+      },
+      "fabric-2_2_4": {
+        "name": "megacells-fabric-2.2.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/4hnCwjKF/megacells-fabric-2.2.4-1.20.1.jar",
+        "sha512": "99777372a7dce90a0716897012e8854adffd0ada2fdc7bb098be1242c8bb0fbf69f0a1046fe33d12f311c296611528491eece37403ca530eba47e180e777af9d"
+      },
+      "fabric-2_2_2": {
+        "name": "megacells-fabric-2.2.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/ttdPOUhc/megacells-fabric-2.2.2-1.20.1.jar",
+        "sha512": "8b5b99dff6ba3b81de2d3de36f0bf7c47f67a784671aa3503112d5ee6a3452046ed8dcb2f832c757a0a5e40bce2253936548b342ff38e5938b61e0043313e1ce"
+      },
+      "fabric-2_2_0": {
+        "name": "megacells-fabric-2.2.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/VsvuHuwv/megacells-fabric-2.2.0-1.20.1.jar",
+        "sha512": "106d0c4cf391591ff7a9244ef5f53d81b1537a3f26d0cdfcace17e631a96682f9e82692778b87a6e3dfcfb893e82eeb2d1d7dce4b886c9ad560fa79c95d7e7dc"
+      },
+      "fabric-2_1_5": {
+        "name": "megacells-fabric-2.1.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/cZ83Tzas/megacells-fabric-2.1.5-1.20.1.jar",
+        "sha512": "52526f697ad86483e91a2a2b79ab4cb9a6f9f05fa16ba4d6706a9be57f64063ad7524f15419427d2688dd00700e5b6729b54f74d1fa7b52f88bf3ee2b9703d9c"
+      },
+      "fabric-2_1_4": {
+        "name": "megacells-fabric-2.1.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/a6btzrMx/megacells-fabric-2.1.4-1.20.1.jar",
+        "sha512": "9d13d68499be3568deca9674cbac45b15e1f1ca407d0259462c59667d6c371e10dbedb4635d55bd802ffdbc001c2542d5638c2d33b0346fc8ac07e7493c46bff"
+      },
+      "fabric-2_1_3": {
+        "name": "megacells-fabric-2.1.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/D6sgHMU4/megacells-fabric-2.1.3-1.20.1.jar",
+        "sha512": "8231ccfb3480c7e348bf924b03ae60da0b757e00782af751ba64a3b50ec67e5481a183adbb25c44fcd19253f01d04688f3e3c66142a899d7237955eb68413df7"
+      },
+      "fabric-2_1_2": {
+        "name": "megacells-fabric-2.1.2-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/4KLrrOM4/megacells-fabric-2.1.2-1.20.1.jar",
+        "sha512": "df0461af2e9305abc653efd74a93b32de0e3a31f48677d1928a8d22390c9a94fd7a2dcb4f2233386dd39ab38f7a891bb5bd58ba9b8e7e42f22466651fede56b5"
+      },
+      "fabric-2_1_1": {
+        "name": "megacells-fabric-2.1.1-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/BeP8sVNF/megacells-fabric-2.1.1-1.20.1.jar",
+        "sha512": "1ff2104e941646cd8d0e8fd32f61498dc03602fc174f92907b8cb66600da547b977e4d436ed7f5dda32932648178ba0db26f3e93e4ef62d7a5ea9e3c0c11612f"
+      },
+      "fabric-2_1_0": {
+        "name": "megacells-fabric-2.1.0-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/4tMnBmUO/megacells-fabric-2.1.0-1.20.1.jar",
+        "sha512": "e525eb0731923b50390eb3072d9572ff14b47feaa24704e54cfd8c9e7b653fdb3b34550b1611a4aa45de1cb0461072030a3b4a604efd46efb2b613a376aa651a"
+      },
+      "fabric-2_1_0-beta_8": {
+        "name": "megacells-fabric-2.1.0-beta.8-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/h2YrgvOV/megacells-fabric-2.1.0-beta.8-1.20.1.jar",
+        "sha512": "7c762ee719e5895c1340486fdfda0b6697d5a12b1e839ad56f7df4d4bca68490b145e138f4dcd94ed2fa0781e31e1f8753c9c83baebb33d8fd0d6d849a3206f8"
+      },
+      "fabric-2_1_0-beta_7": {
+        "name": "megacells-fabric-2.1.0-beta.7-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/xyHJvCPP/megacells-fabric-2.1.0-beta.7-1.20.1.jar",
+        "sha512": "a3fc16c1905c3f26123e4633e0aaa21540283c03f0dde24a802faf23d57500805c5c62d0cc657c236be81562934b77eb305ba8505edf98e18f0f8cbebaed11b6"
+      },
+      "fabric-2_1_0-beta_6": {
+        "name": "megacells-fabric-2.1.0-beta.6-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/w2VEOgug/megacells-fabric-2.1.0-beta.6-1.20.1.jar",
+        "sha512": "847ec93e9f89d28ee346087d1be96b3be579e4cfdb11e0cc72372da4b0b4099ffbcc99af68d754ab2b3c0e3f7a2fe749f8166ffcd445e67f2be51bce1f17c93f"
+      },
+      "fabric-2_1_0-beta_5": {
+        "name": "megacells-fabric-2.1.0-beta.5-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/lHG2XgmE/megacells-fabric-2.1.0-beta.5-1.20.1.jar",
+        "sha512": "089ea500b4f26adb00e27ed6ce78a0ecfcd15bda388c99676c2ad3fe94e7b8d01fe7ee97f9920a8eb86069617804007a53c2f9e6251f7a72b13b76c1a17752e3"
+      },
+      "fabric-2_1_0-beta_4": {
+        "name": "megacells-fabric-2.1.0-beta.4-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/IlizLTbm/megacells-fabric-2.1.0-beta.4-1.20.1.jar",
+        "sha512": "995a1038cfb69016518f990d2b8bdb10c0f5205d2d3657e28d5dc815e3d0324e3d6b5c59340822ccb8076994970c9c47bb2daa019556ffeb2582470401e5f776"
+      },
+      "fabric-2_1_0-beta_3": {
+        "name": "megacells-fabric-2.1.0-beta.3-1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/EtEHuWT5/megacells-fabric-2.1.0-beta.3-1.20.1.jar",
+        "sha512": "78da4cda498413ce23189a496cae520daf9fe66fab4fa0443b5939dd88adb7ae88ec88251faba1800336b85aac6a7a6c7b4cb0e18406d7f8c5cf235c52503bd3"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "megacells-fabric-2.0.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/awWtOjeB/megacells-fabric-2.0.4-1.19.2.jar",
+        "sha512": "bcc379a830320a47f1ae90d513b64abf47617687b4b44c5cce01340872f1f4debbdb05f8842414945b79a1cbc7b3cb79abdaa8b5090d11660097a906e13b3c1c"
+      },
+      "fabric-2_0_4": {
+        "name": "megacells-fabric-2.0.4-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/awWtOjeB/megacells-fabric-2.0.4-1.19.2.jar",
+        "sha512": "bcc379a830320a47f1ae90d513b64abf47617687b4b44c5cce01340872f1f4debbdb05f8842414945b79a1cbc7b3cb79abdaa8b5090d11660097a906e13b3c1c"
+      },
+      "fabric-2_0_2": {
+        "name": "megacells-fabric-2.0.2-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/yeeJQKxp/megacells-fabric-2.0.2-1.19.2.jar",
+        "sha512": "8f31d4258e197fa3b16698bd4fab4060dff7d393583762b97e8d634dc01d46e0cbb60bb9ab349360eff593382384cbba7a3312f96a7b5fbee82124f2e3d1422c"
+      },
+      "fabric-2_0_1": {
+        "name": "megacells-fabric-2.0.1-1.19.2.jar",
+        "url": "https://cdn.modrinth.com/data/jjuIRIVr/versions/DFIIGShY/megacells-fabric-2.0.1-1.19.2.jar",
+        "sha512": "09b82eaabd7842a870b85a4475bfb95878eb50498b9a08b4f72a85956483db675eaaa63cbf694d70090eb3714b92ef94a0e3a3a2e07e8e7ab5d94b531005e7e8"
+      }
+    }
+  }
+}
