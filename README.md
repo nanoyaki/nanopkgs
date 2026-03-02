@@ -20,7 +20,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `fireshare` -> `1.4.2-unstable-2026-02-19`
 - `flaresolverr` -> `3.4.6`
 - `jellyfin-web-with-plugins`
-- `lidarr` -> `3.1.2.4902`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-01-28`
 - `oldlibcosmicAppHook`
@@ -30,8 +29,8 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `prowlarr` -> `2.3.2.5245`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `6.0.0-dev.9-unstable-2026-02-28`
-- `shoko-webui` -> `2.5.3-dev.0-unstable-2026-02-20`
+- `shoko` -> `6.0.0-dev.19-unstable-2026-03-02`
+- `shoko-webui` -> `2.6.0-dev.3-unstable-2026-03-02`
 - `shokofin` -> `6.0.4-dev.3-unstable-2026-02-26`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2026-02-21`
@@ -39,4 +38,4 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `whisparr` -> `3.1.0.2116`
 - `wkeys` -> `0.1.2-unstable-2026-02-16`
 - `writeSystemdToggle`
-- `zigbee2mqtt` -> `2.8.0-unstable-2026-02-01`
+- `zigbee2mqtt` -> `2.9.1-unstable-2026-03-02`

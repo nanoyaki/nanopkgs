@@ -5,23 +5,23 @@ final: prev: {
   zigbee2mqtt = prev.zigbee2mqtt.overrideAttrs (
     finalAttrs: prevAttrs: {
       pname = "zigbee2mqtt";
-      version = "2.8.0-unstable-2026-02-01";
+      version = "2.9.1-unstable-2026-03-02";
 
       src = final.fetchgit {
         url = "https://github.com/Koenkk/zigbee2mqtt.git";
-        rev = "b0b02c30b2e58c94043298c14848c90a0f74a24a";
+        rev = "85875aee27caa005946bb5a446080461a0d2fc33";
         fetchSubmodules = false;
         deepClone = false;
         leaveDotGit = false;
         sparseCheckout = [ ];
-        sha256 = "sha256-O4jTVZ/9mvv6SKQ3Wrs8AcGvHoxuUjNwkHEaZkY9kBM=";
+        sha256 = "sha256-PsgQ1/h9YCQNV58PB7o3CQyfuOXzU878I9qIfozX02w=";
       };
 
       pnpmDeps = final.fetchPnpmDeps {
         inherit (finalAttrs) pname version src;
         pnpm = final.pnpm_9;
         fetcherVersion = 1;
-        hash = "sha256-USpzlTtNlRI+xOJ37ZEohjNjtSBrq+bIqTNFH1IpObE=";
+        hash = "sha256-MM184JsFVGqOALyQjCyR3QnHqHoQr39lnodq5v4cXAQ=";
       };
 
       passthru = prevAttrs.passthru // {
