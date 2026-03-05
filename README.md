@@ -23,13 +23,13 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-01-28`
 - `oldlibcosmicAppHook`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-03-03`
-- `osu-lazer-bin` -> `2026.226.0-tachyon`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-03-04`
+- `osu-lazer-bin` -> `2026.304.0-tachyon`
 - `prefetch`
 - `prowlarr` -> `2.3.2.5245`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `6.0.0-dev.19-unstable-2026-03-02`
+- `shoko` -> `6.0.0-dev.20-unstable-2026-03-04`
 - `shoko-webui` -> `2.6.0-dev.3-unstable-2026-03-02`
 - `shokofin` -> `6.0.4-dev.3-unstable-2026-02-26`
 - `startvrc`
