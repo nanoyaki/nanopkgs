@@ -2,9 +2,19 @@
   "neoforge": {
     "1_21_11": {
       "latest": {
-        "name": "GlitchCore-neoforge-1.21.11-21.11.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/birsYqab/GlitchCore-neoforge-1.21.11-21.11.0.2.jar",
-        "sha512": "e6a8d40185c4d8954350ef920f7cf13a968fa3e1a4536451fe0fc63b54533f456f3b9374c26de4ede10e98f1fdb04658cb83668a1185e52a80eaea134b2b251b"
+        "name": "GlitchCore-neoforge-1.21.11-21.11.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/6dbbrOrO/GlitchCore-neoforge-1.21.11-21.11.0.4.jar",
+        "sha512": "9e530e26f9c9cff99694b90f7ae6c60011e7dea1a695c176b4e24a8078dd1562cb053419f93f7e8ef2aaf55de3c927727701e808e55dff3d8fc8b928fd88213f"
+      },
+      "21_11_0_4": {
+        "name": "GlitchCore-neoforge-1.21.11-21.11.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/6dbbrOrO/GlitchCore-neoforge-1.21.11-21.11.0.4.jar",
+        "sha512": "9e530e26f9c9cff99694b90f7ae6c60011e7dea1a695c176b4e24a8078dd1562cb053419f93f7e8ef2aaf55de3c927727701e808e55dff3d8fc8b928fd88213f"
+      },
+      "21_11_0_3": {
+        "name": "GlitchCore-neoforge-1.21.11-21.11.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/7aA3iJLE/GlitchCore-neoforge-1.21.11-21.11.0.3.jar",
+        "sha512": "b2f086daf97cf8dc8c413b685df5fc839d7ba6244df1d3d1362dbc80bf7f5bdb9152e70890fffcbbd82fdde86721289571d59988a8ded0262727ea46637f16ec"
       },
       "21_11_0_2": {
         "name": "GlitchCore-neoforge-1.21.11-21.11.0.2.jar",
@@ -630,9 +640,19 @@
   "forge": {
     "1_21_11": {
       "latest": {
-        "name": "GlitchCore-forge-1.21.11-21.11.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/khp85wBL/GlitchCore-forge-1.21.11-21.11.0.2.jar",
-        "sha512": "c2a2e9e3d609925f4b0dc0bd95dd033f736268466fa1c6d3c5a6936e554822b28872effb575d609fa5b1ce8e7ed30b2e300f2ba1781201d204d4db5fc34e3bf6"
+        "name": "GlitchCore-forge-1.21.11-21.11.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pcH7akGo/GlitchCore-forge-1.21.11-21.11.0.4.jar",
+        "sha512": "476c8aa337cc4309d57a4fdd99950add65a497de4056cdb1c4d8a840ba486e7877827439da8a535def94cab67b3b6e1fd3f2d19b4abe3113ec8903ba9d8776cf"
+      },
+      "21_11_0_4": {
+        "name": "GlitchCore-forge-1.21.11-21.11.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pcH7akGo/GlitchCore-forge-1.21.11-21.11.0.4.jar",
+        "sha512": "476c8aa337cc4309d57a4fdd99950add65a497de4056cdb1c4d8a840ba486e7877827439da8a535def94cab67b3b6e1fd3f2d19b4abe3113ec8903ba9d8776cf"
+      },
+      "21_11_0_3": {
+        "name": "GlitchCore-forge-1.21.11-21.11.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/WWWu7fEz/GlitchCore-forge-1.21.11-21.11.0.3.jar",
+        "sha512": "d64a498a82297d1406cfc6a67dcef94f26899c9c73f2bb0bc4ac8c8f8c0f352bb94ca71f8ee24b1de96d6656582ebc43469653f79405a36c08e25b941461951b"
       },
       "21_11_0_2": {
         "name": "GlitchCore-forge-1.21.11-21.11.0.2.jar",
@@ -1297,9 +1317,19 @@
   "fabric": {
     "1_21_11": {
       "latest": {
-        "name": "GlitchCore-fabric-1.21.11-21.11.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pDCgiPQN/GlitchCore-fabric-1.21.11-21.11.0.2.jar",
-        "sha512": "4891e1ad9ef4da27e779e7b9fa45189038aa2d03603eff8924b11561e6262f245d339aa43b02528c194cd1b916c51726199f4ad9b5ae02a4c1902909e8a7a535"
+        "name": "GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/CO7NeLTt/GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+        "sha512": "b0ea73e94647e5038a0a21f23357226a8767379e93a81c16bbfd8f87dead3ddeb768fc13bd557e94bb8f5e9b5c7e494fdc4f05d504227ba70af0ea4e6dd51187"
+      },
+      "21_11_0_4": {
+        "name": "GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/CO7NeLTt/GlitchCore-fabric-1.21.11-21.11.0.4.jar",
+        "sha512": "b0ea73e94647e5038a0a21f23357226a8767379e93a81c16bbfd8f87dead3ddeb768fc13bd557e94bb8f5e9b5c7e494fdc4f05d504227ba70af0ea4e6dd51187"
+      },
+      "21_11_0_3": {
+        "name": "GlitchCore-fabric-1.21.11-21.11.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/4c5CRNpW/GlitchCore-fabric-1.21.11-21.11.0.3.jar",
+        "sha512": "696ace7bf7010161fb5cdde59446d18cc6fb324896c662b1ba7ac5a186c987931618756237fcc47c2bcf65d9532557cf0ffdb88292597fd1df062c80a9928845"
       },
       "21_11_0_2": {
         "name": "GlitchCore-fabric-1.21.11-21.11.0.2.jar",
