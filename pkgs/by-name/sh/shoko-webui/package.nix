@@ -15,16 +15,16 @@
 }:
 stdenvNoCC.mkDerivation (finalAttrs: {
   pname = "shoko-webui";
-  version = "2.6.0-dev.3-unstable-2026-03-02";
+  version = "2.6.0-dev.4-unstable-2026-03-07";
 
   src = fetchgit {
     url = "https://github.com/ShokoAnime/Shoko-Webui.git";
-    rev = "e462f333c684ceae1cf2a979ea1ebae7840734b1";
+    rev = "9802c4e732c40e7627b5131b714d0ef2a4b30fac";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-4lc/gM2MWvS70z47tenlYJFVxOvpqosOIWHHt8zFTHc=";
+    sha256 = "sha256-V8EdcTTiHfFPnx2Im9JX2BXMRWIG52RUZfKRF6slVKM=";
   };
 
   # Avoid requiring git as a build time dependency. It's used for version
