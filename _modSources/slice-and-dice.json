@@ -2,9 +2,19 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "sliceanddice-forge-4.2.2.jar",
-        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/DwseRoo3/sliceanddice-forge-4.2.2.jar",
-        "sha512": "6bc2bb30ae523b1b522e3fdd4bd6437e9f69074a4101b0d43bac3867b0e37ee60eb05cdaee55fea434444323f5c1fc4b3cab9bca0b6fda53b3685291b8b734ef"
+        "name": "sliceanddice-forge-4.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/tyVnEa75/sliceanddice-forge-4.2.4.jar",
+        "sha512": "3834893ba6614befba87e6be13481bedfa7bce1ba196e75a6e8335b4718be772481f7ef6bea10b22fbcf154b0147ea97536102ddcf70912e5843f547ee3f711d"
+      },
+      "4_2_4": {
+        "name": "sliceanddice-forge-4.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/tyVnEa75/sliceanddice-forge-4.2.4.jar",
+        "sha512": "3834893ba6614befba87e6be13481bedfa7bce1ba196e75a6e8335b4718be772481f7ef6bea10b22fbcf154b0147ea97536102ddcf70912e5843f547ee3f711d"
+      },
+      "4_2_3": {
+        "name": "sliceanddice-forge-4.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/ifiWEND8/sliceanddice-forge-4.2.3.jar",
+        "sha512": "3a67babd50f86d7eea839e10ade22fcf8a730993aca7c4846ff273f2e069c430a40f6d7ec425f0e215aa591dac0e36f384709751df2b53e83e26c1667911a83f"
       },
       "4_2_2": {
         "name": "sliceanddice-forge-4.2.2.jar",
@@ -309,9 +319,14 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "sliceanddice-fabric-3.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar",
-        "sha512": "0afb4988affe98b88122285f956d045f4e345aca25c16dd2c62b0d876f1ff21e0f613f2ab06399634ae32ed196ce888b6c7bb7df06c7e4b4a53713761a0fcc94"
+        "name": "sliceanddice-fabric-3.4.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/ANaMdnDG/sliceanddice-fabric-3.4.1-fabric.jar",
+        "sha512": "ad75908017c6ef4e5047d429e7c2231ad12b464d4192304c8ac68e9ca2585eebc25d16f64bdb931d5968511d2ce6b8a68447270d6280d0d0a4bd066b9facecd0"
+      },
+      "3_4_1": {
+        "name": "sliceanddice-fabric-3.4.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/ANaMdnDG/sliceanddice-fabric-3.4.1-fabric.jar",
+        "sha512": "ad75908017c6ef4e5047d429e7c2231ad12b464d4192304c8ac68e9ca2585eebc25d16f64bdb931d5968511d2ce6b8a68447270d6280d0d0a4bd066b9facecd0"
       },
       "3_3_1": {
         "name": "sliceanddice-fabric-3.3.1.jar",
