@@ -21,10 +21,8 @@ proton-ge-bin.overrideAttrs (
     };
 
     preFixup = ''
-      substituteInPlace $steamcompattool/compatibilitytool.vdf \
-        --replace-fail \
-          '"display_name" "dwproton-${finalAttrs.version}-x86_64"' \
-          '"display_name" "${steamDisplayName}"'
+      sed -iE 's/"display_name" "dwproton-[^"]*-x86_64"/"display_name" "${steamDisplayName}"/' \
+        $steamcompattool/compatibilitytool.vdf
     '';
 
     passthru.updateScript = writeScript "update-dwproton" ''
