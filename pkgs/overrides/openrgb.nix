@@ -4,13 +4,13 @@
 final: prev: {
   openrgb = prev.openrgb.overrideAttrs (prevAttrs: {
     pname = "openrgb";
-    version = "release_candidate_1.0rc2-unstable-2026-03-09";
+    version = "release_candidate_1.0rc2-unstable-2026-03-10";
 
     src = final.fetchFromGitLab {
       owner = "CalcProgrammer1";
       repo = "OpenRGB";
-      rev = "5d7565bc5995a2479141487a95725089314ded61";
-      hash = "sha256-ENbfRxtLSl3PymEq2eUScOiVnaT89SWT02unURCeyO8=";
+      rev = "dfad607697567a632f929ef00a592871d51be96b";
+      hash = "sha256-gaThBFioRSj/d7pOexCvufkMoXUA868NFOccGRMDW40=";
     };
 
     patches = [ ];
