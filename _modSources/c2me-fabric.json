@@ -123,6 +123,23 @@
         "sha512": "48bfd47d2a40bcc39ae2c4c4a3e9504bf42361a8688921c81c84d50239d17ec9d504f14cc89edd2dfa511ed45d63abd5c85374520d2265b45af8a77b14382b4e"
       }
     },
+    "26_1-pre-2": {
+      "latest": {
+        "name": "c2me-fabric-mc26.1-pre-2-0.3.7+alpha.0.51.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/fL3OLrpW/c2me-fabric-mc26.1-pre-2-0.3.7%2Balpha.0.51.jar",
+        "sha512": "8e470793df50dfe6da6951a0f8cd8b299f22e35c62ea63171ae90b7cfd7337eb7e97cdb9e98be27dea620a4386605e44d150d591cd4333d35e6972e1e03f39be"
+      },
+      "0_3_7+alpha_0_51": {
+        "name": "c2me-fabric-mc26.1-pre-2-0.3.7+alpha.0.51.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/fL3OLrpW/c2me-fabric-mc26.1-pre-2-0.3.7%2Balpha.0.51.jar",
+        "sha512": "8e470793df50dfe6da6951a0f8cd8b299f22e35c62ea63171ae90b7cfd7337eb7e97cdb9e98be27dea620a4386605e44d150d591cd4333d35e6972e1e03f39be"
+      },
+      "0_3_7+alpha_0_50+26_1-pre-1": {
+        "name": "c2me-fabric-mc26.1-pre-1-0.3.7+alpha.0.50.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Z1cK3mHE/c2me-fabric-mc26.1-pre-1-0.3.7%2Balpha.0.50.jar",
+        "sha512": "a9c50f4fcd17f2ab8ca038a06871942e9eebb0321eff387232fd7b2245a92517f819c025922c92dfc09fb09cf0b34a711ecf25f4c22232e82666d25827b0eef6"
+      }
+    },
     "26_1-snapshot-2": {
       "latest": {
         "name": "c2me-fabric-mc26.1-snapshot-2-0.3.7+alpha.0.30.jar",
@@ -137,9 +154,14 @@
     },
     "26_1-pre-1": {
       "latest": {
-        "name": "c2me-fabric-mc26.1-pre-1-0.3.7+alpha.0.49.jar",
-        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/ehn4EmRU/c2me-fabric-mc26.1-pre-1-0.3.7%2Balpha.0.49.jar",
-        "sha512": "ca3c62252dd39086538e2f6bb1513f3fad1a97adc147abbf29011e7845a3f062804a43ffc53c2bc16f853134be05323256acbd5f7e3cfe7842e527d09085ba32"
+        "name": "c2me-fabric-mc26.1-pre-1-0.3.7+alpha.0.50.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Z1cK3mHE/c2me-fabric-mc26.1-pre-1-0.3.7%2Balpha.0.50.jar",
+        "sha512": "a9c50f4fcd17f2ab8ca038a06871942e9eebb0321eff387232fd7b2245a92517f819c025922c92dfc09fb09cf0b34a711ecf25f4c22232e82666d25827b0eef6"
+      },
+      "0_3_7+alpha_0_50": {
+        "name": "c2me-fabric-mc26.1-pre-1-0.3.7+alpha.0.50.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/Z1cK3mHE/c2me-fabric-mc26.1-pre-1-0.3.7%2Balpha.0.50.jar",
+        "sha512": "a9c50f4fcd17f2ab8ca038a06871942e9eebb0321eff387232fd7b2245a92517f819c025922c92dfc09fb09cf0b34a711ecf25f4c22232e82666d25827b0eef6"
       },
       "0_3_7+alpha_0_49": {
         "name": "c2me-fabric-mc26.1-pre-1-0.3.7+alpha.0.49.jar",

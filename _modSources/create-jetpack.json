@@ -379,9 +379,19 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "create_jetpack-fabric-4.4.0.jar",
-        "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/pHKVjCST/create_jetpack-fabric-4.4.0.jar",
-        "sha512": "a9ef2637d7585362398c5676f31646cc7ddd3a72687be02c1ff4652a754f994bbeeb9ea63a41106a6d05bcc483f21c3943c8cc92094439df4c52b53ac93d76c6"
+        "name": "create_jetpack-fabric-4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/DEajn0Rs/create_jetpack-fabric-4.4.2.jar",
+        "sha512": "7dcb0445769ad7c21cf5538b20e0bac2c82c7cc217763466474edec5c4ebbf4e8739ba4345d1cc193e176b6abada95abc1492d50c646bd8f714e31da059dd0ec"
+      },
+      "4_4_2": {
+        "name": "create_jetpack-fabric-4.4.2.jar",
+        "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/DEajn0Rs/create_jetpack-fabric-4.4.2.jar",
+        "sha512": "7dcb0445769ad7c21cf5538b20e0bac2c82c7cc217763466474edec5c4ebbf4e8739ba4345d1cc193e176b6abada95abc1492d50c646bd8f714e31da059dd0ec"
+      },
+      "4_4_1": {
+        "name": "create_jetpack-fabric-4.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/UbFnAd4l/versions/p37Vsx1L/create_jetpack-fabric-4.4.1.jar",
+        "sha512": "ee43feeb4b0f5a13bf249a4a6b2ce223d89ac359045d18916107b44342b2abd519244c37623a9f30a20110a2f14a991035bf6c3a66fdcced62ecefa59590ab1d"
       },
       "4_4_0": {
         "name": "create_jetpack-fabric-4.4.0.jar",

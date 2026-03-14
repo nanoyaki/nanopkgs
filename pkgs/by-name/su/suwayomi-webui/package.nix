@@ -7,47 +7,44 @@
   fetchgit,
   fetchYarnDeps,
   yarnConfigHook,
-  nodejs_22,
+  nodejs_24,
   husky,
   tsx,
   _experimental-update-script-combinators,
   nix-update-script,
-
-  nodejs ? nodejs_22,
 }:
 
 stdenvNoCC.mkDerivation (finalAttrs: {
   pname = "suwayomi-webui";
-  version = "20251230.01-unstable-2026-03-09";
+  version = "20251230.01-unstable-2026-03-14";
   revision = "3030";
 
   src = fetchgit {
     url = "https://github.com/Suwayomi/Suwayomi-WebUI.git";
-    rev = "1f323baff4f952b62ebdbebf15810f14b8ae20b1";
+    rev = "80829febb25aa22e843eb71ed870a5083a737732";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-1ZmcsEB5LGx1GLQOFxFrxXoK0vFgE98X5j683/EZtC8=";
+    sha256 = "sha256-NT94g3QTzJlTass+O6aYTB3y5ysw6ppF4PgCfcyUxvM=";
   };
 
   yarnOfflineCache = fetchYarnDeps {
     yarnLock = "${finalAttrs.src}/yarn.lock";
-    hash = "sha256-1doqeIhSrwQiro7VJ1gUDu30z4La+E9v4Vd4uRWuJcE=";
+    hash = "sha256-+DJafHu5O2wwn86HcFUU4R4jsAyVnkhzY7Hqq0EZUfg=";
   };
 
   nativeBuildInputs = [
     yarnConfigHook
 
-    nodejs
+    nodejs_24
     husky
     tsx
   ];
 
   postPatch = ''
     substituteInPlace package.json \
-      --replace-fail "project" "suwayomi-webui" \
-      --replace-fail "22.12.0" "${nodejs.version}"
+      --replace-fail "project" "suwayomi-webui"
   '';
 
   buildPhase = ''
@@ -95,7 +92,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     downloadPage = "https://github.com/Suwayomi/Suwayomi-WebUI/releases/";
     changelog = "https://github.com/Suwayomi/Suwayomi-WebUI/releases/tag/v${finalAttrs.version}";
     license = lib.licenses.mpl20;
-    inherit (nodejs_22.meta) platforms;
+    inherit (nodejs_24.meta) platforms;
     maintainers = with lib.maintainers; [
       ratcornu
       nanoyaki

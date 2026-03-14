@@ -21,16 +21,16 @@
 
 python312Packages.buildPythonApplication rec {
   pname = "fireshare";
-  version = "1.4.2-unstable-2026-02-19";
+  version = "1.5.0-unstable-2026-03-13";
 
   src = fetchgit {
     url = "https://github.com/ShaneIsrael/fireshare.git";
-    rev = "72bde7c89d177ff125ab38bcd213989b25512713";
+    rev = "5e1422dae104e960d89202ec8d1def35bd3ed8a1";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-CdJws+E+j8ZbLhQgHhWGsoY9RqeEW7BX7BeX+Im8kd4=";
+    sha256 = "sha256-DDnCslkMzo25TtlFb9kLng6KAgsSiJZMGMsYpSpqQfI=";
   };
 
   pyproject = true;
@@ -52,7 +52,7 @@ python312Packages.buildPythonApplication rec {
       name = "${pname}-${version}-npm-deps";
       inherit src;
       sourceRoot = "${src.name}/app/client";
-      hash = "sha256-BBG2ckUgnU6GXxWu1LrZAjbMJua71FeDjGzGyBGVEx8=";
+      hash = "sha256-lKdXyVCA3LtxBEIJB4XTwZdLVtbx5AEQ8Dp8mkvxg1A=";
     };
 
     buildPhase = ''
