@@ -319,9 +319,19 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "sliceanddice-fabric-3.4.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/ANaMdnDG/sliceanddice-fabric-3.4.1-fabric.jar",
-        "sha512": "ad75908017c6ef4e5047d429e7c2231ad12b464d4192304c8ac68e9ca2585eebc25d16f64bdb931d5968511d2ce6b8a68447270d6280d0d0a4bd066b9facecd0"
+        "name": "sliceanddice-fabric-3.5.1.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/aCgj5ey0/sliceanddice-fabric-3.5.1.jar",
+        "sha512": "f42edd26d739caff452eeaa39ced431568b4f03815934a783101124c481bee5cced66767bd2bbfa3e48d9f3eef82dbe494ee0bac85b7f23e80388fae1ed5755b"
+      },
+      "3_5_1": {
+        "name": "sliceanddice-fabric-3.5.1.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/aCgj5ey0/sliceanddice-fabric-3.5.1.jar",
+        "sha512": "f42edd26d739caff452eeaa39ced431568b4f03815934a783101124c481bee5cced66767bd2bbfa3e48d9f3eef82dbe494ee0bac85b7f23e80388fae1ed5755b"
+      },
+      "3_5_0": {
+        "name": "sliceanddice-fabric-3.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/Xo9cblAc/sliceanddice-fabric-3.5.0.jar",
+        "sha512": "a22c276d021f6d6afe52e985b31366def10ef26fb735f57d81026ec4e5a270e011f831c6cec68634a3ad42d6fed3052f757bfb16bf300727d36de680b90cdfe2"
       },
       "3_4_1": {
         "name": "sliceanddice-fabric-3.4.1-fabric.jar",
