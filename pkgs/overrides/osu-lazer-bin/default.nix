@@ -10,11 +10,11 @@ final: prev: {
           prevAttrs
           // rec {
             pname = "osu-lazer-bin";
-            version = "2026.307.0-tachyon";
+            version = "2026.311.0-tachyon";
 
             src = final.fetchurl {
               url = "https://github.com/ppy/osu/releases/download/${version}/osu.AppImage";
-              sha256 = "sha256-LUB4LKpaYDXVXUb94UIJoY271JQO6uZdqVAnWsINPCM=";
+              sha256 = "sha256-oNpUo7e14B6vDGiO6T8HWVwDj7xFZqATv2U6EuVTfWc=";
             };
 
             passthru.updateScript = final._experimental-update-script-combinators.sequence [
