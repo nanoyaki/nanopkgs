@@ -7,13 +7,11 @@
   fetchgit,
   fetchYarnDeps,
   yarnConfigHook,
-  nodejs_22,
+  nodejs_24,
   husky,
   tsx,
   _experimental-update-script-combinators,
   nix-update-script,
-
-  nodejs ? nodejs_22,
 }:
 
 stdenvNoCC.mkDerivation (finalAttrs: {
@@ -39,15 +37,14 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   nativeBuildInputs = [
     yarnConfigHook
 
-    nodejs
+    nodejs_24
     husky
     tsx
   ];
 
   postPatch = ''
     substituteInPlace package.json \
-      --replace-fail "project" "suwayomi-webui" \
-      --replace-fail "22.12.0" "${nodejs.version}"
+      --replace-fail "project" "suwayomi-webui"
   '';
 
   buildPhase = ''
@@ -95,7 +92,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     downloadPage = "https://github.com/Suwayomi/Suwayomi-WebUI/releases/";
     changelog = "https://github.com/Suwayomi/Suwayomi-WebUI/releases/tag/v${finalAttrs.version}";
     license = lib.licenses.mpl20;
-    inherit (nodejs_22.meta) platforms;
+    inherit (nodejs_24.meta) platforms;
     maintainers = with lib.maintainers; [
       ratcornu
       nanoyaki
