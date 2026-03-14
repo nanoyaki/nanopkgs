@@ -1,0 +1,752 @@
+{
+  "neoforge": {
+    "1_21_11": {
+      "latest": {
+        "name": "papi-1.21.11-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/IodD20eL/papi-1.21.11-neoforge-1.0.1.jar",
+        "sha512": "3c44497b7ddc1e268454e30d9e38b58c2c36685e023b02125e277df502d25822ca0867f1eeb09b35c59fd11764484028a01b10cb111f1e454e96bd30351091b4"
+      },
+      "1_21_111_0_1": {
+        "name": "papi-1.21.11-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/IodD20eL/papi-1.21.11-neoforge-1.0.1.jar",
+        "sha512": "3c44497b7ddc1e268454e30d9e38b58c2c36685e023b02125e277df502d25822ca0867f1eeb09b35c59fd11764484028a01b10cb111f1e454e96bd30351091b4"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_10": {
+      "latest": {
+        "name": "papi-1.21.10-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/GXdJuoN3/papi-1.21.10-neoforge-1.0.1.jar",
+        "sha512": "ab0dd801a24f7e9cdb30f2d423fcbf34aff71ca760fd785521af24b2815e59128575b804df35c7bf3a683c253a91c83156e217981a6968d5799ee1e3edb853d2"
+      },
+      "1_21_101_0_1": {
+        "name": "papi-1.21.10-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/GXdJuoN3/papi-1.21.10-neoforge-1.0.1.jar",
+        "sha512": "ab0dd801a24f7e9cdb30f2d423fcbf34aff71ca760fd785521af24b2815e59128575b804df35c7bf3a683c253a91c83156e217981a6968d5799ee1e3edb853d2"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "papi-1.21.8-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/in2XsXcy/papi-1.21.8-neoforge-1.0.1.jar",
+        "sha512": "5310df6a9c6b089c031d4753b3d18939f8b9821572d4bd31cde1f333b19454972812fa6f3b67f6dcb1ec3fa599e78f2212a50b53f7b0f138591385b7a418bd60"
+      },
+      "1_21_81_0_1": {
+        "name": "papi-1.21.8-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/in2XsXcy/papi-1.21.8-neoforge-1.0.1.jar",
+        "sha512": "5310df6a9c6b089c031d4753b3d18939f8b9821572d4bd31cde1f333b19454972812fa6f3b67f6dcb1ec3fa599e78f2212a50b53f7b0f138591385b7a418bd60"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "papi-1.21.8-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/in2XsXcy/papi-1.21.8-neoforge-1.0.1.jar",
+        "sha512": "5310df6a9c6b089c031d4753b3d18939f8b9821572d4bd31cde1f333b19454972812fa6f3b67f6dcb1ec3fa599e78f2212a50b53f7b0f138591385b7a418bd60"
+      },
+      "1_21_81_0_1": {
+        "name": "papi-1.21.8-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/in2XsXcy/papi-1.21.8-neoforge-1.0.1.jar",
+        "sha512": "5310df6a9c6b089c031d4753b3d18939f8b9821572d4bd31cde1f333b19454972812fa6f3b67f6dcb1ec3fa599e78f2212a50b53f7b0f138591385b7a418bd60"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "papi-1.21.8-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/in2XsXcy/papi-1.21.8-neoforge-1.0.1.jar",
+        "sha512": "5310df6a9c6b089c031d4753b3d18939f8b9821572d4bd31cde1f333b19454972812fa6f3b67f6dcb1ec3fa599e78f2212a50b53f7b0f138591385b7a418bd60"
+      },
+      "1_21_81_0_1": {
+        "name": "papi-1.21.8-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/in2XsXcy/papi-1.21.8-neoforge-1.0.1.jar",
+        "sha512": "5310df6a9c6b089c031d4753b3d18939f8b9821572d4bd31cde1f333b19454972812fa6f3b67f6dcb1ec3fa599e78f2212a50b53f7b0f138591385b7a418bd60"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_41_0_1": {
+        "name": "papi-1.21.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/BjjgqTAs/papi-1.21.4-neoforge-1.0.1.jar",
+        "sha512": "da755439cd85962e27085855680af371eb7074a06325783c6bc62a1e9dc65ddc5b2fec45dedb51059e0e5b87c175280433a78ce953db6cc0c487ee45f7bf0cd4"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "papi-1.21-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/oxMtlM02/papi-1.21-neoforge-1.0.1.jar",
+        "sha512": "1a45617807fd8c550b47c61011b5f0f5f6270f6695aba2d0ac370ec170191409b8592b4de3550a3f6243f11e7d90297a2f109567918958197bb7a4658b29ec54"
+      },
+      "1_211_0_1": {
+        "name": "papi-1.21-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/oxMtlM02/papi-1.21-neoforge-1.0.1.jar",
+        "sha512": "1a45617807fd8c550b47c61011b5f0f5f6270f6695aba2d0ac370ec170191409b8592b4de3550a3f6243f11e7d90297a2f109567918958197bb7a4658b29ec54"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/9Z892gYr/papi-1.21.1-neoforge-1.0.1.jar",
+        "sha512": "cd0715a0f179296ee8b21478b1b6293a4df9815df2e710dc9623a48175f2502ab71878dd6fa3f350b0653f5effe4fabff463d97f8b153a359f736d9efee976ac"
+      }
+    },
+    "1_21": {
+      "latest": {
+        "name": "papi-1.21-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/oxMtlM02/papi-1.21-neoforge-1.0.1.jar",
+        "sha512": "1a45617807fd8c550b47c61011b5f0f5f6270f6695aba2d0ac370ec170191409b8592b4de3550a3f6243f11e7d90297a2f109567918958197bb7a4658b29ec54"
+      },
+      "1_211_0_1": {
+        "name": "papi-1.21-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/oxMtlM02/papi-1.21-neoforge-1.0.1.jar",
+        "sha512": "1a45617807fd8c550b47c61011b5f0f5f6270f6695aba2d0ac370ec170191409b8592b4de3550a3f6243f11e7d90297a2f109567918958197bb7a4658b29ec54"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "papi-1.20.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/xpIMqzWn/papi-1.20.4-neoforge-1.0.1.jar",
+        "sha512": "cd82d4c7f4ba61249e08c408eb91fd60b76d0a711976571a58a915624fe219617928d8c1b1dbe50ef7ceb95667d59346733120e6799b84c732a60f376585aa39"
+      },
+      "1_20_41_0_1": {
+        "name": "papi-1.20.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/xpIMqzWn/papi-1.20.4-neoforge-1.0.1.jar",
+        "sha512": "cd82d4c7f4ba61249e08c408eb91fd60b76d0a711976571a58a915624fe219617928d8c1b1dbe50ef7ceb95667d59346733120e6799b84c732a60f376585aa39"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "papi-1.20.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/xpIMqzWn/papi-1.20.4-neoforge-1.0.1.jar",
+        "sha512": "cd82d4c7f4ba61249e08c408eb91fd60b76d0a711976571a58a915624fe219617928d8c1b1dbe50ef7ceb95667d59346733120e6799b84c732a60f376585aa39"
+      },
+      "1_20_41_0_1": {
+        "name": "papi-1.20.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/xpIMqzWn/papi-1.20.4-neoforge-1.0.1.jar",
+        "sha512": "cd82d4c7f4ba61249e08c408eb91fd60b76d0a711976571a58a915624fe219617928d8c1b1dbe50ef7ceb95667d59346733120e6799b84c732a60f376585aa39"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "papi-1.20.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/xpIMqzWn/papi-1.20.4-neoforge-1.0.1.jar",
+        "sha512": "cd82d4c7f4ba61249e08c408eb91fd60b76d0a711976571a58a915624fe219617928d8c1b1dbe50ef7ceb95667d59346733120e6799b84c732a60f376585aa39"
+      },
+      "1_20_41_0_1": {
+        "name": "papi-1.20.4-neoforge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/xpIMqzWn/papi-1.20.4-neoforge-1.0.1.jar",
+        "sha512": "cd82d4c7f4ba61249e08c408eb91fd60b76d0a711976571a58a915624fe219617928d8c1b1dbe50ef7ceb95667d59346733120e6799b84c732a60f376585aa39"
+      }
+    }
+  },
+  "forge": {
+    "1_20_6": {
+      "latest": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_0": {
+        "name": "papi-1.20.1-forge-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/hggKqq86/papi-1.20.1-forge-1.1.0.jar",
+        "sha512": "1d0193026f2b73ab4b2ea910da09352b41478d46765a931a7287d56529f7926ebde6218a3ce9aa063c842618d7657749c75a794f7e5f260100d8e1f94f051bec"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/Xrz5hb9m/papi-1.20.1-forge-1.0.1.jar",
+        "sha512": "f9906f1ecdf59905ce552b51dcf0e371f9bf71979f896be8a5fda2c8f6c54277e52839ef3008be8a64577a0dd6bd5e155804a1c23b90e5f1d94ee1bca6e891ac"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_0": {
+        "name": "papi-1.20.1-forge-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/hggKqq86/papi-1.20.1-forge-1.1.0.jar",
+        "sha512": "1d0193026f2b73ab4b2ea910da09352b41478d46765a931a7287d56529f7926ebde6218a3ce9aa063c842618d7657749c75a794f7e5f260100d8e1f94f051bec"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/Xrz5hb9m/papi-1.20.1-forge-1.0.1.jar",
+        "sha512": "f9906f1ecdf59905ce552b51dcf0e371f9bf71979f896be8a5fda2c8f6c54277e52839ef3008be8a64577a0dd6bd5e155804a1c23b90e5f1d94ee1bca6e891ac"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_0": {
+        "name": "papi-1.20.1-forge-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/hggKqq86/papi-1.20.1-forge-1.1.0.jar",
+        "sha512": "1d0193026f2b73ab4b2ea910da09352b41478d46765a931a7287d56529f7926ebde6218a3ce9aa063c842618d7657749c75a794f7e5f260100d8e1f94f051bec"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/Xrz5hb9m/papi-1.20.1-forge-1.0.1.jar",
+        "sha512": "f9906f1ecdf59905ce552b51dcf0e371f9bf71979f896be8a5fda2c8f6c54277e52839ef3008be8a64577a0dd6bd5e155804a1c23b90e5f1d94ee1bca6e891ac"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_0": {
+        "name": "papi-1.20.1-forge-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/hggKqq86/papi-1.20.1-forge-1.1.0.jar",
+        "sha512": "1d0193026f2b73ab4b2ea910da09352b41478d46765a931a7287d56529f7926ebde6218a3ce9aa063c842618d7657749c75a794f7e5f260100d8e1f94f051bec"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/Xrz5hb9m/papi-1.20.1-forge-1.0.1.jar",
+        "sha512": "f9906f1ecdf59905ce552b51dcf0e371f9bf71979f896be8a5fda2c8f6c54277e52839ef3008be8a64577a0dd6bd5e155804a1c23b90e5f1d94ee1bca6e891ac"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_0": {
+        "name": "papi-1.20.1-forge-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/hggKqq86/papi-1.20.1-forge-1.1.0.jar",
+        "sha512": "1d0193026f2b73ab4b2ea910da09352b41478d46765a931a7287d56529f7926ebde6218a3ce9aa063c842618d7657749c75a794f7e5f260100d8e1f94f051bec"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/Xrz5hb9m/papi-1.20.1-forge-1.0.1.jar",
+        "sha512": "f9906f1ecdf59905ce552b51dcf0e371f9bf71979f896be8a5fda2c8f6c54277e52839ef3008be8a64577a0dd6bd5e155804a1c23b90e5f1d94ee1bca6e891ac"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-forge-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/vxuRmAcB/papi-1.20.1-forge-1.1.1.jar",
+        "sha512": "341b6c336fac14b9464b76815ce7318cb4d0e27c47c29038646164ffb8e4c9428c6762119838bddc1f41a84487e1fee8f485f47393a40a17366d867d55e22a61"
+      },
+      "1_20_11_1_0": {
+        "name": "papi-1.20.1-forge-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/hggKqq86/papi-1.20.1-forge-1.1.0.jar",
+        "sha512": "1d0193026f2b73ab4b2ea910da09352b41478d46765a931a7287d56529f7926ebde6218a3ce9aa063c842618d7657749c75a794f7e5f260100d8e1f94f051bec"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/Xrz5hb9m/papi-1.20.1-forge-1.0.1.jar",
+        "sha512": "f9906f1ecdf59905ce552b51dcf0e371f9bf71979f896be8a5fda2c8f6c54277e52839ef3008be8a64577a0dd6bd5e155804a1c23b90e5f1d94ee1bca6e891ac"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "papi-1.19.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/rU2upb1G/papi-1.19.2-forge-1.0.1.jar",
+        "sha512": "db4872e8a9567f116e72980bbf3b30aad54a7eaadcebe863dc45b077f0edb0c26b9faacb71212309b19db1d6737cc67fc66bb11ba5f87e737fd899d83694e587"
+      },
+      "1_19_21_0_1": {
+        "name": "papi-1.19.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/rU2upb1G/papi-1.19.2-forge-1.0.1.jar",
+        "sha512": "db4872e8a9567f116e72980bbf3b30aad54a7eaadcebe863dc45b077f0edb0c26b9faacb71212309b19db1d6737cc67fc66bb11ba5f87e737fd899d83694e587"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "papi-1.19.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/rU2upb1G/papi-1.19.2-forge-1.0.1.jar",
+        "sha512": "db4872e8a9567f116e72980bbf3b30aad54a7eaadcebe863dc45b077f0edb0c26b9faacb71212309b19db1d6737cc67fc66bb11ba5f87e737fd899d83694e587"
+      },
+      "1_19_21_0_1": {
+        "name": "papi-1.19.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/rU2upb1G/papi-1.19.2-forge-1.0.1.jar",
+        "sha512": "db4872e8a9567f116e72980bbf3b30aad54a7eaadcebe863dc45b077f0edb0c26b9faacb71212309b19db1d6737cc67fc66bb11ba5f87e737fd899d83694e587"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "papi-1.19.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/rU2upb1G/papi-1.19.2-forge-1.0.1.jar",
+        "sha512": "db4872e8a9567f116e72980bbf3b30aad54a7eaadcebe863dc45b077f0edb0c26b9faacb71212309b19db1d6737cc67fc66bb11ba5f87e737fd899d83694e587"
+      },
+      "1_19_21_0_1": {
+        "name": "papi-1.19.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/rU2upb1G/papi-1.19.2-forge-1.0.1.jar",
+        "sha512": "db4872e8a9567f116e72980bbf3b30aad54a7eaadcebe863dc45b077f0edb0c26b9faacb71212309b19db1d6737cc67fc66bb11ba5f87e737fd899d83694e587"
+      }
+    },
+    "1_19_1": {
+      "latest": {
+        "name": "papi-1.19.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/1yaogkK6/papi-1.19.1-forge-1.0.1.jar",
+        "sha512": "012b303d6f7eb0b38e42cedfd0929c1dd142419353609dd8dc9b3676399787ebe9f6cfa5ed6bd8ae39fff00fd345d8ddc527a7ff997812a8afcbc82f6b621d6b"
+      },
+      "1_19_11_0_1": {
+        "name": "papi-1.19.1-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/1yaogkK6/papi-1.19.1-forge-1.0.1.jar",
+        "sha512": "012b303d6f7eb0b38e42cedfd0929c1dd142419353609dd8dc9b3676399787ebe9f6cfa5ed6bd8ae39fff00fd345d8ddc527a7ff997812a8afcbc82f6b621d6b"
+      }
+    },
+    "1_19": {
+      "latest": {
+        "name": "papi-1.19-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/AJgnY02e/papi-1.19-forge-1.0.1.jar",
+        "sha512": "68840f7870c8bf87a0e6d0c75793ff29414f3d56663f6e3480ffce2b98d9c36cd640bacb8099181fb9def6a91a313ca5c808c63d3baa7f0b4f5ff4673a537df0"
+      },
+      "1_191_0_1": {
+        "name": "papi-1.19-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/AJgnY02e/papi-1.19-forge-1.0.1.jar",
+        "sha512": "68840f7870c8bf87a0e6d0c75793ff29414f3d56663f6e3480ffce2b98d9c36cd640bacb8099181fb9def6a91a313ca5c808c63d3baa7f0b4f5ff4673a537df0"
+      }
+    },
+    "1_18_2": {
+      "latest": {
+        "name": "papi-1.18.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QJ0Q2uBC/papi-1.18.2-forge-1.0.1.jar",
+        "sha512": "23833cf0fe9a4a522f1ed33938a8a4796213e3387def30cfe8a0d09d01f10b27de944373a95969ae4cc624b27f12dacc347654d1f41747ef1bf0587096a90a22"
+      },
+      "1_18_21_0_1": {
+        "name": "papi-1.18.2-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QJ0Q2uBC/papi-1.18.2-forge-1.0.1.jar",
+        "sha512": "23833cf0fe9a4a522f1ed33938a8a4796213e3387def30cfe8a0d09d01f10b27de944373a95969ae4cc624b27f12dacc347654d1f41747ef1bf0587096a90a22"
+      }
+    }
+  },
+  "fabric": {
+    "1_21_11": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_10": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_9": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_8": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_7": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_6": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_5": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_4": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_3": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_2": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_21_1": {
+      "latest": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      },
+      "1_21_11_0_1": {
+        "name": "papi-1.21.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/pJ51vafK/papi-1.21.1-fabric-1.0.1.jar",
+        "sha512": "2eb35e6f3034f362c7d5fda38428ab11a23ac204b424946d239c1289757da0271b2267c94611421f6dec29420e69b4b99587e46398ac79ad072167b91842919c"
+      }
+    },
+    "1_20_6": {
+      "latest": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_41_0_1": {
+        "name": "papi-1.20.4-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/U8fHhKB0/papi-1.20.4-fabric-1.0.1.jar",
+        "sha512": "d201105911e044bcbf30037c01264d5f8986bf1ec01a5fd29fa5e7b71c8481d6da4f76e8d6a072454a8eba4d132831370147d0927c1785188f38dac303d984e7"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/LoR1WJjP/papi-1.20.1-fabric-1.0.1.jar",
+        "sha512": "6b8a5ca24ce368287917892e52c5dc8f32202a08ddd6412adfa1f6c88f62e2649c5bdd817b1d06079b172ae59b816d7fbf34ac7989e86da32b76b062a501d896"
+      }
+    },
+    "1_20_5": {
+      "latest": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_41_0_1": {
+        "name": "papi-1.20.4-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/U8fHhKB0/papi-1.20.4-fabric-1.0.1.jar",
+        "sha512": "d201105911e044bcbf30037c01264d5f8986bf1ec01a5fd29fa5e7b71c8481d6da4f76e8d6a072454a8eba4d132831370147d0927c1785188f38dac303d984e7"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/LoR1WJjP/papi-1.20.1-fabric-1.0.1.jar",
+        "sha512": "6b8a5ca24ce368287917892e52c5dc8f32202a08ddd6412adfa1f6c88f62e2649c5bdd817b1d06079b172ae59b816d7fbf34ac7989e86da32b76b062a501d896"
+      }
+    },
+    "1_20_4": {
+      "latest": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_41_0_1": {
+        "name": "papi-1.20.4-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/U8fHhKB0/papi-1.20.4-fabric-1.0.1.jar",
+        "sha512": "d201105911e044bcbf30037c01264d5f8986bf1ec01a5fd29fa5e7b71c8481d6da4f76e8d6a072454a8eba4d132831370147d0927c1785188f38dac303d984e7"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/LoR1WJjP/papi-1.20.1-fabric-1.0.1.jar",
+        "sha512": "6b8a5ca24ce368287917892e52c5dc8f32202a08ddd6412adfa1f6c88f62e2649c5bdd817b1d06079b172ae59b816d7fbf34ac7989e86da32b76b062a501d896"
+      }
+    },
+    "1_20_3": {
+      "latest": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/LoR1WJjP/papi-1.20.1-fabric-1.0.1.jar",
+        "sha512": "6b8a5ca24ce368287917892e52c5dc8f32202a08ddd6412adfa1f6c88f62e2649c5bdd817b1d06079b172ae59b816d7fbf34ac7989e86da32b76b062a501d896"
+      }
+    },
+    "1_20_2": {
+      "latest": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/LoR1WJjP/papi-1.20.1-fabric-1.0.1.jar",
+        "sha512": "6b8a5ca24ce368287917892e52c5dc8f32202a08ddd6412adfa1f6c88f62e2649c5bdd817b1d06079b172ae59b816d7fbf34ac7989e86da32b76b062a501d896"
+      }
+    },
+    "1_20_1": {
+      "latest": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_1_1": {
+        "name": "papi-1.20.1-fabric-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar",
+        "sha512": "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+      },
+      "1_20_11_0_1": {
+        "name": "papi-1.20.1-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/LoR1WJjP/papi-1.20.1-fabric-1.0.1.jar",
+        "sha512": "6b8a5ca24ce368287917892e52c5dc8f32202a08ddd6412adfa1f6c88f62e2649c5bdd817b1d06079b172ae59b816d7fbf34ac7989e86da32b76b062a501d896"
+      }
+    },
+    "1_19_4": {
+      "latest": {
+        "name": "papi-1.19.4-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/gUuBGyd4/papi-1.19.4-fabric-1.0.1.jar",
+        "sha512": "3e7e07849afae3933ec1769d488b2bdf654513c0c80d3d0825ad9e3c3ebc2c7571e4c3199ac9d802210c53e35ab36004dde3350c7a670f6f4a3427d4ab5e128d"
+      },
+      "1_19_41_0_1": {
+        "name": "papi-1.19.4-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/gUuBGyd4/papi-1.19.4-fabric-1.0.1.jar",
+        "sha512": "3e7e07849afae3933ec1769d488b2bdf654513c0c80d3d0825ad9e3c3ebc2c7571e4c3199ac9d802210c53e35ab36004dde3350c7a670f6f4a3427d4ab5e128d"
+      },
+      "1_19_21_0_1": {
+        "name": "papi-1.19.2-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/76WXJ2k0/papi-1.19.2-fabric-1.0.1.jar",
+        "sha512": "da36f74bec6a8ffa70fe1218b0fa5603c7c24d490a1932279a1eea8656e9d56c9d49c9d2cf2bbc0cf9cb5fad8c97b960f8df6cbc82aa4fbddf125743e93ad1bb"
+      }
+    },
+    "1_19_3": {
+      "latest": {
+        "name": "papi-1.19.2-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/76WXJ2k0/papi-1.19.2-fabric-1.0.1.jar",
+        "sha512": "da36f74bec6a8ffa70fe1218b0fa5603c7c24d490a1932279a1eea8656e9d56c9d49c9d2cf2bbc0cf9cb5fad8c97b960f8df6cbc82aa4fbddf125743e93ad1bb"
+      },
+      "1_19_21_0_1": {
+        "name": "papi-1.19.2-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/76WXJ2k0/papi-1.19.2-fabric-1.0.1.jar",
+        "sha512": "da36f74bec6a8ffa70fe1218b0fa5603c7c24d490a1932279a1eea8656e9d56c9d49c9d2cf2bbc0cf9cb5fad8c97b960f8df6cbc82aa4fbddf125743e93ad1bb"
+      }
+    },
+    "1_19_2": {
+      "latest": {
+        "name": "papi-1.19.2-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/76WXJ2k0/papi-1.19.2-fabric-1.0.1.jar",
+        "sha512": "da36f74bec6a8ffa70fe1218b0fa5603c7c24d490a1932279a1eea8656e9d56c9d49c9d2cf2bbc0cf9cb5fad8c97b960f8df6cbc82aa4fbddf125743e93ad1bb"
+      },
+      "1_19_21_0_1": {
+        "name": "papi-1.19.2-fabric-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xedaBnSm/versions/76WXJ2k0/papi-1.19.2-fabric-1.0.1.jar",
+        "sha512": "da36f74bec6a8ffa70fe1218b0fa5603c7c24d490a1932279a1eea8656e9d56c9d49c9d2cf2bbc0cf9cb5fad8c97b960f8df6cbc82aa4fbddf125743e93ad1bb"
+      }
+    }
+  }
+}
