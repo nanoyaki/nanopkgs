@@ -30,7 +30,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
 - `shoko` -> `6.0.0-dev.44-unstable-2026-03-13`
-- `shoko-webui` -> `2.6.0-dev.4-unstable-2026-03-07`
+- `shoko-webui` -> `2.6.0-dev.7-unstable-2026-03-14`
 - `shokofin` -> `6.0.4-dev.3-unstable-2026-02-26`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2026-02-21`
