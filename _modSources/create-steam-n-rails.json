@@ -2,9 +2,19 @@
   "quilt": {
     "1_20_1": {
       "latest": {
-        "name": "Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/s6L4oIfv/Steam_Rails-1.7.1%2Bfabric-mc1.20.1.jar",
-        "sha512": "9bf19d275baa1d9208f17845d609e76abe8ed5150b1986b71e703b86a9977ed63359a575f499c3ff5334a883a05961dbad982a1827c73fcf03c3a2770c997a7d"
+        "name": "Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/PEA8dAwJ/Steam_Rails-1.7.2%2Bfabric-mc1.20.1.jar",
+        "sha512": "dacd75c3461f014f2a7caae77075b36c189e38eb23d887bfbd6f6ad66b27eeb699ee72908a4c973f8abbf32f35c0110bbb37d54e71dbdccbd676bc5c781339ec"
+      },
+      "1_7_2mc": {
+        "name": "Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/PEA8dAwJ/Steam_Rails-1.7.2%2Bfabric-mc1.20.1.jar",
+        "sha512": "dacd75c3461f014f2a7caae77075b36c189e38eb23d887bfbd6f6ad66b27eeb699ee72908a4c973f8abbf32f35c0110bbb37d54e71dbdccbd676bc5c781339ec"
+      },
+      "1_7_2-betamc": {
+        "name": "Steam_Rails-1.7.2-beta+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/PCByU7xD/Steam_Rails-1.7.2-beta%2Bfabric-mc1.20.1.jar",
+        "sha512": "0c4fd64a838d1f62c88224befad0fa7343dfc7ac5b88da5e8b89c8dd960ea4f384a72fb64a71635f852d022ad87a874b8b413ffbfabd9824d3285cabe4a2f8b8"
       },
       "1_7_1mc": {
         "name": "Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
@@ -118,9 +128,19 @@
   "neoforge": {
     "1_20_1": {
       "latest": {
-        "name": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/TYMKdZTh/Steam_Rails-1.7.1%2Bforge-mc1.20.1.jar",
-        "sha512": "973fdf500ffb9e170a7123d99b6333c8bb2962d169be3c1711f0139e5bac34231fb9a1588fa28514e5041127aa974ce8891922cd74123c7800e8f84e804c177d"
+        "name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/I6GhUCyk/Steam_Rails-1.7.2%2Bforge-mc1.20.1.jar",
+        "sha512": "f97597d15e82286dd6425795c49b53b85f2cad7e97d8103cb21b4fa6375c4db6df34b2a732097bd451963790d6bad53bdc11b427a7d5d20bd9f03ed708443973"
+      },
+      "1_7_2+forge-mc": {
+        "name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/I6GhUCyk/Steam_Rails-1.7.2%2Bforge-mc1.20.1.jar",
+        "sha512": "f97597d15e82286dd6425795c49b53b85f2cad7e97d8103cb21b4fa6375c4db6df34b2a732097bd451963790d6bad53bdc11b427a7d5d20bd9f03ed708443973"
+      },
+      "1_7_2-beta+forge-mc": {
+        "name": "Steam_Rails-1.7.2-beta+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/R90UmmIB/Steam_Rails-1.7.2-beta%2Bforge-mc1.20.1.jar",
+        "sha512": "df34924487dccaec741d5346d321724d948267560f15d8c08058e200484931c531b90585cbdc7212a7bd900ed32b8fb20a3ff3fe55caa9355f1fe4faaafaaa73"
       },
       "1_7_1+forge-mc": {
         "name": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
@@ -274,9 +294,19 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/TYMKdZTh/Steam_Rails-1.7.1%2Bforge-mc1.20.1.jar",
-        "sha512": "973fdf500ffb9e170a7123d99b6333c8bb2962d169be3c1711f0139e5bac34231fb9a1588fa28514e5041127aa974ce8891922cd74123c7800e8f84e804c177d"
+        "name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/I6GhUCyk/Steam_Rails-1.7.2%2Bforge-mc1.20.1.jar",
+        "sha512": "f97597d15e82286dd6425795c49b53b85f2cad7e97d8103cb21b4fa6375c4db6df34b2a732097bd451963790d6bad53bdc11b427a7d5d20bd9f03ed708443973"
+      },
+      "1_7_2mc": {
+        "name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/I6GhUCyk/Steam_Rails-1.7.2%2Bforge-mc1.20.1.jar",
+        "sha512": "f97597d15e82286dd6425795c49b53b85f2cad7e97d8103cb21b4fa6375c4db6df34b2a732097bd451963790d6bad53bdc11b427a7d5d20bd9f03ed708443973"
+      },
+      "1_7_2-betamc": {
+        "name": "Steam_Rails-1.7.2-beta+forge-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/R90UmmIB/Steam_Rails-1.7.2-beta%2Bforge-mc1.20.1.jar",
+        "sha512": "df34924487dccaec741d5346d321724d948267560f15d8c08058e200484931c531b90585cbdc7212a7bd900ed32b8fb20a3ff3fe55caa9355f1fe4faaafaaa73"
       },
       "1_7_1mc": {
         "name": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
@@ -582,9 +612,19 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/s6L4oIfv/Steam_Rails-1.7.1%2Bfabric-mc1.20.1.jar",
-        "sha512": "9bf19d275baa1d9208f17845d609e76abe8ed5150b1986b71e703b86a9977ed63359a575f499c3ff5334a883a05961dbad982a1827c73fcf03c3a2770c997a7d"
+        "name": "Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/PEA8dAwJ/Steam_Rails-1.7.2%2Bfabric-mc1.20.1.jar",
+        "sha512": "dacd75c3461f014f2a7caae77075b36c189e38eb23d887bfbd6f6ad66b27eeb699ee72908a4c973f8abbf32f35c0110bbb37d54e71dbdccbd676bc5c781339ec"
+      },
+      "1_7_2mc": {
+        "name": "Steam_Rails-1.7.2+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/PEA8dAwJ/Steam_Rails-1.7.2%2Bfabric-mc1.20.1.jar",
+        "sha512": "dacd75c3461f014f2a7caae77075b36c189e38eb23d887bfbd6f6ad66b27eeb699ee72908a4c973f8abbf32f35c0110bbb37d54e71dbdccbd676bc5c781339ec"
+      },
+      "1_7_2-betamc": {
+        "name": "Steam_Rails-1.7.2-beta+fabric-mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/PCByU7xD/Steam_Rails-1.7.2-beta%2Bfabric-mc1.20.1.jar",
+        "sha512": "0c4fd64a838d1f62c88224befad0fa7343dfc7ac5b88da5e8b89c8dd960ea4f384a72fb64a71635f852d022ad87a874b8b413ffbfabd9824d3285cabe4a2f8b8"
       },
       "1_7_1mc": {
         "name": "Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
