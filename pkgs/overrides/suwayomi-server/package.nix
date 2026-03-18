@@ -12,7 +12,7 @@
   copyDesktopItems,
   glib,
   libappindicator,
-  jdk21_headless,
+  jdk21,
   suwayomi-webui,
   _experimental-update-script-combinators,
   nix-update-script,
@@ -21,7 +21,7 @@
   electron,
   makeDesktopItem,
 
-  jdk ? jdk21_headless,
+  jdk ? jdk21,
   webui ? suwayomi-webui,
   asApplication ? false,
 }:
