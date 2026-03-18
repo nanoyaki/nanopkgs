@@ -53,7 +53,7 @@ let
       val getTachideskRevision = { "r${finalAttrs.revision}" }
       ' > buildSrc/src/main/kotlin/Constants.kt
 
-      zip -9 -r server/src/main/resources/WebUI.zip ${webui}
+      (cd ${webui} && zip -9 -r /build/source/server/src/main/resources/WebUI.zip .)
     '';
 
     nativeBuildInputs = [
