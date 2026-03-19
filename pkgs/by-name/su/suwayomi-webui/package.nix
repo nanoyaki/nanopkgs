@@ -55,8 +55,8 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     patchShebangs node_modules/vite/bin/vite.js
     node_modules/vite/bin/vite.js build
 
-    yarn --offline build-md5
     echo "r${finalAttrs.revision}" > build/revision
+    yarn --offline build-md5
 
     runHook postBuild
   '';
