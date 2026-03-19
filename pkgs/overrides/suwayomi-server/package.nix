@@ -54,7 +54,7 @@ let
       ' > buildSrc/src/main/kotlin/Constants.kt
 
       substituteInPlace server/src/main/kotlin/suwayomi/tachidesk/server/util/WebInterfaceManager.kt \
-        --replace-fail "== localMD5Sum" "== \"$(cat ${webui}/share/suwayomi-server/md5sum)\""
+        --replace-fail "fetchMD5SumFor(flavor, currentVersion)" "\"$(cat ${webui}/share/suwayomi-server/md5sum)\""
 
       SRC_DIR="$(pwd)"
       (cd ${webui}/share/suwayomi-webui && zip -9 -r $SRC_DIR/server/src/main/resources/WebUI.zip .)
