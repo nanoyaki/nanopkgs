@@ -64,8 +64,9 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   installPhase = ''
     runHook preInstall
 
-    cp -a build $out
-    mv buildZip/md5sum $out
+    mkdir -p $out/share/suwayomi-server
+    cp -a build $out/share/suwayomi-webui
+    mv buildZip/md5sum $out/share/suwayomi-server
 
     runHook postInstall
   '';

@@ -53,8 +53,11 @@ let
       val getTachideskRevision = { "r${finalAttrs.revision}" }
       ' > buildSrc/src/main/kotlin/Constants.kt
 
+      substituteInPlace server/src/main/kotlin/suwayomi/tachidesk/server/util/WebInterfaceManager.kt \
+        --replace-fail "== localMD5Sum" "== \"$(cat ${webui}/share/suwayomi-server/md5sum)\""
+
       SRC_DIR="$(pwd)"
-      (cd ${webui} && zip -9 -r $SRC_DIR/server/src/main/resources/WebUI.zip .)
+      (cd ${webui}/share/suwayomi-webui && zip -9 -r $SRC_DIR/server/src/main/resources/WebUI.zip .)
     '';
 
     nativeBuildInputs = [
