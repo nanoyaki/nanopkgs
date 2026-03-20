@@ -2,9 +2,24 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "clockwork-0.5.4.6.jar",
-        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/IP7OOk86/clockwork-0.5.4.6.jar",
-        "sha512": "0482fac74cb6c0efe394e8ab8eaaadb5dc2991b055420c94f66a3d23af5367d9e54951655afba9224d01cf023835aab86dfbcf183adf2af0f825108d7a7a24bb"
+        "name": "clockwork-0.5.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/q7OCzMfX/clockwork-0.5.5.2.jar",
+        "sha512": "f45119a12fadedad35a228b9849b33bb24bcde1e3ef99827ba05b94445f431de77436da04de7a9459e3afc35a01a8563ed4609bf18bf4741b62e8bf4a66185e9"
+      },
+      "1_20_10_5_5_2": {
+        "name": "clockwork-0.5.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/q7OCzMfX/clockwork-0.5.5.2.jar",
+        "sha512": "f45119a12fadedad35a228b9849b33bb24bcde1e3ef99827ba05b94445f431de77436da04de7a9459e3afc35a01a8563ed4609bf18bf4741b62e8bf4a66185e9"
+      },
+      "1_20_10_5_5_1": {
+        "name": "clockwork-0.5.5.1.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/MhrXXJMH/clockwork-0.5.5.1.jar",
+        "sha512": "f099d51ff51ce5eac133bf6df66953c392395dd8e7713881c54a754c732686d4ad0936fa0ffce90f005a83583a4a0a5026ea84b631f6ba2bf0b989ca96ec9c81"
+      },
+      "1_20_10_5_5": {
+        "name": "clockwork-0.5.5.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/RWAvskZ6/clockwork-0.5.5.jar",
+        "sha512": "3a57985da7d3e06543a2d6195dbd49ae1c9c09b65db5b18d3f3f94dbae30e1c811f8da21f3619f302812c52a1de849153418155eae9fd473c91c3135dc992e3a"
       },
       "1_20_10_5_4_6": {
         "name": "clockwork-0.5.4.6.jar",
@@ -95,9 +110,24 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "clockwork-0.5.4.6.jar",
-        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/kiBX9fNA/clockwork-0.5.4.6.jar",
-        "sha512": "5f0d71ce5a1023110d15a9ba48edcdebf766ce08536a88e989db76b41474bc74ef732483de770a1dcd0bfa6496606743dc629cc7778429f8f83d2e690db94e98"
+        "name": "clockwork-0.5.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/3ksXjJZE/clockwork-0.5.5.2.jar",
+        "sha512": "d7f46dcd81639abe10dc64a9d7ed043d753271cb32b5696995159b3305fdefbf11c8346ce5a9bdd939c4da6456f3424b226f8ebffcb40d4b8a2da559db7f8a23"
+      },
+      "1_20_10_5_5_2": {
+        "name": "clockwork-0.5.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/3ksXjJZE/clockwork-0.5.5.2.jar",
+        "sha512": "d7f46dcd81639abe10dc64a9d7ed043d753271cb32b5696995159b3305fdefbf11c8346ce5a9bdd939c4da6456f3424b226f8ebffcb40d4b8a2da559db7f8a23"
+      },
+      "1_20_10_5_5_1": {
+        "name": "clockwork-0.5.5.1.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/akce2D2M/clockwork-0.5.5.1.jar",
+        "sha512": "523a5f2b5919c66fd8a611964f69767115f5e59c7b8f697d62fd004b823bc6d29d38b2fb64211ffe85e8350c734b867cbc75eccf942ab39084f41ebd1c0d58d8"
+      },
+      "1_20_10_5_5": {
+        "name": "clockwork-0.5.5.jar",
+        "url": "https://cdn.modrinth.com/data/84USeAvk/versions/D9lVV8AV/clockwork-0.5.5.jar",
+        "sha512": "c0dbaa2607fbc14b39b9e66580d7f693142106362a18a38af75201ed5650880903ee846a9264d828009ba436ada7fc22988b0a6676020acfa3ce1c9e3795c2e5"
       },
       "1_20_10_5_4_6": {
         "name": "clockwork-0.5.4.6.jar",

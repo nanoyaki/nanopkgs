@@ -21,16 +21,16 @@
 
 python312Packages.buildPythonApplication rec {
   pname = "fireshare";
-  version = "1.5.0-unstable-2026-03-13";
+  version = "1.5.1-unstable-2026-03-15";
 
   src = fetchgit {
     url = "https://github.com/ShaneIsrael/fireshare.git";
-    rev = "5e1422dae104e960d89202ec8d1def35bd3ed8a1";
+    rev = "4c73ce66e8ad7e162aa05023b6f326fd86e9eab7";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-DDnCslkMzo25TtlFb9kLng6KAgsSiJZMGMsYpSpqQfI=";
+    sha256 = "sha256-f9sBbx0+RlFWBtKzP9otoRrymsI9Va2ettBCwIbAG/0=";
   };
 
   pyproject = true;
