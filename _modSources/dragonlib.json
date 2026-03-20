@@ -2,9 +2,14 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "dragonlib-neoforge-1.21.1-beta-3.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/SgbO14PV/dragonlib-neoforge-1.21.1-beta-3.0.23.jar",
-        "sha512": "65b045854cba122ed8042994bc61eb4705b931dee4d1cf3a46a8348c851db83a4702409ee661e313875c449a4fb5a9dedd4b397fff620a12c0081d50c396fb66"
+        "name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/M6CMBAur/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+        "sha512": "f12aad125f79b50b8670d3100293663b482e22c819435b64867a8c8beee83e48b3c2f5a8ed60e4cad6215bfad06f8a24f23d6cded2c003d91bf32e74749f7955"
+      },
+      "1_21_1-beta-3_0_24": {
+        "name": "dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/M6CMBAur/dragonlib-neoforge-1.21.1-beta-3.0.24.jar",
+        "sha512": "f12aad125f79b50b8670d3100293663b482e22c819435b64867a8c8beee83e48b3c2f5a8ed60e4cad6215bfad06f8a24f23d6cded2c003d91bf32e74749f7955"
       },
       "1_21_1-beta-3_0_23": {
         "name": "dragonlib-neoforge-1.21.1-beta-3.0.23.jar",
@@ -14,9 +19,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "dragonlib-forge-1.20.1-beta-3.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/zY6ja3yq/dragonlib-forge-1.20.1-beta-3.0.23.jar",
-        "sha512": "53c9eb264085400888d1b7bd830534b8b37de4ca0c2a469d7ce2a6f209eb34db5ba5e59ce850ac43444d48118eb6bb96c78f81ca55e1e9accb64b1414e24e4a9"
+        "name": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/rI6RU4Ds/dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "sha512": "e0b401be31cea3093c53a907540b5793d45d1368315ee2d30f593962031ba08fb42b297c5c1c565815d760901ee48f71dc003544b8706c74000ea03e16ae34d3"
+      },
+      "1_20_1-beta-3_0_24": {
+        "name": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/rI6RU4Ds/dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "sha512": "e0b401be31cea3093c53a907540b5793d45d1368315ee2d30f593962031ba08fb42b297c5c1c565815d760901ee48f71dc003544b8706c74000ea03e16ae34d3"
       },
       "1_20_1-beta-3_0_23": {
         "name": "dragonlib-forge-1.20.1-beta-3.0.23.jar",
@@ -53,9 +63,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "dragonlib-forge-1.20.1-beta-3.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/zY6ja3yq/dragonlib-forge-1.20.1-beta-3.0.23.jar",
-        "sha512": "53c9eb264085400888d1b7bd830534b8b37de4ca0c2a469d7ce2a6f209eb34db5ba5e59ce850ac43444d48118eb6bb96c78f81ca55e1e9accb64b1414e24e4a9"
+        "name": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/rI6RU4Ds/dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "sha512": "e0b401be31cea3093c53a907540b5793d45d1368315ee2d30f593962031ba08fb42b297c5c1c565815d760901ee48f71dc003544b8706c74000ea03e16ae34d3"
+      },
+      "1_20_1-beta-3_0_24": {
+        "name": "dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/rI6RU4Ds/dragonlib-forge-1.20.1-beta-3.0.24.jar",
+        "sha512": "e0b401be31cea3093c53a907540b5793d45d1368315ee2d30f593962031ba08fb42b297c5c1c565815d760901ee48f71dc003544b8706c74000ea03e16ae34d3"
       },
       "1_20_1-beta-3_0_23": {
         "name": "dragonlib-forge-1.20.1-beta-3.0.23.jar",
@@ -92,9 +107,14 @@
   "fabric": {
     "1_21_1": {
       "latest": {
-        "name": "dragonlib-fabric-1.21.1-beta-3.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/OmnHtuxN/dragonlib-fabric-1.21.1-beta-3.0.23.jar",
-        "sha512": "dbeda4c76e6663e1419cb3d423fef01ffac03b183ee461560aa7e71d36cd76eabf48980e540059a68789cc41a2f3a41e07acf23fbefff4e1819c7179e99dd0e7"
+        "name": "dragonlib-fabric-1.21.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/mBcMuApi/dragonlib-fabric-1.21.1-beta-3.0.24.jar",
+        "sha512": "829b0dad0ed785e8531af2ed5d5bfec4e28665b6d83d139dd6e81d030dfeae476955353fa1ffdfcec7f4a2d6d306687808716e020fa02d06172ae20b81aba741"
+      },
+      "1_21_1-beta-3_0_24": {
+        "name": "dragonlib-fabric-1.21.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/mBcMuApi/dragonlib-fabric-1.21.1-beta-3.0.24.jar",
+        "sha512": "829b0dad0ed785e8531af2ed5d5bfec4e28665b6d83d139dd6e81d030dfeae476955353fa1ffdfcec7f4a2d6d306687808716e020fa02d06172ae20b81aba741"
       },
       "1_21_1-beta-3_0_23": {
         "name": "dragonlib-fabric-1.21.1-beta-3.0.23.jar",
@@ -104,9 +124,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "dragonlib-fabric-1.20.1-beta-3.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/UwBbe7UF/dragonlib-fabric-1.20.1-beta-3.0.23.jar",
-        "sha512": "45ef8b5533b723ebb6da9f361162a63a8b38c98bcab6d91d99fce32de95fc8c998db0e6fc8624f5dc54bd00bd520035b1bcb074df8a7ca81489ee9623cebdb20"
+        "name": "dragonlib-fabric-1.20.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/el2reT8k/dragonlib-fabric-1.20.1-beta-3.0.24.jar",
+        "sha512": "0e0dcddda5d8e2aff110e853e2bf0b5476552a2b3f68cad6be2a7badf265e9ca8ab6cfff5ffef1b65912ef1d30c50074b3c9698d1d05ba06adab3abcab05a5be"
+      },
+      "1_20_1-beta-3_0_24": {
+        "name": "dragonlib-fabric-1.20.1-beta-3.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/sbIsGaOV/versions/el2reT8k/dragonlib-fabric-1.20.1-beta-3.0.24.jar",
+        "sha512": "0e0dcddda5d8e2aff110e853e2bf0b5476552a2b3f68cad6be2a7badf265e9ca8ab6cfff5ffef1b65912ef1d30c50074b3c9698d1d05ba06adab3abcab05a5be"
       },
       "1_20_1-beta-3_0_23": {
         "name": "dragonlib-fabric-1.20.1-beta-3.0.23.jar",

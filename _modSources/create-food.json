@@ -2,9 +2,14 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "createfood-neoforge-1.21.1-2.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/6Pg4WHRF/createfood-neoforge-1.21.1-2.2.0.jar",
-        "sha512": "16cd1a5174bce8862dc26f36932d764dc5bda8821c815261f89c4702d0f39f7d4cdf77169dddd7ad7d1bb29ba5fb95e25bbff8b7942635bdc43eab326197494d"
+        "name": "createfood-neoforge-1.21.1-2.2.0a.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/txCTwiim/createfood-neoforge-1.21.1-2.2.0a.jar",
+        "sha512": "a07dacb25c1788055ad7112a5dcc435941a009485e743a2821ab81e080e191204a955bc2b451ed1ec833d2b0c905542673319bd2a0bf208f2a3efc73bec4df04"
+      },
+      "2_2_0a": {
+        "name": "createfood-neoforge-1.21.1-2.2.0a.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/txCTwiim/createfood-neoforge-1.21.1-2.2.0a.jar",
+        "sha512": "a07dacb25c1788055ad7112a5dcc435941a009485e743a2821ab81e080e191204a955bc2b451ed1ec833d2b0c905542673319bd2a0bf208f2a3efc73bec4df04"
       },
       "2_2_0": {
         "name": "createfood-neoforge-1.21.1-2.2.0.jar",
@@ -44,14 +49,9 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "create-food-1.20.1-1.1.13-forge.jar",
-        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/1qINJkiE/create-food-1.20.1-1.1.13-forge.jar",
-        "sha512": "ca1d5195ec33c1cb9cf563026c75b8b79308c8f1ab4ec638c769515b0901f97cff65ac3172c09e1faddb86fc9cf89c477d4fce2bf306aa051c769474faaa9f59"
-      },
-      "1_1_13-forge": {
-        "name": "create-food-1.20.1-1.1.13-forge.jar",
-        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/1qINJkiE/create-food-1.20.1-1.1.13-forge.jar",
-        "sha512": "ca1d5195ec33c1cb9cf563026c75b8b79308c8f1ab4ec638c769515b0901f97cff65ac3172c09e1faddb86fc9cf89c477d4fce2bf306aa051c769474faaa9f59"
+        "name": "create-food-1.20.1-1.1.10-forge.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/wzfyAIgJ/create-food-1.20.1-1.1.10-forge.jar",
+        "sha512": "551f61f1d3ea95312e519f565c7acd7cba6dc72df5bb4b2ecd6241c027e28915496a97c466937255ee10a50e05b5b1b0e985a40c2936bc37d6e6eb592a4aeab3"
       },
       "1_1_10-forge": {
         "name": "create-food-1.20.1-1.1.10-forge.jar",
@@ -73,14 +73,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "create-food-1.20.1-1.1.13-forge.jar",
-        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/1qINJkiE/create-food-1.20.1-1.1.13-forge.jar",
-        "sha512": "ca1d5195ec33c1cb9cf563026c75b8b79308c8f1ab4ec638c769515b0901f97cff65ac3172c09e1faddb86fc9cf89c477d4fce2bf306aa051c769474faaa9f59"
+        "name": "create-food-1.20.1-1.1.13a-forge.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/YqkJYicf/create-food-1.20.1-1.1.13a-forge.jar",
+        "sha512": "ff5d5f6700d151781ef2b673c5217b3fb8c6cf5d15a97bd6c70e885c6ce5f1ac5e73dc5343693a36942ed483be497ea5ca542c8ba7d5b7921195d15f024672de"
       },
-      "1_1_13": {
-        "name": "create-food-1.20.1-1.1.13-forge.jar",
-        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/1qINJkiE/create-food-1.20.1-1.1.13-forge.jar",
-        "sha512": "ca1d5195ec33c1cb9cf563026c75b8b79308c8f1ab4ec638c769515b0901f97cff65ac3172c09e1faddb86fc9cf89c477d4fce2bf306aa051c769474faaa9f59"
+      "1_1_13a": {
+        "name": "create-food-1.20.1-1.1.13a-forge.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/YqkJYicf/create-food-1.20.1-1.1.13a-forge.jar",
+        "sha512": "ff5d5f6700d151781ef2b673c5217b3fb8c6cf5d15a97bd6c70e885c6ce5f1ac5e73dc5343693a36942ed483be497ea5ca542c8ba7d5b7921195d15f024672de"
       },
       "1_1_12": {
         "name": "create-food-1.20.1-1.1.12-forge.jar",

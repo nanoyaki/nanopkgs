@@ -186,9 +186,19 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "Forge-Version-sereneseasonsplus-1.20.1-4.2.4.jar",
-        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/4sU68ll4/Forge-Version-sereneseasonsplus-1.20.1-4.2.4.jar",
-        "sha512": "396353695f9884d357359b26dfa8a5e343e54433e113cd181f8cc3b9647f3b60a9dd2de00a5c0da403a94b575c765cc1615f731d737ffb784b6ae45e0e062559"
+        "name": "Forge-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/MPhKcmwf/Forge-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "sha512": "e232310b456d2d76eba8a336c21fca747433f83cc9e2c869fc8556a593452ddf5a0c7edf96d76e06c17011ddd28a788008003fc8dfa3203c5532d8d7a6bb848f"
+      },
+      "Forge0_5_0_0": {
+        "name": "Forge-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/MPhKcmwf/Forge-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "sha512": "e232310b456d2d76eba8a336c21fca747433f83cc9e2c869fc8556a593452ddf5a0c7edf96d76e06c17011ddd28a788008003fc8dfa3203c5532d8d7a6bb848f"
+      },
+      "Forgepre-5_0_0": {
+        "name": "Forge-Version-sereneseasonsplus-1.20.1-pre-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/dhCwM2AE/Forge-Version-sereneseasonsplus-1.20.1-pre-5.0.0.jar",
+        "sha512": "373a53f7c8625f5ab7ccee19b06b4fe4ef7c756bed26658fd398b1fcd84173e9f9a14f6296220d7504f7dc26a09744381c32cfe0a91d24c7435c81c66e38d967"
       },
       "Forge4_2_4": {
         "name": "Forge-Version-sereneseasonsplus-1.20.1-4.2.4.jar",
@@ -512,9 +522,19 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "Fabric-Version-sereneseasonsplus-1.20.1-4.2.4.jar",
-        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/vAimRXQF/Fabric-Version-sereneseasonsplus-1.20.1-4.2.4.jar",
-        "sha512": "a0dcf7e5bfdd732b8ebfc7fc955823af3eb050273c9399a940ae0c35ee6323540afb4f2d7b0b84e094fd5797f153a824641b0a98a15d865c321f5dab78c6c80a"
+        "name": "Fabric-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/jQEAvK62/Fabric-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "sha512": "73c676c7f588a4eb313aeac460c64305b26f5297eb3930b6134d022a0e6911574425c5f29ef7fc9f52c0b412d127f2ccea28b4f037ab16bcffafe09884b083e9"
+      },
+      "Fabric0_5_0_0": {
+        "name": "Fabric-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/jQEAvK62/Fabric-Version-sereneseasonsplus-1.20.1-0.5.0.0.jar",
+        "sha512": "73c676c7f588a4eb313aeac460c64305b26f5297eb3930b6134d022a0e6911574425c5f29ef7fc9f52c0b412d127f2ccea28b4f037ab16bcffafe09884b083e9"
+      },
+      "Fabricpre-5_0_0": {
+        "name": "Fabric-Version-sereneseasonsplus-1.20.1-pre-5.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/O5Rhv5Z5/Fabric-Version-sereneseasonsplus-1.20.1-pre-5.0.0.jar",
+        "sha512": "db342ad48ff456a1163e35333ddaa3be996e6492d660dc7848c3c95ad47fe49190f631747d2dce76289b2f4cd964ff845d8c10e86b5ea832d40f78133a5efe39"
       },
       "Fabric4_2_4": {
         "name": "Fabric-Version-sereneseasonsplus-1.20.1-4.2.4.jar",
