@@ -9,7 +9,7 @@
   just,
   pkg-config,
   nixosTests,
-  oldlibcosmicAppHook,
+  libcosmicAppHook,
   libxkbcommon,
   pipewire,
   nix-update-script,
@@ -34,7 +34,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
   nativeBuildInputs = [
     just
     pkg-config
-    oldlibcosmicAppHook
+    libcosmicAppHook
     rustPlatform.bindgenHook
   ];
 

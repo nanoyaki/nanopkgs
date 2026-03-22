@@ -9,7 +9,7 @@
   just,
   pkg-config,
   nixosTests,
-  oldlibcosmicAppHook,
+  libcosmicAppHook,
   libxkbcommon,
   nix-update-script,
 }:
@@ -30,7 +30,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
 
   cargoDeps = rustPlatform.fetchCargoVendor {
     inherit (finalAttrs) src;
-    hash = "sha256-0CziruLYJrku1FO7tBSJRNtS5JyhjDWxTEcOwUVYmSk=";
+    hash = "sha256-+yqFV8HdPjkVny+6FKkZFEQAq1rwe7JXmoTJ7zge8bg=";
   };
 
   postPatch = ''
@@ -41,7 +41,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
   nativeBuildInputs = [
     just
     pkg-config
-    oldlibcosmicAppHook
+    libcosmicAppHook
   ];
 
   buildInputs = [

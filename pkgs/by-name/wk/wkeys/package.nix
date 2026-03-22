@@ -6,7 +6,7 @@
   rustPlatform,
   fetchgit,
   pkg-config,
-  oldlibcosmicAppHook,
+  libcosmicAppHook,
   gtk4-layer-shell,
   gtkmm4,
   libxkbcommon,
@@ -34,7 +34,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
 
   nativeBuildInputs = [
     pkg-config
-    oldlibcosmicAppHook
+    libcosmicAppHook
   ];
 
   buildInputs = [

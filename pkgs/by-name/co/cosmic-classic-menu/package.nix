@@ -10,7 +10,7 @@
   pkg-config,
   nixosTests,
   libxkbcommon,
-  oldlibcosmicAppHook,
+  libcosmicAppHook,
   nix-update-script,
 }:
 
@@ -36,7 +36,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
   nativeBuildInputs = [
     just
     pkg-config
-    oldlibcosmicAppHook
+    libcosmicAppHook
   ];
 
   buildInputs = [
