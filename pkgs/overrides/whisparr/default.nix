@@ -27,6 +27,10 @@ final: prev: {
           })
         ];
       };
+
+      meta = prevAttrs.meta // {
+        broken = true;
+      };
     }
   );
 }
