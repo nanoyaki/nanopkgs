@@ -1,5 +1,17 @@
 {
   "quilt": {
+    "26_1-rc-3": {
+      "latest": {
+        "name": "wthit-26.1-fabric-19.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/5o3r0nzt/wthit-26.1-fabric-19.0.0.jar",
+        "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
+      },
+      "fabric-19_0_0": {
+        "name": "wthit-26.1-fabric-19.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/5o3r0nzt/wthit-26.1-fabric-19.0.0.jar",
+        "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
+      }
+    },
     "1_21_11-pre1": {
       "latest": {
         "name": "wthit-1.21.11-fabric-18.0.2.jar",
@@ -19,9 +31,14 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "wthit-1.21.11-fabric-18.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/KF0bLhDD/wthit-1.21.11-fabric-18.2.1.jar",
-        "sha512": "08f1a7d50030913ff59bdfe152adb54b90dfe077bfbf2e8a911f5793339a76dcbeacb18d9152b02958cf7cb44750997c5cf57bf022a1f3fb5f9bc598ddf678d4"
+        "name": "wthit-1.21.11-fabric-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/46pFaMf5/wthit-1.21.11-fabric-18.2.2.jar",
+        "sha512": "a7a3d8487a3bc9ba6febd9a0b271d36ac3f4415e21069cc6f839fc7074004b4857744a6b9d52d964f390fac8c68ffee16e7a938ea8201f595a08792c49fcaa62"
+      },
+      "fabric-18_2_2": {
+        "name": "wthit-1.21.11-fabric-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/46pFaMf5/wthit-1.21.11-fabric-18.2.2.jar",
+        "sha512": "a7a3d8487a3bc9ba6febd9a0b271d36ac3f4415e21069cc6f839fc7074004b4857744a6b9d52d964f390fac8c68ffee16e7a938ea8201f595a08792c49fcaa62"
       },
       "fabric-18_2_1": {
         "name": "wthit-1.21.11-fabric-18.2.1.jar",
@@ -56,9 +73,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "wthit-1.21.10-fabric-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IOM4OTcG/wthit-1.21.10-fabric-17.5.1.jar",
-        "sha512": "28ef15259610bdf79be7accdfa440adcb9e5156745a2fd914d45189755d0732311a60c7dfa7c33071bbfc7ca297a408ec8248108308d478a1d11c6fdb610bf59"
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
+      },
+      "fabric-17_5_2": {
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
       },
       "fabric-17_5_1": {
         "name": "wthit-1.21.10-fabric-17.5.1.jar",
@@ -140,9 +162,14 @@
     },
     "1_21_9": {
       "latest": {
-        "name": "wthit-1.21.10-fabric-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IOM4OTcG/wthit-1.21.10-fabric-17.5.1.jar",
-        "sha512": "28ef15259610bdf79be7accdfa440adcb9e5156745a2fd914d45189755d0732311a60c7dfa7c33071bbfc7ca297a408ec8248108308d478a1d11c6fdb610bf59"
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
+      },
+      "fabric-17_5_2": {
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
       },
       "fabric-17_5_1": {
         "name": "wthit-1.21.10-fabric-17.5.1.jar",
@@ -340,9 +367,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "wthit-1.21.4-fabric-14.6.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/pf6R5zgC/wthit-1.21.4-fabric-14.6.1.jar",
-        "sha512": "f69758f7a1d1e1d738e77f59bfe44e81d023931da77cc3e0c0ce29f813cb7b9436860acce08b3341f6889608d383a12d6d7b59872024eb2e4bbbd2c096987a14"
+        "name": "wthit-1.21.4-fabric-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/rI9SWsRN/wthit-1.21.4-fabric-14.6.2.jar",
+        "sha512": "c9cfbb1a2d5b5a94db7b56839fb26a6739b05f28b8b1106d5abc144d1e6944196fd240e5f01390ba11290cec810f40c8b5d5819c0a2cb5394404657c3f3ddc53"
+      },
+      "fabric-14_6_2": {
+        "name": "wthit-1.21.4-fabric-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/rI9SWsRN/wthit-1.21.4-fabric-14.6.2.jar",
+        "sha512": "c9cfbb1a2d5b5a94db7b56839fb26a6739b05f28b8b1106d5abc144d1e6944196fd240e5f01390ba11290cec810f40c8b5d5819c0a2cb5394404657c3f3ddc53"
       },
       "fabric-14_6_1": {
         "name": "wthit-1.21.4-fabric-14.6.1.jar",
@@ -493,9 +525,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "wthit-1.21.1-fabric-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/j4ao0meG/wthit-1.21.1-fabric-12.10.1.jar",
-        "sha512": "13ff7e1ea0c038dc527336db1e3daa4cce532eb4799421e393383310ac47b3ea48374a5c369115174097edaa2289608a7e3709fde964616cbc76377383e89ba9"
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
+      },
+      "fabric-12_10_2": {
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
       },
       "fabric-12_10_1": {
         "name": "wthit-1.21.1-fabric-12.10.1.jar",
@@ -610,9 +647,14 @@
     },
     "1_21": {
       "latest": {
-        "name": "wthit-1.21.1-fabric-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/j4ao0meG/wthit-1.21.1-fabric-12.10.1.jar",
-        "sha512": "13ff7e1ea0c038dc527336db1e3daa4cce532eb4799421e393383310ac47b3ea48374a5c369115174097edaa2289608a7e3709fde964616cbc76377383e89ba9"
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
+      },
+      "fabric-12_10_2": {
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
       },
       "fabric-12_10_1": {
         "name": "wthit-1.21.1-fabric-12.10.1.jar",
@@ -761,9 +803,14 @@
     },
     "1_20_4": {
       "latest": {
-        "name": "wthit-1.20.4-quilt-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/UxMcb6Is/wthit-1.20.4-quilt-10.11.0.jar",
-        "sha512": "5a355f49d047a805d91013b22f80cbd528905a0b03344b00392f72c0bbf617766b43e3e6ef4b916bba9bfcfab268b4d915c7c076928bd840e0ad3f6cb58e6567"
+        "name": "wthit-1.20.4-quilt-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/tj0rJP1r/wthit-1.20.4-quilt-10.11.1.jar",
+        "sha512": "0ee3182e57aa5b3d849297c10882c1ff1df1a82870d0fa048f2093b50874491add8bcff33833601a019701be91c38a6d48f3bae3c47839d0bb73e71d2d30b5b5"
+      },
+      "quilt-10_11_1": {
+        "name": "wthit-1.20.4-quilt-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/tj0rJP1r/wthit-1.20.4-quilt-10.11.1.jar",
+        "sha512": "0ee3182e57aa5b3d849297c10882c1ff1df1a82870d0fa048f2093b50874491add8bcff33833601a019701be91c38a6d48f3bae3c47839d0bb73e71d2d30b5b5"
       },
       "quilt-10_11_0": {
         "name": "wthit-1.20.4-quilt-10.11.0.jar",
@@ -833,9 +880,14 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "wthit-1.20.4-quilt-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/UxMcb6Is/wthit-1.20.4-quilt-10.11.0.jar",
-        "sha512": "5a355f49d047a805d91013b22f80cbd528905a0b03344b00392f72c0bbf617766b43e3e6ef4b916bba9bfcfab268b4d915c7c076928bd840e0ad3f6cb58e6567"
+        "name": "wthit-1.20.4-quilt-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/tj0rJP1r/wthit-1.20.4-quilt-10.11.1.jar",
+        "sha512": "0ee3182e57aa5b3d849297c10882c1ff1df1a82870d0fa048f2093b50874491add8bcff33833601a019701be91c38a6d48f3bae3c47839d0bb73e71d2d30b5b5"
+      },
+      "quilt-10_11_1": {
+        "name": "wthit-1.20.4-quilt-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/tj0rJP1r/wthit-1.20.4-quilt-10.11.1.jar",
+        "sha512": "0ee3182e57aa5b3d849297c10882c1ff1df1a82870d0fa048f2093b50874491add8bcff33833601a019701be91c38a6d48f3bae3c47839d0bb73e71d2d30b5b5"
       },
       "quilt-10_11_0": {
         "name": "wthit-1.20.4-quilt-10.11.0.jar",
@@ -987,9 +1039,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "wthit-1.20.1-quilt-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/LewX2SNE/wthit-1.20.1-quilt-8.21.0.jar",
-        "sha512": "2c061eaf1bda2583be76cfc31b49382afdafb2a46246cd0f05ceb4eb924e1f2fc89c381c2f279cfea034a9afe073732a481966be6177243292532ca60aff6720"
+        "name": "wthit-1.20.1-quilt-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/gbMmWhLv/wthit-1.20.1-quilt-8.21.1.jar",
+        "sha512": "4356dac1d9e6c725edaefc20dc13b903fb748a7cd06e5f5b1b18bfaaa10a6eb3cbe907a9829b4b1b71c918c67998c0493cd22f5118a3504ffca765bc3058f500"
+      },
+      "quilt-8_21_1": {
+        "name": "wthit-1.20.1-quilt-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/gbMmWhLv/wthit-1.20.1-quilt-8.21.1.jar",
+        "sha512": "4356dac1d9e6c725edaefc20dc13b903fb748a7cd06e5f5b1b18bfaaa10a6eb3cbe907a9829b4b1b71c918c67998c0493cd22f5118a3504ffca765bc3058f500"
       },
       "quilt-8_21_0": {
         "name": "wthit-1.20.1-quilt-8.21.0.jar",
@@ -1224,9 +1281,14 @@
     },
     "1_20": {
       "latest": {
-        "name": "wthit-1.20.1-quilt-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/LewX2SNE/wthit-1.20.1-quilt-8.21.0.jar",
-        "sha512": "2c061eaf1bda2583be76cfc31b49382afdafb2a46246cd0f05ceb4eb924e1f2fc89c381c2f279cfea034a9afe073732a481966be6177243292532ca60aff6720"
+        "name": "wthit-1.20.1-quilt-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/gbMmWhLv/wthit-1.20.1-quilt-8.21.1.jar",
+        "sha512": "4356dac1d9e6c725edaefc20dc13b903fb748a7cd06e5f5b1b18bfaaa10a6eb3cbe907a9829b4b1b71c918c67998c0493cd22f5118a3504ffca765bc3058f500"
+      },
+      "quilt-8_21_1": {
+        "name": "wthit-1.20.1-quilt-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/gbMmWhLv/wthit-1.20.1-quilt-8.21.1.jar",
+        "sha512": "4356dac1d9e6c725edaefc20dc13b903fb748a7cd06e5f5b1b18bfaaa10a6eb3cbe907a9829b4b1b71c918c67998c0493cd22f5118a3504ffca765bc3058f500"
       },
       "quilt-8_21_0": {
         "name": "wthit-1.20.1-quilt-8.21.0.jar",
@@ -1645,9 +1707,14 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "wthit-1.19.2-quilt-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/moZJMbA6/wthit-1.19.2-quilt-5.36.0.jar",
-        "sha512": "8825e4697487d84ea9a7051fa56692a0231eb8c6e13a075bc00fab0630c42b71afb7ac3d1021d6eb8c2166d58cd5474fc41cd16f9d661de5dfce062d1a0b61be"
+        "name": "wthit-1.19.2-quilt-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ilYTpVu9/wthit-1.19.2-quilt-5.36.1.jar",
+        "sha512": "42f34876226e18bccf7bfa5d4352c58f5799951b3321c424ad811e66b0ca490c34cb67ccf777d571a55328f10a59ae6e6722d9e7be0d04e309a9a8b4c3230569"
+      },
+      "quilt-5_36_1": {
+        "name": "wthit-1.19.2-quilt-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ilYTpVu9/wthit-1.19.2-quilt-5.36.1.jar",
+        "sha512": "42f34876226e18bccf7bfa5d4352c58f5799951b3321c424ad811e66b0ca490c34cb67ccf777d571a55328f10a59ae6e6722d9e7be0d04e309a9a8b4c3230569"
       },
       "quilt-5_36_0": {
         "name": "wthit-1.19.2-quilt-5.36.0.jar",
@@ -1982,9 +2049,14 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "wthit-1.19.2-quilt-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/moZJMbA6/wthit-1.19.2-quilt-5.36.0.jar",
-        "sha512": "8825e4697487d84ea9a7051fa56692a0231eb8c6e13a075bc00fab0630c42b71afb7ac3d1021d6eb8c2166d58cd5474fc41cd16f9d661de5dfce062d1a0b61be"
+        "name": "wthit-1.19.2-quilt-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ilYTpVu9/wthit-1.19.2-quilt-5.36.1.jar",
+        "sha512": "42f34876226e18bccf7bfa5d4352c58f5799951b3321c424ad811e66b0ca490c34cb67ccf777d571a55328f10a59ae6e6722d9e7be0d04e309a9a8b4c3230569"
+      },
+      "quilt-5_36_1": {
+        "name": "wthit-1.19.2-quilt-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ilYTpVu9/wthit-1.19.2-quilt-5.36.1.jar",
+        "sha512": "42f34876226e18bccf7bfa5d4352c58f5799951b3321c424ad811e66b0ca490c34cb67ccf777d571a55328f10a59ae6e6722d9e7be0d04e309a9a8b4c3230569"
       },
       "quilt-5_36_0": {
         "name": "wthit-1.19.2-quilt-5.36.0.jar",
@@ -2329,9 +2401,14 @@
     },
     "1_19": {
       "latest": {
-        "name": "wthit-1.19.2-quilt-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/moZJMbA6/wthit-1.19.2-quilt-5.36.0.jar",
-        "sha512": "8825e4697487d84ea9a7051fa56692a0231eb8c6e13a075bc00fab0630c42b71afb7ac3d1021d6eb8c2166d58cd5474fc41cd16f9d661de5dfce062d1a0b61be"
+        "name": "wthit-1.19.2-quilt-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ilYTpVu9/wthit-1.19.2-quilt-5.36.1.jar",
+        "sha512": "42f34876226e18bccf7bfa5d4352c58f5799951b3321c424ad811e66b0ca490c34cb67ccf777d571a55328f10a59ae6e6722d9e7be0d04e309a9a8b4c3230569"
+      },
+      "quilt-5_36_1": {
+        "name": "wthit-1.19.2-quilt-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ilYTpVu9/wthit-1.19.2-quilt-5.36.1.jar",
+        "sha512": "42f34876226e18bccf7bfa5d4352c58f5799951b3321c424ad811e66b0ca490c34cb67ccf777d571a55328f10a59ae6e6722d9e7be0d04e309a9a8b4c3230569"
       },
       "quilt-5_36_0": {
         "name": "wthit-1.19.2-quilt-5.36.0.jar",
@@ -2688,9 +2765,14 @@
   "neoforge": {
     "1_21_11": {
       "latest": {
-        "name": "wthit-1.21.11-neo-18.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/n2hete5q/wthit-1.21.11-neo-18.2.1.jar",
-        "sha512": "9de56dc362e07c6f3d2b4c23e006a42824f6a4a538a62df4be0199d7c7e7471db73bd53f6a7fac324b0ef3907719ac70d57eb8103a85623432150d0b79cc7e57"
+        "name": "wthit-1.21.11-neo-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/9kLa6aJn/wthit-1.21.11-neo-18.2.2.jar",
+        "sha512": "3e644f6b950997a95cf1a6a215e35ce2ee21f3db802013902c467487f4518e77071ed3978b064653c4711478d96edb88a07bd1345119285f6ba7395f4d2d5342"
+      },
+      "neo-18_2_2": {
+        "name": "wthit-1.21.11-neo-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/9kLa6aJn/wthit-1.21.11-neo-18.2.2.jar",
+        "sha512": "3e644f6b950997a95cf1a6a215e35ce2ee21f3db802013902c467487f4518e77071ed3978b064653c4711478d96edb88a07bd1345119285f6ba7395f4d2d5342"
       },
       "neo-18_2_1": {
         "name": "wthit-1.21.11-neo-18.2.1.jar",
@@ -2720,9 +2802,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "wthit-1.21.10-neo-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Jpb1ORP7/wthit-1.21.10-neo-17.5.1.jar",
-        "sha512": "c0cc640ff96ce071e6bac9264f0b53b688a23f7335aa4797f07f5af553e49c9408503284c052e84ec2c0fb206a2cc2770071020c9240ddbd0a389301698d3e08"
+        "name": "wthit-1.21.10-neo-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4npbqAsy/wthit-1.21.10-neo-17.5.2.jar",
+        "sha512": "7a0b22089467e85acb88c54bdd892c8286630c4e006ac77622117171f49e3522d06ad4c585b911a60d86f9aa60873c0793d73c780cc4ba2358a9f296d1594e90"
+      },
+      "neo-17_5_2": {
+        "name": "wthit-1.21.10-neo-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4npbqAsy/wthit-1.21.10-neo-17.5.2.jar",
+        "sha512": "7a0b22089467e85acb88c54bdd892c8286630c4e006ac77622117171f49e3522d06ad4c585b911a60d86f9aa60873c0793d73c780cc4ba2358a9f296d1594e90"
       },
       "neo-17_5_1": {
         "name": "wthit-1.21.10-neo-17.5.1.jar",
@@ -2792,9 +2879,14 @@
     },
     "1_21_9": {
       "latest": {
-        "name": "wthit-1.21.10-neo-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Jpb1ORP7/wthit-1.21.10-neo-17.5.1.jar",
-        "sha512": "c0cc640ff96ce071e6bac9264f0b53b688a23f7335aa4797f07f5af553e49c9408503284c052e84ec2c0fb206a2cc2770071020c9240ddbd0a389301698d3e08"
+        "name": "wthit-1.21.10-neo-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4npbqAsy/wthit-1.21.10-neo-17.5.2.jar",
+        "sha512": "7a0b22089467e85acb88c54bdd892c8286630c4e006ac77622117171f49e3522d06ad4c585b911a60d86f9aa60873c0793d73c780cc4ba2358a9f296d1594e90"
+      },
+      "neo-17_5_2": {
+        "name": "wthit-1.21.10-neo-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4npbqAsy/wthit-1.21.10-neo-17.5.2.jar",
+        "sha512": "7a0b22089467e85acb88c54bdd892c8286630c4e006ac77622117171f49e3522d06ad4c585b911a60d86f9aa60873c0793d73c780cc4ba2358a9f296d1594e90"
       },
       "neo-17_5_1": {
         "name": "wthit-1.21.10-neo-17.5.1.jar",
@@ -2992,9 +3084,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "wthit-1.21.4-neo-14.6.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/qY4k5PCq/wthit-1.21.4-neo-14.6.1.jar",
-        "sha512": "363b705b98359712eb5a26ce8377c817c5755806ff912e2d8d60478f849c127f4aa6f63642ef4c28c1346e5060d7635a2228b93d9ff097371e8fa8cd25557c21"
+        "name": "wthit-1.21.4-neo-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/G0v5vh3c/wthit-1.21.4-neo-14.6.2.jar",
+        "sha512": "175d9092c253efe6373717e8c106721f13983b2dd3f95f0a6337c374af33c4f1373a2f4a04174d67a48417c9ae0763164ad801f8a30d45422ae6d0910bf3bd4e"
+      },
+      "neo-14_6_2": {
+        "name": "wthit-1.21.4-neo-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/G0v5vh3c/wthit-1.21.4-neo-14.6.2.jar",
+        "sha512": "175d9092c253efe6373717e8c106721f13983b2dd3f95f0a6337c374af33c4f1373a2f4a04174d67a48417c9ae0763164ad801f8a30d45422ae6d0910bf3bd4e"
       },
       "neo-14_6_1": {
         "name": "wthit-1.21.4-neo-14.6.1.jar",
@@ -3133,9 +3230,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "wthit-1.21.1-neo-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/dMvCLKsS/wthit-1.21.1-neo-12.10.1.jar",
-        "sha512": "a34030a2ca8d984edec3dbc7b1dfb201e3866546e613c4ee956d7b05eebcfc7ead029db5bb5b0a6ad51860622fc54e3b5c85849c1ce6360892fb53b0beaff588"
+        "name": "wthit-1.21.1-neo-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IeXnWQRE/wthit-1.21.1-neo-12.10.2.jar",
+        "sha512": "b5310bc63f4d724e6f15340be502346a322c7cee9af3d4f0ef2e2556500b69f6db12a1efc4d38850dfb18c5c3aa03dbc5277e47f9bc3bb6c2785ce036b833767"
+      },
+      "neo-12_10_2": {
+        "name": "wthit-1.21.1-neo-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IeXnWQRE/wthit-1.21.1-neo-12.10.2.jar",
+        "sha512": "b5310bc63f4d724e6f15340be502346a322c7cee9af3d4f0ef2e2556500b69f6db12a1efc4d38850dfb18c5c3aa03dbc5277e47f9bc3bb6c2785ce036b833767"
       },
       "neo-12_10_1": {
         "name": "wthit-1.21.1-neo-12.10.1.jar",
@@ -3250,9 +3352,14 @@
     },
     "1_21": {
       "latest": {
-        "name": "wthit-1.21.1-neo-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/dMvCLKsS/wthit-1.21.1-neo-12.10.1.jar",
-        "sha512": "a34030a2ca8d984edec3dbc7b1dfb201e3866546e613c4ee956d7b05eebcfc7ead029db5bb5b0a6ad51860622fc54e3b5c85849c1ce6360892fb53b0beaff588"
+        "name": "wthit-1.21.1-neo-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IeXnWQRE/wthit-1.21.1-neo-12.10.2.jar",
+        "sha512": "b5310bc63f4d724e6f15340be502346a322c7cee9af3d4f0ef2e2556500b69f6db12a1efc4d38850dfb18c5c3aa03dbc5277e47f9bc3bb6c2785ce036b833767"
+      },
+      "neo-12_10_2": {
+        "name": "wthit-1.21.1-neo-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IeXnWQRE/wthit-1.21.1-neo-12.10.2.jar",
+        "sha512": "b5310bc63f4d724e6f15340be502346a322c7cee9af3d4f0ef2e2556500b69f6db12a1efc4d38850dfb18c5c3aa03dbc5277e47f9bc3bb6c2785ce036b833767"
       },
       "neo-12_10_1": {
         "name": "wthit-1.21.1-neo-12.10.1.jar",
@@ -3546,9 +3653,14 @@
     },
     "1_20_4": {
       "latest": {
-        "name": "wthit-1.20.4-neo-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/JjcJe527/wthit-1.20.4-neo-10.11.0.jar",
-        "sha512": "b444fc1dd5cd53a8e867d1ef7d1d05012f046f30a860b05cccd9b80d923490e0944942076de75131b7ca99e6fe8208fc53916f257676297d2ea7ba6879f9d588"
+        "name": "wthit-1.20.4-neo-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Gpj7KR1F/wthit-1.20.4-neo-10.11.1.jar",
+        "sha512": "4b78bb47e267d51abdb618c14f8215fd507f41a404b8b079e72c9ba50d8a8fcf857b5a59266ccbd0f0345486e9a1b84aad217650473121f74db64d8e7d4884c8"
+      },
+      "neo-10_11_1": {
+        "name": "wthit-1.20.4-neo-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Gpj7KR1F/wthit-1.20.4-neo-10.11.1.jar",
+        "sha512": "4b78bb47e267d51abdb618c14f8215fd507f41a404b8b079e72c9ba50d8a8fcf857b5a59266ccbd0f0345486e9a1b84aad217650473121f74db64d8e7d4884c8"
       },
       "neo-10_11_0": {
         "name": "wthit-1.20.4-neo-10.11.0.jar",
@@ -3663,9 +3775,14 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "wthit-1.20.4-neo-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/JjcJe527/wthit-1.20.4-neo-10.11.0.jar",
-        "sha512": "b444fc1dd5cd53a8e867d1ef7d1d05012f046f30a860b05cccd9b80d923490e0944942076de75131b7ca99e6fe8208fc53916f257676297d2ea7ba6879f9d588"
+        "name": "wthit-1.20.4-neo-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Gpj7KR1F/wthit-1.20.4-neo-10.11.1.jar",
+        "sha512": "4b78bb47e267d51abdb618c14f8215fd507f41a404b8b079e72c9ba50d8a8fcf857b5a59266ccbd0f0345486e9a1b84aad217650473121f74db64d8e7d4884c8"
+      },
+      "neo-10_11_1": {
+        "name": "wthit-1.20.4-neo-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/Gpj7KR1F/wthit-1.20.4-neo-10.11.1.jar",
+        "sha512": "4b78bb47e267d51abdb618c14f8215fd507f41a404b8b079e72c9ba50d8a8fcf857b5a59266ccbd0f0345486e9a1b84aad217650473121f74db64d8e7d4884c8"
       },
       "neo-10_11_0": {
         "name": "wthit-1.20.4-neo-10.11.0.jar",
@@ -3887,9 +4004,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "wthit-1.20.1-forge-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/HRZaAciv/wthit-1.20.1-forge-8.21.0.jar",
-        "sha512": "46de3094b06303c7f006d8f4e1d55abb19a51b523f62c8cbbc02c96799e3d1b0d439988999c21c7bb7536ffc129b80f7eeb4729da583c30916ac34548036fe3c"
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
+      },
+      "forge-8_21_1": {
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
       },
       "forge-8_21_0": {
         "name": "wthit-1.20.1-forge-8.21.0.jar",
@@ -4109,9 +4231,14 @@
     },
     "1_20": {
       "latest": {
-        "name": "wthit-1.20.1-forge-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/HRZaAciv/wthit-1.20.1-forge-8.21.0.jar",
-        "sha512": "46de3094b06303c7f006d8f4e1d55abb19a51b523f62c8cbbc02c96799e3d1b0d439988999c21c7bb7536ffc129b80f7eeb4729da583c30916ac34548036fe3c"
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
+      },
+      "forge-8_21_1": {
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
       },
       "forge-8_21_0": {
         "name": "wthit-1.20.1-forge-8.21.0.jar",
@@ -4333,9 +4460,14 @@
   "forge": {
     "1_21_11": {
       "latest": {
-        "name": "wthit-1.21.11-forge-18.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/1xf6xfOI/wthit-1.21.11-forge-18.2.1.jar",
-        "sha512": "ba0091f4054acd6fad8a80ed136c6738151deafbbd731b521c88c0a0e29ca151afad64fee01cb13782808b60b9e81203eda73cc74c16c98a006a9d3bfc581ab7"
+        "name": "wthit-1.21.11-forge-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/c5HfJ4SP/wthit-1.21.11-forge-18.2.2.jar",
+        "sha512": "5f3c6d57004c914cf7b0dbb947be5247746945d53c19843b276f027797e2841ea90fefca5d5a43240e30332c76d526b04e41275238ea127c81017b90f3532623"
+      },
+      "forge-18_2_2": {
+        "name": "wthit-1.21.11-forge-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/c5HfJ4SP/wthit-1.21.11-forge-18.2.2.jar",
+        "sha512": "5f3c6d57004c914cf7b0dbb947be5247746945d53c19843b276f027797e2841ea90fefca5d5a43240e30332c76d526b04e41275238ea127c81017b90f3532623"
       },
       "forge-18_2_1": {
         "name": "wthit-1.21.11-forge-18.2.1.jar",
@@ -4360,9 +4492,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "wthit-1.21.10-forge-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DBlkJKvH/wthit-1.21.10-forge-17.5.1.jar",
-        "sha512": "b2bc0eec6d88aa3ec2e04d7c70d889284de7288bd9c01e7541f3c2bf574263fcf09e25eca6171156856564c89958d6abb8bf06ff167a0651cf42a5daa78780c4"
+        "name": "wthit-1.21.10-forge-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PCCZPwiq/wthit-1.21.10-forge-17.5.2.jar",
+        "sha512": "37d18b4de8fe76c14ddc636db0e28e1c3e76381c2601db17b60caa4ece3ee7405ab64d7088e150e7f09734c4490d0a5408207ebdba5100ab8889ab43b76fcd05"
+      },
+      "forge-17_5_2": {
+        "name": "wthit-1.21.10-forge-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PCCZPwiq/wthit-1.21.10-forge-17.5.2.jar",
+        "sha512": "37d18b4de8fe76c14ddc636db0e28e1c3e76381c2601db17b60caa4ece3ee7405ab64d7088e150e7f09734c4490d0a5408207ebdba5100ab8889ab43b76fcd05"
       },
       "forge-17_5_1": {
         "name": "wthit-1.21.10-forge-17.5.1.jar",
@@ -4432,9 +4569,14 @@
     },
     "1_21_9": {
       "latest": {
-        "name": "wthit-1.21.10-forge-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DBlkJKvH/wthit-1.21.10-forge-17.5.1.jar",
-        "sha512": "b2bc0eec6d88aa3ec2e04d7c70d889284de7288bd9c01e7541f3c2bf574263fcf09e25eca6171156856564c89958d6abb8bf06ff167a0651cf42a5daa78780c4"
+        "name": "wthit-1.21.10-forge-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PCCZPwiq/wthit-1.21.10-forge-17.5.2.jar",
+        "sha512": "37d18b4de8fe76c14ddc636db0e28e1c3e76381c2601db17b60caa4ece3ee7405ab64d7088e150e7f09734c4490d0a5408207ebdba5100ab8889ab43b76fcd05"
+      },
+      "forge-17_5_2": {
+        "name": "wthit-1.21.10-forge-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/PCCZPwiq/wthit-1.21.10-forge-17.5.2.jar",
+        "sha512": "37d18b4de8fe76c14ddc636db0e28e1c3e76381c2601db17b60caa4ece3ee7405ab64d7088e150e7f09734c4490d0a5408207ebdba5100ab8889ab43b76fcd05"
       },
       "forge-17_5_1": {
         "name": "wthit-1.21.10-forge-17.5.1.jar",
@@ -4627,9 +4769,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "wthit-1.21.4-forge-14.6.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/lPYDzfBS/wthit-1.21.4-forge-14.6.1.jar",
-        "sha512": "4ad91849241833c7975f89ae171fc2adcd4af15439156cc5ea99ae0185630fa3da875c2a2ce26c3ccc8fe22c22bb7d8396c1176c3b98103517dfb55b7bf208e6"
+        "name": "wthit-1.21.4-forge-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/VzkJbbTf/wthit-1.21.4-forge-14.6.2.jar",
+        "sha512": "782bc3817b0c90f2e86800329f1a96499d1cbad086bdd5afcb844c5e19d640e061c3c8dc4b7bbd5b92df092f68299751b3d850ed0056b62e96ef9a41a85e47af"
+      },
+      "forge-14_6_2": {
+        "name": "wthit-1.21.4-forge-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/VzkJbbTf/wthit-1.21.4-forge-14.6.2.jar",
+        "sha512": "782bc3817b0c90f2e86800329f1a96499d1cbad086bdd5afcb844c5e19d640e061c3c8dc4b7bbd5b92df092f68299751b3d850ed0056b62e96ef9a41a85e47af"
       },
       "forge-14_6_1": {
         "name": "wthit-1.21.4-forge-14.6.1.jar",
@@ -4758,9 +4905,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "wthit-1.21.1-forge-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DpdBnH2I/wthit-1.21.1-forge-12.10.1.jar",
-        "sha512": "1e35388dadc1ac2bbf098b35dbc071468507e6966651daae1871204d8153cb5edd8c509d8898db7628c84d9045c346a4f203499a822705b3c3b045f021d1497b"
+        "name": "wthit-1.21.1-forge-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/goffbZcc/wthit-1.21.1-forge-12.10.2.jar",
+        "sha512": "dfba546fe049ab72dbfac0dfd73487038e2b65f2dc57496df7011702cc65f11ab4e8b9f265ba8c95a0ebb3b285f3b329c287cc44982c9bd87cba3ea5337f8363"
+      },
+      "forge-12_10_2": {
+        "name": "wthit-1.21.1-forge-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/goffbZcc/wthit-1.21.1-forge-12.10.2.jar",
+        "sha512": "dfba546fe049ab72dbfac0dfd73487038e2b65f2dc57496df7011702cc65f11ab4e8b9f265ba8c95a0ebb3b285f3b329c287cc44982c9bd87cba3ea5337f8363"
       },
       "forge-12_10_1": {
         "name": "wthit-1.21.1-forge-12.10.1.jar",
@@ -4875,9 +5027,14 @@
     },
     "1_21": {
       "latest": {
-        "name": "wthit-1.21.1-forge-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DpdBnH2I/wthit-1.21.1-forge-12.10.1.jar",
-        "sha512": "1e35388dadc1ac2bbf098b35dbc071468507e6966651daae1871204d8153cb5edd8c509d8898db7628c84d9045c346a4f203499a822705b3c3b045f021d1497b"
+        "name": "wthit-1.21.1-forge-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/goffbZcc/wthit-1.21.1-forge-12.10.2.jar",
+        "sha512": "dfba546fe049ab72dbfac0dfd73487038e2b65f2dc57496df7011702cc65f11ab4e8b9f265ba8c95a0ebb3b285f3b329c287cc44982c9bd87cba3ea5337f8363"
+      },
+      "forge-12_10_2": {
+        "name": "wthit-1.21.1-forge-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/goffbZcc/wthit-1.21.1-forge-12.10.2.jar",
+        "sha512": "dfba546fe049ab72dbfac0dfd73487038e2b65f2dc57496df7011702cc65f11ab4e8b9f265ba8c95a0ebb3b285f3b329c287cc44982c9bd87cba3ea5337f8363"
       },
       "forge-12_10_1": {
         "name": "wthit-1.21.1-forge-12.10.1.jar",
@@ -5069,9 +5226,14 @@
     },
     "1_20_4": {
       "latest": {
-        "name": "wthit-1.20.4-forge-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/TF4xORYJ/wthit-1.20.4-forge-10.11.0.jar",
-        "sha512": "32355ea8896744da036601196add405cc324329e1b77fcf59106b234730ef85370ecccd8e8fbb97f8a4771c191956db6fe3aa5848593a3c0d0957115488dbb1b"
+        "name": "wthit-1.20.4-forge-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/71U2RWTA/wthit-1.20.4-forge-10.11.1.jar",
+        "sha512": "83a5e4327843bb0985a5e00526340fdd5ea606d504043421d5e3a95b42e2b2f688ef051fea4aa301783d86db5b08a613f5c2e22ad2107bf08314fbd5f0dd1c0b"
+      },
+      "forge-10_11_1": {
+        "name": "wthit-1.20.4-forge-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/71U2RWTA/wthit-1.20.4-forge-10.11.1.jar",
+        "sha512": "83a5e4327843bb0985a5e00526340fdd5ea606d504043421d5e3a95b42e2b2f688ef051fea4aa301783d86db5b08a613f5c2e22ad2107bf08314fbd5f0dd1c0b"
       },
       "forge-10_11_0": {
         "name": "wthit-1.20.4-forge-10.11.0.jar",
@@ -5186,9 +5348,14 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "wthit-1.20.4-forge-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/TF4xORYJ/wthit-1.20.4-forge-10.11.0.jar",
-        "sha512": "32355ea8896744da036601196add405cc324329e1b77fcf59106b234730ef85370ecccd8e8fbb97f8a4771c191956db6fe3aa5848593a3c0d0957115488dbb1b"
+        "name": "wthit-1.20.4-forge-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/71U2RWTA/wthit-1.20.4-forge-10.11.1.jar",
+        "sha512": "83a5e4327843bb0985a5e00526340fdd5ea606d504043421d5e3a95b42e2b2f688ef051fea4aa301783d86db5b08a613f5c2e22ad2107bf08314fbd5f0dd1c0b"
+      },
+      "forge-10_11_1": {
+        "name": "wthit-1.20.4-forge-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/71U2RWTA/wthit-1.20.4-forge-10.11.1.jar",
+        "sha512": "83a5e4327843bb0985a5e00526340fdd5ea606d504043421d5e3a95b42e2b2f688ef051fea4aa301783d86db5b08a613f5c2e22ad2107bf08314fbd5f0dd1c0b"
       },
       "forge-10_11_0": {
         "name": "wthit-1.20.4-forge-10.11.0.jar",
@@ -5405,9 +5572,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "wthit-1.20.1-forge-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/HRZaAciv/wthit-1.20.1-forge-8.21.0.jar",
-        "sha512": "46de3094b06303c7f006d8f4e1d55abb19a51b523f62c8cbbc02c96799e3d1b0d439988999c21c7bb7536ffc129b80f7eeb4729da583c30916ac34548036fe3c"
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
+      },
+      "forge-8_21_1": {
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
       },
       "forge-8_21_0": {
         "name": "wthit-1.20.1-forge-8.21.0.jar",
@@ -5642,9 +5814,14 @@
     },
     "1_20": {
       "latest": {
-        "name": "wthit-1.20.1-forge-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/HRZaAciv/wthit-1.20.1-forge-8.21.0.jar",
-        "sha512": "46de3094b06303c7f006d8f4e1d55abb19a51b523f62c8cbbc02c96799e3d1b0d439988999c21c7bb7536ffc129b80f7eeb4729da583c30916ac34548036fe3c"
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
+      },
+      "forge-8_21_1": {
+        "name": "wthit-1.20.1-forge-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar",
+        "sha512": "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
       },
       "forge-8_21_0": {
         "name": "wthit-1.20.1-forge-8.21.0.jar",
@@ -6058,9 +6235,14 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "wthit-1.19.2-forge-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/EsJVBKD5/wthit-1.19.2-forge-5.36.0.jar",
-        "sha512": "759fab1be642b240c1bb090ce27b8439132fb806e438f3dd20047813786713de589de37d37f2e39d1e6d036723062ce390ad540d584e83761750f1cc7ce6aa9e"
+        "name": "wthit-1.19.2-forge-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/npP4TGVm/wthit-1.19.2-forge-5.36.1.jar",
+        "sha512": "60c016435a950eec7f6996f0aa31f3b1e628269ba28fd9a82f2d6b501688ba24c4847d6a5d1565128b2a98378c2308c7fabee3360b1bd5a0b5160e2fae993d32"
+      },
+      "forge-5_36_1": {
+        "name": "wthit-1.19.2-forge-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/npP4TGVm/wthit-1.19.2-forge-5.36.1.jar",
+        "sha512": "60c016435a950eec7f6996f0aa31f3b1e628269ba28fd9a82f2d6b501688ba24c4847d6a5d1565128b2a98378c2308c7fabee3360b1bd5a0b5160e2fae993d32"
       },
       "forge-5_36_0": {
         "name": "wthit-1.19.2-forge-5.36.0.jar",
@@ -6405,9 +6587,14 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "wthit-1.19.2-forge-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/EsJVBKD5/wthit-1.19.2-forge-5.36.0.jar",
-        "sha512": "759fab1be642b240c1bb090ce27b8439132fb806e438f3dd20047813786713de589de37d37f2e39d1e6d036723062ce390ad540d584e83761750f1cc7ce6aa9e"
+        "name": "wthit-1.19.2-forge-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/npP4TGVm/wthit-1.19.2-forge-5.36.1.jar",
+        "sha512": "60c016435a950eec7f6996f0aa31f3b1e628269ba28fd9a82f2d6b501688ba24c4847d6a5d1565128b2a98378c2308c7fabee3360b1bd5a0b5160e2fae993d32"
+      },
+      "forge-5_36_1": {
+        "name": "wthit-1.19.2-forge-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/npP4TGVm/wthit-1.19.2-forge-5.36.1.jar",
+        "sha512": "60c016435a950eec7f6996f0aa31f3b1e628269ba28fd9a82f2d6b501688ba24c4847d6a5d1565128b2a98378c2308c7fabee3360b1bd5a0b5160e2fae993d32"
       },
       "forge-5_36_0": {
         "name": "wthit-1.19.2-forge-5.36.0.jar",
@@ -6762,9 +6949,14 @@
     },
     "1_19": {
       "latest": {
-        "name": "wthit-1.19.2-forge-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/EsJVBKD5/wthit-1.19.2-forge-5.36.0.jar",
-        "sha512": "759fab1be642b240c1bb090ce27b8439132fb806e438f3dd20047813786713de589de37d37f2e39d1e6d036723062ce390ad540d584e83761750f1cc7ce6aa9e"
+        "name": "wthit-1.19.2-forge-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/npP4TGVm/wthit-1.19.2-forge-5.36.1.jar",
+        "sha512": "60c016435a950eec7f6996f0aa31f3b1e628269ba28fd9a82f2d6b501688ba24c4847d6a5d1565128b2a98378c2308c7fabee3360b1bd5a0b5160e2fae993d32"
+      },
+      "forge-5_36_1": {
+        "name": "wthit-1.19.2-forge-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/npP4TGVm/wthit-1.19.2-forge-5.36.1.jar",
+        "sha512": "60c016435a950eec7f6996f0aa31f3b1e628269ba28fd9a82f2d6b501688ba24c4847d6a5d1565128b2a98378c2308c7fabee3360b1bd5a0b5160e2fae993d32"
       },
       "forge-5_36_0": {
         "name": "wthit-1.19.2-forge-5.36.0.jar",
@@ -7470,6 +7662,18 @@
     }
   },
   "fabric": {
+    "26_1-rc-3": {
+      "latest": {
+        "name": "wthit-26.1-fabric-19.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/5o3r0nzt/wthit-26.1-fabric-19.0.0.jar",
+        "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
+      },
+      "fabric-19_0_0": {
+        "name": "wthit-26.1-fabric-19.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/5o3r0nzt/wthit-26.1-fabric-19.0.0.jar",
+        "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
+      }
+    },
     "1_21_11-pre1": {
       "latest": {
         "name": "wthit-1.21.11-fabric-18.0.2.jar",
@@ -7489,9 +7693,14 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "wthit-1.21.11-fabric-18.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/KF0bLhDD/wthit-1.21.11-fabric-18.2.1.jar",
-        "sha512": "08f1a7d50030913ff59bdfe152adb54b90dfe077bfbf2e8a911f5793339a76dcbeacb18d9152b02958cf7cb44750997c5cf57bf022a1f3fb5f9bc598ddf678d4"
+        "name": "wthit-1.21.11-fabric-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/46pFaMf5/wthit-1.21.11-fabric-18.2.2.jar",
+        "sha512": "a7a3d8487a3bc9ba6febd9a0b271d36ac3f4415e21069cc6f839fc7074004b4857744a6b9d52d964f390fac8c68ffee16e7a938ea8201f595a08792c49fcaa62"
+      },
+      "fabric-18_2_2": {
+        "name": "wthit-1.21.11-fabric-18.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/46pFaMf5/wthit-1.21.11-fabric-18.2.2.jar",
+        "sha512": "a7a3d8487a3bc9ba6febd9a0b271d36ac3f4415e21069cc6f839fc7074004b4857744a6b9d52d964f390fac8c68ffee16e7a938ea8201f595a08792c49fcaa62"
       },
       "fabric-18_2_1": {
         "name": "wthit-1.21.11-fabric-18.2.1.jar",
@@ -7526,9 +7735,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "wthit-1.21.10-fabric-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IOM4OTcG/wthit-1.21.10-fabric-17.5.1.jar",
-        "sha512": "28ef15259610bdf79be7accdfa440adcb9e5156745a2fd914d45189755d0732311a60c7dfa7c33071bbfc7ca297a408ec8248108308d478a1d11c6fdb610bf59"
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
+      },
+      "fabric-17_5_2": {
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
       },
       "fabric-17_5_1": {
         "name": "wthit-1.21.10-fabric-17.5.1.jar",
@@ -7610,9 +7824,14 @@
     },
     "1_21_9": {
       "latest": {
-        "name": "wthit-1.21.10-fabric-17.5.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IOM4OTcG/wthit-1.21.10-fabric-17.5.1.jar",
-        "sha512": "28ef15259610bdf79be7accdfa440adcb9e5156745a2fd914d45189755d0732311a60c7dfa7c33071bbfc7ca297a408ec8248108308d478a1d11c6fdb610bf59"
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
+      },
+      "fabric-17_5_2": {
+        "name": "wthit-1.21.10-fabric-17.5.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/4MEFAXLk/wthit-1.21.10-fabric-17.5.2.jar",
+        "sha512": "26cb1779ac110f888c3fcf3aaf2fb0947b5c638e10a763c30207c038665b09b16737a2436b7011310bf4437b220ec6292d3813ca8c4b6739caf59a75fb345bb9"
       },
       "fabric-17_5_1": {
         "name": "wthit-1.21.10-fabric-17.5.1.jar",
@@ -7810,9 +8029,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "wthit-1.21.4-fabric-14.6.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/pf6R5zgC/wthit-1.21.4-fabric-14.6.1.jar",
-        "sha512": "f69758f7a1d1e1d738e77f59bfe44e81d023931da77cc3e0c0ce29f813cb7b9436860acce08b3341f6889608d383a12d6d7b59872024eb2e4bbbd2c096987a14"
+        "name": "wthit-1.21.4-fabric-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/rI9SWsRN/wthit-1.21.4-fabric-14.6.2.jar",
+        "sha512": "c9cfbb1a2d5b5a94db7b56839fb26a6739b05f28b8b1106d5abc144d1e6944196fd240e5f01390ba11290cec810f40c8b5d5819c0a2cb5394404657c3f3ddc53"
+      },
+      "fabric-14_6_2": {
+        "name": "wthit-1.21.4-fabric-14.6.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/rI9SWsRN/wthit-1.21.4-fabric-14.6.2.jar",
+        "sha512": "c9cfbb1a2d5b5a94db7b56839fb26a6739b05f28b8b1106d5abc144d1e6944196fd240e5f01390ba11290cec810f40c8b5d5819c0a2cb5394404657c3f3ddc53"
       },
       "fabric-14_6_1": {
         "name": "wthit-1.21.4-fabric-14.6.1.jar",
@@ -7975,9 +8199,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "wthit-1.21.1-fabric-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/j4ao0meG/wthit-1.21.1-fabric-12.10.1.jar",
-        "sha512": "13ff7e1ea0c038dc527336db1e3daa4cce532eb4799421e393383310ac47b3ea48374a5c369115174097edaa2289608a7e3709fde964616cbc76377383e89ba9"
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
+      },
+      "fabric-12_10_2": {
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
       },
       "fabric-12_10_1": {
         "name": "wthit-1.21.1-fabric-12.10.1.jar",
@@ -8092,9 +8321,14 @@
     },
     "1_21": {
       "latest": {
-        "name": "wthit-1.21.1-fabric-12.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/j4ao0meG/wthit-1.21.1-fabric-12.10.1.jar",
-        "sha512": "13ff7e1ea0c038dc527336db1e3daa4cce532eb4799421e393383310ac47b3ea48374a5c369115174097edaa2289608a7e3709fde964616cbc76377383e89ba9"
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
+      },
+      "fabric-12_10_2": {
+        "name": "wthit-1.21.1-fabric-12.10.2.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/3TElmFLp/wthit-1.21.1-fabric-12.10.2.jar",
+        "sha512": "38c48836c68268ecc4a5e8a4a2d1cd78d12a88a45a1e5a71f3ffd8e986601cd0c702be3cfda5b54f57cd514777d7b34c8b1f58d1bb2a20418b5dfe4a3610b272"
       },
       "fabric-12_10_1": {
         "name": "wthit-1.21.1-fabric-12.10.1.jar",
@@ -8429,9 +8663,14 @@
     },
     "1_20_4": {
       "latest": {
-        "name": "wthit-1.20.4-fabric-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DKwPWf0t/wthit-1.20.4-fabric-10.11.0.jar",
-        "sha512": "698691fe78da9931e599dd2fc1cd22e3806da46aa25d324d7359014db0b199d201ad0ce944c900364b17f5d777357b8cb3ef64e71ae2ecf269a9b3515b7e7592"
+        "name": "wthit-1.20.4-fabric-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/CbVy6g8g/wthit-1.20.4-fabric-10.11.1.jar",
+        "sha512": "c599b3aa42c54cf2a0b22cc9bea08cc1164eff378030cab59c25ace588be43f929beb2105226fa71f990f2ea50cb522677b2107fda56ebf1a6a033f54b03f051"
+      },
+      "fabric-10_11_1": {
+        "name": "wthit-1.20.4-fabric-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/CbVy6g8g/wthit-1.20.4-fabric-10.11.1.jar",
+        "sha512": "c599b3aa42c54cf2a0b22cc9bea08cc1164eff378030cab59c25ace588be43f929beb2105226fa71f990f2ea50cb522677b2107fda56ebf1a6a033f54b03f051"
       },
       "fabric-10_11_0": {
         "name": "wthit-1.20.4-fabric-10.11.0.jar",
@@ -8558,9 +8797,14 @@
     },
     "1_20_3": {
       "latest": {
-        "name": "wthit-1.20.4-fabric-10.11.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/DKwPWf0t/wthit-1.20.4-fabric-10.11.0.jar",
-        "sha512": "698691fe78da9931e599dd2fc1cd22e3806da46aa25d324d7359014db0b199d201ad0ce944c900364b17f5d777357b8cb3ef64e71ae2ecf269a9b3515b7e7592"
+        "name": "wthit-1.20.4-fabric-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/CbVy6g8g/wthit-1.20.4-fabric-10.11.1.jar",
+        "sha512": "c599b3aa42c54cf2a0b22cc9bea08cc1164eff378030cab59c25ace588be43f929beb2105226fa71f990f2ea50cb522677b2107fda56ebf1a6a033f54b03f051"
+      },
+      "fabric-10_11_1": {
+        "name": "wthit-1.20.4-fabric-10.11.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/CbVy6g8g/wthit-1.20.4-fabric-10.11.1.jar",
+        "sha512": "c599b3aa42c54cf2a0b22cc9bea08cc1164eff378030cab59c25ace588be43f929beb2105226fa71f990f2ea50cb522677b2107fda56ebf1a6a033f54b03f051"
       },
       "fabric-10_11_0": {
         "name": "wthit-1.20.4-fabric-10.11.0.jar",
@@ -8792,9 +9036,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "wthit-1.20.1-fabric-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/mh9Zp3yN/wthit-1.20.1-fabric-8.21.0.jar",
-        "sha512": "4406f6de59d923ded5d1e496bff0d62b2e9c8ee53842652fac39e150719faff6795140ab6143398a946fe77e6d8a504ae4d2dbb665b25df355a73f9d77919b19"
+        "name": "wthit-1.20.1-fabric-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ot3ZTp9V/wthit-1.20.1-fabric-8.21.1.jar",
+        "sha512": "cfb92f510ba4894d4836814f155a5b441558382ed3f3a4ad465018a2430578d6fd2c12d5ddbd26b1bdf93a058f08e13bc91f51c99e0bee3a153dfc45f184d385"
+      },
+      "fabric-8_21_1": {
+        "name": "wthit-1.20.1-fabric-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ot3ZTp9V/wthit-1.20.1-fabric-8.21.1.jar",
+        "sha512": "cfb92f510ba4894d4836814f155a5b441558382ed3f3a4ad465018a2430578d6fd2c12d5ddbd26b1bdf93a058f08e13bc91f51c99e0bee3a153dfc45f184d385"
       },
       "fabric-8_21_0": {
         "name": "wthit-1.20.1-fabric-8.21.0.jar",
@@ -9046,9 +9295,14 @@
     },
     "1_20": {
       "latest": {
-        "name": "wthit-1.20.1-fabric-8.21.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/mh9Zp3yN/wthit-1.20.1-fabric-8.21.0.jar",
-        "sha512": "4406f6de59d923ded5d1e496bff0d62b2e9c8ee53842652fac39e150719faff6795140ab6143398a946fe77e6d8a504ae4d2dbb665b25df355a73f9d77919b19"
+        "name": "wthit-1.20.1-fabric-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ot3ZTp9V/wthit-1.20.1-fabric-8.21.1.jar",
+        "sha512": "cfb92f510ba4894d4836814f155a5b441558382ed3f3a4ad465018a2430578d6fd2c12d5ddbd26b1bdf93a058f08e13bc91f51c99e0bee3a153dfc45f184d385"
+      },
+      "fabric-8_21_1": {
+        "name": "wthit-1.20.1-fabric-8.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/ot3ZTp9V/wthit-1.20.1-fabric-8.21.1.jar",
+        "sha512": "cfb92f510ba4894d4836814f155a5b441558382ed3f3a4ad465018a2430578d6fd2c12d5ddbd26b1bdf93a058f08e13bc91f51c99e0bee3a153dfc45f184d385"
       },
       "fabric-8_21_0": {
         "name": "wthit-1.20.1-fabric-8.21.0.jar",
@@ -9479,9 +9733,14 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "wthit-1.19.2-fabric-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/U3clL0gA/wthit-1.19.2-fabric-5.36.0.jar",
-        "sha512": "d27b740bf366171bc0ecd66612ab5b9a8f56c56ebdb9f7216afa0847380ce1681410bc8275692a3532cbd7becacc21f1a4c73685e514563815952ac0b5540a01"
+        "name": "wthit-1.19.2-fabric-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/APJpZnsA/wthit-1.19.2-fabric-5.36.1.jar",
+        "sha512": "ad09523cd2e46df4f7d03f493fa89a3f79ce20bf1525e7aecc29260f97e098fb1fd57856ad907bde1b00fcbe507cd5086785b0a791005501e7e7aa0cad9bd1c6"
+      },
+      "fabric-5_36_1": {
+        "name": "wthit-1.19.2-fabric-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/APJpZnsA/wthit-1.19.2-fabric-5.36.1.jar",
+        "sha512": "ad09523cd2e46df4f7d03f493fa89a3f79ce20bf1525e7aecc29260f97e098fb1fd57856ad907bde1b00fcbe507cd5086785b0a791005501e7e7aa0cad9bd1c6"
       },
       "fabric-5_36_0": {
         "name": "wthit-1.19.2-fabric-5.36.0.jar",
@@ -9826,9 +10085,14 @@
     },
     "1_19_1": {
       "latest": {
-        "name": "wthit-1.19.2-fabric-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/U3clL0gA/wthit-1.19.2-fabric-5.36.0.jar",
-        "sha512": "d27b740bf366171bc0ecd66612ab5b9a8f56c56ebdb9f7216afa0847380ce1681410bc8275692a3532cbd7becacc21f1a4c73685e514563815952ac0b5540a01"
+        "name": "wthit-1.19.2-fabric-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/APJpZnsA/wthit-1.19.2-fabric-5.36.1.jar",
+        "sha512": "ad09523cd2e46df4f7d03f493fa89a3f79ce20bf1525e7aecc29260f97e098fb1fd57856ad907bde1b00fcbe507cd5086785b0a791005501e7e7aa0cad9bd1c6"
+      },
+      "fabric-5_36_1": {
+        "name": "wthit-1.19.2-fabric-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/APJpZnsA/wthit-1.19.2-fabric-5.36.1.jar",
+        "sha512": "ad09523cd2e46df4f7d03f493fa89a3f79ce20bf1525e7aecc29260f97e098fb1fd57856ad907bde1b00fcbe507cd5086785b0a791005501e7e7aa0cad9bd1c6"
       },
       "fabric-5_36_0": {
         "name": "wthit-1.19.2-fabric-5.36.0.jar",
@@ -10200,9 +10464,14 @@
     },
     "1_19": {
       "latest": {
-        "name": "wthit-1.19.2-fabric-5.36.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/U3clL0gA/wthit-1.19.2-fabric-5.36.0.jar",
-        "sha512": "d27b740bf366171bc0ecd66612ab5b9a8f56c56ebdb9f7216afa0847380ce1681410bc8275692a3532cbd7becacc21f1a4c73685e514563815952ac0b5540a01"
+        "name": "wthit-1.19.2-fabric-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/APJpZnsA/wthit-1.19.2-fabric-5.36.1.jar",
+        "sha512": "ad09523cd2e46df4f7d03f493fa89a3f79ce20bf1525e7aecc29260f97e098fb1fd57856ad907bde1b00fcbe507cd5086785b0a791005501e7e7aa0cad9bd1c6"
+      },
+      "fabric-5_36_1": {
+        "name": "wthit-1.19.2-fabric-5.36.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/APJpZnsA/wthit-1.19.2-fabric-5.36.1.jar",
+        "sha512": "ad09523cd2e46df4f7d03f493fa89a3f79ce20bf1525e7aecc29260f97e098fb1fd57856ad907bde1b00fcbe507cd5086785b0a791005501e7e7aa0cad9bd1c6"
       },
       "fabric-5_36_0": {
         "name": "wthit-1.19.2-fabric-5.36.0.jar",
