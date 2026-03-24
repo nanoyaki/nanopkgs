@@ -10,7 +10,7 @@ final: prev: {
       owner = "CalcProgrammer1";
       repo = "OpenRGB";
       rev = "984c18cb11693990619cc03c075d39ce16666bea";
-      hash = "sha256-QCd2yYRvJR64KAf5w/SayA+jPI2kdKQwq2jrZiYekSE=";
+      hash = "sha256-8dD+nG8Ke3Wa/VXlvsWb5VekD4x3qhJPm49boXGuNIw=";
     };
 
     patches = [ ];
