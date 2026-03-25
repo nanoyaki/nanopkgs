@@ -300,6 +300,23 @@
     }
   },
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "ForgeConfigAPIPort-v26.1.0.1-mc26.1-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/eDq1coCZ/ForgeConfigAPIPort-v26.1.0.1-mc26.1-NeoForge.jar",
+        "sha512": "6b9d45e745818dadbcb322746e397549f2b93538b35d37dc1bccb0558dc7e9a4c21b1e6e900999a6545a6e3da3db65c6fd2a85626db2b9c7c7b48985291eca4b"
+      },
+      "26_1_0_1": {
+        "name": "ForgeConfigAPIPort-v26.1.0.1-mc26.1-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/eDq1coCZ/ForgeConfigAPIPort-v26.1.0.1-mc26.1-NeoForge.jar",
+        "sha512": "6b9d45e745818dadbcb322746e397549f2b93538b35d37dc1bccb0558dc7e9a4c21b1e6e900999a6545a6e3da3db65c6fd2a85626db2b9c7c7b48985291eca4b"
+      },
+      "26_1_0_0": {
+        "name": "ForgeConfigAPIPort-v26.1.0.0-mc26.1-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/C7wm2eCg/ForgeConfigAPIPort-v26.1.0.0-mc26.1-NeoForge.jar",
+        "sha512": "ffe43b74c99e05c38351888f194188a8568162a472caae8c2950e9bf8f9e29a38bea8331eecfcf4a5855b493250eef14f0adf24bbc4138c994a32481a5722375"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-NeoForge.jar",
@@ -985,6 +1002,23 @@
     }
   },
   "fabric": {
+    "26_1": {
+      "latest": {
+        "name": "ForgeConfigAPIPort-v26.1.0.1-mc26.1-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/vWPACd6w/ForgeConfigAPIPort-v26.1.0.1-mc26.1-Fabric.jar",
+        "sha512": "c616db05bb92f0f8c368fa9fdf048a0312c54752bb3ec5e6bcb8a3231ecc148c0c2345114c56d211bc1cd5445ab7623299ad726fe99de41e65bf0eb134865575"
+      },
+      "26_1_0_1": {
+        "name": "ForgeConfigAPIPort-v26.1.0.1-mc26.1-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/vWPACd6w/ForgeConfigAPIPort-v26.1.0.1-mc26.1-Fabric.jar",
+        "sha512": "c616db05bb92f0f8c368fa9fdf048a0312c54752bb3ec5e6bcb8a3231ecc148c0c2345114c56d211bc1cd5445ab7623299ad726fe99de41e65bf0eb134865575"
+      },
+      "26_1_0_0": {
+        "name": "ForgeConfigAPIPort-v26.1.0.0-mc26.1-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/G9ZxeMEb/ForgeConfigAPIPort-v26.1.0.0-mc26.1-Fabric.jar",
+        "sha512": "bf1381a9531982ac0bdb24df8016a528c537a77737f00b2d62ca7215953115abf0994d9e87474ad634d3084b505c7291a3574d83b7e6c1d1fca6f27a17e7c25a"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
