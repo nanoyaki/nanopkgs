@@ -1,5 +1,17 @@
 {
   "quilt": {
+    "1_21_11": {
+      "latest": {
+        "name": "cristellib-fabric-1.21.11-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/QW7dcPGu/cristellib-fabric-1.21.11-3.1.0.jar",
+        "sha512": "214c0391ae216ea1c7de0cef7b66788e9ae10970e0a2d635aa4c90b87e5e9da2d17190c9e79f0de71510ad00c6b9d381a943bee2696df51ef8f416f1faedebf6"
+      },
+      "fabric3_1_0": {
+        "name": "cristellib-fabric-1.21.11-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/QW7dcPGu/cristellib-fabric-1.21.11-3.1.0.jar",
+        "sha512": "214c0391ae216ea1c7de0cef7b66788e9ae10970e0a2d635aa4c90b87e5e9da2d17190c9e79f0de71510ad00c6b9d381a943bee2696df51ef8f416f1faedebf6"
+      }
+    },
     "1_20_1": {
       "latest": {
         "name": "cristellib-1.1.5-fabric.jar",
@@ -104,9 +116,14 @@
   "neoforge": {
     "1_21_11": {
       "latest": {
-        "name": "cristellib-neoforge-1.21.11-3.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/z86zTl4X/cristellib-neoforge-1.21.11-3.0.4.jar",
-        "sha512": "b174afb246eaca0029b47b4f427fd33a9bfff029fe16f42f006ca60d9b0eb36f61958bf671f4af6920feb8b5fdaf8b5b87f44aeaa556b571b5f69cdad2ec858b"
+        "name": "cristellib-neoforge-1.21.11-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/q4ANRUMZ/cristellib-neoforge-1.21.11-3.1.0.jar",
+        "sha512": "d4bca2d6636eddd609ddd28ac88fed83b72b06d6a033f44e540e46824c1283b5b50b35ce923c64ad78e07c3379bbb2e60d41689b53aa4c6dc64a0311ae038e07"
+      },
+      "neoforge3_1_0": {
+        "name": "cristellib-neoforge-1.21.11-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/q4ANRUMZ/cristellib-neoforge-1.21.11-3.1.0.jar",
+        "sha512": "d4bca2d6636eddd609ddd28ac88fed83b72b06d6a033f44e540e46824c1283b5b50b35ce923c64ad78e07c3379bbb2e60d41689b53aa4c6dc64a0311ae038e07"
       },
       "neoforge3_0_4": {
         "name": "cristellib-neoforge-1.21.11-3.0.4.jar",
@@ -483,9 +500,14 @@
   "fabric": {
     "1_21_11": {
       "latest": {
-        "name": "cristellib-fabric-1.21.11-3.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/6vtzWpRI/cristellib-fabric-1.21.11-3.0.4.jar",
-        "sha512": "401305ae1479864511615a60d6d9d72dca34b0a58db7affaeb1f9a5582eaff24b516e96b686bd1198f251653c7a5980d86a1407f684ab952c3c45e64f88ae6b6"
+        "name": "cristellib-fabric-1.21.11-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/QW7dcPGu/cristellib-fabric-1.21.11-3.1.0.jar",
+        "sha512": "214c0391ae216ea1c7de0cef7b66788e9ae10970e0a2d635aa4c90b87e5e9da2d17190c9e79f0de71510ad00c6b9d381a943bee2696df51ef8f416f1faedebf6"
+      },
+      "fabric3_1_0": {
+        "name": "cristellib-fabric-1.21.11-3.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/cl223EMc/versions/QW7dcPGu/cristellib-fabric-1.21.11-3.1.0.jar",
+        "sha512": "214c0391ae216ea1c7de0cef7b66788e9ae10970e0a2d635aa4c90b87e5e9da2d17190c9e79f0de71510ad00c6b9d381a943bee2696df51ef8f416f1faedebf6"
       },
       "fabric3_0_4": {
         "name": "cristellib-fabric-1.21.11-3.0.4.jar",

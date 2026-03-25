@@ -167,14 +167,9 @@
     },
     "26_1-rc-2": {
       "latest": {
-        "name": "fabric-api-0.144.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bzzYBd3m/fabric-api-0.144.0%2B26.1.jar",
-        "sha512": "ca9352d5f1023f160da23a127ee1c18438e65b28d6bdd429adc5c5a381bb497593f2d52d6516d1a51ed972f71878bdfa6dead216821baef3f4890420b5b5ccb6"
-      },
-      "0_144_0+26_1": {
-        "name": "fabric-api-0.144.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bzzYBd3m/fabric-api-0.144.0%2B26.1.jar",
-        "sha512": "ca9352d5f1023f160da23a127ee1c18438e65b28d6bdd429adc5c5a381bb497593f2d52d6516d1a51ed972f71878bdfa6dead216821baef3f4890420b5b5ccb6"
+        "name": "fabric-api-0.143.15+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6CBJt2lg/fabric-api-0.143.15%2B26.1.jar",
+        "sha512": "d60cbd3f7d8b3f10581058aee63935a4148a410938ce9bf5b14a7a7318c93d2aac93ec663d405b398021d693f606847804ffef030681448ac6726eaec253c0e5"
       },
       "0_143_15+26_1": {
         "name": "fabric-api-0.143.15+26.1.jar",
@@ -270,6 +265,18 @@
         "name": "fabric-api-0.140.0+26.1.jar",
         "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/uvxV23TB/fabric-api-0.140.0%2B26.1.jar",
         "sha512": "d7d5202ad0f03f40091d90393c75147251017a5e99dbef717c1df16e8d4f1ac7f96df948049d7a9e7ce4c100ef6538b35020282111dc5793eed55f8266d03c11"
+      }
+    },
+    "26_1": {
+      "latest": {
+        "name": "fabric-api-0.144.0+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bzzYBd3m/fabric-api-0.144.0%2B26.1.jar",
+        "sha512": "ca9352d5f1023f160da23a127ee1c18438e65b28d6bdd429adc5c5a381bb497593f2d52d6516d1a51ed972f71878bdfa6dead216821baef3f4890420b5b5ccb6"
+      },
+      "0_144_0": {
+        "name": "fabric-api-0.144.0+26.1.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bzzYBd3m/fabric-api-0.144.0%2B26.1.jar",
+        "sha512": "ca9352d5f1023f160da23a127ee1c18438e65b28d6bdd429adc5c5a381bb497593f2d52d6516d1a51ed972f71878bdfa6dead216821baef3f4890420b5b5ccb6"
       }
     },
     "1_21_11-pre3": {
