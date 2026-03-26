@@ -1,5 +1,17 @@
 {
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-windows-2.4.2-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/LeFUseF5/mcw-windows-2.4.2-mc26.1neoforge.jar",
+        "sha512": "9f84c47e1bf068df9c751908ebe521e97d8b676f9cb0cf17ebbbc91f534794d6f16c4f8d43299f6b1591b8a5f780c25fb5c3938b0583ebfcd3c4d9b21e86e8b5"
+      },
+      "2_4_2": {
+        "name": "mcw-windows-2.4.2-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/LeFUseF5/mcw-windows-2.4.2-mc26.1neoforge.jar",
+        "sha512": "9f84c47e1bf068df9c751908ebe521e97d8b676f9cb0cf17ebbbc91f534794d6f16c4f8d43299f6b1591b8a5f780c25fb5c3938b0583ebfcd3c4d9b21e86e8b5"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-windows-2.4.2-mc1.21.11neoforge.jar",
@@ -298,6 +310,18 @@
     }
   },
   "forge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-windows-2.4.2-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/dKGZXdtY/mcw-windows-2.4.2-mc26.1forge.jar",
+        "sha512": "a1ef9213aa3d639d37b6fa0da1988af2377dceaf8c72afe17d5e584ad4d6caa315e5a5bdbe2fca15c388cfee1332d24cdfd3afed44e2aee3f4b9e2d0f85dee35"
+      },
+      "2_4_2": {
+        "name": "mcw-windows-2.4.2-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/dKGZXdtY/mcw-windows-2.4.2-mc26.1forge.jar",
+        "sha512": "a1ef9213aa3d639d37b6fa0da1988af2377dceaf8c72afe17d5e584ad4d6caa315e5a5bdbe2fca15c388cfee1332d24cdfd3afed44e2aee3f4b9e2d0f85dee35"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-windows-2.4.2-mc1.21.11forge.jar",

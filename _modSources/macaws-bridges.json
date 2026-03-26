@@ -1,5 +1,17 @@
 {
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-bridges-3.1.2-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/szkqDGRO/mcw-bridges-3.1.2-mc26.1neoforge.jar",
+        "sha512": "371f89516e1eed3639cdd0bf7b4a1eb104fecbdaf08f4e2b2bd238bd6afe74574342734e905d826a44c01355a6a541151216bbc8b1efec391691825c7fcfb54e"
+      },
+      "3_1_2": {
+        "name": "mcw-bridges-3.1.2-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/szkqDGRO/mcw-bridges-3.1.2-mc26.1neoforge.jar",
+        "sha512": "371f89516e1eed3639cdd0bf7b4a1eb104fecbdaf08f4e2b2bd238bd6afe74574342734e905d826a44c01355a6a541151216bbc8b1efec391691825c7fcfb54e"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-bridges-3.1.2-mc1.21.11neoforge.jar",
@@ -258,6 +270,18 @@
     }
   },
   "forge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-bridges-3.1.2-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/wruQNJ5v/mcw-bridges-3.1.2-mc26.1forge.jar",
+        "sha512": "0452883156e2ee47b4706156e64f30b2083fa610bcfb3e1893518e9fd3e1c319fbab867ab750351d9c1f4f5acb7f40579016b22f06e532863d93c7c7469bea5a"
+      },
+      "3_1_2": {
+        "name": "mcw-bridges-3.1.2-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/wruQNJ5v/mcw-bridges-3.1.2-mc26.1forge.jar",
+        "sha512": "0452883156e2ee47b4706156e64f30b2083fa610bcfb3e1893518e9fd3e1c319fbab867ab750351d9c1f4f5acb7f40579016b22f06e532863d93c7c7469bea5a"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-bridges-3.1.2-mc1.21.11forge.jar",
@@ -917,6 +941,18 @@
     }
   },
   "fabric": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-bridges-3.1.2-mc26.1fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/QLLyZd4W/mcw-bridges-3.1.2-mc26.1fabric.jar",
+        "sha512": "42c39a417b94cf773de91a651ad99c14c0e743f696bf74b42763584e0a94627b786fc84bcdb69bc47042b585abcb7bd5c195b7b608f62d4032d2cfd77d178bca"
+      },
+      "3_1_2": {
+        "name": "mcw-bridges-3.1.2-mc26.1fabric.jar",
+        "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/QLLyZd4W/mcw-bridges-3.1.2-mc26.1fabric.jar",
+        "sha512": "42c39a417b94cf773de91a651ad99c14c0e743f696bf74b42763584e0a94627b786fc84bcdb69bc47042b585abcb7bd5c195b7b608f62d4032d2cfd77d178bca"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-bridges-3.1.2-mc1.21.11fabric.jar",

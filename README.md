@@ -17,13 +17,12 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-20`
 - `dwproton-bin` -> `10.0-22`
 - `error-pages` -> `0-unstable-2024-11-22`
-- `fireshare` -> `1.5.2-unstable-2026-03-22`
 - `flaresolverr` -> `3.4.6`
 - `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-03-16`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2026-03-23`
-- `osu-lazer-bin` -> `2026.318.0-tachyon`
+- `osu-lazer-bin` -> `2026.326.0-tachyon`
 - `prefetch`
 - `prowlarr` -> `2.3.4.5307`
 - `pyon` -> `0.1.0`
