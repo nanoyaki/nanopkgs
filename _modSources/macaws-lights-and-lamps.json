@@ -1,5 +1,17 @@
 {
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-lights-1.1.5-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/w4an97C2/versions/mr8AEiQp/mcw-lights-1.1.5-mc26.1neoforge.jar",
+        "sha512": "3518640f2f02b1c1f5641da28f28d328e3057449f7eee545b271330dcdd34d2502bb33e340df23f8a3d234c2cf977287d7021ae30036b66c72bc569d8f9c469a"
+      },
+      "1_1_5": {
+        "name": "mcw-lights-1.1.5-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/w4an97C2/versions/mr8AEiQp/mcw-lights-1.1.5-mc26.1neoforge.jar",
+        "sha512": "3518640f2f02b1c1f5641da28f28d328e3057449f7eee545b271330dcdd34d2502bb33e340df23f8a3d234c2cf977287d7021ae30036b66c72bc569d8f9c469a"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-lights-1.1.5-mc1.21.11neoforge.jar",
@@ -258,6 +270,18 @@
     }
   },
   "forge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-lights-1.1.5-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/w4an97C2/versions/6I63usQd/mcw-lights-1.1.5-mc26.1forge.jar",
+        "sha512": "0f443f63ed1189663e003a324560c7d3223ef9d856f3b87036f9a6ac664f8078f2dc1fe148b059eaf2118f97b2055f4b72bb03e6558f7ca3ce7f89d0da77f099"
+      },
+      "1_1_5": {
+        "name": "mcw-lights-1.1.5-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/w4an97C2/versions/6I63usQd/mcw-lights-1.1.5-mc26.1forge.jar",
+        "sha512": "0f443f63ed1189663e003a324560c7d3223ef9d856f3b87036f9a6ac664f8078f2dc1fe148b059eaf2118f97b2055f4b72bb03e6558f7ca3ce7f89d0da77f099"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-lights-1.1.5-mc1.21.11forge.jar",

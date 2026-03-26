@@ -1,5 +1,17 @@
 {
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-paths-1.1.1-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/5uiuhaEh/mcw-paths-1.1.1-mc26.1neoforge.jar",
+        "sha512": "dcae6ac82646eaba9f449f2b81890602c354a1e20a56ecd2e6563abc1fbadbf20796df525ad0480cd78872b4da33f6dbba83839dea6b19e237703cb81a7586c3"
+      },
+      "1_1_1": {
+        "name": "mcw-paths-1.1.1-mc26.1neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/5uiuhaEh/mcw-paths-1.1.1-mc26.1neoforge.jar",
+        "sha512": "dcae6ac82646eaba9f449f2b81890602c354a1e20a56ecd2e6563abc1fbadbf20796df525ad0480cd78872b4da33f6dbba83839dea6b19e237703cb81a7586c3"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-paths-1.1.1-mc1.21.11neoforge.jar",
@@ -228,6 +240,18 @@
     }
   },
   "forge": {
+    "26_1": {
+      "latest": {
+        "name": "mcw-paths-1.1.1-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/Z1fhbG2B/mcw-paths-1.1.1-mc26.1forge.jar",
+        "sha512": "d92a8e43e28d8231a3392be3b5e98f3e8f1fb2d617cca3bc22c872e39d01723d84e26da49457999025731a31b20d29126677f20b88ad7c495f7b65f00c8e5baa"
+      },
+      "1_1_1": {
+        "name": "mcw-paths-1.1.1-mc26.1forge.jar",
+        "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/Z1fhbG2B/mcw-paths-1.1.1-mc26.1forge.jar",
+        "sha512": "d92a8e43e28d8231a3392be3b5e98f3e8f1fb2d617cca3bc22c872e39d01723d84e26da49457999025731a31b20d29126677f20b88ad7c495f7b65f00c8e5baa"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "mcw-paths-1.1.1-mc1.21.11forge.jar",

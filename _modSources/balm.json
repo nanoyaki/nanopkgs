@@ -2,9 +2,19 @@
   "neoforge": {
     "26_1": {
       "latest": {
-        "name": "balm-neoforge-26.1-26.1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/5VdS76Le/balm-neoforge-26.1-26.1.0.1.jar",
-        "sha512": "c5ef4a5e8a4fd997d8243a56ca26d3f79d02938d0e51bf92e83f96b64bea52667d89fe28ecc7248e68a22e0aee0fb4fada56e114d5fbac5913a79faa75345717"
+        "name": "balm-neoforge-26.1-26.1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/v3rUaYtw/balm-neoforge-26.1-26.1.0.3.jar",
+        "sha512": "b309d67a9b6781af4976e3634e45c3d8572eed36b22fb1fd14e280b5f92ce60a3d97317594f576f08be0f5e7bd63a7c47f87766ea42678df6f6968e42d529354"
+      },
+      "26_1_0_3": {
+        "name": "balm-neoforge-26.1-26.1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/v3rUaYtw/balm-neoforge-26.1-26.1.0.3.jar",
+        "sha512": "b309d67a9b6781af4976e3634e45c3d8572eed36b22fb1fd14e280b5f92ce60a3d97317594f576f08be0f5e7bd63a7c47f87766ea42678df6f6968e42d529354"
+      },
+      "26_1_0_2": {
+        "name": "balm-neoforge-26.1-26.1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/MHSGYpGJ/balm-neoforge-26.1-26.1.0.2.jar",
+        "sha512": "aaa2f2d36a2ef5152942434550e921169b3207cdaa7d7e85dfb66cd2578d6bd14dc472c14036dd56dcd3fb57772bc1c3fdd4b4e02bf868af94e272f949988ed9"
       },
       "26_1_0_1": {
         "name": "balm-neoforge-26.1-26.1.0.1.jar",
@@ -1129,6 +1139,23 @@
     }
   },
   "forge": {
+    "26_1": {
+      "latest": {
+        "name": "balm-forge-26.1-26.1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/mmkEmk55/balm-forge-26.1-26.1.0.3.jar",
+        "sha512": "d51a43a664bd40698e967fb902635da9b17352d9eb5baac650e7a8d3a4cf3d809e56b7911c668c997999eeb0203f3e83f28672dbb14f36341d6be2480a3f094a"
+      },
+      "26_1_0_3": {
+        "name": "balm-forge-26.1-26.1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/mmkEmk55/balm-forge-26.1-26.1.0.3.jar",
+        "sha512": "d51a43a664bd40698e967fb902635da9b17352d9eb5baac650e7a8d3a4cf3d809e56b7911c668c997999eeb0203f3e83f28672dbb14f36341d6be2480a3f094a"
+      },
+      "26_1_0_2": {
+        "name": "balm-forge-26.1-26.1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/PiuvxyRP/balm-forge-26.1-26.1.0.2.jar",
+        "sha512": "bb038a3522f0558e6244bdd1299a285497cfad7d53a448b69cae496b810795550506fb26cd29817d8e2c300c12b48a5bf937ac954a30003ee277be131c5aa5c1"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "balm-forge-1.21.11-21.11.8.jar",
@@ -2682,9 +2709,19 @@
   "fabric": {
     "26_1": {
       "latest": {
-        "name": "balm-fabric-26.1-26.1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/rjgtEenJ/balm-fabric-26.1-26.1.0.1.jar",
-        "sha512": "4fd7ab5c96212ba951f88883201a28d76d4ab2b4e3674dcc40015f86f0a0fb1d540ddaa3449b136a96893eeebe42967a7c55c69927e46ab793be7b608c62482b"
+        "name": "balm-fabric-26.1-26.1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4y0bFqzm/balm-fabric-26.1-26.1.0.3.jar",
+        "sha512": "7314010c13234c75a2256b46e0071348e63f6e8a5cb5837b70d7c0d15bca380f1f4e1c2fb22bd44d9a8e7adc5573297c020a451ddc06dd131c0d1330f98bd95e"
+      },
+      "26_1_0_3": {
+        "name": "balm-fabric-26.1-26.1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/4y0bFqzm/balm-fabric-26.1-26.1.0.3.jar",
+        "sha512": "7314010c13234c75a2256b46e0071348e63f6e8a5cb5837b70d7c0d15bca380f1f4e1c2fb22bd44d9a8e7adc5573297c020a451ddc06dd131c0d1330f98bd95e"
+      },
+      "26_1_0_2": {
+        "name": "balm-fabric-26.1-26.1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/dnLVBEFq/balm-fabric-26.1-26.1.0.2.jar",
+        "sha512": "d5cbc6ad138058376a473fdea20feeae344d217417f5428066bb3af5815682669f7dc9bc1da43843cc19eb2499b0d086b1de65f252e24919f6b4cda50666ef86"
       },
       "26_1_0_1": {
         "name": "balm-fabric-26.1-26.1.0.1.jar",
