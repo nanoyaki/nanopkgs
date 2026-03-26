@@ -17,7 +17,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-20`
 - `dwproton-bin` -> `10.0-22`
 - `error-pages` -> `0-unstable-2024-11-22`
-- `fireshare` -> `1.5.2-unstable-2026-03-25`
 - `flaresolverr` -> `3.4.6`
 - `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
