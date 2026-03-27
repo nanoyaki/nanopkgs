@@ -1,10 +1,27 @@
 {
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "extendedae_plus-1.21.1-1.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/agsJGnqK/extendedae_plus-1.21.1-1.5.3.jar",
+        "sha512": "8101469ead11e1d6621c39696fc9b54f4c48f3df76d010582dcfc3b809cd164d5f7cb921626f5438270df2eb96e9a4fc6fbee3d0ce41135a626f7d68a18bcb82"
+      },
+      "1_21_1-1_5_3": {
+        "name": "extendedae_plus-1.21.1-1.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/agsJGnqK/extendedae_plus-1.21.1-1.5.3.jar",
+        "sha512": "8101469ead11e1d6621c39696fc9b54f4c48f3df76d010582dcfc3b809cd164d5f7cb921626f5438270df2eb96e9a4fc6fbee3d0ce41135a626f7d68a18bcb82"
+      }
+    },
     "1_21_1": {
       "latest": {
-        "name": "extendedae_plus-1.21.1-1.5.2-fix.jar",
-        "url": "https://cdn.modrinth.com/data/xr109llC/versions/9MoVLuA0/extendedae_plus-1.21.1-1.5.2-fix.jar",
-        "sha512": "8a328b79388cfa780617b176a53a379d24d95959612628232c0e76ad02a9075781a91c5307d87b2219635eefdc1a36a249f3156789f1f0205174e33a27f1cdd1"
+        "name": "extendedae_plus-1.21.1-1.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/agsJGnqK/extendedae_plus-1.21.1-1.5.3.jar",
+        "sha512": "8101469ead11e1d6621c39696fc9b54f4c48f3df76d010582dcfc3b809cd164d5f7cb921626f5438270df2eb96e9a4fc6fbee3d0ce41135a626f7d68a18bcb82"
+      },
+      "1_21_1-1_5_3": {
+        "name": "extendedae_plus-1.21.1-1.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/agsJGnqK/extendedae_plus-1.21.1-1.5.3.jar",
+        "sha512": "8101469ead11e1d6621c39696fc9b54f4c48f3df76d010582dcfc3b809cd164d5f7cb921626f5438270df2eb96e9a4fc6fbee3d0ce41135a626f7d68a18bcb82"
       },
       "1_21_1-1_5_2-fix": {
         "name": "extendedae_plus-1.21.1-1.5.2-fix.jar",
@@ -56,9 +73,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "extendedae_plus-1.5.2-fix.jar",
-        "url": "https://cdn.modrinth.com/data/xr109llC/versions/L2GbM7IC/extendedae_plus-1.5.2-fix.jar",
-        "sha512": "1f65e51e9c032eaa503df90ce3ff367b1dbc85a8a5ccf674500c5b607176bb554d59be0351c6543c4569bd956f4e59f81a7b3f498f5a061f0167db25225878c0"
+        "name": "extendedae_plus-1.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/l4N2i23p/extendedae_plus-1.5.3.jar",
+        "sha512": "bf853bfefb8d2e54debeedb3631836af59b621c542e3ae8f68a4a8193db69d4682f25a30bab1bcd7a673267c62b90cfd820985e1233e83b6efc5241e55e6e93e"
+      },
+      "1_5_3": {
+        "name": "extendedae_plus-1.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/l4N2i23p/extendedae_plus-1.5.3.jar",
+        "sha512": "bf853bfefb8d2e54debeedb3631836af59b621c542e3ae8f68a4a8193db69d4682f25a30bab1bcd7a673267c62b90cfd820985e1233e83b6efc5241e55e6e93e"
       },
       "1_5_2-fix": {
         "name": "extendedae_plus-1.5.2-fix.jar",
