@@ -2,9 +2,14 @@
   "quilt": {
     "26_1": {
       "latest": {
-        "name": "Jade-mc26.1-Fabric-26.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/vdJBOoMU/Jade-mc26.1-Fabric-26.0.4.jar",
-        "sha512": "9382252150d0049b85858541719e4b7b65372ae4e657c326cfc7730bc0ec4fcf6467d905efbc36c8c0bb3686c374af532993d0a6d99c96bc6ce4c1421d67aaa9"
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
       },
       "26_0_4": {
         "name": "Jade-mc26.1-Fabric-26.0.4.jar",
@@ -1021,6 +1026,23 @@
     }
   },
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "Jade-mc26.1-NeoForge-26.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/lE1BCRgi/Jade-mc26.1-NeoForge-26.0.6.jar",
+        "sha512": "7eb948eebc3cdda3a31aed1b17a5b5c9cb9115a83649cc7d5b5f8b3977507ae2f8a1e65ca4fe9d09196363593ccd5e78211746ba78fd1c647081777b7d08e224"
+      },
+      "26_0_6": {
+        "name": "Jade-mc26.1-NeoForge-26.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/lE1BCRgi/Jade-mc26.1-NeoForge-26.0.6.jar",
+        "sha512": "7eb948eebc3cdda3a31aed1b17a5b5c9cb9115a83649cc7d5b5f8b3977507ae2f8a1e65ca4fe9d09196363593ccd5e78211746ba78fd1c647081777b7d08e224"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26.1-NeoForge-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/5MbmCXZC/Jade-mc26.1-NeoForge-26.0.5.jar",
+        "sha512": "3d2d69b1abfa2e11c5bf40afb12189bc0a66bffc72cf0468c012cfd07f63f7f0c3d81e77f8e93e3c611fa843d6978ed0b8f84cbb6012286a7e11fa7c98a8395c"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "Jade-1.21.11-NeoForge-21.1.3.jar",
@@ -2282,9 +2304,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "Jade-mc26.1-Fabric-26.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/vdJBOoMU/Jade-mc26.1-Fabric-26.0.4.jar",
-        "sha512": "9382252150d0049b85858541719e4b7b65372ae4e657c326cfc7730bc0ec4fcf6467d905efbc36c8c0bb3686c374af532993d0a6d99c96bc6ce4c1421d67aaa9"
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
       },
       "26_0_4": {
         "name": "Jade-mc26.1-Fabric-26.0.4.jar",
