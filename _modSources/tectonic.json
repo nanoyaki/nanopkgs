@@ -1354,6 +1354,23 @@
     }
   },
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "tectonic-3.0.21-neoforge-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/P4TqBptP/tectonic-3.0.21-neoforge-26.1.jar",
+        "sha512": "78cee0dd59beed444978fa4413ec26334abecd26c2a24d48e36ee2279506dad430f6a323bb8e8ebb6efd8c76b73755bb5296f772c9d5227fcbd93a3d065c4a61"
+      },
+      "3_0_21": {
+        "name": "tectonic-3.0.21-neoforge-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/P4TqBptP/tectonic-3.0.21-neoforge-26.1.jar",
+        "sha512": "78cee0dd59beed444978fa4413ec26334abecd26c2a24d48e36ee2279506dad430f6a323bb8e8ebb6efd8c76b73755bb5296f772c9d5227fcbd93a3d065c4a61"
+      },
+      "3_0_20": {
+        "name": "tectonic-3.0.20-neoforge-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/WLiadfmY/tectonic-3.0.20-neoforge-26.1.jar",
+        "sha512": "1e34cac43e148a4eb3df287b6296ad639bedb912782a0876af11c006ae0ed14fb330bf6317e8865c715836b27814235c7305dfe832e3e12dc85f65ee2475cb37"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "tectonic-3.0.19-neoforge-1.21.11.jar",
@@ -1549,9 +1566,19 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "tectonic-3.0.19-neoforge-1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/yVMzCWaH/tectonic-3.0.19-neoforge-1.21.1.jar",
-        "sha512": "ad08192af9177ac69a2f1c4633d24ea3dbe70caca4179a9319d9eed9a49fe6dd7c2202ce450ce6f88b68e3836c515a2a91706985e15ad63b78f5c98fed222da2"
+        "name": "tectonic-3.0.21-neoforge-21.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/qrX9Y1PI/tectonic-3.0.21-neoforge-21.1.jar",
+        "sha512": "9111c158e75c71dfd5243e9bf2be4edcc915f0db042b1d5d573cf21e1ea07293561feb831887f8403dbceff0624546778f84c88c6ef61148636f60bca8d2da82"
+      },
+      "3_0_21": {
+        "name": "tectonic-3.0.21-neoforge-21.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/qrX9Y1PI/tectonic-3.0.21-neoforge-21.1.jar",
+        "sha512": "9111c158e75c71dfd5243e9bf2be4edcc915f0db042b1d5d573cf21e1ea07293561feb831887f8403dbceff0624546778f84c88c6ef61148636f60bca8d2da82"
+      },
+      "3_0_20": {
+        "name": "tectonic-3.0.20-neoforge-21.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/GRVjo9i3/tectonic-3.0.20-neoforge-21.1.jar",
+        "sha512": "0d57dafa8245d5217c6452bd3fd80954dbce314b84300ca5a3a1d99d2c723c384c71d67a425e2f8ad19d7cdc22ee763f1ce96e4d199913a4c31c71b2fb3f2b7e"
       },
       "3_0_19": {
         "name": "tectonic-3.0.19-neoforge-1.21.1.jar",
@@ -3371,6 +3398,23 @@
     }
   },
   "fabric": {
+    "26_1": {
+      "latest": {
+        "name": "tectonic-3.0.21-fabric-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/i5fVLG15/tectonic-3.0.21-fabric-26.1.jar",
+        "sha512": "74b275cf8e5f7e9c2bbe720c506ffe209d87dd248f94f349ef73ec8e076ceabda292bebd1692c3279f7e5f241dff6bf43fa1bde43bb1e05ca7ebf47a377abcb7"
+      },
+      "3_0_21": {
+        "name": "tectonic-3.0.21-fabric-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/i5fVLG15/tectonic-3.0.21-fabric-26.1.jar",
+        "sha512": "74b275cf8e5f7e9c2bbe720c506ffe209d87dd248f94f349ef73ec8e076ceabda292bebd1692c3279f7e5f241dff6bf43fa1bde43bb1e05ca7ebf47a377abcb7"
+      },
+      "3_0_20": {
+        "name": "tectonic-3.0.20-fabric-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/mHX6MyAL/tectonic-3.0.20-fabric-26.1.jar",
+        "sha512": "be60480be435c20ccf08b861b90c4cf0a8c9663ee846e3f8fba8c627755a6cfe9908abdf1867ea0978289ae120b98394cecafcb22346661085e814326eb5115a"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "tectonic-3.0.19-fabric-1.21.11.jar",
@@ -3588,9 +3632,19 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "tectonic-3.0.19-fabric-1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/4r4MJjrI/tectonic-3.0.19-fabric-1.21.1.jar",
-        "sha512": "b1d71930a66929f27ecc2db53c6c86693a765ce93484ec3b1262c6a57c75e0837f8de8f3e1531869abc80aabe9cdf26b2accc9cdcce6ebc7b1dabbb24f9e9457"
+        "name": "tectonic-3.0.21-fabric-21.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/pdLRCALs/tectonic-3.0.21-fabric-21.1.jar",
+        "sha512": "ccf0338b2af22ecea7828e8261ae167f1eca5d43d9b39ca3353337e02b39aa1bf43be6fe382bc34ba8c4a6d64b82f1df02ea212fd766793d610c0145d03afd8e"
+      },
+      "3_0_21": {
+        "name": "tectonic-3.0.21-fabric-21.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/pdLRCALs/tectonic-3.0.21-fabric-21.1.jar",
+        "sha512": "ccf0338b2af22ecea7828e8261ae167f1eca5d43d9b39ca3353337e02b39aa1bf43be6fe382bc34ba8c4a6d64b82f1df02ea212fd766793d610c0145d03afd8e"
+      },
+      "3_0_20": {
+        "name": "tectonic-3.0.20-fabric-21.1.jar",
+        "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/TOdwJSHf/tectonic-3.0.20-fabric-21.1.jar",
+        "sha512": "29f1f16ea8c88e72898087e9cafaab6a57c7cdc3bc76e84469b3fe3931ee90b6ad360c0fd061a82d8f2b0e06a59065e53a04b9a09e73a073b24a71ffb904b6bd"
       },
       "3_0_19": {
         "name": "tectonic-3.0.19-fabric-1.21.1.jar",
