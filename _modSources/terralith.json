@@ -862,11 +862,28 @@
     }
   },
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "Terralith_26.1_v2.6.1_Neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/xViRqWKj/Terralith_26.1_v2.6.1_Neoforge.jar",
+        "sha512": "5f45bbfebac54e97e2cbe9408f799f36e5885d95382f8fede8e0ce5aeb93601ccf0d14a0f500ed5a1ec75be9501ef0f7d72982ad5b23bcef57ee3398eec5ecf5"
+      },
+      "2_6_1": {
+        "name": "Terralith_26.1_v2.6.1_Neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/xViRqWKj/Terralith_26.1_v2.6.1_Neoforge.jar",
+        "sha512": "5f45bbfebac54e97e2cbe9408f799f36e5885d95382f8fede8e0ce5aeb93601ccf0d14a0f500ed5a1ec75be9501ef0f7d72982ad5b23bcef57ee3398eec5ecf5"
+      }
+    },
     "1_21_11": {
       "latest": {
-        "name": "Terralith_1.21.11_v2.6.0_Neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/ke6KOsC5/Terralith_1.21.11_v2.6.0_Neoforge.jar",
-        "sha512": "9db4e83ec7d1249cf96cc641862571e97603c466c8a8ec83904866d2a33d6f59f764b546a56b677cf8271f0dc8f3cffe020816569a1682b3608e55a90c559105"
+        "name": "Terralith_1.21.11_v2.6.1_Neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/qcBNpb1U/Terralith_1.21.11_v2.6.1_Neoforge.jar",
+        "sha512": "d70b8e247b98260d65c2a9eee127af8d06a7ba9b653e0178d537b53c1516dfc4a82aaf40187c758c6c50d01619518e3d188ea6de3714ed0c1fc80cecd87eb6cf"
+      },
+      "2_6_1": {
+        "name": "Terralith_1.21.11_v2.6.1_Neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/qcBNpb1U/Terralith_1.21.11_v2.6.1_Neoforge.jar",
+        "sha512": "d70b8e247b98260d65c2a9eee127af8d06a7ba9b653e0178d537b53c1516dfc4a82aaf40187c758c6c50d01619518e3d188ea6de3714ed0c1fc80cecd87eb6cf"
       },
       "2_6_0": {
         "name": "Terralith_1.21.11_v2.6.0_Neoforge.jar",
@@ -2104,9 +2121,14 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "Terralith_1.21.11_v2.6.0_Fabric.jar",
-        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/94lWUKHj/Terralith_1.21.11_v2.6.0_Fabric.jar",
-        "sha512": "3513374822c9181e2ec6e95ea04e0533d837934b6fe02165f3bc1b7752eff14972d094fce840355928ffa27844bf456ca6bb2cc968c5ad147601a64de1005c09"
+        "name": "Terralith_1.21.11_v2.6.1_Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/vVdNToqE/Terralith_1.21.11_v2.6.1_Fabric.jar",
+        "sha512": "c502e8c18cc6b749fd3d5e8fc6e1d3fc91cdb9763c58c1c7e68c2ea69fb61f27259128171d5f50b2aaa0ea6a7753fcc293f14127110f5f4d2e2141758ffd469e"
+      },
+      "2_6_1": {
+        "name": "Terralith_1.21.11_v2.6.1_Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/vVdNToqE/Terralith_1.21.11_v2.6.1_Fabric.jar",
+        "sha512": "c502e8c18cc6b749fd3d5e8fc6e1d3fc91cdb9763c58c1c7e68c2ea69fb61f27259128171d5f50b2aaa0ea6a7753fcc293f14127110f5f4d2e2141758ffd469e"
       },
       "2_6_0": {
         "name": "Terralith_1.21.11_v2.6.0_Fabric.jar",
