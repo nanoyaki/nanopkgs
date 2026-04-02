@@ -1,10 +1,37 @@
 {
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FFzErxkY/sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "sha512": "e14d9923a9aa424a88db3bc54e6c4cbb9e15806eaf866a2f839fa614b82aa094fbe1a9f4564c65e204a42c5e09b82c5dbff18ba47f686a19843c29e5b8989d94"
+      },
+      "26_1-3_25_40_1630": {
+        "name": "sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FFzErxkY/sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "sha512": "e14d9923a9aa424a88db3bc54e6c4cbb9e15806eaf866a2f839fa614b82aa094fbe1a9f4564c65e204a42c5e09b82c5dbff18ba47f686a19843c29e5b8989d94"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "sophisticatedbackpacks-26.1-3.25.37.1611.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/bX3TDdGq/sophisticatedbackpacks-26.1-3.25.37.1611.jar",
-        "sha512": "b585d75a86814835ad5f4b25186a0a0e41ea60683e467dd85f0647bf55dc8623154c7acd323c1946f3f1da35277be2656a77c748b91c5d80ff25f4d312bf297e"
+        "name": "sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FFzErxkY/sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "sha512": "e14d9923a9aa424a88db3bc54e6c4cbb9e15806eaf866a2f839fa614b82aa094fbe1a9f4564c65e204a42c5e09b82c5dbff18ba47f686a19843c29e5b8989d94"
+      },
+      "26_1-3_25_40_1630": {
+        "name": "sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FFzErxkY/sophisticatedbackpacks-26.1-3.25.40.1630.jar",
+        "sha512": "e14d9923a9aa424a88db3bc54e6c4cbb9e15806eaf866a2f839fa614b82aa094fbe1a9f4564c65e204a42c5e09b82c5dbff18ba47f686a19843c29e5b8989d94"
+      },
+      "26_1-3_25_39_1626": {
+        "name": "sophisticatedbackpacks-26.1-3.25.39.1626.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/xfXowRVv/sophisticatedbackpacks-26.1-3.25.39.1626.jar",
+        "sha512": "9768c6740bac48ed5719e6b0f9bece0db66ff78e85ff678255c35bdd5989c76905ae3aa9184dd02a1c04a54121444d597756bef33896422410e267c115f4b633"
+      },
+      "26_1-3_25_38_1619": {
+        "name": "sophisticatedbackpacks-26.1-3.25.38.1619.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/GGvrEkSi/sophisticatedbackpacks-26.1-3.25.38.1619.jar",
+        "sha512": "4c28b1f2225ce77ccb07ca6ed3ac3851c299275a90ec1abf1f6bf27b1557e369210c67145fc52054658d72f2d7b0c04521359238e8235568dc6b5ecf0a40417e"
       },
       "26_1-3_25_37_1611": {
         "name": "sophisticatedbackpacks-26.1-3.25.37.1611.jar",
@@ -14,9 +41,19 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.21.11-3.25.37.1609.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/ZWJhBGqk/sophisticatedbackpacks-1.21.11-3.25.37.1609.jar",
-        "sha512": "1866ad37a107dc2c0815b4b811dbcbe181da62950d716b5021cdbe673584d7f7230071900c77957fb25692ba9958c5c981669a98647d534dc37edfcf007711b1"
+        "name": "sophisticatedbackpacks-1.21.11-3.25.39.1627.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/zlEWDx6B/sophisticatedbackpacks-1.21.11-3.25.39.1627.jar",
+        "sha512": "9397d25cfec3588366dd1b7c475580134bdc3b8685b9ddf43e3a0d34a4e472ab287b96e17bb38538a7d9bf933e059868127946c009bf8846cf32a227f9691ab9"
+      },
+      "1_21_11-3_25_39_1627": {
+        "name": "sophisticatedbackpacks-1.21.11-3.25.39.1627.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/zlEWDx6B/sophisticatedbackpacks-1.21.11-3.25.39.1627.jar",
+        "sha512": "9397d25cfec3588366dd1b7c475580134bdc3b8685b9ddf43e3a0d34a4e472ab287b96e17bb38538a7d9bf933e059868127946c009bf8846cf32a227f9691ab9"
+      },
+      "1_21_11-3_25_38_1620": {
+        "name": "sophisticatedbackpacks-1.21.11-3.25.38.1620.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/67PhEYGv/sophisticatedbackpacks-1.21.11-3.25.38.1620.jar",
+        "sha512": "950b2ca45e22c697bc1c98034b1e39477134764376641688eae1f6be55e17d427e7fd6dba719f2507833240475ac7d5dff5d694d28beb6037ec6d665ed8db3e4"
       },
       "1_21_11-3_25_37_1609": {
         "name": "sophisticatedbackpacks-1.21.11-3.25.37.1609.jar",
@@ -131,9 +168,19 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.21.10-3.25.35.1608.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/mNUP0363/sophisticatedbackpacks-1.21.10-3.25.35.1608.jar",
-        "sha512": "f427df396b9e402f7f2de38b3fa8b591290227064e0c0ffdb77a77ca6d09766af42e496ab8fc16b505d814a1710ad4102bb1a8e6c281a7b1d3481a6a677f1d72"
+        "name": "sophisticatedbackpacks-1.21.10-3.25.37.1624.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/DPHeTlZV/sophisticatedbackpacks-1.21.10-3.25.37.1624.jar",
+        "sha512": "800be92768fe871a854c25797c17ce4b98870788da04b09b7defa548dde4cdd5af918102ce54d1e6e1bf99c616e726b6c51aad1d76ecb6c6baf7c663e3856c0c"
+      },
+      "1_21_10-3_25_37_1624": {
+        "name": "sophisticatedbackpacks-1.21.10-3.25.37.1624.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/DPHeTlZV/sophisticatedbackpacks-1.21.10-3.25.37.1624.jar",
+        "sha512": "800be92768fe871a854c25797c17ce4b98870788da04b09b7defa548dde4cdd5af918102ce54d1e6e1bf99c616e726b6c51aad1d76ecb6c6baf7c663e3856c0c"
+      },
+      "1_21_10-3_25_36_1618": {
+        "name": "sophisticatedbackpacks-1.21.10-3.25.36.1618.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/RRh0sza0/sophisticatedbackpacks-1.21.10-3.25.36.1618.jar",
+        "sha512": "b8147518fad03f9736c3007ba1e467c1971d7c96ec5fafd75ffa9bbf48de670d20efb7ed97dfa2adddc159fb179e93249a7c3b7a0417d61a5d66ae3ef3ae10ee"
       },
       "1_21_10-3_25_35_1608": {
         "name": "sophisticatedbackpacks-1.21.10-3.25.35.1608.jar",
@@ -268,9 +315,19 @@
     },
     "1_21_8": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.21.8-3.25.36.1607.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/IdIu3DKP/sophisticatedbackpacks-1.21.8-3.25.36.1607.jar",
-        "sha512": "5eb008626e9533d47c4940e34fc37fdb172e1a1ae9f2c5b21b0032d8dee60a65421d1de94e740d0d9e7eaf5d9dcdb1d4c8b0220ad7acb2a3ea269103aa4ff517"
+        "name": "sophisticatedbackpacks-1.21.8-3.25.38.1625.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/f1xoUxOp/sophisticatedbackpacks-1.21.8-3.25.38.1625.jar",
+        "sha512": "01eb981dd453e086563947567f9f41fa5de2bf4e13d975443e0af623aca4d5aaec54b170f8427509d18cb91d9c6d0f16da0873909d393398a4ddfaca0d032a88"
+      },
+      "1_21_8-3_25_38_1625": {
+        "name": "sophisticatedbackpacks-1.21.8-3.25.38.1625.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/f1xoUxOp/sophisticatedbackpacks-1.21.8-3.25.38.1625.jar",
+        "sha512": "01eb981dd453e086563947567f9f41fa5de2bf4e13d975443e0af623aca4d5aaec54b170f8427509d18cb91d9c6d0f16da0873909d393398a4ddfaca0d032a88"
+      },
+      "1_21_8-3_25_37_1617": {
+        "name": "sophisticatedbackpacks-1.21.8-3.25.37.1617.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/gPbRKOkM/sophisticatedbackpacks-1.21.8-3.25.37.1617.jar",
+        "sha512": "b786d066672ed63683d31a90faa0b951c56ae3c6fe118839c44b688fe36a31387c91880775b0677c66faa081d07bc92bf78a37e734a6682d4bb818001dc6c5d1"
       },
       "1_21_8-3_25_36_1607": {
         "name": "sophisticatedbackpacks-1.21.8-3.25.36.1607.jar",
@@ -515,9 +572,19 @@
     },
     "1_21_5": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.21.5-3.25.33.1606.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Dv5brTAi/sophisticatedbackpacks-1.21.5-3.25.33.1606.jar",
-        "sha512": "44581be0f8bdd014d9f5a366e9f91cbbf8e5c9a54aa9b56d902e5cf62a1e132ac891325cc48178736f257e36148fddbe7fb83ffb5f28aaf64a0c4ec6c4e41ec2"
+        "name": "sophisticatedbackpacks-1.21.5-3.25.35.1623.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/YbJ94yBV/sophisticatedbackpacks-1.21.5-3.25.35.1623.jar",
+        "sha512": "8df3be14562eface9d9378ebe9c81f62ef4ae3515e337521702718d939c819588ab98c835f5a4b6a93a8d9ad9e5cb059d4799bc61c6106f253533e6eb28b6852"
+      },
+      "1_21_5-3_25_35_1623": {
+        "name": "sophisticatedbackpacks-1.21.5-3.25.35.1623.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/YbJ94yBV/sophisticatedbackpacks-1.21.5-3.25.35.1623.jar",
+        "sha512": "8df3be14562eface9d9378ebe9c81f62ef4ae3515e337521702718d939c819588ab98c835f5a4b6a93a8d9ad9e5cb059d4799bc61c6106f253533e6eb28b6852"
+      },
+      "1_21_5-3_25_34_1615": {
+        "name": "sophisticatedbackpacks-1.21.5-3.25.34.1615.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/FTIOjeHh/sophisticatedbackpacks-1.21.5-3.25.34.1615.jar",
+        "sha512": "25cbc96ac561145c8f4944f7188fd7e8596e0dbbb1a187ed8051ea5bfc1c27ae4f5ef9a53d6efce22f7000e43adf47bcbb789c76ae98e0321e22b11ffdfac844"
       },
       "1_21_5-3_25_33_1606": {
         "name": "sophisticatedbackpacks-1.21.5-3.25.33.1606.jar",
@@ -782,9 +849,19 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.21.4-3.25.34.1605.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Dab2o3rv/sophisticatedbackpacks-1.21.4-3.25.34.1605.jar",
-        "sha512": "8af77c444553b2c478edd0f550ec5290cb3d809ef6e417e49d3ba7d1f72b9b8d0c2b0b618d06c4f1eb515ec63099f1d0cdd9c6a4bbd14b2139955422b8a28731"
+        "name": "sophisticatedbackpacks-1.21.4-3.25.36.1622.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/QaHBn1bC/sophisticatedbackpacks-1.21.4-3.25.36.1622.jar",
+        "sha512": "d94f80e2b8470f8e1411546f8349428d50ecb9ce1d2500d18eb67a881e989d849fca4d856f2f440124e42fe5edec12023d43b1e63d8e035780183e3729376c1d"
+      },
+      "1_21_4-3_25_36_1622": {
+        "name": "sophisticatedbackpacks-1.21.4-3.25.36.1622.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/QaHBn1bC/sophisticatedbackpacks-1.21.4-3.25.36.1622.jar",
+        "sha512": "d94f80e2b8470f8e1411546f8349428d50ecb9ce1d2500d18eb67a881e989d849fca4d856f2f440124e42fe5edec12023d43b1e63d8e035780183e3729376c1d"
+      },
+      "1_21_4-3_25_35_1616": {
+        "name": "sophisticatedbackpacks-1.21.4-3.25.35.1616.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/wsCkZd7G/sophisticatedbackpacks-1.21.4-3.25.35.1616.jar",
+        "sha512": "824c583070dd846ce48dc2223e128a192ee4e906786cd0613cac9fd4cdcdeaeb673df0a86da00f54cdc8576c000740efc690d946bf2a7309f35a4d35efa4065f"
       },
       "1_21_4-3_25_34_1605": {
         "name": "sophisticatedbackpacks-1.21.4-3.25.34.1605.jar",
@@ -1074,9 +1151,19 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/h91LKaZD/sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
-        "sha512": "2cba525907e741b631916eb42f2b8b7395d1e574c897513896a75046020e52a45d860af7a10c9a7de77cfaab272fb91d227741239a1bc93af0ea74454e876286"
+        "name": "sophisticatedbackpacks-1.21.1-3.25.36.1629.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/cOHTfJs9/sophisticatedbackpacks-1.21.1-3.25.36.1629.jar",
+        "sha512": "98bb9971828695c2e97079691d3e49f3b258bd26b39928428e2da19c2802744d9bae202a4d00170308f435cd66c51736f6026760ffdd9803391c86158dda744c"
+      },
+      "1_21_1-3_25_36_1629": {
+        "name": "sophisticatedbackpacks-1.21.1-3.25.36.1629.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/cOHTfJs9/sophisticatedbackpacks-1.21.1-3.25.36.1629.jar",
+        "sha512": "98bb9971828695c2e97079691d3e49f3b258bd26b39928428e2da19c2802744d9bae202a4d00170308f435cd66c51736f6026760ffdd9803391c86158dda744c"
+      },
+      "1_21_1-3_25_35_1613": {
+        "name": "sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/4avPKuVF/sophisticatedbackpacks-1.21.1-3.25.35.1613.jar",
+        "sha512": "c74fd91a949a977a3b0b3b6f84b0400f7707c8b4ed10aeef2410a3d9aaa6c4e198da7b04f350e2842bf5d7144fe806d282e791aab4fa215adaf79f0df52f4361"
       },
       "1_21_1-3_25_34_1604": {
         "name": "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar",
@@ -1758,9 +1845,19 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Zv8VY7WG/sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
-        "sha512": "73a27b057b49ca3ca23afb95547b6dfa03713945fbfc4f31336c0106bf0b021f343a61617b6122198df7336467fec4c29e707fd84fa71f7c1df6975c308555c5"
+        "name": "sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/zfdvpSGB/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "sha512": "914deea56667779e79d190de3b98370ca8400f43bc315e99cade4134b1021892eff41ebfcd438aef47d573357d9a0234ea4e28da0ff2254de1db8f25bf0c6891"
+      },
+      "1_20_1-3_24_31_1628": {
+        "name": "sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/zfdvpSGB/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "sha512": "914deea56667779e79d190de3b98370ca8400f43bc315e99cade4134b1021892eff41ebfcd438aef47d573357d9a0234ea4e28da0ff2254de1db8f25bf0c6891"
+      },
+      "1_20_1-3_24_30_1614": {
+        "name": "sophisticatedbackpacks-1.20.1-3.24.30.1614.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/fmMwUBMU/sophisticatedbackpacks-1.20.1-3.24.30.1614.jar",
+        "sha512": "d49bd172598730e961abe9ef7ec217d3399e1a615b7dfa57a9f925bb72bf2cf057c73b3d8b4fb0701a661ac86db73c8999d442940e4c67c4f5813ee3ccf0e4bd"
       },
       "1_20_1-3_24_29_1603": {
         "name": "sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
@@ -2282,9 +2379,19 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
-        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/Zv8VY7WG/sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",
-        "sha512": "73a27b057b49ca3ca23afb95547b6dfa03713945fbfc4f31336c0106bf0b021f343a61617b6122198df7336467fec4c29e707fd84fa71f7c1df6975c308555c5"
+        "name": "sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/zfdvpSGB/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "sha512": "914deea56667779e79d190de3b98370ca8400f43bc315e99cade4134b1021892eff41ebfcd438aef47d573357d9a0234ea4e28da0ff2254de1db8f25bf0c6891"
+      },
+      "1_20_1-3_24_31_1628": {
+        "name": "sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/zfdvpSGB/sophisticatedbackpacks-1.20.1-3.24.31.1628.jar",
+        "sha512": "914deea56667779e79d190de3b98370ca8400f43bc315e99cade4134b1021892eff41ebfcd438aef47d573357d9a0234ea4e28da0ff2254de1db8f25bf0c6891"
+      },
+      "1_20_1-3_24_30_1614": {
+        "name": "sophisticatedbackpacks-1.20.1-3.24.30.1614.jar",
+        "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/fmMwUBMU/sophisticatedbackpacks-1.20.1-3.24.30.1614.jar",
+        "sha512": "d49bd172598730e961abe9ef7ec217d3399e1a615b7dfa57a9f925bb72bf2cf057c73b3d8b4fb0701a661ac86db73c8999d442940e4c67c4f5813ee3ccf0e4bd"
       },
       "1_20_1-3_24_29_1603": {
         "name": "sophisticatedbackpacks-1.20.1-3.24.29.1603.jar",

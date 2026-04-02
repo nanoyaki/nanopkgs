@@ -1,5 +1,17 @@
 {
   "quilt": {
+    "26_1": {
+      "latest": {
+        "name": "InvView-1.4.20-26.1+.jar",
+        "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/fqTW8gQ3/InvView-1.4.20-26.1%2B.jar",
+        "sha512": "320d89b83a5613f6cb2c168e3981505f1a3542ac221b8d2649d9abb814a19c607d17a9b1b6d37eaaadb84013d9ce0394df105037870b6c0d64b5d27d08f0107b"
+      },
+      "1_4_20": {
+        "name": "InvView-1.4.20-26.1+.jar",
+        "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/fqTW8gQ3/InvView-1.4.20-26.1%2B.jar",
+        "sha512": "320d89b83a5613f6cb2c168e3981505f1a3542ac221b8d2649d9abb814a19c607d17a9b1b6d37eaaadb84013d9ce0394df105037870b6c0d64b5d27d08f0107b"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "InvView-1.4.19-1.21.11+.jar",
@@ -312,6 +324,18 @@
     }
   },
   "fabric": {
+    "26_1": {
+      "latest": {
+        "name": "InvView-1.4.20-26.1+.jar",
+        "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/fqTW8gQ3/InvView-1.4.20-26.1%2B.jar",
+        "sha512": "320d89b83a5613f6cb2c168e3981505f1a3542ac221b8d2649d9abb814a19c607d17a9b1b6d37eaaadb84013d9ce0394df105037870b6c0d64b5d27d08f0107b"
+      },
+      "1_4_20": {
+        "name": "InvView-1.4.20-26.1+.jar",
+        "url": "https://cdn.modrinth.com/data/jrDKjZP7/versions/fqTW8gQ3/InvView-1.4.20-26.1%2B.jar",
+        "sha512": "320d89b83a5613f6cb2c168e3981505f1a3542ac221b8d2649d9abb814a19c607d17a9b1b6d37eaaadb84013d9ce0394df105037870b6c0d64b5d27d08f0107b"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "InvView-1.4.19-1.21.11+.jar",
