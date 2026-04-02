@@ -20,20 +20,20 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `flaresolverr` -> `3.4.6`
 - `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `0-unstable-2026-03-29`
+- `midnight-theme` -> `0-unstable-2026-04-01`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2026-03-27`
-- `osu-lazer-bin` -> `2026.326.1-tachyon`
+- `osu-lazer-bin` -> `2026.401.0-lazer`
 - `prefetch`
-- `prowlarr` -> `2.3.4.5307`
+- `prowlarr` -> `2.3.5.5318`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `6.0.0-dev.54-unstable-2026-03-29`
-- `shoko-webui` -> `2.6.0-dev.19-unstable-2026-03-27`
-- `shokofin` -> `6.0.5-dev.3-unstable-2026-03-27`
+- `shoko` -> `6.0.0-dev.56-unstable-2026-04-01`
+- `shoko-webui` -> `2.6.0-dev.20-unstable-2026-04-01`
+- `shokofin` -> `6.0.5-dev.4-unstable-2026-03-31`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1867-unstable-2026-02-21`
-- `suwayomi-webui` -> `20251230.01-unstable-2026-03-21`
+- `suwayomi-server` -> `2.1.1867-unstable-2026-03-31`
+- `suwayomi-webui` -> `20251230.01-unstable-2026-03-30`
 - `whisparr` -> `3.1.0.2116`
 - `wkeys` -> `0.1.2-unstable-2026-02-16`
 - `writeSystemdToggle`
-- `zigbee2mqtt` -> `2.9.1-unstable-2026-03-02`
+- `zigbee2mqtt` -> `2.9.2-unstable-2026-04-01`

@@ -658,11 +658,28 @@
     }
   },
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/bW8oaRN6/yet_another_config_lib_v3-3.9.2%2B26.1-neoforge.jar",
+        "sha512": "9993f89e777fb1f414ecde33f754e536f2eb2aaac4504690f76248b318ce3b2fb671bb4ef24a4b87a95ed8708b5e62e71c53979155d436121054b3e303491441"
+      },
+      "3_9_2+26_1": {
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/bW8oaRN6/yet_another_config_lib_v3-3.9.2%2B26.1-neoforge.jar",
+        "sha512": "9993f89e777fb1f414ecde33f754e536f2eb2aaac4504690f76248b318ce3b2fb671bb4ef24a4b87a95ed8708b5e62e71c53979155d436121054b3e303491441"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "yet_another_config_lib_v3-3.9.1+26.1-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/cxSWMNad/yet_another_config_lib_v3-3.9.1%2B26.1-neoforge.jar",
-        "sha512": "fcba6c5a8168cd986498387008c8745872ea8d5cebd7d9d537cfa9e7fe8d1575511683da4f22d381e4e1de7797f82f3126696aa9646f332569f151c774a62909"
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/bW8oaRN6/yet_another_config_lib_v3-3.9.2%2B26.1-neoforge.jar",
+        "sha512": "9993f89e777fb1f414ecde33f754e536f2eb2aaac4504690f76248b318ce3b2fb671bb4ef24a4b87a95ed8708b5e62e71c53979155d436121054b3e303491441"
+      },
+      "3_9_2": {
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/bW8oaRN6/yet_another_config_lib_v3-3.9.2%2B26.1-neoforge.jar",
+        "sha512": "9993f89e777fb1f414ecde33f754e536f2eb2aaac4504690f76248b318ce3b2fb671bb4ef24a4b87a95ed8708b5e62e71c53979155d436121054b3e303491441"
       },
       "3_9_1": {
         "name": "yet_another_config_lib_v3-3.9.1+26.1-neoforge.jar",
@@ -1742,11 +1759,28 @@
         "sha512": "463232155a33073f28c2080a37ffd19ca515c735c58645365ef37e77dae70365a139c20d1570831e6ccc3f6df4ccf3a68c93534477c38ee8a17d2ac1f81791ca"
       }
     },
+    "26_1_1": {
+      "latest": {
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/h2FGeDHG/yet_another_config_lib_v3-3.9.2%2B26.1-fabric.jar",
+        "sha512": "0efbc7bbf9cabcf5f78884eab0b85ca902e6ca7dfa07b60c1c812b828442b940e80c459fd3de8b87cae50bba3c203efc4444a8e29d21b94ad1ad12d438f91a58"
+      },
+      "3_9_2+26_1": {
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/h2FGeDHG/yet_another_config_lib_v3-3.9.2%2B26.1-fabric.jar",
+        "sha512": "0efbc7bbf9cabcf5f78884eab0b85ca902e6ca7dfa07b60c1c812b828442b940e80c459fd3de8b87cae50bba3c203efc4444a8e29d21b94ad1ad12d438f91a58"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "yet_another_config_lib_v3-3.9.1+26.1-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/D39gcNZP/yet_another_config_lib_v3-3.9.1%2B26.1-fabric.jar",
-        "sha512": "c7791958ce0782be754bbf4766e2f488d61e4fc0b743408b676098fedc506206e26f5bdb5b49a3535555b5d900cd7cdc141482120b4c25959c473366b7b8173c"
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/h2FGeDHG/yet_another_config_lib_v3-3.9.2%2B26.1-fabric.jar",
+        "sha512": "0efbc7bbf9cabcf5f78884eab0b85ca902e6ca7dfa07b60c1c812b828442b940e80c459fd3de8b87cae50bba3c203efc4444a8e29d21b94ad1ad12d438f91a58"
+      },
+      "3_9_2": {
+        "name": "yet_another_config_lib_v3-3.9.2+26.1-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/h2FGeDHG/yet_another_config_lib_v3-3.9.2%2B26.1-fabric.jar",
+        "sha512": "0efbc7bbf9cabcf5f78884eab0b85ca902e6ca7dfa07b60c1c812b828442b940e80c459fd3de8b87cae50bba3c203efc4444a8e29d21b94ad1ad12d438f91a58"
       },
       "3_9_1": {
         "name": "yet_another_config_lib_v3-3.9.1+26.1-fabric.jar",

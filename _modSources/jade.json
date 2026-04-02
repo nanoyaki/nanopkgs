@@ -1,5 +1,29 @@
 {
   "quilt": {
+    "26_1_1-rc-1": {
+      "latest": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      }
+    },
+    "26_1_1": {
+      "latest": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      }
+    },
     "26_1": {
       "latest": {
         "name": "Jade-mc26.1-Fabric-26.0.5.jar",
@@ -1012,6 +1036,18 @@
         "sha512": "f2965e3facd2c5a0afa26726ebd9dccbf9dde18755ef5b884e714b25ec10ba26517f9902e5404e116e75e424b45cdf8860c4b1ce1d7a5547781aeb89614556f3"
       }
     },
+    "26w14a": {
+      "latest": {
+        "name": "Jade-mc26w14a-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/rbyAHXPM/Jade-mc26w14a-Fabric-26.0.5.jar",
+        "sha512": "d2cdfbefa4d71349fabdd7195c069124edeeb8ebd90dc6e1a7b1cf422f4b185bb472714e348c03dc47d79ecf02711f5ba0680ef6799817a0c5602450a0871eeb"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26w14a-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/rbyAHXPM/Jade-mc26w14a-Fabric-26.0.5.jar",
+        "sha512": "d2cdfbefa4d71349fabdd7195c069124edeeb8ebd90dc6e1a7b1cf422f4b185bb472714e348c03dc47d79ecf02711f5ba0680ef6799817a0c5602450a0871eeb"
+      }
+    },
     "24w14potato": {
       "latest": {
         "name": "Jade-24w14potato-Fabric-14.0.0-potato.jar",
@@ -1026,6 +1062,30 @@
     }
   },
   "neoforge": {
+    "26_1_1-rc-1": {
+      "latest": {
+        "name": "Jade-mc26.1-NeoForge-26.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/lE1BCRgi/Jade-mc26.1-NeoForge-26.0.6.jar",
+        "sha512": "7eb948eebc3cdda3a31aed1b17a5b5c9cb9115a83649cc7d5b5f8b3977507ae2f8a1e65ca4fe9d09196363593ccd5e78211746ba78fd1c647081777b7d08e224"
+      },
+      "26_0_6": {
+        "name": "Jade-mc26.1-NeoForge-26.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/lE1BCRgi/Jade-mc26.1-NeoForge-26.0.6.jar",
+        "sha512": "7eb948eebc3cdda3a31aed1b17a5b5c9cb9115a83649cc7d5b5f8b3977507ae2f8a1e65ca4fe9d09196363593ccd5e78211746ba78fd1c647081777b7d08e224"
+      }
+    },
+    "26_1_1": {
+      "latest": {
+        "name": "Jade-mc26.1-NeoForge-26.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/lE1BCRgi/Jade-mc26.1-NeoForge-26.0.6.jar",
+        "sha512": "7eb948eebc3cdda3a31aed1b17a5b5c9cb9115a83649cc7d5b5f8b3977507ae2f8a1e65ca4fe9d09196363593ccd5e78211746ba78fd1c647081777b7d08e224"
+      },
+      "26_0_6": {
+        "name": "Jade-mc26.1-NeoForge-26.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/lE1BCRgi/Jade-mc26.1-NeoForge-26.0.6.jar",
+        "sha512": "7eb948eebc3cdda3a31aed1b17a5b5c9cb9115a83649cc7d5b5f8b3977507ae2f8a1e65ca4fe9d09196363593ccd5e78211746ba78fd1c647081777b7d08e224"
+      }
+    },
     "26_1": {
       "latest": {
         "name": "Jade-mc26.1-NeoForge-26.0.6.jar",
@@ -2288,6 +2348,30 @@
         "name": "Jade-mc26.1-Fabric-26.0.3.jar",
         "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/dU7myLRG/Jade-mc26.1-Fabric-26.0.3.jar",
         "sha512": "eb4ed556dca8dc8ded0fad0d2e867a2f71a827a023f393f5be65557eb2db9e620689a3869323ba482305bd23bc5847b9eca478dea1f8fc33b5a567de5858faa3"
+      }
+    },
+    "26_1_1-rc-1": {
+      "latest": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      }
+    },
+    "26_1_1": {
+      "latest": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26.1-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yA7ziX81/Jade-mc26.1-Fabric-26.0.5.jar",
+        "sha512": "eae56848ea2b4bcc91a0b1856530ea7683813bee94ef962391ff8888170762a4ce47cd88271c1891bdcee99e1dc5773f2d343aeb2b9aa56b44f05bec44d5a99e"
       }
     },
     "26_1-snapshot-1": {
@@ -3712,6 +3796,18 @@
         "name": "Jade-1.17.1-fabric-3.100.0.jar",
         "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/H3ou3KBw/Jade-1.17.1-fabric-3.100.0.jar",
         "sha512": "0a32ee02f29650e852147b1659e61e2b334dec5ef88fd28d366b78f1a272e8bf56c338110404aba43fabe82d692cb0ee505a37884c2509784d8e64f0e90b97eb"
+      }
+    },
+    "26w14a": {
+      "latest": {
+        "name": "Jade-mc26w14a-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/rbyAHXPM/Jade-mc26w14a-Fabric-26.0.5.jar",
+        "sha512": "d2cdfbefa4d71349fabdd7195c069124edeeb8ebd90dc6e1a7b1cf422f4b185bb472714e348c03dc47d79ecf02711f5ba0680ef6799817a0c5602450a0871eeb"
+      },
+      "26_0_5": {
+        "name": "Jade-mc26w14a-Fabric-26.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/rbyAHXPM/Jade-mc26w14a-Fabric-26.0.5.jar",
+        "sha512": "d2cdfbefa4d71349fabdd7195c069124edeeb8ebd90dc6e1a7b1cf422f4b185bb472714e348c03dc47d79ecf02711f5ba0680ef6799817a0c5602450a0871eeb"
       }
     },
     "25w33a": {

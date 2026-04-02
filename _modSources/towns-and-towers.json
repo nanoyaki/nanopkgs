@@ -1,15 +1,27 @@
 {
   "quilt": {
+    "26_1_1": {
+      "latest": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
+      },
+      "1_13_10": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "t_and_t-fabric-neoforge-1.13.9.jar",
-        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qb0cwwDT/t_and_t-fabric-neoforge-1.13.9.jar",
-        "sha512": "e0f743b746e78b271bca04c8684408eeb8e4a8570dccc4eebabc62a774c8404569963090f04056bb0f25bb39116a1b8ee47840dfd75a1c415ac5dfb41678b6c9"
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
       },
-      "1_13_9": {
-        "name": "t_and_t-fabric-neoforge-1.13.9.jar",
-        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qb0cwwDT/t_and_t-fabric-neoforge-1.13.9.jar",
-        "sha512": "e0f743b746e78b271bca04c8684408eeb8e4a8570dccc4eebabc62a774c8404569963090f04056bb0f25bb39116a1b8ee47840dfd75a1c415ac5dfb41678b6c9"
+      "1_13_10": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
       }
     },
     "1_21_11": {
@@ -239,16 +251,28 @@
     }
   },
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
+      },
+      "1_13_10": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "t_and_t-fabric-neoforge-1.13.9.jar",
-        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qb0cwwDT/t_and_t-fabric-neoforge-1.13.9.jar",
-        "sha512": "e0f743b746e78b271bca04c8684408eeb8e4a8570dccc4eebabc62a774c8404569963090f04056bb0f25bb39116a1b8ee47840dfd75a1c415ac5dfb41678b6c9"
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
       },
-      "1_13_9": {
-        "name": "t_and_t-fabric-neoforge-1.13.9.jar",
-        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qb0cwwDT/t_and_t-fabric-neoforge-1.13.9.jar",
-        "sha512": "e0f743b746e78b271bca04c8684408eeb8e4a8570dccc4eebabc62a774c8404569963090f04056bb0f25bb39116a1b8ee47840dfd75a1c415ac5dfb41678b6c9"
+      "1_13_10": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
       }
     },
     "1_21_11": {
@@ -794,16 +818,28 @@
     }
   },
   "fabric": {
+    "26_1_1": {
+      "latest": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
+      },
+      "1_13_10": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "t_and_t-fabric-neoforge-1.13.9.jar",
-        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qb0cwwDT/t_and_t-fabric-neoforge-1.13.9.jar",
-        "sha512": "e0f743b746e78b271bca04c8684408eeb8e4a8570dccc4eebabc62a774c8404569963090f04056bb0f25bb39116a1b8ee47840dfd75a1c415ac5dfb41678b6c9"
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
       },
-      "1_13_9": {
-        "name": "t_and_t-fabric-neoforge-1.13.9.jar",
-        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/qb0cwwDT/t_and_t-fabric-neoforge-1.13.9.jar",
-        "sha512": "e0f743b746e78b271bca04c8684408eeb8e4a8570dccc4eebabc62a774c8404569963090f04056bb0f25bb39116a1b8ee47840dfd75a1c415ac5dfb41678b6c9"
+      "1_13_10": {
+        "name": "t_and_t-fabric-neoforge-1.13.10.jar",
+        "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/VRx0wqjy/t_and_t-fabric-neoforge-1.13.10.jar",
+        "sha512": "59a1fd5078476248b985cc748981f71bf3d743ccbee01c20bf7d2b063d9dde6c497c4fadee6a3851a453a1a4cdb370a520b47b8212ef4e994b2521cb8f71379c"
       }
     },
     "1_21_11": {

@@ -1,10 +1,27 @@
 {
   "quilt": {
+    "26_1_1": {
+      "latest": {
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
+      },
+      "1_15_1": {
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "ImmediatelyFast-Fabric-1.15.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m3ka9Hsm/ImmediatelyFast-Fabric-1.15.0%2B26.1.jar",
-        "sha512": "ea542a2540cbfed132ac27f0f494d5b8e63399bb4d23829d9ac7bbcd29a46a68cee01f21bb54850ba7fe9862aff25dfe910e0d0a7fcc4ad3859ebded5693702e"
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
+      },
+      "1_15_1_1": {
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
       },
       "1_15_0": {
         "name": "ImmediatelyFast-Fabric-1.15.0+26.1.jar",
@@ -2789,11 +2806,28 @@
     }
   },
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "ImmediatelyFast-NeoForge-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/tamty6yW/ImmediatelyFast-NeoForge-1.15.1%2B26.1.1.jar",
+        "sha512": "f3c55d1018cdf110e4fd9ad4e62382a41c46dbc7f03270cd1579865a106d33c020bbd9effc245c8626ee65b26ade6c496df77cb5130e6fede970b4aaa39b99ce"
+      },
+      "1_15_1": {
+        "name": "ImmediatelyFast-NeoForge-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/tamty6yW/ImmediatelyFast-NeoForge-1.15.1%2B26.1.1.jar",
+        "sha512": "f3c55d1018cdf110e4fd9ad4e62382a41c46dbc7f03270cd1579865a106d33c020bbd9effc245c8626ee65b26ade6c496df77cb5130e6fede970b4aaa39b99ce"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "ImmediatelyFast-NeoForge-1.15.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/9eHiVFXX/ImmediatelyFast-NeoForge-1.15.0%2B26.1.jar",
-        "sha512": "4a3911e887e5b5b438101dbc1542a17624516c46ff38189adb9b979e6f8e1a8907d279512ce48efccca8c23a2eef2832cde77246a92a3f10163b39ce97f7f116"
+        "name": "ImmediatelyFast-NeoForge-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/tamty6yW/ImmediatelyFast-NeoForge-1.15.1%2B26.1.1.jar",
+        "sha512": "f3c55d1018cdf110e4fd9ad4e62382a41c46dbc7f03270cd1579865a106d33c020bbd9effc245c8626ee65b26ade6c496df77cb5130e6fede970b4aaa39b99ce"
+      },
+      "1_15_1_1": {
+        "name": "ImmediatelyFast-NeoForge-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/tamty6yW/ImmediatelyFast-NeoForge-1.15.1%2B26.1.1.jar",
+        "sha512": "f3c55d1018cdf110e4fd9ad4e62382a41c46dbc7f03270cd1579865a106d33c020bbd9effc245c8626ee65b26ade6c496df77cb5130e6fede970b4aaa39b99ce"
       },
       "1_15_0": {
         "name": "ImmediatelyFast-NeoForge-1.15.0+26.1.jar",
@@ -5700,11 +5734,28 @@
     }
   },
   "fabric": {
+    "26_1_1": {
+      "latest": {
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
+      },
+      "1_15_1": {
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "ImmediatelyFast-Fabric-1.15.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/m3ka9Hsm/ImmediatelyFast-Fabric-1.15.0%2B26.1.jar",
-        "sha512": "ea542a2540cbfed132ac27f0f494d5b8e63399bb4d23829d9ac7bbcd29a46a68cee01f21bb54850ba7fe9862aff25dfe910e0d0a7fcc4ad3859ebded5693702e"
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
+      },
+      "1_15_1_1": {
+        "name": "ImmediatelyFast-Fabric-1.15.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UM3jWaXo/ImmediatelyFast-Fabric-1.15.1%2B26.1.1.jar",
+        "sha512": "3e7253defa73110883d0685ba2e5321228b627aa0206277fec26b5d332e1b372b93e1c053a6fd3be938188f110307a6716a2f80dd97c205231aa8900bdf7641d"
       },
       "1_15_0": {
         "name": "ImmediatelyFast-Fabric-1.15.0+26.1.jar",
