@@ -1,10 +1,32 @@
 {
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "jei-26.1.1-neoforge-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/7BcNtNPQ/jei-26.1.1-neoforge-29.3.0.22.jar",
+        "sha512": "5041003ce4d11d69422088783961a308d0a7010141c836136581bfd81a3f6bffd6173c1a097e155c1de32076bc71825ddded79a0b2c8e3f7df63fd393be7f8b9"
+      },
+      "29_3_0_22": {
+        "name": "jei-26.1.1-neoforge-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/7BcNtNPQ/jei-26.1.1-neoforge-29.3.0.22.jar",
+        "sha512": "5041003ce4d11d69422088783961a308d0a7010141c836136581bfd81a3f6bffd6173c1a097e155c1de32076bc71825ddded79a0b2c8e3f7df63fd393be7f8b9"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "jei-26.1-neoforge-29.2.0.20.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/sYDSsI50/jei-26.1-neoforge-29.2.0.20.jar",
-        "sha512": "07e4b0ab2db13a5cdd8533624a42c7129e8b8e442ea11c12ec9ed93bda2c128f8d584284f17acd172e9cf99498632796025513e76f7341a5859e6ced90946fd9"
+        "name": "jei-26.1.1-neoforge-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/7BcNtNPQ/jei-26.1.1-neoforge-29.3.0.22.jar",
+        "sha512": "5041003ce4d11d69422088783961a308d0a7010141c836136581bfd81a3f6bffd6173c1a097e155c1de32076bc71825ddded79a0b2c8e3f7df63fd393be7f8b9"
+      },
+      "29_3_0_22": {
+        "name": "jei-26.1.1-neoforge-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/7BcNtNPQ/jei-26.1.1-neoforge-29.3.0.22.jar",
+        "sha512": "5041003ce4d11d69422088783961a308d0a7010141c836136581bfd81a3f6bffd6173c1a097e155c1de32076bc71825ddded79a0b2c8e3f7df63fd393be7f8b9"
+      },
+      "29_2_0_21": {
+        "name": "jei-26.1-neoforge-29.2.0.21.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/6Yzl0m7D/jei-26.1-neoforge-29.2.0.21.jar",
+        "sha512": "8d78e5f61a93936a63ddecc8d1296db40139740dd684c2863b82c7dd79b6ded82f52e5ac8761b71d6c0327aaa57193b2f64e259a28b4c2ed128ad823002e0730"
       },
       "29_2_0_20": {
         "name": "jei-26.1-neoforge-29.2.0.20.jar",
@@ -11606,11 +11628,33 @@
     }
   },
   "fabric": {
+    "26_1_1": {
+      "latest": {
+        "name": "jei-26.1.1-fabric-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/5QFemzpl/jei-26.1.1-fabric-29.3.0.22.jar",
+        "sha512": "5e616f4b12292d5a1f33292065f6595b064010b483fe3457ba46451ba10912df2d0f005c828efcbd8ebd2646d58433bca5f7aeeb85990ef34b90418a8dc219ee"
+      },
+      "29_3_0_22": {
+        "name": "jei-26.1.1-fabric-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/5QFemzpl/jei-26.1.1-fabric-29.3.0.22.jar",
+        "sha512": "5e616f4b12292d5a1f33292065f6595b064010b483fe3457ba46451ba10912df2d0f005c828efcbd8ebd2646d58433bca5f7aeeb85990ef34b90418a8dc219ee"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "jei-26.1-fabric-29.2.0.20.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/1rsoIkuL/jei-26.1-fabric-29.2.0.20.jar",
-        "sha512": "01033ce51cfb80695dbcaec96bdc91472cd38d865b0365c5b682cd1776e67c4ab18cf65cddbbefae88b5eaab26fc5d9b300ab09f37169c3606c4dc9160fc57f3"
+        "name": "jei-26.1.1-fabric-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/5QFemzpl/jei-26.1.1-fabric-29.3.0.22.jar",
+        "sha512": "5e616f4b12292d5a1f33292065f6595b064010b483fe3457ba46451ba10912df2d0f005c828efcbd8ebd2646d58433bca5f7aeeb85990ef34b90418a8dc219ee"
+      },
+      "29_3_0_22": {
+        "name": "jei-26.1.1-fabric-29.3.0.22.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/5QFemzpl/jei-26.1.1-fabric-29.3.0.22.jar",
+        "sha512": "5e616f4b12292d5a1f33292065f6595b064010b483fe3457ba46451ba10912df2d0f005c828efcbd8ebd2646d58433bca5f7aeeb85990ef34b90418a8dc219ee"
+      },
+      "29_2_0_21": {
+        "name": "jei-26.1-fabric-29.2.0.21.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/W10KOrSH/jei-26.1-fabric-29.2.0.21.jar",
+        "sha512": "7df9bf96acc1cf2eb96eef45a2ee07797feae072c4e2dba01f0cca5ea5d69e1ff434c4f6a5dac0fb0f091d54148fef3194528968d6d4c36043f497a079099abe"
       },
       "29_2_0_20": {
         "name": "jei-26.1-fabric-29.2.0.20.jar",

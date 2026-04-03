@@ -24,7 +24,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2026-03-27`
 - `osu-lazer-bin` -> `2026.401.0-lazer`
 - `prefetch`
-- `prowlarr` -> `2.3.5.5318`
+- `prowlarr` -> `2.3.5.5323`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
 - `shoko` -> `6.0.0-dev.56-unstable-2026-04-01`
