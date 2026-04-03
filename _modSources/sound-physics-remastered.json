@@ -1,10 +1,27 @@
 {
   "quilt": {
+    "26_1_1": {
+      "latest": {
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
+      },
+      "fabric-1_5_1": {
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "sound-physics-remastered-fabric-1.5.1+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/XLwWIIue/sound-physics-remastered-fabric-1.5.1%2B26.1.jar",
-        "sha512": "486d4c293d8668e28d08570ff9b9ff7b267dbe4df3c57d4b0446aa64cd16dc7e581f7802d210acf3592298d6e8b519fbf154299d770e23bb6379de96e2bc0b6a"
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
+      },
+      "fabric-1_5_1_1": {
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
       },
       "fabric-1_5_1": {
         "name": "sound-physics-remastered-fabric-1.5.1+26.1.jar",
@@ -605,11 +622,28 @@
     }
   },
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "sound-physics-remastered-neoforge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/nHHZNHHw/sound-physics-remastered-neoforge-1.5.1%2B26.1.1.jar",
+        "sha512": "23b33ce009487dfdba4c99c0de0e5a78adef473bee5d5032e3e1e879ff3d26a3aaa050f7434dbdf65847032e187d79eb88f2e3532c5b4aef3af2158b288a76d7"
+      },
+      "neoforge-1_5_1": {
+        "name": "sound-physics-remastered-neoforge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/nHHZNHHw/sound-physics-remastered-neoforge-1.5.1%2B26.1.1.jar",
+        "sha512": "23b33ce009487dfdba4c99c0de0e5a78adef473bee5d5032e3e1e879ff3d26a3aaa050f7434dbdf65847032e187d79eb88f2e3532c5b4aef3af2158b288a76d7"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "sound-physics-remastered-neoforge-1.5.1+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/8oMdRGmg/sound-physics-remastered-neoforge-1.5.1%2B26.1.jar",
-        "sha512": "b109925b8cbc283835d0ce71b9ec397b11544480be1fda4893c00e042632e2108a925eeb0752721601ec65dc70cb420222426a12f9f78272a34974350ec2a38e"
+        "name": "sound-physics-remastered-neoforge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/nHHZNHHw/sound-physics-remastered-neoforge-1.5.1%2B26.1.1.jar",
+        "sha512": "23b33ce009487dfdba4c99c0de0e5a78adef473bee5d5032e3e1e879ff3d26a3aaa050f7434dbdf65847032e187d79eb88f2e3532c5b4aef3af2158b288a76d7"
+      },
+      "neoforge-1_5_1_1": {
+        "name": "sound-physics-remastered-neoforge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/nHHZNHHw/sound-physics-remastered-neoforge-1.5.1%2B26.1.1.jar",
+        "sha512": "23b33ce009487dfdba4c99c0de0e5a78adef473bee5d5032e3e1e879ff3d26a3aaa050f7434dbdf65847032e187d79eb88f2e3532c5b4aef3af2158b288a76d7"
       },
       "neoforge-1_5_1": {
         "name": "sound-physics-remastered-neoforge-1.5.1+26.1.jar",
@@ -1120,11 +1154,28 @@
     }
   },
   "forge": {
+    "26_1_1": {
+      "latest": {
+        "name": "sound-physics-remastered-forge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/msEsH9u5/sound-physics-remastered-forge-1.5.1%2B26.1.1.jar",
+        "sha512": "9c160a3f04b790e843039864f54ff382c9436b655e689a527e02c0ead7e57d8b786028f51c5d6683c04cec82052ac64b22065aef51ff7c9cd1cad861ee9c544b"
+      },
+      "forge-1_5_1": {
+        "name": "sound-physics-remastered-forge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/msEsH9u5/sound-physics-remastered-forge-1.5.1%2B26.1.1.jar",
+        "sha512": "9c160a3f04b790e843039864f54ff382c9436b655e689a527e02c0ead7e57d8b786028f51c5d6683c04cec82052ac64b22065aef51ff7c9cd1cad861ee9c544b"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "sound-physics-remastered-forge-1.5.1+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/SNuarWL0/sound-physics-remastered-forge-1.5.1%2B26.1.jar",
-        "sha512": "e86db9325cf2f4812c34e823a793b46b376116a242b82d2a245521c2220595bd906a6cf3d769c63a1f9230ca073e43100f8b0a25a883e5da5deda531986dbd37"
+        "name": "sound-physics-remastered-forge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/msEsH9u5/sound-physics-remastered-forge-1.5.1%2B26.1.1.jar",
+        "sha512": "9c160a3f04b790e843039864f54ff382c9436b655e689a527e02c0ead7e57d8b786028f51c5d6683c04cec82052ac64b22065aef51ff7c9cd1cad861ee9c544b"
+      },
+      "forge-1_5_1_1": {
+        "name": "sound-physics-remastered-forge-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/msEsH9u5/sound-physics-remastered-forge-1.5.1%2B26.1.1.jar",
+        "sha512": "9c160a3f04b790e843039864f54ff382c9436b655e689a527e02c0ead7e57d8b786028f51c5d6683c04cec82052ac64b22065aef51ff7c9cd1cad861ee9c544b"
       },
       "forge-1_5_1": {
         "name": "sound-physics-remastered-forge-1.5.1+26.1.jar",
@@ -1896,11 +1947,28 @@
     }
   },
   "fabric": {
+    "26_1_1": {
+      "latest": {
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
+      },
+      "fabric-1_5_1": {
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "sound-physics-remastered-fabric-1.5.1+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/XLwWIIue/sound-physics-remastered-fabric-1.5.1%2B26.1.jar",
-        "sha512": "486d4c293d8668e28d08570ff9b9ff7b267dbe4df3c57d4b0446aa64cd16dc7e581f7802d210acf3592298d6e8b519fbf154299d770e23bb6379de96e2bc0b6a"
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
+      },
+      "fabric-1_5_1_1": {
+        "name": "sound-physics-remastered-fabric-1.5.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/aulCuAkE/sound-physics-remastered-fabric-1.5.1%2B26.1.1.jar",
+        "sha512": "94f978f262248f12db517f8fd64c546a29466d594bdca6b408996b11f3307fbeab686674dfa3fa8de1b23decec9e689a0758391165651b86c88be7fb8700bfae"
       },
       "fabric-1_5_1": {
         "name": "sound-physics-remastered-fabric-1.5.1+26.1.jar",

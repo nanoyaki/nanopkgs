@@ -12,7 +12,7 @@ final: prev: {
 
     {
       pname = "prowlarr";
-      version = "2.3.5.5318";
+      version = "2.3.5.5323";
 
       src = final.applyPatches {
         src = final.fetchgit {
@@ -22,7 +22,7 @@ final: prev: {
           deepClone = false;
           leaveDotGit = false;
           sparseCheckout = [ ];
-          sha256 = "sha256-wvK01dUNuwZq+Pr3h9qtX6htKE5VPjOmgdFOpRd0nRc=";
+          sha256 = "sha256-mHYEY49uczfo0lAaweCmA04dHDxRMFq5lYybKGirlQk=";
         };
 
         postPatch = ''
@@ -34,7 +34,7 @@ final: prev: {
 
       yarnOfflineCache = final.fetchYarnDeps {
         yarnLock = "${finalAttrs.src}/yarn.lock";
-        hash = "sha256-QVyjo/Zshy+61qocGKa3tZS8gnHvvVqenf79FkiXDBM=";
+        hash = "sha256-FYLfOR5gm9lg1F8RGyDN6MkFAcaxWIdIxd/IDBVUMUQ=";
       };
 
       passthru = prevAttrs.passthru // {
