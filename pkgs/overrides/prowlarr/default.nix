@@ -12,7 +12,7 @@ final: prev: {
 
     {
       pname = "prowlarr";
-      version = "2.3.5.5323";
+      version = "2.3.5.5327";
 
       src = final.applyPatches {
         src = final.fetchgit {

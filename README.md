@@ -15,16 +15,16 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `clipboard-manager` -> `0.1.0-unstable-2026-03-24`
 - `cosmic-classic-menu` -> `0.0.13-unstable-2026-03-09`
 - `cosmic-ext-applet-privacy-indicator` -> `0.2.0-unstable-2026-02-20`
-- `dwproton-bin` -> `10.0-22`
+- `dwproton-bin` -> `10.0-23`
 - `error-pages` -> `0-unstable-2024-11-22`
 - `flaresolverr` -> `3.4.6`
 - `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-04-01`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-03-27`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-04-03`
 - `osu-lazer-bin` -> `2026.401.0-lazer`
 - `prefetch`
-- `prowlarr` -> `2.3.5.5323`
+- `prowlarr` -> `2.3.5.5327`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
 - `shoko` -> `6.0.0-dev.56-unstable-2026-04-01`

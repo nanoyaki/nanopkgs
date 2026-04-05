@@ -1,10 +1,32 @@
 {
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "AdvancedLootInfo-neoforge-26.1.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/f7zQ47QM/AdvancedLootInfo-neoforge-26.1.1-1.8.3.jar",
+        "sha512": "3fac83fa10565a4cd5eda8ca9cd22d35ad83cc69238296fc718cad3c78666fdfdd0a41b381fc2d42de964e5c39e047e4912fc3ee660a6ad16f322762322269d7"
+      },
+      "26_1_1-1_8_3": {
+        "name": "AdvancedLootInfo-neoforge-26.1.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/f7zQ47QM/AdvancedLootInfo-neoforge-26.1.1-1.8.3.jar",
+        "sha512": "3fac83fa10565a4cd5eda8ca9cd22d35ad83cc69238296fc718cad3c78666fdfdd0a41b381fc2d42de964e5c39e047e4912fc3ee660a6ad16f322762322269d7"
+      },
+      "26_1_1-1_8_2": {
+        "name": "AdvancedLootInfo-neoforge-26.1.1-1.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/ctZfXZfF/AdvancedLootInfo-neoforge-26.1.1-1.8.2.jar",
+        "sha512": "fb0820413fae554f86592979a7cda46a4b4f7fbc36b6a11bf9846d3466a9a71d2e7085583ca6f35066445bfadfa3c02192efa46145e21c56a2e1573f9c8985ea"
+      }
+    },
     "1_21_11": {
       "latest": {
-        "name": "AdvancedLootInfo-neoforge-1.21.11-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/MeYx4p6F/AdvancedLootInfo-neoforge-1.21.11-1.8.2.jar",
-        "sha512": "f1566888a744183c6d10f3240da928f3dd611afc05bce0774e193443f9f49192f42c38965e0c944d89d1068b0f03dcb37f733f63f760991a25572320c59a341c"
+        "name": "AdvancedLootInfo-neoforge-1.21.11-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Ckey8PTX/AdvancedLootInfo-neoforge-1.21.11-1.8.3.jar",
+        "sha512": "58a399336fd74a0d9fb2b8de9d009b7966b1923be24c38c0cd7aa411817b094235d2f98a9e2c64b78523562a3d9846e676c560564271413b7316166f7485adfb"
+      },
+      "1_21_11-1_8_3": {
+        "name": "AdvancedLootInfo-neoforge-1.21.11-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Ckey8PTX/AdvancedLootInfo-neoforge-1.21.11-1.8.3.jar",
+        "sha512": "58a399336fd74a0d9fb2b8de9d009b7966b1923be24c38c0cd7aa411817b094235d2f98a9e2c64b78523562a3d9846e676c560564271413b7316166f7485adfb"
       },
       "1_21_11-1_8_2": {
         "name": "AdvancedLootInfo-neoforge-1.21.11-1.8.2.jar",
@@ -54,9 +76,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "AdvancedLootInfo-neoforge-1.21.10-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/6T9ntyV3/AdvancedLootInfo-neoforge-1.21.10-1.8.2.jar",
-        "sha512": "a9bb4f0e497200b616a5ab564a6e59d758bbc2872fe03f0300f37cf14733e79ca3878b53b860e9934d56438afe284dec471443ca6f4ebe0a8c4e0e4c46ca75aa"
+        "name": "AdvancedLootInfo-neoforge-1.21.10-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/7iy9i9z9/AdvancedLootInfo-neoforge-1.21.10-1.8.3.jar",
+        "sha512": "876872d300e70abfc370731a2a16e0d965a9168d1e01cc6e981dc4cf301755977504a922877b94e639878f23d5008905b4864627b263fe65e611ca4e22d1c822"
+      },
+      "1_21_10-1_8_3": {
+        "name": "AdvancedLootInfo-neoforge-1.21.10-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/7iy9i9z9/AdvancedLootInfo-neoforge-1.21.10-1.8.3.jar",
+        "sha512": "876872d300e70abfc370731a2a16e0d965a9168d1e01cc6e981dc4cf301755977504a922877b94e639878f23d5008905b4864627b263fe65e611ca4e22d1c822"
       },
       "1_21_10-1_8_2": {
         "name": "AdvancedLootInfo-neoforge-1.21.10-1.8.2.jar",
@@ -141,9 +168,14 @@
     },
     "1_21_8": {
       "latest": {
-        "name": "AdvancedLootInfo-neoforge-1.21.8-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/n4zK7YvD/AdvancedLootInfo-neoforge-1.21.8-1.8.2.jar",
-        "sha512": "c7a34d8438a4c90636d5edacb3bdd5536c4aaac746f8f6f0a2143228a534bda2cba9c04572330e7a40056062d85a09b0e946d4c4b2235421e1882e82c679ebc5"
+        "name": "AdvancedLootInfo-neoforge-1.21.8-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/M8aLl05I/AdvancedLootInfo-neoforge-1.21.8-1.8.3.jar",
+        "sha512": "d139218f2fa6c5ad7c5fb31f1d7a957fd799d2f9c46e7f0f8bf21dc2380b88046a2dc92e91b94f77b77b1c0c69b183f897ea229a417f340e02efadbf07ae24f0"
+      },
+      "1_21_8-1_8_3": {
+        "name": "AdvancedLootInfo-neoforge-1.21.8-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/M8aLl05I/AdvancedLootInfo-neoforge-1.21.8-1.8.3.jar",
+        "sha512": "d139218f2fa6c5ad7c5fb31f1d7a957fd799d2f9c46e7f0f8bf21dc2380b88046a2dc92e91b94f77b77b1c0c69b183f897ea229a417f340e02efadbf07ae24f0"
       },
       "1_21_8-1_8_2": {
         "name": "AdvancedLootInfo-neoforge-1.21.8-1.8.2.jar",
@@ -492,9 +524,14 @@
     },
     "1_21_5": {
       "latest": {
-        "name": "AdvancedLootInfo-neoforge-1.21.5-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/5j6CuEhh/AdvancedLootInfo-neoforge-1.21.5-1.8.2.jar",
-        "sha512": "2e8e527985ea50b888516326d55e0a5f3dec8b257cf4c99522262f4c4dd29b51e85caf74e3a2c4d04357ffa88149a1ddec95fa8a343e95e4018dcb8fc788d306"
+        "name": "AdvancedLootInfo-neoforge-1.21.5-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/7D3AuaQW/AdvancedLootInfo-neoforge-1.21.5-1.8.3.jar",
+        "sha512": "7e6f1338eac5271d5f6e526211dfae7bf3786059ca421eb09432797d03fa876b80ebf7e5c0111c97b3e44102780eac631ed6e32552510a1333bde0f39328f4a3"
+      },
+      "1_21_5-1_8_3": {
+        "name": "AdvancedLootInfo-neoforge-1.21.5-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/7D3AuaQW/AdvancedLootInfo-neoforge-1.21.5-1.8.3.jar",
+        "sha512": "7e6f1338eac5271d5f6e526211dfae7bf3786059ca421eb09432797d03fa876b80ebf7e5c0111c97b3e44102780eac631ed6e32552510a1333bde0f39328f4a3"
       },
       "1_21_5-1_8_2": {
         "name": "AdvancedLootInfo-neoforge-1.21.5-1.8.2.jar",
@@ -968,9 +1005,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/2lWr9AZ0/AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar",
-        "sha512": "97b4598d722c2d565853e86421c1a4f65c68314bd7d45bcd6a2697afc871dca968f300b2537433ad9e61b9f1f58a5573dc3398b07f003516e44b10803a894e68"
+        "name": "AdvancedLootInfo-neoforge-1.21.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/KdMz43GS/AdvancedLootInfo-neoforge-1.21.1-1.8.3.jar",
+        "sha512": "e7cb89adaaa81bebfad21b86967ec2f7e3d6cae381c4f22538cd6873adda4cecb6cca2e245059094a39c5137daf9ada7a4f8a002897507241fada0e0cadffe08"
+      },
+      "1_21_1-1_8_3": {
+        "name": "AdvancedLootInfo-neoforge-1.21.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/KdMz43GS/AdvancedLootInfo-neoforge-1.21.1-1.8.3.jar",
+        "sha512": "e7cb89adaaa81bebfad21b86967ec2f7e3d6cae381c4f22538cd6873adda4cecb6cca2e245059094a39c5137daf9ada7a4f8a002897507241fada0e0cadffe08"
       },
       "1_21_1-1_8_2": {
         "name": "AdvancedLootInfo-neoforge-1.21.1-1.8.2.jar",
@@ -1691,9 +1733,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "AdvancedLootInfo-forge-1.20.1-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Bj5rypxX/AdvancedLootInfo-forge-1.20.1-1.8.2.jar",
-        "sha512": "077bfb43955491142f26d915a797048cbad9f1857ef1e562ac4b263c93fcb4187979dc1c0256718822db959c18331ac6fd0ad949cdede69fdbdb36674419f456"
+        "name": "AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/QnZi0UD1/AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "sha512": "d6f53fceaf9e178955d338a2740e2d059e8fdcca4dd38a5fc58c54d617cf0655ecc0b51cb5a4ab9caf341e7f6124e44f4913f38b74203e60904e233a206a70d4"
+      },
+      "1_20_1-1_8_3": {
+        "name": "AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/QnZi0UD1/AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "sha512": "d6f53fceaf9e178955d338a2740e2d059e8fdcca4dd38a5fc58c54d617cf0655ecc0b51cb5a4ab9caf341e7f6124e44f4913f38b74203e60904e233a206a70d4"
       },
       "1_20_1-1_8_2": {
         "name": "AdvancedLootInfo-forge-1.20.1-1.8.2.jar",
@@ -1910,9 +1957,14 @@
   "forge": {
     "1_21_1": {
       "latest": {
-        "name": "AdvancedLootInfo-forge-1.21.1-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/l0hqV9Ls/AdvancedLootInfo-forge-1.21.1-1.8.2.jar",
-        "sha512": "4aac1ea0abc6c3a8fea6884731f23bc3e5991f85f159ae20781f05104dd7be4e844d17d9e0be3f418e4e7f1ddbee077b83bc37b3dafe9040ba345d902f8fb321"
+        "name": "AdvancedLootInfo-forge-1.21.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Nvj8QGE8/AdvancedLootInfo-forge-1.21.1-1.8.3.jar",
+        "sha512": "a21a1f63088878d20acbc7c6ba07dc612fa3151832c661b9b7771ee754b3e224878644acf757374cd0a7f210a5db37b5ce60e22d9fb12fa9c3cbc587f28ed903"
+      },
+      "1_21_1-1_8_3": {
+        "name": "AdvancedLootInfo-forge-1.21.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Nvj8QGE8/AdvancedLootInfo-forge-1.21.1-1.8.3.jar",
+        "sha512": "a21a1f63088878d20acbc7c6ba07dc612fa3151832c661b9b7771ee754b3e224878644acf757374cd0a7f210a5db37b5ce60e22d9fb12fa9c3cbc587f28ed903"
       },
       "1_21_1-1_8_2": {
         "name": "AdvancedLootInfo-forge-1.21.1-1.8.2.jar",
@@ -2628,9 +2680,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "AdvancedLootInfo-forge-1.20.1-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Bj5rypxX/AdvancedLootInfo-forge-1.20.1-1.8.2.jar",
-        "sha512": "077bfb43955491142f26d915a797048cbad9f1857ef1e562ac4b263c93fcb4187979dc1c0256718822db959c18331ac6fd0ad949cdede69fdbdb36674419f456"
+        "name": "AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/QnZi0UD1/AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "sha512": "d6f53fceaf9e178955d338a2740e2d059e8fdcca4dd38a5fc58c54d617cf0655ecc0b51cb5a4ab9caf341e7f6124e44f4913f38b74203e60904e233a206a70d4"
+      },
+      "1_20_1-1_8_3": {
+        "name": "AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/QnZi0UD1/AdvancedLootInfo-forge-1.20.1-1.8.3.jar",
+        "sha512": "d6f53fceaf9e178955d338a2740e2d059e8fdcca4dd38a5fc58c54d617cf0655ecc0b51cb5a4ab9caf341e7f6124e44f4913f38b74203e60904e233a206a70d4"
       },
       "1_20_1-1_8_2": {
         "name": "AdvancedLootInfo-forge-1.20.1-1.8.2.jar",
@@ -2845,11 +2902,33 @@
     }
   },
   "fabric": {
+    "26_1_1": {
+      "latest": {
+        "name": "AdvancedLootInfo-fabric-26.1.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/HhYeIr5X/AdvancedLootInfo-fabric-26.1.1-1.8.3.jar",
+        "sha512": "b9cd032dda039703f4c1fbb812d6dddbc619d6b7265e4db27e43c5d3e657f67ebbe4bfe2ef2e7afd93e6518217ea30274684836c3386e543ddc2be3be5f32405"
+      },
+      "26_1_1-1_8_3": {
+        "name": "AdvancedLootInfo-fabric-26.1.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/HhYeIr5X/AdvancedLootInfo-fabric-26.1.1-1.8.3.jar",
+        "sha512": "b9cd032dda039703f4c1fbb812d6dddbc619d6b7265e4db27e43c5d3e657f67ebbe4bfe2ef2e7afd93e6518217ea30274684836c3386e543ddc2be3be5f32405"
+      },
+      "26_1_1-1_8_2": {
+        "name": "AdvancedLootInfo-fabric-26.1.1-1.8.2.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/DIFTpXH7/AdvancedLootInfo-fabric-26.1.1-1.8.2.jar",
+        "sha512": "1c5d8912c71d8b7657bb25c7c0bfffe177c074a7f109c7f95f7ce330ddcef6bb6a505252630913fca4303391a7150399672e3d5a44c263bb3e34bfb4bc59cfee"
+      }
+    },
     "1_21_11": {
       "latest": {
-        "name": "AdvancedLootInfo-fabric-1.21.11-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/L4zmvBCk/AdvancedLootInfo-fabric-1.21.11-1.8.2.jar",
-        "sha512": "acde00e0587880a303179ca6c2cb93edd5e68b7fbe0bc586b5903af422530696ef73fe1d88b55e8af8c51f278d7f95a65c82386cac6fe93e1ba3569435928f2b"
+        "name": "AdvancedLootInfo-fabric-1.21.11-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/6AZ7nZeU/AdvancedLootInfo-fabric-1.21.11-1.8.3.jar",
+        "sha512": "4d8e2d14e9562261df9b46a9bc458245d28e90f28139ddffa17d8ed60654a7f7d158448446fbf6f96d0dc7963465aa797eaba94e5ee97ee53af454a60b7c171b"
+      },
+      "1_21_11-1_8_3": {
+        "name": "AdvancedLootInfo-fabric-1.21.11-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/6AZ7nZeU/AdvancedLootInfo-fabric-1.21.11-1.8.3.jar",
+        "sha512": "4d8e2d14e9562261df9b46a9bc458245d28e90f28139ddffa17d8ed60654a7f7d158448446fbf6f96d0dc7963465aa797eaba94e5ee97ee53af454a60b7c171b"
       },
       "1_21_11-1_8_2": {
         "name": "AdvancedLootInfo-fabric-1.21.11-1.8.2.jar",
@@ -2894,9 +2973,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "AdvancedLootInfo-fabric-1.21.10-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/G9bS6Hz4/AdvancedLootInfo-fabric-1.21.10-1.8.2.jar",
-        "sha512": "eedebf3e7e1835d9994f4bbf9c17451ca4d44e36762dcd4dafe0d1075525441aaae94820f1078e98064e35f7bd26f90c33666ed0888c2d02e7e91f106f568465"
+        "name": "AdvancedLootInfo-fabric-1.21.10-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/E1wsynz0/AdvancedLootInfo-fabric-1.21.10-1.8.3.jar",
+        "sha512": "caea48466faa5060c458063b02549f05d9948b7fa0286dc387b3521ec5c37b3d3e8ffe89ab0cfe2731c5692110d54433f92b65ce1e2b9acedc59e740e661041a"
+      },
+      "1_21_10-1_8_3": {
+        "name": "AdvancedLootInfo-fabric-1.21.10-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/E1wsynz0/AdvancedLootInfo-fabric-1.21.10-1.8.3.jar",
+        "sha512": "caea48466faa5060c458063b02549f05d9948b7fa0286dc387b3521ec5c37b3d3e8ffe89ab0cfe2731c5692110d54433f92b65ce1e2b9acedc59e740e661041a"
       },
       "1_21_10-1_8_2": {
         "name": "AdvancedLootInfo-fabric-1.21.10-1.8.2.jar",
@@ -2971,9 +3055,14 @@
     },
     "1_21_8": {
       "latest": {
-        "name": "AdvancedLootInfo-fabric-1.21.8-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/zwngpSNw/AdvancedLootInfo-fabric-1.21.8-1.8.2.jar",
-        "sha512": "704ad9d333e3d7bdc4090ae83413208d9b5a5fcba40c186d4c49d3fe3d43364a9be16193c2dfa71f8d8db2c6623570011a73059127b9fbc04b4b998765af356f"
+        "name": "AdvancedLootInfo-fabric-1.21.8-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/AsFfROAd/AdvancedLootInfo-fabric-1.21.8-1.8.3.jar",
+        "sha512": "c28aab92d9450b223bbccb4c6d5724b7c0a5a0daabf06e89674634078d749257191a32b3b911ff4a727057d57bfa2d40e041732b7d9eebcbae5523d70cd6f226"
+      },
+      "1_21_8-1_8_3": {
+        "name": "AdvancedLootInfo-fabric-1.21.8-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/AsFfROAd/AdvancedLootInfo-fabric-1.21.8-1.8.3.jar",
+        "sha512": "c28aab92d9450b223bbccb4c6d5724b7c0a5a0daabf06e89674634078d749257191a32b3b911ff4a727057d57bfa2d40e041732b7d9eebcbae5523d70cd6f226"
       },
       "1_21_8-1_8_2": {
         "name": "AdvancedLootInfo-fabric-1.21.8-1.8.2.jar",
@@ -3347,9 +3436,14 @@
     },
     "1_21_5": {
       "latest": {
-        "name": "AdvancedLootInfo-fabric-1.21.5-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/K6UlGAm4/AdvancedLootInfo-fabric-1.21.5-1.8.2.jar",
-        "sha512": "9fb7f7020838e071e1a163f95c0a8d3f5f5a73251ff4ceadf44231c72bb818a67071250187e50caf0c9a3582348c9f68e4e9006ff03d23ecf3e890a98b83bffd"
+        "name": "AdvancedLootInfo-fabric-1.21.5-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Swa7FkHP/AdvancedLootInfo-fabric-1.21.5-1.8.3.jar",
+        "sha512": "ff1fcbc644a9b4379fcf4f0f5a432fe4a23e82173946678fc6439e4c794eb3667f1eaf5a2bc106a66ab23d7e64cf907be04b265225ad0595bfc8354b7ce0c43d"
+      },
+      "1_21_5-1_8_3": {
+        "name": "AdvancedLootInfo-fabric-1.21.5-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/Swa7FkHP/AdvancedLootInfo-fabric-1.21.5-1.8.3.jar",
+        "sha512": "ff1fcbc644a9b4379fcf4f0f5a432fe4a23e82173946678fc6439e4c794eb3667f1eaf5a2bc106a66ab23d7e64cf907be04b265225ad0595bfc8354b7ce0c43d"
       },
       "1_21_5-1_8_2": {
         "name": "AdvancedLootInfo-fabric-1.21.5-1.8.2.jar",
@@ -3853,9 +3947,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "AdvancedLootInfo-fabric-1.21.1-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/mV9qJMDa/AdvancedLootInfo-fabric-1.21.1-1.8.2.jar",
-        "sha512": "64a248b502aa0f013c4f73e7527e671b73e49d207b1c6484a6e31f7a12ee6b0cdf979b2d15e6e8dd019ef84809cced85b6716e2f82812a9db20f77984856c498"
+        "name": "AdvancedLootInfo-fabric-1.21.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/JzldAp6U/AdvancedLootInfo-fabric-1.21.1-1.8.3.jar",
+        "sha512": "d74e5a32361322485a7cd30d632a4711ae1de1ac2e9c11a0efef78ec7e79adfde89aa210d89bb4ddeab01cfb84175db19f84d1095c9af2b0fadcdff624d05171"
+      },
+      "1_21_1-1_8_3": {
+        "name": "AdvancedLootInfo-fabric-1.21.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/JzldAp6U/AdvancedLootInfo-fabric-1.21.1-1.8.3.jar",
+        "sha512": "d74e5a32361322485a7cd30d632a4711ae1de1ac2e9c11a0efef78ec7e79adfde89aa210d89bb4ddeab01cfb84175db19f84d1095c9af2b0fadcdff624d05171"
       },
       "1_21_1-1_8_2": {
         "name": "AdvancedLootInfo-fabric-1.21.1-1.8.2.jar",
@@ -4596,9 +4695,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "AdvancedLootInfo-fabric-1.20.1-1.8.2.jar",
-        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/UB6Fi9b3/AdvancedLootInfo-fabric-1.20.1-1.8.2.jar",
-        "sha512": "61328977b87a803ce32095ba4a4d46eb498e0d45cd63cb406b9f39dcfabdc31d52df7cb6318a71c47e7fcd1178e595087df5cdf3171d7ae58e66077e3346fa3c"
+        "name": "AdvancedLootInfo-fabric-1.20.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/m3bUFmWX/AdvancedLootInfo-fabric-1.20.1-1.8.3.jar",
+        "sha512": "748d3562f4f193e4edfdbcec00de69a455ea7119b6a3ccd753a2e927a73d8072dac1884d52f325c14ed5720dfcb55545f2e008bddb6a5d62d12ea32da420c0ee"
+      },
+      "1_20_1-1_8_3": {
+        "name": "AdvancedLootInfo-fabric-1.20.1-1.8.3.jar",
+        "url": "https://cdn.modrinth.com/data/PEPVViac/versions/m3bUFmWX/AdvancedLootInfo-fabric-1.20.1-1.8.3.jar",
+        "sha512": "748d3562f4f193e4edfdbcec00de69a455ea7119b6a3ccd753a2e927a73d8072dac1884d52f325c14ed5720dfcb55545f2e008bddb6a5d62d12ea32da420c0ee"
       },
       "1_20_1-1_8_2": {
         "name": "AdvancedLootInfo-fabric-1.20.1-1.8.2.jar",
