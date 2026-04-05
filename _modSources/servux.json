@@ -1,10 +1,27 @@
 {
   "fabric": {
+    "26_1_1": {
+      "latest": {
+        "name": "servux-fabric-26.1.1-0.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Cl7OXSCU/servux-fabric-26.1.1-0.10.1.jar",
+        "sha512": "d86c7320618736f302308ec90fe13a8ed55bab815bb5335591cc8bbafa09f66fc8a09049f6964022bf7de1391262e7e775805899b99d77be84d3b5243202be11"
+      },
+      "0_10_1": {
+        "name": "servux-fabric-26.1.1-0.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Cl7OXSCU/servux-fabric-26.1.1-0.10.1.jar",
+        "sha512": "d86c7320618736f302308ec90fe13a8ed55bab815bb5335591cc8bbafa09f66fc8a09049f6964022bf7de1391262e7e775805899b99d77be84d3b5243202be11"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "servux-fabric-26.1-0.10.0.jar",
-        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/w7Ztj8xb/servux-fabric-26.1-0.10.0.jar",
-        "sha512": "35d515a7a4d05884c5d157dd9d084a350f72667a6f4d3897e0daef8a067db158da563865c6569d9d2ac031c88f28521ae76d31c33b887110e299a817196b064c"
+        "name": "servux-fabric-26.1.1-0.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Cl7OXSCU/servux-fabric-26.1.1-0.10.1.jar",
+        "sha512": "d86c7320618736f302308ec90fe13a8ed55bab815bb5335591cc8bbafa09f66fc8a09049f6964022bf7de1391262e7e775805899b99d77be84d3b5243202be11"
+      },
+      "0_10_1": {
+        "name": "servux-fabric-26.1.1-0.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/zQhsx8KF/versions/Cl7OXSCU/servux-fabric-26.1.1-0.10.1.jar",
+        "sha512": "d86c7320618736f302308ec90fe13a8ed55bab815bb5335591cc8bbafa09f66fc8a09049f6964022bf7de1391262e7e775805899b99d77be84d3b5243202be11"
       },
       "0_10_0": {
         "name": "servux-fabric-26.1-0.10.0.jar",

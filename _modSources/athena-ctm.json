@@ -1,5 +1,17 @@
 {
   "neoforge": {
+    "26_1": {
+      "latest": {
+        "name": "athena-4.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/KQK8juQr/athena-4.7.0.jar",
+        "sha512": "6a80c5250e834da9c4f9d0f009817f75b895b327e54fad404b66185ac39daf09e381e69d04d2a04f7553435d43b2a7c95526cdde0e5d3875802e07389538f706"
+      },
+      "4_7_0": {
+        "name": "athena-4.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/KQK8juQr/athena-4.7.0.jar",
+        "sha512": "6a80c5250e834da9c4f9d0f009817f75b895b327e54fad404b66185ac39daf09e381e69d04d2a04f7553435d43b2a7c95526cdde0e5d3875802e07389538f706"
+      }
+    },
     "1_21_6": {
       "latest": {
         "name": "athena-neoforge-1.21.6-4.4.1.jar",
@@ -70,9 +82,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "athena-neoforge-1.21-4.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/SVhR1m5N/athena-neoforge-1.21-4.0.2.jar",
-        "sha512": "c1756365b28d4c6c62416f0332a0e2d591142ae9ea5e5c1e0ae640eb9ae172565c08ef6c11e29c062f4db78a3dd187dba6837fbca1e0f38e12a2b4e48ec5ed88"
+        "name": "athena-neoforge-1.21-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/VkHA9rmF/athena-neoforge-1.21-4.0.3.jar",
+        "sha512": "b52b7ce454d3aaa7dd2978d2a7a5ad641b6f0094c0376b17af611c24ed76784d9bb740514af8bb84597c6dfc920d9964da96b537a24e92b7169f7c7b29579159"
+      },
+      "4_0_3": {
+        "name": "athena-neoforge-1.21-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/VkHA9rmF/athena-neoforge-1.21-4.0.3.jar",
+        "sha512": "b52b7ce454d3aaa7dd2978d2a7a5ad641b6f0094c0376b17af611c24ed76784d9bb740514af8bb84597c6dfc920d9964da96b537a24e92b7169f7c7b29579159"
       },
       "4_0_2": {
         "name": "athena-neoforge-1.21-4.0.2.jar",
@@ -284,6 +301,18 @@
     }
   },
   "fabric": {
+    "26_1": {
+      "latest": {
+        "name": "athena-4.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/qm6CHGQQ/athena-4.7.0.jar",
+        "sha512": "c12ded77a7653737e47ad34f3ac42d3c1aa47447e0f5e43602bd446df42be0103a4293c32c5505edfc7839a2999986cf5f748de782ccf6d676c12fb7c7e1b3ce"
+      },
+      "4_7_0": {
+        "name": "athena-4.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/qm6CHGQQ/athena-4.7.0.jar",
+        "sha512": "c12ded77a7653737e47ad34f3ac42d3c1aa47447e0f5e43602bd446df42be0103a4293c32c5505edfc7839a2999986cf5f748de782ccf6d676c12fb7c7e1b3ce"
+      }
+    },
     "1_21_6": {
       "latest": {
         "name": "athena-fabric-1.21.6-4.4.1.jar",
@@ -354,9 +383,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "athena-fabric-1.21-4.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7PcGW9Vp/athena-fabric-1.21-4.0.2.jar",
-        "sha512": "4e2c7d1c8601be50229c94ded45b700adeef2f89ac5e713792603f678228c9fd4595301a857b09a2a8737298701b553555d9ef80ee139a2a774f0516c572afdc"
+        "name": "athena-fabric-1.21-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/PYmIa5pZ/athena-fabric-1.21-4.0.3.jar",
+        "sha512": "df4b63c11d8b30ce28ae2b206eeb4b27084b2a2ba6a9544ca9d485eb98ea3ca33da68ac8eee70d14b413ebb6a52b998a75ce2c071c0a5111516ef8304131b319"
+      },
+      "4_0_3": {
+        "name": "athena-fabric-1.21-4.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/PYmIa5pZ/athena-fabric-1.21-4.0.3.jar",
+        "sha512": "df4b63c11d8b30ce28ae2b206eeb4b27084b2a2ba6a9544ca9d485eb98ea3ca33da68ac8eee70d14b413ebb6a52b998a75ce2c071c0a5111516ef8304131b319"
       },
       "4_0_2": {
         "name": "athena-fabric-1.21-4.0.2.jar",
