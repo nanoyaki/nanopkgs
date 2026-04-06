@@ -12,11 +12,28 @@
         "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
       }
     },
+    "26_1_1": {
+      "latest": {
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
+      },
+      "fabric-19_0_1": {
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "wthit-26.1-fabric-19.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/5o3r0nzt/wthit-26.1-fabric-19.0.0.jar",
-        "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
+      },
+      "fabric-19_0_1": {
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
       },
       "fabric-19_0_0": {
         "name": "wthit-26.1-fabric-19.0.0.jar",
@@ -2775,6 +2792,30 @@
     }
   },
   "neoforge": {
+    "26_1_1": {
+      "latest": {
+        "name": "wthit-26.1-neo-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/86roxNra/wthit-26.1-neo-19.0.1.jar",
+        "sha512": "0efc84195a7415dc661003b3c6492c10d6f59fe6d42a928fa9733249d5a8bdb7d8972befe969e6318e34f97275f7e0f94a115488994447c26c8d9e1ecd5eab37"
+      },
+      "neo-19_0_1": {
+        "name": "wthit-26.1-neo-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/86roxNra/wthit-26.1-neo-19.0.1.jar",
+        "sha512": "0efc84195a7415dc661003b3c6492c10d6f59fe6d42a928fa9733249d5a8bdb7d8972befe969e6318e34f97275f7e0f94a115488994447c26c8d9e1ecd5eab37"
+      }
+    },
+    "26_1": {
+      "latest": {
+        "name": "wthit-26.1-neo-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/86roxNra/wthit-26.1-neo-19.0.1.jar",
+        "sha512": "0efc84195a7415dc661003b3c6492c10d6f59fe6d42a928fa9733249d5a8bdb7d8972befe969e6318e34f97275f7e0f94a115488994447c26c8d9e1ecd5eab37"
+      },
+      "neo-19_0_1": {
+        "name": "wthit-26.1-neo-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/86roxNra/wthit-26.1-neo-19.0.1.jar",
+        "sha512": "0efc84195a7415dc661003b3c6492c10d6f59fe6d42a928fa9733249d5a8bdb7d8972befe969e6318e34f97275f7e0f94a115488994447c26c8d9e1ecd5eab37"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "wthit-1.21.11-neo-18.2.2.jar",
@@ -4470,6 +4511,30 @@
     }
   },
   "forge": {
+    "26_1_1": {
+      "latest": {
+        "name": "wthit-26.1-forge-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XIAFKMBC/wthit-26.1-forge-19.0.1.jar",
+        "sha512": "8363a3428d9ce009c09486c7404a0a1685fd635be50dcc5a2c9e44bbbdf05dfc6ccab1171fa354bc91dcc5a40380bb1d8f59e98402cfda8598daac3dfb5645bf"
+      },
+      "forge-19_0_1": {
+        "name": "wthit-26.1-forge-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XIAFKMBC/wthit-26.1-forge-19.0.1.jar",
+        "sha512": "8363a3428d9ce009c09486c7404a0a1685fd635be50dcc5a2c9e44bbbdf05dfc6ccab1171fa354bc91dcc5a40380bb1d8f59e98402cfda8598daac3dfb5645bf"
+      }
+    },
+    "26_1": {
+      "latest": {
+        "name": "wthit-26.1-forge-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XIAFKMBC/wthit-26.1-forge-19.0.1.jar",
+        "sha512": "8363a3428d9ce009c09486c7404a0a1685fd635be50dcc5a2c9e44bbbdf05dfc6ccab1171fa354bc91dcc5a40380bb1d8f59e98402cfda8598daac3dfb5645bf"
+      },
+      "forge-19_0_1": {
+        "name": "wthit-26.1-forge-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XIAFKMBC/wthit-26.1-forge-19.0.1.jar",
+        "sha512": "8363a3428d9ce009c09486c7404a0a1685fd635be50dcc5a2c9e44bbbdf05dfc6ccab1171fa354bc91dcc5a40380bb1d8f59e98402cfda8598daac3dfb5645bf"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "wthit-1.21.11-forge-18.2.2.jar",
@@ -7686,11 +7751,28 @@
         "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
       }
     },
+    "26_1_1": {
+      "latest": {
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
+      },
+      "fabric-19_0_1": {
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
+      }
+    },
     "26_1": {
       "latest": {
-        "name": "wthit-26.1-fabric-19.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/5o3r0nzt/wthit-26.1-fabric-19.0.0.jar",
-        "sha512": "c025236c7109c98cd8bee7d3637cc99f4f3da8ef662c8f6005ed6d0a5f0ad7fb26fbbc39362de9c14df568909719d73763b9b0714301e80e0596a15198ee6c0b"
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
+      },
+      "fabric-19_0_1": {
+        "name": "wthit-26.1-fabric-19.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/XqSFBb4k/wthit-26.1-fabric-19.0.1.jar",
+        "sha512": "9d09348b9aa58326caae28048296a5ed7fbb1f8f181817c4e43bfde85b78461f17c46c64e5be28f825e0f1b5e833bee904c987d778f7ea0584737a14671b9d84"
       },
       "fabric-19_0_0": {
         "name": "wthit-26.1-fabric-19.0.0.jar",
