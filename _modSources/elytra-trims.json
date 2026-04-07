@@ -568,9 +568,19 @@
   "neoforge": {
     "26_1_1": {
       "latest": {
-        "name": "elytratrims-neoforge-4.7.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/fE4eMbIS/elytratrims-neoforge-4.7.0%2B26.1.jar",
-        "sha512": "2bb03010dda260a03c7ae6b3a06579fd0c07d8614c1abcd3bc9875b67190e87f4e6c6e2435f171633a3178105dbe7cd9f88b3873dbdaccdf2393b2bfda3a9690"
+        "name": "elytratrims-neoforge-4.7.2+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/Ok60bV68/elytratrims-neoforge-4.7.2%2B26.1.1.jar",
+        "sha512": "337e3bfbab9f7acdb5ce0dcd8b5cc9d3b71785626d297433a8104d0d7c618ec9ef965d46c106a8f5dc3b860d16f82af90b127485eeb9067ebdfb0d68d7fb0e40"
+      },
+      "4_7_2": {
+        "name": "elytratrims-neoforge-4.7.2+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/Ok60bV68/elytratrims-neoforge-4.7.2%2B26.1.1.jar",
+        "sha512": "337e3bfbab9f7acdb5ce0dcd8b5cc9d3b71785626d297433a8104d0d7c618ec9ef965d46c106a8f5dc3b860d16f82af90b127485eeb9067ebdfb0d68d7fb0e40"
+      },
+      "4_7_1": {
+        "name": "elytratrims-neoforge-4.7.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/57KXwvOu/elytratrims-neoforge-4.7.1%2B26.1.1.jar",
+        "sha512": "9b400a0023fab862a5bb1c1bc58687c85d666048b17cc529f5655474c7f7dd48cd0ba3fae3a11c4d5d14be9d1369d07c0093a0b73f383aff36156ddf0bc83ccf"
       },
       "4_7_0": {
         "name": "elytratrims-neoforge-4.7.0+26.1.jar",
@@ -580,9 +590,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "elytratrims-neoforge-4.7.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/fE4eMbIS/elytratrims-neoforge-4.7.0%2B26.1.jar",
-        "sha512": "2bb03010dda260a03c7ae6b3a06579fd0c07d8614c1abcd3bc9875b67190e87f4e6c6e2435f171633a3178105dbe7cd9f88b3873dbdaccdf2393b2bfda3a9690"
+        "name": "elytratrims-neoforge-4.7.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/57KXwvOu/elytratrims-neoforge-4.7.1%2B26.1.1.jar",
+        "sha512": "9b400a0023fab862a5bb1c1bc58687c85d666048b17cc529f5655474c7f7dd48cd0ba3fae3a11c4d5d14be9d1369d07c0093a0b73f383aff36156ddf0bc83ccf"
+      },
+      "4_7_1": {
+        "name": "elytratrims-neoforge-4.7.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/57KXwvOu/elytratrims-neoforge-4.7.1%2B26.1.1.jar",
+        "sha512": "9b400a0023fab862a5bb1c1bc58687c85d666048b17cc529f5655474c7f7dd48cd0ba3fae3a11c4d5d14be9d1369d07c0093a0b73f383aff36156ddf0bc83ccf"
       },
       "4_7_0": {
         "name": "elytratrims-neoforge-4.7.0+26.1.jar",
@@ -1841,9 +1856,14 @@
   "fabric": {
     "26_1_1": {
       "latest": {
-        "name": "elytratrims-fabric-4.7.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/q7SmWLkn/elytratrims-fabric-4.7.0%2B26.1.jar",
-        "sha512": "66c5b138f96a254e0ad2d06109596c41cee90de2c398cd7ba7be8988fb7b50a6ade08a795f9cf9c4531ed003f02ad257b48c04e7d33dbef2d964d3b793c9c6fd"
+        "name": "elytratrims-fabric-4.7.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/zLiz1WAI/elytratrims-fabric-4.7.1%2B26.1.1.jar",
+        "sha512": "8fcc1aaad9117acf92d4fe46843b25345e02c1901369224ea7b7833596bebf28cba06d1200c2b7a9cc6c569a5fbebfa51385cb51dd54c4bc8f3881c0f689379a"
+      },
+      "4_7_1": {
+        "name": "elytratrims-fabric-4.7.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/zLiz1WAI/elytratrims-fabric-4.7.1%2B26.1.1.jar",
+        "sha512": "8fcc1aaad9117acf92d4fe46843b25345e02c1901369224ea7b7833596bebf28cba06d1200c2b7a9cc6c569a5fbebfa51385cb51dd54c4bc8f3881c0f689379a"
       },
       "4_7_0": {
         "name": "elytratrims-fabric-4.7.0+26.1.jar",
@@ -1853,9 +1873,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "elytratrims-fabric-4.7.0+26.1.jar",
-        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/q7SmWLkn/elytratrims-fabric-4.7.0%2B26.1.jar",
-        "sha512": "66c5b138f96a254e0ad2d06109596c41cee90de2c398cd7ba7be8988fb7b50a6ade08a795f9cf9c4531ed003f02ad257b48c04e7d33dbef2d964d3b793c9c6fd"
+        "name": "elytratrims-fabric-4.7.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/zLiz1WAI/elytratrims-fabric-4.7.1%2B26.1.1.jar",
+        "sha512": "8fcc1aaad9117acf92d4fe46843b25345e02c1901369224ea7b7833596bebf28cba06d1200c2b7a9cc6c569a5fbebfa51385cb51dd54c4bc8f3881c0f689379a"
+      },
+      "4_7_1": {
+        "name": "elytratrims-fabric-4.7.1+26.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/zLiz1WAI/elytratrims-fabric-4.7.1%2B26.1.1.jar",
+        "sha512": "8fcc1aaad9117acf92d4fe46843b25345e02c1901369224ea7b7833596bebf28cba06d1200c2b7a9cc6c569a5fbebfa51385cb51dd54c4bc8f3881c0f689379a"
       },
       "4_7_0": {
         "name": "elytratrims-fabric-4.7.0+26.1.jar",
