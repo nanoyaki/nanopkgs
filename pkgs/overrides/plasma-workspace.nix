@@ -46,6 +46,4 @@ final: prev: {
         };
     }
   );
-
-  plasma-workspace-xdg-fixed = final.kdePackages.plasma-workspace;
 }
