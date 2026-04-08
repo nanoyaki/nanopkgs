@@ -22,7 +22,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-04-01`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2026-04-07`
-- `osu-lazer-bin` -> `2026.406.0-lazer`
+- `osu-lazer-bin` -> `2026.408.0-tachyon`
 - `prefetch`
 - `prowlarr` -> `2.3.5.5327`
 - `pyon` -> `0.1.0`
