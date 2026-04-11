@@ -1,10 +1,27 @@
 {
   "neoforge": {
+    "26_1_2": {
+      "latest": {
+        "name": "jei-26.1.2-neoforge-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/EmVnzLsN/jei-26.1.2-neoforge-29.5.0.24.jar",
+        "sha512": "75d1d199828a8d3e8a328f465bb3d6b49f1e5ef49e85cf0b707ef39824a083b79205b0393d773581b9444016ed41022ce333a15bf51a4ba72732f62bf65cb40f"
+      },
+      "29_5_0_24": {
+        "name": "jei-26.1.2-neoforge-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/uLyKKjt9/jei-26.1.2-neoforge-29.5.0.24.jar",
+        "sha512": "75d1d199828a8d3e8a328f465bb3d6b49f1e5ef49e85cf0b707ef39824a083b79205b0393d773581b9444016ed41022ce333a15bf51a4ba72732f62bf65cb40f"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "jei-26.1.1-neoforge-29.4.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9e3JK24I/jei-26.1.1-neoforge-29.4.0.23.jar",
-        "sha512": "bee87d5ea33e7e3900bb0324828d723beb7ccfbca9bee086faa2400eec421a08a3cd5187c37eaf6d9303e7f60924adacf3bcddccb4cf1988c24adc073439f942"
+        "name": "jei-26.1.2-neoforge-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/EmVnzLsN/jei-26.1.2-neoforge-29.5.0.24.jar",
+        "sha512": "75d1d199828a8d3e8a328f465bb3d6b49f1e5ef49e85cf0b707ef39824a083b79205b0393d773581b9444016ed41022ce333a15bf51a4ba72732f62bf65cb40f"
+      },
+      "29_5_0_24": {
+        "name": "jei-26.1.2-neoforge-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/uLyKKjt9/jei-26.1.2-neoforge-29.5.0.24.jar",
+        "sha512": "75d1d199828a8d3e8a328f465bb3d6b49f1e5ef49e85cf0b707ef39824a083b79205b0393d773581b9444016ed41022ce333a15bf51a4ba72732f62bf65cb40f"
       },
       "29_4_0_23": {
         "name": "jei-26.1.1-neoforge-29.4.0.23.jar",
@@ -19,9 +36,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "jei-26.1.1-neoforge-29.4.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9e3JK24I/jei-26.1.1-neoforge-29.4.0.23.jar",
-        "sha512": "bee87d5ea33e7e3900bb0324828d723beb7ccfbca9bee086faa2400eec421a08a3cd5187c37eaf6d9303e7f60924adacf3bcddccb4cf1988c24adc073439f942"
+        "name": "jei-26.1.2-neoforge-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/EmVnzLsN/jei-26.1.2-neoforge-29.5.0.24.jar",
+        "sha512": "75d1d199828a8d3e8a328f465bb3d6b49f1e5ef49e85cf0b707ef39824a083b79205b0393d773581b9444016ed41022ce333a15bf51a4ba72732f62bf65cb40f"
+      },
+      "29_5_0_24": {
+        "name": "jei-26.1.2-neoforge-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/uLyKKjt9/jei-26.1.2-neoforge-29.5.0.24.jar",
+        "sha512": "75d1d199828a8d3e8a328f465bb3d6b49f1e5ef49e85cf0b707ef39824a083b79205b0393d773581b9444016ed41022ce333a15bf51a4ba72732f62bf65cb40f"
       },
       "29_4_0_23": {
         "name": "jei-26.1.1-neoforge-29.4.0.23.jar",
@@ -11638,11 +11660,28 @@
     }
   },
   "fabric": {
+    "26_1_2": {
+      "latest": {
+        "name": "jei-26.1.2-fabric-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RttASrld/jei-26.1.2-fabric-29.5.0.24.jar",
+        "sha512": "8a9f5efa78238a3c836ee8c7e1bcf13aaf3fda2f9dd1d0d1a5cd15e9a07d2fceb05b18f2a7f254331426bf4c9bf476af51b40ee055001b88bd581499173477c9"
+      },
+      "29_5_0_24": {
+        "name": "jei-26.1.2-fabric-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RttASrld/jei-26.1.2-fabric-29.5.0.24.jar",
+        "sha512": "8a9f5efa78238a3c836ee8c7e1bcf13aaf3fda2f9dd1d0d1a5cd15e9a07d2fceb05b18f2a7f254331426bf4c9bf476af51b40ee055001b88bd581499173477c9"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "jei-26.1.1-fabric-29.4.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/EOREyJjJ/jei-26.1.1-fabric-29.4.0.23.jar",
-        "sha512": "bcab3399683b1f68c4a6d7af6baa397d2b66bbb19eda1046b0bf49051f90d3e5c2979eb1b803a1dbf479b0f3aa50cbef821e83f9dcae4a56ca2405c9ecad9cef"
+        "name": "jei-26.1.2-fabric-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RttASrld/jei-26.1.2-fabric-29.5.0.24.jar",
+        "sha512": "8a9f5efa78238a3c836ee8c7e1bcf13aaf3fda2f9dd1d0d1a5cd15e9a07d2fceb05b18f2a7f254331426bf4c9bf476af51b40ee055001b88bd581499173477c9"
+      },
+      "29_5_0_24": {
+        "name": "jei-26.1.2-fabric-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RttASrld/jei-26.1.2-fabric-29.5.0.24.jar",
+        "sha512": "8a9f5efa78238a3c836ee8c7e1bcf13aaf3fda2f9dd1d0d1a5cd15e9a07d2fceb05b18f2a7f254331426bf4c9bf476af51b40ee055001b88bd581499173477c9"
       },
       "29_4_0_23": {
         "name": "jei-26.1.1-fabric-29.4.0.23.jar",
@@ -11657,9 +11696,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "jei-26.1.1-fabric-29.4.0.23.jar",
-        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/EOREyJjJ/jei-26.1.1-fabric-29.4.0.23.jar",
-        "sha512": "bcab3399683b1f68c4a6d7af6baa397d2b66bbb19eda1046b0bf49051f90d3e5c2979eb1b803a1dbf479b0f3aa50cbef821e83f9dcae4a56ca2405c9ecad9cef"
+        "name": "jei-26.1.2-fabric-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RttASrld/jei-26.1.2-fabric-29.5.0.24.jar",
+        "sha512": "8a9f5efa78238a3c836ee8c7e1bcf13aaf3fda2f9dd1d0d1a5cd15e9a07d2fceb05b18f2a7f254331426bf4c9bf476af51b40ee055001b88bd581499173477c9"
+      },
+      "29_5_0_24": {
+        "name": "jei-26.1.2-fabric-29.5.0.24.jar",
+        "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RttASrld/jei-26.1.2-fabric-29.5.0.24.jar",
+        "sha512": "8a9f5efa78238a3c836ee8c7e1bcf13aaf3fda2f9dd1d0d1a5cd15e9a07d2fceb05b18f2a7f254331426bf4c9bf476af51b40ee055001b88bd581499173477c9"
       },
       "29_4_0_23": {
         "name": "jei-26.1.1-fabric-29.4.0.23.jar",
