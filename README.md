@@ -21,18 +21,18 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-04-08`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-04-10`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-04-13`
 - `osu-lazer-bin` -> `2026.408.0-tachyon`
 - `prefetch`
-- `prowlarr` -> `2.3.5.5327`
+- `prowlarr` -> `2.3.6.5351`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
-- `shoko` -> `6.0.0-dev.57-unstable-2026-04-05`
-- `shoko-webui` -> `2.6.0-dev.20-unstable-2026-04-01`
-- `shokofin` -> `6.0.5-dev.6-unstable-2026-04-09`
+- `shoko` -> `6.0.0-dev.59-unstable-2026-04-13`
+- `shoko-webui` -> `2.6.0-dev.21-unstable-2026-04-12`
+- `shokofin` -> `6.0.5-dev.7-unstable-2026-04-11`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2026-03-31`
-- `suwayomi-webui` -> `20251230.01-unstable-2026-04-07`
+- `suwayomi-webui` -> `20251230.01-unstable-2026-04-13`
 - `whisparr` -> `3.1.0.2116`
 - `wkeys` -> `0.1.2-unstable-2026-02-16`
 - `writeSystemdToggle`

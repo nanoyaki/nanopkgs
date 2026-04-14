@@ -1,10 +1,27 @@
 {
   "quilt": {
+    "26_1_2": {
+      "latest": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "camerapture-1.10.13+mc26.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/LLNWpGvi/camerapture-1.10.13%2Bmc26.1.1.jar",
-        "sha512": "102967c71d53e0493161239accf74bc82819991b0e42be4802fb002b2f8f0c848f4f56aa467bfa4015ac5f44fd8814df288bc48bf54fc0d93b37d86e80339b22"
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc26_1_2": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
       },
       "1_10_13+mc": {
         "name": "camerapture-1.10.13+mc26.1.1.jar",
@@ -14,9 +31,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "camerapture-1.10.13+mc26.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/LLNWpGvi/camerapture-1.10.13%2Bmc26.1.1.jar",
-        "sha512": "102967c71d53e0493161239accf74bc82819991b0e42be4802fb002b2f8f0c848f4f56aa467bfa4015ac5f44fd8814df288bc48bf54fc0d93b37d86e80339b22"
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc_2": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
       },
       "1_10_13+mc_1": {
         "name": "camerapture-1.10.13+mc26.1.1.jar",
@@ -819,11 +841,28 @@
     }
   },
   "neoforge": {
+    "26_1_2": {
+      "latest": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "camerapture-1.10.13+mc26.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/LLNWpGvi/camerapture-1.10.13%2Bmc26.1.1.jar",
-        "sha512": "102967c71d53e0493161239accf74bc82819991b0e42be4802fb002b2f8f0c848f4f56aa467bfa4015ac5f44fd8814df288bc48bf54fc0d93b37d86e80339b22"
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc26_1_2": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
       },
       "1_10_13+mc": {
         "name": "camerapture-1.10.13+mc26.1.1.jar",
@@ -833,9 +872,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "camerapture-1.10.13+mc26.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/LLNWpGvi/camerapture-1.10.13%2Bmc26.1.1.jar",
-        "sha512": "102967c71d53e0493161239accf74bc82819991b0e42be4802fb002b2f8f0c848f4f56aa467bfa4015ac5f44fd8814df288bc48bf54fc0d93b37d86e80339b22"
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc_2": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
       },
       "1_10_13+mc_1": {
         "name": "camerapture-1.10.13+mc26.1.1.jar",
@@ -1420,11 +1464,28 @@
     }
   },
   "fabric": {
+    "26_1_2": {
+      "latest": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "camerapture-1.10.13+mc26.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/LLNWpGvi/camerapture-1.10.13%2Bmc26.1.1.jar",
-        "sha512": "102967c71d53e0493161239accf74bc82819991b0e42be4802fb002b2f8f0c848f4f56aa467bfa4015ac5f44fd8814df288bc48bf54fc0d93b37d86e80339b22"
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc26_1_2": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
       },
       "1_10_13+mc": {
         "name": "camerapture-1.10.13+mc26.1.1.jar",
@@ -1434,9 +1495,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "camerapture-1.10.13+mc26.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/LLNWpGvi/camerapture-1.10.13%2Bmc26.1.1.jar",
-        "sha512": "102967c71d53e0493161239accf74bc82819991b0e42be4802fb002b2f8f0c848f4f56aa467bfa4015ac5f44fd8814df288bc48bf54fc0d93b37d86e80339b22"
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+      },
+      "1_10_14+mc_2": {
+        "name": "camerapture-1.10.14+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar",
+        "sha512": "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
       },
       "1_10_13+mc_1": {
         "name": "camerapture-1.10.13+mc26.1.1.jar",

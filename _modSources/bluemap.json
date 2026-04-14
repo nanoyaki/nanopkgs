@@ -1,10 +1,27 @@
 {
   "sponge": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-sponge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/AuiAZ74A/bluemap-5.20-sponge.jar",
+        "sha512": "fb9f3d7a9ab9d6bf846dbbc0318b0a71f59762bf168247b3493515217badf68b94f54e32d763dab7ed923910e685badfcb0fd90004a333f1b6b343afdfe689bb"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-sponge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/AuiAZ74A/bluemap-5.20-sponge.jar",
+        "sha512": "fb9f3d7a9ab9d6bf846dbbc0318b0a71f59762bf168247b3493515217badf68b94f54e32d763dab7ed923910e685badfcb0fd90004a333f1b6b343afdfe689bb"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-sponge.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/vxoqjxl5/bluemap-5.19-sponge.jar",
-        "sha512": "fb1db10215b5685911eea5948ab5e4f04781be23736738db1fa16e8985cd0d15c55f0d0e3038a804cee3a6adc8b1662a6f4ef03f8e17712cec652b7fd9760dd7"
+        "name": "bluemap-5.20-sponge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/AuiAZ74A/bluemap-5.20-sponge.jar",
+        "sha512": "fb9f3d7a9ab9d6bf846dbbc0318b0a71f59762bf168247b3493515217badf68b94f54e32d763dab7ed923910e685badfcb0fd90004a333f1b6b343afdfe689bb"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-sponge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/AuiAZ74A/bluemap-5.20-sponge.jar",
+        "sha512": "fb9f3d7a9ab9d6bf846dbbc0318b0a71f59762bf168247b3493515217badf68b94f54e32d763dab7ed923910e685badfcb0fd90004a333f1b6b343afdfe689bb"
       },
       "5_19": {
         "name": "bluemap-5.19-sponge.jar",
@@ -14,9 +31,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "bluemap-5.19-sponge.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/vxoqjxl5/bluemap-5.19-sponge.jar",
-        "sha512": "fb1db10215b5685911eea5948ab5e4f04781be23736738db1fa16e8985cd0d15c55f0d0e3038a804cee3a6adc8b1662a6f4ef03f8e17712cec652b7fd9760dd7"
+        "name": "bluemap-5.20-sponge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/AuiAZ74A/bluemap-5.20-sponge.jar",
+        "sha512": "fb9f3d7a9ab9d6bf846dbbc0318b0a71f59762bf168247b3493515217badf68b94f54e32d763dab7ed923910e685badfcb0fd90004a333f1b6b343afdfe689bb"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-sponge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/AuiAZ74A/bluemap-5.20-sponge.jar",
+        "sha512": "fb9f3d7a9ab9d6bf846dbbc0318b0a71f59762bf168247b3493515217badf68b94f54e32d763dab7ed923910e685badfcb0fd90004a333f1b6b343afdfe689bb"
       },
       "5_19": {
         "name": "bluemap-5.19-sponge.jar",
@@ -1423,11 +1445,28 @@
     }
   },
   "spigot": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-spigot.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/yzncnT0V/bluemap-5.20-spigot.jar",
+        "sha512": "77c3da6f35ba14c60bfe5889a25bbc627cc7c5431848fa335b5b59d52fd212171de235eb2aff046a9e5e3c10a4a2dff3cb403ee2098c20da76d6e6eba08906db"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-spigot.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/yzncnT0V/bluemap-5.20-spigot.jar",
+        "sha512": "77c3da6f35ba14c60bfe5889a25bbc627cc7c5431848fa335b5b59d52fd212171de235eb2aff046a9e5e3c10a4a2dff3cb403ee2098c20da76d6e6eba08906db"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-spigot.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ieoEMcG4/bluemap-5.19-spigot.jar",
-        "sha512": "82934f41f2b56f82976d5e52f8d328e3ace83f6dbb7f67dad7671dc427a5ff8e961386679fdd0354513d4a76819e6d0cf051a96a72dbe1ed01e7368f0cbf3d2a"
+        "name": "bluemap-5.20-spigot.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/yzncnT0V/bluemap-5.20-spigot.jar",
+        "sha512": "77c3da6f35ba14c60bfe5889a25bbc627cc7c5431848fa335b5b59d52fd212171de235eb2aff046a9e5e3c10a4a2dff3cb403ee2098c20da76d6e6eba08906db"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-spigot.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/yzncnT0V/bluemap-5.20-spigot.jar",
+        "sha512": "77c3da6f35ba14c60bfe5889a25bbc627cc7c5431848fa335b5b59d52fd212171de235eb2aff046a9e5e3c10a4a2dff3cb403ee2098c20da76d6e6eba08906db"
       },
       "5_19": {
         "name": "bluemap-5.19-spigot.jar",
@@ -1437,9 +1476,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "bluemap-5.19-spigot.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/ieoEMcG4/bluemap-5.19-spigot.jar",
-        "sha512": "82934f41f2b56f82976d5e52f8d328e3ace83f6dbb7f67dad7671dc427a5ff8e961386679fdd0354513d4a76819e6d0cf051a96a72dbe1ed01e7368f0cbf3d2a"
+        "name": "bluemap-5.20-spigot.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/yzncnT0V/bluemap-5.20-spigot.jar",
+        "sha512": "77c3da6f35ba14c60bfe5889a25bbc627cc7c5431848fa335b5b59d52fd212171de235eb2aff046a9e5e3c10a4a2dff3cb403ee2098c20da76d6e6eba08906db"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-spigot.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/yzncnT0V/bluemap-5.20-spigot.jar",
+        "sha512": "77c3da6f35ba14c60bfe5889a25bbc627cc7c5431848fa335b5b59d52fd212171de235eb2aff046a9e5e3c10a4a2dff3cb403ee2098c20da76d6e6eba08906db"
       },
       "5_19": {
         "name": "bluemap-5.19-spigot.jar",
@@ -5451,11 +5495,28 @@
     }
   },
   "purpur": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      },
+      "5_20-paper": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-paper.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/JuKCQu9M/bluemap-5.19-paper.jar",
-        "sha512": "11367d4b5ce074eedc7ceb041872738879e194e11761703647d68e01e23cda636a9ac960d8d7d80d75b1e9290c393f603ca99bb990220d325960e96e61235caf"
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      },
+      "5_20-paper": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
       },
       "5_19-paper": {
         "name": "bluemap-5.19-paper.jar",
@@ -7980,11 +8041,28 @@
     }
   },
   "paper": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-paper.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/JuKCQu9M/bluemap-5.19-paper.jar",
-        "sha512": "11367d4b5ce074eedc7ceb041872738879e194e11761703647d68e01e23cda636a9ac960d8d7d80d75b1e9290c393f603ca99bb990220d325960e96e61235caf"
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
       },
       "5_19": {
         "name": "bluemap-5.19-paper.jar",
@@ -10888,11 +10966,28 @@
     }
   },
   "neoforge": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/utdgfNlv/bluemap-5.20-neoforge.jar",
+        "sha512": "ea91baf670cb88099d62f55f1005c2069adcb75dd4afa069f60a28825d5f47dbb47e235e56704b840a28e940e9e772196cd5d6cd4a3b55f27d6e7f6f93003f48"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/utdgfNlv/bluemap-5.20-neoforge.jar",
+        "sha512": "ea91baf670cb88099d62f55f1005c2069adcb75dd4afa069f60a28825d5f47dbb47e235e56704b840a28e940e9e772196cd5d6cd4a3b55f27d6e7f6f93003f48"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/G4Ew7ZQL/bluemap-5.19-neoforge.jar",
-        "sha512": "78f6c81972fcba1c2d05f8a8d77a735456ee8c2b01cd42a7ed58074a0e1c2297e624ba20faf23bd3835828e25a372d8ce6ab7793eb5243b503e57a66662bf92e"
+        "name": "bluemap-5.20-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/utdgfNlv/bluemap-5.20-neoforge.jar",
+        "sha512": "ea91baf670cb88099d62f55f1005c2069adcb75dd4afa069f60a28825d5f47dbb47e235e56704b840a28e940e9e772196cd5d6cd4a3b55f27d6e7f6f93003f48"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/utdgfNlv/bluemap-5.20-neoforge.jar",
+        "sha512": "ea91baf670cb88099d62f55f1005c2069adcb75dd4afa069f60a28825d5f47dbb47e235e56704b840a28e940e9e772196cd5d6cd4a3b55f27d6e7f6f93003f48"
       },
       "5_19": {
         "name": "bluemap-5.19-neoforge.jar",
@@ -10902,9 +10997,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "bluemap-5.19-neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/G4Ew7ZQL/bluemap-5.19-neoforge.jar",
-        "sha512": "78f6c81972fcba1c2d05f8a8d77a735456ee8c2b01cd42a7ed58074a0e1c2297e624ba20faf23bd3835828e25a372d8ce6ab7793eb5243b503e57a66662bf92e"
+        "name": "bluemap-5.20-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/utdgfNlv/bluemap-5.20-neoforge.jar",
+        "sha512": "ea91baf670cb88099d62f55f1005c2069adcb75dd4afa069f60a28825d5f47dbb47e235e56704b840a28e940e9e772196cd5d6cd4a3b55f27d6e7f6f93003f48"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/utdgfNlv/bluemap-5.20-neoforge.jar",
+        "sha512": "ea91baf670cb88099d62f55f1005c2069adcb75dd4afa069f60a28825d5f47dbb47e235e56704b840a28e940e9e772196cd5d6cd4a3b55f27d6e7f6f93003f48"
       },
       "5_19": {
         "name": "bluemap-5.19-neoforge.jar",
@@ -11301,11 +11401,28 @@
     }
   },
   "forge": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-forge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/wsiZLBKu/bluemap-5.20-forge.jar",
+        "sha512": "09b459f0dadd53706d90a75f1a67b50fc9f4aaf7786d6fd7081f4bd822b82fd474ed6278f330ab1bcded6dd6d0e9442e91a0fc1e0db2a1180d8afa57cd95d8ab"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-forge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/wsiZLBKu/bluemap-5.20-forge.jar",
+        "sha512": "09b459f0dadd53706d90a75f1a67b50fc9f4aaf7786d6fd7081f4bd822b82fd474ed6278f330ab1bcded6dd6d0e9442e91a0fc1e0db2a1180d8afa57cd95d8ab"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-forge.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9P45rA0M/bluemap-5.19-forge.jar",
-        "sha512": "a6f3cabd256d33a4c9789168412db1f10d8a3ce0b40406435b545f6dd9fd42a56e34357f06b94176c30a3589452df00f9c78142887c6a013a87fcb06aa075af4"
+        "name": "bluemap-5.20-forge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/wsiZLBKu/bluemap-5.20-forge.jar",
+        "sha512": "09b459f0dadd53706d90a75f1a67b50fc9f4aaf7786d6fd7081f4bd822b82fd474ed6278f330ab1bcded6dd6d0e9442e91a0fc1e0db2a1180d8afa57cd95d8ab"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-forge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/wsiZLBKu/bluemap-5.20-forge.jar",
+        "sha512": "09b459f0dadd53706d90a75f1a67b50fc9f4aaf7786d6fd7081f4bd822b82fd474ed6278f330ab1bcded6dd6d0e9442e91a0fc1e0db2a1180d8afa57cd95d8ab"
       },
       "5_19": {
         "name": "bluemap-5.19-forge.jar",
@@ -11315,9 +11432,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "bluemap-5.19-forge.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/9P45rA0M/bluemap-5.19-forge.jar",
-        "sha512": "a6f3cabd256d33a4c9789168412db1f10d8a3ce0b40406435b545f6dd9fd42a56e34357f06b94176c30a3589452df00f9c78142887c6a013a87fcb06aa075af4"
+        "name": "bluemap-5.20-forge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/wsiZLBKu/bluemap-5.20-forge.jar",
+        "sha512": "09b459f0dadd53706d90a75f1a67b50fc9f4aaf7786d6fd7081f4bd822b82fd474ed6278f330ab1bcded6dd6d0e9442e91a0fc1e0db2a1180d8afa57cd95d8ab"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-forge.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/wsiZLBKu/bluemap-5.20-forge.jar",
+        "sha512": "09b459f0dadd53706d90a75f1a67b50fc9f4aaf7786d6fd7081f4bd822b82fd474ed6278f330ab1bcded6dd6d0e9442e91a0fc1e0db2a1180d8afa57cd95d8ab"
       },
       "5_19": {
         "name": "bluemap-5.19-forge.jar",
@@ -12696,11 +12818,28 @@
     }
   },
   "folia": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      },
+      "5_20-paper": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-paper.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/JuKCQu9M/bluemap-5.19-paper.jar",
-        "sha512": "11367d4b5ce074eedc7ceb041872738879e194e11761703647d68e01e23cda636a9ac960d8d7d80d75b1e9290c393f603ca99bb990220d325960e96e61235caf"
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
+      },
+      "5_20-paper": {
+        "name": "bluemap-5.20-paper.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/jPyegm5Q/bluemap-5.20-paper.jar",
+        "sha512": "a653fa3be24fc606c0ea19915646d2bfbaff671e1ec45538f37df3dc3397fddecc107a4125cf1b9b37b731ba27360171bb8d9af947f7a7b767404529dc24f398"
       },
       "5_19-paper": {
         "name": "bluemap-5.19-paper.jar",
@@ -13755,11 +13894,28 @@
     }
   },
   "fabric": {
+    "26_1_2": {
+      "latest": {
+        "name": "bluemap-5.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/D9j76thC/bluemap-5.20-fabric.jar",
+        "sha512": "b140390c505655491130f74653fc0e9cd9501f35f001c174965c13bccf45bb91900c4ed439ecdb8d824723fb57688a20ce37582b7b3a4a04623af09854f6fb2d"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/D9j76thC/bluemap-5.20-fabric.jar",
+        "sha512": "b140390c505655491130f74653fc0e9cd9501f35f001c174965c13bccf45bb91900c4ed439ecdb8d824723fb57688a20ce37582b7b3a4a04623af09854f6fb2d"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "bluemap-5.19-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/6mX5Ts7z/bluemap-5.19-fabric.jar",
-        "sha512": "cab98a2d7653d7cc0a29e2636fc4bc8de256bc6ecb61852d614919634609010b18f39ad869e1b3408f77b49692a3a6bea2ebb29148c92c49d927f7a13aaa66bb"
+        "name": "bluemap-5.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/D9j76thC/bluemap-5.20-fabric.jar",
+        "sha512": "b140390c505655491130f74653fc0e9cd9501f35f001c174965c13bccf45bb91900c4ed439ecdb8d824723fb57688a20ce37582b7b3a4a04623af09854f6fb2d"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/D9j76thC/bluemap-5.20-fabric.jar",
+        "sha512": "b140390c505655491130f74653fc0e9cd9501f35f001c174965c13bccf45bb91900c4ed439ecdb8d824723fb57688a20ce37582b7b3a4a04623af09854f6fb2d"
       },
       "5_19": {
         "name": "bluemap-5.19-fabric.jar",
@@ -13769,9 +13925,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "bluemap-5.19-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/6mX5Ts7z/bluemap-5.19-fabric.jar",
-        "sha512": "cab98a2d7653d7cc0a29e2636fc4bc8de256bc6ecb61852d614919634609010b18f39ad869e1b3408f77b49692a3a6bea2ebb29148c92c49d927f7a13aaa66bb"
+        "name": "bluemap-5.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/D9j76thC/bluemap-5.20-fabric.jar",
+        "sha512": "b140390c505655491130f74653fc0e9cd9501f35f001c174965c13bccf45bb91900c4ed439ecdb8d824723fb57688a20ce37582b7b3a4a04623af09854f6fb2d"
+      },
+      "5_20": {
+        "name": "bluemap-5.20-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/D9j76thC/bluemap-5.20-fabric.jar",
+        "sha512": "b140390c505655491130f74653fc0e9cd9501f35f001c174965c13bccf45bb91900c4ed439ecdb8d824723fb57688a20ce37582b7b3a4a04623af09854f6fb2d"
       },
       "5_19": {
         "name": "bluemap-5.19-fabric.jar",
