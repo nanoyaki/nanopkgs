@@ -20,7 +20,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `flaresolverr` -> `3.4.6`
 - `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
-- `midnight-theme` -> `0-unstable-2026-04-08`
+- `midnight-theme` -> `0-unstable-2026-04-14`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2026-04-13`
 - `osu-lazer-bin` -> `2026.408.0-tachyon`
 - `prefetch`
@@ -28,7 +28,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2025-07-26`
 - `shoko` -> `6.0.0-dev.59-unstable-2026-04-13`
-- `shoko-webui` -> `2.6.0-dev.21-unstable-2026-04-12`
+- `shoko-webui` -> `2.6.0-dev.22-unstable-2026-04-14`
 - `shokofin` -> `6.0.5-dev.7-unstable-2026-04-11`
 - `startvrc`
 - `suwayomi-server` -> `2.1.1867-unstable-2026-03-31`
