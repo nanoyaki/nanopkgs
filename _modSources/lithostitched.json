@@ -1,10 +1,27 @@
 {
   "neoforge": {
+    "26_1_2": {
+      "latest": {
+        "name": "lithostitched-1.6.6-neoforge-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/SVfupF3y/lithostitched-1.6.6-neoforge-26.1.jar",
+        "sha512": "a891a1a89f04dcd4ed48bb8ac531616e0ffce23a093b0dc90dcd515e5dfd8f798e3f820ba863ca612d0a53e22e77f26615c94efacb4e2acd237d4451ab7b4a73"
+      },
+      "1_6_626_1": {
+        "name": "lithostitched-1.6.6-neoforge-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/SVfupF3y/lithostitched-1.6.6-neoforge-26.1.jar",
+        "sha512": "a891a1a89f04dcd4ed48bb8ac531616e0ffce23a093b0dc90dcd515e5dfd8f798e3f820ba863ca612d0a53e22e77f26615c94efacb4e2acd237d4451ab7b4a73"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "lithostitched-1.6.3-neoforge-26.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/8lrcr7D5/lithostitched-1.6.3-neoforge-26.1.jar",
-        "sha512": "cdd018ccd4d771a7a8d5902f283216451ed35f9e4dfbba4bf6e49b83f848b39d8dfbb6331a076e08e10d9a629750422860f33fe723a3c90f73354b2b94cb8daf"
+        "name": "lithostitched-1.6.6-neoforge-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/SVfupF3y/lithostitched-1.6.6-neoforge-26.1.jar",
+        "sha512": "a891a1a89f04dcd4ed48bb8ac531616e0ffce23a093b0dc90dcd515e5dfd8f798e3f820ba863ca612d0a53e22e77f26615c94efacb4e2acd237d4451ab7b4a73"
+      },
+      "1_6_626_1": {
+        "name": "lithostitched-1.6.6-neoforge-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/SVfupF3y/lithostitched-1.6.6-neoforge-26.1.jar",
+        "sha512": "a891a1a89f04dcd4ed48bb8ac531616e0ffce23a093b0dc90dcd515e5dfd8f798e3f820ba863ca612d0a53e22e77f26615c94efacb4e2acd237d4451ab7b4a73"
       },
       "1_6_326_1": {
         "name": "lithostitched-1.6.3-neoforge-26.1.jar",
@@ -1082,11 +1099,28 @@
         "sha512": "212554e4b67c0372822b1949d1f5212963c0b1d4ebb1e688d8b0dbd30e6d610dd3a8dd0f4aff8733a5f2ded649387784d5fbe8cd13fefe495a1b6eb4be676eab"
       }
     },
+    "26_1_2": {
+      "latest": {
+        "name": "lithostitched-1.6.6-fabric-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/uTBNgYlX/lithostitched-1.6.6-fabric-26.1.jar",
+        "sha512": "90ddd0bfef56fe5c113c76601c65248c83a16cc9680dd5fc375aa9d1b5bd076edf3c81d6d4d665d15c7c45d7f1e6cdb8cb23d5135a8c200468bcbc846ad7362e"
+      },
+      "1_6_626_1": {
+        "name": "lithostitched-1.6.6-fabric-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/uTBNgYlX/lithostitched-1.6.6-fabric-26.1.jar",
+        "sha512": "90ddd0bfef56fe5c113c76601c65248c83a16cc9680dd5fc375aa9d1b5bd076edf3c81d6d4d665d15c7c45d7f1e6cdb8cb23d5135a8c200468bcbc846ad7362e"
+      }
+    },
     "26_1_1": {
       "latest": {
-        "name": "lithostitched-1.6.4-fabric-26.1.jar",
-        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/VRT5Kd0J/lithostitched-1.6.4-fabric-26.1.jar",
-        "sha512": "3a70d5c6fc1756dc2f21e845e6191e49978de0a97f6bc63cdb03ee3d3ca7ae35f89f355455f6062149575fc9b88db3cb614a56be54af41eb06f0b6d1bc8853e6"
+        "name": "lithostitched-1.6.6-fabric-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/uTBNgYlX/lithostitched-1.6.6-fabric-26.1.jar",
+        "sha512": "90ddd0bfef56fe5c113c76601c65248c83a16cc9680dd5fc375aa9d1b5bd076edf3c81d6d4d665d15c7c45d7f1e6cdb8cb23d5135a8c200468bcbc846ad7362e"
+      },
+      "1_6_626_1": {
+        "name": "lithostitched-1.6.6-fabric-26.1.jar",
+        "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/uTBNgYlX/lithostitched-1.6.6-fabric-26.1.jar",
+        "sha512": "90ddd0bfef56fe5c113c76601c65248c83a16cc9680dd5fc375aa9d1b5bd076edf3c81d6d4d665d15c7c45d7f1e6cdb8cb23d5135a8c200468bcbc846ad7362e"
       },
       "1_6_426_1": {
         "name": "lithostitched-1.6.4-fabric-26.1.jar",
