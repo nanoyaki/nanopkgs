@@ -21,8 +21,8 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-04-14`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-04-17`
-- `osu-lazer-bin` -> `2026.417.0-tachyon`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-04-18`
+- `osu-lazer-bin` -> `2026.418.0-lazer`
 - `prefetch`
 - `prowlarr` -> `2.3.6.5351`
 - `pyon` -> `0.1.0`
