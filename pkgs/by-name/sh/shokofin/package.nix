@@ -31,8 +31,9 @@ buildDotnetModule (finalAttrs: {
 
   nugetDeps = ./deps.json;
   projectFile = "Shokofin/Shokofin.csproj";
-  dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
+  dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\" -f net9.0";
   dotnetInstallFlags = "-f net9.0";
+  dotnetRestoreFlags = "-p:TargetFramework=net9.0";
 
   executables = [ ];
 
