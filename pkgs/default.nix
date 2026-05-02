@@ -37,8 +37,6 @@
         _: pkg: (isDerivation pkg && lib.meta.availableOn pkgs.stdenv.hostPlatform pkg)
       ) scope;
 
-      checks = mapAttrs' (n: nameValuePair "package-${n}") (
-        workingPackages // { inherit (scope.kdePackages) plasma-workspace; }
-      );
+      checks = mapAttrs' (n: nameValuePair "package-${n}") workingPackages;
     };
 }

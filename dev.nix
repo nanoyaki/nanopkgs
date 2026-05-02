@@ -53,6 +53,7 @@
       devShells.default = config.pre-commit.devShell.overrideAttrs (prevAttrs: {
         buildInputs =
           (prevAttrs.buildInputs or [ ])
+          ++ (builtins.attrValues config.treefmt.build.programs)
           ++ (with pkgs; [
             git
             jq

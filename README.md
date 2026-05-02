@@ -18,7 +18,6 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `dwproton-bin` -> `10.0-26`
 - `error-pages` -> `0-unstable-2024-11-22`
 - `flaresolverr` -> `3.4.6`
-- `jellyfin-web-with-plugins`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-04-26`
 - `openrgb` -> `release_candidate_1.0rc2-unstable-2026-05-01`
