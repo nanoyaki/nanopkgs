@@ -18,16 +18,16 @@
 
 stdenvNoCC.mkDerivation {
   pname = "rofi-themes";
-  version = "0-unstable-2025-07-26";
+  version = "0-unstable-2026-04-30";
 
   src = fetchgit {
     url = "https://github.com/adi1090x/rofi.git";
-    rev = "093c1a79f58daab358199c4246de50357e5bf462";
+    rev = "b0bfe927531e365f009d01810c26878c003f7cb8";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-iUX0Quae06tGd7gDgXZo1B3KYgPHU+ADPBrowHlv02A=";
+    sha256 = "sha256-pM183MHOMuKJyLgthozM1MRsmhBM25VQgWc7CmLL2HI=";
   };
 
   patchPhase = ''

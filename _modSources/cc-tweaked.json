@@ -1,5 +1,22 @@
 {
   "neoforge": {
+    "26_1_2": {
+      "latest": {
+        "name": "cc-tweaked-26.1.2-forge-1.118.1.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/mTS7kW1e/cc-tweaked-26.1.2-forge-1.118.1.jar",
+        "sha512": "134989ddc72c87af6c92fa479967cf86be91e53186256d40eac488214d05b3cc453663134d0d57512dbe36178966a030da5a2d88e3017aaa6d5d59c1149332d0"
+      },
+      "1_118_1": {
+        "name": "cc-tweaked-26.1.2-forge-1.118.1.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/mTS7kW1e/cc-tweaked-26.1.2-forge-1.118.1.jar",
+        "sha512": "134989ddc72c87af6c92fa479967cf86be91e53186256d40eac488214d05b3cc453663134d0d57512dbe36178966a030da5a2d88e3017aaa6d5d59c1149332d0"
+      },
+      "1_118_0": {
+        "name": "cc-tweaked-26.1.2-forge-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/8Sm34mGc/cc-tweaked-26.1.2-forge-1.118.0.jar",
+        "sha512": "f0b5fb1235f7350384c87f157fc4fd624695f1c5f95db6eeb77f5f148e04285717e1ce86765d46e9155bc2d0ea00677634206e2b21b8755eef0175670d2794c7"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "cc-tweaked-1.21.11-forge-1.117.1.jar",
@@ -43,9 +60,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "cc-tweaked-1.21.1-forge-1.117.1.jar",
-        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/ZlZHN512/cc-tweaked-1.21.1-forge-1.117.1.jar",
-        "sha512": "b258aa6aeeaabd93d999a2ab039c4c216cae88b50ab08aab4dae94e5380275da9f6722e70b635951be71cf90b48e14ea4b53756fc670731e8817caca819d8f1d"
+        "name": "cc-tweaked-1.21.1-forge-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/tufB2KsB/cc-tweaked-1.21.1-forge-1.118.0.jar",
+        "sha512": "191f2d88e4760343c141fac1c14239215dadffcacd934767e4d796a97fe09c43cde3b819a4137ab502db0f9995ee11cac3cff805d7c602241798e5cf155cb743"
+      },
+      "1_118_0": {
+        "name": "cc-tweaked-1.21.1-forge-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/tufB2KsB/cc-tweaked-1.21.1-forge-1.118.0.jar",
+        "sha512": "191f2d88e4760343c141fac1c14239215dadffcacd934767e4d796a97fe09c43cde3b819a4137ab502db0f9995ee11cac3cff805d7c602241798e5cf155cb743"
       },
       "1_117_1": {
         "name": "cc-tweaked-1.21.1-forge-1.117.1.jar",
@@ -190,9 +212,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "cc-tweaked-1.20.1-forge-1.117.1.jar",
-        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/5F5BaGQ4/cc-tweaked-1.20.1-forge-1.117.1.jar",
-        "sha512": "8517ab3460e69c4d9f4600942e4f1eb477465ae1737e8b668aa50f4ee7fcf84aa69cdae610bac88c94abd1b59ef64676caa54e4c1a932af5db7c75a2d20a5f5f"
+        "name": "cc-tweaked-1.20.1-forge-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/m0egtvtI/cc-tweaked-1.20.1-forge-1.118.0.jar",
+        "sha512": "c283564552dc0d741b7af11c6dc581982455c6696a93563a577b2d8672e42b26b60c6acc15172e73fcbdebf9235fb3609c6302abb92cd6e3031c2d73bf322e34"
+      },
+      "1_118_0": {
+        "name": "cc-tweaked-1.20.1-forge-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/m0egtvtI/cc-tweaked-1.20.1-forge-1.118.0.jar",
+        "sha512": "c283564552dc0d741b7af11c6dc581982455c6696a93563a577b2d8672e42b26b60c6acc15172e73fcbdebf9235fb3609c6302abb92cd6e3031c2d73bf322e34"
       },
       "1_117_1": {
         "name": "cc-tweaked-1.20.1-forge-1.117.1.jar",
@@ -850,6 +877,23 @@
     }
   },
   "fabric": {
+    "26_1_2": {
+      "latest": {
+        "name": "cc-tweaked-26.1.2-fabric-1.118.1.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/YenJu7fp/cc-tweaked-26.1.2-fabric-1.118.1.jar",
+        "sha512": "8281d574d4aa94a3db6ef591cc9a0c82e7d0154bdc41c943da7a6ba0042604f1dfe7eb1556932d082d54ce30b017db11654723f7c5733d3f3c07ca2746a11057"
+      },
+      "1_118_1": {
+        "name": "cc-tweaked-26.1.2-fabric-1.118.1.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/YenJu7fp/cc-tweaked-26.1.2-fabric-1.118.1.jar",
+        "sha512": "8281d574d4aa94a3db6ef591cc9a0c82e7d0154bdc41c943da7a6ba0042604f1dfe7eb1556932d082d54ce30b017db11654723f7c5733d3f3c07ca2746a11057"
+      },
+      "1_118_0": {
+        "name": "cc-tweaked-26.1.2-fabric-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/d2Rvr430/cc-tweaked-26.1.2-fabric-1.118.0.jar",
+        "sha512": "f312dceb5793000a72b235e611d114d8d25926b18aabf5f52e2adf348044f35d51c213fb036ab407192f53940a5d6bd72c5858e2be7e3d3c8f2ccfef9b50b392"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "cc-tweaked-1.21.11-fabric-1.117.1.jar",
@@ -893,9 +937,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "cc-tweaked-1.21.1-fabric-1.117.1.jar",
-        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/IxOLHcIV/cc-tweaked-1.21.1-fabric-1.117.1.jar",
-        "sha512": "1bf9bdb9b9efef9eee9347c1bda19edd7c2f7ea67b5007502d99f95b03bab1bbc432d3c80619f7552adf629585776b03d70f008d589f33b5be7a94020d93529e"
+        "name": "cc-tweaked-1.21.1-fabric-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/EwezWOaC/cc-tweaked-1.21.1-fabric-1.118.0.jar",
+        "sha512": "fb76ec913e0f72d3727551f67ae39c0dedcd5437857adeb4ac83377d53212aecad7dca3d9e8a47cf9828950f1b9cdc7ab7926cc6e0d41a11591250ad48725ed2"
+      },
+      "1_118_0": {
+        "name": "cc-tweaked-1.21.1-fabric-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/EwezWOaC/cc-tweaked-1.21.1-fabric-1.118.0.jar",
+        "sha512": "fb76ec913e0f72d3727551f67ae39c0dedcd5437857adeb4ac83377d53212aecad7dca3d9e8a47cf9828950f1b9cdc7ab7926cc6e0d41a11591250ad48725ed2"
       },
       "1_117_1": {
         "name": "cc-tweaked-1.21.1-fabric-1.117.1.jar",
@@ -1043,9 +1092,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "cc-tweaked-1.20.1-fabric-1.117.1.jar",
-        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/AilrygW4/cc-tweaked-1.20.1-fabric-1.117.1.jar",
-        "sha512": "4501047d05ca1bd4d0b6b7326c54f2ee6ea8eed79ad09093094e6ea8b2b5226254fc5748587e92255c92dde14e162b01b1c94d3a5c5b3db1473293c4b0bcdb0b"
+        "name": "cc-tweaked-1.20.1-fabric-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/PbEWtEYN/cc-tweaked-1.20.1-fabric-1.118.0.jar",
+        "sha512": "ef7c7b8d1b01a27776cbb5d06b4acdaad6eec0d870bf5ab0f94758bd8722966e3e25ad259b5074585881b55638bc344e1a73945a028e88bd845827e557c0fea8"
+      },
+      "1_118_0": {
+        "name": "cc-tweaked-1.20.1-fabric-1.118.0.jar",
+        "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/PbEWtEYN/cc-tweaked-1.20.1-fabric-1.118.0.jar",
+        "sha512": "ef7c7b8d1b01a27776cbb5d06b4acdaad6eec0d870bf5ab0f94758bd8722966e3e25ad259b5074585881b55638bc344e1a73945a028e88bd845827e557c0fea8"
       },
       "1_117_1": {
         "name": "cc-tweaked-1.20.1-fabric-1.117.1.jar",

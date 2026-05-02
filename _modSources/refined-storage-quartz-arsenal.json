@@ -2,9 +2,19 @@
   "neoforge": {
     "26_1_2": {
       "latest": {
-        "name": "refinedstorage-quartz-arsenal-neoforge-2.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/b2Vsm6Ym/refinedstorage-quartz-arsenal-neoforge-2.0.2.jar",
-        "sha512": "24d411d44836eed880f4f13dab9b24b6100aaa6508315ee4ff03759f34f03582e3cedb8764f7bb4554cf4942d5f720a51c0691f47dfc61d92adeb53c6b29c014"
+        "name": "refinedstorage-quartz-arsenal-neoforge-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/9MK3yxxU/refinedstorage-quartz-arsenal-neoforge-2.0.4.jar",
+        "sha512": "3a35a53f3d3544ba28dcd94e14c68c3132c0968a2e3d18f556a1c6894a47cb319ea97f3b3a2abdac6288416d9294df6f7eae90d5176289f00d78b56ffe5ace27"
+      },
+      "2_0_4": {
+        "name": "refinedstorage-quartz-arsenal-neoforge-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/9MK3yxxU/refinedstorage-quartz-arsenal-neoforge-2.0.4.jar",
+        "sha512": "3a35a53f3d3544ba28dcd94e14c68c3132c0968a2e3d18f556a1c6894a47cb319ea97f3b3a2abdac6288416d9294df6f7eae90d5176289f00d78b56ffe5ace27"
+      },
+      "2_0_3": {
+        "name": "refinedstorage-quartz-arsenal-neoforge-2.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/YqQsOqy9/refinedstorage-quartz-arsenal-neoforge-2.0.3.jar",
+        "sha512": "6d442d239f49792af9a2c7d21743201561c00b90a4ec5238855e907675b658bee8b2011eee8c0683afa12899950fff305864c98f01a2b1bef6abde3e8fcd3bac"
       },
       "2_0_2": {
         "name": "refinedstorage-quartz-arsenal-neoforge-2.0.2.jar",
@@ -24,9 +34,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "refinedstorage-quartz-arsenal-neoforge-1.0.6.jar",
-        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/h1u9fD0G/refinedstorage-quartz-arsenal-neoforge-1.0.6.jar",
-        "sha512": "9777228b9c02b87f0c5d481e0994e9f8308327d2149716bc1211b0b8507a2e855da0a5fefd3d2b42589f6969f5aea03e357a6656a3fe3f701dde8b4b00a2a53d"
+        "name": "refinedstorage-quartz-arsenal-neoforge-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/pkjt65Nk/refinedstorage-quartz-arsenal-neoforge-1.0.7.jar",
+        "sha512": "c64cd1a660f8ce4e88f63e08d13fe0ef61f510059d180fe67d05a0a1537dd92daa88a6ae2bded24ff5099ade6887ffec7e9cc91aeb4c2dcc8a36aa5449c13fa7"
+      },
+      "1_0_7": {
+        "name": "refinedstorage-quartz-arsenal-neoforge-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/pkjt65Nk/refinedstorage-quartz-arsenal-neoforge-1.0.7.jar",
+        "sha512": "c64cd1a660f8ce4e88f63e08d13fe0ef61f510059d180fe67d05a0a1537dd92daa88a6ae2bded24ff5099ade6887ffec7e9cc91aeb4c2dcc8a36aa5449c13fa7"
       },
       "1_0_6": {
         "name": "refinedstorage-quartz-arsenal-neoforge-1.0.6.jar",
@@ -68,9 +83,19 @@
   "fabric": {
     "26_1_2": {
       "latest": {
-        "name": "refinedstorage-quartz-arsenal-fabric-2.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/vk3iq96S/refinedstorage-quartz-arsenal-fabric-2.0.2.jar",
-        "sha512": "48d159fb3c21e8064a6bb9bcc31314969cbc3858f58215a8876b91cf4be272cfeb87253489de57d2b739f112940a6e5a8cdd2ac96db532bd58f9b0c595916794"
+        "name": "refinedstorage-quartz-arsenal-fabric-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/bPgUUF59/refinedstorage-quartz-arsenal-fabric-2.0.4.jar",
+        "sha512": "56ef1bb81d660ff337ca23c12c61d8024c8e5af870b9517c3fb5f072b160699dcd3d0d64c14358f31925ec879ae21b45e2118d51898a57a6d73bfe00f9148c57"
+      },
+      "2_0_4": {
+        "name": "refinedstorage-quartz-arsenal-fabric-2.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/bPgUUF59/refinedstorage-quartz-arsenal-fabric-2.0.4.jar",
+        "sha512": "56ef1bb81d660ff337ca23c12c61d8024c8e5af870b9517c3fb5f072b160699dcd3d0d64c14358f31925ec879ae21b45e2118d51898a57a6d73bfe00f9148c57"
+      },
+      "2_0_3": {
+        "name": "refinedstorage-quartz-arsenal-fabric-2.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/35lx5KbD/refinedstorage-quartz-arsenal-fabric-2.0.3.jar",
+        "sha512": "d19ccc17a3dea3f3780d4b51546887ad86b8b6b76f69dff1f5e6146bfb5b12e9f6e4d6c8e9e2415d4a61fdcf063517460db7f24b4fda47fe19fcc3580290bd55"
       },
       "2_0_2": {
         "name": "refinedstorage-quartz-arsenal-fabric-2.0.2.jar",
@@ -90,9 +115,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "refinedstorage-quartz-arsenal-fabric-1.0.6.jar",
-        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/Z6zil2J0/refinedstorage-quartz-arsenal-fabric-1.0.6.jar",
-        "sha512": "100989830fa47eda0c62e2bcaae5a32b2dc8d06c4f3987585e7d421e554a793d1defa1b0bdebaf3f4ae4200b3bf40ce3647da000db879606bf11fb54fa9b169e"
+        "name": "refinedstorage-quartz-arsenal-fabric-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/stBEBeIt/refinedstorage-quartz-arsenal-fabric-1.0.7.jar",
+        "sha512": "9605879a6c615127983242bf0f47cb4d81e0b9522006c5aa8b70470e882f8b64cb1fe1fe0c8141ad5abcc547f005ddd9ec84fd88191e6e6e0582487742c182e8"
+      },
+      "1_0_7": {
+        "name": "refinedstorage-quartz-arsenal-fabric-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/stBEBeIt/refinedstorage-quartz-arsenal-fabric-1.0.7.jar",
+        "sha512": "9605879a6c615127983242bf0f47cb4d81e0b9522006c5aa8b70470e882f8b64cb1fe1fe0c8141ad5abcc547f005ddd9ec84fd88191e6e6e0582487742c182e8"
       },
       "1_0_6": {
         "name": "refinedstorage-quartz-arsenal-fabric-1.0.6.jar",

@@ -20,16 +20,16 @@
 
 buildDotnetModule (finalAttrs: {
   pname = "shoko";
-  version = "6.0.0-dev.70-unstable-2026-04-20";
+  version = "6.0.0-dev.90-unstable-2026-05-01";
 
   src = fetchgit {
     url = "https://github.com/ShokoAnime/ShokoServer.git";
-    rev = "835f4085692c3033bdc177f4e0c6dcbc44813331";
+    rev = "2198139def2cc79b2fbb5c310e953fd88c226b9b";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-QQYIHWKVasrTk0NZulFRYCc27oz72/s7293MPXZvGgQ=";
+    sha256 = "sha256-0qE6eQV2j0BoJhf4T4Rw1AqRuJ5iSw0qG0cM5e48AVs=";
   };
 
   patches = [
@@ -42,7 +42,7 @@ buildDotnetModule (finalAttrs: {
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
   dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
-  dotnetInstallFlags = "-f net10.0";
+  dotnetFlags = "/p:TargetFramework=net10.0";
 
   executables = [ "Shoko.CLI" ];
   makeWrapperArgs = [
