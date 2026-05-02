@@ -1,5 +1,22 @@
 {
   "quilt": {
+    "26_1_2": {
+      "latest": {
+        "name": "xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nhb2seHH/xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "sha512": "82367eeef2ac13ec313b6c53d65b40d7bcc2a9bb3fdb62ada8040684a1effef73c940657c214410878f99d8b8e531705beccc5d906aa007b839b231e8fac18bb"
+      },
+      "fabric25_3_11": {
+        "name": "xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nhb2seHH/xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "sha512": "82367eeef2ac13ec313b6c53d65b40d7bcc2a9bb3fdb62ada8040684a1effef73c940657c214410878f99d8b8e531705beccc5d906aa007b839b231e8fac18bb"
+      },
+      "fabric25_3_10": {
+        "name": "xaerominimap-fabric-26.1.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/SDmysKVu/xaerominimap-fabric-26.1.2-25.3.10.jar",
+        "sha512": "94570e48b4adacbf9e7f3509dacacc5110921b26a1090bf2042bf669be5e67c8d4758152c80bfb1b8e0eb4f4d114a36e414c2bd263232135a7ee35d29ebd967f"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "xaerominimap-fabric-1.21.11-25.3.10.jar",
@@ -3184,6 +3201,23 @@
     }
   },
   "neoforge": {
+    "26_1_2": {
+      "latest": {
+        "name": "xaerominimap-neoforge-26.1.2-25.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/uFCpuOvP/xaerominimap-neoforge-26.1.2-25.3.11.jar",
+        "sha512": "d9ce8f0bf3c34c375734c521c45cca0473ae1305a0f84828f232d838c76d1e6b030eb7dae24afb2ee4373fce4ca34280824643bbf7b9c86b5123294520885836"
+      },
+      "neoforge25_3_11": {
+        "name": "xaerominimap-neoforge-26.1.2-25.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/uFCpuOvP/xaerominimap-neoforge-26.1.2-25.3.11.jar",
+        "sha512": "d9ce8f0bf3c34c375734c521c45cca0473ae1305a0f84828f232d838c76d1e6b030eb7dae24afb2ee4373fce4ca34280824643bbf7b9c86b5123294520885836"
+      },
+      "neoforge25_3_10": {
+        "name": "xaerominimap-neoforge-26.1.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/om8B3Atj/xaerominimap-neoforge-26.1.2-25.3.10.jar",
+        "sha512": "65d46095eeaf697493b48348734fd7a4d1c92fa7fc1d53672f049bf27dc293a4111311a2c2e7cfc58399b67ea202b4639e9a9304203bccbc52cadfc60dca617c"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "xaerominimap-neoforge-1.21.11-25.3.10.jar",
@@ -7484,6 +7518,23 @@
     }
   },
   "fabric": {
+    "26_1_2": {
+      "latest": {
+        "name": "xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nhb2seHH/xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "sha512": "82367eeef2ac13ec313b6c53d65b40d7bcc2a9bb3fdb62ada8040684a1effef73c940657c214410878f99d8b8e531705beccc5d906aa007b839b231e8fac18bb"
+      },
+      "fabric25_3_11": {
+        "name": "xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nhb2seHH/xaerominimap-fabric-26.1.2-25.3.11.jar",
+        "sha512": "82367eeef2ac13ec313b6c53d65b40d7bcc2a9bb3fdb62ada8040684a1effef73c940657c214410878f99d8b8e531705beccc5d906aa007b839b231e8fac18bb"
+      },
+      "fabric25_3_10": {
+        "name": "xaerominimap-fabric-26.1.2-25.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/SDmysKVu/xaerominimap-fabric-26.1.2-25.3.10.jar",
+        "sha512": "94570e48b4adacbf9e7f3509dacacc5110921b26a1090bf2042bf669be5e67c8d4758152c80bfb1b8e0eb4f4d114a36e414c2bd263232135a7ee35d29ebd967f"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "xaerominimap-fabric-1.21.11-25.3.10.jar",

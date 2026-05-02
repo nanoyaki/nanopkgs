@@ -2,9 +2,14 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "extendedae_plus-1.21.1-1.5.3.jar",
-        "url": "https://cdn.modrinth.com/data/xr109llC/versions/agsJGnqK/extendedae_plus-1.21.1-1.5.3.jar",
-        "sha512": "8101469ead11e1d6621c39696fc9b54f4c48f3df76d010582dcfc3b809cd164d5f7cb921626f5438270df2eb96e9a4fc6fbee3d0ce41135a626f7d68a18bcb82"
+        "name": "extendedae_plus-1.21.1-1.5.4.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/7RT50VZB/extendedae_plus-1.21.1-1.5.4.jar",
+        "sha512": "cf7ba7d23841096db0c796cee202734a8f9864f28479a922a2e0c5a1183112d3fe9765df92d359e25d6af9a0ef25fdef96356dec29c2e8d68e7782369fe62539"
+      },
+      "1_21_1-1_5_4": {
+        "name": "extendedae_plus-1.21.1-1.5.4.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/7RT50VZB/extendedae_plus-1.21.1-1.5.4.jar",
+        "sha512": "cf7ba7d23841096db0c796cee202734a8f9864f28479a922a2e0c5a1183112d3fe9765df92d359e25d6af9a0ef25fdef96356dec29c2e8d68e7782369fe62539"
       },
       "1_21_1-1_5_3": {
         "name": "extendedae_plus-1.21.1-1.5.3.jar",
@@ -61,9 +66,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "extendedae_plus-1.5.3-fix.jar",
-        "url": "https://cdn.modrinth.com/data/xr109llC/versions/BEfpxMXl/extendedae_plus-1.5.3-fix.jar",
-        "sha512": "c8c91ef426bff0c3af703a659c6065e3276d285df60bb9221dd5c992dd1ad2c4eb1dc7c4d818d8d023a669fbb084f4e28d72590e599e142c26cb460287f4c173"
+        "name": "extendedae_plus-1.5.4.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/uP5ipPFF/extendedae_plus-1.5.4.jar",
+        "sha512": "aaab436eabda7203a08af3b37173cb6ea116b25907d8ce86729e0b1f07e4854d21c466504e031b67c5bae62aaabfb4da392f31ec60e58747a904fd8ec9cd3386"
+      },
+      "1_5_4": {
+        "name": "extendedae_plus-1.5.4.jar",
+        "url": "https://cdn.modrinth.com/data/xr109llC/versions/uP5ipPFF/extendedae_plus-1.5.4.jar",
+        "sha512": "aaab436eabda7203a08af3b37173cb6ea116b25907d8ce86729e0b1f07e4854d21c466504e031b67c5bae62aaabfb4da392f31ec60e58747a904fd8ec9cd3386"
       },
       "1_5_3-fix": {
         "name": "extendedae_plus-1.5.3-fix.jar",

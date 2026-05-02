@@ -2,9 +2,14 @@
   "neoforge": {
     "26_1_2": {
       "latest": {
-        "name": "modernfix-neoforge-5.27.6+mc26.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/uIned7g2/modernfix-neoforge-5.27.6%2Bmc26.1.2.jar",
-        "sha512": "5ef67aa4c8a84b947b85a7a9f5dff7ed2c7e24b563704acd439501871e8cce8e7901dbf37133db3c7bb92736ec3be7664540442ec8ae4f177a75682152034b7a"
+        "name": "modernfix-neoforge-5.27.7+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/SXe8JyAD/modernfix-neoforge-5.27.7%2Bmc26.1.2.jar",
+        "sha512": "9546102680fb91361f7d9598e1869274b9eab023bb3fbce4426cd1c308f116c1d0c5e34f3fc524fa5e12f6a10bc1cf9d54efb7718e7c2a45ad7859fb283e9a23"
+      },
+      "5_27_7+mc": {
+        "name": "modernfix-neoforge-5.27.7+mc26.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/SXe8JyAD/modernfix-neoforge-5.27.7%2Bmc26.1.2.jar",
+        "sha512": "9546102680fb91361f7d9598e1869274b9eab023bb3fbce4426cd1c308f116c1d0c5e34f3fc524fa5e12f6a10bc1cf9d54efb7718e7c2a45ad7859fb283e9a23"
       },
       "5_27_6+mc": {
         "name": "modernfix-neoforge-5.27.6+mc26.1.2.jar",
@@ -78,9 +83,19 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
-        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/iYwIkyV5/modernfix-neoforge-5.27.2%2Bmc1.21.1.jar",
-        "sha512": "5c3430cea1b7e0662b10eb2238c53212a32587f4181270d90e40ad81b5672a4c8d4922e664c19a55888c6779bad7804d7fa7ce35c692baffbd26396598a8c532"
+        "name": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/6U8JVjdw/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
+        "sha512": "9aa61848d4fd38369ccf87df5d6411e18112445cb377d5ae726e55593b8cd1b88838d5908f51c2fe9af56abf5a291fe895d2ecea3b04c85a2023c0436c48685b"
+      },
+      "5_27_4+mc": {
+        "name": "modernfix-neoforge-5.27.4+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/6U8JVjdw/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
+        "sha512": "9aa61848d4fd38369ccf87df5d6411e18112445cb377d5ae726e55593b8cd1b88838d5908f51c2fe9af56abf5a291fe895d2ecea3b04c85a2023c0436c48685b"
+      },
+      "5_27_3+mc": {
+        "name": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QbebWhuK/modernfix-neoforge-5.27.3%2Bmc1.21.1.jar",
+        "sha512": "e8f0fef727757a5cb658c5e3a8352f3438cee9c60c9e6c5c1190f5787365a113348f24e075219fcd91264397afe8cf8ae318b5b5d402bedd03a74d0fba062999"
       },
       "5_27_2+mc": {
         "name": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
@@ -461,9 +476,34 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "modernfix-forge-5.27.8+mc1.20.1.jar",
-        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/OvpPdk44/modernfix-forge-5.27.8%2Bmc1.20.1.jar",
-        "sha512": "8909ac7ec2a775add9eb11a80b29263e7780a99fcb277befca62470f5b25ff05fcfcc1e2e4ac2efbb156133580526e0e19419da61c8942ce07285d087a7b929d"
+        "name": "modernfix-forge-5.27.15+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZtCxqDmV/modernfix-forge-5.27.15%2Bmc1.20.1.jar",
+        "sha512": "cf2b21e930f05c638699abda554a5d021d35bd2e06d4ad8944a052c2c22615c9fe64881f4b2980b5caa459a6e96ffbd9ac3f4fc8c43044335a33f1c641efe156"
+      },
+      "5_27_15+mc": {
+        "name": "modernfix-forge-5.27.15+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZtCxqDmV/modernfix-forge-5.27.15%2Bmc1.20.1.jar",
+        "sha512": "cf2b21e930f05c638699abda554a5d021d35bd2e06d4ad8944a052c2c22615c9fe64881f4b2980b5caa459a6e96ffbd9ac3f4fc8c43044335a33f1c641efe156"
+      },
+      "5_27_14+mc": {
+        "name": "modernfix-forge-5.27.14+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/b4RNigzC/modernfix-forge-5.27.14%2Bmc1.20.1.jar",
+        "sha512": "ce627bbdb57f552d9527ab9508c0a70e78be73b6d7c92850389939fa41d4dced6d4e777ef8786897c7b6574edb2af9ef538103b936e324861c1be88288103663"
+      },
+      "5_27_12+mc": {
+        "name": "modernfix-forge-5.27.12+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/eYMgSQpS/modernfix-forge-5.27.12%2Bmc1.20.1.jar",
+        "sha512": "8f0067684f5b905644531a02f2bd1f2c0a5a42baa73b4eed3c796a3d41c27f11a170e8870fc94a7f31fbc2144487b2b1d7e1a8cc22dca566b23b0983c36f8317"
+      },
+      "5_27_11+mc": {
+        "name": "modernfix-forge-5.27.11+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/E4BGknH1/modernfix-forge-5.27.11%2Bmc1.20.1.jar",
+        "sha512": "bfc060d87c1a926d90393c071b4fea481ead74ede3e99b280a2309d7d3dc3a8213e97ab8a56b798f39b839dee232bb6c175c3d94dfce5e19b117e59f7defe584"
+      },
+      "5_27_10+mc": {
+        "name": "modernfix-forge-5.27.10+mc1.20.1.jar",
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/VA9W2wcb/modernfix-forge-5.27.10%2Bmc1.20.1.jar",
+        "sha512": "b2a3a579f9553df46e43b71519440772fd1f9326cdb479a095bf10fc1103d171af2be89e52c6c6b3bcc61e963a5129a82cb210bc91b06bfc848955078e9b5fae"
       },
       "5_27_8+mc": {
         "name": "modernfix-forge-5.27.8+mc1.20.1.jar",
