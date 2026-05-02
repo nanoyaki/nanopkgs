@@ -261,11 +261,6 @@
   },
   {
     "pname": "Microsoft.CodeAnalysis.NetAnalyzers",
-    "version": "10.0.103",
-    "hash": "sha256-AWo+i6l9Py+yc6Ya4T4PNTOCZaRtDJ2Oa0rlQAZp2Zk="
-  },
-  {
-    "pname": "Microsoft.CodeAnalysis.NetAnalyzers",
     "version": "10.0.202",
     "hash": "sha256-RLP63H21RkOGmiDDTBOw1G2vtaHEphCvf7J2cW+CVWA="
   },
@@ -400,9 +395,19 @@
     "hash": "sha256-JglKtC6+jfiggRUU5AXC6mR0cW1t3M33wR7WXKyJjBs="
   },
   {
+    "pname": "Microsoft.Extensions.Diagnostics.Abstractions",
+    "version": "8.0.1",
+    "hash": "sha256-d5DVXhA8qJFY9YbhZjsTqs5w5kDuxF5v+GD/WZR1QL0="
+  },
+  {
     "pname": "Microsoft.Extensions.Features",
     "version": "10.0.6",
     "hash": "sha256-4163otCmD1Lrb/zAB3smNufVthWYZd49Q2e0nOqgGws="
+  },
+  {
+    "pname": "Microsoft.Extensions.FileProviders.Abstractions",
+    "version": "10.0.0",
+    "hash": "sha256-CHDs2HCN8QcfuYQpgNVszZ5dfXFe4yS9K2GoQXecc20="
   },
   {
     "pname": "Microsoft.Extensions.FileProviders.Abstractions",
