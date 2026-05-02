@@ -42,7 +42,7 @@ buildDotnetModule (finalAttrs: {
   nugetDeps = ./deps.json;
   projectFile = "Shoko.CLI/Shoko.CLI.csproj";
   dotnetBuildFlags = "/p:InformationalVersion=\"channel=dev,tag=${finalAttrs.version}\"";
-  dotnetInstallFlags = "-f net10.0";
+  dotnetFlags = "/p:TargetFramework=net10.0";
 
   executables = [ "Shoko.CLI" ];
   makeWrapperArgs = [
