@@ -20,18 +20,18 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `flaresolverr` -> `3.4.6`
 - `meow` -> `2.1.5`
 - `midnight-theme` -> `0-unstable-2026-04-26`
-- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-05-01`
+- `openrgb` -> `release_candidate_1.0rc2-unstable-2026-05-03`
 - `osu-lazer-bin` -> `2026.429.0-lazer`
 - `prefetch`
 - `prowlarr` -> `2.3.6.5351`
 - `pyon` -> `0.1.0`
 - `rofi-themes` -> `0-unstable-2026-04-30`
-- `shoko` -> `6.0.0-dev.90-unstable-2026-05-01`
+- `shoko` -> `6.0.0-dev.92-unstable-2026-05-03`
 - `shoko-webui` -> `2.6.0-dev.25-unstable-2026-04-25`
 - `shokofin` -> `6.0.5-dev.8-unstable-2026-04-26`
 - `startvrc`
-- `suwayomi-server` -> `2.1.1867-unstable-2026-03-31`
-- `suwayomi-webui` -> `20251230.01-unstable-2026-04-27`
+- `suwayomi-server` -> `2.1.1867-unstable-2026-05-02`
+- `suwayomi-webui` -> `20251230.01-unstable-2026-05-02`
 - `whisparr` -> `3.1.0.2116`
 - `wkeys` -> `0.1.2-unstable-2026-02-16`
 - `writeSystemdToggle`
