@@ -2,9 +2,14 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "createfood-neoforge-1.21.1-2.3.0.jar",
-        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/OViKhK8K/createfood-neoforge-1.21.1-2.3.0.jar",
-        "sha512": "f35151c54a3a1993ad3f68438244528028e6ce2e22994f9ad8e507f27aa9795396de5334902de01b758d382223fc575a72a8ce6ce3dfc5f7c10aab109eaff8d0"
+        "name": "createfood-neoforge-1.21.1-2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/9kslwM0m/createfood-neoforge-1.21.1-2.4.0.jar",
+        "sha512": "e7d6bf6aafdbc83d8c41a4a931fa93697469974af8924313e7d6c9fb37b528be07164fdef708e2d631acba08efd8e663d324843496ecf3e83cb0930629a0f0c8"
+      },
+      "2_4_0": {
+        "name": "createfood-neoforge-1.21.1-2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/9kslwM0m/createfood-neoforge-1.21.1-2.4.0.jar",
+        "sha512": "e7d6bf6aafdbc83d8c41a4a931fa93697469974af8924313e7d6c9fb37b528be07164fdef708e2d631acba08efd8e663d324843496ecf3e83cb0930629a0f0c8"
       },
       "2_3_0": {
         "name": "createfood-neoforge-1.21.1-2.3.0.jar",
@@ -155,6 +160,18 @@
     }
   },
   "fabric": {
+    "1_21_1": {
+      "latest": {
+        "name": "createfood-fabric-1.21.1-2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/TNiB82rm/createfood-fabric-1.21.1-2.4.0.jar",
+        "sha512": "3b3b38b96e0460eb4d5e914c9d0dd302b7fedd0a7652b0e53a0da69477b2e438c0721a556b4ffb8d01bd32cf3c2eaaef704f9528f6873d154e4c8965f0797200"
+      },
+      "2_4_0": {
+        "name": "createfood-fabric-1.21.1-2.4.0.jar",
+        "url": "https://cdn.modrinth.com/data/4HnO3el1/versions/TNiB82rm/createfood-fabric-1.21.1-2.4.0.jar",
+        "sha512": "3b3b38b96e0460eb4d5e914c9d0dd302b7fedd0a7652b0e53a0da69477b2e438c0721a556b4ffb8d01bd32cf3c2eaaef704f9528f6873d154e4c8965f0797200"
+      }
+    },
     "1_20_1": {
       "latest": {
         "name": "create-food-1.20.1-1.1.13-fabric.jar",
