@@ -2,9 +2,19 @@
   "neoforge": {
     "26_1_2": {
       "latest": {
-        "name": "sophisticatedstorage-26.1.2-1.5.62.1707.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/2OHvc7wn/sophisticatedstorage-26.1.2-1.5.62.1707.jar",
-        "sha512": "5ea7b01902d599d615fe40add3fdb79c5fc6892971bd23b121132dda1d42a578eda4119c5ee3c16ba2aef495822fa319fa4736770d2881992d9a81ac5119ed16"
+        "name": "sophisticatedstorage-26.1.2-1.5.64.1721.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/P5Xx716V/sophisticatedstorage-26.1.2-1.5.64.1721.jar",
+        "sha512": "fd627abad19aa0a88e0c24af90b9441144317f772bd9f6da20cbef716317f6410953910d0502b696b13ad646530cfbb223acbeb885bbed3bf5930751c1396cd4"
+      },
+      "26_1_2-1_5_64_1721": {
+        "name": "sophisticatedstorage-26.1.2-1.5.64.1721.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/P5Xx716V/sophisticatedstorage-26.1.2-1.5.64.1721.jar",
+        "sha512": "fd627abad19aa0a88e0c24af90b9441144317f772bd9f6da20cbef716317f6410953910d0502b696b13ad646530cfbb223acbeb885bbed3bf5930751c1396cd4"
+      },
+      "26_1_2-1_5_63_1715": {
+        "name": "sophisticatedstorage-26.1.2-1.5.63.1715.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/nSvAdquf/sophisticatedstorage-26.1.2-1.5.63.1715.jar",
+        "sha512": "c2a9dfe71e307545e0a91b54b3628c78e44b4b244b489e5038f99316e4247ca41e5e1f2d6c9bf50f6420836ddd00b11244bd6068014049334a871fba2d58dcab"
       },
       "26_1_2-1_5_62_1707": {
         "name": "sophisticatedstorage-26.1.2-1.5.62.1707.jar",
@@ -213,9 +223,14 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "sophisticatedstorage-1.21.11-1.5.56.1704.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/azEm5EJE/sophisticatedstorage-1.21.11-1.5.56.1704.jar",
-        "sha512": "977b9fee2ff1e515e024eeab66a5bd5a2d88b0fe0a97938e75e77a2cdce7dbc6c4c034dcb7e545f1ed72bf3295d437d0cff759baf120ac4a408a7e2404ec9a87"
+        "name": "sophisticatedstorage-1.21.11-1.5.57.1723.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/qkQFpKul/sophisticatedstorage-1.21.11-1.5.57.1723.jar",
+        "sha512": "2c87d1b19abbe58178f7cfdcaaf2cda1db6b93227f06eac54b6ea799fdd46d8f3d837016ccfc6e9330120c85f49b9106ffeffab569854fc47ea5a8d0a0af72ca"
+      },
+      "1_21_11-1_5_57_1723": {
+        "name": "sophisticatedstorage-1.21.11-1.5.57.1723.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/qkQFpKul/sophisticatedstorage-1.21.11-1.5.57.1723.jar",
+        "sha512": "2c87d1b19abbe58178f7cfdcaaf2cda1db6b93227f06eac54b6ea799fdd46d8f3d837016ccfc6e9330120c85f49b9106ffeffab569854fc47ea5a8d0a0af72ca"
       },
       "1_21_11-1_5_56_1704": {
         "name": "sophisticatedstorage-1.21.11-1.5.56.1704.jar",
@@ -410,9 +425,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "sophisticatedstorage-1.21.10-1.5.57.1703.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/oZEUUPsb/sophisticatedstorage-1.21.10-1.5.57.1703.jar",
-        "sha512": "3c04273c403932a83e6f29e52677f0d29098f0b2940e3466ab4384bd71bfd1c4651433376ac7c4df8c1875e786bb37f423ab353ff7df1ca55946dd2d435d0f3f"
+        "name": "sophisticatedstorage-1.21.10-1.5.58.1722.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/dT5Fy7NE/sophisticatedstorage-1.21.10-1.5.58.1722.jar",
+        "sha512": "2090e2c6ae5acd4f59235606f99eec1a2d1041cb2c62aab253fa7f13a8811728db989cf070d78060fa27b7388c871eba175b85e39f6d9f47045fdb0798bf3520"
+      },
+      "1_21_10-1_5_58_1722": {
+        "name": "sophisticatedstorage-1.21.10-1.5.58.1722.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/dT5Fy7NE/sophisticatedstorage-1.21.10-1.5.58.1722.jar",
+        "sha512": "2090e2c6ae5acd4f59235606f99eec1a2d1041cb2c62aab253fa7f13a8811728db989cf070d78060fa27b7388c871eba175b85e39f6d9f47045fdb0798bf3520"
       },
       "1_21_10-1_5_57_1703": {
         "name": "sophisticatedstorage-1.21.10-1.5.57.1703.jar",
@@ -627,9 +647,14 @@
     },
     "1_21_8": {
       "latest": {
-        "name": "sophisticatedstorage-1.21.8-1.5.47.1698.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/kGuwdZh0/sophisticatedstorage-1.21.8-1.5.47.1698.jar",
-        "sha512": "5c11a076934145a0aed7ab5125cd6738bf22e659328d6dd7b657244676101f184925f72210ec640a4be8d5bb7729fc383b77a2d87acc4a64320157a1067e6499"
+        "name": "sophisticatedstorage-1.21.8-1.5.48.1719.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/g5TemRZ4/sophisticatedstorage-1.21.8-1.5.48.1719.jar",
+        "sha512": "b3f00a1e6ff2bae6297805313c3f69aa5cfae968c3b5ca44a1c39fc9cfe161502eac511d11074b47075c11b3a4a702e85112181f7e768d8c9bbe440a4d66e2a0"
+      },
+      "1_21_8-1_5_48_1719": {
+        "name": "sophisticatedstorage-1.21.8-1.5.48.1719.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/g5TemRZ4/sophisticatedstorage-1.21.8-1.5.48.1719.jar",
+        "sha512": "b3f00a1e6ff2bae6297805313c3f69aa5cfae968c3b5ca44a1c39fc9cfe161502eac511d11074b47075c11b3a4a702e85112181f7e768d8c9bbe440a4d66e2a0"
       },
       "1_21_8-1_5_47_1698": {
         "name": "sophisticatedstorage-1.21.8-1.5.47.1698.jar",
@@ -934,9 +959,14 @@
     },
     "1_21_5": {
       "latest": {
-        "name": "sophisticatedstorage-1.21.5-1.5.47.1700.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/WQvaK6Td/sophisticatedstorage-1.21.5-1.5.47.1700.jar",
-        "sha512": "fc6e2c12eefd031f0a442dab7dabf4cbe776ade9398ea876d8e488fb7c7dad5891c845db408df109cd6b7d26cd9c71c466fea862844b703bad45ca20d8266d80"
+        "name": "sophisticatedstorage-1.21.5-1.5.48.1718.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/hK6y8Tqq/sophisticatedstorage-1.21.5-1.5.48.1718.jar",
+        "sha512": "673a2e8bf8f1cd879954dcbcb38edc72ce9e4a22cd79f5e44d2576445b9f5f96635220819da349a502517e32739a32ff6fb62768831626d3c4cf18ca42da9dd1"
+      },
+      "1_21_5-1_5_48_1718": {
+        "name": "sophisticatedstorage-1.21.5-1.5.48.1718.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/hK6y8Tqq/sophisticatedstorage-1.21.5-1.5.48.1718.jar",
+        "sha512": "673a2e8bf8f1cd879954dcbcb38edc72ce9e4a22cd79f5e44d2576445b9f5f96635220819da349a502517e32739a32ff6fb62768831626d3c4cf18ca42da9dd1"
       },
       "1_21_5-1_5_47_1700": {
         "name": "sophisticatedstorage-1.21.5-1.5.47.1700.jar",
@@ -1271,9 +1301,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "sophisticatedstorage-1.21.4-1.5.47.1699.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/7OKyT5kY/sophisticatedstorage-1.21.4-1.5.47.1699.jar",
-        "sha512": "2383b5e37d8eb02a8bb4fb0b1fd22c12197df97af6fdc231622f8c4db5d9ea2604a5b409abace3c1da2e664416182d3bb1351d692ffc8ace6742d54e7a70f773"
+        "name": "sophisticatedstorage-1.21.4-1.5.48.1716.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/LOCrTUsL/sophisticatedstorage-1.21.4-1.5.48.1716.jar",
+        "sha512": "51ab600208b3f36ade95e701c831bf334e232a6b676637aff3e44d50f565e60ca2728e9681810dc780e0d0331cbb0a5b70aa30e4ebbb634fc9a6466d08e0db67"
+      },
+      "1_21_4-1_5_48_1716": {
+        "name": "sophisticatedstorage-1.21.4-1.5.48.1716.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/LOCrTUsL/sophisticatedstorage-1.21.4-1.5.48.1716.jar",
+        "sha512": "51ab600208b3f36ade95e701c831bf334e232a6b676637aff3e44d50f565e60ca2728e9681810dc780e0d0331cbb0a5b70aa30e4ebbb634fc9a6466d08e0db67"
       },
       "1_21_4-1_5_47_1699": {
         "name": "sophisticatedstorage-1.21.4-1.5.47.1699.jar",
@@ -1648,9 +1683,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "sophisticatedstorage-1.21.1-1.5.45.1697.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/86mg1s6h/sophisticatedstorage-1.21.1-1.5.45.1697.jar",
-        "sha512": "8ca8fa69dc92bfe31cef416aed5717f02239976fca18f5049ad437c732320ba77641b903fa99140dd813459b7e29fe9a72269e902577e514c445a7a0f53e67d7"
+        "name": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/XtIx2bZG/sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+        "sha512": "8e4b853dfd600e96c1e2cb5b3ae4865eaa7a451c3b3a2b8627d0fff204cd891f20961de969ae0f5f3e704542bf8b5fa8dd1668ebe13772eda4c1b342fe545db1"
+      },
+      "1_21_1-1_5_46_1717": {
+        "name": "sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/XtIx2bZG/sophisticatedstorage-1.21.1-1.5.46.1717.jar",
+        "sha512": "8e4b853dfd600e96c1e2cb5b3ae4865eaa7a451c3b3a2b8627d0fff204cd891f20961de969ae0f5f3e704542bf8b5fa8dd1668ebe13772eda4c1b342fe545db1"
       },
       "1_21_1-1_5_45_1697": {
         "name": "sophisticatedstorage-1.21.1-1.5.45.1697.jar",
@@ -2687,9 +2727,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "sophisticatedstorage-1.20.1-1.4.42.1701.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/o1u2DZsp/sophisticatedstorage-1.20.1-1.4.42.1701.jar",
-        "sha512": "d2c02e9d8c6951bf51c16a27c7628803ec16da93b20dc8f49ea4ef0e9e5af59a462c8593d261e6d0d41a22a3b30acf6e25f1f3961950f9c4f74a9d563baf1760"
+        "name": "sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/vIEag5E1/sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "sha512": "215b09db8510faf6bd3c494dc0e47aa0052ef4df5e69813aa30ad01070f02a0a02f00e4057dffe144c8645eab42b00662445f6fdb7eb1b276c3bb87d0eb64de5"
+      },
+      "1_20_1-1_4_43_1720": {
+        "name": "sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/vIEag5E1/sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "sha512": "215b09db8510faf6bd3c494dc0e47aa0052ef4df5e69813aa30ad01070f02a0a02f00e4057dffe144c8645eab42b00662445f6fdb7eb1b276c3bb87d0eb64de5"
       },
       "1_20_1-1_4_42_1701": {
         "name": "sophisticatedstorage-1.20.1-1.4.42.1701.jar",
@@ -3571,9 +3616,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "sophisticatedstorage-1.20.1-1.4.42.1701.jar",
-        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/o1u2DZsp/sophisticatedstorage-1.20.1-1.4.42.1701.jar",
-        "sha512": "d2c02e9d8c6951bf51c16a27c7628803ec16da93b20dc8f49ea4ef0e9e5af59a462c8593d261e6d0d41a22a3b30acf6e25f1f3961950f9c4f74a9d563baf1760"
+        "name": "sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/vIEag5E1/sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "sha512": "215b09db8510faf6bd3c494dc0e47aa0052ef4df5e69813aa30ad01070f02a0a02f00e4057dffe144c8645eab42b00662445f6fdb7eb1b276c3bb87d0eb64de5"
+      },
+      "1_20_1-1_4_43_1720": {
+        "name": "sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/vIEag5E1/sophisticatedstorage-1.20.1-1.4.43.1720.jar",
+        "sha512": "215b09db8510faf6bd3c494dc0e47aa0052ef4df5e69813aa30ad01070f02a0a02f00e4057dffe144c8645eab42b00662445f6fdb7eb1b276c3bb87d0eb64de5"
       },
       "1_20_1-1_4_42_1701": {
         "name": "sophisticatedstorage-1.20.1-1.4.42.1701.jar",
