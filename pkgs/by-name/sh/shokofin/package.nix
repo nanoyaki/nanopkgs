@@ -14,7 +14,7 @@
 
 buildDotnetModule (finalAttrs: {
   pname = "shokofin";
-  version = "6.0.5-dev.8-unstable-2026-04-26";
+  version = "0-unstable-2026-04-26";
 
   src = fetchgit {
     url = "https://github.com/ShokoAnime/Shokofin.git";

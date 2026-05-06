@@ -2,9 +2,19 @@
   "neoforge": {
     "26_1_2": {
       "latest": {
-        "name": "sophisticatedcore-26.1.2-1.4.42.1830.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/sa1DPWpw/sophisticatedcore-26.1.2-1.4.42.1830.jar",
-        "sha512": "26607cdc32f146f07df0c521c5f6cbe3b2b3d734be4dfc9bc0fae57908a084f472a48218a2ec5883c29033f5f5c89b39ba683c00e37723e38bb51cc115539fc3"
+        "name": "sophisticatedcore-26.1.2-1.4.44.1839.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/aYuT0RdV/sophisticatedcore-26.1.2-1.4.44.1839.jar",
+        "sha512": "847703196ef19a8c44afdbc9e65097cd6f1b327d500237a8a38c07e817499a0a480899f88651d6276e797d0cbc68471d26b80aa92b2abeb45f60547dd1b4ea5d"
+      },
+      "26_1_2-1_4_44_1839": {
+        "name": "sophisticatedcore-26.1.2-1.4.44.1839.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/aYuT0RdV/sophisticatedcore-26.1.2-1.4.44.1839.jar",
+        "sha512": "847703196ef19a8c44afdbc9e65097cd6f1b327d500237a8a38c07e817499a0a480899f88651d6276e797d0cbc68471d26b80aa92b2abeb45f60547dd1b4ea5d"
+      },
+      "26_1_2-1_4_43_1831": {
+        "name": "sophisticatedcore-26.1.2-1.4.43.1831.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/28Q6NVu8/sophisticatedcore-26.1.2-1.4.43.1831.jar",
+        "sha512": "a63a2656203fa4e17fd325f0c97b072bfd7b382830a6060878ae8d8dd8fbea3029c90f2a603cd07366d050103c636331de54dbac0c12691dd668885b25f67b94"
       },
       "26_1_2-1_4_42_1830": {
         "name": "sophisticatedcore-26.1.2-1.4.42.1830.jar",
@@ -268,9 +278,14 @@
     },
     "1_21_11": {
       "latest": {
-        "name": "sophisticatedcore-1.21.11-1.4.37.1829.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/BsATW0ZL/sophisticatedcore-1.21.11-1.4.37.1829.jar",
-        "sha512": "c266592c084bfbd7e59a75b9ba7234d5c055526fc783cdc4d15aab2e56066e5f576acedb6f3704e6aed616dc19ce95a12a7f68c4aadc14c4db55206b7f359cc6"
+        "name": "sophisticatedcore-1.21.11-1.4.38.1835.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/722ub0dO/sophisticatedcore-1.21.11-1.4.38.1835.jar",
+        "sha512": "b79eb1541b4b3eedc35ed1ec281ef2d96f2e4a1348ee18e56646778df3059409d4531aa90437a946636b7565941bf64e9aff6171646c8d637c45548017fc066a"
+      },
+      "1_21_11-1_4_38_1835": {
+        "name": "sophisticatedcore-1.21.11-1.4.38.1835.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/722ub0dO/sophisticatedcore-1.21.11-1.4.38.1835.jar",
+        "sha512": "b79eb1541b4b3eedc35ed1ec281ef2d96f2e4a1348ee18e56646778df3059409d4531aa90437a946636b7565941bf64e9aff6171646c8d637c45548017fc066a"
       },
       "1_21_11-1_4_37_1829": {
         "name": "sophisticatedcore-1.21.11-1.4.37.1829.jar",
@@ -580,9 +595,14 @@
     },
     "1_21_10": {
       "latest": {
-        "name": "sophisticatedcore-1.21.10-1.4.37.1827.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/B071kzE2/sophisticatedcore-1.21.10-1.4.37.1827.jar",
-        "sha512": "1b827c79f80eefecbe7cbe8b441756c0d5e1cff7b86c0692311bf576d43fae6b2a8df561d600a61b2690b2f801889e5e2e157131140dfb1d207ed2ecc9e779c8"
+        "name": "sophisticatedcore-1.21.10-1.4.38.1836.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/bB2qtXUp/sophisticatedcore-1.21.10-1.4.38.1836.jar",
+        "sha512": "8f6faaf2bcd7c26c34103f777875d4b53896ce314091eae0bcbc46222a42e001d6a2467d8731c0c3098bfc4af0ea8b352b809f9d9cdb9dee62aecb6b3cf38888"
+      },
+      "1_21_10-1_4_38_1836": {
+        "name": "sophisticatedcore-1.21.10-1.4.38.1836.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/bB2qtXUp/sophisticatedcore-1.21.10-1.4.38.1836.jar",
+        "sha512": "8f6faaf2bcd7c26c34103f777875d4b53896ce314091eae0bcbc46222a42e001d6a2467d8731c0c3098bfc4af0ea8b352b809f9d9cdb9dee62aecb6b3cf38888"
       },
       "1_21_10-1_4_37_1827": {
         "name": "sophisticatedcore-1.21.10-1.4.37.1827.jar",
@@ -952,9 +972,14 @@
     },
     "1_21_8": {
       "latest": {
-        "name": "sophisticatedcore-1.21.8-1.4.33.1825.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/3MtJGJvZ/sophisticatedcore-1.21.8-1.4.33.1825.jar",
-        "sha512": "41f3349cf38eb4676a9b58e86b2d904cffae70111f9151dcb2605c6a8cfa45095a3e16e53850e279803c3c83c31286170c535b4700fc062569b775cb6c93863a"
+        "name": "sophisticatedcore-1.21.8-1.4.34.1838.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/1NyC3IhD/sophisticatedcore-1.21.8-1.4.34.1838.jar",
+        "sha512": "5bb5c4f6495e6f2c32f2db05bda4593a6381af4fc06447cccd06d585986d25e51466b9f4b7c9fc56b96a18b9741bae001d33a2a3513a373aa8c2000684e7efa7"
+      },
+      "1_21_8-1_4_34_1838": {
+        "name": "sophisticatedcore-1.21.8-1.4.34.1838.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/1NyC3IhD/sophisticatedcore-1.21.8-1.4.34.1838.jar",
+        "sha512": "5bb5c4f6495e6f2c32f2db05bda4593a6381af4fc06447cccd06d585986d25e51466b9f4b7c9fc56b96a18b9741bae001d33a2a3513a373aa8c2000684e7efa7"
       },
       "1_21_8-1_4_33_1825": {
         "name": "sophisticatedcore-1.21.8-1.4.33.1825.jar",
@@ -1404,9 +1429,14 @@
     },
     "1_21_5": {
       "latest": {
-        "name": "sophisticatedcore-1.21.5-1.4.30.1826.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/Cnb7uT2e/sophisticatedcore-1.21.5-1.4.30.1826.jar",
-        "sha512": "e0a530979b8321e84fc73c334fe07c8769c92dbfa2ea278c5b45b73ec3a39ed4db2a51194c1201099c1acd18de389c9aae7f6213b589c9adf02f72e6459250ba"
+        "name": "sophisticatedcore-1.21.5-1.4.31.1832.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/f9JFx35S/sophisticatedcore-1.21.5-1.4.31.1832.jar",
+        "sha512": "e79e8a70c356054275b484dae4d05525d4fc64ac33711df781bc2e4baf8a53957fd2b3da17345c2f9195c2434af19ec8531994d00be7210c698dd612c3946151"
+      },
+      "1_21_5-1_4_31_1832": {
+        "name": "sophisticatedcore-1.21.5-1.4.31.1832.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/f9JFx35S/sophisticatedcore-1.21.5-1.4.31.1832.jar",
+        "sha512": "e79e8a70c356054275b484dae4d05525d4fc64ac33711df781bc2e4baf8a53957fd2b3da17345c2f9195c2434af19ec8531994d00be7210c698dd612c3946151"
       },
       "1_21_5-1_4_30_1826": {
         "name": "sophisticatedcore-1.21.5-1.4.30.1826.jar",
@@ -1901,9 +1931,14 @@
     },
     "1_21_4": {
       "latest": {
-        "name": "sophisticatedcore-1.21.4-1.4.31.1824.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/45KYewoS/sophisticatedcore-1.21.4-1.4.31.1824.jar",
-        "sha512": "6386717e32d64eed298ec2ac3442e2d6a2b39f90febc8b1a1901498263a4d77659ef375ffb1393561f86caede6ce3f70276990bfcd1331aa59cf597e0835bc9b"
+        "name": "sophisticatedcore-1.21.4-1.4.32.1834.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/Pj0nEPAx/sophisticatedcore-1.21.4-1.4.32.1834.jar",
+        "sha512": "27620157acec52da1c26c2d54a5f6437b4cb06f123db64e58af349eabe07f57fc5a7fcc4a351b6e6578240913cccf2ffb846d998b22a563dd37595d5cd76db9e"
+      },
+      "1_21_4-1_4_32_1834": {
+        "name": "sophisticatedcore-1.21.4-1.4.32.1834.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/Pj0nEPAx/sophisticatedcore-1.21.4-1.4.32.1834.jar",
+        "sha512": "27620157acec52da1c26c2d54a5f6437b4cb06f123db64e58af349eabe07f57fc5a7fcc4a351b6e6578240913cccf2ffb846d998b22a563dd37595d5cd76db9e"
       },
       "1_21_4-1_4_31_1824": {
         "name": "sophisticatedcore-1.21.4-1.4.31.1824.jar",
@@ -2418,9 +2453,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "sophisticatedcore-1.21.1-1.4.35.1823.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/ErcuCe4o/sophisticatedcore-1.21.1-1.4.35.1823.jar",
-        "sha512": "c2c9c4e9e99a43292297f92b1f4dcfa1c9000d9aa684fed07153a4896ae9791d90f29cf0d8365c61d1915c5a6ee4c5cb881eee6c2385b562770281c3b700c0f0"
+        "name": "sophisticatedcore-1.21.1-1.4.36.1833.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/li8XBixX/sophisticatedcore-1.21.1-1.4.36.1833.jar",
+        "sha512": "0c1fa3c33beaaf78928273a07460c54554bb286a62e17e39b4752c5a94abe0f0c83024fe048ccacc84ff58eddae75a2c5dff45bd92ba0bc06ebf7a177c30f422"
+      },
+      "1_21_1-1_4_36_1833": {
+        "name": "sophisticatedcore-1.21.1-1.4.36.1833.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/li8XBixX/sophisticatedcore-1.21.1-1.4.36.1833.jar",
+        "sha512": "0c1fa3c33beaaf78928273a07460c54554bb286a62e17e39b4752c5a94abe0f0c83024fe048ccacc84ff58eddae75a2c5dff45bd92ba0bc06ebf7a177c30f422"
       },
       "1_21_1-1_4_35_1823": {
         "name": "sophisticatedcore-1.21.1-1.4.35.1823.jar",
@@ -3742,9 +3782,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "sophisticatedcore-1.20.1-1.3.32.1828.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/T03P5wxy/sophisticatedcore-1.20.1-1.3.32.1828.jar",
-        "sha512": "24786254b859e60a763d8836f7d4718be64aae94796fcf15d6bb75e06e437ddd2c52eb509111ecc5df0905c22e356d50b13d4b24fa49db5e6fed6dab4562ad9c"
+        "name": "sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/zhogVLrD/sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "sha512": "4bb55fedb546381e3d8dc371ebf2b7772d41d15e9e6f7ee8a8c735879b2f581d3115192643ea669173b0f8167f67cf6d90ced74a7ff92fd844e9249a015f8d5f"
+      },
+      "1_20_1-1_3_33_1837": {
+        "name": "sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/zhogVLrD/sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "sha512": "4bb55fedb546381e3d8dc371ebf2b7772d41d15e9e6f7ee8a8c735879b2f581d3115192643ea669173b0f8167f67cf6d90ced74a7ff92fd844e9249a015f8d5f"
       },
       "1_20_1-1_3_32_1828": {
         "name": "sophisticatedcore-1.20.1-1.3.32.1828.jar",
@@ -4811,9 +4856,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "sophisticatedcore-1.20.1-1.3.32.1828.jar",
-        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/T03P5wxy/sophisticatedcore-1.20.1-1.3.32.1828.jar",
-        "sha512": "24786254b859e60a763d8836f7d4718be64aae94796fcf15d6bb75e06e437ddd2c52eb509111ecc5df0905c22e356d50b13d4b24fa49db5e6fed6dab4562ad9c"
+        "name": "sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/zhogVLrD/sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "sha512": "4bb55fedb546381e3d8dc371ebf2b7772d41d15e9e6f7ee8a8c735879b2f581d3115192643ea669173b0f8167f67cf6d90ced74a7ff92fd844e9249a015f8d5f"
+      },
+      "1_20_1-1_3_33_1837": {
+        "name": "sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/zhogVLrD/sophisticatedcore-1.20.1-1.3.33.1837.jar",
+        "sha512": "4bb55fedb546381e3d8dc371ebf2b7772d41d15e9e6f7ee8a8c735879b2f581d3115192643ea669173b0f8167f67cf6d90ced74a7ff92fd844e9249a015f8d5f"
       },
       "1_20_1-1_3_32_1828": {
         "name": "sophisticatedcore-1.20.1-1.3.32.1828.jar",

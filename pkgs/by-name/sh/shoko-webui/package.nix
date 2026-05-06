@@ -15,7 +15,7 @@
 }:
 stdenvNoCC.mkDerivation (finalAttrs: {
   pname = "shoko-webui";
-  version = "2.6.0-dev.25-unstable-2026-04-25";
+  version = "0-unstable-2026-04-25";
 
   src = fetchgit {
     url = "https://github.com/ShokoAnime/Shoko-Webui.git";

@@ -10,7 +10,7 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "pyon";
-  version = "0.1.0";
+  version = "2.1.4";
 
   src = fetchgit {
     url = "https://github.com/nanoyaki/pyon.git";

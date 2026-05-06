@@ -17,7 +17,7 @@
 
 buildDotnetModule (finalAttrs: {
   pname = "avdump";
-  version = "B9005-GitHubRelease-unstable-2024-03-10";
+  version = "0-unstable-2024-03-10";
 
   src = fetchgit {
     url = "https://github.com/DvdKhl/AVDump3.git";

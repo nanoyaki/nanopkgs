@@ -1,5 +1,17 @@
 {
   "fabric": {
+    "26_2-snapshot-6": {
+      "latest": {
+        "name": "c2me-fabric-mc26.2-snapshot-6-0.3.7+alpha.0.69.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/WjMqLKD0/c2me-fabric-mc26.2-snapshot-6-0.3.7%2Balpha.0.69.jar",
+        "sha512": "184941725ae496e7ba1fc853dd05e0a4539d32bcdb6a6fc611e2bb6e8cad9bd6512dee55736305f487034503dacc71e2a147b25a89d479aaf8f8ece015b3e100"
+      },
+      "0_3_7+alpha_0_69+26_2-snap-6": {
+        "name": "c2me-fabric-mc26.2-snapshot-6-0.3.7+alpha.0.69.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/WjMqLKD0/c2me-fabric-mc26.2-snapshot-6-0.3.7%2Balpha.0.69.jar",
+        "sha512": "184941725ae496e7ba1fc853dd05e0a4539d32bcdb6a6fc611e2bb6e8cad9bd6512dee55736305f487034503dacc71e2a147b25a89d479aaf8f8ece015b3e100"
+      }
+    },
     "26_2-snapshot-5": {
       "latest": {
         "name": "c2me-fabric-mc26.2-snapshot-5-0.3.7+alpha.0.68.jar",
@@ -1801,9 +1813,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar",
-        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/DSqOVCaF/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.362.jar",
-        "sha512": "8653a751eb2ad1ad70da38017ccad0ee2bda5448ffe405d28049f09a61936765303f63ba4fcff798f32bb1e6b4645e892c275515b69c98c1730e24caab0ba7e0"
+        "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.363.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/mrXmbOac/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.363.jar",
+        "sha512": "82ae4cdadc48ff3cec9aa02c197c6a108eceecbea40041ef3e146548c367548c2d596db5520a4384eceb7cc12e05ea172c29c51370d96fc558daf03c99117a63"
+      },
+      "0_3_0+alpha_0_363": {
+        "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.363.jar",
+        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/mrXmbOac/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.363.jar",
+        "sha512": "82ae4cdadc48ff3cec9aa02c197c6a108eceecbea40041ef3e146548c367548c2d596db5520a4384eceb7cc12e05ea172c29c51370d96fc558daf03c99117a63"
       },
       "0_3_0+alpha_0_362": {
         "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar",

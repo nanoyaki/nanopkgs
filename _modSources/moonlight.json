@@ -2,9 +2,19 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "moonlight-neoforge-1.21.1-3.0.3.jar",
-        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/W4U3ZAwb/moonlight-neoforge-1.21.1-3.0.3.jar",
-        "sha512": "db0b3bdfddc31fa0b68fdd1646acc4d3c0ae0bc9d6b9dbb2e95ee24d0ae38f5ef2efd22c09895b9e85e59d880f52846eed3d186dd78865e8ed6d5b2f255d1bab"
+        "name": "moonlight-neoforge-1.21.1-3.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/d5bksJeJ/moonlight-neoforge-1.21.1-3.0.5.jar",
+        "sha512": "0bd341a9e483bf9d16e6fe35ec099d59a7d6a64ca38dd7a1f1b8d3482bca24a839439d11009544b2744e925677d32366b9887e5ed3797e2a20f0df939f08916e"
+      },
+      "1_21_1-3_0_5": {
+        "name": "moonlight-neoforge-1.21.1-3.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/d5bksJeJ/moonlight-neoforge-1.21.1-3.0.5.jar",
+        "sha512": "0bd341a9e483bf9d16e6fe35ec099d59a7d6a64ca38dd7a1f1b8d3482bca24a839439d11009544b2744e925677d32366b9887e5ed3797e2a20f0df939f08916e"
+      },
+      "1_21_1-3_0_4": {
+        "name": "moonlight-neoforge-1.21.1-3.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/SW2cGTXW/moonlight-neoforge-1.21.1-3.0.4.jar",
+        "sha512": "b21d6cf0d625a5da8f20bf6b17de4a7c51a0e142430f13118c2b359c4eb38b63aa69c7ad7eeecd808923ad1b3856205718560ea767c0964867d3a772b53247c0"
       },
       "1_21_1-3_0_3": {
         "name": "moonlight-neoforge-1.21.1-3.0.3.jar",
@@ -1648,9 +1658,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "moonlight-1.20-2.16.30-forge.jar",
-        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/pbFHEePW/moonlight-1.20-2.16.30-forge.jar",
-        "sha512": "845f2a301fc9714c7a473e7faf511bedced4b4549a94c76bc0dce5b02b7352a7f5cd84a04c9d40c6f38d9988821f3d5e1fb0c29ea9911b8d1676b200c4e078bc"
+        "name": "moonlight-1.20-2.16.31-forge.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Myl5lEPc/moonlight-1.20-2.16.31-forge.jar",
+        "sha512": "f5ab46860754b83b71c2f6e3faf3415ddb7592b607693200bb9757b355561f8fe8cc3a91c808f12d0f10c143a2b6439705d98359d4f2664cedc73cfcaf3fc7c3"
+      },
+      "1_20-2_16_31-forge": {
+        "name": "moonlight-1.20-2.16.31-forge.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Myl5lEPc/moonlight-1.20-2.16.31-forge.jar",
+        "sha512": "f5ab46860754b83b71c2f6e3faf3415ddb7592b607693200bb9757b355561f8fe8cc3a91c808f12d0f10c143a2b6439705d98359d4f2664cedc73cfcaf3fc7c3"
       },
       "1_20-2_16_30-forge": {
         "name": "moonlight-1.20-2.16.30-forge.jar",
@@ -2489,9 +2504,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "moonlight-1.20-2.16.30-forge.jar",
-        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/pbFHEePW/moonlight-1.20-2.16.30-forge.jar",
-        "sha512": "845f2a301fc9714c7a473e7faf511bedced4b4549a94c76bc0dce5b02b7352a7f5cd84a04c9d40c6f38d9988821f3d5e1fb0c29ea9911b8d1676b200c4e078bc"
+        "name": "moonlight-1.20-2.16.31-forge.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Myl5lEPc/moonlight-1.20-2.16.31-forge.jar",
+        "sha512": "f5ab46860754b83b71c2f6e3faf3415ddb7592b607693200bb9757b355561f8fe8cc3a91c808f12d0f10c143a2b6439705d98359d4f2664cedc73cfcaf3fc7c3"
+      },
+      "1_20-2_16_31": {
+        "name": "moonlight-1.20-2.16.31-forge.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Myl5lEPc/moonlight-1.20-2.16.31-forge.jar",
+        "sha512": "f5ab46860754b83b71c2f6e3faf3415ddb7592b607693200bb9757b355561f8fe8cc3a91c808f12d0f10c143a2b6439705d98359d4f2664cedc73cfcaf3fc7c3"
       },
       "1_20-2_16_30": {
         "name": "moonlight-1.20-2.16.30-forge.jar",
@@ -4294,9 +4314,19 @@
   "fabric": {
     "1_21_1": {
       "latest": {
-        "name": "moonlight-fabric-1.21.1-3.0.3.jar",
-        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/JuQZkk8z/moonlight-fabric-1.21.1-3.0.3.jar",
-        "sha512": "00776fd669e2f551df3a96f7f71de508f27b8ca9776b60782823ff122682c6c7820496f5a5a17dbe7a1e8c996822dc3bb8ee65480661560af77798ac32d03aa6"
+        "name": "moonlight-fabric-1.21.1-3.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/rdEQIwT2/moonlight-fabric-1.21.1-3.0.5.jar",
+        "sha512": "cf93e424289c59aac6eab6ee59bd1be19986c041ef27184852d449262ab70c556e4f1ffe804d45416e8734c1a034da7216b4afc9e528d5d1e67fe5cba168090e"
+      },
+      "1_21_1-3_0_5": {
+        "name": "moonlight-fabric-1.21.1-3.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/rdEQIwT2/moonlight-fabric-1.21.1-3.0.5.jar",
+        "sha512": "cf93e424289c59aac6eab6ee59bd1be19986c041ef27184852d449262ab70c556e4f1ffe804d45416e8734c1a034da7216b4afc9e528d5d1e67fe5cba168090e"
+      },
+      "1_21_1-3_0_4": {
+        "name": "moonlight-fabric-1.21.1-3.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/2Trx4aTz/moonlight-fabric-1.21.1-3.0.4.jar",
+        "sha512": "073f86d67ec06f731b82ccfb62097e27cc8d00f2c2ab63a783b17f9ca7a8d820eb42765861ef98624e623a37ef95031ced2498061c053e3a56e0d18e7b57ded8"
       },
       "1_21_1-3_0_3": {
         "name": "moonlight-fabric-1.21.1-3.0.3.jar",
@@ -5955,9 +5985,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "moonlight-1.20-2.16.30-fabric.jar",
-        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/O8mAslrg/moonlight-1.20-2.16.30-fabric.jar",
-        "sha512": "f71e67f9f507869c93ffaf1ea9fe5790c8d4d59c01cc3af47e72cfb24ae26995ec6badcc91a35c094778e619f87dde698a4781ae41a08d8fcc43193e95264bed"
+        "name": "moonlight-1.20-2.16.31-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/u8CMlTGv/moonlight-1.20-2.16.31-fabric.jar",
+        "sha512": "ae168575f29885c313aec416dd749f6a6687589756bb5402f99ea8c5e7ed953d7a96f7d334def53005ad388f2045e0dff68c773ef6313a458447a493bd4a4114"
+      },
+      "1_20-2_16_31": {
+        "name": "moonlight-1.20-2.16.31-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/u8CMlTGv/moonlight-1.20-2.16.31-fabric.jar",
+        "sha512": "ae168575f29885c313aec416dd749f6a6687589756bb5402f99ea8c5e7ed953d7a96f7d334def53005ad388f2045e0dff68c773ef6313a458447a493bd4a4114"
       },
       "1_20-2_16_30": {
         "name": "moonlight-1.20-2.16.30-fabric.jar",
