@@ -15,7 +15,7 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "wkeys";
-  version = "0.1.2-unstable-2026-02-16";
+  version = "0-unstable-2026-02-16";
 
   src = fetchgit {
     url = "https://github.com/ptazithos/wkeys.git";
