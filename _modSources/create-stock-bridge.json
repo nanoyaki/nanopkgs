@@ -2,9 +2,14 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "createstockbridge-1.21.1-0.1.6.jar",
-        "url": "https://cdn.modrinth.com/data/V7mbOBO4/versions/U2VU3fJ5/createstockbridge-1.21.1-0.1.6.jar",
-        "sha512": "bdc3247e2f361018eb15dbd1008a672f37830066cafae9ddb99c75ca33e0ae962d1292a7c4706adb06872fb4687b2ad9046aa6f5d2b5127359b6bd517201d713"
+        "name": "createstockbridge-1.21.1-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/V7mbOBO4/versions/fLyIEPoj/createstockbridge-1.21.1-0.2.0.jar",
+        "sha512": "5c5bc8c077a2eb80fb7625f982c7ce77c79fd0db14b02f880fe66946863af7cf493d502497a74d9d9507d2402fb98f701b0a43cf29989850f3ca24274d4e3c36"
+      },
+      "1_21_1-0_2_0": {
+        "name": "createstockbridge-1.21.1-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/V7mbOBO4/versions/fLyIEPoj/createstockbridge-1.21.1-0.2.0.jar",
+        "sha512": "5c5bc8c077a2eb80fb7625f982c7ce77c79fd0db14b02f880fe66946863af7cf493d502497a74d9d9507d2402fb98f701b0a43cf29989850f3ca24274d4e3c36"
       },
       "1_21_1-0_1_6": {
         "name": "createstockbridge-1.21.1-0.1.6.jar",
@@ -41,9 +46,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "createstockbridge-1.20-0.1.5.jar",
-        "url": "https://cdn.modrinth.com/data/V7mbOBO4/versions/rzBecedb/createstockbridge-1.20-0.1.5.jar",
-        "sha512": "ff39b4dd4a024dcb8018bde41d0f77a9321be9b9c6314eb7ea2d5070876d735fc72c0d46b1b27db75fa099062a8f95eb9d860396dd6e9dbc8aae7018a651cd51"
+        "name": "createstockbridge-1.20-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/V7mbOBO4/versions/NVPFDqFj/createstockbridge-1.20-0.2.0.jar",
+        "sha512": "347bdd92f274c73751f5b4717147b63cd9b30f64b823b0310e1517b1043b4c1a97417cee98b3b014710aaa34bb4bfdf08a467210ce41e637e6e58ce30ac42ac1"
+      },
+      "1_20_1-0_2_0": {
+        "name": "createstockbridge-1.20-0.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/V7mbOBO4/versions/NVPFDqFj/createstockbridge-1.20-0.2.0.jar",
+        "sha512": "347bdd92f274c73751f5b4717147b63cd9b30f64b823b0310e1517b1043b4c1a97417cee98b3b014710aaa34bb4bfdf08a467210ce41e637e6e58ce30ac42ac1"
       },
       "1_20_1-0_1_5": {
         "name": "createstockbridge-1.20-0.1.5.jar",

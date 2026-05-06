@@ -1,5 +1,41 @@
 {
   "neoforge": {
+    "26_1_2": {
+      "latest": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/BRLWoXVC/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "sha512": "35a5013c7a0bf721c361a60017ba704121730346949d7f85d0ac2a805c2241d020027e62ea8566ebe2f6daa71e8a56ffe68fe5dc48c7045793bdfee92a3f904d"
+      },
+      "26_1_0": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/BRLWoXVC/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "sha512": "35a5013c7a0bf721c361a60017ba704121730346949d7f85d0ac2a805c2241d020027e62ea8566ebe2f6daa71e8a56ffe68fe5dc48c7045793bdfee92a3f904d"
+      }
+    },
+    "26_1_1": {
+      "latest": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/BRLWoXVC/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "sha512": "35a5013c7a0bf721c361a60017ba704121730346949d7f85d0ac2a805c2241d020027e62ea8566ebe2f6daa71e8a56ffe68fe5dc48c7045793bdfee92a3f904d"
+      },
+      "26_1_0": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/BRLWoXVC/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "sha512": "35a5013c7a0bf721c361a60017ba704121730346949d7f85d0ac2a805c2241d020027e62ea8566ebe2f6daa71e8a56ffe68fe5dc48c7045793bdfee92a3f904d"
+      }
+    },
+    "26_1": {
+      "latest": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/BRLWoXVC/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "sha512": "35a5013c7a0bf721c361a60017ba704121730346949d7f85d0ac2a805c2241d020027e62ea8566ebe2f6daa71e8a56ffe68fe5dc48c7045793bdfee92a3f904d"
+      },
+      "26_1_0": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/BRLWoXVC/LeavesBeGone-v26.1.0-mc26.1.x-NeoForge.jar",
+        "sha512": "35a5013c7a0bf721c361a60017ba704121730346949d7f85d0ac2a805c2241d020027e62ea8566ebe2f6daa71e8a56ffe68fe5dc48c7045793bdfee92a3f904d"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "LeavesBeGone-v21.11.0-mc1.21.11-NeoForge.jar",
@@ -140,9 +176,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
-        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/TOHEOE2X/LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
-        "sha512": "0f6e5131b2be64f3ebc9cc628bace6023c8d4748051092d1490e6523bd708892acfdf353dcec8032076be6fbc2fc6e5f4c7656e0b2a127b277c3676798d1e92a"
+        "name": "LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/kAbmpvF3/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar",
+        "sha512": "4a9103e5c4e8da84a596c9ef70fa4a6a6ef740798d34bda8a707e5ec3ea12e0bcdc57937090b9eb30e2d5221f4033f530d86a250c8e684654728e23f0483d96d"
+      },
+      "21_1_1NeoForge": {
+        "name": "LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/kAbmpvF3/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar",
+        "sha512": "4a9103e5c4e8da84a596c9ef70fa4a6a6ef740798d34bda8a707e5ec3ea12e0bcdc57937090b9eb30e2d5221f4033f530d86a250c8e684654728e23f0483d96d"
       },
       "21_1_0NeoForge": {
         "name": "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
@@ -277,6 +318,42 @@
     }
   },
   "fabric": {
+    "26_1_2": {
+      "latest": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/PyXgFChf/LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "sha512": "dbef80c93f39110edd5cf73d42a32c9a285d0dd193bdf3888b74af3dfdd5d59e10d455ef016f380805b2e873b82f997514b5f0471ad0761fb3a54fd09031672c"
+      },
+      "26_1_0": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/PyXgFChf/LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "sha512": "dbef80c93f39110edd5cf73d42a32c9a285d0dd193bdf3888b74af3dfdd5d59e10d455ef016f380805b2e873b82f997514b5f0471ad0761fb3a54fd09031672c"
+      }
+    },
+    "26_1_1": {
+      "latest": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/PyXgFChf/LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "sha512": "dbef80c93f39110edd5cf73d42a32c9a285d0dd193bdf3888b74af3dfdd5d59e10d455ef016f380805b2e873b82f997514b5f0471ad0761fb3a54fd09031672c"
+      },
+      "26_1_0": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/PyXgFChf/LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "sha512": "dbef80c93f39110edd5cf73d42a32c9a285d0dd193bdf3888b74af3dfdd5d59e10d455ef016f380805b2e873b82f997514b5f0471ad0761fb3a54fd09031672c"
+      }
+    },
+    "26_1": {
+      "latest": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/PyXgFChf/LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "sha512": "dbef80c93f39110edd5cf73d42a32c9a285d0dd193bdf3888b74af3dfdd5d59e10d455ef016f380805b2e873b82f997514b5f0471ad0761fb3a54fd09031672c"
+      },
+      "26_1_0": {
+        "name": "LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/PyXgFChf/LeavesBeGone-v26.1.0-mc26.1.x-Fabric.jar",
+        "sha512": "dbef80c93f39110edd5cf73d42a32c9a285d0dd193bdf3888b74af3dfdd5d59e10d455ef016f380805b2e873b82f997514b5f0471ad0761fb3a54fd09031672c"
+      }
+    },
     "1_21_11": {
       "latest": {
         "name": "LeavesBeGone-v21.11.0-mc1.21.11-Fabric.jar",
@@ -417,9 +494,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "LeavesBeGone-v21.1.0-1.21.1-Fabric.jar",
-        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/QPhlCsMN/LeavesBeGone-v21.1.0-1.21.1-Fabric.jar",
-        "sha512": "4321aaeb60b149d9712e07ed1685d391f3cd594d8f97448252f9ef6deac655c6fe1d75d362c7dac18f35885896b86b71ca5207e08e0acb01bd84b668d41f1020"
+        "name": "LeavesBeGone-v21.1.1-1.21.1-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/hYZEEekT/LeavesBeGone-v21.1.1-1.21.1-Fabric.jar",
+        "sha512": "d9b73402b9d97ca5f8192b260cb88b0bce8939537fc2da5a868dfd41df397acd24d24396187539f5e18c49628953bfe6b7bfcfacd82ffc12fc16fe1e33b498dc"
+      },
+      "21_1_1Fabric": {
+        "name": "LeavesBeGone-v21.1.1-1.21.1-Fabric.jar",
+        "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/hYZEEekT/LeavesBeGone-v21.1.1-1.21.1-Fabric.jar",
+        "sha512": "d9b73402b9d97ca5f8192b260cb88b0bce8939537fc2da5a868dfd41df397acd24d24396187539f5e18c49628953bfe6b7bfcfacd82ffc12fc16fe1e33b498dc"
       },
       "21_1_0Fabric": {
         "name": "LeavesBeGone-v21.1.0-1.21.1-Fabric.jar",
