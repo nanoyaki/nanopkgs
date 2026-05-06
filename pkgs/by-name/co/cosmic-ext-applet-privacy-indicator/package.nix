@@ -17,7 +17,7 @@
 
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "cosmic-ext-applet-privacy-indicator";
-  version = "0.2.0-unstable-2026-02-20";
+  version = "0-unstable-2026-02-20";
 
   src = fetchFromGitHub {
     owner = "D-Brox";
