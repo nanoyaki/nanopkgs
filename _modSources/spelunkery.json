@@ -40,6 +40,20 @@
       }
     }
   },
+  "neoforge": {
+    "1_21_1": {
+      "latest": {
+        "name": "spelunkery-1.21.1-0.4.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/krskFMfA/versions/eY89dJuj/spelunkery-1.21.1-0.4.0-neoforge.jar",
+        "sha512": "78c3b34873cd1c1c7b883bcb99612f622d67ade7dfa75fd8ad9e23c736b7fbb8c71ff7e0911ad18b1c0cbb273790199bfa580c63abb9b6255a9dd576d3e03220"
+      },
+      "1_21_1-0_4_0": {
+        "name": "spelunkery-1.21.1-0.4.0-neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/krskFMfA/versions/eY89dJuj/spelunkery-1.21.1-0.4.0-neoforge.jar",
+        "sha512": "78c3b34873cd1c1c7b883bcb99612f622d67ade7dfa75fd8ad9e23c736b7fbb8c71ff7e0911ad18b1c0cbb273790199bfa580c63abb9b6255a9dd576d3e03220"
+      }
+    }
+  },
   "forge": {
     "1_20_1": {
       "latest": {
@@ -247,6 +261,18 @@
     }
   },
   "fabric": {
+    "1_21_1": {
+      "latest": {
+        "name": "spelunkery-1.21.1-0.4.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/krskFMfA/versions/6cyPAmlN/spelunkery-1.21.1-0.4.0-fabric.jar",
+        "sha512": "e174edd381e6354193af86cac31620b36db96d149d12adca47f77f584912297d88f3b38dc7b17c2cbad40979f91acddcbc768aab6f76ab46555dc888eb7ae0df"
+      },
+      "1_21_1-0_4_0": {
+        "name": "spelunkery-1.21.1-0.4.0-fabric.jar",
+        "url": "https://cdn.modrinth.com/data/krskFMfA/versions/6cyPAmlN/spelunkery-1.21.1-0.4.0-fabric.jar",
+        "sha512": "e174edd381e6354193af86cac31620b36db96d149d12adca47f77f584912297d88f3b38dc7b17c2cbad40979f91acddcbc768aab6f76ab46555dc888eb7ae0df"
+      }
+    },
     "1_20_1": {
       "latest": {
         "name": "spelunkery-1.20.1-0.3.16-fabric.jar",

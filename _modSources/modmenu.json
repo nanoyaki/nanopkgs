@@ -1,5 +1,17 @@
 {
   "quilt": {
+    "26_2-snapshot-6": {
+      "latest": {
+        "name": "modmenu-19.0.0-alpha.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/XWjeEU9h/modmenu-19.0.0-alpha.1.jar",
+        "sha512": "24f1d61aed350b3803944694be8962629ff7e5a81cb768807ae9ab2fe0e25f6fde62464f864d6af89082fcd4cfefc181d2240d7fbe23256a7886e5130e266374"
+      },
+      "19_0_0-alpha_1": {
+        "name": "modmenu-19.0.0-alpha.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/XWjeEU9h/modmenu-19.0.0-alpha.1.jar",
+        "sha512": "24f1d61aed350b3803944694be8962629ff7e5a81cb768807ae9ab2fe0e25f6fde62464f864d6af89082fcd4cfefc181d2240d7fbe23256a7886e5130e266374"
+      }
+    },
     "26_1-snapshot-5": {
       "latest": {
         "name": "modmenu-18.0.0-alpha.5.jar",
@@ -26,9 +38,14 @@
     },
     "26_1_2": {
       "latest": {
-        "name": "modmenu-18.0.0-alpha.8.jar",
-        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
-        "sha512": "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
+      },
+      "18_0_0-beta_1": {
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
       },
       "18_0_0-alpha_8": {
         "name": "modmenu-18.0.0-alpha.8.jar",
@@ -62,9 +79,14 @@
     },
     "26_1_1": {
       "latest": {
-        "name": "modmenu-18.0.0-alpha.8.jar",
-        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
-        "sha512": "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
+      },
+      "18_0_0-beta_1": {
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
       },
       "18_0_0-alpha_8": {
         "name": "modmenu-18.0.0-alpha.8.jar",
@@ -91,9 +113,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "modmenu-18.0.0-alpha.8.jar",
-        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
-        "sha512": "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
+      },
+      "18_0_0-beta_1": {
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
       },
       "18_0_0-alpha_8": {
         "name": "modmenu-18.0.0-alpha.8.jar",
@@ -2354,6 +2381,18 @@
     }
   },
   "fabric": {
+    "26_2-snapshot-6": {
+      "latest": {
+        "name": "modmenu-19.0.0-alpha.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/XWjeEU9h/modmenu-19.0.0-alpha.1.jar",
+        "sha512": "24f1d61aed350b3803944694be8962629ff7e5a81cb768807ae9ab2fe0e25f6fde62464f864d6af89082fcd4cfefc181d2240d7fbe23256a7886e5130e266374"
+      },
+      "19_0_0-alpha_1": {
+        "name": "modmenu-19.0.0-alpha.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/XWjeEU9h/modmenu-19.0.0-alpha.1.jar",
+        "sha512": "24f1d61aed350b3803944694be8962629ff7e5a81cb768807ae9ab2fe0e25f6fde62464f864d6af89082fcd4cfefc181d2240d7fbe23256a7886e5130e266374"
+      }
+    },
     "26_1-snapshot-5": {
       "latest": {
         "name": "modmenu-18.0.0-alpha.5.jar",
@@ -2380,9 +2419,14 @@
     },
     "26_1_2": {
       "latest": {
-        "name": "modmenu-18.0.0-alpha.8.jar",
-        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
-        "sha512": "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
+      },
+      "18_0_0-beta_1": {
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
       },
       "18_0_0-alpha_8": {
         "name": "modmenu-18.0.0-alpha.8.jar",
@@ -2416,9 +2460,14 @@
     },
     "26_1_1": {
       "latest": {
-        "name": "modmenu-18.0.0-alpha.8.jar",
-        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
-        "sha512": "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
+      },
+      "18_0_0-beta_1": {
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
       },
       "18_0_0-alpha_8": {
         "name": "modmenu-18.0.0-alpha.8.jar",
@@ -2445,9 +2494,14 @@
     },
     "26_1": {
       "latest": {
-        "name": "modmenu-18.0.0-alpha.8.jar",
-        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar",
-        "sha512": "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
+      },
+      "18_0_0-beta_1": {
+        "name": "modmenu-18.0.0-beta.1.jar",
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/p7gjPPpV/modmenu-18.0.0-beta.1.jar",
+        "sha512": "b6a94b3f70fd4dd45f44a1edad6622a0de3ae57d9685bd0e97f1f928a8e07a62efd840174656f2cf189d7ca58a16760016d08bdf0a99286fe7df6289b10380dd"
       },
       "18_0_0-alpha_8": {
         "name": "modmenu-18.0.0-alpha.8.jar",
