@@ -49,9 +49,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "refinedstorage-neoforge-2.0.5.jar",
-        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/hVcXtoQ1/refinedstorage-neoforge-2.0.5.jar",
-        "sha512": "1d1d2155def9d657de11bac17720e04f435d550a7c4f5139779c73501a8dcd13b3e2b51ed8c233610d9e855d8f157a419baef5532475f775ff9ca127466684c0"
+        "name": "refinedstorage-neoforge-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/mvRwwdXI/refinedstorage-neoforge-2.0.6.jar",
+        "sha512": "7d1fe6a294d609baf1391ed7d1b548862fcc883a323772fa4bc089d7704f38c31f010eccdc6419bdd6cbe85bd9bd7cf2448cbfe482a5435b4ff45822827b2b99"
+      },
+      "2_0_6": {
+        "name": "refinedstorage-neoforge-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/mvRwwdXI/refinedstorage-neoforge-2.0.6.jar",
+        "sha512": "7d1fe6a294d609baf1391ed7d1b548862fcc883a323772fa4bc089d7704f38c31f010eccdc6419bdd6cbe85bd9bd7cf2448cbfe482a5435b4ff45822827b2b99"
       },
       "2_0_5": {
         "name": "refinedstorage-neoforge-2.0.5.jar",
@@ -1170,15 +1175,15 @@
         "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/bqOGk9wF/refinedstorage-1.2.25.jar",
         "sha512": "8d14771d8bcac569576153228a564c564e59572872171ef963cd0e107cfa70feb859fa7858d09e382400b62883b4d33d44a9bd95df3510f52f2bf9a209575449"
       },
-      "1_2_23": {
-        "name": "refinedstorage-1.2.23.jar",
-        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/lduq40MS/refinedstorage-1.2.23.jar",
-        "sha512": "d372cc46628bd20ffa6d396398f69fd01ed63035b022f984be38a07194c5665734b541a76797311667dce25e5bd6eec59f7bbccbb2c093ab3d2b9084ec0874aa"
-      },
       "1_2_24": {
         "name": "refinedstorage-1.2.24.jar",
         "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/ZwA2eWbr/refinedstorage-1.2.24.jar",
         "sha512": "3220e947b8d233f9f577ec2da6d924691bfe051f48e9bc367894edced4a619dabb5d464716b9029f287b5e067bd4ed886c65098483be3075fe0f74bbe47d648c"
+      },
+      "1_2_23": {
+        "name": "refinedstorage-1.2.23.jar",
+        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/lduq40MS/refinedstorage-1.2.23.jar",
+        "sha512": "d372cc46628bd20ffa6d396398f69fd01ed63035b022f984be38a07194c5665734b541a76797311667dce25e5bd6eec59f7bbccbb2c093ab3d2b9084ec0874aa"
       },
       "1_2_22": {
         "name": "refinedstorage-1.2.22.jar",
@@ -1225,15 +1230,15 @@
         "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/9A44DGnE/refinedstorage-1.2.14.jar",
         "sha512": "71455720d66933de83435662ff88daae00cd3c62881b4ba3f0584491bfa3eef340173e459bdb748b3aa2d21bb9d72bc977ea1cf33165d899ffd6e43df72d22dc"
       },
-      "1_2_13": {
-        "name": "refinedstorage-1.2.13.jar",
-        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/KQUlf68j/refinedstorage-1.2.13.jar",
-        "sha512": "516f895eacb71ee096bf78f8391fe04616c6a2922673de42a017da2d30aa073282a2e8b428749b563110ba36692d1abd8dcc83426b810f9c1aa3b34e613faba6"
-      },
       "1_2_12": {
         "name": "refinedstorage-1.2.12.jar",
         "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/Q0JvA1hs/refinedstorage-1.2.12.jar",
         "sha512": "95f8432ccd9b1aaf6a419aa7c831f1e41d35f949ecd2b1648b89d2e47b055c896c9b99ad7d5c35b4cab8ab8bdbb8f3e55967b1c682aaa8f2c3e46e85d54b1d9c"
+      },
+      "1_2_13": {
+        "name": "refinedstorage-1.2.13.jar",
+        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/KQUlf68j/refinedstorage-1.2.13.jar",
+        "sha512": "516f895eacb71ee096bf78f8391fe04616c6a2922673de42a017da2d30aa073282a2e8b428749b563110ba36692d1abd8dcc83426b810f9c1aa3b34e613faba6"
       },
       "1_2_11": {
         "name": "refinedstorage-1.2.11.jar",
@@ -1873,9 +1878,14 @@
     },
     "1_21_1": {
       "latest": {
-        "name": "refinedstorage-fabric-2.0.5.jar",
-        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/pcnM8PeB/refinedstorage-fabric-2.0.5.jar",
-        "sha512": "21c7b3d09be14c8f8ade78b5925ba9350343004c78b411332fd2845b34a9d93c5f1046b01f9f5d1cb27c64d284e0cbb56e0279825ef077feb9e83d23a1a9a4a7"
+        "name": "refinedstorage-fabric-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/xEWSLrmP/refinedstorage-fabric-2.0.6.jar",
+        "sha512": "9bf1529e650b6cc0ff420ae0ddd7516ee225677bcf018248e54e483790d42226517330b26617f32582a5f15fa74a6d843eddae61cf227f7b4ed6819ccfa1db91"
+      },
+      "2_0_6": {
+        "name": "refinedstorage-fabric-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/KDvYkUg3/versions/xEWSLrmP/refinedstorage-fabric-2.0.6.jar",
+        "sha512": "9bf1529e650b6cc0ff420ae0ddd7516ee225677bcf018248e54e483790d42226517330b26617f32582a5f15fa74a6d843eddae61cf227f7b4ed6819ccfa1db91"
       },
       "2_0_5": {
         "name": "refinedstorage-fabric-2.0.5.jar",

@@ -30,7 +30,7 @@ Nightly package updates and non-merged nixpkgs PRs for software I use.
 - `shoko-webui` -> `0-unstable-2026-04-25`
 - `shokofin` -> `0-unstable-2026-04-26`
 - `startvrc`
-- `suwayomi-server` -> `0-unstable-2026-05-09`
+- `suwayomi-server` -> `0-unstable-2026-05-10`
 - `suwayomi-webui` -> `0-unstable-2026-05-09`
 - `whisparr` -> `3.1.0.2116`
 - `wkeys` -> `0-unstable-2026-02-16`
