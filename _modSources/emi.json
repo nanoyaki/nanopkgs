@@ -2,9 +2,14 @@
   "quilt": {
     "1_21_1": {
       "latest": {
-        "name": "emi-1.1.23+1.21.1+fabric.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/Qp9J2Yu5/emi-1.1.23%2B1.21.1%2Bfabric.jar",
-        "sha512": "9378c92e238d506cf969163f56f538811136c7d937de65b3ddb9d7c130af862bd1d6d96c4699e1eecdf656c96aacdd9255073493ea81a00b212bec905f0b4977"
+        "name": "emi-1.1.24+1.21.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/on5GT1qh/emi-1.1.24%2B1.21.1%2Bfabric.jar",
+        "sha512": "2680e7b0a93152d4220afdc30a0452c911dc4b5c9ce1db1b7246c21b777bc2a1945fe97c98c09941d31b7478ae357135a1ef51cd3ba92d08dce35202a830b70d"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.21.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/on5GT1qh/emi-1.1.24%2B1.21.1%2Bfabric.jar",
+        "sha512": "2680e7b0a93152d4220afdc30a0452c911dc4b5c9ce1db1b7246c21b777bc2a1945fe97c98c09941d31b7478ae357135a1ef51cd3ba92d08dce35202a830b70d"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.21.1+fabric.jar",
@@ -512,9 +517,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "emi-1.1.23+1.20.1+fabric.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/v4y1JyP7/emi-1.1.23%2B1.20.1%2Bfabric.jar",
-        "sha512": "2d123d365b84305603e27c4234b6be38d3ece3cf77abd37fc4405dc80b95879662af551e21bd298510cdf4563eecced8f8b1c5ab331cf79c148ce97ef62ac43e"
+        "name": "emi-1.1.24+1.20.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/YbXDHf8W/emi-1.1.24%2B1.20.1%2Bfabric.jar",
+        "sha512": "2e1fbbbb961a90f525f6938361288505d5928b9a54e7e932afa7de63aeb1962f6a04b77540729922ee48a425d01bbe8c00d1a18ce6cd766dfa513b6ed0cf1f1b"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.20.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/YbXDHf8W/emi-1.1.24%2B1.20.1%2Bfabric.jar",
+        "sha512": "2e1fbbbb961a90f525f6938361288505d5928b9a54e7e932afa7de63aeb1962f6a04b77540729922ee48a425d01bbe8c00d1a18ce6cd766dfa513b6ed0cf1f1b"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.20.1+fabric.jar",
@@ -1435,9 +1445,14 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "emi-1.1.23+1.19.2+fabric.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/biIxYely/emi-1.1.23%2B1.19.2%2Bfabric.jar",
-        "sha512": "fafb2ef3acf5b8e17c830c6867d85da960bf23e3a1ce124e3096513198b05e09e74b4480ad64cc6d9102b334422d3f1b139be58fa8b9ad967b91145df851eec5"
+        "name": "emi-1.1.24+1.19.2+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/fgTjvcl1/emi-1.1.24%2B1.19.2%2Bfabric.jar",
+        "sha512": "d0b73ecbbe3f10652034934c0e633e26e1e39e7ba9ff5e90ec6cb090e4a7ad4950449787b54b0a6d6ee215ad09293f81907a221aa856764b6c84b9c6c39fa030"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.19.2+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/fgTjvcl1/emi-1.1.24%2B1.19.2%2Bfabric.jar",
+        "sha512": "d0b73ecbbe3f10652034934c0e633e26e1e39e7ba9ff5e90ec6cb090e4a7ad4950449787b54b0a6d6ee215ad09293f81907a221aa856764b6c84b9c6c39fa030"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.19.2+fabric.jar",
@@ -2070,9 +2085,14 @@
   "neoforge": {
     "1_21_1": {
       "latest": {
-        "name": "emi-1.1.23+1.21.1+neoforge.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/n2jlxdLV/emi-1.1.23%2B1.21.1%2Bneoforge.jar",
-        "sha512": "e20b189646bad0afa5d9877da470d0b27ba7a5f97e1951ac506e9dd5a8f4313156244d93fa1076a15ffbf9f5e8450ea1575c03dc8fcf120a9697c76df02f3fbe"
+        "name": "emi-1.1.24+1.21.1+neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+        "sha512": "f4c45ed686fe617311d6debadcb6ace5963e66f8cfe0cfed398231f081f87407070efc7a73c8b695d158f1d87a97180737b9107a46771e77df2bc9a7dc715ebd"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.21.1+neoforge.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+        "sha512": "f4c45ed686fe617311d6debadcb6ace5963e66f8cfe0cfed398231f081f87407070efc7a73c8b695d158f1d87a97180737b9107a46771e77df2bc9a7dc715ebd"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.21.1+neoforge.jar",
@@ -2577,9 +2597,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "emi-1.1.23+1.20.1+forge.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/orxyrOEH/emi-1.1.23%2B1.20.1%2Bforge.jar",
-        "sha512": "b4c5b48dabaa33a24ac864918d09e7606a18da3ef144c51cf83741490045f935e46d4b6761089a7ee1534a5081a8191a663d309f768f45dec91726cbfa9f12b2"
+        "name": "emi-1.1.24+1.20.1+forge.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/Axuu9I9R/emi-1.1.24%2B1.20.1%2Bforge.jar",
+        "sha512": "02743be3476b7dc5668cedbcc5a6d384e9806981833926a83fed76a2800c44da33576e86308c058250718c128d58076f1b62bc53d200464326ace70a43229c8b"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.20.1+forge.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/Axuu9I9R/emi-1.1.24%2B1.20.1%2Bforge.jar",
+        "sha512": "02743be3476b7dc5668cedbcc5a6d384e9806981833926a83fed76a2800c44da33576e86308c058250718c128d58076f1b62bc53d200464326ace70a43229c8b"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.20.1+forge.jar",
@@ -3410,9 +3435,14 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "emi-1.1.23+1.19.2+forge.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/J6x46TtQ/emi-1.1.23%2B1.19.2%2Bforge.jar",
-        "sha512": "2cf819f95697f74cfa9f322fbc39c40895ce1926891edf1bad9d24c1919ee1618cc016fb1bba3aefae7dfec529e33148457a5ae9d4fc3d219a2e6193ff4a1543"
+        "name": "emi-1.1.24+1.19.2+forge.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/lvh62wOB/emi-1.1.24%2B1.19.2%2Bforge.jar",
+        "sha512": "7506dc6b81bd43a505e911cd61cec730788d14bfb618cb19fd18458e3ede2ae3023df6d7cc411437859a9cc759d4a115041ad8445ce2f907834eca931200f999"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.19.2+forge.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/lvh62wOB/emi-1.1.24%2B1.19.2%2Bforge.jar",
+        "sha512": "7506dc6b81bd43a505e911cd61cec730788d14bfb618cb19fd18458e3ede2ae3023df6d7cc411437859a9cc759d4a115041ad8445ce2f907834eca931200f999"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.19.2+forge.jar",
@@ -3694,9 +3724,14 @@
   "fabric": {
     "1_21_1": {
       "latest": {
-        "name": "emi-1.1.23+1.21.1+fabric.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/Qp9J2Yu5/emi-1.1.23%2B1.21.1%2Bfabric.jar",
-        "sha512": "9378c92e238d506cf969163f56f538811136c7d937de65b3ddb9d7c130af862bd1d6d96c4699e1eecdf656c96aacdd9255073493ea81a00b212bec905f0b4977"
+        "name": "emi-1.1.24+1.21.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/on5GT1qh/emi-1.1.24%2B1.21.1%2Bfabric.jar",
+        "sha512": "2680e7b0a93152d4220afdc30a0452c911dc4b5c9ce1db1b7246c21b777bc2a1945fe97c98c09941d31b7478ae357135a1ef51cd3ba92d08dce35202a830b70d"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.21.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/on5GT1qh/emi-1.1.24%2B1.21.1%2Bfabric.jar",
+        "sha512": "2680e7b0a93152d4220afdc30a0452c911dc4b5c9ce1db1b7246c21b777bc2a1945fe97c98c09941d31b7478ae357135a1ef51cd3ba92d08dce35202a830b70d"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.21.1+fabric.jar",
@@ -4204,9 +4239,14 @@
     },
     "1_20_1": {
       "latest": {
-        "name": "emi-1.1.23+1.20.1+fabric.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/v4y1JyP7/emi-1.1.23%2B1.20.1%2Bfabric.jar",
-        "sha512": "2d123d365b84305603e27c4234b6be38d3ece3cf77abd37fc4405dc80b95879662af551e21bd298510cdf4563eecced8f8b1c5ab331cf79c148ce97ef62ac43e"
+        "name": "emi-1.1.24+1.20.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/YbXDHf8W/emi-1.1.24%2B1.20.1%2Bfabric.jar",
+        "sha512": "2e1fbbbb961a90f525f6938361288505d5928b9a54e7e932afa7de63aeb1962f6a04b77540729922ee48a425d01bbe8c00d1a18ce6cd766dfa513b6ed0cf1f1b"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.20.1+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/YbXDHf8W/emi-1.1.24%2B1.20.1%2Bfabric.jar",
+        "sha512": "2e1fbbbb961a90f525f6938361288505d5928b9a54e7e932afa7de63aeb1962f6a04b77540729922ee48a425d01bbe8c00d1a18ce6cd766dfa513b6ed0cf1f1b"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.20.1+fabric.jar",
@@ -5127,9 +5167,14 @@
     },
     "1_19_2": {
       "latest": {
-        "name": "emi-1.1.23+1.19.2+fabric.jar",
-        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/biIxYely/emi-1.1.23%2B1.19.2%2Bfabric.jar",
-        "sha512": "fafb2ef3acf5b8e17c830c6867d85da960bf23e3a1ce124e3096513198b05e09e74b4480ad64cc6d9102b334422d3f1b139be58fa8b9ad967b91145df851eec5"
+        "name": "emi-1.1.24+1.19.2+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/fgTjvcl1/emi-1.1.24%2B1.19.2%2Bfabric.jar",
+        "sha512": "d0b73ecbbe3f10652034934c0e633e26e1e39e7ba9ff5e90ec6cb090e4a7ad4950449787b54b0a6d6ee215ad09293f81907a221aa856764b6c84b9c6c39fa030"
+      },
+      "1_1_24": {
+        "name": "emi-1.1.24+1.19.2+fabric.jar",
+        "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/fgTjvcl1/emi-1.1.24%2B1.19.2%2Bfabric.jar",
+        "sha512": "d0b73ecbbe3f10652034934c0e633e26e1e39e7ba9ff5e90ec6cb090e4a7ad4950449787b54b0a6d6ee215ad09293f81907a221aa856764b6c84b9c6c39fa030"
       },
       "1_1_23": {
         "name": "emi-1.1.23+1.19.2+fabric.jar",
