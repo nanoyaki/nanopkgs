@@ -20,16 +20,16 @@
 
 buildDotnetModule (finalAttrs: {
   pname = "shoko";
-  version = "0-unstable-2026-05-09";
+  version = "0-unstable-2026-05-11";
 
   src = fetchgit {
     url = "https://github.com/ShokoAnime/ShokoServer.git";
-    rev = "a7bcc3489a42ef39493264695773d104519417c8";
+    rev = "74a673ed57daef76ac6ac1c745728bebcfbd870b";
     fetchSubmodules = false;
     deepClone = false;
     leaveDotGit = false;
     sparseCheckout = [ ];
-    sha256 = "sha256-E10iBcWrXoFy4saZdUxwUQ0A0QfQ128Enq6t/yMAE1I=";
+    sha256 = "sha256-GbPo6X12TxxdbJxojv2WPpkPGSzjfgmm5FCLxjJ/CV0=";
   };
 
   patches = [

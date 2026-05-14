@@ -21,9 +21,14 @@
   "forge": {
     "1_20_1": {
       "latest": {
-        "name": "creategoggles-1.20.1-6.1.0-[FORGE].jar",
-        "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/IojDxE9e/creategoggles-1.20.1-6.1.0-%5BFORGE%5D.jar",
-        "sha512": "7f5e3bdb54cb833d1566c29d3659bfa555c288db1a6e6507d26f129eab7f5edcf8ddabff13862eb06bd0342b7bea0ada72b53a0e547aa68e0df1d0f1f802e64e"
+        "name": "creategoggles-1.20.1-6.1.1-[FORGE].jar",
+        "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/Nc2Ag5HT/creategoggles-1.20.1-6.1.1-%5BFORGE%5D.jar",
+        "sha512": "29d509b747c502704e8a3c43dba921a3499d4eb6500d57d06f70a8da2e1e12804dafce4da5c2ce297f37f1d62d6900cb3b6dbec52b651b88420755ae9c76c848"
+      },
+      "6_1_1": {
+        "name": "creategoggles-1.20.1-6.1.1-[FORGE].jar",
+        "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/Nc2Ag5HT/creategoggles-1.20.1-6.1.1-%5BFORGE%5D.jar",
+        "sha512": "29d509b747c502704e8a3c43dba921a3499d4eb6500d57d06f70a8da2e1e12804dafce4da5c2ce297f37f1d62d6900cb3b6dbec52b651b88420755ae9c76c848"
       },
       "6_1_0": {
         "name": "creategoggles-1.20.1-6.1.0-[FORGE].jar",
@@ -144,9 +149,14 @@
   "fabric": {
     "1_20_1": {
       "latest": {
-        "name": "creategoggles-1.20.1-0.5.6-[FABRIC].jar",
-        "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/tOvw9ccm/creategoggles-1.20.1-0.5.6-%5BFABRIC%5D.jar",
-        "sha512": "1949f0d2a0fc43f242fc0200c1fc99d407ce668c4bc1da3f1a4dba06a38b4177004d0d17ca3e234cdd1cdaf154c3721a7ac3207d9724ad7fac4947933ba0aa97"
+        "name": "creategoggles-1.20.1-6.1.1-[FABRIC].jar",
+        "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/mAoR5nwZ/creategoggles-1.20.1-6.1.1-%5BFABRIC%5D.jar",
+        "sha512": "89d5c011a173370cd7fa5917adb23e384c1175d54ff417023a9059cc7a028340aebf4786524a8a86760451c4f4a5dea06e27be121de9a92c1f2cecf230ce2361"
+      },
+      "6_1_1": {
+        "name": "creategoggles-1.20.1-6.1.1-[FABRIC].jar",
+        "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/mAoR5nwZ/creategoggles-1.20.1-6.1.1-%5BFABRIC%5D.jar",
+        "sha512": "89d5c011a173370cd7fa5917adb23e384c1175d54ff417023a9059cc7a028340aebf4786524a8a86760451c4f4a5dea06e27be121de9a92c1f2cecf230ce2361"
       },
       "0_5_6": {
         "name": "creategoggles-1.20.1-0.5.6-[FABRIC].jar",
