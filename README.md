@@ -4,6 +4,10 @@ SPDX-FileCopyrightText: 2025 Hana Kretzer <hanakretzer@gmail.com>
 SPDX-License-Identifier: CC0-1.0
 -->
 
+> [!WARNING]  
+> I no longer maintain this repository since I personally don't have the
+> motivation to keep it updated properly. Packages will be outdated.
+
 # Nanopkgs
 
 Nightly package updates and non-merged nixpkgs PRs for software I use.
